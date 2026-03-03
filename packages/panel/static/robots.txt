@@ -1,4 +1,10 @@
-# allow crawling everything by default
 User-agent: *
-Disallow:
+Allow: /en
+Allow: /zh
+Disallow: /geosite
+Disallow: /geosite/
+Disallow: /geosite-srs
+Disallow: /geosite-srs/
+Disallow: /geosite-mrs
+Disallow: /geosite-mrs/
 Sitemap: https://surge.bojin.co/sitemap.xml
