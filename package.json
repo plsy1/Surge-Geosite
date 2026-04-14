@@ -19,8 +19,8 @@
     "worker:r2:create": "pnpm --filter @surge-geosite/worker exec wrangler r2 bucket create surge-geosite"
   },
   "devDependencies": {
-    "@types/node": "^22.13.4",
-    "typescript": "^5.7.3",
-    "vitest": "^3.0.5"
+    "@types/node": "^25.6.0",
+    "typescript": "^6.0.2",
+    "vitest": "^4.1.4"
   }
 }
