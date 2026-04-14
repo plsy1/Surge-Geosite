@@ -49,6 +49,8 @@
 
 	let loadToken = 0;
 	let lastQueryKey = '';
+	let serverDataVersion = 0;
+	let lastHydratedServerDataVersion = 0;
 	let manualDebounceTimer: ReturnType<typeof setTimeout> | null = null;
 	let copiedLinkKey: string | null = null;
 	let copiedQuickLinkTimer: ReturnType<typeof setTimeout> | null = null;
@@ -81,6 +83,7 @@
 		isIndexHydrating = false;
 		initError = next.initError ?? null;
 		lastQueryKey = selected ? `${selected}|${mode}|` : '';
+		serverDataVersion += 1;
 	}
 
 	applyServerData(data);
@@ -168,6 +171,19 @@
 		}
 	} else {
 		rawLink = '#';
+	}
+
+	$: if (
+		browser &&
+		serverDataVersion > 0 &&
+		serverDataVersion !== lastHydratedServerDataVersion &&
+		!isIndexLoading &&
+		!initError &&
+		names.length > 0 &&
+		!hasFullIndex
+	) {
+		lastHydratedServerDataVersion = serverDataVersion;
+		void hydrateFullIndexIfNeeded();
 	}
 
 	function resetMeta() {
