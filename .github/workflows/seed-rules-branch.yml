@@ -1,0 +1,42 @@
+name: Seed Rules Branch from R2
+
+on:
+  workflow_dispatch: # 仅手动触发，用完可以删掉这个文件
+
+jobs:
+  seed:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout source
+        uses: actions/checkout@v4
+
+      - name: Download all files from R2 into ./out
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+        run: |
+          mkdir -p ./out
+          aws s3 sync s3://${{ secrets.R2_BUCKET_NAME }} ./out \
+            --endpoint-url https://${{ secrets.R2_ACCOUNT_ID }}.r2.cloudflarestorage.com \
+            --region auto \
+            --no-progress
+
+          echo "Downloaded $(find ./out -type f | wc -l) files"
+
+      - name: Push to rules branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          cd ./out
+          git init
+          git remote add origin "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git"
+          git checkout -b rules
+          git add -A
+          git commit -m "chore: seed rules branch from R2 $(date -u '+%Y-%m-%dT%H:%M:%SZ')"
+          git push origin rules --force
+
+          echo "Done. rules branch is now seeded."
