@@ -2,16 +2,27 @@ name: Update Geosite Rules
 
 on:
   schedule:
-    - cron: '0 */12 * * *' # 每 12 小时执行一次
-  workflow_dispatch: # 支持手动触发
+    - cron: '0 */12 * * *'
+  workflow_dispatch:
 
 jobs:
   build-and-sync:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
-      - name: Checkout Repository
+      - name: Checkout source
         uses: actions/checkout@v4
+
+      - name: Checkout previous rules output
+        run: |
+          git fetch origin rules 2>/dev/null || true
+          if git rev-parse --verify origin/rules >/dev/null 2>&1; then
+            git worktree add ./prev-out origin/rules
+          else
+            mkdir -p ./prev-out
+          fi
 
       - name: Install pnpm
         uses: pnpm/action-setup@v4
@@ -38,14 +49,78 @@ jobs:
 
       - name: Compile All Rules
         run: |
-          node ./packages/cli/dist/index.js build --data-dir ./domain-list-community/data --out-dir ./out
+          node ./packages/cli/dist/index.js build \
+            --data-dir ./domain-list-community/data \
+            --out-dir ./out
 
-      - name: Sync Compile Output to Cloudflare R2
+      - name: Diff and upload changed files to R2
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+          R2_BUCKET_NAME: ${{ secrets.R2_BUCKET_NAME }}
+          R2_ACCOUNT_ID: ${{ secrets.R2_ACCOUNT_ID }}
         run: |
-          aws s3 sync ./out s3://${{ secrets.R2_BUCKET_NAME }} \
-            --endpoint-url https://${{ secrets.R2_ACCOUNT_ID }}.r2.cloudflarestorage.com \
-            --region auto \
-            --no-progress
+          python3 << 'EOF'
+          import filecmp, os, subprocess, sys
+
+          PREV    = './prev-out'
+          NEW     = './out'
+          BUCKET   = os.environ['R2_BUCKET_NAME']
+          ENDPOINT = f"https://{os.environ['R2_ACCOUNT_ID']}.r2.cloudflarestorage.com"
+
+          def all_files(d):
+              result = set()
+              for root, _, files in os.walk(d):
+                  for f in files:
+                      result.add(os.path.relpath(os.path.join(root, f), d))
+              return result
+
+          prev_files = all_files(PREV)
+          new_files  = all_files(NEW)
+
+          to_upload = []
+          to_delete = list(prev_files - new_files)
+
+          # New files
+          for f in new_files - prev_files:
+              to_upload.append(f)
+
+          # Modified files (compare by content, not mtime)
+          for f in new_files & prev_files:
+              if not filecmp.cmp(os.path.join(PREV, f), os.path.join(NEW, f), shallow=False):
+                  to_upload.append(f)
+
+          print(f"Upload: {len(to_upload)} files, Delete: {len(to_delete)} files")
+
+          for f in to_upload:
+              print(f"  + {f}")
+              subprocess.run([
+                  'aws', 's3', 'cp', os.path.join(NEW, f),
+                  f's3://{BUCKET}/{f}',
+                  '--endpoint-url', ENDPOINT, '--region', 'auto', '--no-progress'
+              ], check=True)
+
+          for f in to_delete:
+              print(f"  - {f}")
+              subprocess.run([
+                  'aws', 's3', 'rm', f's3://{BUCKET}/{f}',
+                  '--endpoint-url', ENDPOINT, '--region', 'auto'
+              ], check=True)
+
+          print("Done.")
+          EOF
+
+      - name: Push output to rules branch
+        run: |
+          git worktree remove ./prev-out --force 2>/dev/null || true
+
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          cd ./out
+          git init
+          git remote add origin "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git"
+          git checkout -b rules
+          git add -A
+          git commit -m "chore: update rules $(date -u '+%Y-%m-%dT%H:%M:%SZ')"
+          git push origin rules --force
