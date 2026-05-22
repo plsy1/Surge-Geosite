@@ -1,0 +1,53 @@
+name: Update Geosite Rules
+
+on:
+  schedule:
+    - cron: '0 */12 * * *' # 每 12 小时执行一次
+  workflow_dispatch: # 支持手动触发
+
+jobs:
+  build-and-sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Install pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          version: 10
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: 'pnpm'
+
+      - name: Install Dependencies
+        run: pnpm install --frozen-lockfile
+
+      - name: Build CLI and Core
+        run: pnpm run build
+
+      - name: Download Upstream Geosite Data
+        run: |
+          curl -L -o release.zip https://github.com/plsy1/v2ray-rules-dat/archive/refs/heads/release.zip
+          unzip release.zip -d temp_extracted
+          mkdir -p ./domain-list-community
+          mv temp_extracted/*/data ./domain-list-community/
+          rm -rf release.zip temp_extracted
+
+      - name: Compile All Rules
+        run: |
+          node ./packages/cli/dist/index.js build --data-dir ./domain-list-community/data --out-dir ./out
+
+      - name: Sync Compile Output to Cloudflare R2
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+        run: |
+          aws s3 sync ./out s3://${{ secrets.R2_BUCKET_NAME }} \
+            --endpoint-url https://${{ secrets.R2_ACCOUNT_ID }}.r2.cloudflarestorage.com \
+            --region auto \
+            --no-progress

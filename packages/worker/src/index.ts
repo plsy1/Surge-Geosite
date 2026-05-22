@@ -1,32 +1,18 @@
 import {
-  emitSurgeRuleset,
-  parseListText,
-  resolveAllLists,
-  type DomainRule,
-  type RegexMode,
-  type ResolvedList,
-  type SourceEntry
+  type RegexMode
 } from "@surge-geosite/core";
-import { unzipSync, strFromU8 } from "fflate";
 
-const DEFAULT_UPSTREAM_ZIP_URL = "https://github.com/plsy1/v2ray-rules-dat/archive/refs/heads/release.zip";
-const DEFAULT_UPSTREAM_USER_AGENT = "surge-geosite-worker/2";
+// 缓存相关的常量
 const DEFAULT_SRS_UPSTREAM_BASE_URL = "https://raw.githubusercontent.com/SagerNet/sing-geosite/rule-set";
 const DEFAULT_SRS_UPSTREAM_USER_AGENT = "surge-geosite-worker/2";
 const DEFAULT_SRS_CACHE_TTL_SECONDS = 86400;
 const DEFAULT_MRS_UPSTREAM_BASE_URL = "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite";
 const DEFAULT_MRS_UPSTREAM_USER_AGENT = "surge-geosite-worker/2";
 const DEFAULT_MRS_CACHE_TTL_SECONDS = 86400;
-const LATEST_STATE_KEY = "state/latest.json";
-const SNAPSHOT_CACHE_LIMIT = 2;
-const RESOLVED_CACHE_LIMIT = 2;
 
 const VALID_LIST_NAME = /^[a-z0-9!-]+$/;
 const VALID_ATTR_NAME = /^[a-z0-9!-]+$/;
 
-const snapshotCache = new Map<string, Promise<SnapshotPayload>>();
-const resolvedCache = new Map<string, Promise<Record<string, ResolvedList>>>();
-const artifactBuildLocks = new Map<string, Promise<ArtifactBuildResult>>();
 const remoteBinaryCacheLocks = new Map<string, Promise<ReadThroughRemoteBinaryResult>>();
 
 export interface R2ObjectBodyLike {
@@ -38,6 +24,7 @@ export interface R2PutOptionsLike {
   httpMetadata?: {
     contentType?: string;
     cacheControl?: string;
+    etag?: string;
   };
 }
 
@@ -54,8 +41,6 @@ export interface AssetsBindingLike {
 export interface WorkerEnv {
   GEOSITE_BUCKET: R2BucketLike;
   ASSETS?: AssetsBindingLike;
-  UPSTREAM_ZIP_URL?: string;
-  UPSTREAM_USER_AGENT?: string;
   SRS_UPSTREAM_BASE_URL?: string;
   SRS_UPSTREAM_USER_AGENT?: string;
   SRS_CACHE_TTL_SECONDS?: string;
@@ -76,52 +61,6 @@ export interface ExecutionContextLike {
 interface WorkerDeps {
   now?: () => number;
   fetchImpl?: typeof fetch;
-}
-
-interface LatestState {
-  upstream: {
-    zipUrl: string;
-    etag: string;
-  };
-  snapshot: {
-    sourceKey: string;
-    indexKey: string;
-    listCount: number;
-    generatedAt: string;
-  };
-  previousEtag: string | null;
-  checkedAt: string;
-}
-
-interface SnapshotPayload {
-  version: 1;
-  etag: string;
-  zipUrl: string;
-  generatedAt: string;
-  lists: Record<string, string>;
-}
-
-interface GeositeIndexEntry {
-  name: string;
-  sourceFile: string;
-  filters: string[];
-  modes: Record<RegexMode, string>;
-}
-
-type GeositeIndex = Record<string, GeositeIndexEntry>;
-
-interface RefreshResult {
-  updated: boolean;
-  reason: "etag-unchanged" | "etag-updated";
-  checkedAt: string;
-  etag: string;
-  listCount: number;
-}
-
-interface ArtifactBuildResult {
-  listFound: boolean;
-  output: string;
-  availableFilters: string[];
 }
 
 interface RemoteBinaryCacheMeta {
@@ -171,150 +110,8 @@ export function createWorker(deps: WorkerDeps = {}): {
     },
 
     async scheduled(_event: ScheduledEventLike, env: WorkerEnv, _ctx: ExecutionContextLike): Promise<void> {
-      await refreshGeositeRun(env, { now, fetchImpl });
+      // 定时同步任务已迁移到 GitHub Actions
     }
-  };
-}
-
-export async function refreshGeositeRun(env: WorkerEnv, deps: WorkerDeps = {}): Promise<RefreshResult> {
-  const now = deps.now ?? (() => Date.now());
-  const fetchImpl = resolveFetchImpl(deps.fetchImpl);
-  const checkedAt = new Date(now()).toISOString();
-  const zipUrl = env.UPSTREAM_ZIP_URL ?? DEFAULT_UPSTREAM_ZIP_URL;
-  const userAgent = env.UPSTREAM_USER_AGENT ?? DEFAULT_UPSTREAM_USER_AGENT;
-
-  const current = await readJson<LatestState>(env.GEOSITE_BUCKET, LATEST_STATE_KEY);
-
-  const headResponse = await fetchImpl(zipUrl, {
-    method: "HEAD",
-    headers: {
-      "user-agent": userAgent
-    }
-  });
-  if (!headResponse.ok) {
-    throw new Error(`failed to check upstream zip: ${headResponse.status} ${headResponse.statusText}`);
-  }
-
-  const observedHeadEtag = normalizeEtag(headResponse.headers.get("etag"));
-  const expectedSourceKey = observedHeadEtag ? snapshotSourceKey(observedHeadEtag) : "";
-  const sourceExists = expectedSourceKey ? await env.GEOSITE_BUCKET.get(expectedSourceKey) : null;
-
-  if (observedHeadEtag && current?.upstream.etag === observedHeadEtag && sourceExists) {
-    const unchangedState: LatestState = {
-      ...current,
-      checkedAt
-    };
-    await writeJson(env.GEOSITE_BUCKET, LATEST_STATE_KEY, unchangedState);
-
-    return {
-      updated: false,
-      reason: "etag-unchanged",
-      checkedAt,
-      etag: observedHeadEtag,
-      listCount: current.snapshot.listCount
-    };
-  }
-
-  const downloadResponse = await fetchImpl(zipUrl, {
-    headers: {
-      "user-agent": userAgent
-    }
-  });
-  if (!downloadResponse.ok) {
-    throw new Error(`failed to download upstream zip: ${downloadResponse.status} ${downloadResponse.statusText}`);
-  }
-
-  const zipBytes = new Uint8Array(await downloadResponse.arrayBuffer());
-  const downloadedEtag = normalizeEtag(downloadResponse.headers.get("etag"));
-  const computedEtag = downloadedEtag ?? observedHeadEtag ?? (await sha256Hex(zipBytes));
-
-  const computedSourceKey = snapshotSourceKey(computedEtag);
-  const computedSourceExists = await env.GEOSITE_BUCKET.get(computedSourceKey);
-
-  if (current?.upstream.etag === computedEtag && computedSourceExists) {
-    const unchangedState: LatestState = {
-      ...current,
-      checkedAt
-    };
-    await writeJson(env.GEOSITE_BUCKET, LATEST_STATE_KEY, unchangedState);
-
-    return {
-      updated: false,
-      reason: "etag-unchanged",
-      checkedAt,
-      etag: computedEtag,
-      listCount: current.snapshot.listCount
-    };
-  }
-
-  const listNames: string[] = [];
-  unzipSync(zipBytes, {
-    filter(file) {
-      const match = /\/data\/([^/]+)$/.exec(file.name);
-      if (match) {
-        const listName = match[1]!.toLowerCase();
-        if (VALID_LIST_NAME.test(listName)) {
-          listNames.push(listName);
-        }
-      }
-      return false; // Do not decompress file contents!
-    }
-  });
-
-  const listCount = listNames.length;
-  if (listCount === 0) {
-    throw new Error("no geosite data files found in upstream zip");
-  }
-
-  const generatedAt = new Date(now()).toISOString();
-  const sourceKey = snapshotSourceKey(computedEtag);
-  const indexKey = snapshotIndexKey(computedEtag);
-
-  const index = buildIndexFromSources(listNames);
-
-  await writeBinary(env.GEOSITE_BUCKET, sourceKey, zipBytes, {
-    contentType: "application/zip",
-    cacheControl: "public, max-age=31536000, immutable"
-  });
-  await writeJson(env.GEOSITE_BUCKET, indexKey, index);
-
-  const nextState: LatestState = {
-    upstream: {
-      zipUrl,
-      etag: computedEtag
-    },
-    snapshot: {
-      sourceKey,
-      indexKey,
-      listCount,
-      generatedAt
-    },
-    previousEtag: current?.upstream.etag ?? null,
-    checkedAt
-  };
-
-  const latestBeforeWrite = await readJson<LatestState>(env.GEOSITE_BUCKET, LATEST_STATE_KEY);
-  if (latestBeforeWrite && latestBeforeWrite.upstream.etag !== current?.upstream.etag) {
-    return {
-      updated: false,
-      reason: "etag-unchanged",
-      checkedAt,
-      etag: latestBeforeWrite.upstream.etag,
-      listCount: latestBeforeWrite.snapshot.listCount
-    };
-  }
-
-  await writeJson(env.GEOSITE_BUCKET, LATEST_STATE_KEY, nextState);
-
-  snapshotCache.clear();
-  resolvedCache.clear();
-
-  return {
-    updated: true,
-    reason: "etag-updated",
-    checkedAt,
-    etag: computedEtag,
-    listCount
   };
 }
 
@@ -338,12 +135,11 @@ async function handleFetch(
   const path = url.pathname;
 
   if (path === "/geosite") {
-    return handleGeositeIndex(request, env, ctx);
+    return handleGeositeIndex(request, env);
   }
 
   if (path === "/test-scheduled") {
-    const result = await refreshGeositeRun(env, deps);
-    return json(200, result);
+    return json(200, { ok: true, message: "Scheduled tasks are migrated to GitHub Actions." });
   }
 
   if (path === "/geosite-srs") {
@@ -391,7 +187,7 @@ async function handleFetch(
   let nameWithFilter: string;
 
   if (segments.length >= 2 && isRegexMode(segments[0]!)) {
-    mode = segments[0]!;
+    mode = segments[0] as RegexMode;
     const decoded = safeDecodeURIComponent(segments.slice(1).join("/"));
     if (decoded === null) {
       return text(400, "invalid path encoding");
@@ -405,9 +201,73 @@ async function handleFetch(
     nameWithFilter = decoded;
   }
 
-  return handleGeositeRules(request, mode, nameWithFilter, env, ctx);
+  return handleGeositeRules(request, mode, nameWithFilter, env);
 }
 
+async function handleGeositeIndex(request: Request, env: WorkerEnv): Promise<Response> {
+  const key = "index/geosite.json";
+  const object = await env.GEOSITE_BUCKET.get(key);
+  if (!object) {
+    return json(503, { ok: false, error: "geosite data not ready" });
+  }
+
+  const etag = (object as any).httpMetadata?.etag ?? (object as any).etag ?? `"${key}"`;
+  const headers: Record<string, string> = {
+    "content-type": "application/json; charset=utf-8",
+    "cache-control": "public, max-age=300, s-maxage=600, stale-while-revalidate=900",
+    etag: etag
+  };
+
+  if (matchesIfNoneMatch(request.headers.get("if-none-match"), etag)) {
+    return notModified(headers);
+  }
+
+  const body = await object.arrayBuffer();
+  return new Response(body, {
+    status: 200,
+    headers
+  });
+}
+
+async function handleGeositeRules(
+  request: Request,
+  mode: RegexMode,
+  nameWithFilter: string,
+  env: WorkerEnv
+): Promise<Response> {
+  const { name, filter } = splitNameFilter(nameWithFilter);
+  if (!isValidListName(name) || (filter !== null && !isValidAttr(filter))) {
+    return text(400, "invalid name");
+  }
+
+  const key = `rules/${mode}/${nameWithFilter.toLowerCase()}.txt`;
+  const object = await env.GEOSITE_BUCKET.get(key);
+  if (!object) {
+    return text(404, `list not found: ${nameWithFilter}`);
+  }
+
+  const etag = (object as any).httpMetadata?.etag ?? (object as any).etag ?? `"${key}"`;
+  const headers = {
+    "content-type": "text/plain; charset=utf-8",
+    "cache-control": "public, max-age=300, s-maxage=1800, stale-while-revalidate=86400",
+    etag: etag,
+    "x-mode": mode,
+    "x-list": name.toLowerCase(),
+    ...(filter ? { "x-filter": filter } : {})
+  };
+
+  if (matchesIfNoneMatch(request.headers.get("if-none-match"), etag)) {
+    return notModified(headers);
+  }
+
+  const body = await object.arrayBuffer();
+  return new Response(body, {
+    status: 200,
+    headers
+  });
+}
+
+// 代理 SRS / MRS 相关逻辑（保持原样）
 async function handleGeositeSrs(
   request: Request,
   listNameRaw: string,
@@ -504,126 +364,7 @@ async function handleGeositeMrs(
   });
 }
 
-async function handleGeositeIndex(request: Request, env: WorkerEnv, ctx: ExecutionContextLike): Promise<Response> {
-  const latest = await ensureLatestState(env);
-  if (!latest) {
-    return json(503, { ok: false, error: "geosite data not ready" });
-  }
-
-  const indexEtag = buildIndexEtag(latest.upstream.etag);
-  const indexHeaders = {
-    "cache-control": "public, max-age=60, s-maxage=300, stale-while-revalidate=900",
-    etag: indexEtag,
-    "x-upstream-etag": latest.upstream.etag,
-    "x-generated-at": latest.snapshot.generatedAt,
-    "x-checked-at": latest.checkedAt
-  };
-
-  if (matchesIfNoneMatch(request.headers.get("if-none-match"), indexEtag)) {
-    return notModified(indexHeaders);
-  }
-
-  const index = await readJson<GeositeIndex>(env.GEOSITE_BUCKET, latest.snapshot.indexKey);
-  if (index) {
-    return json(200, index, indexHeaders);
-  }
-
-  const sourceObject = await env.GEOSITE_BUCKET.get(latest.snapshot.sourceKey);
-  if (!sourceObject) {
-    throw new Error(`snapshot zip not found: ${latest.snapshot.sourceKey}`);
-  }
-  const zipBytes = new Uint8Array(await sourceObject.arrayBuffer());
-  const listNames: string[] = [];
-  unzipSync(zipBytes, {
-    filter(file) {
-      const match = /\/data\/([^/]+)$/.exec(file.name);
-      if (match) {
-        const listName = match[1]!.toLowerCase();
-        if (VALID_LIST_NAME.test(listName)) {
-          listNames.push(listName);
-        }
-      }
-      return false; // Do not decompress file contents!
-    }
-  });
-
-  const builtIndex = buildIndexFromSources(listNames);
-  ctx.waitUntil(writeJson(env.GEOSITE_BUCKET, latest.snapshot.indexKey, builtIndex));
-
-  return json(200, builtIndex, indexHeaders);
-}
-
-async function handleGeositeRules(
-  request: Request,
-  mode: RegexMode,
-  nameWithFilter: string,
-  env: WorkerEnv,
-  ctx: ExecutionContextLike
-): Promise<Response> {
-  const { name, filter } = splitNameFilter(nameWithFilter);
-  if (!isValidListName(name) || (filter !== null && !isValidAttr(filter))) {
-    return text(400, "invalid name");
-  }
-
-  const latest = await ensureLatestState(env);
-  if (!latest) {
-    return text(503, "geosite data not ready");
-  }
-
-  const latestKey = artifactKey(latest.upstream.etag, mode, name, filter);
-  const latestArtifact = await readText(env.GEOSITE_BUCKET, latestKey);
-  if (latestArtifact !== null) {
-    const responseEtag = buildRulesEtag(latest.upstream.etag, mode, name, filter);
-    const headers = responseHeaders(latest.upstream.etag, mode, name, filter, false);
-    if (matchesIfNoneMatch(request.headers.get("if-none-match"), responseEtag)) {
-      return notModified(headers);
-    }
-    return text(200, latestArtifact, headers);
-  }
-
-  const index = await readJson<GeositeIndex>(env.GEOSITE_BUCKET, latest.snapshot.indexKey);
-  if (index && !index[name]) {
-    return text(404, `list not found: ${name}`);
-  }
-
-  const compilePromise = ensureArtifactForLatest(env, latest, mode, name, filter);
-
-  if (!filter && latest.previousEtag && index && index[name]) {
-    const staleKey = artifactKey(latest.previousEtag, mode, name, filter);
-    const staleArtifact = await readText(env.GEOSITE_BUCKET, staleKey);
-    if (staleArtifact !== null) {
-      const responseEtag = buildRulesEtag(latest.previousEtag, mode, name, filter);
-      const headers = responseHeaders(latest.previousEtag, mode, name, filter, true);
-      ctx.waitUntil(
-        compilePromise
-          .then((result) => maybeEnrichIndexFilters(env, latest, name, result.availableFilters))
-          .catch(() => undefined)
-      );
-
-      if (matchesIfNoneMatch(request.headers.get("if-none-match"), responseEtag)) {
-        return notModified(headers);
-      }
-      return text(200, staleArtifact, headers);
-    }
-  }
-
-  const build = await compilePromise;
-  if (!build.listFound) {
-    return text(404, `list not found: ${name}`);
-  }
-
-  if (build.availableFilters.length > 0) {
-    ctx.waitUntil(maybeEnrichIndexFilters(env, latest, name, build.availableFilters));
-  }
-
-  const responseEtag = buildRulesEtag(latest.upstream.etag, mode, name, filter);
-  const headers = responseHeaders(latest.upstream.etag, mode, name, filter, false);
-  if (matchesIfNoneMatch(request.headers.get("if-none-match"), responseEtag)) {
-    return notModified(headers);
-  }
-  return text(200, build.output, headers);
-}
-
+// 辅助方法
 function splitNameFilter(input: string): { name: string; filter: string | null } {
   const normalized = input.trim().toLowerCase();
   const at = normalized.indexOf("@");
@@ -636,28 +377,6 @@ function splitNameFilter(input: string): { name: string; filter: string | null }
   return {
     name,
     filter: filter.length === 0 ? null : filter
-  };
-}
-
-function responseHeaders(
-  etag: string,
-  mode: RegexMode,
-  name: string,
-  filter: string | null,
-  stale: boolean
-): Record<string, string> {
-  const responseEtag = buildRulesEtag(etag, mode, name, filter);
-  return {
-    "content-type": "text/plain; charset=utf-8",
-    "cache-control": stale
-      ? "public, max-age=60, s-maxage=120, stale-while-revalidate=900"
-      : "public, max-age=300, s-maxage=1800, stale-while-revalidate=86400",
-    etag: responseEtag,
-    "x-upstream-etag": etag,
-    "x-mode": mode,
-    "x-list": name.toLowerCase(),
-    ...(filter ? { "x-filter": filter } : {}),
-    ...(stale ? { "x-stale": "1" } : {})
   };
 }
 
@@ -852,14 +571,6 @@ async function revalidateRemoteBinaryFromUpstream(
   }
 }
 
-function buildIndexEtag(upstreamEtag: string): string {
-  return `"${upstreamEtag}-index"`;
-}
-
-function buildRulesEtag(upstreamEtag: string, mode: RegexMode, name: string, filter: string | null): string {
-  return `"${upstreamEtag}:${mode}:${name.toLowerCase()}${filter ? `@${filter}` : ""}"`;
-}
-
 function matchesIfNoneMatch(ifNoneMatch: string | null, etag: string): boolean {
   if (!ifNoneMatch) {
     return false;
@@ -882,243 +593,6 @@ function notModified(headers: Record<string, string>): Response {
     status: 304,
     headers: nextHeaders
   });
-}
-
-async function ensureArtifactForLatest(
-  env: WorkerEnv,
-  latest: LatestState,
-  mode: RegexMode,
-  name: string,
-  filter: string | null
-): Promise<ArtifactBuildResult> {
-  const lockKey = `${latest.upstream.etag}:${mode}:${artifactName(name, filter)}`;
-  const existingLock = artifactBuildLocks.get(lockKey);
-  if (existingLock) {
-    return existingLock;
-  }
-
-  const lock = (async () => {
-    const outputKey = artifactKey(latest.upstream.etag, mode, name, filter);
-    const existing = await readText(env.GEOSITE_BUCKET, outputKey);
-    if (existing !== null) {
-      return {
-        listFound: true,
-        output: existing,
-        availableFilters: []
-      };
-    }
-
-    const target = await loadResolvedListForName(env, latest, name);
-    if (!target) {
-      return {
-        listFound: false,
-        output: "",
-        availableFilters: []
-      };
-    }
-
-    const availableFilters = collectFilters(target.entries);
-    if (filter && !availableFilters.includes(filter)) {
-      return {
-        listFound: true,
-        output: "",
-        availableFilters
-      };
-    }
-
-    const entries = filter ? target.entries.filter((entry) => entry.attrs.includes(filter)) : target.entries;
-
-    const emitted = emitSurgeRuleset(
-      {
-        name: target.name,
-        entries
-      },
-      {
-        regexMode: mode,
-        onUnsupportedRegex: "skip"
-      }
-    );
-
-    const output = emitted.text.length > 0 ? `${emitted.text}\n` : "";
-    await writeText(env.GEOSITE_BUCKET, outputKey, output, {
-      cacheControl: "public, max-age=31536000, immutable"
-    });
-    return {
-      listFound: true,
-      output,
-      availableFilters
-    };
-  })().finally(() => {
-    artifactBuildLocks.delete(lockKey);
-  });
-
-  artifactBuildLocks.set(lockKey, lock);
-  return lock;
-}
-
-async function loadResolvedListForName(
-  env: WorkerEnv,
-  latest: LatestState,
-  targetName: string
-): Promise<ResolvedList | null> {
-  const sourceObject = await env.GEOSITE_BUCKET.get(latest.snapshot.sourceKey);
-  if (!sourceObject) {
-    throw new Error(`snapshot zip not found: ${latest.snapshot.sourceKey}`);
-  }
-
-  const zipBytes = new Uint8Array(await sourceObject.arrayBuffer());
-  const parsed: Record<string, SourceEntry[]> = {};
-  const pendingNames = new Set<string>([targetName.toUpperCase()]);
-  const processedNames = new Set<string>();
-
-  while (pendingNames.size > 0) {
-    const namesToFetch = Array.from(pendingNames);
-    pendingNames.clear();
-
-    for (const name of namesToFetch) {
-      processedNames.add(name);
-    }
-
-    const unzipped = unzipSync(zipBytes, {
-      filter(file) {
-        const match = /\/data\/([^/]+)$/.exec(file.name);
-        if (match) {
-          const listName = match[1]!.toUpperCase();
-          return namesToFetch.includes(listName);
-        }
-        return false;
-      }
-    });
-
-    for (const [filePath, contentBytes] of Object.entries(unzipped)) {
-      const match = /\/data\/([^/]+)$/.exec(filePath);
-      if (!match) continue;
-      const listName = match[1]!.toUpperCase();
-      const textContent = strFromU8(contentBytes);
-      const entries = parseListText(listName, textContent);
-      parsed[listName] = entries;
-
-      for (const entry of entries) {
-        if (entry.type === "include") {
-          const incName = entry.sourceList.toUpperCase();
-          if (!processedNames.has(incName)) {
-            pendingNames.add(incName);
-          }
-        }
-      }
-    }
-  }
-
-  if (!parsed[targetName.toUpperCase()]) {
-    return null;
-  }
-
-  const resolved = resolveAllLists(parsed);
-  return resolved[targetName.toUpperCase()] ?? null;
-}
-
-async function ensureLatestState(env: WorkerEnv): Promise<LatestState | null> {
-  return readJson<LatestState>(env.GEOSITE_BUCKET, LATEST_STATE_KEY);
-}
-
-async function maybeEnrichIndexFilters(
-  env: WorkerEnv,
-  latest: LatestState,
-  listName: string,
-  filters: string[]
-): Promise<void> {
-  if (filters.length === 0) {
-    return;
-  }
-
-  const normalizedFilters = [...new Set(filters)].sort();
-  const index = await readJson<GeositeIndex>(env.GEOSITE_BUCKET, latest.snapshot.indexKey);
-  if (!index) {
-    return;
-  }
-
-  const lookupName = listName.toLowerCase();
-  const current = index[lookupName];
-  if (!current) {
-    return;
-  }
-
-  if (isSameStringArray(current.filters, normalizedFilters)) {
-    return;
-  }
-
-  const nextIndex: GeositeIndex = {
-    ...index,
-    [lookupName]: {
-      ...current,
-      filters: normalizedFilters
-    }
-  };
-
-  await writeJson(env.GEOSITE_BUCKET, latest.snapshot.indexKey, nextIndex);
-}
-
-function buildIndexFromSources(listNames: string[]): GeositeIndex {
-  const sortedNames = [...listNames].sort();
-  const index: GeositeIndex = {};
-
-  for (const listName of sortedNames) {
-    index[listName] = {
-      name: listName.toUpperCase(),
-      sourceFile: listName,
-      filters: [],
-      modes: {
-        strict: `rules/strict/${listName}.txt`,
-        balanced: `rules/balanced/${listName}.txt`,
-        full: `rules/full/${listName}.txt`
-      }
-    };
-  }
-
-  return index;
-}
-
-function collectFilters(entries: DomainRule[]): string[] {
-  const attrs = new Set<string>();
-
-  for (const entry of entries) {
-    for (const attr of entry.attrs) {
-      attrs.add(attr);
-    }
-  }
-
-  return Array.from(attrs).sort();
-}
-
-function normalizeEtag(raw: string | null): string | null {
-  if (!raw) {
-    return null;
-  }
-  return raw.replace(/^W\//, "").replace(/^"/, "").replace(/"$/, "").trim() || null;
-}
-
-async function sha256Hex(input: Uint8Array): Promise<string> {
-  const copied = Uint8Array.from(input);
-  const digest = await crypto.subtle.digest("SHA-256", copied.buffer);
-  return Array.from(new Uint8Array(digest))
-    .map((item) => item.toString(16).padStart(2, "0"))
-    .join("");
-}
-
-function artifactName(name: string, filter: string | null): string {
-  return filter ? `${name}@${filter}` : name;
-}
-
-function artifactKey(etag: string, mode: RegexMode, name: string, filter: string | null): string {
-  return `artifacts/${etag}/${mode}/${artifactName(name, filter)}.txt`;
-}
-
-function snapshotSourceKey(etag: string): string {
-  return `snapshots/${etag}/source.zip`;
-}
-
-function snapshotIndexKey(etag: string): string {
-  return `snapshots/${etag}/index/geosite.json`;
 }
 
 function remoteBlobKey(namespace: string, cacheKey: string): string {
@@ -1222,6 +696,7 @@ function asResponseBody(input: Uint8Array): BodyInit {
   return input as unknown as BodyInit;
 }
 
+// Check Regex Mode
 function isRegexMode(input: string): input is RegexMode {
   return input === "strict" || input === "balanced" || input === "full";
 }
@@ -1319,28 +794,19 @@ function resolveFetchImpl(input?: typeof fetch): typeof fetch {
   return (request: RequestInfo | URL, init?: RequestInit): Promise<Response> => fetch(request, init);
 }
 
-function pruneMap<T>(map: Map<string, T>, keep: number): void {
-  while (map.size > keep) {
-    const first = map.keys().next();
-    if (first.done) {
-      return;
-    }
-    map.delete(first.value);
-  }
+async function sha256Hex(input: Uint8Array): Promise<string> {
+  const copied = Uint8Array.from(input);
+  const digest = await crypto.subtle.digest("SHA-256", copied.buffer);
+  return Array.from(new Uint8Array(digest))
+    .map((item) => item.toString(16).padStart(2, "0"))
+    .join("");
 }
 
-function isSameStringArray(left: string[], right: string[]): boolean {
-  if (left.length !== right.length) {
-    return false;
+function normalizeEtag(raw: string | null): string | null {
+  if (!raw) {
+    return null;
   }
-
-  for (let index = 0; index < left.length; index += 1) {
-    if (left[index] !== right[index]) {
-      return false;
-    }
-  }
-
-  return true;
+  return raw.replace(/^W\//, "").replace(/^"/, "").replace(/"$/, "").trim() || null;
 }
 
 function json(status: number, body: unknown, headers: Record<string, string> = {}): Response {

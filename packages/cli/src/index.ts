@@ -104,6 +104,22 @@ async function runBuild(flags: Record<string, string | boolean>): Promise<number
       await writeFile(outputPath, `${emitted.text}\n`, "utf8");
     }
 
+    const filterAttrs = Object.keys(countFilterAttrs(resolvedList.entries));
+    for (const filter of filterAttrs) {
+      const filteredEntries = resolvedList.entries.filter((entry) => entry.attrs.includes(filter));
+      const emittedByModeFiltered = {
+        strict: emitSurgeRuleset({ name: resolvedList.name, entries: filteredEntries }, { regexMode: "strict" }),
+        balanced: emitSurgeRuleset({ name: resolvedList.name, entries: filteredEntries }, { regexMode: "balanced" }),
+        full: emitSurgeRuleset({ name: resolvedList.name, entries: filteredEntries }, { regexMode: "full" })
+      };
+      for (const mode of ALL_MODES) {
+        const emitted = emittedByModeFiltered[mode];
+        const outputPath = path.join(outDir, "rules", mode, `${listName.toLowerCase()}@${filter}.txt`);
+        await mkdir(path.dirname(outputPath), { recursive: true });
+        await writeFile(outputPath, `${emitted.text}\n`, "utf8");
+      }
+    }
+
     const resolvedPath = path.join(outDir, "resolved", `${listName.toLowerCase()}.json`);
     await writeFile(resolvedPath, `${JSON.stringify(resolvedList.entries, null, 2)}\n`, "utf8");
 

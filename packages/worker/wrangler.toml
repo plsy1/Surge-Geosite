@@ -22,8 +22,6 @@ MRS_UPSTREAM_BASE_URL = "https://raw.githubusercontent.com/MetaCubeX/meta-rules-
 MRS_UPSTREAM_USER_AGENT = "surge-geosite-worker/2"
 MRS_CACHE_TTL_SECONDS = "86400"
 
-[triggers]
-crons = ["*/5 * * * *"]
 
 [[r2_buckets]]
 binding = "GEOSITE_BUCKET"
