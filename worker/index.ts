@@ -57,7 +57,7 @@ const getZipETag = async (zipUrl: string): Promise<string | null> => {
 
 const fetchAndUnzip = async () => {
   const startTime = Date.now();
-  const zipUrl = `https://github.com/v2fly/domain-list-community/archive/refs/heads/master.zip`;
+  const zipUrl = `https://github.com/plsy1/v2ray-rules-dat/archive/refs/heads/release.zip`;
 
   // Get ZIP ETag for cache key, fallback to time-based caching
   const zipETag = await getZipETag(zipUrl);
@@ -106,7 +106,7 @@ const fetchAndUnzip = async () => {
 
 const getUpstream = async (cachedZip: JSZip, name: string) => {
   // Find the file inside the unzipped directory
-  const filePath = `domain-list-community-master/data/${name}`;
+  const filePath = `v2ray-rules-dat-release/data/${name}`;
   const fileContent = await cachedZip.file(filePath)?.async("text");
 
   if (!fileContent) {
@@ -222,7 +222,7 @@ app.get("/geosite/:name_with_filter", async (c) => {
 
   try {
     // Try to get ZIP ETag for precise caching
-    const zipUrl = `https://github.com/v2fly/domain-list-community/archive/refs/heads/master.zip`;
+    const zipUrl = `https://github.com/plsy1/v2ray-rules-dat/archive/refs/heads/release.zip`;
     const zipETag = await getZipETag(zipUrl);
     const cache = caches.default;
 
@@ -287,7 +287,7 @@ app.get("/geosite/:name_with_filter", async (c) => {
 
 app.get("/geosite", async (c) => {
   const githubRaw = await fetch(
-    "https://raw.githubusercontent.com/xxxbrian/Surge-Geosite/main/index.json"
+    "https://raw.githubusercontent.com/plsy1/Surge-Geosite/main/index.json"
   )
     .then((res) => {
       if (res.ok) {
