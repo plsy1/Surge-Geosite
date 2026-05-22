@@ -327,6 +327,11 @@ async function handleFetch(
     return handleGeositeIndex(request, env, ctx);
   }
 
+  if (path === "/test-scheduled") {
+    const result = await refreshGeositeRun(env, deps);
+    return json(200, result);
+  }
+
   if (path === "/geosite-srs") {
     return text(400, "missing list name");
   }
