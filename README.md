@@ -5,7 +5,7 @@
     English | <a href="./README.zh-CN.md">中文</a>
   </p>
   <p>
-    <a href="https://surge.bojin.co"><strong>Open Dashboard</strong></a>
+    <a href="https://surge.chisan1230.workers.dev"><strong>Open Dashboard</strong></a>
   </p>
 </div>
 
@@ -15,14 +15,14 @@
 
 ## Direct Use
 
-1. Open the dashboard: https://surge.bojin.co.
+1. Open the dashboard: https://surge.chisan1230.workers.dev.
 2. Search and select a dataset.
 3. Copy the generated raw URL.
 4. Paste it into your Surge rules.
 
 If you want to use rule URLs directly, the format is:
 
-- Rules path: `https://surge.bojin.co/geosite/:name_with_filter`
+- Rules path: `https://surge.chisan1230.workers.dev/geosite/:name_with_filter`
 
 `name_with_filter` has two forms:
 
@@ -35,8 +35,8 @@ Surge example:
 
 ```ini
 [Rule]
-RULE-SET,https://surge.bojin.co/geosite/apple@cn,DIRECT
-RULE-SET,https://surge.bojin.co/geosite/strict/category-ads-all,REJECT
+RULE-SET,https://surge.chisan1230.workers.dev/geosite/apple@cn,DIRECT
+RULE-SET,https://surge.chisan1230.workers.dev/geosite/strict/category-ads-all,REJECT
 ```
 
 ## Advanced Usage

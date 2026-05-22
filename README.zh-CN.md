@@ -5,7 +5,7 @@
   </p>
   <p>自动转换 <code>plsy1/v2ray-rules-dat</code> 数据集为 Surge 可直接使用的规则。</p>
   <p>
-    <a href="https://surge.bojin.co"><strong>打开可视化面板</strong></a>
+    <a href="https://surge.chisan1230.workers.dev"><strong>打开可视化面板</strong></a>
   </p>
 </div>
 
@@ -15,14 +15,14 @@
 
 ## 直接使用
 
-1. 打开可视化面板：https://surge.bojin.co。
+1. 打开可视化面板：https://surge.chisan1230.workers.dev。
 2. 搜索并选择数据集。
 3. 复制页面给出的原始链接。
 4. 粘贴到 Surge 规则中。
 
 如果你要直接使用规则链接，格式是：
 
-- 规则路径：`https://surge.bojin.co/geosite/:name_with_filter`
+- 规则路径：`https://surge.chisan1230.workers.dev/geosite/:name_with_filter`
 
 `name_with_filter` 有两种：
 
@@ -35,8 +35,8 @@ Surge 引用示例：
 
 ```ini
 [Rule]
-RULE-SET,https://surge.bojin.co/geosite/apple@cn,DIRECT
-RULE-SET,https://surge.bojin.co/geosite/strict/category-ads-all,REJECT
+RULE-SET,https://surge.chisan1230.workers.dev/geosite/apple@cn,DIRECT
+RULE-SET,https://surge.chisan1230.workers.dev/geosite/strict/category-ads-all,REJECT
 ```
 
 ## 高级使用
