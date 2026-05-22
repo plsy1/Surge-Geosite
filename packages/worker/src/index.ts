@@ -8,7 +8,7 @@ import {
 } from "@surge-geosite/core";
 import { gunzipSync, gzipSync, strFromU8, strToU8, unzipSync } from "fflate";
 
-const DEFAULT_UPSTREAM_ZIP_URL = "https://github.com/v2fly/domain-list-community/archive/refs/heads/master.zip";
+const DEFAULT_UPSTREAM_ZIP_URL = "https://github.com/plsy1/v2ray-rules-dat/archive/refs/heads/release.zip";
 const DEFAULT_UPSTREAM_USER_AGENT = "surge-geosite-worker/2";
 const DEFAULT_SRS_UPSTREAM_BASE_URL = "https://raw.githubusercontent.com/SagerNet/sing-geosite/rule-set";
 const DEFAULT_SRS_UPSTREAM_USER_AGENT = "surge-geosite-worker/2";

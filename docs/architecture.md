@@ -21,7 +21,7 @@ Recommended route priority:
 ## Refresh Pipeline
 
 1. Cron runs every 5 minutes.
-2. Worker sends `HEAD` to upstream ZIP (`v2fly/domain-list-community`).
+2. Worker sends `HEAD` to upstream ZIP (`plsy1/v2ray-rules-dat`).
 3. If ETag unchanged: only update check timestamp.
 4. If ETag changed:
    - Download ZIP once.

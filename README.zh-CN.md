@@ -3,7 +3,7 @@
   <p>
     中文 | <a href="./README.md">English</a>
   </p>
-  <p>自动转换 <code>v2fly/domain-list-community</code> 数据集为 Surge 可直接使用的规则。</p>
+  <p>自动转换 <code>plsy1/v2ray-rules-dat</code> 数据集为 Surge 可直接使用的规则。</p>
   <p>
     <a href="https://surge.bojin.co"><strong>打开可视化面板</strong></a>
   </p>

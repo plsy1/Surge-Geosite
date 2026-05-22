@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Surge Geosite</h1>
-  <p>Automatically converts <code>v2fly/domain-list-community</code> datasets into ready-to-use Surge rules.</p>
+  <p>Automatically converts <code>plsy1/v2ray-rules-dat</code> datasets into ready-to-use Surge rules.</p>
   <p>
     English | <a href="./README.zh-CN.md">中文</a>
   </p>
