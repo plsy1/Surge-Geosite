@@ -1,7 +1,7 @@
-name: Seed Rules Branch from R2
+name: Seed Rules Branch
 
 on:
-  workflow_dispatch: # 仅手动触发，用完可以删掉这个文件
+  workflow_dispatch:
 
 jobs:
   seed:
@@ -13,18 +13,34 @@ jobs:
       - name: Checkout source
         uses: actions/checkout@v4
 
-      - name: Download all files from R2 into ./out
-        env:
-          AWS_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
-          AWS_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
-        run: |
-          mkdir -p ./out
-          aws s3 sync s3://${{ secrets.R2_BUCKET_NAME }} ./out \
-            --endpoint-url https://${{ secrets.R2_ACCOUNT_ID }}.r2.cloudflarestorage.com \
-            --region auto \
-            --no-progress
+      - name: Install pnpm
+        uses: pnpm/action-setup@v4
 
-          echo "Downloaded $(find ./out -type f | wc -l) files"
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: 'pnpm'
+
+      - name: Install Dependencies
+        run: pnpm install --frozen-lockfile
+
+      - name: Build CLI and Core
+        run: pnpm run build
+
+      - name: Download Upstream Geosite Data
+        run: |
+          curl -L -o release.zip https://github.com/plsy1/v2ray-rules-dat/archive/refs/heads/release.zip
+          unzip release.zip -d temp_extracted
+          mkdir -p ./domain-list-community
+          mv temp_extracted/*/data ./domain-list-community/
+          rm -rf release.zip temp_extracted
+
+      - name: Compile All Rules
+        run: |
+          node ./packages/cli/dist/index.js build \
+            --data-dir ./domain-list-community/data \
+            --out-dir ./out
 
       - name: Push to rules branch
         run: |
@@ -35,7 +51,7 @@ jobs:
           git remote add origin "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git"
           git checkout -b rules
           git add -A
-          git commit -m "chore: seed rules branch from R2 $(date -u '+%Y-%m-%dT%H:%M:%SZ')"
+          git commit -m "chore: seed rules branch $(date -u '+%Y-%m-%dT%H:%M:%SZ')"
           git push origin rules --force
 
-          echo "Done. rules branch is now seeded."
+          echo "Done. $(find . -type f | wc -l) files pushed to rules branch."
