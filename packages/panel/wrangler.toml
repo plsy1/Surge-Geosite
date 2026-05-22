@@ -1,13 +1,13 @@
 #:schema ../../node_modules/wrangler/config-schema.json
 
-name = "surge-geosite-panel"
+name = "surge"
 main = ".svelte-kit/cloudflare/_worker.js"
 compatibility_date = "2026-03-02"
 workers_dev = true
 compatibility_flags = ["nodejs_compat"]
-routes = [
-  { pattern = "surge.bojin.co/*", zone_name = "bojin.co" }
-]
+# routes = [
+#   { pattern = "surge.bojin.co/*", zone_name = "bojin.co" }
+# ]
 
 [assets]
 directory = ".svelte-kit/cloudflare"

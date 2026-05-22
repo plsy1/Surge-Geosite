@@ -5,9 +5,9 @@ main = "src/index.ts"
 compatibility_date = "2026-02-15"
 workers_dev = true
 compatibility_flags = ["nodejs_compat"]
-routes = [
-  { pattern = "surge.bojin.co/geosite*", zone_name = "bojin.co" }
-]
+# routes = [
+#   { pattern = "surge.bojin.co/geosite*", zone_name = "bojin.co" }
+# ]
 
 [observability]
 enabled = true

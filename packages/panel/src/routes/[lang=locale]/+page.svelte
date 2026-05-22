@@ -19,11 +19,12 @@
 	import { Separator } from '$lib/components/ui/separator';
 	import { Skeleton } from '$lib/components/ui/skeleton';
 
+	import { page } from '$app/stores';
 	import type { PageData } from './$types';
 
 	const MODES: PanelMode[] = ['strict', 'balanced', 'full'];
 	const NONE_FILTER = '__none__';
-	const SITE_ORIGIN = 'https://surge.bojin.co';
+	$: SITE_ORIGIN = $page.url.origin;
 
 	export let data: PageData;
 
@@ -124,7 +125,7 @@
 		}
 		return MODES.map((item) => ({
 			mode: item,
-			href: buildRulesPublicPath(item, selected as string, liveFilter)
+			href: `${SITE_ORIGIN}${buildRulesPublicPath(item, selected as string, liveFilter)}`
 		}));
 	})();
 	$: moreLinks = (() => {
