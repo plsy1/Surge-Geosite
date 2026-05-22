@@ -1,7 +1,7 @@
 import { GeositeParseError } from "./errors.js";
 import type { DomainRule, DomainRuleType, IncludeRule, SourceEntry } from "./types.js";
 
-const VALID_DOMAIN_CHAR = /^[a-z0-9.-]+$/;
+const VALID_DOMAIN_CHAR = /^[a-z0-9_.-]+$/;
 const VALID_ATTR_CHAR = /^[a-z0-9!-]+$/;
 const VALID_SITE_NAME = /^[A-Z0-9!-]+$/;
 

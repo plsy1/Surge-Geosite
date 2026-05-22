@@ -1,12 +1,13 @@
 import {
   emitSurgeRuleset,
-  parseListsFromText,
+  parseListText,
   resolveAllLists,
   type DomainRule,
   type RegexMode,
-  type ResolvedList
+  type ResolvedList,
+  type SourceEntry
 } from "@surge-geosite/core";
-import { gunzipSync, gzipSync, strFromU8, strToU8, unzipSync } from "fflate";
+import { unzipSync, strFromU8 } from "fflate";
 
 const DEFAULT_UPSTREAM_ZIP_URL = "https://github.com/plsy1/v2ray-rules-dat/archive/refs/heads/release.zip";
 const DEFAULT_UPSTREAM_USER_AGENT = "surge-geosite-worker/2";
@@ -195,7 +196,10 @@ export async function refreshGeositeRun(env: WorkerEnv, deps: WorkerDeps = {}): 
   }
 
   const observedHeadEtag = normalizeEtag(headResponse.headers.get("etag"));
-  if (observedHeadEtag && current?.upstream.etag === observedHeadEtag) {
+  const expectedSourceKey = observedHeadEtag ? snapshotSourceKey(observedHeadEtag) : "";
+  const sourceExists = expectedSourceKey ? await env.GEOSITE_BUCKET.get(expectedSourceKey) : null;
+
+  if (observedHeadEtag && current?.upstream.etag === observedHeadEtag && sourceExists) {
     const unchangedState: LatestState = {
       ...current,
       checkedAt
@@ -224,7 +228,10 @@ export async function refreshGeositeRun(env: WorkerEnv, deps: WorkerDeps = {}): 
   const downloadedEtag = normalizeEtag(downloadResponse.headers.get("etag"));
   const computedEtag = downloadedEtag ?? observedHeadEtag ?? (await sha256Hex(zipBytes));
 
-  if (current?.upstream.etag === computedEtag) {
+  const computedSourceKey = snapshotSourceKey(computedEtag);
+  const computedSourceExists = await env.GEOSITE_BUCKET.get(computedSourceKey);
+
+  if (current?.upstream.etag === computedEtag && computedSourceExists) {
     const unchangedState: LatestState = {
       ...current,
       checkedAt
@@ -240,32 +247,33 @@ export async function refreshGeositeRun(env: WorkerEnv, deps: WorkerDeps = {}): 
     };
   }
 
-  const sources = extractSourcesFromZip(zipBytes);
-  const listCount = Object.keys(sources).length;
+  const listNames: string[] = [];
+  unzipSync(zipBytes, {
+    filter(file) {
+      const match = /\/data\/([^/]+)$/.exec(file.name);
+      if (match) {
+        const listName = match[1]!.toLowerCase();
+        if (VALID_LIST_NAME.test(listName)) {
+          listNames.push(listName);
+        }
+      }
+      return false; // Do not decompress file contents!
+    }
+  });
+
+  const listCount = listNames.length;
   if (listCount === 0) {
     throw new Error("no geosite data files found in upstream zip");
   }
-  // Validate snapshot can be parsed and resolved before publishing it as latest.
-  const parsed = parseListsFromText(sources);
-  void resolveAllLists(parsed);
 
   const generatedAt = new Date(now()).toISOString();
   const sourceKey = snapshotSourceKey(computedEtag);
   const indexKey = snapshotIndexKey(computedEtag);
 
-  const snapshotPayload: SnapshotPayload = {
-    version: 1,
-    etag: computedEtag,
-    zipUrl,
-    generatedAt,
-    lists: sources
-  };
+  const index = buildIndexFromSources(listNames);
 
-  const compressedSnapshot = gzipSync(strToU8(JSON.stringify(snapshotPayload)));
-  const index = buildIndexFromSources(sources);
-
-  await writeBinary(env.GEOSITE_BUCKET, sourceKey, compressedSnapshot, {
-    contentType: "application/json",
+  await writeBinary(env.GEOSITE_BUCKET, sourceKey, zipBytes, {
+    contentType: "application/zip",
     cacheControl: "public, max-age=31536000, immutable"
   });
   await writeJson(env.GEOSITE_BUCKET, indexKey, index);
@@ -316,11 +324,17 @@ async function handleFetch(
   ctx: ExecutionContextLike,
   deps: { now: () => number; fetchImpl: typeof fetch }
 ): Promise<Response> {
+  const url = new URL(request.url);
+  const hostname = url.hostname;
+  const isLocal = hostname === "localhost" || hostname === "127.0.0.1";
+  const isInternal = hostname === "geosite.internal";
+  if (!isInternal && !isLocal) {
+    return text(403, "Forbidden: Private API");
+  }
+
   if (request.method !== "GET") {
     return text(405, "method not allowed");
   }
-
-  const url = new URL(request.url);
   const path = url.pathname;
 
   if (path === "/geosite") {
@@ -514,8 +528,26 @@ async function handleGeositeIndex(request: Request, env: WorkerEnv, ctx: Executi
     return json(200, index, indexHeaders);
   }
 
-  const snapshot = await loadSnapshotPayload(env, latest);
-  const builtIndex = buildIndexFromSources(snapshot.lists);
+  const sourceObject = await env.GEOSITE_BUCKET.get(latest.snapshot.sourceKey);
+  if (!sourceObject) {
+    throw new Error(`snapshot zip not found: ${latest.snapshot.sourceKey}`);
+  }
+  const zipBytes = new Uint8Array(await sourceObject.arrayBuffer());
+  const listNames: string[] = [];
+  unzipSync(zipBytes, {
+    filter(file) {
+      const match = /\/data\/([^/]+)$/.exec(file.name);
+      if (match) {
+        const listName = match[1]!.toLowerCase();
+        if (VALID_LIST_NAME.test(listName)) {
+          listNames.push(listName);
+        }
+      }
+      return false; // Do not decompress file contents!
+    }
+  });
+
+  const builtIndex = buildIndexFromSources(listNames);
   ctx.waitUntil(writeJson(env.GEOSITE_BUCKET, latest.snapshot.indexKey, builtIndex));
 
   return json(200, builtIndex, indexHeaders);
@@ -876,8 +908,7 @@ async function ensureArtifactForLatest(
       };
     }
 
-    const resolved = await loadResolvedLists(env, latest);
-    const target = resolved[name.toUpperCase()];
+    const target = await loadResolvedListForName(env, latest, name);
     if (!target) {
       return {
         listFound: false,
@@ -925,51 +956,65 @@ async function ensureArtifactForLatest(
   return lock;
 }
 
-async function loadResolvedLists(env: WorkerEnv, latest: LatestState): Promise<Record<string, ResolvedList>> {
-  const cacheKey = latest.upstream.etag;
-  const cached = resolvedCache.get(cacheKey);
-  if (cached) {
-    return cached;
+async function loadResolvedListForName(
+  env: WorkerEnv,
+  latest: LatestState,
+  targetName: string
+): Promise<ResolvedList | null> {
+  const sourceObject = await env.GEOSITE_BUCKET.get(latest.snapshot.sourceKey);
+  if (!sourceObject) {
+    throw new Error(`snapshot zip not found: ${latest.snapshot.sourceKey}`);
   }
 
-  const pending = (async () => {
-    const snapshot = await loadSnapshotPayload(env, latest);
-    const parsed = parseListsFromText(snapshot.lists);
-    return resolveAllLists(parsed);
-  })();
+  const zipBytes = new Uint8Array(await sourceObject.arrayBuffer());
+  const parsed: Record<string, SourceEntry[]> = {};
+  const pendingNames = new Set<string>([targetName.toUpperCase()]);
+  const processedNames = new Set<string>();
 
-  resolvedCache.set(cacheKey, pending);
-  pruneMap(resolvedCache, RESOLVED_CACHE_LIMIT);
-  return pending.catch((error) => {
-    resolvedCache.delete(cacheKey);
-    throw error;
-  });
-}
+  while (pendingNames.size > 0) {
+    const namesToFetch = Array.from(pendingNames);
+    pendingNames.clear();
 
-async function loadSnapshotPayload(env: WorkerEnv, latest: LatestState): Promise<SnapshotPayload> {
-  const cacheKey = latest.snapshot.sourceKey;
-  const cached = snapshotCache.get(cacheKey);
-  if (cached) {
-    return cached;
-  }
-
-  const pending = (async () => {
-    const object = await env.GEOSITE_BUCKET.get(latest.snapshot.sourceKey);
-    if (!object) {
-      throw new Error(`snapshot not found: ${latest.snapshot.sourceKey}`);
+    for (const name of namesToFetch) {
+      processedNames.add(name);
     }
 
-    const compressed = new Uint8Array(await object.arrayBuffer());
-    const payloadText = strFromU8(gunzipSync(compressed));
-    return JSON.parse(payloadText) as SnapshotPayload;
-  })();
+    const unzipped = unzipSync(zipBytes, {
+      filter(file) {
+        const match = /\/data\/([^/]+)$/.exec(file.name);
+        if (match) {
+          const listName = match[1]!.toUpperCase();
+          return namesToFetch.includes(listName);
+        }
+        return false;
+      }
+    });
 
-  snapshotCache.set(cacheKey, pending);
-  pruneMap(snapshotCache, SNAPSHOT_CACHE_LIMIT);
-  return pending.catch((error) => {
-    snapshotCache.delete(cacheKey);
-    throw error;
-  });
+    for (const [filePath, contentBytes] of Object.entries(unzipped)) {
+      const match = /\/data\/([^/]+)$/.exec(filePath);
+      if (!match) continue;
+      const listName = match[1]!.toUpperCase();
+      const textContent = strFromU8(contentBytes);
+      const entries = parseListText(listName, textContent);
+      parsed[listName] = entries;
+
+      for (const entry of entries) {
+        if (entry.type === "include") {
+          const incName = entry.sourceList.toUpperCase();
+          if (!processedNames.has(incName)) {
+            pendingNames.add(incName);
+          }
+        }
+      }
+    }
+  }
+
+  if (!parsed[targetName.toUpperCase()]) {
+    return null;
+  }
+
+  const resolved = resolveAllLists(parsed);
+  return resolved[targetName.toUpperCase()] ?? null;
 }
 
 async function ensureLatestState(env: WorkerEnv): Promise<LatestState | null> {
@@ -1013,11 +1058,11 @@ async function maybeEnrichIndexFilters(
   await writeJson(env.GEOSITE_BUCKET, latest.snapshot.indexKey, nextIndex);
 }
 
-function buildIndexFromSources(sources: Record<string, string>): GeositeIndex {
-  const names = Object.keys(sources).sort();
+function buildIndexFromSources(listNames: string[]): GeositeIndex {
+  const sortedNames = [...listNames].sort();
   const index: GeositeIndex = {};
 
-  for (const listName of names) {
+  for (const listName of sortedNames) {
     index[listName] = {
       name: listName.toUpperCase(),
       sourceFile: listName,
@@ -1045,27 +1090,6 @@ function collectFilters(entries: DomainRule[]): string[] {
   return Array.from(attrs).sort();
 }
 
-function extractSourcesFromZip(zipData: Uint8Array): Record<string, string> {
-  const files = unzipSync(zipData);
-  const sources: Record<string, string> = {};
-
-  for (const [filePath, content] of Object.entries(files)) {
-    const match = /\/data\/([^/]+)$/.exec(filePath);
-    if (!match) {
-      continue;
-    }
-
-    const listName = match[1]!.toLowerCase();
-    if (!VALID_LIST_NAME.test(listName)) {
-      continue;
-    }
-
-    sources[listName] = strFromU8(content);
-  }
-
-  return sources;
-}
-
 function normalizeEtag(raw: string | null): string | null {
   if (!raw) {
     return null;
@@ -1090,7 +1114,7 @@ function artifactKey(etag: string, mode: RegexMode, name: string, filter: string
 }
 
 function snapshotSourceKey(etag: string): string {
-  return `snapshots/${etag}/sources.json.gz`;
+  return `snapshots/${etag}/source.zip`;
 }
 
 function snapshotIndexKey(etag: string): string {
