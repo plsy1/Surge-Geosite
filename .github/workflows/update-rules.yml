@@ -1,4 +1,4 @@
-name: Update Geosite Rules
+name: Update Geosite and GeoIP Rules
 
 on:
   schedule:

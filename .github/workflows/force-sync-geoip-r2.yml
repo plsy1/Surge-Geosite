@@ -1,10 +1,10 @@
-name: Force Sync Rules to R2
+name: Force Sync GeoIP to R2
 
 on:
   workflow_dispatch:
 
 jobs:
-  force-sync:
+  force-sync-geoip:
     runs-on: ubuntu-latest
     permissions:
       contents: read
@@ -12,35 +12,6 @@ jobs:
     steps:
       - name: Checkout source
         uses: actions/checkout@v4
-
-      - name: Install pnpm
-        uses: pnpm/action-setup@v4
-
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: 20
-          cache: 'pnpm'
-
-      - name: Install Dependencies
-        run: pnpm install --frozen-lockfile
-
-      - name: Build CLI and Core
-        run: pnpm run build
-
-      - name: Download Upstream Geosite Data
-        run: |
-          curl -L -o release.zip https://github.com/plsy1/v2ray-rules-dat/archive/refs/heads/release.zip
-          unzip release.zip -d temp_extracted
-          mkdir -p ./domain-list-community
-          mv temp_extracted/*/data ./domain-list-community/
-          rm -rf release.zip temp_extracted
-
-      - name: Compile All Rules
-        run: |
-          node ./packages/cli/dist/index.js build \
-            --data-dir ./domain-list-community/data \
-            --out-dir ./out
 
       - name: Checkout Loyalsoldier/geoip data
         uses: actions/checkout@v4
@@ -113,8 +84,7 @@ jobs:
           for root, _, files in os.walk(NEW):
               for f in files:
                   rel_path = os.path.relpath(os.path.join(root, f), NEW)
-                  if rel_path.startswith('geoip/') or rel_path == 'index/geoip.json':
-                      to_upload.append(rel_path)
+                  to_upload.append(rel_path)
 
           print(f"Uploading {len(to_upload)} GeoIP files to R2...")
 

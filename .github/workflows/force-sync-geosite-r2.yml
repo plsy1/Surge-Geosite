@@ -1,0 +1,77 @@
+name: Force Sync Geosite to R2
+
+on:
+  workflow_dispatch:
+
+jobs:
+  force-sync-geosite:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+
+    steps:
+      - name: Checkout source
+        uses: actions/checkout@v4
+
+      - name: Install pnpm
+        uses: pnpm/action-setup@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: 'pnpm'
+
+      - name: Install Dependencies
+        run: pnpm install --frozen-lockfile
+
+      - name: Build CLI and Core
+        run: pnpm run build
+
+      - name: Download Upstream Geosite Data
+        run: |
+          curl -L -o release.zip https://github.com/plsy1/v2ray-rules-dat/archive/refs/heads/release.zip
+          unzip release.zip -d temp_extracted
+          mkdir -p ./domain-list-community
+          mv temp_extracted/*/data ./domain-list-community/
+          rm -rf release.zip temp_extracted
+
+      - name: Compile All Rules
+        run: |
+          node ./packages/cli/dist/index.js build \
+            --data-dir ./domain-list-community/data \
+            --out-dir ./out
+
+      - name: Upload Geosite files to R2
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+          R2_BUCKET_NAME: ${{ secrets.R2_BUCKET_NAME }}
+          R2_ACCOUNT_ID: ${{ secrets.R2_ACCOUNT_ID }}
+        run: |
+          python3 << 'EOF'
+          import os, subprocess
+
+          NEW = './out'
+          BUCKET = os.environ['R2_BUCKET_NAME']
+          ENDPOINT = f"https://{os.environ['R2_ACCOUNT_ID']}.r2.cloudflarestorage.com"
+
+          to_upload = []
+          for root, _, files in os.walk(NEW):
+              for f in files:
+                  rel_path = os.path.relpath(os.path.join(root, f), NEW)
+                  if not rel_path.startswith('geoip/') and rel_path != 'index/geoip.json':
+                      to_upload.append(rel_path)
+
+          print(f"Uploading {len(to_upload)} Geosite files to R2...")
+
+          for f in to_upload:
+              print(f"  + {f}")
+              subprocess.run([
+                  'aws', 's3', 'cp', os.path.join(NEW, f),
+                  f's3://{BUCKET}/{f}',
+                  '--endpoint-url', ENDPOINT, '--region', 'auto', '--no-progress'
+              ], check=True)
+
+          print("Done.")
+          EOF

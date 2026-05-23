@@ -1,4 +1,4 @@
-name: Seed Rules Branch
+name: Seed Geosite and GeoIP Rules Branch
 
 on:
   workflow_dispatch:
