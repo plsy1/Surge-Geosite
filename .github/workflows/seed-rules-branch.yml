@@ -89,14 +89,14 @@ jobs:
 
       - name: Push to rules branch
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           cd ./out
           git init
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git remote add origin "https://github.com/${{ github.repository }}.git"
-          git config http.extraHeader "Authorization: Bearer ${GH_TOKEN}"
+          gh auth setup-git
           git checkout -b rules
           git add -A
           git commit -m "chore: seed rules branch $(date -u '+%Y-%m-%dT%H:%M:%SZ')"
