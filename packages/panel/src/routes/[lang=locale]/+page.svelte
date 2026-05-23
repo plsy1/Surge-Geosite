@@ -547,7 +547,7 @@
 					</div>
 					<a
 						class="inline-flex h-9 items-center rounded-md border px-3 text-sm font-medium transition-colors hover:bg-accent"
-						href="https://github.com/xxxbrian/Surge-Geosite"
+						href="https://github.com/plsy1/Surge-Geosite"
 						rel="noreferrer"
 						target="_blank"
 					>
