@@ -131,17 +131,8 @@ jobs:
           prev_files = all_files(PREV)
           new_files  = all_files(NEW)
 
-          to_upload = []
+          to_upload = list(new_files)
           to_delete = list(prev_files - new_files)
-
-          # New files
-          for f in new_files - prev_files:
-              to_upload.append(f)
-
-          # Modified files (compare by content, not mtime)
-          for f in new_files & prev_files:
-              if not filecmp.cmp(os.path.join(PREV, f), os.path.join(NEW, f), shallow=False):
-                  to_upload.append(f)
 
           print(f"Upload: {len(to_upload)} files, Delete: {len(to_delete)} files")
 
