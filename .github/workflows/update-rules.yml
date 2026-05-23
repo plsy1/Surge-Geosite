@@ -165,9 +165,7 @@ jobs:
           git init
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git remote add origin "https://github.com/${{ github.repository }}.git"
-          gh auth setup-git
           git checkout -b rules
           git add -A
           git commit -m "chore: update rules $(date -u '+%Y-%m-%dT%H:%M:%SZ')"
-          git push origin rules --force
+          git push "https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git" rules --force
