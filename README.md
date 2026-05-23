@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>Surge Geosite</h1>
-  <p>Automatically converts <code>plsy1/v2ray-rules-dat</code> datasets into ready-to-use Surge rules.</p>
+  <h1>Surge Geosite & GeoIP</h1>
+  <p>Automatically converts <code>plsy1/v2ray-rules-dat</code> datasets and <code>Loyalsoldier/geoip</code> classical rules into ready-to-use Surge rules.</p>
   <p>
     English | <a href="./README.zh-CN.md">中文</a>
   </p>
@@ -16,13 +16,14 @@
 ## Direct Use
 
 1. Open the dashboard: https://surge.chisan1230.workers.dev.
-2. Search and select a dataset.
+2. Search and select a dataset (Geosite or GeoIP).
 3. Copy the generated raw URL.
 4. Paste it into your Surge rules.
 
 If you want to use rule URLs directly, the format is:
 
-- Rules path: `https://surge.chisan1230.workers.dev/geosite/:name_with_filter`
+- Geosite rules path: `https://surge.chisan1230.workers.dev/geosite/:name_with_filter`
+- GeoIP rules path: `https://surge.chisan1230.workers.dev/geoip/:country` (e.g. `/geoip/cn`)
 
 `name_with_filter` has two forms:
 
@@ -37,15 +38,21 @@ Surge example:
 [Rule]
 RULE-SET,https://surge.chisan1230.workers.dev/geosite/apple@cn,DIRECT
 RULE-SET,https://surge.chisan1230.workers.dev/geosite/strict/category-ads-all,REJECT
+RULE-SET,https://surge.chisan1230.workers.dev/geoip/cn,DIRECT
 ```
 
 ## Advanced Usage
 
 ### API
 
+#### Geosite
 - `GET /geosite`
 - `GET /geosite/:name_with_filter` (default mode: `balanced`)
 - `GET /geosite/:mode/:name_with_filter`
+
+#### GeoIP
+- `GET /geoip`
+- `GET /geoip/:country` (returns raw rules list for country code)
 
 ### Mode Guide
 
