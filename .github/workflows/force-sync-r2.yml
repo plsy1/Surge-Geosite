@@ -1,0 +1,128 @@
+name: Force Sync Rules to R2
+
+on:
+  workflow_dispatch:
+
+jobs:
+  force-sync:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+
+    steps:
+      - name: Checkout source
+        uses: actions/checkout@v4
+
+      - name: Install pnpm
+        uses: pnpm/action-setup@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: 'pnpm'
+
+      - name: Install Dependencies
+        run: pnpm install --frozen-lockfile
+
+      - name: Build CLI and Core
+        run: pnpm run build
+
+      - name: Download Upstream Geosite Data
+        run: |
+          curl -L -o release.zip https://github.com/plsy1/v2ray-rules-dat/archive/refs/heads/release.zip
+          unzip release.zip -d temp_extracted
+          mkdir -p ./domain-list-community
+          mv temp_extracted/*/data ./domain-list-community/
+          rm -rf release.zip temp_extracted
+
+      - name: Compile All Rules
+        run: |
+          node ./packages/cli/dist/index.js build \
+            --data-dir ./domain-list-community/data \
+            --out-dir ./out
+
+      - name: Checkout Loyalsoldier/geoip data
+        uses: actions/checkout@v4
+        with:
+          repository: Loyalsoldier/geoip
+          ref: release
+          path: geoip-release
+          sparse-checkout: |
+            clash/classical
+          sparse-checkout-cone-mode: false
+
+      - name: Process GeoIP Data
+        run: |
+          python3 << 'EOF'
+          import os, shutil, json
+
+          src_dir = './geoip-release/clash/classical'
+          dst_dir = './out/geoip'
+          os.makedirs(dst_dir, exist_ok=True)
+
+          index = {}
+          for fname in sorted(os.listdir(src_dir)):
+              if not fname.endswith('.txt'):
+                  continue
+              country = fname[:-4]
+              src = os.path.join(src_dir, fname)
+              dst = os.path.join(dst_dir, fname)
+              ipv4_count = 0
+              ipv6_count = 0
+              clean_lines = []
+              with open(src) as f:
+                  for line in f:
+                      line = line.strip()
+                      if line.startswith('- '):
+                          line = line[2:].strip()
+                      if (line.startswith('"') and line.endswith('"')) or (line.startswith("'") and line.endswith("'")):
+                          line = line[1:-1].strip()
+                      if line.startswith('IP-CIDR6,'):
+                          ipv6_count += 1
+                          clean_lines.append(line)
+                      elif line.startswith('IP-CIDR,'):
+                          ipv4_count += 1
+                          clean_lines.append(line)
+              with open(dst, 'w') as out_f:
+                  out_f.write('\n'.join(clean_lines) + '\n')
+              index[country] = {'name': country, 'ipv4': ipv4_count, 'ipv6': ipv6_count}
+
+          os.makedirs('./out/index', exist_ok=True)
+          with open('./out/index/geoip.json', 'w') as f:
+              json.dump(index, f, separators=(',', ':'))
+              f.write('\n')
+          print(f"Processed {len(index)} geoip datasets")
+          EOF
+
+      - name: Upload all files to R2
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+          R2_BUCKET_NAME: ${{ secrets.R2_BUCKET_NAME }}
+          R2_ACCOUNT_ID: ${{ secrets.R2_ACCOUNT_ID }}
+        run: |
+          python3 << 'EOF'
+          import os, subprocess
+
+          NEW = './out'
+          BUCKET = os.environ['R2_BUCKET_NAME']
+          ENDPOINT = f"https://{os.environ['R2_ACCOUNT_ID']}.r2.cloudflarestorage.com"
+
+          to_upload = []
+          for root, _, files in os.walk(NEW):
+              for f in files:
+                  to_upload.append(os.path.relpath(os.path.join(root, f), NEW))
+
+          print(f"Uploading all {len(to_upload)} files to R2...")
+
+          for f in to_upload:
+              print(f"  + {f}")
+              subprocess.run([
+                  'aws', 's3', 'cp', os.path.join(NEW, f),
+                  f's3://{BUCKET}/{f}',
+                  '--endpoint-url', ENDPOINT, '--region', 'auto', '--no-progress'
+              ], check=True)
+
+          print("Done.")
+          EOF
