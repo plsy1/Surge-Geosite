@@ -3,7 +3,7 @@ import { SSR_INITIAL_LIST_LIMIT } from '$lib/panel/constants';
 import { t } from '$lib/panel/i18n';
 import { countRuleLines, normalizeEtag } from '$lib/panel/utils';
 
-import type { GeositeIndex, PanelLocale, PanelMode } from '$lib/panel/types';
+import type { GeositeIndex, GeoipIndex, PanelLocale, PanelMode } from '$lib/panel/types';
 import type { PageServerLoad } from './$types';
 
 const DEFAULT_MODE: PanelMode = 'balanced';
@@ -27,6 +27,10 @@ let indexCache: IndexCacheEntry | null = null;
 let indexRevalidateInFlight = false;
 let nextIndexRevalidateAt = 0;
 const rulesCache = new Map<string, RulesCacheEntry>();
+
+let geoipIndexCache: GeoipIndex | null = null;
+let geoipIndexEtag = '-';
+let nextGeoipRevalidateAt = 0;
 
 function pruneRulesCache(): void {
 	while (rulesCache.size > RULES_CACHE_LIMIT) {
@@ -197,6 +201,26 @@ export const load: PageServerLoad = async ({ params, fetch }) => {
 		stale,
 		ruleLines,
 		rawLink,
-		initError
+		initError,
+		geoipIndex: await loadGeoipIndexSSR(fetch)
 	};
 };
+
+async function loadGeoipIndexSSR(fetchFn: typeof fetch): Promise<GeoipIndex> {
+	try {
+		if (geoipIndexCache && Date.now() < nextGeoipRevalidateAt) {
+			return geoipIndexCache;
+		}
+		const response = await fetchFn('/geoip', { headers: { accept: 'application/json' } });
+		if (!response.ok) return geoipIndexCache ?? {};
+		const etag = response.headers.get('etag') ?? '-';
+		if (etag !== geoipIndexEtag || !geoipIndexCache) {
+			geoipIndexCache = (await response.json()) as GeoipIndex;
+			geoipIndexEtag = etag;
+		}
+		nextGeoipRevalidateAt = Date.now() + 60_000;
+		return geoipIndexCache;
+	} catch {
+		return geoipIndexCache ?? {};
+	}
+}

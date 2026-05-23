@@ -42,6 +42,51 @@ jobs:
             --data-dir ./domain-list-community/data \
             --out-dir ./out
 
+      - name: Checkout Loyalsoldier/geoip data
+        uses: actions/checkout@v4
+        with:
+          repository: Loyalsoldier/geoip
+          ref: release
+          path: geoip-release
+          sparse-checkout: |
+            clash/classical
+          sparse-checkout-cone-mode: false
+
+      - name: Process GeoIP Data
+        run: |
+          python3 << 'EOF'
+          import os, shutil, json
+
+          src_dir = './geoip-release/clash/classical'
+          dst_dir = './out/geoip'
+          os.makedirs(dst_dir, exist_ok=True)
+
+          index = {}
+          for fname in sorted(os.listdir(src_dir)):
+              if not fname.endswith('.txt'):
+                  continue
+              country = fname[:-4]
+              src = os.path.join(src_dir, fname)
+              dst = os.path.join(dst_dir, fname)
+              ipv4_count = 0
+              ipv6_count = 0
+              with open(src) as f:
+                  for line in f:
+                      line = line.strip()
+                      if line.startswith('IP-CIDR6,'):
+                          ipv6_count += 1
+                      elif line.startswith('IP-CIDR,'):
+                          ipv4_count += 1
+              shutil.copy(src, dst)
+              index[country] = {'name': country, 'ipv4': ipv4_count, 'ipv6': ipv6_count}
+
+          os.makedirs('./out/index', exist_ok=True)
+          with open('./out/index/geoip.json', 'w') as f:
+              json.dump(index, f, separators=(',', ':'))
+              f.write('\n')
+          print(f"Processed {len(index)} geoip datasets")
+          EOF
+
       - name: Push to rules branch
         run: |
           cd ./out

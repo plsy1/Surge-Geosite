@@ -47,7 +47,20 @@ const messages = {
 		filterSwitchLoading: '标签已切换，正在加载…',
 		filterInputLoading: '手动标签已更新，正在加载…',
 		selectDataset: '请选择一个数据集。',
-		github: 'GitHub'
+		github: 'GitHub',
+		geositeTab: 'Geosite',
+		geoipTab: 'Geoip',
+		countries: '国家列表',
+		countrySearch: '搜索，例如 cn / cloudflare',
+		selectedCountry: '当前国家',
+		ipv4Rules: 'IPv4 规则:',
+		ipv6Rules: 'IPv6 规则:',
+		countryInfo: '国家信息',
+		copyGeoipLink: '复制 Geoip 链接',
+		geoipLinkCopied: '已复制',
+		geoipFailedLoad: '加载 /geoip 失败\n{message}',
+		countriesCount: '{count} 个国家/地区',
+		selectCountry: '请选择一个国家或地区。'
 	},
 	en: {
 		appTitle: 'Surge Geosite',
@@ -95,7 +108,20 @@ const messages = {
 		filterSwitchLoading: 'Filter changed, loading...',
 		filterInputLoading: 'Manual filter updated, loading...',
 		selectDataset: 'Please select a dataset.',
-		github: 'GitHub'
+		github: 'GitHub',
+		geositeTab: 'Geosite',
+		geoipTab: 'Geoip',
+		countries: 'COUNTRIES',
+		countrySearch: 'Search, e.g. cn / cloudflare',
+		selectedCountry: 'SELECTED COUNTRY',
+		ipv4Rules: 'ipv4 rules:',
+		ipv6Rules: 'ipv6 rules:',
+		countryInfo: 'COUNTRY INFO',
+		copyGeoipLink: 'Copy Geoip Link',
+		geoipLinkCopied: 'Copied',
+		geoipFailedLoad: 'Failed to load /geoip\n{message}',
+		countriesCount: '{count} countries',
+		selectCountry: 'Please select a country.'
 	}
 } as const;
 

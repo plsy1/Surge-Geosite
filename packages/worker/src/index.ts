@@ -142,6 +142,22 @@ async function handleFetch(
     return json(200, { ok: true, message: "Scheduled tasks are migrated to GitHub Actions." });
   }
 
+  if (path === "/geoip") {
+    return handleGeoipIndex(request, env);
+  }
+
+  if (path === "/geoip/") {
+    return text(400, "missing country code");
+  }
+
+  if (path.startsWith("/geoip/")) {
+    const country = path.slice("/geoip/".length).toLowerCase().trim();
+    if (!country || !VALID_LIST_NAME.test(country)) {
+      return text(400, "invalid country code");
+    }
+    return handleGeoipRules(request, country, env);
+  }
+
   if (path === "/geosite-srs") {
     return text(400, "missing list name");
   }
@@ -265,6 +281,51 @@ async function handleGeositeRules(
     status: 200,
     headers
   });
+}
+
+async function handleGeoipIndex(request: Request, env: WorkerEnv): Promise<Response> {
+  const key = "index/geoip.json";
+  const object = await env.GEOSITE_BUCKET.get(key);
+  if (!object) {
+    return json(503, { ok: false, error: "geoip data not ready" });
+  }
+
+  const etag = (object as any).httpMetadata?.etag ?? (object as any).etag ?? `"${key}"`;
+  const headers: Record<string, string> = {
+    "content-type": "application/json; charset=utf-8",
+    "cache-control": "public, max-age=300, s-maxage=600, stale-while-revalidate=900",
+    etag
+  };
+
+  if (matchesIfNoneMatch(request.headers.get("if-none-match"), etag)) {
+    return notModified(headers);
+  }
+
+  const body = await object.arrayBuffer();
+  return new Response(body, { status: 200, headers });
+}
+
+async function handleGeoipRules(request: Request, country: string, env: WorkerEnv): Promise<Response> {
+  const key = `geoip/${country}.txt`;
+  const object = await env.GEOSITE_BUCKET.get(key);
+  if (!object) {
+    return text(404, `geoip not found: ${country}`);
+  }
+
+  const etag = (object as any).httpMetadata?.etag ?? (object as any).etag ?? `"${key}"`;
+  const headers: Record<string, string> = {
+    "content-type": "text/plain; charset=utf-8",
+    "cache-control": "public, max-age=300, s-maxage=1800, stale-while-revalidate=86400",
+    etag,
+    "x-country": country
+  };
+
+  if (matchesIfNoneMatch(request.headers.get("if-none-match"), etag)) {
+    return notModified(headers);
+  }
+
+  const body = await object.arrayBuffer();
+  return new Response(body, { status: 200, headers });
 }
 
 // 代理 SRS / MRS 相关逻辑（保持原样）

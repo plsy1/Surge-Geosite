@@ -8,7 +8,7 @@
 	import { buildRulesApiPath, buildRulesPublicPath } from '$lib/panel/api';
 	import { SSR_INITIAL_LIST_LIMIT } from '$lib/panel/constants';
 	import { t } from '$lib/panel/i18n';
-	import type { GeositeIndex, PanelLocale, PanelMode } from '$lib/panel/types';
+	import type { GeositeIndex, GeoipIndex, GeoipIndexItem, PanelLocale, PanelMode } from '$lib/panel/types';
 	import { countRuleLines, normalizeEtag } from '$lib/panel/utils';
 
 	import { Alert, AlertDescription, AlertTitle } from '$lib/components/ui/alert';
@@ -48,6 +48,18 @@
 	let initError: string | null;
 	let isIndexHydrating: boolean;
 
+	// Geoip state
+	let activeTab: 'geosite' | 'geoip' = 'geosite';
+	let geoipIndex: GeoipIndex = {};
+	let geoipNames: string[] = [];
+	let selectedGeoip: string | null = null;
+	let geoipSearch = '';
+	let geoipPreviewText = '';
+	let geoipRuleCount = '-';
+	let isGeoipLoading = false;
+	let geoipCopied = false;
+	let geoipCopiedTimer: ReturnType<typeof setTimeout> | null = null;
+
 	let loadToken = 0;
 	let lastQueryKey = '';
 	let serverDataVersion = 0;
@@ -85,6 +97,16 @@
 		initError = next.initError ?? null;
 		lastQueryKey = selected ? `${selected}|${mode}|` : '';
 		serverDataVersion += 1;
+
+		// Apply geoip data from SSR
+		if (next.geoipIndex && Object.keys(next.geoipIndex).length > 0) {
+			geoipIndex = next.geoipIndex;
+			geoipNames = Object.keys(next.geoipIndex).sort();
+			if (!selectedGeoip && geoipNames.length > 0) {
+				selectedGeoip = geoipNames[0] ?? null;
+				geoipPreviewText = t(nextLocale, 'selectCountry');
+			}
+		}
 	}
 
 	applyServerData(data);
@@ -379,6 +401,11 @@
 			void hydrateFullIndexIfNeeded();
 		}
 
+		// Load geoip if index is empty
+		if (geoipNames.length === 0) {
+			void loadGeoipIndex();
+		}
+
 		return () => {
 			if (manualDebounceTimer) {
 				clearTimeout(manualDebounceTimer);
@@ -386,8 +413,80 @@
 			if (copiedQuickLinkTimer) {
 				clearTimeout(copiedQuickLinkTimer);
 			}
+			if (geoipCopiedTimer) {
+				clearTimeout(geoipCopiedTimer);
+			}
 		};
 	});
+
+	async function loadGeoipIndex() {
+		try {
+			const response = await fetch('/geoip', { headers: { accept: 'application/json' } });
+			if (!response.ok) return;
+			geoipIndex = (await response.json()) as GeoipIndex;
+			geoipNames = Object.keys(geoipIndex).sort();
+			if (!selectedGeoip && geoipNames.length > 0) {
+				selectedGeoip = geoipNames[0] ?? null;
+				geoipPreviewText = tr('selectCountry');
+			}
+		} catch {
+			// silently fail
+		}
+	}
+
+	async function loadGeoipCountry(country: string) {
+		isGeoipLoading = true;
+		geoipPreviewText = tr('loading');
+		geoipRuleCount = '-';
+		try {
+			const response = await fetch(`/geoip/${encodeURIComponent(country)}`, {
+				headers: { accept: 'text/plain' }
+			});
+			const body = await response.text();
+			if (!response.ok) {
+				geoipPreviewText = `${response.status} ${response.statusText}\n${body}`.trim();
+			} else {
+				geoipPreviewText = body.length === 0 ? tr('emptyResult') : body;
+				geoipRuleCount = String(body.split('\n').filter((l) => l.trim().startsWith('IP-CIDR')).length);
+			}
+		} catch (error) {
+			const message = error instanceof Error ? error.message : String(error);
+			geoipPreviewText = tr('requestFailed', { message });
+		} finally {
+			isGeoipLoading = false;
+		}
+	}
+
+	function onSelectGeoipCountry(country: string) {
+		if (country === selectedGeoip && geoipPreviewText !== tr('selectCountry')) return;
+		selectedGeoip = country;
+		void loadGeoipCountry(country);
+	}
+
+	async function onCopyGeoipLink() {
+		if (!browser || !selectedGeoip) return;
+		const url = `${window.location.origin}/geoip/${encodeURIComponent(selectedGeoip)}`;
+		try {
+			await navigator.clipboard.writeText(url);
+			geoipCopied = true;
+			if (geoipCopiedTimer) clearTimeout(geoipCopiedTimer);
+			geoipCopiedTimer = setTimeout(() => { geoipCopied = false; }, 1500);
+		} catch {
+			geoipCopied = false;
+		}
+	}
+
+	$: geoipFilteredNames = (() => {
+		const q = geoipSearch.trim().toLowerCase();
+		if (!q) return geoipNames;
+		return geoipNames.filter((n) => n.includes(q));
+	})();
+
+	$: selectedGeoipInfo = selectedGeoip ? geoipIndex[selectedGeoip] : undefined;
+
+	$: if (browser && selectedGeoip && activeTab === 'geoip' && geoipPreviewText === tr('selectCountry')) {
+		void loadGeoipCountry(selectedGeoip);
+	}
 </script>
 
 <svelte:head>
@@ -414,6 +513,22 @@
 					<p class="text-muted-foreground text-sm">{tr('appSubTitle')}</p>
 				</div>
 				<div class="flex items-center gap-2">
+						<div class="inline-flex overflow-hidden rounded-md border">
+							<button
+								type="button"
+								class={`px-3 py-1.5 text-sm font-medium transition-colors ${activeTab === 'geosite' ? 'bg-primary text-primary-foreground' : 'hover:bg-accent'}`}
+								onclick={() => (activeTab = 'geosite')}
+							>
+								{tr('geositeTab')}
+							</button>
+							<button
+								type="button"
+								class={`border-l px-3 py-1.5 text-sm font-medium transition-colors ${activeTab === 'geoip' ? 'bg-primary text-primary-foreground' : 'hover:bg-accent'}`}
+								onclick={() => (activeTab = 'geoip')}
+							>
+								{tr('geoipTab')}
+							</button>
+						</div>
 						<div class="inline-flex overflow-hidden rounded-md border">
 							<a
 								class={`px-3 py-1.5 text-sm font-medium transition-colors ${locale === 'zh' ? 'bg-primary text-primary-foreground' : 'hover:bg-accent'}`}
@@ -443,6 +558,7 @@
 		</div>
 	</section>
 
+{#if activeTab === 'geosite'}
 	<section class="grid gap-4 lg:min-h-0 lg:flex-1 lg:grid-cols-[18rem_1fr]">
 		<Card class="flex min-h-0 flex-col">
 			<CardHeader class="pb-3">
@@ -691,4 +807,100 @@
 				</CardContent>
 			</Card>
 		</section>
+{:else}
+	<section class="grid gap-4 lg:min-h-0 lg:flex-1 lg:grid-cols-[18rem_1fr]">
+		<Card class="flex min-h-0 flex-col">
+			<CardHeader class="pb-3">
+				<div class="flex items-center justify-between">
+					<CardTitle class="text-muted-foreground text-xs tracking-[0.14em]">{tr('countries')}</CardTitle>
+					<Badge variant="secondary">{tr('countriesCount', { count: geoipFilteredNames.length })}</Badge>
+				</div>
+				<Input
+					type="search"
+					value={geoipSearch}
+					oninput={(event) => (geoipSearch = (event.currentTarget as HTMLInputElement).value)}
+					placeholder={tr('countrySearch')}
+				/>
+			</CardHeader>
+			<CardContent class="min-h-0 flex-1 pb-4">
+				<div class="max-h-[38dvh] space-y-1 overflow-auto pr-2 lg:h-full lg:max-h-none">
+					{#if geoipFilteredNames.length === 0}
+						<p class="text-muted-foreground px-2 py-3 text-xs">{tr('noMatch')}</p>
+					{:else}
+						{#each geoipFilteredNames as name (name)}
+							<button
+								type="button"
+								on:click={() => onSelectGeoipCountry(name)}
+								class={`hover:border-border flex w-full items-center justify-between border px-3 py-2 text-left text-sm transition-colors ${
+									selectedGeoip === name ? 'border-primary text-primary bg-accent' : 'border-transparent'
+								}`}
+							>
+								<span class="font-mono">{name}</span>
+								<span class="text-muted-foreground font-mono text-xs">
+									{geoipIndex[name] ? `${geoipIndex[name]?.ipv4 ?? 0}+${geoipIndex[name]?.ipv6 ?? 0}` : '-'}
+								</span>
+							</button>
+						{/each}
+					{/if}
+				</div>
+			</CardContent>
+		</Card>
+
+		<Card class="flex min-h-0 flex-col">
+			<CardHeader class="space-y-4">
+				<div class="flex flex-col gap-3 lg:flex-row lg:items-center lg:justify-between">
+					<div>
+						<p class="text-muted-foreground text-xs font-semibold tracking-[0.14em]">{tr('selectedCountry')}</p>
+						<h2 class="mt-1 font-mono text-xl font-semibold">{selectedGeoip ?? '-'}</h2>
+					</div>
+					<Button
+						type="button"
+						onclick={onCopyGeoipLink}
+						disabled={!selectedGeoip || isGeoipLoading}
+						class="gap-2"
+					>
+						{#if geoipCopied}
+							<Check class="size-4" />
+						{:else}
+							<Copy class="size-4" />
+						{/if}
+						{geoipCopied ? tr('geoipLinkCopied') : tr('copyGeoipLink')}
+					</Button>
+				</div>
+
+				<div class="text-muted-foreground grid grid-cols-3 gap-2 text-xs">
+					<div>
+						<span>{tr('ipv4Rules')} </span>
+						<span class="font-mono">{selectedGeoipInfo?.ipv4 ?? '-'}</span>
+					</div>
+					<div>
+						<span>{tr('ipv6Rules')} </span>
+						<span class="font-mono">{selectedGeoipInfo?.ipv6 ?? '-'}</span>
+					</div>
+					<div>
+						<span>{tr('rules')} </span>
+						<span class="font-mono">{geoipRuleCount}</span>
+					</div>
+				</div>
+			</CardHeader>
+
+			<CardContent class="flex min-h-0 flex-1 flex-col gap-2 pb-4">
+				<div class="flex items-center justify-between">
+					<h3 class="text-muted-foreground text-xs font-semibold tracking-[0.14em]">{tr('rulePreview')}</h3>
+					{#if selectedGeoip}
+						<a
+							class="text-primary text-xs font-semibold hover:underline"
+							href="/geoip/{encodeURIComponent(selectedGeoip)}"
+							target="_blank"
+							rel="noreferrer"
+						>
+							{tr('openRawUrl')}
+						</a>
+					{/if}
+				</div>
+				<pre class="border-input bg-muted/40 min-h-[14rem] max-h-[50dvh] overflow-auto border p-3 font-mono text-[12px] leading-5 lg:min-h-0 lg:max-h-none lg:flex-1">{geoipPreviewText}</pre>
+			</CardContent>
+		</Card>
+	</section>
+{/if}
 </main>
