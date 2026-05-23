@@ -517,14 +517,14 @@
 							<button
 								type="button"
 								class={`px-3 py-1.5 text-sm font-medium transition-colors ${activeTab === 'geosite' ? 'bg-primary text-primary-foreground' : 'hover:bg-accent'}`}
-								onclick={() => (activeTab = 'geosite')}
+								on:click={() => (activeTab = 'geosite')}
 							>
 								{tr('geositeTab')}
 							</button>
 							<button
 								type="button"
 								class={`border-l px-3 py-1.5 text-sm font-medium transition-colors ${activeTab === 'geoip' ? 'bg-primary text-primary-foreground' : 'hover:bg-accent'}`}
-								onclick={() => (activeTab = 'geoip')}
+								on:click={() => (activeTab = 'geoip')}
 							>
 								{tr('geoipTab')}
 							</button>
