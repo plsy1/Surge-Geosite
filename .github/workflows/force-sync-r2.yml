@@ -95,7 +95,7 @@ jobs:
           print(f"Processed {len(index)} geoip datasets")
           EOF
 
-      - name: Upload all files to R2
+      - name: Upload GeoIP files to R2
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
@@ -112,9 +112,11 @@ jobs:
           to_upload = []
           for root, _, files in os.walk(NEW):
               for f in files:
-                  to_upload.append(os.path.relpath(os.path.join(root, f), NEW))
+                  rel_path = os.path.relpath(os.path.join(root, f), NEW)
+                  if rel_path.startswith('geoip/') or rel_path == 'index/geoip.json':
+                      to_upload.append(rel_path)
 
-          print(f"Uploading all {len(to_upload)} files to R2...")
+          print(f"Uploading {len(to_upload)} GeoIP files to R2...")
 
           for f in to_upload:
               print(f"  + {f}")
