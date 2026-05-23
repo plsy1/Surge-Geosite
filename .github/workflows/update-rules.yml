@@ -81,14 +81,22 @@ jobs:
               dst = os.path.join(dst_dir, fname)
               ipv4_count = 0
               ipv6_count = 0
+              clean_lines = []
               with open(src) as f:
                   for line in f:
                       line = line.strip()
+                      if line.startswith('- '):
+                          line = line[2:].strip()
+                      if (line.startswith('"') and line.endswith('"')) or (line.startswith("'") and line.endswith("'")):
+                          line = line[1:-1].strip()
                       if line.startswith('IP-CIDR6,'):
                           ipv6_count += 1
+                          clean_lines.append(line)
                       elif line.startswith('IP-CIDR,'):
                           ipv4_count += 1
-              shutil.copy(src, dst)
+                          clean_lines.append(line)
+              with open(dst, 'w') as out_f:
+                  out_f.write('\n'.join(clean_lines) + '\n')
               index[country] = {'name': country, 'ipv4': ipv4_count, 'ipv6': ipv6_count}
 
           os.makedirs('./out/index', exist_ok=True)
