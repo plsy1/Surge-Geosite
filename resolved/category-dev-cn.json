@@ -1,0 +1,1521 @@
+[
+  {
+    "type": "domain",
+    "value": "51changxie.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:51changxie.com",
+    "source": {
+      "list": "DEEPIN",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "51jianxie.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:51jianxie.cn",
+    "source": {
+      "list": "DEEPIN",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "91changxie.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:91changxie.com",
+    "source": {
+      "list": "DEEPIN",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aardio.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aardio.com",
+    "source": {
+      "list": "CATEGORY-DEV-CN",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ads.unitychina.cn",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:ads.unitychina.cn:@ads",
+    "source": {
+      "list": "UNITYCHINA",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aixcoder.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aixcoder.com",
+    "source": {
+      "list": "AIXCODER",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "apifox.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:apifox.cn",
+    "source": {
+      "list": "APIFOX",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "apifox.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:apifox.com",
+    "source": {
+      "list": "APIFOX",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "apipost.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:apipost.cn",
+    "source": {
+      "list": "APIPOST",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "apipost.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:apipost.net",
+    "source": {
+      "list": "APIPOST",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "asktug.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:asktug.com",
+    "source": {
+      "list": "PINGCAP",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "badjs.weixinbridge.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:badjs.weixinbridge.com:@ads",
+    "source": {
+      "list": "TENCENT-DEV",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "baltamatica.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:baltamatica.cn",
+    "source": {
+      "list": "BALTAMATICA",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "baltamatica.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:baltamatica.com",
+    "source": {
+      "list": "BALTAMATICA",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "baltamatica.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:baltamatica.net",
+    "source": {
+      "list": "BALTAMATICA",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "baltamatica.org.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:baltamatica.org.cn",
+    "source": {
+      "list": "BALTAMATICA",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bisheng.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bisheng.cn",
+    "source": {
+      "list": "HUAWEI-DEV",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bishengcompiler.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bishengcompiler.cn",
+    "source": {
+      "list": "HUAWEI-DEV",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "blogjava.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:blogjava.net",
+    "source": {
+      "list": "CNBLOGS",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "changxie.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:changxie.com",
+    "source": {
+      "list": "DEEPIN",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "chinauos.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:chinauos.com",
+    "source": {
+      "list": "DEEPIN",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cnb.cool",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cnb.cool",
+    "source": {
+      "list": "CNB",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cnblogs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cnblogs.com",
+    "source": {
+      "list": "CNBLOGS",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cnitblog.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cnitblog.com",
+    "source": {
+      "list": "CNBLOGS",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cnweblog.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cnweblog.com",
+    "source": {
+      "list": "CNBLOGS",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "codechina.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:codechina.net",
+    "source": {
+      "list": "CSDN",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "coding.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:coding.me",
+    "source": {
+      "list": "CODING",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "coding.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:coding.net",
+    "source": {
+      "list": "CODING",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cppblog.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cppblog.com",
+    "source": {
+      "list": "CNBLOGS",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "csdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:csdn.com",
+    "source": {
+      "list": "CSDN",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "csdn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:csdn.net",
+    "source": {
+      "list": "CSDN",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "csdn.net.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:csdn.net.cn",
+    "source": {
+      "list": "CSDN",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "csdnimg.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:csdnimg.cn",
+    "source": {
+      "list": "CSDN",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "csto.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:csto.com",
+    "source": {
+      "list": "CSDN",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "datasea.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:datasea.cn",
+    "source": {
+      "list": "CSDN",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "deepin.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:deepin.cn",
+    "source": {
+      "list": "DEEPIN",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "deepin.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:deepin.com",
+    "source": {
+      "list": "DEEPIN",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "deepin.org.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:deepin.org.cn",
+    "source": {
+      "list": "DEEPIN",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dengguobi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dengguobi.com",
+    "source": {
+      "list": "KUAIYIKEJI",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "devui.design",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:devui.design",
+    "source": {
+      "list": "HUAWEI-DEV",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "frontjs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:frontjs.com",
+    "source": {
+      "list": "PGYER",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gitbook.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gitbook.cn",
+    "source": {
+      "list": "CSDN",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gitchat.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gitchat.cn",
+    "source": {
+      "list": "CSDN",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gitcode.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gitcode.com",
+    "source": {
+      "list": "CSDN",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gitcode.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gitcode.net",
+    "source": {
+      "list": "CSDN",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gitee.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gitee.com",
+    "source": {
+      "list": "GITEE",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gitee.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gitee.io",
+    "source": {
+      "list": "GITEE",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gneec.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gneec.com",
+    "source": {
+      "list": "HUAWEI-DEV",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gneec.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gneec.com.cn",
+    "source": {
+      "list": "HUAWEI-DEV",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gneec3.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gneec3.com",
+    "source": {
+      "list": "HUAWEI-DEV",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gneec4.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gneec4.com",
+    "source": {
+      "list": "HUAWEI-DEV",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gneec7.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gneec7.com",
+    "source": {
+      "list": "HUAWEI-DEV",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "goproxy.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:goproxy.cn",
+    "source": {
+      "list": "GOPROXY",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "goproxy.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:goproxy.io",
+    "source": {
+      "list": "GOPROXY",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "harmonyos.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:harmonyos.com",
+    "source": {
+      "list": "HUAWEI-DEV",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hiascend.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hiascend.cn",
+    "source": {
+      "list": "HUAWEI-DEV",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hiascend.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hiascend.com",
+    "source": {
+      "list": "HUAWEI-DEV",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hiclc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hiclc.com",
+    "source": {
+      "list": "HUAWEI-DEV",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hikunpeng.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hikunpeng.cn",
+    "source": {
+      "list": "HUAWEI-DEV",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hikunpeng.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hikunpeng.com",
+    "source": {
+      "list": "HUAWEI-DEV",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hikunpeng.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hikunpeng.com.cn",
+    "source": {
+      "list": "HUAWEI-DEV",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hikunpeng.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hikunpeng.net",
+    "source": {
+      "list": "HUAWEI-DEV",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hisilicon.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hisilicon.com",
+    "source": {
+      "list": "HUAWEI-DEV",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hisilicon.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hisilicon.com.cn",
+    "source": {
+      "list": "HUAWEI-DEV",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "houyicaiji.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:houyicaiji.com",
+    "source": {
+      "list": "KUAIYIKEJI",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "huaweiapaas.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:huaweiapaas.com",
+    "source": {
+      "list": "HUAWEI-DEV",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "iteye.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:iteye.com",
+    "source": {
+      "list": "CSDN",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jinglingbiaozhu.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jinglingbiaozhu.com",
+    "source": {
+      "list": "KUAIYIKEJI",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jinrishici.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jinrishici.com",
+    "source": {
+      "list": "CATEGORY-DEV-CN",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "juejin.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:juejin.cn",
+    "source": {
+      "list": "JUEJIN",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "juejin.im",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:juejin.im",
+    "source": {
+      "list": "JUEJIN",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kaifayun.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kaifayun.com",
+    "source": {
+      "list": "CSDN",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kaihong.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kaihong.com",
+    "source": {
+      "list": "CATEGORY-DEV-CN",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "linglong.space",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:linglong.space",
+    "source": {
+      "list": "DEEPIN",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "linyaps.org.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:linyaps.org.cn",
+    "source": {
+      "list": "DEEPIN",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mindspore.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mindspore.cn",
+    "source": {
+      "list": "HUAWEI-DEV",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mysxl.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mysxl.cn",
+    "source": {
+      "list": "SXL",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nnthink.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nnthink.com",
+    "source": {
+      "list": "AIXCODER",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "openkylin.top",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:openkylin.top",
+    "source": {
+      "list": "UBUNTUKYLIN",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "openmidas.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:openmidas.com",
+    "source": {
+      "list": "TENCENT-DEV",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "openvela.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:openvela.com",
+    "source": {
+      "list": "CATEGORY-DEV-CN",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oschina.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oschina.net",
+    "source": {
+      "list": "OSCHINA",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "owsgo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:owsgo.com",
+    "source": {
+      "list": "HUAWEI-DEV",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pgyer.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pgyer.com",
+    "source": {
+      "list": "PGYER",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "phpweblog.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:phpweblog.net",
+    "source": {
+      "list": "CNBLOGS",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pingcap.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pingcap.cn",
+    "source": {
+      "list": "PINGCAP",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pingcap.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pingcap.com",
+    "source": {
+      "list": "PINGCAP",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pingcode.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pingcode.com",
+    "source": {
+      "list": "CATEGORY-DEV-CN",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "programmer.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:programmer.com.cn",
+    "source": {
+      "list": "CSDN",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "programmer.net.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:programmer.net.cn",
+    "source": {
+      "list": "CSDN",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qq.design",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qq.design",
+    "source": {
+      "list": "TENCENT-DEV",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qqgamedesign.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qqgamedesign.com",
+    "source": {
+      "list": "TENCENT-DEV",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ruby-china.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ruby-china.org",
+    "source": {
+      "list": "RUBYCHINA",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rubyconfchina.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rubyconfchina.org",
+    "source": {
+      "list": "RUBYCHINA",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "saasops.tech",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:saasops.tech",
+    "source": {
+      "list": "HUAWEI-DEV",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "segmentfault.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:segmentfault.com",
+    "source": {
+      "list": "SEGMENTFAULT",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sifou.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sifou.com",
+    "source": {
+      "list": "SEGMENTFAULT",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sndu.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sndu.cn",
+    "source": {
+      "list": "DEEPIN",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "splash-ads.cdn.unity.cn",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:splash-ads.cdn.unity.cn:@ads",
+    "source": {
+      "list": "UNITYCHINA",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "splash-ads.unitychina.cn",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:splash-ads.unitychina.cn:@ads",
+    "source": {
+      "list": "UNITYCHINA",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sxl.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sxl.cn",
+    "source": {
+      "list": "SXL",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sxlcdn.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sxlcdn.cn",
+    "source": {
+      "list": "SXL",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "teachblog.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:teachblog.net",
+    "source": {
+      "list": "CNBLOGS",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "teleows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:teleows.com",
+    "source": {
+      "list": "HUAWEI-DEV",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tencent-cloud.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tencent-cloud.cn",
+    "source": {
+      "list": "TENCENT-DEV",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tencent-cloud.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tencent-cloud.com",
+    "source": {
+      "list": "TENCENT-DEV",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tencent.design",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tencent.design",
+    "source": {
+      "list": "TENCENT-DEV",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tencentcloud.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tencentcloud.com",
+    "source": {
+      "list": "TENCENT-DEV",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tidb.ai",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tidb.ai",
+    "source": {
+      "list": "PINGCAP",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tidb.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tidb.net",
+    "source": {
+      "list": "PINGCAP",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tidbcloud.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tidbcloud.com",
+    "source": {
+      "list": "PINGCAP",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tikv.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tikv.org",
+    "source": {
+      "list": "PINGCAP",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tipdm.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tipdm.org",
+    "source": {
+      "list": "CATEGORY-DEV-CN",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tjstats.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tjstats.com",
+    "source": {
+      "list": "TENCENT-DEV",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tracup.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tracup.com",
+    "source": {
+      "list": "PGYER",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "u3d.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:u3d.cn",
+    "source": {
+      "list": "UNITYCHINA",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ubuntukylin.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ubuntukylin.com",
+    "source": {
+      "list": "UBUNTUKYLIN",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "uniontech.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:uniontech.cn",
+    "source": {
+      "list": "DEEPIN",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "uniontech.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:uniontech.com",
+    "source": {
+      "list": "DEEPIN",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "unity.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:unity.cn",
+    "source": {
+      "list": "UNITYCHINA",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "unityads.unity.cn",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:unityads.unity.cn:@ads",
+    "source": {
+      "list": "UNITYCHINA",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "unityads.unitychina.cn",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:unityads.unitychina.cn:@ads",
+    "source": {
+      "list": "UNITYCHINA",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "unitychina.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:unitychina.cn",
+    "source": {
+      "list": "UNITYCHINA",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wegamedeveloper.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wegamedeveloper.com",
+    "source": {
+      "list": "TENCENT-DEV",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "weixinbridge.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:weixinbridge.com",
+    "source": {
+      "list": "TENCENT-DEV",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "weui.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:weui.io",
+    "source": {
+      "list": "TENCENT-DEV",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xitu.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xitu.io",
+    "source": {
+      "list": "JUEJIN",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zuidaima.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zuidaima.com",
+    "source": {
+      "list": "CATEGORY-DEV-CN",
+      "line": 29
+    }
+  },
+  {
+    "type": "full",
+    "value": "p1-juejin.byteimg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:p1-juejin.byteimg.com",
+    "source": {
+      "list": "JUEJIN",
+      "line": 5
+    }
+  },
+  {
+    "type": "full",
+    "value": "p2-juejin.byteimg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:p2-juejin.byteimg.com",
+    "source": {
+      "list": "JUEJIN",
+      "line": 6
+    }
+  },
+  {
+    "type": "full",
+    "value": "p3-juejin.byteimg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:p3-juejin.byteimg.com",
+    "source": {
+      "list": "JUEJIN",
+      "line": 7
+    }
+  },
+  {
+    "type": "full",
+    "value": "p4-juejin.byteimg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:p4-juejin.byteimg.com",
+    "source": {
+      "list": "JUEJIN",
+      "line": 8
+    }
+  },
+  {
+    "type": "full",
+    "value": "p5-juejin.byteimg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:p5-juejin.byteimg.com",
+    "source": {
+      "list": "JUEJIN",
+      "line": 9
+    }
+  },
+  {
+    "type": "full",
+    "value": "p6-juejin.byteimg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:p6-juejin.byteimg.com",
+    "source": {
+      "list": "JUEJIN",
+      "line": 10
+    }
+  },
+  {
+    "type": "full",
+    "value": "p7-juejin.byteimg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:p7-juejin.byteimg.com",
+    "source": {
+      "list": "JUEJIN",
+      "line": 11
+    }
+  },
+  {
+    "type": "full",
+    "value": "p8-juejin.byteimg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:p8-juejin.byteimg.com",
+    "source": {
+      "list": "JUEJIN",
+      "line": 12
+    }
+  },
+  {
+    "type": "full",
+    "value": "p9-juejin.byteimg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:p9-juejin.byteimg.com",
+    "source": {
+      "list": "JUEJIN",
+      "line": 13
+    }
+  }
+]

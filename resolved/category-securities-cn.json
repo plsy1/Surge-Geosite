@@ -1,0 +1,1795 @@
+[
+  {
+    "type": "domain",
+    "value": "5ifund.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:5ifund.com",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 167
+    }
+  },
+  {
+    "type": "domain",
+    "value": "99fund.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:99fund.com",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 110
+    }
+  },
+  {
+    "type": "domain",
+    "value": "abc-ca.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:abc-ca.com",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 111
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ajzq.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ajzq.com",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "avicfund.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:avicfund.cn",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 112
+    }
+  },
+  {
+    "type": "domain",
+    "value": "avicsec.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:avicsec.com",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bdfund.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bdfund.cn",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 113
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bobbns.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bobbns.com",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 114
+    }
+  },
+  {
+    "type": "domain",
+    "value": "boscam.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:boscam.com.cn",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 115
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bosera.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bosera.com",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 116
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ccfund.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ccfund.com.cn",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 117
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ccnew.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ccnew.com",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cczq.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cczq.com",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cczq.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cczq.net",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cfsc.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cfsc.com.cn",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cfund108.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cfund108.com",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 118
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cfzq.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cfzq.com",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cgws.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cgws.com",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "changanfunds.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:changanfunds.com",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 119
+    }
+  },
+  {
+    "type": "domain",
+    "value": "chinalions.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:chinalions.com",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "chinanature.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:chinanature.com.cn",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 120
+    }
+  },
+  {
+    "type": "domain",
+    "value": "chinastock.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:chinastock.com.cn",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cib-fund.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cib-fund.com.cn",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 121
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cicc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cicc.com",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ciccwm.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ciccwm.com",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cindasc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cindasc.com",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cjsc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cjsc.com",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cnhbstock.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cnhbstock.com",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cnht.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cnht.com.cn",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cninfo.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cninfo.com.cn",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cryuantafund.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cryuantafund.com",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 122
+    }
+  },
+  {
+    "type": "domain",
+    "value": "csco.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:csco.com.cn",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "csfounder.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:csfounder.com",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ctfund.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ctfund.com",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 123
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ctsec.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ctsec.com",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "daton.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:daton.com.cn",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dbfund.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dbfund.com.cn",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 124
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dfham.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dfham.com",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dfzq.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dfzq.com.cn",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dgzq.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dgzq.com.cn",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dtsbc.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dtsbc.com.cn",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dwjq.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dwjq.com.cn",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dxzq.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dxzq.net",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 37
+    }
+  },
+  {
+    "type": "domain",
+    "value": "easec.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:easec.com.cn",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 38
+    }
+  },
+  {
+    "type": "domain",
+    "value": "efunds.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:efunds.com.cn",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 125
+    }
+  },
+  {
+    "type": "domain",
+    "value": "essence.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:essence.com.cn",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 39
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ewww.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ewww.com.cn",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 40
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fadfunds.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fadfunds.com",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 126
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fcsc.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fcsc.cn",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "foresightfund.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:foresightfund.com",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 127
+    }
+  },
+  {
+    "type": "domain",
+    "value": "founderff.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:founderff.com",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 128
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fsfund.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fsfund.com",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 129
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ftfund.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ftfund.com",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 130
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fullgoal.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fullgoal.com.cn",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 131
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fund123.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fund123.cn",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 168
+    }
+  },
+  {
+    "type": "domain",
+    "value": "furamc.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:furamc.com.cn",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 132
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fzfinancing.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fzfinancing.com",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 42
+    }
+  },
+  {
+    "type": "domain",
+    "value": "galaxyasset.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:galaxyasset.com",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 133
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gefund.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gefund.com.cn",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 134
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gf.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gf.com.cn",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 43
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gffunds.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gffunds.com.cn",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 135
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gfund.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gfund.com",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 136
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ghsl.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ghsl.cn",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 44
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ghzq.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ghzq.com.cn",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 45
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gjzq.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gjzq.com.cn",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 46
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gkzq.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gkzq.com.cn",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 47
+    }
+  },
+  {
+    "type": "domain",
+    "value": "glsc.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:glsc.com.cn",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 48
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gowinamc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gowinamc.com",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 137
+    }
+  },
+  {
+    "type": "domain",
+    "value": "grzq.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:grzq.com",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 49
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gsgh.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gsgh.cn",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 50
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gszq.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gszq.com",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 51
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gtja.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gtja.com",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 52
+    }
+  },
+  {
+    "type": "domain",
+    "value": "guodu.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:guodu.com",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 53
+    }
+  },
+  {
+    "type": "domain",
+    "value": "guosen.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:guosen.com.cn",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 54
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gyzq.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gyzq.com.cn",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 55
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hazq.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hazq.com",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 56
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hczq.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hczq.com",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 57
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hffunds.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hffunds.cn",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 138
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hftfund.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hftfund.com",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 139
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hfzq.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hfzq.com.cn",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 58
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hlzqgs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hlzqgs.com",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 59
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hongdefund.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hongdefund.com",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 140
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hongtastock.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hongtastock.com",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 60
+    }
+  },
+  {
+    "type": "domain",
+    "value": "howbuy.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:howbuy.com",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 169
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hrsec.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hrsec.com.cn",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 61
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hsbc.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hsbc.com.cn",
+    "source": {
+      "list": "HSBC-CN",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hsbcinsurance.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hsbcinsurance.com.cn",
+    "source": {
+      "list": "HSBC-CN",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hsbcqh.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hsbcqh.com.cn",
+    "source": {
+      "list": "HSBC-CN",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hsfund.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hsfund.com",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 141
+    }
+  },
+  {
+    "type": "domain",
+    "value": "htsc.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:htsc.com.cn",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 62
+    }
+  },
+  {
+    "type": "domain",
+    "value": "htsec.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:htsec.com",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 63
+    }
+  },
+  {
+    "type": "domain",
+    "value": "huaan.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:huaan.com.cn",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 142
+    }
+  },
+  {
+    "type": "domain",
+    "value": "huajingsec.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:huajingsec.com",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 64
+    }
+  },
+  {
+    "type": "domain",
+    "value": "huajinsc.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:huajinsc.cn",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 65
+    }
+  },
+  {
+    "type": "domain",
+    "value": "huayingsc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:huayingsc.com",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 66
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hx168.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hx168.com.cn",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 67
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hxzq.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hxzq.cn",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 68
+    }
+  },
+  {
+    "type": "domain",
+    "value": "i618.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:i618.com.cn",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 69
+    }
+  },
+  {
+    "type": "domain",
+    "value": "igwfmc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:igwfmc.com",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 143
+    }
+  },
+  {
+    "type": "domain",
+    "value": "iztzq.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:iztzq.com",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 70
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jhzq.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jhzq.com.cn",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 71
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jpmorganchina.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jpmorganchina.com",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 72
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jsfund.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jsfund.cn",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 144
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jtamc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jtamc.com",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 145
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jyzq.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jyzq.cn",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 73
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jzsec.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jzsec.com",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 74
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kysec.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kysec.cn",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 75
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lczq.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lczq.com",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 76
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lhzq.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lhzq.com",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 77
+    }
+  },
+  {
+    "type": "domain",
+    "value": "longone.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:longone.com.cn",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 78
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lufunds.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lufunds.com",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 170
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mfcteda.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mfcteda.com",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 146
+    }
+  },
+  {
+    "type": "domain",
+    "value": "morganstanleyhuaxin.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:morganstanleyhuaxin.com",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 79
+    }
+  },
+  {
+    "type": "domain",
+    "value": "msjyfund.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:msjyfund.com.cn",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 147
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mszq.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mszq.com",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 80
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nesc.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nesc.cn",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 81
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nffund.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nffund.com",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 148
+    }
+  },
+  {
+    "type": "domain",
+    "value": "njzq.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:njzq.com.cn",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 82
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nomuraoi-sec.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nomuraoi-sec.com",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 83
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ocfund.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ocfund.cn",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 149
+    }
+  },
+  {
+    "type": "domain",
+    "value": "orient-fund.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:orient-fund.com",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 150
+    }
+  },
+  {
+    "type": "domain",
+    "value": "phfund.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:phfund.com.cn",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 151
+    }
+  },
+  {
+    "type": "domain",
+    "value": "postfund.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:postfund.com.cn",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 152
+    }
+  },
+  {
+    "type": "domain",
+    "value": "py-axa.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:py-axa.com",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 153
+    }
+  },
+  {
+    "type": "domain",
+    "value": "shgsec.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:shgsec.com",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 84
+    }
+  },
+  {
+    "type": "domain",
+    "value": "shhxzq.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:shhxzq.com",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 85
+    }
+  },
+  {
+    "type": "domain",
+    "value": "shzq.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:shzq.com",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 86
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sse.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sse.com.cn",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sseinfo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sseinfo.com",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "stocke.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:stocke.com.cn",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 87
+    }
+  },
+  {
+    "type": "domain",
+    "value": "swhysc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:swhysc.com",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 88
+    }
+  },
+  {
+    "type": "domain",
+    "value": "swsc.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:swsc.com.cn",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 89
+    }
+  },
+  {
+    "type": "domain",
+    "value": "swsmu.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:swsmu.com",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 154
+    }
+  },
+  {
+    "type": "domain",
+    "value": "szse.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:szse.cn",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "taipingfund.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:taipingfund.com.cn",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 155
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tebon.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tebon.com.cn",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 90
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tfzq.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tfzq.com",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 91
+    }
+  },
+  {
+    "type": "domain",
+    "value": "thfund.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:thfund.com.cn",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 156
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tongtaiamc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tongtaiamc.com",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 157
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tpyzq.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tpyzq.com",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 92
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ubssdic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ubssdic.com",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 158
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vanho.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vanho.cn",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 93
+    }
+  },
+  {
+    "type": "domain",
+    "value": "west95582.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:west95582.com",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 94
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wkzq.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wkzq.com.cn",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 95
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wlzq.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wlzq.cn",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 96
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wxzq.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wxzq.com",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 97
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xcsc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xcsc.com",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 98
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xf-fund.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xf-fund.com",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 159
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xqfunds.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xqfunds.com",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 160
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xsdzq.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xsdzq.cn",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 99
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xyzq.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xyzq.com.cn",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 100
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ydamc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ydamc.com",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 161
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ydsc.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ydsc.com.cn",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 101
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yhfund.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yhfund.com.cn",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 162
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ykzq.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ykzq.com",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 102
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ytzq.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ytzq.com",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 103
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zdzq.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zdzq.com.cn",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 104
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zhfund.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zhfund.com",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 163
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zlfund.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zlfund.cn",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 171
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zofund.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zofund.com",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 164
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zszq.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zszq.com",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 105
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ztfsec.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ztfsec.com",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 106
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zts.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zts.com.cn",
+    "source": {
+      "list": "CATEGORY-SECURITIES-CN",
+      "line": 107
+    }
+  }
+]

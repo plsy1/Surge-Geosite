@@ -1,0 +1,48 @@
+[
+  {
+    "type": "domain",
+    "value": "syh.zybang.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:syh.zybang.com:@ads",
+    "source": {
+      "list": "ZUOYEBANG",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zuoyebang.cc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zuoyebang.cc",
+    "source": {
+      "list": "ZUOYEBANG",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zuoyebang.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zuoyebang.com",
+    "source": {
+      "list": "ZUOYEBANG",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zybang.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zybang.com",
+    "source": {
+      "list": "ZUOYEBANG",
+      "line": 3
+    }
+  }
+]

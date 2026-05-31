@@ -1,0 +1,706 @@
+[
+  {
+    "type": "domain",
+    "value": "beforeigners.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:beforeigners.com",
+    "source": {
+      "list": "HBO",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "brightline.tv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:brightline.tv",
+    "source": {
+      "list": "HBO",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cinemax.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cinemax.com",
+    "source": {
+      "list": "HBO",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "discomax.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:discomax.com",
+    "source": {
+      "list": "HBO",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "elpionero.es",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:elpionero.es",
+    "source": {
+      "list": "HBO",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "forthethrone.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:forthethrone.com",
+    "source": {
+      "list": "HBO",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hbo",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hbo",
+    "source": {
+      "list": "HBO",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hbo-europe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hbo-europe.com",
+    "source": {
+      "list": "HBO",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hbo.ba",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hbo.ba",
+    "source": {
+      "list": "HBO",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hbo.bg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hbo.bg",
+    "source": {
+      "list": "HBO",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hbo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hbo.com",
+    "source": {
+      "list": "HBO",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hbo.com.c.footprint.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hbo.com.c.footprint.net",
+    "source": {
+      "list": "HBO",
+      "line": 64
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hbo.com.edgesuite.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hbo.com.edgesuite.net",
+    "source": {
+      "list": "HBO",
+      "line": 65
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hbo.cz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hbo.cz",
+    "source": {
+      "list": "HBO",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hbo.eu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hbo.eu",
+    "source": {
+      "list": "HBO",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hbo.hr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hbo.hr",
+    "source": {
+      "list": "HBO",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hbo.hu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hbo.hu",
+    "source": {
+      "list": "HBO",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hbo.map.fastly.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hbo.map.fastly.net",
+    "source": {
+      "list": "HBO",
+      "line": 66
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hbo.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hbo.me",
+    "source": {
+      "list": "HBO",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hbo.mk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hbo.mk",
+    "source": {
+      "list": "HBO",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hbo.pl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hbo.pl",
+    "source": {
+      "list": "HBO",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hbo.ro",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hbo.ro",
+    "source": {
+      "list": "HBO",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hbo.rs",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hbo.rs",
+    "source": {
+      "list": "HBO",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hbo.sk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hbo.sk",
+    "source": {
+      "list": "HBO",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hboaccess.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hboaccess.com",
+    "source": {
+      "list": "HBO",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hboarchives.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hboarchives.com",
+    "source": {
+      "list": "HBO",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hboasia.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hboasia.com",
+    "source": {
+      "list": "HBO",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hboenterprises.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hboenterprises.com",
+    "source": {
+      "list": "HBO",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hboespana.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hboespana.com",
+    "source": {
+      "list": "HBO",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hbogo.co.th",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hbogo.co.th",
+    "source": {
+      "list": "HBO",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hbogo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hbogo.com",
+    "source": {
+      "list": "HBO",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hbogo.cz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hbogo.cz",
+    "source": {
+      "list": "HBO",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hbogo.eu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hbogo.eu",
+    "source": {
+      "list": "HBO",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hbogo.hu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hbogo.hu",
+    "source": {
+      "list": "HBO",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hbogo.sk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hbogo.sk",
+    "source": {
+      "list": "HBO",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hbogoasia.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hbogoasia.com",
+    "source": {
+      "list": "HBO",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hbogoasia.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hbogoasia.hk",
+    "source": {
+      "list": "HBO",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hbogoasia.id",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hbogoasia.id",
+    "source": {
+      "list": "HBO",
+      "line": 37
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hbogoasia.my",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hbogoasia.my",
+    "source": {
+      "list": "HBO",
+      "line": 38
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hbogoasia.ph",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hbogoasia.ph",
+    "source": {
+      "list": "HBO",
+      "line": 39
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hbogoasia.sg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hbogoasia.sg",
+    "source": {
+      "list": "HBO",
+      "line": 40
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hbogoasia.tw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hbogoasia.tw",
+    "source": {
+      "list": "HBO",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hboinflight.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hboinflight.com",
+    "source": {
+      "list": "HBO",
+      "line": 42
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hbolacontent.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hbolacontent.net",
+    "source": {
+      "list": "HBO",
+      "line": 43
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hbolaunchpad.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hbolaunchpad.com",
+    "source": {
+      "list": "HBO",
+      "line": 44
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hbomailman.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hbomailman.com",
+    "source": {
+      "list": "HBO",
+      "line": 45
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hbomax-images.warnermediacdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hbomax-images.warnermediacdn.com",
+    "source": {
+      "list": "HBO",
+      "line": 67
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hbomax.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hbomax.com",
+    "source": {
+      "list": "HBO",
+      "line": 46
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hbomax.eu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hbomax.eu",
+    "source": {
+      "list": "HBO",
+      "line": 47
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hbomaxcdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hbomaxcdn.com",
+    "source": {
+      "list": "HBO",
+      "line": 48
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hbomaxdash.s.llnwi.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hbomaxdash.s.llnwi.net",
+    "source": {
+      "list": "HBO",
+      "line": 68
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hbomediarelations.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hbomediarelations.com",
+    "source": {
+      "list": "HBO",
+      "line": 49
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hbonordic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hbonordic.com",
+    "source": {
+      "list": "HBO",
+      "line": 50
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hbonordic.tv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hbonordic.tv",
+    "source": {
+      "list": "HBO",
+      "line": 51
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hbonow.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hbonow.com",
+    "source": {
+      "list": "HBO",
+      "line": 52
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hboportugal.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hboportugal.com",
+    "source": {
+      "list": "HBO",
+      "line": 53
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hboprod.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hboprod.com",
+    "source": {
+      "list": "HBO",
+      "line": 54
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hbospain.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hbospain.com",
+    "source": {
+      "list": "HBO",
+      "line": 55
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hbotvsales.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hbotvsales.com",
+    "source": {
+      "list": "HBO",
+      "line": 56
+    }
+  },
+  {
+    "type": "domain",
+    "value": "homebox.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:homebox.com",
+    "source": {
+      "list": "HBO",
+      "line": 57
+    }
+  },
+  {
+    "type": "domain",
+    "value": "homeboxoffice.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:homeboxoffice.com",
+    "source": {
+      "list": "HBO",
+      "line": 58
+    }
+  },
+  {
+    "type": "domain",
+    "value": "max.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:max.com",
+    "source": {
+      "list": "HBO",
+      "line": 59
+    }
+  },
+  {
+    "type": "domain",
+    "value": "maxgo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:maxgo.com",
+    "source": {
+      "list": "HBO",
+      "line": 60
+    }
+  },
+  {
+    "type": "domain",
+    "value": "redbyhbo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:redbyhbo.com",
+    "source": {
+      "list": "HBO",
+      "line": 61
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "caiyunai.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:caiyunai.com",
+    "source": {
+      "list": "COLORFULCLOUDS",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "caiyunapp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:caiyunapp.com",
+    "source": {
+      "list": "COLORFULCLOUDS",
+      "line": 2
+    }
+  }
+]

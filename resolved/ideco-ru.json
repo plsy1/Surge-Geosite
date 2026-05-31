@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "ideco.dev",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ideco.dev",
+    "source": {
+      "list": "IDECO-RU",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ideco.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ideco.ru",
+    "source": {
+      "list": "IDECO-RU",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "idecosoftware.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:idecosoftware.ru",
+    "source": {
+      "list": "IDECO-RU",
+      "line": 3
+    }
+  }
+]

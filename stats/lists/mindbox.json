@@ -1,0 +1,59 @@
+{
+  "name": "MINDBOX",
+  "source": {
+    "domain": 15,
+    "full": 7,
+    "keyword": 0,
+    "regexp": 0,
+    "include": 0,
+    "affiliations": 0,
+    "attributes": 10
+  },
+  "resolved": {
+    "rules": 22,
+    "domain": 15,
+    "full": 7,
+    "keyword": 0,
+    "regexp": 0
+  },
+  "filters": {
+    "attrs": {
+      "ads": 10
+    }
+  },
+  "modes": {
+    "strict": {
+      "rules": 22,
+      "bytes": 603,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "balanced": {
+      "rules": 22,
+      "bytes": 603,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "full": {
+      "rules": 22,
+      "bytes": 603,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    }
+  }
+}

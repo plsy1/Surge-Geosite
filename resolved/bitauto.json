@@ -1,0 +1,57 @@
+[
+  {
+    "type": "domain",
+    "value": "bitauto.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bitauto.com",
+    "source": {
+      "list": "BITAUTO",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bitautoimg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bitautoimg.com",
+    "source": {
+      "list": "BITAUTO",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cheyisou.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cheyisou.com",
+    "source": {
+      "list": "BITAUTO",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yccdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yccdn.com",
+    "source": {
+      "list": "BITAUTO",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yiche.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yiche.com",
+    "source": {
+      "list": "BITAUTO",
+      "line": 4
+    }
+  }
+]

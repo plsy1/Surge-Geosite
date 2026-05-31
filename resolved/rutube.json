@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "rtbcdn.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rtbcdn.ru",
+    "source": {
+      "list": "RUTUBE",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rutube.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rutube.ru",
+    "source": {
+      "list": "RUTUBE",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rutubelist.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rutubelist.ru",
+    "source": {
+      "list": "RUTUBE",
+      "line": 2
+    }
+  }
+]

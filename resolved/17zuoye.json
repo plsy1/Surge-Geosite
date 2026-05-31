@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "17zuoye.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:17zuoye.cn",
+    "source": {
+      "list": "17ZUOYE",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "17zuoye.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:17zuoye.com",
+    "source": {
+      "list": "17ZUOYE",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "17zuoye.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:17zuoye.net",
+    "source": {
+      "list": "17ZUOYE",
+      "line": 3
+    }
+  }
+]

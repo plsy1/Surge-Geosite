@@ -1,0 +1,57 @@
+[
+  {
+    "type": "domain",
+    "value": "hf-aw.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hf-aw.cn",
+    "source": {
+      "list": "WEATHERCN",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hf-aw.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hf-aw.com",
+    "source": {
+      "list": "WEATHERCN",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "huafeng-accuweather.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:huafeng-accuweather.cn",
+    "source": {
+      "list": "WEATHERCN",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "huafengaw.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:huafengaw.com",
+    "source": {
+      "list": "WEATHERCN",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "weathercn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:weathercn.com",
+    "source": {
+      "list": "WEATHERCN",
+      "line": 6
+    }
+  }
+]

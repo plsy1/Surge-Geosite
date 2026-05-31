@@ -1,0 +1,57 @@
+[
+  {
+    "type": "domain",
+    "value": "poe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:poe.com",
+    "source": {
+      "list": "POE",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "poecdn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:poecdn.net",
+    "source": {
+      "list": "POE",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qr.ae",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qr.ae",
+    "source": {
+      "list": "QUORA",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "quora.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:quora.com",
+    "source": {
+      "list": "QUORA",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "quoracdn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:quoracdn.net",
+    "source": {
+      "list": "QUORA",
+      "line": 5
+    }
+  }
+]

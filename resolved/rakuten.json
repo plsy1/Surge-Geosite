@@ -1,0 +1,123 @@
+[
+  {
+    "type": "domain",
+    "value": "r10s.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:r10s.com",
+    "source": {
+      "list": "RAKUTEN",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "r10s.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:r10s.jp",
+    "source": {
+      "list": "RAKUTEN",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rakuten-static.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rakuten-static.com",
+    "source": {
+      "list": "RAKUTEN",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rakuten.ca",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rakuten.ca",
+    "source": {
+      "list": "RAKUTEN",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rakuten.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rakuten.co.jp",
+    "source": {
+      "list": "RAKUTEN",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rakuten.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rakuten.com",
+    "source": {
+      "list": "RAKUTEN",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rakuten.com.tw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rakuten.com.tw",
+    "source": {
+      "list": "RAKUTEN",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rakuten.ne.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rakuten.ne.jp",
+    "source": {
+      "list": "RAKUTEN",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rakuten.tw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rakuten.tw",
+    "source": {
+      "list": "RAKUTEN",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rclon.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rclon.com",
+    "source": {
+      "list": "RAKUTEN",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rebates.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rebates.jp",
+    "source": {
+      "list": "RAKUTEN",
+      "line": 11
+    }
+  }
+]

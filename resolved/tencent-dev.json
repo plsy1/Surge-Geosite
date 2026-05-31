@@ -1,0 +1,169 @@
+[
+  {
+    "type": "domain",
+    "value": "badjs.weixinbridge.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:badjs.weixinbridge.com:@ads",
+    "source": {
+      "list": "TENCENT-DEV",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cnb.cool",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cnb.cool",
+    "source": {
+      "list": "CNB",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "coding.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:coding.me",
+    "source": {
+      "list": "CODING",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "coding.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:coding.net",
+    "source": {
+      "list": "CODING",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "openmidas.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:openmidas.com",
+    "source": {
+      "list": "TENCENT-DEV",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qq.design",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qq.design",
+    "source": {
+      "list": "TENCENT-DEV",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qqgamedesign.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qqgamedesign.com",
+    "source": {
+      "list": "TENCENT-DEV",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tencent-cloud.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tencent-cloud.cn",
+    "source": {
+      "list": "TENCENT-DEV",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tencent-cloud.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tencent-cloud.com",
+    "source": {
+      "list": "TENCENT-DEV",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tencent.design",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tencent.design",
+    "source": {
+      "list": "TENCENT-DEV",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tencentcloud.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tencentcloud.com",
+    "source": {
+      "list": "TENCENT-DEV",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tjstats.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tjstats.com",
+    "source": {
+      "list": "TENCENT-DEV",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wegamedeveloper.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wegamedeveloper.com",
+    "source": {
+      "list": "TENCENT-DEV",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "weixinbridge.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:weixinbridge.com",
+    "source": {
+      "list": "TENCENT-DEV",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "weui.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:weui.io",
+    "source": {
+      "list": "TENCENT-DEV",
+      "line": 14
+    }
+  }
+]

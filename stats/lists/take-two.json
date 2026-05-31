@@ -1,0 +1,57 @@
+{
+  "name": "TAKE-TWO",
+  "source": {
+    "domain": 1,
+    "full": 0,
+    "keyword": 0,
+    "regexp": 0,
+    "include": 3,
+    "affiliations": 0,
+    "attributes": 0
+  },
+  "resolved": {
+    "rules": 16,
+    "domain": 13,
+    "full": 3,
+    "keyword": 0,
+    "regexp": 0
+  },
+  "filters": {
+    "attrs": {}
+  },
+  "modes": {
+    "strict": {
+      "rules": 16,
+      "bytes": 503,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "balanced": {
+      "rules": 16,
+      "bytes": 503,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "full": {
+      "rules": 16,
+      "bytes": 503,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    }
+  }
+}

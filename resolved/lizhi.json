@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "lizhi.fm",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lizhi.fm",
+    "source": {
+      "list": "LIZHI",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lizhifm.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lizhifm.com",
+    "source": {
+      "list": "LIZHI",
+      "line": 2
+    }
+  }
+]

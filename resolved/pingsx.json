@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "ping.sx",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ping.sx",
+    "source": {
+      "list": "PINGSX",
+      "line": 1
+    }
+  },
+  {
+    "type": "full",
+    "value": "public-us-pingsx.api.clonoth.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:public-us-pingsx.api.clonoth.com",
+    "source": {
+      "list": "PINGSX",
+      "line": 2
+    }
+  }
+]

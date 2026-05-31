@@ -1,0 +1,46 @@
+[
+  {
+    "type": "domain",
+    "value": "liv.ac.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:liv.ac.uk",
+    "source": {
+      "list": "UOLIV",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "liverpool.ac.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:liverpool.ac.uk",
+    "source": {
+      "list": "UOLIV",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "livinno.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:livinno.org",
+    "source": {
+      "list": "UOLIV",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "opac-project.eu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:opac-project.eu",
+    "source": {
+      "list": "UOLIV",
+      "line": 5
+    }
+  }
+]

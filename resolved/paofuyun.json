@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "paofu.cloud",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paofu.cloud",
+    "source": {
+      "list": "PAOFUYUN",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paofuyun.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paofuyun.me",
+    "source": {
+      "list": "PAOFUYUN",
+      "line": 2
+    }
+  }
+]

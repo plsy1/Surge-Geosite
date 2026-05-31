@@ -1,0 +1,129 @@
+[
+  {
+    "type": "domain",
+    "value": "adashx.ut.ele.me",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:adashx.ut.ele.me:@ads",
+    "source": {
+      "list": "ELEME",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "doservice.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:doservice.com",
+    "source": {
+      "list": "ELEME",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ele.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ele.me",
+    "source": {
+      "list": "ELEME",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ele.to",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ele.to",
+    "source": {
+      "list": "ELEME",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "eleme.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:eleme.cn",
+    "source": {
+      "list": "ELEME",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "eleme.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:eleme.io",
+    "source": {
+      "list": "ELEME",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "elemecdn.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:elemecdn.cn",
+    "source": {
+      "list": "ELEME",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "elemecdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:elemecdn.com",
+    "source": {
+      "list": "ELEME",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "elenet.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:elenet.me",
+    "source": {
+      "list": "ELEME",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "h-adashx.ut.ele.me",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:h-adashx.ut.ele.me:@ads",
+    "source": {
+      "list": "ELEME",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "v6-adashx.ut.ele.me",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:v6-adashx.ut.ele.me:@ads",
+    "source": {
+      "list": "ELEME",
+      "line": 13
+    }
+  }
+]

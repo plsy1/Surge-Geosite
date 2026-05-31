@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "showtime.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:showtime.com",
+    "source": {
+      "list": "SHOWTIMEANYTIME",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "showtimeanytime.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:showtimeanytime.com",
+    "source": {
+      "list": "SHOWTIMEANYTIME",
+      "line": 1
+    }
+  }
+]

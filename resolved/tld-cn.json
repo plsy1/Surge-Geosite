@@ -1,0 +1,464 @@
+[
+  {
+    "type": "domain",
+    "value": "alibaba",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:alibaba",
+    "source": {
+      "list": "TLD-CN",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "alipay",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:alipay",
+    "source": {
+      "list": "TLD-CN",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "baidu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:baidu",
+    "source": {
+      "list": "TLD-CN",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "citic",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:citic",
+    "source": {
+      "list": "TLD-CN",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cn",
+    "source": {
+      "list": "TLD-CN",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icbc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icbc",
+    "source": {
+      "list": "TLD-CN",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sohu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sohu",
+    "source": {
+      "list": "TLD-CN",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "taobao",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:taobao",
+    "source": {
+      "list": "TLD-CN",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tmall",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tmall",
+    "source": {
+      "list": "TLD-CN",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "unicom",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:unicom",
+    "source": {
+      "list": "TLD-CN",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--1qqw23a",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--1qqw23a",
+    "source": {
+      "list": "TLD-CN",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--3bst00m",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--3bst00m",
+    "source": {
+      "list": "TLD-CN",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--3ds443g",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--3ds443g",
+    "source": {
+      "list": "TLD-CN",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--55qw42g",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--55qw42g",
+    "source": {
+      "list": "TLD-CN",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--55qx5d",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--55qx5d",
+    "source": {
+      "list": "TLD-CN",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--5tzm5g",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--5tzm5g",
+    "source": {
+      "list": "TLD-CN",
+      "line": 44
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--6frz82g",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--6frz82g",
+    "source": {
+      "list": "TLD-CN",
+      "line": 43
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--6qq986b3xl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--6qq986b3xl",
+    "source": {
+      "list": "TLD-CN",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--8y0a063a",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--8y0a063a",
+    "source": {
+      "list": "TLD-CN",
+      "line": 45
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--9et52u",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--9et52u",
+    "source": {
+      "list": "TLD-CN",
+      "line": 42
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--czr694b",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--czr694b",
+    "source": {
+      "list": "TLD-CN",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--czrs0t",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--czrs0t",
+    "source": {
+      "list": "TLD-CN",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--czru2d",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--czru2d",
+    "source": {
+      "list": "TLD-CN",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--fiq228c5hs",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--fiq228c5hs",
+    "source": {
+      "list": "TLD-CN",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--fiq64b",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--fiq64b",
+    "source": {
+      "list": "TLD-CN",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--fiqs8s",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--fiqs8s",
+    "source": {
+      "list": "TLD-CN",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--fiqz9s",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--fiqz9s",
+    "source": {
+      "list": "TLD-CN",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--fjq720a",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--fjq720a",
+    "source": {
+      "list": "TLD-CN",
+      "line": 37
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--g2xx48c",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--g2xx48c",
+    "source": {
+      "list": "TLD-CN",
+      "line": 39
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--hxt814e",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--hxt814e",
+    "source": {
+      "list": "TLD-CN",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--imr513n",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--imr513n",
+    "source": {
+      "list": "TLD-CN",
+      "line": 40
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--io0a7i",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--io0a7i",
+    "source": {
+      "list": "TLD-CN",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--kput3i",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--kput3i",
+    "source": {
+      "list": "TLD-CN",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--nyqy26a",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--nyqy26a",
+    "source": {
+      "list": "TLD-CN",
+      "line": 47
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--otu796d",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--otu796d",
+    "source": {
+      "list": "TLD-CN",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--rhqv96g",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--rhqv96g",
+    "source": {
+      "list": "TLD-CN",
+      "line": 46
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--ses554g",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--ses554g",
+    "source": {
+      "list": "TLD-CN",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--unup4y",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--unup4y",
+    "source": {
+      "list": "TLD-CN",
+      "line": 38
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--vhquv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--vhquv",
+    "source": {
+      "list": "TLD-CN",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--vuq861b",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--vuq861b",
+    "source": {
+      "list": "TLD-CN",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--xhq521b",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--xhq521b",
+    "source": {
+      "list": "TLD-CN",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--zfr164b",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--zfr164b",
+    "source": {
+      "list": "TLD-CN",
+      "line": 18
+    }
+  }
+]

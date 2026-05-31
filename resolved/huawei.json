@@ -1,0 +1,3835 @@
+[
+  {
+    "type": "domain",
+    "value": "26r9y.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:26r9y.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 265
+    }
+  },
+  {
+    "type": "domain",
+    "value": "2gkjr.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:2gkjr.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 254
+    }
+  },
+  {
+    "type": "domain",
+    "value": "3ili6.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:3ili6.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 269
+    }
+  },
+  {
+    "type": "domain",
+    "value": "576nt.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:576nt.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 277
+    }
+  },
+  {
+    "type": "domain",
+    "value": "59bob.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:59bob.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 242
+    }
+  },
+  {
+    "type": "domain",
+    "value": "6ts7c.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:6ts7c.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 253
+    }
+  },
+  {
+    "type": "domain",
+    "value": "7k2k1.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:7k2k1.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 273
+    }
+  },
+  {
+    "type": "domain",
+    "value": "8gcdp.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:8gcdp.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 275
+    }
+  },
+  {
+    "type": "domain",
+    "value": "8n82b.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:8n82b.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 259
+    }
+  },
+  {
+    "type": "domain",
+    "value": "9coof.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:9coof.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 266
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aadcloud.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aadcloud.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aadcloud.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aadcloud.com",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "abhouses.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:abhouses.com",
+    "source": {
+      "list": "HUAWEI",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "acgab.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:acgab.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 263
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ae-ad-1.myhuaweicloud.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:ae-ad-1.myhuaweicloud.com:@!cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 99
+    }
+  },
+  {
+    "type": "domain",
+    "value": "af-east-201.myhuaweicloud.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:af-east-201.myhuaweicloud.com:@!cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 100
+    }
+  },
+  {
+    "type": "domain",
+    "value": "af-north-1.myhuaweicloud.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:af-north-1.myhuaweicloud.com:@!cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 101
+    }
+  },
+  {
+    "type": "domain",
+    "value": "af-south-1.myhuaweicloud.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:af-south-1.myhuaweicloud.com:@!cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 102
+    }
+  },
+  {
+    "type": "domain",
+    "value": "af-west-202.myhuaweicloud.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:af-west-202.myhuaweicloud.com:@!cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 103
+    }
+  },
+  {
+    "type": "domain",
+    "value": "agconnect.link",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:agconnect.link",
+    "source": {
+      "list": "HUAWEI",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ami-alliance.org.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ami-alliance.org.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ap-northeast-201.myhuaweicloud.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:ap-northeast-201.myhuaweicloud.com:@!cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 104
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ap-southeast-1.myhuaweicloud.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:ap-southeast-1.myhuaweicloud.com:@!cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 105
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ap-southeast-2.myhuaweicloud.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:ap-southeast-2.myhuaweicloud.com:@!cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 106
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ap-southeast-201.myhuaweicloud.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:ap-southeast-201.myhuaweicloud.com:@!cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 107
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ap-southeast-202.myhuaweicloud.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:ap-southeast-202.myhuaweicloud.com:@!cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 108
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ap-southeast-203.myhuaweicloud.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:ap-southeast-203.myhuaweicloud.com:@!cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 109
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ap-southeast-3.myhuaweicloud.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:ap-southeast-3.myhuaweicloud.com:@!cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 110
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ap-southeast-4.myhuaweicloud.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:ap-southeast-4.myhuaweicloud.com:@!cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 111
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ap-southeast-5.myhuaweicloud.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:ap-southeast-5.myhuaweicloud.com:@!cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 112
+    }
+  },
+  {
+    "type": "domain",
+    "value": "as-south-0.myhuaweicloud.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:as-south-0.myhuaweicloud.com:@!cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 113
+    }
+  },
+  {
+    "type": "domain",
+    "value": "as-south-201.myhuaweicloud.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:as-south-201.myhuaweicloud.com:@!cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 114
+    }
+  },
+  {
+    "type": "domain",
+    "value": "as-south-205.myhuaweicloud.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:as-south-205.myhuaweicloud.com:@!cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 115
+    }
+  },
+  {
+    "type": "domain",
+    "value": "as-south-207.myhuaweicloud.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:as-south-207.myhuaweicloud.com:@!cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 116
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azkr2.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:azkr2.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 246
+    }
+  },
+  {
+    "type": "domain",
+    "value": "b2bgo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:b2bgo.com",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bisheng.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bisheng.cn",
+    "source": {
+      "list": "HUAWEI-DEV",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bishengcompiler.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bishengcompiler.cn",
+    "source": {
+      "list": "HUAWEI-DEV",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "buf35.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:buf35.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 248
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ca-east-201.myhuaweicloud.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:ca-east-201.myhuaweicloud.com:@!cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 117
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwc1.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwc1.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 280
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwc1.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwc1.com",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 290
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwc10.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwc10.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 289
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwc10.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwc10.com",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 299
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwc2.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwc2.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 281
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwc2.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwc2.com",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 291
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwc3.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwc3.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 282
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwc3.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwc3.com",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 292
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwc4.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwc4.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 283
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwc4.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwc4.com",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 293
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwc5.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwc5.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 284
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwc5.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwc5.com",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 294
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwc6.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwc6.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 285
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwc6.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwc6.com",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 295
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwc7.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwc7.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 286
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwc7.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwc7.com",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 296
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwc8.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwc8.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 287
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwc8.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwc8.com",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 297
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwc9.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwc9.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 288
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwc9.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwc9.com",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 298
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwcaip122.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwcaip122.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 235
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwcajk17.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwcajk17.com",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 159
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwcaoc115.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwcaoc115.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 228
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwcatq08.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwcatq08.com",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 149
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwcbie120.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwcbie120.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 233
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwcbni108.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwcbni108.com",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 197
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwcbqs106.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwcbqs106.com",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 195
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwcbvo20.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwcbvo20.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 185
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwcbzj102.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwcbzj102.com",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 191
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwcchh18.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwcchh18.com",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 160
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwccmz121.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwccmz121.com",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 210
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwccvo19.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwccvo19.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 184
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwcdkd21.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwcdkd21.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 186
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwcdvg22.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwcdvg22.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 187
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwcead111.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwcead111.com",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 200
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwcedi10.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwcedi10.com",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 151
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwcedt124.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwcedt124.com",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 213
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwceft18.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwceft18.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 183
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwceod109.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwceod109.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 223
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwcfzp15.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwcfzp15.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 180
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwcggk22.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwcggk22.com",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 163
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwcgnc118.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwcgnc118.com",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 207
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwcgqa21.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwcgqa21.com",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 172
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwcgrb01.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwcgrb01.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 166
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwcgvs16.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwcgvs16.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 181
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwchcg02.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwchcg02.com",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 143
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwcibv122.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwcibv122.com",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 211
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwcick110.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwcick110.com",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 199
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwcidu117.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwcidu117.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 230
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwcjbj05.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwcjbj05.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 170
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwcjkl10.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwcjkl10.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 175
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwcjlg112.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwcjlg112.com",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 201
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwcjog12.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwcjog12.com",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 154
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwcjqv17.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwcjqv17.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 192
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwcjsb120.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwcjsb120.com",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 209
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwckbw08.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwckbw08.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 173
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwckfd24.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwckfd24.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 189
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwckfz116.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwckfz116.com",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 205
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwckon103.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwckon103.com",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 202
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwcljk104.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwcljk104.com",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 193
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwclkl04.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwclkl04.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 169
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwcllh11.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwcllh11.com",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 153
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwclnh23.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwclnh23.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 188
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwclrd102.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwclrd102.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 215
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwclsl119.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwclsl119.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 231
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwclxu105.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwclxu105.com",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 194
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwclxw05.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwclxw05.com",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 146
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwcoem01.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwcoem01.com",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 152
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwcofl101.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwcofl101.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 214
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwcogx108.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwcogx108.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 221
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwcohm19.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwcohm19.com",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 161
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwcojn124.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwcojn124.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 237
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwconz06.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwconz06.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 171
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwcoph123.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwcoph123.com",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 222
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwcozb112.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwcozb112.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 226
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwcpcw110.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwcpcw110.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 224
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwcpqh13.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwcpqh13.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 178
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwcprh113.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwcprh113.com",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 212
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwcpsd13.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwcpsd13.com",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 155
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwcqgw115.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwcqgw115.com",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 204
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwcqir15.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwcqir15.com",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 157
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwcqrr114.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwcqrr114.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 227
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwcqve117.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwcqve117.com",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 206
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwcqvk105.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwcqvk105.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 218
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwcqwg14.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwcqwg14.com",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 156
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwcrgg07.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwcrgg07.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 182
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwcrpp12.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwcrpp12.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 177
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwcscc123.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwcscc123.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 238
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwcsjs09.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwcsjs09.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 174
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwcsux118.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwcsux118.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 232
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwctmz11.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwctmz11.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 176
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwctnm107.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwctnm107.com",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 196
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwctxz24.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwctxz24.com",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 165
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwctyd116.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwctyd116.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 229
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwcuim119.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwcuim119.com",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 208
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwcupf06.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwcupf06.com",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 147
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwcurq03.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwcurq03.com",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 144
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwcurr103.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwcurr103.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 216
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwcuwd107.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwcuwd107.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 220
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwcuxc121.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwcuxc121.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 234
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwcvix16.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwcvix16.com",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 158
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwcwqz113.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwcwqz113.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 236
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwcxcy07.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwcxcy07.com",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 148
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwcxsi14.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwcxsi14.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 179
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwcywp03.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwcywp03.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 168
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwcyxb02.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwcyxb02.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 167
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwczba04.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwczba04.com",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 145
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwczic111.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwczic111.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 225
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwczid104.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwczid104.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 217
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwczjt20.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwczjt20.com",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 162
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwczks109.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwczks109.com",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 198
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwczmn114.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwczmn114.com",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 203
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwczoy106.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwczoy106.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 219
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwczth23.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwczth23.com",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 164
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwcztu09.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwcztu09.com",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 150
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnhwczxh101.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnhwczxh101.com",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 190
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cza84.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cza84.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 274
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dbank.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dbank.com",
+    "source": {
+      "list": "HUAWEI",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dbankcdn.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dbankcdn.cn",
+    "source": {
+      "list": "HUAWEI",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dbankcdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dbankcdn.com",
+    "source": {
+      "list": "HUAWEI",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dbankcloud.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dbankcloud.cn",
+    "source": {
+      "list": "HUAWEI",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dbankcloud.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dbankcloud.com",
+    "source": {
+      "list": "HUAWEI",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dbankcloud.ru",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:dbankcloud.ru:@!cn",
+    "source": {
+      "list": "HUAWEI",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dbankedge.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dbankedge.cn",
+    "source": {
+      "list": "HUAWEI",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dbankedge.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dbankedge.net",
+    "source": {
+      "list": "HUAWEI",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "devui.design",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:devui.design",
+    "source": {
+      "list": "HUAWEI-DEV",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dt.dbankcloud.ru",
+    "attrs": [
+      "!cn",
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:dt.dbankcloud.ru:@!cn,@ads",
+    "source": {
+      "list": "HUAWEI",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "eduapaashwc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:eduapaashwc.com",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "eu-central-201.myhuaweicloud.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:eu-central-201.myhuaweicloud.com:@!cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 118
+    }
+  },
+  {
+    "type": "domain",
+    "value": "eu-central-202.myhuaweicloud.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:eu-central-202.myhuaweicloud.com:@!cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 119
+    }
+  },
+  {
+    "type": "domain",
+    "value": "eu-north-201.myhuaweicloud.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:eu-north-201.myhuaweicloud.com:@!cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 120
+    }
+  },
+  {
+    "type": "domain",
+    "value": "eu-west-0.myhuaweicloud.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:eu-west-0.myhuaweicloud.com:@!cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 121
+    }
+  },
+  {
+    "type": "domain",
+    "value": "eu-west-1.myhuaweicloud.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:eu-west-1.myhuaweicloud.com:@!cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 122
+    }
+  },
+  {
+    "type": "domain",
+    "value": "eu-west-101.myhuaweicloud.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:eu-west-101.myhuaweicloud.com:@!cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 123
+    }
+  },
+  {
+    "type": "domain",
+    "value": "eu-west-201.myhuaweicloud.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:eu-west-201.myhuaweicloud.com:@!cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 124
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fpxyo.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fpxyo.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 250
+    }
+  },
+  {
+    "type": "domain",
+    "value": "functiongraph.run",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:functiongraph.run",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gneec.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gneec.com",
+    "source": {
+      "list": "HUAWEI-DEV",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gneec.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gneec.com.cn",
+    "source": {
+      "list": "HUAWEI-DEV",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gneec3.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gneec3.com",
+    "source": {
+      "list": "HUAWEI-DEV",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gneec4.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gneec4.com",
+    "source": {
+      "list": "HUAWEI-DEV",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gneec7.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gneec7.com",
+    "source": {
+      "list": "HUAWEI-DEV",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "harmonyos.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:harmonyos.com",
+    "source": {
+      "list": "HUAWEI-DEV",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hc-cdn.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hc-cdn.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hc-cdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hc-cdn.com",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hc-sre.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hc-sre.com",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hiascend.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hiascend.cn",
+    "source": {
+      "list": "HUAWEI-DEV",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hiascend.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hiascend.com",
+    "source": {
+      "list": "HUAWEI-DEV",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hiclc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hiclc.com",
+    "source": {
+      "list": "HUAWEI-DEV",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hicloud.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hicloud.com",
+    "source": {
+      "list": "HUAWEI",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hikunpeng.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hikunpeng.cn",
+    "source": {
+      "list": "HUAWEI-DEV",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hikunpeng.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hikunpeng.com",
+    "source": {
+      "list": "HUAWEI-DEV",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hikunpeng.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hikunpeng.com.cn",
+    "source": {
+      "list": "HUAWEI-DEV",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hikunpeng.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hikunpeng.net",
+    "source": {
+      "list": "HUAWEI-DEV",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hisilicon.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hisilicon.com",
+    "source": {
+      "list": "HUAWEI-DEV",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hisilicon.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hisilicon.com.cn",
+    "source": {
+      "list": "HUAWEI-DEV",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hiu58.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hiu58.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 244
+    }
+  },
+  {
+    "type": "domain",
+    "value": "huawei.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:huawei.cn",
+    "source": {
+      "list": "HUAWEI",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "huawei.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:huawei.com",
+    "source": {
+      "list": "HUAWEI",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "huawei.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:huawei.com.cn",
+    "source": {
+      "list": "HUAWEI",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "huaweiacad.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:huaweiacad.com",
+    "source": {
+      "list": "HUAWEI",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "huaweiapaas.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:huaweiapaas.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "huaweiapaas.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:huaweiapaas.com",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "huaweicloud-dns.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:huaweicloud-dns.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "huaweicloud-dns.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:huaweicloud-dns.com",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "huaweicloud-dns.net",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:huaweicloud-dns.net:@!cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "huaweicloud-dns.org",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:huaweicloud-dns.org:@!cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "huaweicloud-idme.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:huaweicloud-idme.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "huaweicloud-idme.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:huaweicloud-idme.com",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "huaweicloud-koophone.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:huaweicloud-koophone.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "huaweicloud-koophone.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:huaweicloud-koophone.com",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "huaweicloud-smn.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:huaweicloud-smn.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "huaweicloud-smn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:huaweicloud-smn.com",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "huaweicloud-smn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:huaweicloud-smn.net",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "huaweicloud.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:huaweicloud.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "huaweicloud.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:huaweicloud.com",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "huaweicloudapis.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:huaweicloudapis.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "huaweicloudapis.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:huaweicloudapis.com",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "huaweicloudlive.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:huaweicloudlive.com",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "huaweicloudsite.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:huaweicloudsite.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "huaweicloudsite.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:huaweicloudsite.com",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "huaweicloudwaf.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:huaweicloudwaf.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "huaweicloudwaf.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:huaweicloudwaf.com",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "huaweiief.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:huaweiief.cn",
+    "source": {
+      "list": "HUAWEI",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "huaweiief.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:huaweiief.com",
+    "source": {
+      "list": "HUAWEI",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "huaweimarketplace.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:huaweimarketplace.com",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "huaweioneaccess.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:huaweioneaccess.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "huaweioneaccess.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:huaweioneaccess.com",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "huaweisafedns.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:huaweisafedns.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "huaweisafedns.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:huaweisafedns.com",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "huaweisafehub.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:huaweisafehub.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 37
+    }
+  },
+  {
+    "type": "domain",
+    "value": "huaweisre.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:huaweisre.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 38
+    }
+  },
+  {
+    "type": "domain",
+    "value": "huaweisre.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:huaweisre.com",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 39
+    }
+  },
+  {
+    "type": "domain",
+    "value": "huaweistatic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:huaweistatic.com",
+    "source": {
+      "list": "HUAWEI",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "huaweiyun.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:huaweiyun.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 40
+    }
+  },
+  {
+    "type": "domain",
+    "value": "huaweiyun.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:huaweiyun.com",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hwastro.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hwastro.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 42
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hwastro.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hwastro.com",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 43
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hwccpc.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hwccpc.cn",
+    "source": {
+      "list": "HUAWEI",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hwccpc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hwccpc.com",
+    "source": {
+      "list": "HUAWEI",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hwcdnsre.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hwcdnsre.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 44
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hwcdnsre.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hwcdnsre.com",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 45
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hwclouds-dns.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hwclouds-dns.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 46
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hwclouds-dns.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hwclouds-dns.com",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 47
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hwclouds-dns.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hwclouds-dns.net",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 48
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hwclouds.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hwclouds.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 49
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hwclouds.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hwclouds.com",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 50
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hwclouds.mobi",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hwclouds.mobi",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 51
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hwclouds.org.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hwclouds.org.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 52
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hwcloudsite.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hwcloudsite.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 53
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hwcloudsite.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hwcloudsite.com",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 54
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hwcloudvis.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hwcloudvis.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 55
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hwcloudvis.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hwcloudvis.com",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 56
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hweventgrid.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hweventgrid.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 57
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hweventgrid.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hweventgrid.com",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 58
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hwht.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hwht.cn",
+    "source": {
+      "list": "HUAWEI",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hwocloud.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hwocloud.com",
+    "source": {
+      "list": "HUAWEI",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hwtrip.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hwtrip.com",
+    "source": {
+      "list": "HUAWEI",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "idonguapi.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:idonguapi.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 59
+    }
+  },
+  {
+    "type": "domain",
+    "value": "idonguapi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:idonguapi.com",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 60
+    }
+  },
+  {
+    "type": "domain",
+    "value": "imc-oneaccess.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:imc-oneaccess.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 61
+    }
+  },
+  {
+    "type": "domain",
+    "value": "imcapptest.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:imcapptest.com",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 62
+    }
+  },
+  {
+    "type": "domain",
+    "value": "inanguapi.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:inanguapi.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 63
+    }
+  },
+  {
+    "type": "domain",
+    "value": "inanguapi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:inanguapi.com",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 64
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ivwi3.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ivwi3.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 272
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ixiguapi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ixiguapi.com",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 65
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ka9bv.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ka9bv.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 262
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kfomn.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kfomn.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 245
+    }
+  },
+  {
+    "type": "domain",
+    "value": "km6g.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:km6g.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 66
+    }
+  },
+  {
+    "type": "domain",
+    "value": "km7g.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:km7g.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 67
+    }
+  },
+  {
+    "type": "domain",
+    "value": "km8g.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:km8g.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 68
+    }
+  },
+  {
+    "type": "domain",
+    "value": "km9g.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:km9g.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 69
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kma1g.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kma1g.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 276
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kmcb-cn-east-3.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kmcb-cn-east-3.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 70
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kmcb-cn-north-4.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kmcb-cn-north-4.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 71
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kmop-cn-east-3.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kmop-cn-east-3.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 72
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kmop-cn-north-4.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kmop-cn-north-4.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 73
+    }
+  },
+  {
+    "type": "domain",
+    "value": "la-north-2.myhuaweicloud.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:la-north-2.myhuaweicloud.com:@!cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 125
+    }
+  },
+  {
+    "type": "domain",
+    "value": "la-north-205.myhuaweicloud.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:la-north-205.myhuaweicloud.com:@!cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 126
+    }
+  },
+  {
+    "type": "domain",
+    "value": "la-south-2.myhuaweicloud.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:la-south-2.myhuaweicloud.com:@!cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 127
+    }
+  },
+  {
+    "type": "domain",
+    "value": "le5vb.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:le5vb.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 257
+    }
+  },
+  {
+    "type": "domain",
+    "value": "livehwc3.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:livehwc3.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 74
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lu1da.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lu1da.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 271
+    }
+  },
+  {
+    "type": "domain",
+    "value": "me-east-1.myhuaweicloud.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:me-east-1.myhuaweicloud.com:@!cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 128
+    }
+  },
+  {
+    "type": "domain",
+    "value": "me-east-205.myhuaweicloud.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:me-east-205.myhuaweicloud.com:@!cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 129
+    }
+  },
+  {
+    "type": "domain",
+    "value": "me-east-208.myhuaweicloud.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:me-east-208.myhuaweicloud.com:@!cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 130
+    }
+  },
+  {
+    "type": "domain",
+    "value": "me-east-209.myhuaweicloud.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:me-east-209.myhuaweicloud.com:@!cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 131
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mindspore.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mindspore.cn",
+    "source": {
+      "list": "HUAWEI-DEV",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mle5p.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mle5p.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 264
+    }
+  },
+  {
+    "type": "domain",
+    "value": "modelarts-infer.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:modelarts-infer.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 75
+    }
+  },
+  {
+    "type": "domain",
+    "value": "modelarts-infer.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:modelarts-infer.com",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 76
+    }
+  },
+  {
+    "type": "domain",
+    "value": "modelarts-maas.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:modelarts-maas.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 77
+    }
+  },
+  {
+    "type": "domain",
+    "value": "modelarts-maas.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:modelarts-maas.com",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 78
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ms2tg.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ms2tg.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 261
+    }
+  },
+  {
+    "type": "domain",
+    "value": "my-kualalumpur-1.myhuaweicloud.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:my-kualalumpur-1.myhuaweicloud.com:@!cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 132
+    }
+  },
+  {
+    "type": "domain",
+    "value": "myhuaweicloud-custom.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:myhuaweicloud-custom.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 79
+    }
+  },
+  {
+    "type": "domain",
+    "value": "myhuaweicloud-custom.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:myhuaweicloud-custom.com",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 80
+    }
+  },
+  {
+    "type": "domain",
+    "value": "myhuaweicloud-koodrive.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:myhuaweicloud-koodrive.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 81
+    }
+  },
+  {
+    "type": "domain",
+    "value": "myhuaweicloud-koodrive.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:myhuaweicloud-koodrive.com",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 82
+    }
+  },
+  {
+    "type": "domain",
+    "value": "myhuaweicloud-obs.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:myhuaweicloud-obs.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 83
+    }
+  },
+  {
+    "type": "domain",
+    "value": "myhuaweicloud-obs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:myhuaweicloud-obs.com",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 84
+    }
+  },
+  {
+    "type": "domain",
+    "value": "myhuaweicloud.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:myhuaweicloud.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 85
+    }
+  },
+  {
+    "type": "domain",
+    "value": "myhuaweicloud.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:myhuaweicloud.com",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 86
+    }
+  },
+  {
+    "type": "domain",
+    "value": "myhwcdn.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:myhwcdn.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 87
+    }
+  },
+  {
+    "type": "domain",
+    "value": "myhwcdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:myhwcdn.com",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 88
+    }
+  },
+  {
+    "type": "domain",
+    "value": "myhwcloudlive.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:myhwcloudlive.com",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 89
+    }
+  },
+  {
+    "type": "domain",
+    "value": "myhwclouds.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:myhwclouds.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 90
+    }
+  },
+  {
+    "type": "domain",
+    "value": "myhwclouds.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:myhwclouds.com",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 91
+    }
+  },
+  {
+    "type": "domain",
+    "value": "myhwclouds.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:myhwclouds.com.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 92
+    }
+  },
+  {
+    "type": "domain",
+    "value": "myhwclouds.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:myhwclouds.net",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 93
+    }
+  },
+  {
+    "type": "domain",
+    "value": "na-east-0.myhuaweicloud.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:na-east-0.myhuaweicloud.com:@!cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 133
+    }
+  },
+  {
+    "type": "domain",
+    "value": "na-mexico-1.myhuaweicloud.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:na-mexico-1.myhuaweicloud.com:@!cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 134
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ns95c.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ns95c.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 255
+    }
+  },
+  {
+    "type": "domain",
+    "value": "o7mu8.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:o7mu8.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 241
+    }
+  },
+  {
+    "type": "domain",
+    "value": "owsgo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:owsgo.com",
+    "source": {
+      "list": "HUAWEI-DEV",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pagescube.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pagescube.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 94
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pagescube.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pagescube.com",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 95
+    }
+  },
+  {
+    "type": "domain",
+    "value": "powerapp.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:powerapp.io",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 96
+    }
+  },
+  {
+    "type": "domain",
+    "value": "r8zc9.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:r8zc9.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 252
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ru-moscow-1.myhuaweicloud.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:ru-moscow-1.myhuaweicloud.com:@!cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 135
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ru-northwest-2.myhuaweicloud.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:ru-northwest-2.myhuaweicloud.com:@!cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 136
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ru-northwest-201.myhuaweicloud.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:ru-northwest-201.myhuaweicloud.com:@!cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 137
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sa-brazil-1.myhuaweicloud.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:sa-brazil-1.myhuaweicloud.com:@!cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 138
+    }
+  },
+  {
+    "type": "domain",
+    "value": "saasops.tech",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:saasops.tech",
+    "source": {
+      "list": "HUAWEI-DEV",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "shanhaitujian.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:shanhaitujian.com",
+    "source": {
+      "list": "HUAWEI",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tc3bl.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tc3bl.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 243
+    }
+  },
+  {
+    "type": "domain",
+    "value": "teleows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:teleows.com",
+    "source": {
+      "list": "HUAWEI-DEV",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tm2a8.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tm2a8.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 251
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tm7sg.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tm7sg.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 256
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tr-west-1.myhuaweicloud.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:tr-west-1.myhuaweicloud.com:@!cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 139
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tzygd.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tzygd.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 267
+    }
+  },
+  {
+    "type": "domain",
+    "value": "us-east-1.myhuaweicloud.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:us-east-1.myhuaweicloud.com:@!cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 140
+    }
+  },
+  {
+    "type": "domain",
+    "value": "uwtmy.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:uwtmy.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 249
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vm45e.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vm45e.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 247
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vmall.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vmall.com",
+    "source": {
+      "list": "HUAWEI",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vmallres.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vmallres.com",
+    "source": {
+      "list": "HUAWEI",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vo6z2.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vo6z2.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 270
+    }
+  },
+  {
+    "type": "domain",
+    "value": "x9exk.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:x9exk.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 260
+    }
+  },
+  {
+    "type": "domain",
+    "value": "y43f6.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:y43f6.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 258
+    }
+  },
+  {
+    "type": "domain",
+    "value": "z95rr.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:z95rr.cn",
+    "source": {
+      "list": "HUAWEICLOUD",
+      "line": 268
+    }
+  }
+]

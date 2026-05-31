@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "deepl.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:deepl.com",
+    "source": {
+      "list": "LINGUEE",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "linguee.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:linguee.com",
+    "source": {
+      "list": "LINGUEE",
+      "line": 1
+    }
+  }
+]

@@ -1,0 +1,191 @@
+[
+  {
+    "type": "domain",
+    "value": "firebase.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:firebase.com",
+    "source": {
+      "list": "FIREBASE",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "firebase.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:firebase.io",
+    "source": {
+      "list": "FIREBASE",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "firebaseapp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:firebaseapp.com",
+    "source": {
+      "list": "FIREBASE",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "firebaseio.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:firebaseio.com",
+    "source": {
+      "list": "FIREBASE",
+      "line": 4
+    }
+  },
+  {
+    "type": "full",
+    "value": "firebase-settings.crashlytics.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:firebase-settings.crashlytics.com:@cn",
+    "source": {
+      "list": "FIREBASE",
+      "line": 6
+    }
+  },
+  {
+    "type": "full",
+    "value": "firebase.google.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:firebase.google.com",
+    "source": {
+      "list": "FIREBASE",
+      "line": 7
+    }
+  },
+  {
+    "type": "full",
+    "value": "firebase.googleapis.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:firebase.googleapis.com",
+    "source": {
+      "list": "FIREBASE",
+      "line": 8
+    }
+  },
+  {
+    "type": "full",
+    "value": "firebaseappcheck.googleapis.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:firebaseappcheck.googleapis.com",
+    "source": {
+      "list": "FIREBASE",
+      "line": 9
+    }
+  },
+  {
+    "type": "full",
+    "value": "firebasedynamiclinks-ipv4.googleapis.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:firebasedynamiclinks-ipv4.googleapis.com",
+    "source": {
+      "list": "FIREBASE",
+      "line": 10
+    }
+  },
+  {
+    "type": "full",
+    "value": "firebasedynamiclinks-ipv6.googleapis.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:firebasedynamiclinks-ipv6.googleapis.com",
+    "source": {
+      "list": "FIREBASE",
+      "line": 11
+    }
+  },
+  {
+    "type": "full",
+    "value": "firebasedynamiclinks.googleapis.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:firebasedynamiclinks.googleapis.com",
+    "source": {
+      "list": "FIREBASE",
+      "line": 12
+    }
+  },
+  {
+    "type": "full",
+    "value": "firebaseinappmessaging.googleapis.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:firebaseinappmessaging.googleapis.com",
+    "source": {
+      "list": "FIREBASE",
+      "line": 13
+    }
+  },
+  {
+    "type": "full",
+    "value": "firebaseinstallations.googleapis.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:firebaseinstallations.googleapis.com",
+    "source": {
+      "list": "FIREBASE",
+      "line": 14
+    }
+  },
+  {
+    "type": "full",
+    "value": "firebaselogging-pa.googleapis.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:firebaselogging-pa.googleapis.com",
+    "source": {
+      "list": "FIREBASE",
+      "line": 15
+    }
+  },
+  {
+    "type": "full",
+    "value": "firebaselogging.googleapis.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:firebaselogging.googleapis.com",
+    "source": {
+      "list": "FIREBASE",
+      "line": 16
+    }
+  },
+  {
+    "type": "full",
+    "value": "firebaseperusertopics-pa.googleapis.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:firebaseperusertopics-pa.googleapis.com",
+    "source": {
+      "list": "FIREBASE",
+      "line": 17
+    }
+  },
+  {
+    "type": "full",
+    "value": "firebaseremoteconfig.googleapis.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:firebaseremoteconfig.googleapis.com",
+    "source": {
+      "list": "FIREBASE",
+      "line": 18
+    }
+  }
+]

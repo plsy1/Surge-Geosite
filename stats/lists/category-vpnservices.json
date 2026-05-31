@@ -1,0 +1,57 @@
+{
+  "name": "CATEGORY-VPNSERVICES",
+  "source": {
+    "domain": 22,
+    "full": 0,
+    "keyword": 0,
+    "regexp": 0,
+    "include": 15,
+    "affiliations": 0,
+    "attributes": 0
+  },
+  "resolved": {
+    "rules": 66,
+    "domain": 66,
+    "full": 0,
+    "keyword": 0,
+    "regexp": 0
+  },
+  "filters": {
+    "attrs": {}
+  },
+  "modes": {
+    "strict": {
+      "rules": 66,
+      "bytes": 1785,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "balanced": {
+      "rules": 66,
+      "bytes": 1785,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "full": {
+      "rules": 66,
+      "bytes": 1785,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    }
+  }
+}

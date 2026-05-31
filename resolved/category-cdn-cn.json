@@ -1,0 +1,1041 @@
+[
+  {
+    "type": "domain",
+    "value": "51cdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:51cdn.com",
+    "source": {
+      "list": "WANGSU",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "8686c.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:8686c.com",
+    "source": {
+      "list": "WANGSU",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "acadn.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:acadn.cn",
+    "source": {
+      "list": "DWION",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "acadn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:acadn.com",
+    "source": {
+      "list": "DWION",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aicdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aicdn.com",
+    "source": {
+      "list": "UPAI",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bbbcdns.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bbbcdns.com",
+    "source": {
+      "list": "DWION",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bootcdn.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bootcdn.cn",
+    "source": {
+      "list": "BOOTCDN",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bootcdn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bootcdn.net",
+    "source": {
+      "list": "BOOTCDN",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bootcss.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bootcss.com",
+    "source": {
+      "list": "BOOTCDN",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bsclink.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bsclink.cn",
+    "source": {
+      "list": "BAISHANCLOUD",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdn20.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdn20.com",
+    "source": {
+      "list": "WANGSU",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdn30.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdn30.org",
+    "source": {
+      "list": "WANGSU",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnmg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnmg.com",
+    "source": {
+      "list": "WANGSU",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cf-china.info",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:cf-china.info:@cn",
+    "source": {
+      "list": "CLOUDFLARE-CN",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cf-ns.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:cf-ns.com:@cn",
+    "source": {
+      "list": "CLOUDFLARE-CN",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cf-ns.net",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:cf-ns.net:@cn",
+    "source": {
+      "list": "CLOUDFLARE-CN",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cf-ns.site",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:cf-ns.site:@cn",
+    "source": {
+      "list": "CLOUDFLARE-CN",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cf-ns.tech",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:cf-ns.tech:@cn",
+    "source": {
+      "list": "CLOUDFLARE-CN",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cftest5.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:cftest5.cn:@cn",
+    "source": {
+      "list": "CLOUDFLARE-CN",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cftest6.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:cftest6.cn:@cn",
+    "source": {
+      "list": "CLOUDFLARE-CN",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cftest7.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:cftest7.com:@cn",
+    "source": {
+      "list": "CLOUDFLARE-CN",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cftest8.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:cftest8.com:@cn",
+    "source": {
+      "list": "CLOUDFLARE-CN",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "chinanetcenter.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:chinanetcenter.com",
+    "source": {
+      "list": "WANGSU",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "chuangcache.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:chuangcache.com",
+    "source": {
+      "list": "CATEGORY-CDN-CN",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "chuangcdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:chuangcdn.com",
+    "source": {
+      "list": "CATEGORY-CDN-CN",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudflare-cn.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:cloudflare-cn.com:@cn",
+    "source": {
+      "list": "CLOUDFLARE-CN",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudflareanycast.net",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:cloudflareanycast.net:@cn",
+    "source": {
+      "list": "CLOUDFLARE-CN",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudflarechina.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:cloudflarechina.cn:@cn",
+    "source": {
+      "list": "CLOUDFLARE-CN",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudflarecn.net",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:cloudflarecn.net:@cn",
+    "source": {
+      "list": "CLOUDFLARE-CN",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudflareglobal.net",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:cloudflareglobal.net:@cn",
+    "source": {
+      "list": "CLOUDFLARE-CN",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudflareinsights-cn.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:cloudflareinsights-cn.com:@cn",
+    "source": {
+      "list": "CLOUDFLARE-CN",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudflareperf.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:cloudflareperf.com:@cn",
+    "source": {
+      "list": "CLOUDFLARE-CN",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudflareprod.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:cloudflareprod.com:@cn",
+    "source": {
+      "list": "CLOUDFLARE-CN",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudflarestaging.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:cloudflarestaging.com:@cn",
+    "source": {
+      "list": "CLOUDFLARE-CN",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudflarestoragegw.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:cloudflarestoragegw.com:@cn",
+    "source": {
+      "list": "CLOUDFLARE-CN",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dfyun.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dfyun.com.cn",
+    "source": {
+      "list": "CATEGORY-CDN-CN",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dlgslb.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dlgslb.cn",
+    "source": {
+      "list": "DWION",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dlgslb.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dlgslb.net",
+    "source": {
+      "list": "DWION",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dwion.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dwion.com",
+    "source": {
+      "list": "DWION",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fastcdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fastcdn.com",
+    "source": {
+      "list": "DWION",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fastcdn.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fastcdn.com.cn",
+    "source": {
+      "list": "DWION",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "flxdns.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:flxdns.cn",
+    "source": {
+      "list": "DWION",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "flxdns.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:flxdns.com",
+    "source": {
+      "list": "DWION",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "funcdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:funcdn.com",
+    "source": {
+      "list": "CATEGORY-CDN-CN",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "globalcdn.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:globalcdn.cn",
+    "source": {
+      "list": "DWION",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jiashule.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jiashule.com",
+    "source": {
+      "list": "CATEGORY-CDN-CN",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jiasule.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jiasule.com",
+    "source": {
+      "list": "CATEGORY-CDN-CN",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lxdns.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lxdns.cn",
+    "source": {
+      "list": "WANGSU",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lxdns.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lxdns.com",
+    "source": {
+      "list": "WANGSU",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lxdns.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lxdns.info",
+    "source": {
+      "list": "WANGSU",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lxdns.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lxdns.net",
+    "source": {
+      "list": "WANGSU",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lxdns.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lxdns.org",
+    "source": {
+      "list": "WANGSU",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mcadn.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mcadn.cn",
+    "source": {
+      "list": "DWION",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mwcdns.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mwcdns.com",
+    "source": {
+      "list": "WANGSU",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mwcloudcdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mwcloudcdn.com",
+    "source": {
+      "list": "WANGSU",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oncdp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oncdp.com",
+    "source": {
+      "list": "UPAI",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ourdvsss.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ourdvsss.com",
+    "source": {
+      "list": "WANGSU",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "phpcomposer.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:phpcomposer.com",
+    "source": {
+      "list": "BOOTCDN",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qbox.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qbox.me",
+    "source": {
+      "list": "QINIU",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qingcdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qingcdn.com",
+    "source": {
+      "list": "BAISHANCLOUD",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qiniu.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qiniu.com",
+    "source": {
+      "list": "QINIU",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qiniucdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qiniucdn.com",
+    "source": {
+      "list": "QINIU",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qiniudn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qiniudn.com",
+    "source": {
+      "list": "QINIU",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qiniudns.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qiniudns.com",
+    "source": {
+      "list": "QINIU",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qiniup.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qiniup.com",
+    "source": {
+      "list": "QINIU",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qnsdk.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qnsdk.com",
+    "source": {
+      "list": "QINIU",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qnssl.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qnssl.com",
+    "source": {
+      "list": "QINIU",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qtlcdn.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qtlcdn.cn",
+    "source": {
+      "list": "WANGSU",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qtlcdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qtlcdn.com",
+    "source": {
+      "list": "WANGSU",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qtlcdn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qtlcdn.net",
+    "source": {
+      "list": "WANGSU",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "speedws.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:speedws.info",
+    "source": {
+      "list": "WANGSU",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "speedws.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:speedws.org",
+    "source": {
+      "list": "WANGSU",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "staticfile.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:staticfile.net",
+    "source": {
+      "list": "STATICFILE",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "staticfile.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:staticfile.org",
+    "source": {
+      "list": "STATICFILE",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tlgslb.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tlgslb.cn",
+    "source": {
+      "list": "DWION",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tlgslb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tlgslb.com",
+    "source": {
+      "list": "DWION",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "trpcdn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:trpcdn.net",
+    "source": {
+      "list": "BAISHANCLOUD",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "upai.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:upai.com",
+    "source": {
+      "list": "UPAI",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "upaiyun.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:upaiyun.com",
+    "source": {
+      "list": "UPAI",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "upcdn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:upcdn.net",
+    "source": {
+      "list": "UPAI",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "upyun.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:upyun.com",
+    "source": {
+      "list": "UPAI",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wangsu.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wangsu.com",
+    "source": {
+      "list": "WANGSU",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wscdns.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wscdns.com",
+    "source": {
+      "list": "WANGSU",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wscdns.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wscdns.info",
+    "source": {
+      "list": "WANGSU",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wscdns.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wscdns.org",
+    "source": {
+      "list": "WANGSU",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wsdvs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wsdvs.com",
+    "source": {
+      "list": "WANGSU",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wsglb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wsglb.com",
+    "source": {
+      "list": "WANGSU",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wsglb.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wsglb.net",
+    "source": {
+      "list": "WANGSU",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wswebcdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wswebcdn.com",
+    "source": {
+      "list": "WANGSU",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wswebpic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wswebpic.com",
+    "source": {
+      "list": "WANGSU",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yunaq.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yunaq.com",
+    "source": {
+      "list": "CATEGORY-CDN-CN",
+      "line": 19
+    }
+  }
+]

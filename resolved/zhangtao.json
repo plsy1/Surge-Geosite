@@ -1,0 +1,79 @@
+[
+  {
+    "type": "domain",
+    "value": "accuratead.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:accuratead.cn",
+    "source": {
+      "list": "ZHANGTAO",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dutils.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dutils.com",
+    "source": {
+      "list": "ZHANGTAO",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hiaiabc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hiaiabc.com",
+    "source": {
+      "list": "ZHANGTAO",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mob.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mob.com",
+    "source": {
+      "list": "ZHANGTAO",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mobsdks.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mobsdks.com",
+    "source": {
+      "list": "ZHANGTAO",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sharesdk.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sharesdk.cn",
+    "source": {
+      "list": "ZHANGTAO",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yksdks.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yksdks.com",
+    "source": {
+      "list": "ZHANGTAO",
+      "line": 10
+    }
+  }
+]

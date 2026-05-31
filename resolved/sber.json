@@ -1,0 +1,1087 @@
+[
+  {
+    "type": "domain",
+    "value": "21-school.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:21-school.ru",
+    "source": {
+      "list": "SBER",
+      "line": 59
+    }
+  },
+  {
+    "type": "domain",
+    "value": "2gis.ae",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:2gis.ae",
+    "source": {
+      "list": "2GIS",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "2gis.am",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:2gis.am",
+    "source": {
+      "list": "2GIS",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "2gis.az",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:2gis.az",
+    "source": {
+      "list": "2GIS",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "2gis.by",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:2gis.by",
+    "source": {
+      "list": "2GIS",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "2gis.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:2gis.com",
+    "source": {
+      "list": "2GIS",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "2gis.com.cy",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:2gis.com.cy",
+    "source": {
+      "list": "2GIS",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "2gis.cz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:2gis.cz",
+    "source": {
+      "list": "2GIS",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "2gis.ge",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:2gis.ge",
+    "source": {
+      "list": "2GIS",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "2gis.kg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:2gis.kg",
+    "source": {
+      "list": "2GIS",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "2gis.kz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:2gis.kz",
+    "source": {
+      "list": "2GIS",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "2gis.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:2gis.ru",
+    "source": {
+      "list": "2GIS",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "2gis.tech",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:2gis.tech",
+    "source": {
+      "list": "2GIS",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "2gis.tj",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:2gis.tj",
+    "source": {
+      "list": "2GIS",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "2gis.uz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:2gis.uz",
+    "source": {
+      "list": "2GIS",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "accesspoint.uz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:accesspoint.uz",
+    "source": {
+      "list": "SBER",
+      "line": 114
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ads.sber.ru",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:ads.sber.ru:@ads",
+    "source": {
+      "list": "SBER",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "afisha.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:afisha.ru",
+    "source": {
+      "list": "SBER",
+      "line": 45
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bps-sberbank.by",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bps-sberbank.by",
+    "source": {
+      "list": "SBER",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "citydrive.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:citydrive.ru",
+    "source": {
+      "list": "SBER",
+      "line": 48
+    }
+  },
+  {
+    "type": "domain",
+    "value": "clickstream.sberbank.ru",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:clickstream.sberbank.ru:@ads",
+    "source": {
+      "list": "SBER",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloud.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloud.ru",
+    "source": {
+      "list": "SBER",
+      "line": 51
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudru.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudru.cn",
+    "source": {
+      "list": "SBER",
+      "line": 52
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cplsb.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cplsb.ru",
+    "source": {
+      "list": "SBER",
+      "line": 105
+    }
+  },
+  {
+    "type": "domain",
+    "value": "eaptechka.online",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:eaptechka.online",
+    "source": {
+      "list": "SBER",
+      "line": 55
+    }
+  },
+  {
+    "type": "domain",
+    "value": "eapteka.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:eapteka.ru",
+    "source": {
+      "list": "SBER",
+      "line": 56
+    }
+  },
+  {
+    "type": "domain",
+    "value": "getsynapse.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:getsynapse.io",
+    "source": {
+      "list": "SBER",
+      "line": 115
+    }
+  },
+  {
+    "type": "domain",
+    "value": "giga.chat",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:giga.chat",
+    "source": {
+      "list": "SBER",
+      "line": 71
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gitverse.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gitverse.ru",
+    "source": {
+      "list": "SBER",
+      "line": 74
+    }
+  },
+  {
+    "type": "domain",
+    "value": "id.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:id.ru",
+    "source": {
+      "list": "SBER",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jivo.chat",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jivo.chat",
+    "source": {
+      "list": "SBER",
+      "line": 77
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jivo.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jivo.ru",
+    "source": {
+      "list": "SBER",
+      "line": 78
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jivochat.co.in",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jivochat.co.in",
+    "source": {
+      "list": "SBER",
+      "line": 79
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jivochat.co.za",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jivochat.co.za",
+    "source": {
+      "list": "SBER",
+      "line": 80
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jivochat.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jivochat.com",
+    "source": {
+      "list": "SBER",
+      "line": 81
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jivochat.com.br",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jivochat.com.br",
+    "source": {
+      "list": "SBER",
+      "line": 82
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jivochat.com.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jivochat.com.co",
+    "source": {
+      "list": "SBER",
+      "line": 83
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jivochat.com.pe",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jivochat.com.pe",
+    "source": {
+      "list": "SBER",
+      "line": 84
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jivochat.com.tr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jivochat.com.tr",
+    "source": {
+      "list": "SBER",
+      "line": 85
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jivochat.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jivochat.de",
+    "source": {
+      "list": "SBER",
+      "line": 86
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jivochat.es",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jivochat.es",
+    "source": {
+      "list": "SBER",
+      "line": 87
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jivochat.ng",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jivochat.ng",
+    "source": {
+      "list": "SBER",
+      "line": 88
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jivochat.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jivochat.ru",
+    "source": {
+      "list": "SBER",
+      "line": 89
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jivosite.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jivosite.com",
+    "source": {
+      "list": "SBER",
+      "line": 90
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jivosite.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jivosite.ru",
+    "source": {
+      "list": "SBER",
+      "line": 91
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kuper.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kuper.ru",
+    "source": {
+      "list": "SBER",
+      "line": 64
+    }
+  },
+  {
+    "type": "domain",
+    "value": "megamarket.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:megamarket.ru",
+    "source": {
+      "list": "SBER",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "megamarket.tech",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:megamarket.tech",
+    "source": {
+      "list": "SBER",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "neon.click",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:neon.click:@ads",
+    "source": {
+      "list": "SBER",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "okko.sport",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:okko.sport",
+    "source": {
+      "list": "OKKO",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "okko.tv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:okko.tv",
+    "source": {
+      "list": "OKKO",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "okkoapi.tv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:okkoapi.tv",
+    "source": {
+      "list": "OKKO",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "otello.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:otello.ru",
+    "source": {
+      "list": "SBER",
+      "line": 98
+    }
+  },
+  {
+    "type": "domain",
+    "value": "payecom.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:payecom.ru",
+    "source": {
+      "list": "SBER",
+      "line": 94
+    }
+  },
+  {
+    "type": "domain",
+    "value": "platiecom.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:platiecom.ru",
+    "source": {
+      "list": "SBER",
+      "line": 95
+    }
+  },
+  {
+    "type": "domain",
+    "value": "playfamily.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:playfamily.ru",
+    "source": {
+      "list": "OKKO",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "restnproducts.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:restnproducts.ru",
+    "source": {
+      "list": "SBER",
+      "line": 65
+    }
+  },
+  {
+    "type": "domain",
+    "value": "samokat.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:samokat.ru",
+    "source": {
+      "list": "SBER",
+      "line": 68
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sber-bank.by",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sber-bank.by",
+    "source": {
+      "list": "SBER",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sber.pro",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sber.pro",
+    "source": {
+      "list": "SBER",
+      "line": 101
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sber.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sber.ru",
+    "source": {
+      "list": "SBER",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sberauto.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sberauto.com",
+    "source": {
+      "list": "SBER",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sberbank-insurance.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sberbank-insurance.ru",
+    "source": {
+      "list": "SBER",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sberbank.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sberbank.com",
+    "source": {
+      "list": "SBER",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sberbank.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sberbank.ru",
+    "source": {
+      "list": "SBER",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sberbankaktivno.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sberbankaktivno.ru",
+    "source": {
+      "list": "SBER",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sberbankins.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sberbankins.ru",
+    "source": {
+      "list": "SBER",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sbercloud.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sbercloud.ru",
+    "source": {
+      "list": "SBER",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sbercloud.tech",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sbercloud.tech",
+    "source": {
+      "list": "SBER",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sberdevices.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sberdevices.ru",
+    "source": {
+      "list": "SBER",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sberdisk.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sberdisk.ru",
+    "source": {
+      "list": "SBER",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sberfactoring.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sberfactoring.ru",
+    "source": {
+      "list": "SBER",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sberhealth.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sberhealth.ru",
+    "source": {
+      "list": "SBER",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sberindex.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sberindex.ru",
+    "source": {
+      "list": "SBER",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sberleasing.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sberleasing.ru",
+    "source": {
+      "list": "SBER",
+      "line": 37
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sberlogistics.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sberlogistics.ru",
+    "source": {
+      "list": "SBER",
+      "line": 38
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sbermarketing.ru",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:sbermarketing.ru:@ads",
+    "source": {
+      "list": "SBER",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sbermegamarket.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sbermegamarket.ru",
+    "source": {
+      "list": "SBER",
+      "line": 39
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sbermobile.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sbermobile.ru",
+    "source": {
+      "list": "SBER",
+      "line": 40
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sberpb.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sberpb.ru",
+    "source": {
+      "list": "SBER",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sberspasibo.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sberspasibo.ru",
+    "source": {
+      "list": "SBER",
+      "line": 106
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sbertech.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sbertech.ru",
+    "source": {
+      "list": "SBER",
+      "line": 116
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sbertroika.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sbertroika.ru",
+    "source": {
+      "list": "SBER",
+      "line": 42
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sbrf.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sbrf.ru",
+    "source": {
+      "list": "SBER",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "spasibo.digital",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:spasibo.digital",
+    "source": {
+      "list": "SBER",
+      "line": 107
+    }
+  },
+  {
+    "type": "domain",
+    "value": "spasibo.market",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:spasibo.market",
+    "source": {
+      "list": "SBER",
+      "line": 108
+    }
+  },
+  {
+    "type": "domain",
+    "value": "spasibobonus.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:spasibobonus.ru",
+    "source": {
+      "list": "SBER",
+      "line": 109
+    }
+  },
+  {
+    "type": "domain",
+    "value": "spasibosb.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:spasibosb.ru",
+    "source": {
+      "list": "SBER",
+      "line": 110
+    }
+  },
+  {
+    "type": "domain",
+    "value": "spasibosberbank.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:spasibosberbank.ru",
+    "source": {
+      "list": "SBER",
+      "line": 111
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zvuk-b2b.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zvuk-b2b.com",
+    "source": {
+      "list": "SBER",
+      "line": 119
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zvuk.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zvuk.com",
+    "source": {
+      "list": "SBER",
+      "line": 120
+    }
+  },
+  {
+    "type": "full",
+    "value": "error-tracking.megamarket.tech",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:error-tracking.megamarket.tech:@ads",
+    "source": {
+      "list": "SBER",
+      "line": 16
+    }
+  },
+  {
+    "type": "full",
+    "value": "metrics.21-school.ru",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:metrics.21-school.ru:@ads",
+    "source": {
+      "list": "SBER",
+      "line": 17
+    }
+  },
+  {
+    "type": "full",
+    "value": "sberpro.vedomosti.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:sberpro.vedomosti.ru",
+    "source": {
+      "list": "SBER",
+      "line": 102
+    }
+  },
+  {
+    "type": "full",
+    "value": "sentry.sberauto.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:sentry.sberauto.com:@ads",
+    "source": {
+      "list": "SBER",
+      "line": 18
+    }
+  },
+  {
+    "type": "full",
+    "value": "tracing-http.megamarket.tech",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:tracing-http.megamarket.tech:@ads",
+    "source": {
+      "list": "SBER",
+      "line": 19
+    }
+  },
+  {
+    "type": "full",
+    "value": "visor.sberbank.ru",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:visor.sberbank.ru:@ads",
+    "source": {
+      "list": "SBER",
+      "line": 20
+    }
+  }
+]

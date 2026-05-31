@@ -1,0 +1,101 @@
+[
+  {
+    "type": "domain",
+    "value": "arewereadyyet.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:arewereadyyet.com",
+    "source": {
+      "list": "MATRIX",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cinny.in",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cinny.in",
+    "source": {
+      "list": "MATRIX",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "element.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:element.io",
+    "source": {
+      "list": "MATRIX",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fluffychat.im",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fluffychat.im",
+    "source": {
+      "list": "MATRIX",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "matrix.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:matrix.org",
+    "source": {
+      "list": "MATRIX",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "matrix.to",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:matrix.to",
+    "source": {
+      "list": "MATRIX",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "modular.im",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:modular.im",
+    "source": {
+      "list": "MATRIX",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "riot.im",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:riot.im",
+    "source": {
+      "list": "MATRIX",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vector.im",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vector.im",
+    "source": {
+      "list": "MATRIX",
+      "line": 9
+    }
+  }
+]

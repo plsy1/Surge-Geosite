@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "heydoga.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:heydoga.com",
+    "source": {
+      "list": "HEYZO",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "heyzo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:heyzo.com",
+    "source": {
+      "list": "HEYZO",
+      "line": 2
+    }
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "type": "domain",
+    "value": "bk6bba-resources.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bk6bba-resources.com",
+    "source": {
+      "list": "FONBET",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bk6bba-resources.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bk6bba-resources.ru",
+    "source": {
+      "list": "FONBET",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fon.bet",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fon.bet",
+    "source": {
+      "list": "FONBET",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fon.promo",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fon.promo",
+    "source": {
+      "list": "FONBET",
+      "line": 4
+    }
+  }
+]

@@ -1,0 +1,1641 @@
+[
+  {
+    "type": "domain",
+    "value": "aigc-cloud.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aigc-cloud.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bdegnine.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bdegnine.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bplslb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bplslb.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bpltm.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bpltm.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "byte-dns.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:byte-dns.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "byte-dns.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:byte-dns.net",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bytehouse.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bytehouse.cn",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "byteinspire.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:byteinspire.cn",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "byteinspire.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:byteinspire.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bytevdn-boe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bytevdn-boe.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bytevdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bytevdn.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cache4ever.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cache4ever.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cache666.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cache666.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudendpoint.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudendpoint.cn",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "douyincloud.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:douyincloud.net",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "douyincloud.run",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:douyincloud.run",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dycloud.run",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dycloud.run",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dycloudbk.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dycloudbk.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "emr-volces.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:emr-volces.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "feilian.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:feilian.cn",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "iccvlog.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:iccvlog.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ifeilian.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ifeilian.cn",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ifeilian.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ifeilian.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "inspirecloud.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:inspirecloud.cn",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "inspirecloud.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:inspirecloud.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "isealsuite.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:isealsuite.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ivolces.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ivolces.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kfcbest.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kfcbest.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kych5.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kych5.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "multilingual-volc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:multilingual-volc.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qingfuwu.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qingfuwu.cn",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qingfuwu.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qingfuwu.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qingfuwuapi.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qingfuwuapi.cn",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qingfuwucdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qingfuwucdn.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "slbauto.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:slbauto.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sms18.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sms18.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "toutiaopan.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:toutiaopan.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 38
+    }
+  },
+  {
+    "type": "domain",
+    "value": "toutiaopanapi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:toutiaopanapi.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 37
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ttgslb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ttgslb.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 39
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ttgtm.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ttgtm.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 40
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ve-imcloud.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ve-imcloud.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 53
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ve-trafficroute.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ve-trafficroute.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 59
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ve-trafficroute.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ve-trafficroute.net",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 60
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vecdnlb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vecdnlb.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vecloudgame.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vecloudgame.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 42
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vedcdnlb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vedcdnlb.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 43
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vedsalb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vedsalb.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 44
+    }
+  },
+  {
+    "type": "domain",
+    "value": "veefdev.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:veefdev.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 45
+    }
+  },
+  {
+    "type": "domain",
+    "value": "veew-alb-cn1.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:veew-alb-cn1.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 46
+    }
+  },
+  {
+    "type": "domain",
+    "value": "veew-alb-cn2.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:veew-alb-cn2.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 47
+    }
+  },
+  {
+    "type": "domain",
+    "value": "veew-alb-ts.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:veew-alb-ts.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 48
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vegalb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vegalb.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 49
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vegslb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vegslb.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 50
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vegtm.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vegtm.net",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 51
+    }
+  },
+  {
+    "type": "domain",
+    "value": "veicplive.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:veicplive.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 52
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vemarsdev.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vemarsdev.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 54
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vemarsstatic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vemarsstatic.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 55
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vemarsweb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vemarsweb.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 56
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vertciot.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vertciot.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 57
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vestack.cloud",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vestack.cloud",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 58
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volc-dns.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volc-dns.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 78
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volc-dns.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volc-dns.net",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 80
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volc-dns.pub",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volc-dns.pub",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 81
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volc-embed.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volc-embed.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 87
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcadocean.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcadocean.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 61
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcadvc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcadvc.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 62
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcalb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcalb.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 63
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcautovod.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcautovod.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 64
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcbiz.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcbiz.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 65
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcca.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcca.cn",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 66
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcca.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcca.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 67
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcca.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcca.net",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 68
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volccdn.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volccdn.cn",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 71
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volccdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volccdn.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 72
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volccdn1.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volccdn1.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 69
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volccdn2.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volccdn2.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 70
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcddos.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcddos.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 74
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcddos001.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcddos001.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 73
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcdem.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcdem.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 75
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcdlspace.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcdlspace.cn",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 76
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcdn.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 77
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcdns.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcdns.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 79
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcdns.pub",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcdns.pub",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 82
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volceapi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volceapi.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 83
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volceapplog.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volceapplog.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 84
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcecr.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcecr.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 85
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcecw.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcecw.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 86
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcenginapi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcenginapi.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 88
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcengine-dns.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcengine-dns.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 93
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcengine-dns.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcengine-dns.net",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 95
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcengine.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcengine.cn",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 91
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcengine.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcengine.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 92
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcengine.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcengine.net",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 97
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcenginealb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcenginealb.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 89
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcengineapi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcengineapi.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 90
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcenginedns.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcenginedns.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 94
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcenginedns.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcenginedns.net",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 96
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcenginepaas.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcenginepaas.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 98
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volces.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volces.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 99
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcfake.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcfake.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 100
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcfcdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcfcdn.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 102
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcfcdnbyte.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcfcdnbyte.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 101
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcfcdndvs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcfcdndvs.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 103
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcfcdndvs1.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcfcdndvs1.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 104
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcfcdnplus.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcfcdnplus.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 105
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcfcdnrd.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcfcdnrd.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 106
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcfcdnsc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcfcdnsc.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 107
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcfxgjrtm.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcfxgjrtm.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 108
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcgroup.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcgroup.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 109
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcgslb-mlt.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcgslb-mlt.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 110
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcgslb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcgslb.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 111
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcgtm.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcgtm.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 112
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volciad.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volciad.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 113
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcimagex.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcimagex.cn",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 114
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcimagex.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcimagex.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 115
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcimagex.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcimagex.net",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 116
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcimagextest.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcimagextest.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 117
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcmagicpage.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcmagicpage.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 118
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcmcdn1.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcmcdn1.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 119
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcmcdn2.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcmcdn2.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 120
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcmcdn3.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcmcdn3.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 121
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcmcdn4.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcmcdn4.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 122
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcmgs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcmgs.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 123
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcmusecdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcmusecdn.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 124
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcocic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcocic.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 125
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcopjrtm.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcopjrtm.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 126
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcpartner.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcpartner.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 127
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcpartner.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcpartner.net",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 128
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcsirius.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcsirius.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 130
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcsiriusbd.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcsiriusbd.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 129
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcspaceeduc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcspaceeduc.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 131
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volctracer.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volctracer.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 132
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volctrack.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volctrack.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 133
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volctraffic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volctraffic.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 134
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volctranscdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volctranscdn.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 135
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcvideo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcvideo.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 136
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcvideos.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcvideos.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 137
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcvms.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcvms.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 138
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcvod.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcvod.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 139
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcwaf.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcwaf.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 141
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcwaf001.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcwaf001.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 140
+    }
+  },
+  {
+    "type": "domain",
+    "value": "writingo-editor.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:writingo-editor.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 142
+    }
+  },
+  {
+    "type": "domain",
+    "value": "writingo.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:writingo.net",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 143
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ytxptd.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ytxptd.cn",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 144
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ytxptz.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ytxptz.cn",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 145
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zebracdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zebracdn.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 146
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zjytxd.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zjytxd.cn",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 147
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zjytxp.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zjytxp.cn",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 148
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zvip.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zvip.cn",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 149
+    }
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "type": "domain",
+    "value": "go-lang.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:go-lang.com",
+    "source": {
+      "list": "GOLANG",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "go-lang.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:go-lang.net",
+    "source": {
+      "list": "GOLANG",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "go-lang.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:go-lang.org",
+    "source": {
+      "list": "GOLANG",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "go.dev",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:go.dev",
+    "source": {
+      "list": "GOLANG",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "godoc.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:godoc.org",
+    "source": {
+      "list": "GOLANG",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "golang.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:golang.com",
+    "source": {
+      "list": "GOLANG",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "golang.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:golang.net",
+    "source": {
+      "list": "GOLANG",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "golang.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:golang.org",
+    "source": {
+      "list": "GOLANG",
+      "line": 8
+    }
+  }
+]

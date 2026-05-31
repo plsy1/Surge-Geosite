@@ -1,0 +1,60 @@
+{
+  "name": "JD",
+  "source": {
+    "domain": 240,
+    "full": 0,
+    "keyword": 0,
+    "regexp": 0,
+    "include": 0,
+    "affiliations": 0,
+    "attributes": 12
+  },
+  "resolved": {
+    "rules": 240,
+    "domain": 240,
+    "full": 0,
+    "keyword": 0,
+    "regexp": 0
+  },
+  "filters": {
+    "attrs": {
+      "ads": 8,
+      "!cn": 4
+    }
+  },
+  "modes": {
+    "strict": {
+      "rules": 240,
+      "bytes": 6828,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "balanced": {
+      "rules": 240,
+      "bytes": 6828,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "full": {
+      "rules": 240,
+      "bytes": 6828,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    }
+  }
+}

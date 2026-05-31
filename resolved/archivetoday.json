@@ -1,0 +1,79 @@
+[
+  {
+    "type": "domain",
+    "value": "archive.fo",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:archive.fo",
+    "source": {
+      "list": "ARCHIVETODAY",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "archive.is",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:archive.is",
+    "source": {
+      "list": "ARCHIVETODAY",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "archive.li",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:archive.li",
+    "source": {
+      "list": "ARCHIVETODAY",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "archive.md",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:archive.md",
+    "source": {
+      "list": "ARCHIVETODAY",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "archive.ph",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:archive.ph",
+    "source": {
+      "list": "ARCHIVETODAY",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "archive.today",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:archive.today",
+    "source": {
+      "list": "ARCHIVETODAY",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "archive.vn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:archive.vn",
+    "source": {
+      "list": "ARCHIVETODAY",
+      "line": 8
+    }
+  }
+]

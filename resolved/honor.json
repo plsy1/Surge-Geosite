@@ -1,0 +1,90 @@
+[
+  {
+    "type": "domain",
+    "value": "hihonor.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hihonor.cn",
+    "source": {
+      "list": "HONOR",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hihonor.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hihonor.com",
+    "source": {
+      "list": "HONOR",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hihonorcdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hihonorcdn.com",
+    "source": {
+      "list": "HONOR",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hihonorcloud.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hihonorcloud.com",
+    "source": {
+      "list": "HONOR",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "honor.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:honor.cn",
+    "source": {
+      "list": "HONOR",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "honor.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:honor.com",
+    "source": {
+      "list": "HONOR",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "honor.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:honor.com.cn",
+    "source": {
+      "list": "HONOR",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "honorfile.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:honorfile.com",
+    "source": {
+      "list": "HONOR",
+      "line": 8
+    }
+  }
+]

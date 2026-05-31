@@ -1,0 +1,59 @@
+{
+  "name": "WILDBERRIES",
+  "source": {
+    "domain": 98,
+    "full": 15,
+    "keyword": 0,
+    "regexp": 0,
+    "include": 0,
+    "affiliations": 0,
+    "attributes": 15
+  },
+  "resolved": {
+    "rules": 113,
+    "domain": 98,
+    "full": 15,
+    "keyword": 0,
+    "regexp": 0
+  },
+  "filters": {
+    "attrs": {
+      "ads": 15
+    }
+  },
+  "modes": {
+    "strict": {
+      "rules": 113,
+      "bytes": 3146,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "balanced": {
+      "rules": 113,
+      "bytes": 3146,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "full": {
+      "rules": 113,
+      "bytes": 3146,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    }
+  }
+}

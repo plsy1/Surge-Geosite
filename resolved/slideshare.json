@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "slideshare.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:slideshare.com",
+    "source": {
+      "list": "SLIDESHARE",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "slideshare.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:slideshare.net",
+    "source": {
+      "list": "SLIDESHARE",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "slidesharecdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:slidesharecdn.com",
+    "source": {
+      "list": "SLIDESHARE",
+      "line": 3
+    }
+  }
+]

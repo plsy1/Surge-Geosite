@@ -1,0 +1,46 @@
+[
+  {
+    "type": "domain",
+    "value": "btt804.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:btt804.com",
+    "source": {
+      "list": "BTTZYW",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "btt904.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:btt904.com",
+    "source": {
+      "list": "BTTZYW",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bttzyw.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bttzyw.com",
+    "source": {
+      "list": "BTTZYW",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bttzyw.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bttzyw.net",
+    "source": {
+      "list": "BTTZYW",
+      "line": 4
+    }
+  }
+]

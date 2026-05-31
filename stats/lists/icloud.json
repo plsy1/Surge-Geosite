@@ -1,0 +1,59 @@
+{
+  "name": "ICLOUD",
+  "source": {
+    "domain": 51,
+    "full": 1,
+    "keyword": 0,
+    "regexp": 0,
+    "include": 1,
+    "affiliations": 0,
+    "attributes": 7
+  },
+  "resolved": {
+    "rules": 52,
+    "domain": 51,
+    "full": 1,
+    "keyword": 0,
+    "regexp": 0
+  },
+  "filters": {
+    "attrs": {
+      "cn": 7
+    }
+  },
+  "modes": {
+    "strict": {
+      "rules": 52,
+      "bytes": 1406,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "balanced": {
+      "rules": 52,
+      "bytes": 1406,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "full": {
+      "rules": 52,
+      "bytes": 1406,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    }
+  }
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "type": "domain",
+    "value": "crash2.zhihu.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:crash2.zhihu.com:@ads",
+    "source": {
+      "list": "ZHIHU",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zhihu-web-analytics.zhihu.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:zhihu-web-analytics.zhihu.com:@ads",
+    "source": {
+      "list": "ZHIHU",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zhihu.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zhihu.com",
+    "source": {
+      "list": "ZHIHU",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zhimg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zhimg.com",
+    "source": {
+      "list": "ZHIHU",
+      "line": 2
+    }
+  }
+]

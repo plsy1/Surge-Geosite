@@ -1,0 +1,101 @@
+[
+  {
+    "type": "domain",
+    "value": "videopress.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:videopress.com",
+    "source": {
+      "list": "WORDPRESS",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "w.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:w.org",
+    "source": {
+      "list": "WORDPRESS",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wordpress.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wordpress.com",
+    "source": {
+      "list": "WORDPRESS",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wordpress.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wordpress.net",
+    "source": {
+      "list": "WORDPRESS",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wordpress.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wordpress.org",
+    "source": {
+      "list": "WORDPRESS",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wordpress.tv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wordpress.tv",
+    "source": {
+      "list": "WORDPRESS",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wp-themes.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wp-themes.com",
+    "source": {
+      "list": "WORDPRESS",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wp.com",
+    "source": {
+      "list": "WORDPRESS",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wpvip.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wpvip.com",
+    "source": {
+      "list": "WORDPRESS",
+      "line": 9
+    }
+  }
+]

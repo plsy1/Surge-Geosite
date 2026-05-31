@@ -1,0 +1,134 @@
+[
+  {
+    "type": "domain",
+    "value": "ahc.ovh",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ahc.ovh",
+    "source": {
+      "list": "KINOPUB",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdn-service.space",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdn-service.space",
+    "source": {
+      "list": "KINOPUB",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdn2cdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdn2cdn.com",
+    "source": {
+      "list": "KINOPUB",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdn2site.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdn2site.com",
+    "source": {
+      "list": "KINOPUB",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gfw.ovh",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gfw.ovh",
+    "source": {
+      "list": "KINOPUB",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kino.pub",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kino.pub",
+    "source": {
+      "list": "KINOPUB",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kinopub.online",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kinopub.online",
+    "source": {
+      "list": "KINOPUB",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kpdl.link",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kpdl.link",
+    "source": {
+      "list": "KINOPUB",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mos-gorsud.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mos-gorsud.co",
+    "source": {
+      "list": "KINOPUB",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pushbr.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pushbr.com",
+    "source": {
+      "list": "KINOPUB",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "smarttvcdn.online",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:smarttvcdn.online",
+    "source": {
+      "list": "KINOPUB",
+      "line": 15
+    }
+  },
+  {
+    "type": "regexp",
+    "value": "(\\w+)-static-[0-9]+\\.cdntogo\\.net$",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "regexp:(\\w+)-static-[0-9]+\\.cdntogo\\.net$",
+    "source": {
+      "list": "KINOPUB",
+      "line": 17
+    }
+  }
+]

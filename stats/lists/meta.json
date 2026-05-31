@@ -1,0 +1,59 @@
+{
+  "name": "META",
+  "source": {
+    "domain": 3,
+    "full": 0,
+    "keyword": 0,
+    "regexp": 0,
+    "include": 7,
+    "affiliations": 0,
+    "attributes": 0
+  },
+  "resolved": {
+    "rules": 552,
+    "domain": 551,
+    "full": 1,
+    "keyword": 0,
+    "regexp": 0
+  },
+  "filters": {
+    "attrs": {
+      "ads": 7
+    }
+  },
+  "modes": {
+    "strict": {
+      "rules": 552,
+      "bytes": 16512,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "balanced": {
+      "rules": 552,
+      "bytes": 16512,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "full": {
+      "rules": 552,
+      "bytes": 16512,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    }
+  }
+}

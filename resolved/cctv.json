@@ -1,0 +1,466 @@
+[
+  {
+    "type": "domain",
+    "value": "ad.cctv.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:ad.cctv.com:@ads",
+    "source": {
+      "list": "CCTV",
+      "line": 43
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cctv.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cctv.cn",
+    "source": {
+      "list": "CCTV",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cctv.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cctv.com",
+    "source": {
+      "list": "CCTV",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cctvlib.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cctvlib.cn",
+    "source": {
+      "list": "CCTV",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cctvlib.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cctvlib.com.cn",
+    "source": {
+      "list": "CCTV",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cctvlibrary.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cctvlibrary.cn",
+    "source": {
+      "list": "CCTV",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cctvlibrary.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cctvlibrary.com.cn",
+    "source": {
+      "list": "CCTV",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cctvpic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cctvpic.com",
+    "source": {
+      "list": "CCTV",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cctvpro.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cctvpro.cn",
+    "source": {
+      "list": "CCTV",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cctvpro.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cctvpro.com.cn",
+    "source": {
+      "list": "CCTV",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "chinaepg.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:chinaepg.cn",
+    "source": {
+      "list": "CCTV",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "chinalive.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:chinalive.com",
+    "source": {
+      "list": "CCTV",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "chinaott.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:chinaott.com",
+    "source": {
+      "list": "CCTV",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "citv.net.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:citv.net.cn",
+    "source": {
+      "list": "CCTV",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cnms.net.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cnms.net.cn",
+    "source": {
+      "list": "CCTV",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cntv.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cntv.cn",
+    "source": {
+      "list": "CCTV",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cntv.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cntv.com.cn",
+    "source": {
+      "list": "CCTV",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cntvwb.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cntvwb.cn",
+    "source": {
+      "list": "CCTV",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gjgbdszt.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gjgbdszt.cn",
+    "source": {
+      "list": "CCTV",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gjgbdszt.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gjgbdszt.com.cn",
+    "source": {
+      "list": "CCTV",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gjgbdszt.net.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gjgbdszt.net.cn",
+    "source": {
+      "list": "CCTV",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icntvcdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icntvcdn.com",
+    "source": {
+      "list": "CCTV",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ipanda.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ipanda.cn",
+    "source": {
+      "list": "CCTV",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ipanda.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ipanda.com",
+    "source": {
+      "list": "CCTV",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ipanda.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ipanda.com.cn",
+    "source": {
+      "list": "CCTV",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ipanda.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ipanda.net",
+    "source": {
+      "list": "CCTV",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "livechina.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:livechina.cn",
+    "source": {
+      "list": "CCTV",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "livechina.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:livechina.com",
+    "source": {
+      "list": "CCTV",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "olympicchannelchina.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:olympicchannelchina.cn",
+    "source": {
+      "list": "CCTV",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ottcn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ottcn.com",
+    "source": {
+      "list": "CCTV",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tvcc.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tvcc.cn",
+    "source": {
+      "list": "CCTV",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tvcc.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tvcc.com.cn",
+    "source": {
+      "list": "CCTV",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--fiq53l6wcx3kp9bc7joo6apn8a.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--fiq53l6wcx3kp9bc7joo6apn8a.cn",
+    "source": {
+      "list": "CCTV",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--fiq53l6wcx3kp9bc7joo6apn8a.xn--fiqs8s",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--fiq53l6wcx3kp9bc7joo6apn8a.xn--fiqs8s",
+    "source": {
+      "list": "CCTV",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--fiq53l90et9fpncc7joo6apn8a.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--fiq53l90et9fpncc7joo6apn8a.cn",
+    "source": {
+      "list": "CCTV",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--kprv4ewxfr9cpxcc7joo6apn8a.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--kprv4ewxfr9cpxcc7joo6apn8a.cn",
+    "source": {
+      "list": "CCTV",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--kprv4ewxfr9cpxcc7joo6apn8a.xn--fiqs8s",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--kprv4ewxfr9cpxcc7joo6apn8a.xn--fiqs8s",
+    "source": {
+      "list": "CCTV",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yangshipin.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yangshipin.cn",
+    "source": {
+      "list": "CCTV",
+      "line": 37
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zggbdszt.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zggbdszt.cn",
+    "source": {
+      "list": "CCTV",
+      "line": 38
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zggbdszt.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zggbdszt.com.cn",
+    "source": {
+      "list": "CCTV",
+      "line": 39
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zggbdszt.net.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zggbdszt.net.cn",
+    "source": {
+      "list": "CCTV",
+      "line": 40
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zygbdszt.net.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zygbdszt.net.cn",
+    "source": {
+      "list": "CCTV",
+      "line": 41
+    }
+  }
+]

@@ -1,0 +1,588 @@
+[
+  {
+    "type": "domain",
+    "value": "apple-icloud.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:apple-icloud.cn:@cn",
+    "source": {
+      "list": "ICLOUD",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "appleicloud.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:appleicloud.cn:@cn",
+    "source": {
+      "list": "ICLOUD",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "applemx-icloud.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:applemx-icloud.com",
+    "source": {
+      "list": "ICLOUD",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icloud-apple.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:icloud-apple.cn:@cn",
+    "source": {
+      "list": "ICLOUD",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icloud-content.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icloud-content.com",
+    "source": {
+      "list": "ICLOUD",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icloud-isupport.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icloud-isupport.com",
+    "source": {
+      "list": "ICLOUD",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icloud-sandbox.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icloud-sandbox.com",
+    "source": {
+      "list": "ICLOUD",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icloud.ch",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icloud.ch",
+    "source": {
+      "list": "ICLOUD",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icloud.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:icloud.cn:@cn",
+    "source": {
+      "list": "ICLOUD",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icloud.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icloud.com",
+    "source": {
+      "list": "ICLOUD",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icloud.com.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:icloud.com.cn:@cn",
+    "source": {
+      "list": "ICLOUD",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icloud.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icloud.de",
+    "source": {
+      "list": "ICLOUD",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icloud.ee",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icloud.ee",
+    "source": {
+      "list": "ICLOUD",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icloud.fi",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icloud.fi",
+    "source": {
+      "list": "ICLOUD",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icloud.fr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icloud.fr",
+    "source": {
+      "list": "ICLOUD",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icloud.hu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icloud.hu",
+    "source": {
+      "list": "ICLOUD",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icloud.ie",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icloud.ie",
+    "source": {
+      "list": "ICLOUD",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icloud.is",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icloud.is",
+    "source": {
+      "list": "ICLOUD",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icloud.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icloud.jp",
+    "source": {
+      "list": "ICLOUD",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icloud.lv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icloud.lv",
+    "source": {
+      "list": "ICLOUD",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icloud.net.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:icloud.net.cn:@cn",
+    "source": {
+      "list": "ICLOUD",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icloud.om",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icloud.om",
+    "source": {
+      "list": "ICLOUD",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icloud.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icloud.org",
+    "source": {
+      "list": "ICLOUD",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icloud.pt",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icloud.pt",
+    "source": {
+      "list": "ICLOUD",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icloud.ro",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icloud.ro",
+    "source": {
+      "list": "ICLOUD",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icloud.se",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icloud.se",
+    "source": {
+      "list": "ICLOUD",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icloud.si",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icloud.si",
+    "source": {
+      "list": "ICLOUD",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icloud.sk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icloud.sk",
+    "source": {
+      "list": "ICLOUD",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icloud.vn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icloud.vn",
+    "source": {
+      "list": "ICLOUD",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icloudads.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icloudads.net",
+    "source": {
+      "list": "ICLOUD",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icloudapple.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:icloudapple.cn:@cn",
+    "source": {
+      "list": "ICLOUD",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icloudbox.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icloudbox.net",
+    "source": {
+      "list": "ICLOUD",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icloudbrowser.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icloudbrowser.net",
+    "source": {
+      "list": "ICLOUD",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icloude.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icloude.com",
+    "source": {
+      "list": "ICLOUD",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icloudhome.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icloudhome.com",
+    "source": {
+      "list": "ICLOUD",
+      "line": 37
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icloudmail.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icloudmail.net",
+    "source": {
+      "list": "ICLOUD",
+      "line": 38
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icloudmusic.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icloudmusic.net",
+    "source": {
+      "list": "ICLOUD",
+      "line": 39
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icloudnet.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icloudnet.net",
+    "source": {
+      "list": "ICLOUD",
+      "line": 40
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icloudo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icloudo.com",
+    "source": {
+      "list": "ICLOUD",
+      "line": 42
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icloudo.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icloudo.de",
+    "source": {
+      "list": "ICLOUD",
+      "line": 43
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icloudo.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icloudo.net",
+    "source": {
+      "list": "ICLOUD",
+      "line": 44
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icloudos.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icloudos.de",
+    "source": {
+      "list": "ICLOUD",
+      "line": 45
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icloudos.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icloudos.net",
+    "source": {
+      "list": "ICLOUD",
+      "line": 46
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icloudpay.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icloudpay.net",
+    "source": {
+      "list": "ICLOUD",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icloudsecure.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icloudsecure.net",
+    "source": {
+      "list": "ICLOUD",
+      "line": 47
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icloudsetup.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icloudsetup.com",
+    "source": {
+      "list": "ICLOUD",
+      "line": 48
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ios-icloud.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ios-icloud.com",
+    "source": {
+      "list": "ICLOUD",
+      "line": 49
+    }
+  },
+  {
+    "type": "domain",
+    "value": "me.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:me.com",
+    "source": {
+      "list": "ICLOUD",
+      "line": 50
+    }
+  },
+  {
+    "type": "domain",
+    "value": "myicloud.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:myicloud.net",
+    "source": {
+      "list": "ICLOUD",
+      "line": 51
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mylcloud.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mylcloud.net",
+    "source": {
+      "list": "ICLOUD",
+      "line": 52
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wwwicloud.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wwwicloud.com",
+    "source": {
+      "list": "ICLOUD",
+      "line": 53
+    }
+  },
+  {
+    "type": "full",
+    "value": "www-cdn.icloud.com.akadns.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:www-cdn.icloud.com.akadns.net",
+    "source": {
+      "list": "ICLOUD",
+      "line": 55
+    }
+  }
+]

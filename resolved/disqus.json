@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "disqus.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:disqus.com",
+    "source": {
+      "list": "DISQUS",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "disquscdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:disquscdn.com",
+    "source": {
+      "list": "DISQUS",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "disqusservice.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:disqusservice.com",
+    "source": {
+      "list": "DISQUS",
+      "line": 6
+    }
+  }
+]

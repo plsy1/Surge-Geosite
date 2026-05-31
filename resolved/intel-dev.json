@@ -1,0 +1,189 @@
+[
+  {
+    "type": "domain",
+    "value": "01.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:01.org",
+    "source": {
+      "list": "INTEL-DEV",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "acpica.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:acpica.com",
+    "source": {
+      "list": "INTEL-DEV",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "clearlinux.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:clearlinux.org",
+    "source": {
+      "list": "INTEL-DEV",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hyperscan.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hyperscan.io",
+    "source": {
+      "list": "INTEL-DEV",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intellinuxgraphics.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intellinuxgraphics.com",
+    "source": {
+      "list": "INTEL-DEV",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intellinuxgraphics.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intellinuxgraphics.net",
+    "source": {
+      "list": "INTEL-DEV",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oneapi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oneapi.com",
+    "source": {
+      "list": "INTEL-DEV",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oneapi.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oneapi.io",
+    "source": {
+      "list": "INTEL-DEV",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "opencas.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:opencas.io",
+    "source": {
+      "list": "INTEL-DEV",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "opendroneid.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:opendroneid.org",
+    "source": {
+      "list": "INTEL-DEV",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "openvino.ai",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:openvino.ai",
+    "source": {
+      "list": "INTEL-DEV",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "openvinotoolkit.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:openvinotoolkit.org",
+    "source": {
+      "list": "INTEL-DEV",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ospray.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ospray.net",
+    "source": {
+      "list": "INTEL-DEV",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ospray.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ospray.org",
+    "source": {
+      "list": "INTEL-DEV",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "renderingtoolkit.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:renderingtoolkit.org",
+    "source": {
+      "list": "INTEL-DEV",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "snap-telemetry.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:snap-telemetry.io",
+    "source": {
+      "list": "INTEL-DEV",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "universalscalablefirmware.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:universalscalablefirmware.org",
+    "source": {
+      "list": "INTEL-DEV",
+      "line": 13
+    }
+  }
+]

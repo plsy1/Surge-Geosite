@@ -1,0 +1,1410 @@
+[
+  {
+    "type": "domain",
+    "value": "adygeya.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:adygeya.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 49
+    }
+  },
+  {
+    "type": "domain",
+    "value": "altai.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:altai.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 78
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amur.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:amur.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 94
+    }
+  },
+  {
+    "type": "domain",
+    "value": "arkhangelsk.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:arkhangelsk.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 95
+    }
+  },
+  {
+    "type": "domain",
+    "value": "astrakhan.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:astrakhan.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 96
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bashkiria.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bashkiria.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 50
+    }
+  },
+  {
+    "type": "domain",
+    "value": "belgorod.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:belgorod.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 97
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bir.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bir.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 98
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bryansk.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bryansk.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 99
+    }
+  },
+  {
+    "type": "domain",
+    "value": "buryatia.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:buryatia.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 51
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cbg.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cbg.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 100
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cbr.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cbr.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "chel.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:chel.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 101
+    }
+  },
+  {
+    "type": "domain",
+    "value": "chelyabinsk.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:chelyabinsk.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 102
+    }
+  },
+  {
+    "type": "domain",
+    "value": "chita.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:chita.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 79
+    }
+  },
+  {
+    "type": "domain",
+    "value": "chukotka.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:chukotka.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 156
+    }
+  },
+  {
+    "type": "domain",
+    "value": "chuvashia.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:chuvashia.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 52
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cikrf.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cikrf.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "crimea.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:crimea.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 53
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dagestan.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dagestan.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 54
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ebs.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ebs.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "edu.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:edu.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ekburg.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ekburg.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 103
+    }
+  },
+  {
+    "type": "domain",
+    "value": "emias.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:emias.info",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "goskey.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:goskey.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gosuslugi.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gosuslugi.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gov.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gov.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "government.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:government.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "grfc.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:grfc.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "grozny.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:grozny.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 55
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gu-st.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gu-st.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "i-ola.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:i-ola.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 56
+    }
+  },
+  {
+    "type": "domain",
+    "value": "irk.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:irk.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 105
+    }
+  },
+  {
+    "type": "domain",
+    "value": "irkutsk.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:irkutsk.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 106
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ivanovo.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ivanovo.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 107
+    }
+  },
+  {
+    "type": "domain",
+    "value": "izbirkom.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:izbirkom.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "izhevsk.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:izhevsk.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 57
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jamal.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jamal.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 157
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jar.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jar.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 108
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kalmykia.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kalmykia.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 58
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kaluga.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kaluga.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 109
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kamchatka.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kamchatka.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 80
+    }
+  },
+  {
+    "type": "domain",
+    "value": "karelia.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:karelia.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 59
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kazan.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kazan.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 60
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kchr.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kchr.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 61
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kemerovo.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kemerovo.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 110
+    }
+  },
+  {
+    "type": "domain",
+    "value": "khabarovsk.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:khabarovsk.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 81
+    }
+  },
+  {
+    "type": "domain",
+    "value": "khakassia.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:khakassia.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 62
+    }
+  },
+  {
+    "type": "domain",
+    "value": "khv.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:khv.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 82
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kirov.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kirov.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 111
+    }
+  },
+  {
+    "type": "domain",
+    "value": "koenig.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:koenig.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 112
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kostroma.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kostroma.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 113
+    }
+  },
+  {
+    "type": "domain",
+    "value": "krasnodar.su",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:krasnodar.su",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 83
+    }
+  },
+  {
+    "type": "domain",
+    "value": "krasnoyarsk.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:krasnoyarsk.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 84
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kremlin.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kremlin.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kuban.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kuban.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 85
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kurgan.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kurgan.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 114
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kursk.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kursk.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 115
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lipetsk.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lipetsk.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 116
+    }
+  },
+  {
+    "type": "domain",
+    "value": "magadan.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:magadan.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 117
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mari-el.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mari-el.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 63
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mari.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mari.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 64
+    }
+  },
+  {
+    "type": "domain",
+    "value": "marine.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:marine.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 86
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mgfoms.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mgfoms.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mil.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mil.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mordovia.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mordovia.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 65
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mos.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mos.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 43
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mosreg.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mosreg.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 44
+    }
+  },
+  {
+    "type": "domain",
+    "value": "murmansk.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:murmansk.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 118
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nalchik.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nalchik.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 66
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nalog.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nalog.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nn.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nn.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 119
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nov.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nov.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 120
+    }
+  },
+  {
+    "type": "domain",
+    "value": "novosibirsk.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:novosibirsk.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 121
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nsk.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nsk.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 122
+    }
+  },
+  {
+    "type": "domain",
+    "value": "omsk.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:omsk.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 123
+    }
+  },
+  {
+    "type": "domain",
+    "value": "orb.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:orb.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 124
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oryol.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oryol.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 125
+    }
+  },
+  {
+    "type": "domain",
+    "value": "penza.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:penza.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 126
+    }
+  },
+  {
+    "type": "domain",
+    "value": "perm.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:perm.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 87
+    }
+  },
+  {
+    "type": "domain",
+    "value": "psk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:psk",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 127
+    }
+  },
+  {
+    "type": "domain",
+    "value": "psk.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:psk.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 128
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pskov.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pskov.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 129
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ptz.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ptz.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 67
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rkomi.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rkomi.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 68
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rnd.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rnd.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 130
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ryazan.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ryazan.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 131
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sakhalin.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sakhalin.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 132
+    }
+  },
+  {
+    "type": "domain",
+    "value": "samara.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:samara.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 133
+    }
+  },
+  {
+    "type": "domain",
+    "value": "saratov.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:saratov.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 134
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sevastopol.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sevastopol.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 46
+    }
+  },
+  {
+    "type": "domain",
+    "value": "simbirsk.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:simbirsk.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 135
+    }
+  },
+  {
+    "type": "domain",
+    "value": "smolensk.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:smolensk.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 136
+    }
+  },
+  {
+    "type": "domain",
+    "value": "spb.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:spb.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 45
+    }
+  },
+  {
+    "type": "domain",
+    "value": "stavropol.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:stavropol.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 88
+    }
+  },
+  {
+    "type": "domain",
+    "value": "stv.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:stv.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 89
+    }
+  },
+  {
+    "type": "domain",
+    "value": "surgut.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:surgut.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 158
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tambov.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tambov.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 137
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tatarstan.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tatarstan.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 69
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tom.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tom.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 138
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tomsk.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tomsk.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 139
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tsaritsyn.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tsaritsyn.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 140
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tsk.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tsk.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 141
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tula.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tula.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 142
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tuva.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tuva.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 70
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tver.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tver.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 143
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tyumen.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tyumen.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 144
+    }
+  },
+  {
+    "type": "domain",
+    "value": "udm.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:udm.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 71
+    }
+  },
+  {
+    "type": "domain",
+    "value": "udmurtia.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:udmurtia.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 72
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ulan-ude.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ulan-ude.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 73
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vl.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vl.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 90
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vladikavkaz.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vladikavkaz.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 74
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vladimir.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vladimir.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 145
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vladivostok.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vladivostok.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 91
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vlg.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vlg.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 146
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volgograd.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volgograd.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 147
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vologda.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vologda.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 148
+    }
+  },
+  {
+    "type": "domain",
+    "value": "voronezh.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:voronezh.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 149
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vrn.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vrn.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 150
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vyatka.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vyatka.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 151
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--80acgfbsl1azdqr.xn--p1ai",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--80acgfbsl1azdqr.xn--p1ai",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 104
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--80ajghhoc2aj1c8b.xn--p1ai",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--80ajghhoc2aj1c8b.xn--p1ai",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--b1afabzvcegckfhg.xn--p1ai",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--b1afabzvcegckfhg.xn--p1ai",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yakutia.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yakutia.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 75
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yamal.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yamal.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 159
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yaroslavl.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yaroslavl.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 152
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yuzhno-sakhalinsk.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yuzhno-sakhalinsk.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 153
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zdrav10.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zdrav10.ru",
+    "source": {
+      "list": "CATEGORY-GOV-RU",
+      "line": 162
+    }
+  }
+]

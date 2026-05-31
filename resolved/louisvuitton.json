@@ -1,0 +1,52 @@
+[
+  {
+    "type": "domain",
+    "value": "louisvuitton.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:louisvuitton.cn:@cn",
+    "source": {
+      "list": "LOUISVUITTON",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "louisvuitton.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:louisvuitton.com",
+    "source": {
+      "list": "LOUISVUITTON",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lvcampaign.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:lvcampaign.com:@cn",
+    "source": {
+      "list": "LOUISVUITTON",
+      "line": 3
+    }
+  },
+  {
+    "type": "full",
+    "value": "tp.louisvuitton.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:tp.louisvuitton.com:@cn",
+    "source": {
+      "list": "LOUISVUITTON",
+      "line": 5
+    }
+  }
+]

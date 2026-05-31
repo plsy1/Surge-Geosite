@@ -1,0 +1,789 @@
+[
+  {
+    "type": "domain",
+    "value": "adaptivecards.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:adaptivecards.io",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "api-extractor.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:api-extractor.com",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "apisof.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:apisof.net",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "appcenter.ms",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:appcenter.ms",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "blazor.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:blazor.net",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "botframework.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:botframework.com",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "codethemicrobit.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:codethemicrobit.com",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "devopsassessment.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:devopsassessment.net",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dot.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dot.net",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gamesstack.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gamesstack.com",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "graphengine.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:graphengine.io",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "insiderdevtour.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:insiderdevtour.com",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jwt.ms",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jwt.ms",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microbit.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microbit.org",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoftadc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoftadc.com",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoftgamestack.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoftgamestack.com",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoftiotinsiderlabs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoftiotinsiderlabs.com",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoftreactor.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:microsoftreactor.cn:@cn",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoftreactor.com.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:microsoftreactor.com.cn:@cn",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoftreactor.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoftreactor.info",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoftreactor.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoftreactor.net",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoftreactor.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoftreactor.org",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoftsilverlight.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoftsilverlight.com",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoftsilverlight.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoftsilverlight.net",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoftsilverlight.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoftsilverlight.org",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoftsqlserver.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoftsqlserver.com",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mmdnn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mmdnn.com",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mono-project.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mono-project.com",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "msdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:msdn.com",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "msinnovationchallenge.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:msinnovationchallenge.com",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mspairlift.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mspairlift.com",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "msropendata.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:msropendata.com",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nuget.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nuget.org",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nugettest.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nugettest.org",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "opentranslatorstothings.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:opentranslatorstothings.org",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "poshtestgallery.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:poshtestgallery.com",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pwabuilder.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pwabuilder.com",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 37
+    }
+  },
+  {
+    "type": "domain",
+    "value": "reactorms.com.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:reactorms.com.cn:@cn",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 38
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sankie.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sankie.net",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 39
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sqlserveronlinux.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sqlserveronlinux.com",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 40
+    }
+  },
+  {
+    "type": "domain",
+    "value": "timelinestoryteller.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:timelinestoryteller.com",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "uwpcommunitytoolkit.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:uwpcommunitytoolkit.com",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 42
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vfsforgit.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vfsforgit.com",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 49
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vfsforgit.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vfsforgit.org",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 50
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visualstudio-staging.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visualstudio-staging.com",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 43
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visualstudio.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visualstudio.co",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 45
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visualstudio.co.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visualstudio.co.uk",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 46
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visualstudio.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visualstudio.com",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 44
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visualstudio.eu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visualstudio.eu",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 47
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visualstudio.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visualstudio.net",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 48
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vsassets.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vsassets.io",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 51
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vscode-cdn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vscode-cdn.net",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 53
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vscode-unpkg.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vscode-unpkg.net",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 54
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vscode.dev",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vscode.dev",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 52
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xamarin.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xamarin.com",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 55
+    }
+  },
+  {
+    "type": "full",
+    "value": "az764295.vo.msecnd.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:az764295.vo.msecnd.net",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 57
+    }
+  },
+  {
+    "type": "full",
+    "value": "bingsettingssearch.trafficmanager.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:bingsettingssearch.trafficmanager.net",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 58
+    }
+  },
+  {
+    "type": "full",
+    "value": "default.exp-tas.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:default.exp-tas.com",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 59
+    }
+  },
+  {
+    "type": "full",
+    "value": "developer.microsoft.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:developer.microsoft.com",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 60
+    }
+  },
+  {
+    "type": "full",
+    "value": "download.visualstudio.microsoft.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:download.visualstudio.microsoft.com",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 61
+    }
+  },
+  {
+    "type": "full",
+    "value": "dtlgalleryint.cloudapp.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:dtlgalleryint.cloudapp.net",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 62
+    }
+  },
+  {
+    "type": "full",
+    "value": "packages.microsoft.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:packages.microsoft.com",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 63
+    }
+  },
+  {
+    "type": "full",
+    "value": "poshtestgallery.cloudapp.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:poshtestgallery.cloudapp.net",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 64
+    }
+  },
+  {
+    "type": "full",
+    "value": "psg-int-centralus.cloudapp.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:psg-int-centralus.cloudapp.net",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 65
+    }
+  },
+  {
+    "type": "full",
+    "value": "psg-int-eastus.cloudapp.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:psg-int-eastus.cloudapp.net",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 66
+    }
+  },
+  {
+    "type": "full",
+    "value": "rink.hockeyapp.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:rink.hockeyapp.net",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 67
+    }
+  },
+  {
+    "type": "full",
+    "value": "vscode-sync-insiders.trafficmanager.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:vscode-sync-insiders.trafficmanager.net",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 68
+    }
+  },
+  {
+    "type": "full",
+    "value": "vscode-sync.trafficmanager.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:vscode-sync.trafficmanager.net",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 69
+    }
+  },
+  {
+    "type": "full",
+    "value": "vscode.blob.core.windows.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:vscode.blob.core.windows.net",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 70
+    }
+  },
+  {
+    "type": "full",
+    "value": "vscode.search.windows.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:vscode.search.windows.net",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 71
+    }
+  },
+  {
+    "type": "full",
+    "value": "vsmarketplacebadge.apphb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:vsmarketplacebadge.apphb.com",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 72
+    }
+  }
+]

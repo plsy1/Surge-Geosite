@@ -1,0 +1,123 @@
+[
+  {
+    "type": "domain",
+    "value": "masteroforion.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:masteroforion.com",
+    "source": {
+      "list": "WARGAMING",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wargaming.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wargaming.com",
+    "source": {
+      "list": "WARGAMING",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wargaming.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wargaming.net",
+    "source": {
+      "list": "WARGAMING",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wgcdn.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wgcdn.co",
+    "source": {
+      "list": "WARGAMING",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wgcrowd.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wgcrowd.io",
+    "source": {
+      "list": "WARGAMING",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "worldoftanks.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:worldoftanks.com",
+    "source": {
+      "list": "WARGAMING",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "worldoftanks.eu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:worldoftanks.eu",
+    "source": {
+      "list": "WARGAMING",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "worldofwarplanes.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:worldofwarplanes.com",
+    "source": {
+      "list": "WARGAMING",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "worldofwarships.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:worldofwarships.com",
+    "source": {
+      "list": "WARGAMING",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wotblitz.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wotblitz.com",
+    "source": {
+      "list": "WARGAMING",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wowsblitz.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wowsblitz.com",
+    "source": {
+      "list": "WARGAMING",
+      "line": 11
+    }
+  }
+]

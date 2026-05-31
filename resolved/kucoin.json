@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "kucoin.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kucoin.com",
+    "source": {
+      "list": "KUCOIN",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kucoin.plus",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kucoin.plus",
+    "source": {
+      "list": "KUCOIN",
+      "line": 2
+    }
+  }
+]

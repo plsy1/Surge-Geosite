@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "doi.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:doi.info",
+    "source": {
+      "list": "DOI",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "doi.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:doi.org",
+    "source": {
+      "list": "DOI",
+      "line": 1
+    }
+  }
+]

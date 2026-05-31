@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "517lppz.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:517lppz.com",
+    "source": {
+      "list": "BESTORE",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lppz.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lppz.com",
+    "source": {
+      "list": "BESTORE",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lppzimg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lppzimg.com",
+    "source": {
+      "list": "BESTORE",
+      "line": 3
+    }
+  }
+]

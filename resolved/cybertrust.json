@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "cybertrust.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cybertrust.co.jp",
+    "source": {
+      "list": "CYBERTRUST",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cybertrust.ne.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cybertrust.ne.jp",
+    "source": {
+      "list": "CYBERTRUST",
+      "line": 2
+    }
+  }
+]

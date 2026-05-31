@@ -1,0 +1,147 @@
+[
+  {
+    "type": "domain",
+    "value": "bigbigchannel.com.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bigbigchannel.com.hk",
+    "source": {
+      "list": "TVB",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bigbigshop.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bigbigshop.com",
+    "source": {
+      "list": "TVB",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "encoretvb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:encoretvb.com",
+    "source": {
+      "list": "TVB",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mytvsuper.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mytvsuper.com",
+    "source": {
+      "list": "MYTVSUPER",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tvb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tvb.com",
+    "source": {
+      "list": "MYTVSUPER",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tvb.com.au",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tvb.com.au",
+    "source": {
+      "list": "TVB",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tvbanywhere.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tvbanywhere.com",
+    "source": {
+      "list": "TVB",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tvbanywhere.com.sg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tvbanywhere.com.sg",
+    "source": {
+      "list": "TVB",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tvbc.com.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:tvbc.com.cn:@cn",
+    "source": {
+      "list": "TVB",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tvbeventpower.com.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tvbeventpower.com.hk",
+    "source": {
+      "list": "TVB",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tvbusa.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tvbusa.com",
+    "source": {
+      "list": "TVB",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tvbweekly.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tvbweekly.com",
+    "source": {
+      "list": "TVB",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tvmedia.net.au",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tvmedia.net.au",
+    "source": {
+      "list": "TVB",
+      "line": 14
+    }
+  }
+]

@@ -1,0 +1,266 @@
+[
+  {
+    "type": "domain",
+    "value": "2gis.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:2gis.ru",
+    "source": {
+      "list": "CATEGORY-TRAVEL-RU",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aviasales.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aviasales.com",
+    "source": {
+      "list": "AVIASALES",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aviasales.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aviasales.ru",
+    "source": {
+      "list": "AVIASALES",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "avs.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:avs.io",
+    "source": {
+      "list": "AVIASALES",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "avtovokzaly.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:avtovokzaly.ru",
+    "source": {
+      "list": "CATEGORY-TRAVEL-RU",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "blablacar.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:blablacar.ru",
+    "source": {
+      "list": "CATEGORY-TRAVEL-RU",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fasten.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fasten.ru",
+    "source": {
+      "list": "CATEGORY-TRAVEL-RU",
+      "line": 40
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gorodpay.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gorodpay.ru",
+    "source": {
+      "list": "CATEGORY-TRAVEL-RU",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mosmetro.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mosmetro.ru",
+    "source": {
+      "list": "MOSMETRO",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mosmetro.tech",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mosmetro.tech",
+    "source": {
+      "list": "MOSMETRO",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ostrovok.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ostrovok.ru",
+    "source": {
+      "list": "CATEGORY-TRAVEL-RU",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "otello.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:otello.ru",
+    "source": {
+      "list": "CATEGORY-TRAVEL-RU",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rrtp.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rrtp.ru",
+    "source": {
+      "list": "CATEGORY-TRAVEL-RU",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rzd-bonus.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rzd-bonus.ru",
+    "source": {
+      "list": "CATEGORY-TRAVEL-RU",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rzd.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rzd.ru",
+    "source": {
+      "list": "CATEGORY-TRAVEL-RU",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sber.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sber.ru",
+    "source": {
+      "list": "CATEGORY-TRAVEL-RU",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tutu.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tutu.ru",
+    "source": {
+      "list": "CATEGORY-TRAVEL-RU",
+      "line": 33
+    }
+  },
+  {
+    "type": "full",
+    "value": "arenda.yandex.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:arenda.yandex.ru",
+    "source": {
+      "list": "CATEGORY-TRAVEL-RU",
+      "line": 36
+    }
+  },
+  {
+    "type": "full",
+    "value": "bilet.nspk.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:bilet.nspk.ru",
+    "source": {
+      "list": "CATEGORY-TRAVEL-RU",
+      "line": 20
+    }
+  },
+  {
+    "type": "full",
+    "value": "metro.spb.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:metro.spb.ru",
+    "source": {
+      "list": "CATEGORY-TRAVEL-RU",
+      "line": 21
+    }
+  },
+  {
+    "type": "full",
+    "value": "mos.transport.vtb.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:mos.transport.vtb.ru",
+    "source": {
+      "list": "CATEGORY-TRAVEL-RU",
+      "line": 22
+    }
+  },
+  {
+    "type": "full",
+    "value": "podorozhnik.spb.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:podorozhnik.spb.ru",
+    "source": {
+      "list": "CATEGORY-TRAVEL-RU",
+      "line": 23
+    }
+  },
+  {
+    "type": "full",
+    "value": "taxi.yandex.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:taxi.yandex.ru",
+    "source": {
+      "list": "CATEGORY-TRAVEL-RU",
+      "line": 39
+    }
+  },
+  {
+    "type": "full",
+    "value": "transport.mos.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:transport.mos.ru",
+    "source": {
+      "list": "CATEGORY-TRAVEL-RU",
+      "line": 24
+    }
+  }
+]

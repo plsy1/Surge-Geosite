@@ -1,0 +1,1593 @@
+[
+  {
+    "type": "domain",
+    "value": "91.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:91.com",
+    "source": {
+      "list": "BAIDU",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adscdn.baidu.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:adscdn.baidu.com:@ads",
+    "source": {
+      "list": "BAIDU",
+      "line": 88
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adx.xiaodutv.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:adx.xiaodutv.com:@ads",
+    "source": {
+      "list": "BAIDU",
+      "line": 89
+    }
+  },
+  {
+    "type": "domain",
+    "value": "afd.baidu.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:afd.baidu.com:@ads",
+    "source": {
+      "list": "BAIDU",
+      "line": 90
+    }
+  },
+  {
+    "type": "domain",
+    "value": "afdconf.baidu.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:afdconf.baidu.com:@ads",
+    "source": {
+      "list": "BAIDU",
+      "line": 91
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aipage.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aipage.com",
+    "source": {
+      "list": "BAIDU",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "antpcdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:antpcdn.com",
+    "source": {
+      "list": "BAIDU",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "apollo.auto",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:apollo.auto",
+    "source": {
+      "list": "BAIDU",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "baidu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:baidu",
+    "source": {
+      "list": "BAIDU",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "baidu-cdn.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:baidu-cdn.cn",
+    "source": {
+      "list": "BAIDU",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "baidu-cdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:baidu-cdn.com",
+    "source": {
+      "list": "BAIDU",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "baidu-cdn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:baidu-cdn.net",
+    "source": {
+      "list": "BAIDU",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "baidu.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:baidu.cn",
+    "source": {
+      "list": "BAIDU",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "baidu.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:baidu.com",
+    "source": {
+      "list": "BAIDU",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "baidu.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:baidu.com.cn",
+    "source": {
+      "list": "BAIDU",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "baiduapp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:baiduapp.com",
+    "source": {
+      "list": "BAIDU",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "baidubce.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:baidubce.com",
+    "source": {
+      "list": "BAIDU",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "baidubcr.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:baidubcr.com",
+    "source": {
+      "list": "BAIDU",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "baiducontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:baiducontent.com",
+    "source": {
+      "list": "BAIDU",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "baidupcs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:baidupcs.com",
+    "source": {
+      "list": "BAIDU",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "baidustatic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:baidustatic.com",
+    "source": {
+      "list": "BAIDU",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "baiduyuncdn.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:baiduyuncdn.cn",
+    "source": {
+      "list": "BAIDU",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "baiduyuncdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:baiduyuncdn.com",
+    "source": {
+      "list": "BAIDU",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "baiduyuncdn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:baiduyuncdn.net",
+    "source": {
+      "list": "BAIDU",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "baifae.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:baifae.com",
+    "source": {
+      "list": "BAIDU",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "baifen.music.baidu.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:baifen.music.baidu.com:@ads",
+    "source": {
+      "list": "BAIDU",
+      "line": 92
+    }
+  },
+  {
+    "type": "domain",
+    "value": "baifubao.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:baifubao.com",
+    "source": {
+      "list": "BAIDU",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bce-cdn.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bce-cdn.cn",
+    "source": {
+      "list": "BAIDU",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bce-cdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bce-cdn.com",
+    "source": {
+      "list": "BAIDU",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bce-cdn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bce-cdn.net",
+    "source": {
+      "list": "BAIDU",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bcebos.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bcebos.com",
+    "source": {
+      "list": "BAIDU",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bcelive.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bcelive.com",
+    "source": {
+      "list": "BAIDU",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bdcloudapi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bdcloudapi.com",
+    "source": {
+      "list": "BAIDU",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bdimg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bdimg.com",
+    "source": {
+      "list": "BAIDU",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bdstatic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bdstatic.com",
+    "source": {
+      "list": "BAIDU",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bdtjrcv.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bdtjrcv.com",
+    "source": {
+      "list": "BAIDU",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bdurl.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bdurl.net",
+    "source": {
+      "list": "BAIDU",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bdycdn.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bdycdn.cn",
+    "source": {
+      "list": "BAIDU",
+      "line": 37
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bdycdn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bdycdn.net",
+    "source": {
+      "list": "BAIDU",
+      "line": 38
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bdydns.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bdydns.cn",
+    "source": {
+      "list": "BAIDU",
+      "line": 39
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bdydns.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bdydns.com",
+    "source": {
+      "list": "BAIDU",
+      "line": 40
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bdydns.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bdydns.net",
+    "source": {
+      "list": "BAIDU",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bzclk.baidu.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:bzclk.baidu.com:@ads",
+    "source": {
+      "list": "BAIDU",
+      "line": 93
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cb.baidu.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:cb.baidu.com:@ads",
+    "source": {
+      "list": "BAIDU",
+      "line": 94
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cbjs.baidu.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:cbjs.baidu.com:@ads",
+    "source": {
+      "list": "BAIDU",
+      "line": 95
+    }
+  },
+  {
+    "type": "domain",
+    "value": "chuanke.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:chuanke.com",
+    "source": {
+      "list": "BAIDU",
+      "line": 42
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cm.baidu.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:cm.baidu.com:@ads",
+    "source": {
+      "list": "BAIDU",
+      "line": 96
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cpro.baidu.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:cpro.baidu.com:@ads",
+    "source": {
+      "list": "BAIDU",
+      "line": 97
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cpro.baidustatic.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:cpro.baidustatic.com:@ads",
+    "source": {
+      "list": "BAIDU",
+      "line": 98
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cpu.baidu.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:cpu.baidu.com:@ads",
+    "source": {
+      "list": "BAIDU",
+      "line": 99
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cstm.baidu.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:cstm.baidu.com:@ads",
+    "source": {
+      "list": "BAIDU",
+      "line": 100
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dlnel.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dlnel.com",
+    "source": {
+      "list": "BAIDU",
+      "line": 43
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dlnel.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dlnel.org",
+    "source": {
+      "list": "BAIDU",
+      "line": 44
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dlswbr.baidu.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:dlswbr.baidu.com:@ads",
+    "source": {
+      "list": "BAIDU",
+      "line": 101
+    }
+  },
+  {
+    "type": "domain",
+    "value": "drmcmm.baidu.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:drmcmm.baidu.com:@ads",
+    "source": {
+      "list": "BAIDU",
+      "line": 102
+    }
+  },
+  {
+    "type": "domain",
+    "value": "duapp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:duapp.com",
+    "source": {
+      "list": "BAIDU",
+      "line": 45
+    }
+  },
+  {
+    "type": "domain",
+    "value": "duapp.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:duapp.net",
+    "source": {
+      "list": "BAIDU",
+      "line": 46
+    }
+  },
+  {
+    "type": "domain",
+    "value": "duapps.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:duapps.com",
+    "source": {
+      "list": "BAIDU",
+      "line": 47
+    }
+  },
+  {
+    "type": "domain",
+    "value": "duiwai.baidu.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:duiwai.baidu.com:@ads",
+    "source": {
+      "list": "BAIDU",
+      "line": 103
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dup.baidustatic.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:dup.baidustatic.com:@ads",
+    "source": {
+      "list": "BAIDU",
+      "line": 104
+    }
+  },
+  {
+    "type": "domain",
+    "value": "duurl.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:duurl.cn",
+    "source": {
+      "list": "BAIDU",
+      "line": 48
+    }
+  },
+  {
+    "type": "domain",
+    "value": "duxiaoman-int.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:duxiaoman-int.com",
+    "source": {
+      "list": "BAIDU",
+      "line": 73
+    }
+  },
+  {
+    "type": "domain",
+    "value": "duxiaoman.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:duxiaoman.com",
+    "source": {
+      "list": "BAIDU",
+      "line": 74
+    }
+  },
+  {
+    "type": "domain",
+    "value": "duxiaomanfintech.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:duxiaomanfintech.com",
+    "source": {
+      "list": "BAIDU",
+      "line": 75
+    }
+  },
+  {
+    "type": "domain",
+    "value": "duxiaomantech.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:duxiaomantech.com",
+    "source": {
+      "list": "BAIDU",
+      "line": 76
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dwz.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dwz.cn",
+    "source": {
+      "list": "BAIDU",
+      "line": 49
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dxm-cdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dxm-cdn.com",
+    "source": {
+      "list": "BAIDU",
+      "line": 77
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dxm-int.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dxm-int.com",
+    "source": {
+      "list": "BAIDU",
+      "line": 78
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dxmjinr.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dxmjinr.com",
+    "source": {
+      "list": "BAIDU",
+      "line": 79
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dxmlcf.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dxmlcf.com",
+    "source": {
+      "list": "BAIDU",
+      "line": 80
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dxmlcfintech.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dxmlcfintech.com",
+    "source": {
+      "list": "BAIDU",
+      "line": 81
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dxmpay.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dxmpay.com",
+    "source": {
+      "list": "BAIDU",
+      "line": 82
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dxmstatic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dxmstatic.com",
+    "source": {
+      "list": "BAIDU",
+      "line": 83
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dxmyqh.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dxmyqh.com",
+    "source": {
+      "list": "BAIDU",
+      "line": 84
+    }
+  },
+  {
+    "type": "domain",
+    "value": "eclick.baidu.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:eclick.baidu.com:@ads",
+    "source": {
+      "list": "BAIDU",
+      "line": 105
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ecma.bdimg.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:ecma.bdimg.com:@ads",
+    "source": {
+      "list": "BAIDU",
+      "line": 106
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ecmb.bdimg.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:ecmb.bdimg.com:@ads",
+    "source": {
+      "list": "BAIDU",
+      "line": 107
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ecmc.bdimg.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:ecmc.bdimg.com:@ads",
+    "source": {
+      "list": "BAIDU",
+      "line": 108
+    }
+  },
+  {
+    "type": "domain",
+    "value": "eduad.baidu.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:eduad.baidu.com:@ads",
+    "source": {
+      "list": "BAIDU",
+      "line": 109
+    }
+  },
+  {
+    "type": "domain",
+    "value": "eiv.baidu.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:eiv.baidu.com:@ads",
+    "source": {
+      "list": "BAIDU",
+      "line": 110
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fclick.baidu.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:fclick.baidu.com:@ads",
+    "source": {
+      "list": "BAIDU",
+      "line": 111
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fclog.baidu.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:fclog.baidu.com:@ads",
+    "source": {
+      "list": "BAIDU",
+      "line": 112
+    }
+  },
+  {
+    "type": "domain",
+    "value": "h2tcbox.baidu.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:h2tcbox.baidu.com:@ads",
+    "source": {
+      "list": "BAIDU",
+      "line": 113
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hao123.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hao123.com",
+    "source": {
+      "list": "BAIDU",
+      "line": 50
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hao123img.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hao123img.com",
+    "source": {
+      "list": "BAIDU",
+      "line": 51
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hao123union.baidu.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:hao123union.baidu.com:@ads",
+    "source": {
+      "list": "BAIDU",
+      "line": 114
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hao222.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hao222.com",
+    "source": {
+      "list": "BAIDU",
+      "line": 52
+    }
+  },
+  {
+    "type": "domain",
+    "value": "haokan.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:haokan.com",
+    "source": {
+      "list": "BAIDU",
+      "line": 53
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hm.baidu.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:hm.baidu.com:@ads",
+    "source": {
+      "list": "BAIDU",
+      "line": 115
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hmma.baidu.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:hmma.baidu.com:@ads",
+    "source": {
+      "list": "BAIDU",
+      "line": 116
+    }
+  },
+  {
+    "type": "domain",
+    "value": "imgstat.baidu.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:imgstat.baidu.com:@ads",
+    "source": {
+      "list": "BAIDU",
+      "line": 117
+    }
+  },
+  {
+    "type": "domain",
+    "value": "iwanad.baidu.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:iwanad.baidu.com:@ads",
+    "source": {
+      "list": "BAIDU",
+      "line": 118
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jomocdn.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jomocdn.cn",
+    "source": {
+      "list": "BAIDU",
+      "line": 54
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jomocdn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jomocdn.net",
+    "source": {
+      "list": "BAIDU",
+      "line": 55
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jomodns.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jomodns.cn",
+    "source": {
+      "list": "BAIDU",
+      "line": 56
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jomodns.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jomodns.com",
+    "source": {
+      "list": "BAIDU",
+      "line": 57
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jomodns.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jomodns.net",
+    "source": {
+      "list": "BAIDU",
+      "line": 58
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jomoxc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jomoxc.com",
+    "source": {
+      "list": "BAIDU",
+      "line": 59
+    }
+  },
+  {
+    "type": "domain",
+    "value": "miao.baidu.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:miao.baidu.com:@ads",
+    "source": {
+      "list": "BAIDU",
+      "line": 119
+    }
+  },
+  {
+    "type": "domain",
+    "value": "miaowu.baidu.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:miaowu.baidu.com:@ads",
+    "source": {
+      "list": "BAIDU",
+      "line": 120
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mipcache.bdstatic.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:mipcache.bdstatic.com:@ads",
+    "source": {
+      "list": "BAIDU",
+      "line": 121
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mipcdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mipcdn.com",
+    "source": {
+      "list": "BAIDU",
+      "line": 60
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mobads-logs.baidu.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:mobads-logs.baidu.com:@ads",
+    "source": {
+      "list": "BAIDU",
+      "line": 123
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mobads-pre-config.cdn.bcebos.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:mobads-pre-config.cdn.bcebos.com:@ads",
+    "source": {
+      "list": "BAIDU",
+      "line": 124
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mobads.baidu.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:mobads.baidu.com:@ads",
+    "source": {
+      "list": "BAIDU",
+      "line": 122
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mountain.zhidao.baidu.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:mountain.zhidao.baidu.com:@ads",
+    "source": {
+      "list": "BAIDU",
+      "line": 125
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nsclick.baidu.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:nsclick.baidu.com:@ads",
+    "source": {
+      "list": "BAIDU",
+      "line": 126
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nsclickvideo.baidu.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:nsclickvideo.baidu.com:@ads",
+    "source": {
+      "list": "BAIDU",
+      "line": 127
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nuomi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nuomi.com",
+    "source": {
+      "list": "BAIDU",
+      "line": 61
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paydxm.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paydxm.com",
+    "source": {
+      "list": "BAIDU",
+      "line": 85
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pimlog.baidu.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:pimlog.baidu.com:@ads",
+    "source": {
+      "list": "BAIDU",
+      "line": 128
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pos.baidu.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:pos.baidu.com:@ads",
+    "source": {
+      "list": "BAIDU",
+      "line": 129
+    }
+  },
+  {
+    "type": "domain",
+    "value": "quyaoya.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:quyaoya.com",
+    "source": {
+      "list": "BAIDU",
+      "line": 62
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sclick.baidu.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:sclick.baidu.com:@ads",
+    "source": {
+      "list": "BAIDU",
+      "line": 130
+    }
+  },
+  {
+    "type": "domain",
+    "value": "shifen.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:shifen.com",
+    "source": {
+      "list": "BAIDU",
+      "line": 63
+    }
+  },
+  {
+    "type": "domain",
+    "value": "smartapps.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:smartapps.cn",
+    "source": {
+      "list": "BAIDU",
+      "line": 64
+    }
+  },
+  {
+    "type": "domain",
+    "value": "spcode.baidu.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:spcode.baidu.com:@ads",
+    "source": {
+      "list": "BAIDU",
+      "line": 131
+    }
+  },
+  {
+    "type": "domain",
+    "value": "syh.zybang.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:syh.zybang.com:@ads",
+    "source": {
+      "list": "ZUOYEBANG",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tcbox.baidu.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:tcbox.baidu.com:@ads",
+    "source": {
+      "list": "BAIDU",
+      "line": 132
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tieba.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tieba.com",
+    "source": {
+      "list": "BAIDU",
+      "line": 65
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tiebaimg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tiebaimg.com",
+    "source": {
+      "list": "BAIDU",
+      "line": 66
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ubmcvideo.baidustatic.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:ubmcvideo.baidustatic.com:@ads",
+    "source": {
+      "list": "BAIDU",
+      "line": 133
+    }
+  },
+  {
+    "type": "domain",
+    "value": "union.baidu.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:union.baidu.com:@ads",
+    "source": {
+      "list": "BAIDU",
+      "line": 134
+    }
+  },
+  {
+    "type": "domain",
+    "value": "unionimage.baidu.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:unionimage.baidu.com:@ads",
+    "source": {
+      "list": "BAIDU",
+      "line": 135
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wangmeng.baidu.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:wangmeng.baidu.com:@ads",
+    "source": {
+      "list": "BAIDU",
+      "line": 136
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wkctj.baidu.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:wkctj.baidu.com:@ads",
+    "source": {
+      "list": "BAIDU",
+      "line": 137
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wm.baidu.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:wm.baidu.com:@ads",
+    "source": {
+      "list": "BAIDU",
+      "line": 138
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xdrtc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xdrtc.com",
+    "source": {
+      "list": "BAIDU",
+      "line": 67
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xianfae.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xianfae.com",
+    "source": {
+      "list": "BAIDU",
+      "line": 68
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xiaodutv.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xiaodutv.com",
+    "source": {
+      "list": "BAIDU",
+      "line": 69
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yoojia.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yoojia.com",
+    "source": {
+      "list": "BAIDU",
+      "line": 70
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zuoyebang.cc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zuoyebang.cc",
+    "source": {
+      "list": "ZUOYEBANG",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zuoyebang.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zuoyebang.com",
+    "source": {
+      "list": "ZUOYEBANG",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zybang.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zybang.com",
+    "source": {
+      "list": "ZUOYEBANG",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zz.bdstatic.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:zz.bdstatic.com:@ads",
+    "source": {
+      "list": "BAIDU",
+      "line": 139
+    }
+  }
+]

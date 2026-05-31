@@ -1,0 +1,39 @@
+[
+  {
+    "type": "domain",
+    "value": "clearasil.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:clearasil.cn:@cn",
+    "source": {
+      "list": "CLEARASIL",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "clearasil.com.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:clearasil.com.cn:@cn",
+    "source": {
+      "list": "CLEARASIL",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "clearasil.us",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:clearasil.us",
+    "source": {
+      "list": "CLEARASIL",
+      "line": 3
+    }
+  }
+]

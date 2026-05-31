@@ -1,0 +1,4864 @@
+[
+  {
+    "type": "domain",
+    "value": "1lib.cloud",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:1lib.cloud",
+    "source": {
+      "list": "Z-LIBRARY",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "1lib.cz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:1lib.cz",
+    "source": {
+      "list": "Z-LIBRARY",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "1lib.domains",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:1lib.domains",
+    "source": {
+      "list": "Z-LIBRARY",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "1lib.education",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:1lib.education",
+    "source": {
+      "list": "Z-LIBRARY",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "1lib.eu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:1lib.eu",
+    "source": {
+      "list": "Z-LIBRARY",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "1lib.limited",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:1lib.limited",
+    "source": {
+      "list": "Z-LIBRARY",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "1lib.pl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:1lib.pl",
+    "source": {
+      "list": "Z-LIBRARY",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "1lib.sk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:1lib.sk",
+    "source": {
+      "list": "Z-LIBRARY",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "1lib.to",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:1lib.to",
+    "source": {
+      "list": "Z-LIBRARY",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "1lib.tw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:1lib.tw",
+    "source": {
+      "list": "Z-LIBRARY",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "2lib.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:2lib.org",
+    "source": {
+      "list": "Z-LIBRARY",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "3lib.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:3lib.net",
+    "source": {
+      "list": "Z-LIBRARY",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aacrjournals.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aacrjournals.org",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ac.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ac.ir",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-IR",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ac.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ac.uk",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-UK",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "academic.eb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:academic.eb.com",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "acaric.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:acaric.co.jp",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aclweb.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aclweb.org",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "acm.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:acm.org",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "acs.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:acs.org",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "agu.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:agu.org",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aiaa.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aiaa.org",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aimsciences.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aimsciences.org",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airiti.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airiti.com",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airitilibrary.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airitilibrary.com",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "alexanderstreet.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:alexanderstreet.com",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "alphaxiv.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:alphaxiv.org",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "altmetric.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:altmetric.com",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amamanualofstyle.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:amamanualofstyle.com",
+    "source": {
+      "list": "OUP",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amdigital.co.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:amdigital.co.uk",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ams.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ams.org",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 37
+    }
+  },
+  {
+    "type": "domain",
+    "value": "analytictech.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:analytictech.com",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 38
+    }
+  },
+  {
+    "type": "domain",
+    "value": "anatomy.tv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:anatomy.tv",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 39
+    }
+  },
+  {
+    "type": "domain",
+    "value": "anb.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:anb.org",
+    "source": {
+      "list": "OUP",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "annualreviews.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:annualreviews.org",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 40
+    }
+  },
+  {
+    "type": "domain",
+    "value": "apa.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:apa.org",
+    "source": {
+      "list": "APA",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "apress.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:apress.com",
+    "source": {
+      "list": "SPRINGER",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aps.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aps.org",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "arabidopsis.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:arabidopsis.org",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 42
+    }
+  },
+  {
+    "type": "domain",
+    "value": "art1lib.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:art1lib.com",
+    "source": {
+      "list": "Z-LIBRARY",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "artstor.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:artstor.org",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 43
+    }
+  },
+  {
+    "type": "domain",
+    "value": "arxiv.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:arxiv.org",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 44
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ascelibrary.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ascelibrary.org",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 45
+    }
+  },
+  {
+    "type": "domain",
+    "value": "asha.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:asha.org",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 46
+    }
+  },
+  {
+    "type": "domain",
+    "value": "asm.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:asm.org",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 47
+    }
+  },
+  {
+    "type": "domain",
+    "value": "asme.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:asme.org",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 48
+    }
+  },
+  {
+    "type": "domain",
+    "value": "asminternational.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:asminternational.org",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 49
+    }
+  },
+  {
+    "type": "domain",
+    "value": "asn-online.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:asn-online.org",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 50
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aspbjournals.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aspbjournals.org",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 51
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aspenpublishing.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aspenpublishing.com",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 52
+    }
+  },
+  {
+    "type": "domain",
+    "value": "astm.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:astm.org",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 53
+    }
+  },
+  {
+    "type": "domain",
+    "value": "b-ok.africa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:b-ok.africa",
+    "source": {
+      "list": "Z-LIBRARY",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "b-ok.asia",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:b-ok.asia",
+    "source": {
+      "list": "Z-LIBRARY",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "b-ok.cc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:b-ok.cc",
+    "source": {
+      "list": "Z-LIBRARY",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "b-ok.global",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:b-ok.global",
+    "source": {
+      "list": "Z-LIBRARY",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "b-ok.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:b-ok.org",
+    "source": {
+      "list": "Z-LIBRARY",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "berkeley.edu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:berkeley.edu",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 54
+    }
+  },
+  {
+    "type": "domain",
+    "value": "biologists.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:biologists.com",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 55
+    }
+  },
+  {
+    "type": "domain",
+    "value": "biomedcentral.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:biomedcentral.com",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 56
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bioone.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bioone.org",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 57
+    }
+  },
+  {
+    "type": "domain",
+    "value": "biorxiv.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:biorxiv.org",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 58
+    }
+  },
+  {
+    "type": "domain",
+    "value": "blackstonespoliceservice.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:blackstonespoliceservice.com",
+    "source": {
+      "list": "OUP",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bloomsburycollections.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bloomsburycollections.com",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 59
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bloomsburydesignlibrary.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bloomsburydesignlibrary.com",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 60
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bmj.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bmj.com",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 61
+    }
+  },
+  {
+    "type": "domain",
+    "value": "book4you.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:book4you.org",
+    "source": {
+      "list": "Z-LIBRARY",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bookfi.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bookfi.net",
+    "source": {
+      "list": "Z-LIBRARY",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "booksc.eu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:booksc.eu",
+    "source": {
+      "list": "Z-LIBRARY",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "booksc.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:booksc.me",
+    "source": {
+      "list": "Z-LIBRARY",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "booksc.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:booksc.org",
+    "source": {
+      "list": "Z-LIBRARY",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "booksc.xyz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:booksc.xyz",
+    "source": {
+      "list": "Z-LIBRARY",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bookshome.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bookshome.info",
+    "source": {
+      "list": "Z-LIBRARY",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bookshome.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bookshome.net",
+    "source": {
+      "list": "Z-LIBRARY",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bookshome.world",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bookshome.world",
+    "source": {
+      "list": "Z-LIBRARY",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "booksinprint.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:booksinprint.com",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 62
+    }
+  },
+  {
+    "type": "domain",
+    "value": "brepolis.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:brepolis.net",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 63
+    }
+  },
+  {
+    "type": "domain",
+    "value": "brill.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:brill.com",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 64
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bvdinfo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bvdinfo.com",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 65
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cairn.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cairn.info",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 66
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cambridge.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cambridge.org",
+    "source": {
+      "list": "CAMBRIDGE",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cambridgedigital.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cambridgedigital.net",
+    "source": {
+      "list": "CAMBRIDGE",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cambridgemaths.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cambridgemaths.org",
+    "source": {
+      "list": "CAMBRIDGE",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cambridgeschoolshakespeare.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cambridgeschoolshakespeare.com",
+    "source": {
+      "list": "CAMBRIDGE",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "capitaliq.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:capitaliq.com",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 67
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cas.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cas.org",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 68
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ceicdata.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ceicdata.com",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 69
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cell.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cell.com",
+    "source": {
+      "list": "ELSEVIER",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "chemnetbase.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:chemnetbase.com",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 70
+    }
+  },
+  {
+    "type": "domain",
+    "value": "choicereviews.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:choicereviews.org",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 71
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cios.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cios.org",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 72
+    }
+  },
+  {
+    "type": "domain",
+    "value": "clarivate.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:clarivate.com",
+    "source": {
+      "list": "CLARIVATE",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "clinicalkey.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:clinicalkey.com",
+    "source": {
+      "list": "ELSEVIER",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cmu.edu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cmu.edu",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 73
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cochranelibrary.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cochranelibrary.com",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 74
+    }
+  },
+  {
+    "type": "domain",
+    "value": "computer.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:computer.org",
+    "source": {
+      "list": "IEEE",
+      "line": 38
+    }
+  },
+  {
+    "type": "domain",
+    "value": "computingreviews.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:computingreviews.com",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 75
+    }
+  },
+  {
+    "type": "domain",
+    "value": "comsoc.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:comsoc.org",
+    "source": {
+      "list": "IEEE",
+      "line": 39
+    }
+  },
+  {
+    "type": "domain",
+    "value": "csrankings.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:csrankings.org",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 76
+    }
+  },
+  {
+    "type": "domain",
+    "value": "datasheets360.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:datasheets360.com",
+    "source": {
+      "list": "IEEE",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "de1lib.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:de1lib.org",
+    "source": {
+      "list": "Z-LIBRARY",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "degruyter.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:degruyter.com",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 77
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dentalhypotheses.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dentalhypotheses.com",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 78
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dlib.eastview.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dlib.eastview.com",
+    "source": {
+      "list": "CAMBRIDGE",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dln1.ncdn.ec",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dln1.ncdn.ec",
+    "source": {
+      "list": "Z-LIBRARY",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "doi.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:doi.info",
+    "source": {
+      "list": "DOI",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "doi.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:doi.org",
+    "source": {
+      "list": "DOI",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ebsco.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ebsco.com",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 79
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ebscohost.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ebscohost.com",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 80
+    }
+  },
+  {
+    "type": "domain",
+    "value": "edu.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:edu.ir",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-IR",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "electrochem.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:electrochem.org",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 81
+    }
+  },
+  {
+    "type": "domain",
+    "value": "elgaronline.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:elgaronline.com",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 82
+    }
+  },
+  {
+    "type": "domain",
+    "value": "elifesciences.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:elifesciences.org",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 83
+    }
+  },
+  {
+    "type": "domain",
+    "value": "els-cdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:els-cdn.com",
+    "source": {
+      "list": "ELSEVIER",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "elsevier-ae.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:elsevier-ae.com",
+    "source": {
+      "list": "ELSEVIER",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "elsevier.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:elsevier.com",
+    "source": {
+      "list": "ELSEVIER",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "elsevier.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:elsevier.io",
+    "source": {
+      "list": "ELSEVIER",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "embase.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:embase.com",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 84
+    }
+  },
+  {
+    "type": "domain",
+    "value": "embs.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:embs.org",
+    "source": {
+      "list": "IEEE",
+      "line": 40
+    }
+  },
+  {
+    "type": "domain",
+    "value": "emcs.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:emcs.org",
+    "source": {
+      "list": "IEEE",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "emerald.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:emerald.com",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 85
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ems-ph.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ems-ph.org",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 86
+    }
+  },
+  {
+    "type": "domain",
+    "value": "engineeringvillage.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:engineeringvillage.com",
+    "source": {
+      "list": "ELSEVIER",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "epigeum.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:epigeum.com",
+    "source": {
+      "list": "OUP",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "eurekaselect.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:eurekaselect.com",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 87
+    }
+  },
+  {
+    "type": "domain",
+    "value": "europepmc.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:europepmc.org",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 88
+    }
+  },
+  {
+    "type": "domain",
+    "value": "evise.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:evise.com",
+    "source": {
+      "list": "ELSEVIER",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facultyopinions.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facultyopinions.com",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 89
+    }
+  },
+  {
+    "type": "domain",
+    "value": "frontiersin.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:frontiersin.org",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 90
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fundinginstitutional.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fundinginstitutional.com",
+    "source": {
+      "list": "ELSEVIER",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gale.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gale.com",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 91
+    }
+  },
+  {
+    "type": "domain",
+    "value": "galegroup.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:galegroup.com",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 92
+    }
+  },
+  {
+    "type": "domain",
+    "value": "geolytics.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:geolytics.com",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 93
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ggsrv.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ggsrv.com",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 94
+    }
+  },
+  {
+    "type": "domain",
+    "value": "global-sci.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:global-sci.org",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 95
+    }
+  },
+  {
+    "type": "domain",
+    "value": "globalspec.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:globalspec.com",
+    "source": {
+      "list": "IEEE",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "grss-ieee.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:grss-ieee.org",
+    "source": {
+      "list": "IEEE",
+      "line": 42
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hanzhen.xmulib.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hanzhen.xmulib.org",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 106
+    }
+  },
+  {
+    "type": "domain",
+    "value": "heinonline.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:heinonline.org",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 96
+    }
+  },
+  {
+    "type": "domain",
+    "value": "highwirepress.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:highwirepress.com",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 97
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hindawi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hindawi.com",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 98
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hk1lib.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hk1lib.org",
+    "source": {
+      "list": "Z-LIBRARY",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hotcrp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hotcrp.com",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 99
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icevirtuallibrary.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icevirtuallibrary.com",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 100
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icsd.fiz-karlsruhe.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icsd.fiz-karlsruhe.de",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 101
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ieee-aess.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ieee-aess.org",
+    "source": {
+      "list": "IEEE",
+      "line": 43
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ieee-cas.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ieee-cas.org",
+    "source": {
+      "list": "IEEE",
+      "line": 44
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ieee-ccnc.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ieee-ccnc.org",
+    "source": {
+      "list": "IEEE",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ieee-ceda.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ieee-ceda.org",
+    "source": {
+      "list": "IEEE",
+      "line": 45
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ieee-ecce.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ieee-ecce.org",
+    "source": {
+      "list": "IEEE",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ieee-edusociety.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ieee-edusociety.org",
+    "source": {
+      "list": "IEEE",
+      "line": 46
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ieee-ies.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ieee-ies.org",
+    "source": {
+      "list": "IEEE",
+      "line": 47
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ieee-ims.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ieee-ims.org",
+    "source": {
+      "list": "IEEE",
+      "line": 48
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ieee-into-focus.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ieee-into-focus.org",
+    "source": {
+      "list": "IEEE",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ieee-isto.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ieee-isto.org",
+    "source": {
+      "list": "IEEE",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ieee-npss.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ieee-npss.org",
+    "source": {
+      "list": "IEEE",
+      "line": 49
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ieee-pels.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ieee-pels.org",
+    "source": {
+      "list": "IEEE",
+      "line": 50
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ieee-pes.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ieee-pes.org",
+    "source": {
+      "list": "IEEE",
+      "line": 51
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ieee-ras.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ieee-ras.org",
+    "source": {
+      "list": "IEEE",
+      "line": 52
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ieee-region6.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ieee-region6.org",
+    "source": {
+      "list": "IEEE",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ieee-sensors.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ieee-sensors.org",
+    "source": {
+      "list": "IEEE",
+      "line": 53
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ieee-tems.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ieee-tems.org",
+    "source": {
+      "list": "IEEE",
+      "line": 54
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ieee-uffc.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ieee-uffc.org",
+    "source": {
+      "list": "IEEE",
+      "line": 55
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ieee-vics.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ieee-vics.org",
+    "source": {
+      "list": "IEEE",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ieee.ca",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ieee.ca",
+    "source": {
+      "list": "IEEE",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ieee.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ieee.org",
+    "source": {
+      "list": "IEEE",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ieee.tv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ieee.tv",
+    "source": {
+      "list": "IEEE",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ieeeaps.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ieeeaps.org",
+    "source": {
+      "list": "IEEE",
+      "line": 56
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ieeecsc.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ieeecsc.org",
+    "source": {
+      "list": "IEEE",
+      "line": 57
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ieeecss.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ieeecss.org",
+    "source": {
+      "list": "IEEE",
+      "line": 58
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ieeeday.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ieeeday.org",
+    "source": {
+      "list": "IEEE",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ieeedeis.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ieeedeis.org",
+    "source": {
+      "list": "IEEE",
+      "line": 59
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ieeefoundation.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ieeefoundation.org",
+    "source": {
+      "list": "IEEE",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ieeemagnetics.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ieeemagnetics.org",
+    "source": {
+      "list": "IEEE",
+      "line": 60
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ieeemce.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ieeemce.org",
+    "source": {
+      "list": "IEEE",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ieeenano.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ieeenano.org",
+    "source": {
+      "list": "IEEE",
+      "line": 61
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ieeeoes.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ieeeoes.org",
+    "source": {
+      "list": "IEEE",
+      "line": 62
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ieeer10.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ieeer10.org",
+    "source": {
+      "list": "IEEE",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ieeer5.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ieeer5.org",
+    "source": {
+      "list": "IEEE",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ieeer8.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ieeer8.org",
+    "source": {
+      "list": "IEEE",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ieeesmc.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ieeesmc.org",
+    "source": {
+      "list": "IEEE",
+      "line": 63
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ieeesystemscouncil.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ieeesystemscouncil.org",
+    "source": {
+      "list": "IEEE",
+      "line": 64
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ieeeusa.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ieeeusa.org",
+    "source": {
+      "list": "IEEE",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "igi-global.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:igi-global.com",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 102
+    }
+  },
+  {
+    "type": "domain",
+    "value": "igpublish.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:igpublish.com",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 103
+    }
+  },
+  {
+    "type": "domain",
+    "value": "imperialbusiness.school",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:imperialbusiness.school",
+    "source": {
+      "list": "IMPERIALCOLLEGE",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "infolinker.com.tw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:infolinker.com.tw",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 107
+    }
+  },
+  {
+    "type": "domain",
+    "value": "informs.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:informs.org",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 109
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ioinformatics.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ioinformatics.org",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 110
+    }
+  },
+  {
+    "type": "domain",
+    "value": "iop.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:iop.org",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 111
+    }
+  },
+  {
+    "type": "domain",
+    "value": "iranlms.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:iranlms.ir",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-IR",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "isca-speech.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:isca-speech.org",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 112
+    }
+  },
+  {
+    "type": "domain",
+    "value": "isiknowledge.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:isiknowledge.com",
+    "source": {
+      "list": "SCI",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "itsoc.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:itsoc.org",
+    "source": {
+      "list": "IEEE",
+      "line": 65
+    }
+  },
+  {
+    "type": "domain",
+    "value": "iwaponline.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:iwaponline.com",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 113
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jamanetwork.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jamanetwork.com",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 114
+    }
+  },
+  {
+    "type": "domain",
+    "value": "japanknowledge.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:japanknowledge.com",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 115
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jbe-platform.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jbe-platform.com",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 116
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jmlr.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jmlr.org",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 117
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jneurosci.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jneurosci.org",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 118
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jove.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jove.com",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 119
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jstage.jst.go.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jstage.jst.go.jp",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 120
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jstor.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jstor.org",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 121
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jtt.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jtt.ir",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-IR",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "karger.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:karger.com",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 122
+    }
+  },
+  {
+    "type": "domain",
+    "value": "knovel.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:knovel.com",
+    "source": {
+      "list": "ELSEVIER",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kuke.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kuke.com",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 123
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lawdata.com.tw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lawdata.com.tw",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 124
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lexisnexis.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lexisnexis.com",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 125
+    }
+  },
+  {
+    "type": "domain",
+    "value": "libsolutions.app",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:libsolutions.app",
+    "source": {
+      "list": "Z-LIBRARY",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "libsolutions.domains",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:libsolutions.domains",
+    "source": {
+      "list": "Z-LIBRARY",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "libsolutions.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:libsolutions.net",
+    "source": {
+      "list": "Z-LIBRARY",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "literatumonline.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:literatumonline.com",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 126
+    }
+  },
+  {
+    "type": "domain",
+    "value": "livinno.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:livinno.org",
+    "source": {
+      "list": "UOLIV",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ma1lib.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ma1lib.org",
+    "source": {
+      "list": "Z-LIBRARY",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mdpi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mdpi.com",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 127
+    }
+  },
+  {
+    "type": "domain",
+    "value": "medrxiv.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:medrxiv.org",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 128
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mendeley.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mendeley.com",
+    "source": {
+      "list": "ELSEVIER",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mit",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mit",
+    "source": {
+      "list": "MIT",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mit.edu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mit.edu",
+    "source": {
+      "list": "MIT",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mit.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mit.net",
+    "source": {
+      "list": "MIT",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mitpressjournals.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mitpressjournals.org",
+    "source": {
+      "list": "MIT",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "morganclaypool.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:morganclaypool.com",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 129
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mtt.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mtt.org",
+    "source": {
+      "list": "IEEE",
+      "line": 66
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nature.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nature.com",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 130
+    }
+  },
+  {
+    "type": "domain",
+    "value": "naturemag.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:naturemag.org",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 131
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ncl.edu.tw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ncl.edu.tw",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 132
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nejm.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nejm.org",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 133
+    }
+  },
+  {
+    "type": "domain",
+    "value": "neurology.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:neurology.org",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 134
+    }
+  },
+  {
+    "type": "domain",
+    "value": "newisiknowledge.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:newisiknowledge.com",
+    "source": {
+      "list": "SCI",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nii.ac.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nii.ac.jp",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 135
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oecd-ilibrary.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oecd-ilibrary.org",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 136
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oed.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oed.com",
+    "source": {
+      "list": "OUP",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "omscr.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:omscr.com",
+    "source": {
+      "list": "OUP",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "opac-project.eu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:opac-project.eu",
+    "source": {
+      "list": "UOLIV",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "openreview.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:openreview.net",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 137
+    }
+  },
+  {
+    "type": "domain",
+    "value": "optica.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:optica.org",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 138
+    }
+  },
+  {
+    "type": "domain",
+    "value": "osapublishing.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:osapublishing.org",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 139
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oup.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oup.com",
+    "source": {
+      "list": "OUP",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ouplaw.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ouplaw.com",
+    "source": {
+      "list": "OUP",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ovid.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ovid.com",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 140
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oxfordaasc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oxfordaasc.com",
+    "source": {
+      "list": "OUP",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oxfordartonline.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oxfordartonline.com",
+    "source": {
+      "list": "OUP",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oxfordbibliographies.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oxfordbibliographies.com",
+    "source": {
+      "list": "OUP",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oxfordclinicalpsych.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oxfordclinicalpsych.com",
+    "source": {
+      "list": "OUP",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oxforddnb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oxforddnb.com",
+    "source": {
+      "list": "OUP",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oxfordfirstsource.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oxfordfirstsource.com",
+    "source": {
+      "list": "OUP",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oxfordhandbooks.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oxfordhandbooks.com",
+    "source": {
+      "list": "OUP",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oxfordlawtrove.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oxfordlawtrove.com",
+    "source": {
+      "list": "OUP",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oxfordmedicine.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oxfordmedicine.com",
+    "source": {
+      "list": "OUP",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oxfordmusiconline.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oxfordmusiconline.com",
+    "source": {
+      "list": "OUP",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oxfordpoliticstrove.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oxfordpoliticstrove.com",
+    "source": {
+      "list": "OUP",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oxfordre.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oxfordre.com",
+    "source": {
+      "list": "OUP",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oxfordreference.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oxfordreference.com",
+    "source": {
+      "list": "OUP",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oxfordscholarlyeditions.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oxfordscholarlyeditions.com",
+    "source": {
+      "list": "OUP",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oxfordscholarship.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oxfordscholarship.com",
+    "source": {
+      "list": "OUP",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oxfordwesternmusic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oxfordwesternmusic.com",
+    "source": {
+      "list": "OUP",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "peerj.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:peerj.com",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 141
+    }
+  },
+  {
+    "type": "domain",
+    "value": "photonicssociety.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:photonicssociety.org",
+    "source": {
+      "list": "IEEE",
+      "line": 67
+    }
+  },
+  {
+    "type": "domain",
+    "value": "physiology.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:physiology.org",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 142
+    }
+  },
+  {
+    "type": "domain",
+    "value": "plos.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:plos.org",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 143
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pnas.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pnas.org",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 144
+    }
+  },
+  {
+    "type": "domain",
+    "value": "princeton.edu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:princeton.edu",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 145
+    }
+  },
+  {
+    "type": "domain",
+    "value": "projecteuclid.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:projecteuclid.org",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 146
+    }
+  },
+  {
+    "type": "domain",
+    "value": "proquest.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:proquest.com",
+    "source": {
+      "list": "PROQUEST",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "psyccareers.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:psyccareers.com",
+    "source": {
+      "list": "APA",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "reaxys.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:reaxys.com",
+    "source": {
+      "list": "ELSEVIER",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "researchgate.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:researchgate.net",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 147
+    }
+  },
+  {
+    "type": "domain",
+    "value": "routledgehandbooks.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:routledgehandbooks.com",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 148
+    }
+  },
+  {
+    "type": "domain",
+    "value": "royalsocietypublishing.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:royalsocietypublishing.org",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 149
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rsc.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rsc.org",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 150
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rupress.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rupress.org",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 151
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sae.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sae.org",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 152
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sagepub.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sagepub.com",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 153
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sanjesh.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sanjesh.org",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-IR",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "scholarpedia.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:scholarpedia.org",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 154
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sci-hub.ee",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sci-hub.ee",
+    "source": {
+      "list": "SCI-HUB",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sci-hub.it.nf",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sci-hub.it.nf",
+    "source": {
+      "list": "SCI-HUB",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sci-hub.mksa.top",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sci-hub.mksa.top",
+    "source": {
+      "list": "SCI-HUB",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sci-hub.se",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sci-hub.se",
+    "source": {
+      "list": "SCI-HUB",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sci-hub.st",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sci-hub.st",
+    "source": {
+      "list": "SCI-HUB",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sci.hubg.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sci.hubg.org",
+    "source": {
+      "list": "SCI-HUB",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "science.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:science.com",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 157
+    }
+  },
+  {
+    "type": "domain",
+    "value": "science.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:science.org",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 158
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sciencedirect.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sciencedirect.com",
+    "source": {
+      "list": "SCIENCEDIRECT",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sciencedirectassets.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sciencedirectassets.com",
+    "source": {
+      "list": "SCIENCEDIRECT",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sciencemag.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sciencemag.org",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 159
+    }
+  },
+  {
+    "type": "domain",
+    "value": "scienceonline.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:scienceonline.org",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 160
+    }
+  },
+  {
+    "type": "domain",
+    "value": "scientificamerican.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:scientificamerican.com",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 162
+    }
+  },
+  {
+    "type": "domain",
+    "value": "scitation.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:scitation.org",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 163
+    }
+  },
+  {
+    "type": "domain",
+    "value": "scival.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:scival.com",
+    "source": {
+      "list": "ELSEVIER",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "scopus.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:scopus.com",
+    "source": {
+      "list": "ELSEVIER",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "semanticscholar.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:semanticscholar.org",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 164
+    }
+  },
+  {
+    "type": "domain",
+    "value": "serialssolutions.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:serialssolutions.com",
+    "source": {
+      "list": "PROQUEST",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sg1lib.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sg1lib.org",
+    "source": {
+      "list": "Z-LIBRARY",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sharif.edu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sharif.edu",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-IR",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sharif.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sharif.ir",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-IR",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "siam.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:siam.org",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 165
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sigcomm.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sigcomm.org",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 166
+    }
+  },
+  {
+    "type": "domain",
+    "value": "signalprocessingsociety.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:signalprocessingsociety.org",
+    "source": {
+      "list": "IEEE",
+      "line": 68
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sigops.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sigops.org",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 167
+    }
+  },
+  {
+    "type": "domain",
+    "value": "silverchair-cdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:silverchair-cdn.com",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 168
+    }
+  },
+  {
+    "type": "domain",
+    "value": "singlelogin.app",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:singlelogin.app",
+    "source": {
+      "list": "Z-LIBRARY",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "singlelogin.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:singlelogin.me",
+    "source": {
+      "list": "Z-LIBRARY",
+      "line": 37
+    }
+  },
+  {
+    "type": "domain",
+    "value": "singlelogin.re",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:singlelogin.re",
+    "source": {
+      "list": "Z-LIBRARY",
+      "line": 38
+    }
+  },
+  {
+    "type": "domain",
+    "value": "singlelogin.site",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:singlelogin.site",
+    "source": {
+      "list": "Z-LIBRARY",
+      "line": 39
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sipriyearbook.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sipriyearbook.org",
+    "source": {
+      "list": "OUP",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "spiedigitallibrary.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:spiedigitallibrary.org",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 169
+    }
+  },
+  {
+    "type": "domain",
+    "value": "springer.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:springer.com",
+    "source": {
+      "list": "SPRINGER",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "springerlink.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:springerlink.com",
+    "source": {
+      "list": "SPRINGER",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "springernature.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:springernature.com",
+    "source": {
+      "list": "SPRINGER",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "srttu.edu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:srttu.edu",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-IR",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "standardsuniversity.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:standardsuniversity.org",
+    "source": {
+      "list": "IEEE",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "statsmakemecry.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:statsmakemecry.com",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 170
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tandf.co.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tandf.co.uk",
+    "source": {
+      "list": "TAYLORFRANCIS",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tandfonline.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tandfonline.com",
+    "source": {
+      "list": "TAYLORFRANCIS",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "taylorandfrancis.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:taylorandfrancis.com",
+    "source": {
+      "list": "TAYLORFRANCIS",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "taylorfrancis.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:taylorfrancis.com",
+    "source": {
+      "list": "TAYLORFRANCIS",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "technologyandsociety.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:technologyandsociety.org",
+    "source": {
+      "list": "IEEE",
+      "line": 69
+    }
+  },
+  {
+    "type": "domain",
+    "value": "techstreet.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:techstreet.com",
+    "source": {
+      "list": "IEEE",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "thelancet.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:thelancet.com",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 171
+    }
+  },
+  {
+    "type": "domain",
+    "value": "thieme-connect.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:thieme-connect.com",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 176
+    }
+  },
+  {
+    "type": "domain",
+    "value": "thieme-connect.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:thieme-connect.de",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 177
+    }
+  },
+  {
+    "type": "domain",
+    "value": "thieme.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:thieme.de",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 175
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tickdata.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tickdata.com",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 172
+    }
+  },
+  {
+    "type": "domain",
+    "value": "totalmateria.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:totalmateria.com",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 180
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tryengineering.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tryengineering.org",
+    "source": {
+      "list": "IEEE",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "uchicago.edu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:uchicago.edu",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 181
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ucla.edu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ucla.edu",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 182
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ukwhoswho.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ukwhoswho.com",
+    "source": {
+      "list": "OUP",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "umass.edu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:umass.edu",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 183
+    }
+  },
+  {
+    "type": "domain",
+    "value": "universitypressscholarship.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:universitypressscholarship.com",
+    "source": {
+      "list": "OUP",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "usaco.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:usaco.org",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 184
+    }
+  },
+  {
+    "type": "domain",
+    "value": "usenix.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:usenix.org",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 185
+    }
+  },
+  {
+    "type": "domain",
+    "value": "veryshortintroductions.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:veryshortintroductions.com",
+    "source": {
+      "list": "OUP",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vtsociety.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vtsociety.org",
+    "source": {
+      "list": "IEEE",
+      "line": 70
+    }
+  },
+  {
+    "type": "domain",
+    "value": "webofknowledge.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:webofknowledge.com",
+    "source": {
+      "list": "CLARIVATE",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "webofscience.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:webofscience.com",
+    "source": {
+      "list": "CLARIVATE",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "westlaw.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:westlaw.com",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 186
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wiley.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wiley.com",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 187
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wkap.nl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wkap.nl",
+    "source": {
+      "list": "SPRINGER",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wolterskluwer.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wolterskluwer.com",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 188
+    }
+  },
+  {
+    "type": "domain",
+    "value": "worldscientific.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:worldscientific.com",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 189
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yale.edu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yale.edu",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 190
+    }
+  },
+  {
+    "type": "domain",
+    "value": "z-lib.fm",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:z-lib.fm",
+    "source": {
+      "list": "Z-LIBRARY",
+      "line": 40
+    }
+  },
+  {
+    "type": "domain",
+    "value": "z-lib.gd",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:z-lib.gd",
+    "source": {
+      "list": "Z-LIBRARY",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "z-lib.gl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:z-lib.gl",
+    "source": {
+      "list": "Z-LIBRARY",
+      "line": 42
+    }
+  },
+  {
+    "type": "domain",
+    "value": "z-lib.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:z-lib.org",
+    "source": {
+      "list": "Z-LIBRARY",
+      "line": 43
+    }
+  },
+  {
+    "type": "domain",
+    "value": "z-library.se",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:z-library.se",
+    "source": {
+      "list": "Z-LIBRARY",
+      "line": 45
+    }
+  },
+  {
+    "type": "domain",
+    "value": "z-library.sk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:z-library.sk",
+    "source": {
+      "list": "Z-LIBRARY",
+      "line": 44
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zenodo.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zenodo.org",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 191
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zlib.life",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zlib.life",
+    "source": {
+      "list": "Z-LIBRARY",
+      "line": 46
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zlibcdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zlibcdn.com",
+    "source": {
+      "list": "Z-LIBRARY",
+      "line": 47
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zlibcdn2.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zlibcdn2.com",
+    "source": {
+      "list": "Z-LIBRARY",
+      "line": 48
+    }
+  },
+  {
+    "type": "full",
+    "value": "angle.com.tw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:angle.com.tw",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 193
+    }
+  },
+  {
+    "type": "full",
+    "value": "beck-online.beck.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:beck-online.beck.de",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 194
+    }
+  },
+  {
+    "type": "full",
+    "value": "databank.worldbank.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:databank.worldbank.org",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 195
+    }
+  },
+  {
+    "type": "full",
+    "value": "database.asahi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:database.asahi.com",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 196
+    }
+  },
+  {
+    "type": "full",
+    "value": "dl.begellhouse.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:dl.begellhouse.com",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 197
+    }
+  },
+  {
+    "type": "full",
+    "value": "elib.maruzen.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:elib.maruzen.co.jp",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 198
+    }
+  },
+  {
+    "type": "full",
+    "value": "firstsearch.oclc.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:firstsearch.oclc.org",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 199
+    }
+  },
+  {
+    "type": "full",
+    "value": "imperial.insendi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:imperial.insendi.com",
+    "source": {
+      "list": "IMPERIALCOLLEGE",
+      "line": 5
+    }
+  },
+  {
+    "type": "full",
+    "value": "medone-education.thieme.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:medone-education.thieme.com",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 178
+    }
+  },
+  {
+    "type": "full",
+    "value": "muse.jhu.edu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:muse.jhu.edu",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 200
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.ae",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.ae",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 1
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.at",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.at",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 2
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.be",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.be",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 3
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.bg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.bg",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 4
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.ca",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.ca",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 5
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.cat",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.cat",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 6
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.ch",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.ch",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 7
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.cl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.cl",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 8
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.cn",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 9
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.co.cr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.co.cr",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 10
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.co.id",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.co.id",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 11
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.co.il",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.co.il",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 12
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.co.in",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.co.in",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 13
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.co.jp",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 14
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.co.kr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.co.kr",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 15
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.co.nz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.co.nz",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 16
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.co.th",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.co.th",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 17
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.co.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.co.uk",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 18
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.co.ve",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.co.ve",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 19
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.co.za",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.co.za",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 20
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.com",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 21
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.com.ar",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.com.ar",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 22
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.com.au",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.com.au",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 23
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.com.bo",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.com.bo",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 24
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.com.br",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.com.br",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 25
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.com.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.com.co",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 26
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.com.cu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.com.cu",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 27
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.com.do",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.com.do",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 28
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.com.ec",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.com.ec",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 29
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.com.eg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.com.eg",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 30
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.com.gt",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.com.gt",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 31
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.com.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.com.hk",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 32
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.com.ly",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.com.ly",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 33
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.com.mx",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.com.mx",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 34
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.com.my",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.com.my",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 35
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.com.ni",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.com.ni",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 36
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.com.pa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.com.pa",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 37
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.com.pe",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.com.pe",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 38
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.com.ph",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.com.ph",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 39
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.com.pk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.com.pk",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 40
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.com.pr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.com.pr",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 41
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.com.py",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.com.py",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 42
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.com.sg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.com.sg",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 43
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.com.sv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.com.sv",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 44
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.com.tr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.com.tr",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 45
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.com.tw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.com.tw",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 46
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.com.ua",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.com.ua",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 47
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.com.uy",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.com.uy",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 48
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.com.vn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.com.vn",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 49
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.cz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.cz",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 50
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.de",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 51
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.dk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.dk",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 52
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.es",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.es",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 53
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.fi",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.fi",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 54
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.fr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.fr",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 55
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.gr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.gr",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 56
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.hn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.hn",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 57
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.hr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.hr",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 58
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.hu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.hu",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 59
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.is",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.is",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 60
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.it",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.it",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 61
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.li",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.li",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 62
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.lt",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.lt",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 63
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.lu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.lu",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 64
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.lv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.lv",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 65
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.nl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.nl",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 66
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.no",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.no",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 67
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.pl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.pl",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 68
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.pt",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.pt",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 69
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.ro",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.ro",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 70
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.ru",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 71
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.se",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.se",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 72
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.si",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.si",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 73
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.sk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.sk",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 74
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.googleusercontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.googleusercontent.com",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 75
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.l.google.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.l.google.com",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 76
+    }
+  },
+  {
+    "type": "full",
+    "value": "t21.nikkei.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:t21.nikkei.co.jp",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 203
+    }
+  },
+  {
+    "type": "full",
+    "value": "t21ipau.nikkei.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:t21ipau.nikkei.co.jp",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 204
+    }
+  },
+  {
+    "type": "full",
+    "value": "wrds-www.wharton.upenn.edu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:wrds-www.wharton.upenn.edu",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-!CN",
+      "line": 207
+    }
+  }
+]

@@ -1,0 +1,177 @@
+[
+  {
+    "type": "domain",
+    "value": "a-map.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:a-map.cn",
+    "source": {
+      "list": "AMAP",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "a-map.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:a-map.co",
+    "source": {
+      "list": "AMAP",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "a-map.link",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:a-map.link",
+    "source": {
+      "list": "AMAP",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "a-map.vip",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:a-map.vip",
+    "source": {
+      "list": "AMAP",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "acloudrender.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:acloudrender.com",
+    "source": {
+      "list": "AMAP",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adashx.ut.amap.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:adashx.ut.amap.com:@ads",
+    "source": {
+      "list": "AMAP",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amap.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:amap.com",
+    "source": {
+      "list": "AMAP",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amapauto.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:amapauto.com",
+    "source": {
+      "list": "AMAP",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "anav.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:anav.com",
+    "source": {
+      "list": "AMAP",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "autonavi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:autonavi.com",
+    "source": {
+      "list": "AMAP",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dualstack-logs.amap.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:dualstack-logs.amap.com:@ads",
+    "source": {
+      "list": "AMAP",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gaode.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gaode.com",
+    "source": {
+      "list": "AMAP",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "logs.amap.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:logs.amap.com:@ads",
+    "source": {
+      "list": "AMAP",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "optimus-ads.amap.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:optimus-ads.amap.com:@ads",
+    "source": {
+      "list": "AMAP",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "v6-adashx.ut.amap.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:v6-adashx.ut.amap.com:@ads",
+    "source": {
+      "list": "AMAP",
+      "line": 17
+    }
+  }
+]

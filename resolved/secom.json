@@ -1,0 +1,57 @@
+[
+  {
+    "type": "domain",
+    "value": "cybertrust.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cybertrust.co.jp",
+    "source": {
+      "list": "SECOM",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cybertrust.ne.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cybertrust.ne.jp",
+    "source": {
+      "list": "SECOM",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "managedpki.ne.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:managedpki.ne.jp",
+    "source": {
+      "list": "SECOM",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "secom.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:secom.co.jp",
+    "source": {
+      "list": "SECOM",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "secomtrust.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:secomtrust.net",
+    "source": {
+      "list": "SECOM",
+      "line": 2
+    }
+  }
+]

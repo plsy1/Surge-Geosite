@@ -1,0 +1,607 @@
+[
+  {
+    "type": "domain",
+    "value": "7sobh.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:7sobh.com",
+    "source": {
+      "list": "CATEGORY-NEWS-IR",
+      "line": 42
+    }
+  },
+  {
+    "type": "domain",
+    "value": "abrarnews.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:abrarnews.com",
+    "source": {
+      "list": "CATEGORY-NEWS-IR",
+      "line": 43
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aftabeyazd.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aftabeyazd.ir",
+    "source": {
+      "list": "CATEGORY-NEWS-IR",
+      "line": 44
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aftabnews.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aftabnews.ir",
+    "source": {
+      "list": "CATEGORY-NEWS-IR",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "alef.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:alef.ir",
+    "source": {
+      "list": "CATEGORY-NEWS-IR",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "asianews.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:asianews.ir",
+    "source": {
+      "list": "CATEGORY-NEWS-IR",
+      "line": 45
+    }
+  },
+  {
+    "type": "domain",
+    "value": "asriran.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:asriran.com",
+    "source": {
+      "list": "CATEGORY-NEWS-IR",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bornanews.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bornanews.ir",
+    "source": {
+      "list": "CATEGORY-NEWS-IR",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "donya-e-eqtesad.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:donya-e-eqtesad.com",
+    "source": {
+      "list": "CATEGORY-NEWS-IR",
+      "line": 46
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ebtekarnews.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ebtekarnews.com",
+    "source": {
+      "list": "CATEGORY-NEWS-IR",
+      "line": 47
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ecobourse.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ecobourse.ir",
+    "source": {
+      "list": "CATEGORY-NEWS-IR",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "eghtesadnews.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:eghtesadnews.com",
+    "source": {
+      "list": "CATEGORY-NEWS-IR",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "entekhab.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:entekhab.ir",
+    "source": {
+      "list": "CATEGORY-NEWS-IR",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ettelaat.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ettelaat.com",
+    "source": {
+      "list": "CATEGORY-NEWS-IR",
+      "line": 48
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fararu.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fararu.com",
+    "source": {
+      "list": "CATEGORY-NEWS-IR",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "farsnews.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:farsnews.ir",
+    "source": {
+      "list": "CATEGORY-NEWS-IR",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "financialtribune.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:financialtribune.com",
+    "source": {
+      "list": "CATEGORY-NEWS-IR",
+      "line": 49
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hamshahrionline.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hamshahrionline.ir",
+    "source": {
+      "list": "CATEGORY-NEWS-IR",
+      "line": 50
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hawzahnews.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hawzahnews.com",
+    "source": {
+      "list": "CATEGORY-NEWS-IR",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ibena.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ibena.ir",
+    "source": {
+      "list": "CATEGORY-NEWS-IR",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ibna.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ibna.ir",
+    "source": {
+      "list": "CATEGORY-NEWS-IR",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ilna.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ilna.ir",
+    "source": {
+      "list": "CATEGORY-NEWS-IR",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "imna.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:imna.ir",
+    "source": {
+      "list": "CATEGORY-NEWS-IR",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ipna.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ipna.ir",
+    "source": {
+      "list": "CATEGORY-NEWS-IR",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "iqna.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:iqna.ir",
+    "source": {
+      "list": "CATEGORY-NEWS-IR",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "iran-newspaper.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:iran-newspaper.com",
+    "source": {
+      "list": "CATEGORY-NEWS-IR",
+      "line": 51
+    }
+  },
+  {
+    "type": "domain",
+    "value": "iraneconomist.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:iraneconomist.com",
+    "source": {
+      "list": "CATEGORY-NEWS-IR",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "irdiplomacy.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:irdiplomacy.ir",
+    "source": {
+      "list": "CATEGORY-NEWS-IR",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "irib.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:irib.ir",
+    "source": {
+      "list": "CATEGORY-NEWS-IR",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "irna.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:irna.ir",
+    "source": {
+      "list": "CATEGORY-NEWS-IR",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "isna.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:isna.ir",
+    "source": {
+      "list": "CATEGORY-NEWS-IR",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jamejamonline.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jamejamonline.ir",
+    "source": {
+      "list": "CATEGORY-NEWS-IR",
+      "line": 52
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kayhan.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kayhan.ir",
+    "source": {
+      "list": "CATEGORY-NEWS-IR",
+      "line": 53
+    }
+  },
+  {
+    "type": "domain",
+    "value": "khabaronline.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:khabaronline.ir",
+    "source": {
+      "list": "CATEGORY-NEWS-IR",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "khabarvarzeshi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:khabarvarzeshi.com",
+    "source": {
+      "list": "CATEGORY-NEWS-IR",
+      "line": 54
+    }
+  },
+  {
+    "type": "domain",
+    "value": "khorasannews.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:khorasannews.com",
+    "source": {
+      "list": "CATEGORY-NEWS-IR",
+      "line": 55
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mardomsalari.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mardomsalari.ir",
+    "source": {
+      "list": "CATEGORY-NEWS-IR",
+      "line": 56
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mashreghnews.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mashreghnews.ir",
+    "source": {
+      "list": "CATEGORY-NEWS-IR",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mehrnews.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mehrnews.com",
+    "source": {
+      "list": "CATEGORY-NEWS-IR",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "newspaper.fdn.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:newspaper.fdn.ir",
+    "source": {
+      "list": "CATEGORY-NEWS-IR",
+      "line": 57
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pana.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pana.ir",
+    "source": {
+      "list": "CATEGORY-NEWS-IR",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "parsine.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:parsine.com",
+    "source": {
+      "list": "CATEGORY-NEWS-IR",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qodsna.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qodsna.com",
+    "source": {
+      "list": "CATEGORY-NEWS-IR",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "resalat-news.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:resalat-news.com",
+    "source": {
+      "list": "CATEGORY-NEWS-IR",
+      "line": 58
+    }
+  },
+  {
+    "type": "domain",
+    "value": "saat24.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:saat24.com",
+    "source": {
+      "list": "CATEGORY-NEWS-IR",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "shabestan.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:shabestan.ir",
+    "source": {
+      "list": "CATEGORY-NEWS-IR",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "shana.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:shana.ir",
+    "source": {
+      "list": "CATEGORY-NEWS-IR",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sharghdaily.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sharghdaily.ir",
+    "source": {
+      "list": "CATEGORY-NEWS-IR",
+      "line": 59
+    }
+  },
+  {
+    "type": "domain",
+    "value": "snn.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:snn.ir",
+    "source": {
+      "list": "CATEGORY-NEWS-IR",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sobhanehonline.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sobhanehonline.com",
+    "source": {
+      "list": "CATEGORY-NEWS-IR",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tabnak.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tabnak.ir",
+    "source": {
+      "list": "CATEGORY-NEWS-IR",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tasnimnews.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tasnimnews.com",
+    "source": {
+      "list": "CATEGORY-NEWS-IR",
+      "line": 37
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tehrantimes.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tehrantimes.com",
+    "source": {
+      "list": "CATEGORY-NEWS-IR",
+      "line": 60
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tejaratnews.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tejaratnews.com",
+    "source": {
+      "list": "CATEGORY-NEWS-IR",
+      "line": 38
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yjc.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yjc.ir",
+    "source": {
+      "list": "CATEGORY-NEWS-IR",
+      "line": 39
+    }
+  }
+]

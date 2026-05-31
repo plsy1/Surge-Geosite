@@ -1,0 +1,68 @@
+[
+  {
+    "type": "domain",
+    "value": "att.tv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:att.tv",
+    "source": {
+      "list": "ATTWATCHTV",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "atttvnow.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:atttvnow.com",
+    "source": {
+      "list": "ATTWATCHTV",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "attwatchtv.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:attwatchtv.com",
+    "source": {
+      "list": "ATTWATCHTV",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "directv.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:directv.com",
+    "source": {
+      "list": "ATTWATCHTV",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dtvce.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dtvce.com",
+    "source": {
+      "list": "ATTWATCHTV",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nettyinternet.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nettyinternet.com",
+    "source": {
+      "list": "ATTWATCHTV",
+      "line": 6
+    }
+  }
+]

@@ -1,0 +1,103 @@
+[
+  {
+    "type": "domain",
+    "value": "cn.eset.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:cn.eset.com:@cn",
+    "source": {
+      "list": "ESET",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "e5.sk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:e5.sk",
+    "source": {
+      "list": "ESET",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "eset.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:eset.com",
+    "source": {
+      "list": "ESET",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "eset.eu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:eset.eu",
+    "source": {
+      "list": "ESET",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "eset.sk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:eset.sk",
+    "source": {
+      "list": "ESET",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "eset.systems",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:eset.systems",
+    "source": {
+      "list": "ESET",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "esetsoftware.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:esetsoftware.com",
+    "source": {
+      "list": "ESET",
+      "line": 8
+    }
+  },
+  {
+    "type": "full",
+    "value": "epc-de-agent-proxy.germanywestcentral.cloudapp.azure.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:epc-de-agent-proxy.germanywestcentral.cloudapp.azure.com",
+    "source": {
+      "list": "ESET",
+      "line": 14
+    }
+  },
+  {
+    "type": "full",
+    "value": "eset-prod-ca48648d0ce7cadf.elb.eu-central-1.amazonaws.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:eset-prod-ca48648d0ce7cadf.elb.eu-central-1.amazonaws.com",
+    "source": {
+      "list": "ESET",
+      "line": 11
+    }
+  }
+]

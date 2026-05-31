@@ -1,0 +1,7751 @@
+[
+  {
+    "type": "domain",
+    "value": "1drv.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:1drv.com",
+    "source": {
+      "list": "ONEDRIVE",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "1drv.ms",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:1drv.ms",
+    "source": {
+      "list": "ONEDRIVE",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "21vbc.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:21vbc.com:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "21vbluecloud.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:21vbluecloud.com:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "21vbluecloud.net",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:21vbluecloud.net:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "a-msedge.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:a-msedge.net",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 69
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aadrm.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:aadrm.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aadrm.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aadrm.com",
+    "source": {
+      "list": "AZURE",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adaptivecards.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:adaptivecards.io",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aggresmart.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:aggresmart.com:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aka.ms",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aka.ms",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 70
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ankarazirvesi2018.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ankarazirvesi2018.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 71
+    }
+  },
+  {
+    "type": "domain",
+    "value": "api-extractor.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:api-extractor.com",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "apihub-internal.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:apihub-internal.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "apisof.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:apisof.net",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "appcenter.ms",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:appcenter.ms",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "applicationinsights.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:applicationinsights.io",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 72
+    }
+  },
+  {
+    "type": "domain",
+    "value": "applicationinsights.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:applicationinsights.net",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 73
+    }
+  },
+  {
+    "type": "domain",
+    "value": "appserviceenvironment.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:appserviceenvironment.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aria.ms",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aria.ms",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 74
+    }
+  },
+  {
+    "type": "domain",
+    "value": "asobostudio.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:asobostudio.com",
+    "source": {
+      "list": "ASOBO",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "asp.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:asp.net",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 75
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aspnetcdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aspnetcdn.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 76
+    }
+  },
+  {
+    "type": "domain",
+    "value": "atom.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:atom.io",
+    "source": {
+      "list": "GITHUB",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azchcdna.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:azchcdna.com:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 113
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azchcdnb.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:azchcdnb.com:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 114
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azchcdnc.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:azchcdnc.com:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 115
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azchcdnd.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:azchcdnd.com:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 116
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azchcdne.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:azchcdne.com:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 117
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azchcdnf.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:azchcdnf.com:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 118
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azchcdng.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:azchcdng.com:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 119
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azchcdnh.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:azchcdnh.com:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 120
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azchcdni.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:azchcdni.com:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 121
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azchcdnj.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:azchcdnj.com:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 122
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azchcdnk.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:azchcdnk.com:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 123
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azchcdnl.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:azchcdnl.com:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 124
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azchcdnm.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:azchcdnm.com:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 125
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azchcdnn.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:azchcdnn.com:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 126
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azchcdno.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:azchcdno.com:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 127
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azchcdnp.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:azchcdnp.com:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 128
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azchcdnq.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:azchcdnq.com:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 129
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azchcdnr.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:azchcdnr.com:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 130
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azchcdns.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:azchcdns.com:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 131
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azcrmc-test.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:azcrmc-test.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azcrmc.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:azcrmc.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azk8s.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:azk8s.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aznbcontent.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:aznbcontent.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aztask.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:aztask.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azure",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:azure",
+    "source": {
+      "list": "AZURE",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azure-api.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:azure-api.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azure-apihub.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:azure-apihub.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azure-automation.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:azure-automation.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azure-connectedvehicles-stage.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:azure-connectedvehicles-stage.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azure-connectedvehicles.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:azure-connectedvehicles.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azure-devices-int.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:azure-devices-int.net",
+    "source": {
+      "list": "AZURE",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azure-devices-provisioning.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:azure-devices-provisioning.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azure-devices.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:azure-devices.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azure-devices.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:azure-devices.net",
+    "source": {
+      "list": "AZURE",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azure-dns-1.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:azure-dns-1.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 144
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azure-dns-10.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:azure-dns-10.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 153
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azure-dns-2.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:azure-dns-2.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 145
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azure-dns-3.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:azure-dns-3.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 146
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azure-dns-4.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:azure-dns-4.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 147
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azure-dns-5.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:azure-dns-5.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 148
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azure-dns-6.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:azure-dns-6.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 149
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azure-dns-7.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:azure-dns-7.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 150
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azure-dns-8.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:azure-dns-8.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 151
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azure-dns-9.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:azure-dns-9.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 152
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azure-dns.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:azure-dns.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 137
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azure-dns.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:azure-dns.com",
+    "source": {
+      "list": "AZURE",
+      "line": 138
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azure-dns.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:azure-dns.info",
+    "source": {
+      "list": "AZURE",
+      "line": 139
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azure-dns.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:azure-dns.net",
+    "source": {
+      "list": "AZURE",
+      "line": 140
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azure-dns.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:azure-dns.org",
+    "source": {
+      "list": "AZURE",
+      "line": 141
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azure-mobile.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:azure-mobile.net",
+    "source": {
+      "list": "AZURE",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azure-sphere.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:azure-sphere.com",
+    "source": {
+      "list": "AZURE",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azure-test.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:azure-test.net",
+    "source": {
+      "list": "AZURE",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azure.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:azure.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azure.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:azure.com",
+    "source": {
+      "list": "AZURE",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azure.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:azure.net",
+    "source": {
+      "list": "AZURE",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azurecomcdn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:azurecomcdn.net",
+    "source": {
+      "list": "AZURE",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azurecomm.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:azurecomm.net",
+    "source": {
+      "list": "AZURE",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azurecontainer.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:azurecontainer.io",
+    "source": {
+      "list": "AZURE",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azurecosmos.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:azurecosmos.net",
+    "source": {
+      "list": "AZURE",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azurecosmosdb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:azurecosmosdb.com",
+    "source": {
+      "list": "AZURE",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azurecosmosdb.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:azurecosmosdb.info",
+    "source": {
+      "list": "AZURE",
+      "line": 37
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azurecosmosdb.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:azurecosmosdb.net",
+    "source": {
+      "list": "AZURE",
+      "line": 38
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azurecr-test.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:azurecr-test.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 39
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azurecr.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:azurecr.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 40
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azuredatabricks.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:azuredatabricks.net",
+    "source": {
+      "list": "AZURE",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azuredevopslaunch.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:azuredevopslaunch.com",
+    "source": {
+      "list": "AZURE",
+      "line": 42
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azuredigitaltwin.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:azuredigitaltwin.com",
+    "source": {
+      "list": "AZURE",
+      "line": 43
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azuredigitaltwins.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:azuredigitaltwins.com",
+    "source": {
+      "list": "AZURE",
+      "line": 44
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azuredigitaltwins.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:azuredigitaltwins.net",
+    "source": {
+      "list": "AZURE",
+      "line": 45
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azuredns-prd.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:azuredns-prd.info",
+    "source": {
+      "list": "AZURE",
+      "line": 46
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azuredns-prd.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:azuredns-prd.org",
+    "source": {
+      "list": "AZURE",
+      "line": 47
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azureedge-test.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:azureedge-test.net",
+    "source": {
+      "list": "AZURE",
+      "line": 48
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azureedge.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:azureedge.net",
+    "source": {
+      "list": "AZURE",
+      "line": 49
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azurefd.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:azurefd.net",
+    "source": {
+      "list": "AZURE",
+      "line": 50
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azurehdinsight.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:azurehdinsight.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 51
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azureiotcentral.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:azureiotcentral.com",
+    "source": {
+      "list": "AZURE",
+      "line": 52
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azureiotsolutions.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:azureiotsolutions.com",
+    "source": {
+      "list": "AZURE",
+      "line": 53
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azureiotsuite.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:azureiotsuite.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 54
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azureiotsuite.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:azureiotsuite.com",
+    "source": {
+      "list": "AZURE",
+      "line": 55
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azuremresolver.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:azuremresolver.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 56
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azureplanetscale.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:azureplanetscale.info",
+    "source": {
+      "list": "AZURE",
+      "line": 57
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azureplanetscale.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:azureplanetscale.net",
+    "source": {
+      "list": "AZURE",
+      "line": 58
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azureprivatedns.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:azureprivatedns.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 59
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azurerms.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:azurerms.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 60
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azuresandbox.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:azuresandbox.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 61
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azureserviceprofiler.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:azureserviceprofiler.com",
+    "source": {
+      "list": "AZURE",
+      "line": 62
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azuresmartspaces.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:azuresmartspaces.net",
+    "source": {
+      "list": "AZURE",
+      "line": 63
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azurestackvalidation.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:azurestackvalidation.com",
+    "source": {
+      "list": "AZURE",
+      "line": 64
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azurewebsites.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:azurewebsites.net",
+    "source": {
+      "list": "AZURE",
+      "line": 65
+    }
+  },
+  {
+    "type": "domain",
+    "value": "b2clogin.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:b2clogin.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 66
+    }
+  },
+  {
+    "type": "domain",
+    "value": "b3itech.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:b3itech.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 67
+    }
+  },
+  {
+    "type": "domain",
+    "value": "beth.games",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:beth.games",
+    "source": {
+      "list": "BETHESDA",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bethesda.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bethesda.net",
+    "source": {
+      "list": "BETHESDA",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bethesdagamestudios.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bethesdagamestudios.com",
+    "source": {
+      "list": "BETHESDA",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bethsoft.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bethsoft.com",
+    "source": {
+      "list": "BETHESDA",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "binads.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:binads.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 77
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bing",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bing",
+    "source": {
+      "list": "BING",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bing.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bing.com",
+    "source": {
+      "list": "BING",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bing.com.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:bing.com.cn:@cn",
+    "source": {
+      "list": "BING",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bing.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bing.net",
+    "source": {
+      "list": "BING",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bing123.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bing123.com",
+    "source": {
+      "list": "BING",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bingads.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:bingads.com:@ads",
+    "source": {
+      "list": "BING",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bingagencyawards.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bingagencyawards.com",
+    "source": {
+      "list": "BING",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bingapis.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bingapis.com",
+    "source": {
+      "list": "BING",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bingapistatistics.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bingapistatistics.com",
+    "source": {
+      "list": "BING",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bingparachute.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bingparachute.com",
+    "source": {
+      "list": "BING",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bingsandbox.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bingsandbox.com",
+    "source": {
+      "list": "BING",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bingvisualsearch.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bingvisualsearch.com",
+    "source": {
+      "list": "BING",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bingworld.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bingworld.com",
+    "source": {
+      "list": "BING",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "blazor.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:blazor.net",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "blueaggrestore.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:blueaggrestore.com:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 68
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bluecloudprod.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:bluecloudprod.com:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 69
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bluehatil.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bluehatil.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 78
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bluehatnights.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bluehatnights.com",
+    "source": {
+      "list": "BING",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "boswp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:boswp.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 79
+    }
+  },
+  {
+    "type": "domain",
+    "value": "botframework.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:botframework.com",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "brazilpartneruniversity.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:brazilpartneruniversity.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 80
+    }
+  },
+  {
+    "type": "domain",
+    "value": "breakdown.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:breakdown.me",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 81
+    }
+  },
+  {
+    "type": "domain",
+    "value": "browser.events.data.msn.cn",
+    "attrs": [
+      "ads",
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:browser.events.data.msn.cn:@ads,@cn",
+    "source": {
+      "list": "MSN",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "browser.events.data.msn.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:browser.events.data.msn.com:@ads",
+    "source": {
+      "list": "MSN",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "c-msedge.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:c-msedge.net",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 82
+    }
+  },
+  {
+    "type": "domain",
+    "value": "callersbane.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:callersbane.com",
+    "source": {
+      "list": "MOJANG",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cegid-cloud.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:cegid-cloud.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 71
+    }
+  },
+  {
+    "type": "domain",
+    "value": "centralvalidation.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:centralvalidation.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 83
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ch9.ms",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ch9.ms",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 84
+    }
+  },
+  {
+    "type": "domain",
+    "value": "charticulator.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:charticulator.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 85
+    }
+  },
+  {
+    "type": "domain",
+    "value": "chinacloud-mobile.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:chinacloud-mobile.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 72
+    }
+  },
+  {
+    "type": "domain",
+    "value": "chinacloudapi.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:chinacloudapi.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 73
+    }
+  },
+  {
+    "type": "domain",
+    "value": "chinacloudapp.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:chinacloudapp.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 74
+    }
+  },
+  {
+    "type": "domain",
+    "value": "chinacloudsites.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:chinacloudsites.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 75
+    }
+  },
+  {
+    "type": "domain",
+    "value": "clarity.ms",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:clarity.ms:@ads",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 309
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudapp.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudapp.net",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 86
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudappsecurity.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudappsecurity.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 87
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cn.bing.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:cn.bing.com:@cn",
+    "source": {
+      "list": "BING",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cn.bing.net",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:cn.bing.net:@cn",
+    "source": {
+      "list": "BING",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cn.mm.bing.net",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:cn.mm.bing.net:@cn",
+    "source": {
+      "list": "BING",
+      "line": 37
+    }
+  },
+  {
+    "type": "domain",
+    "value": "codethemicrobit.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:codethemicrobit.com",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "collector.github.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:collector.github.com:@ads",
+    "source": {
+      "list": "GITHUB",
+      "line": 62
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cortanaanalytics.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cortanaanalytics.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 88
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cortanaskills.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cortanaskills.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 89
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cosmosdb.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cosmosdb.info",
+    "source": {
+      "list": "AZURE",
+      "line": 76
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cosmosdb.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cosmosdb.net",
+    "source": {
+      "list": "AZURE",
+      "line": 77
+    }
+  },
+  {
+    "type": "domain",
+    "value": "crmdynint-gcc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:crmdynint-gcc.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 90
+    }
+  },
+  {
+    "type": "domain",
+    "value": "crmdynint.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:crmdynint.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 91
+    }
+  },
+  {
+    "type": "domain",
+    "value": "crossborderexpansion.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:crossborderexpansion.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 92
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dcg.microsoft.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:dcg.microsoft.com:@cn",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 93
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dependabot.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dependabot.com",
+    "source": {
+      "list": "GITHUB",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "devopsassessment.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:devopsassessment.net",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "devopsms.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:devopsms.com",
+    "source": {
+      "list": "AZURE",
+      "line": 78
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dictate.ms",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dictate.ms",
+    "source": {
+      "list": "BING",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ditu.live.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:ditu.live.com:@cn",
+    "source": {
+      "list": "BING",
+      "line": 38
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dl.delivery.mp.microsoft.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:dl.delivery.mp.microsoft.com:@cn",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 316
+    }
+  },
+  {
+    "type": "domain",
+    "value": "docs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:docs.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 94
+    }
+  },
+  {
+    "type": "domain",
+    "value": "doom.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:doom.com",
+    "source": {
+      "list": "BETHESDA",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dot.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dot.net",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "download.windowsupdate.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:download.windowsupdate.com:@cn",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 317
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dynamics.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:dynamics.cn:@cn",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 95
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dynamics.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dynamics.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 96
+    }
+  },
+  {
+    "type": "domain",
+    "value": "efproject.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:efproject.net",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 97
+    }
+  },
+  {
+    "type": "domain",
+    "value": "elderscrolls.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:elderscrolls.com",
+    "source": {
+      "list": "BETHESDA",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "engkoo.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:engkoo.com:@cn",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 98
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fasttrackreadysupport.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fasttrackreadysupport.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 99
+    }
+  },
+  {
+    "type": "domain",
+    "value": "femalefounderscomp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:femalefounderscomp.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 65
+    }
+  },
+  {
+    "type": "domain",
+    "value": "flightsimulator.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:flightsimulator.com",
+    "source": {
+      "list": "ASOBO",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "flipwithsurface.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:flipwithsurface.com",
+    "source": {
+      "list": "BING",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fluidpreview.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fluidpreview.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 100
+    }
+  },
+  {
+    "type": "domain",
+    "value": "footprintdns.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:footprintdns.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 101
+    }
+  },
+  {
+    "type": "domain",
+    "value": "forza.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:forza.net",
+    "source": {
+      "list": "FORZA",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "forzamotorsport.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:forzamotorsport.net",
+    "source": {
+      "list": "FORZA",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "forzaracingchampionship.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:forzaracingchampionship.com",
+    "source": {
+      "list": "FORZA",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "forzarc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:forzarc.com",
+    "source": {
+      "list": "FORZA",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gamepass.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gamepass.com",
+    "source": {
+      "list": "XBOX",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gamesstack.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gamesstack.com",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gameuxmasterguide.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gameuxmasterguide.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 102
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gears5.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gears5.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 103
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gearspop.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gearspop.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 104
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gearstactics.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gearstactics.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 105
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gfx.ms",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gfx.ms",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 106
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gh.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gh.io",
+    "source": {
+      "list": "GITHUB",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ghcr.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ghcr.io",
+    "source": {
+      "list": "GITHUB",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gigjam.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gigjam.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 107
+    }
+  },
+  {
+    "type": "domain",
+    "value": "git.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:git.io",
+    "source": {
+      "list": "GITHUB",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "github.ai",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:github.ai",
+    "source": {
+      "list": "GITHUB",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "github.blog",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:github.blog",
+    "source": {
+      "list": "GITHUB",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "github.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:github.com",
+    "source": {
+      "list": "GITHUB",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "github.community",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:github.community",
+    "source": {
+      "list": "GITHUB",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "github.dev",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:github.dev",
+    "source": {
+      "list": "GITHUB",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "github.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:github.io",
+    "source": {
+      "list": "GITHUB",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "githubapp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:githubapp.com",
+    "source": {
+      "list": "GITHUB",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "githubassets.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:githubassets.com",
+    "source": {
+      "list": "GITHUB",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "githubcopilot.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:githubcopilot.com",
+    "source": {
+      "list": "GITHUB-COPILOT",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "githubhackathon.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:githubhackathon.com",
+    "source": {
+      "list": "GITHUB",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "githubnext.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:githubnext.com",
+    "source": {
+      "list": "GITHUB",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "githubpreview.dev",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:githubpreview.dev",
+    "source": {
+      "list": "GITHUB",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "githubstatus.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:githubstatus.com",
+    "source": {
+      "list": "GITHUB",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "githubuniverse.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:githubuniverse.com",
+    "source": {
+      "list": "GITHUB",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "githubusercontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:githubusercontent.com",
+    "source": {
+      "list": "GITHUB",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gotcosmos.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gotcosmos.com",
+    "source": {
+      "list": "AZURE",
+      "line": 79
+    }
+  },
+  {
+    "type": "domain",
+    "value": "graphengine.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:graphengine.io",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hdinsightservices.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:hdinsightservices.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 80
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hololens.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hololens.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 108
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hotmail",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hotmail",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hotmail.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hotmail.co",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 109
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hotmail.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hotmail.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 110
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hotmail.eu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hotmail.eu",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 111
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hotmail.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hotmail.net",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 112
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hotmail.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hotmail.org",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 113
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hummingbird.ms",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hummingbird.ms",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 114
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ie10.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ie10.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 115
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ie11.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ie11.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 116
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ie8.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ie8.co",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 117
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ie9.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ie9.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 118
+    }
+  },
+  {
+    "type": "domain",
+    "value": "imaginecup.pl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:imaginecup.pl",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 119
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ingads.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ingads.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 120
+    }
+  },
+  {
+    "type": "domain",
+    "value": "insiderdevtour.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:insiderdevtour.com",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "internetexplorer.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:internetexplorer.co",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 121
+    }
+  },
+  {
+    "type": "domain",
+    "value": "internetexplorer.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:internetexplorer.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 122
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intunewiki.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intunewiki.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 123
+    }
+  },
+  {
+    "type": "domain",
+    "value": "iotinactionevents.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:iotinactionevents.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 124
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jwt.ms",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jwt.ms",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kidgrid.tv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kidgrid.tv",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 125
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kumo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kumo.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 126
+    }
+  },
+  {
+    "type": "domain",
+    "value": "l-msedge.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:l-msedge.net",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 127
+    }
+  },
+  {
+    "type": "domain",
+    "value": "latampartneruniversity.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:latampartneruniversity.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 128
+    }
+  },
+  {
+    "type": "domain",
+    "value": "live.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:live.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 129
+    }
+  },
+  {
+    "type": "domain",
+    "value": "live.com.au",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:live.com.au",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 130
+    }
+  },
+  {
+    "type": "domain",
+    "value": "live.eu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:live.eu",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 131
+    }
+  },
+  {
+    "type": "domain",
+    "value": "live.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:live.net",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 132
+    }
+  },
+  {
+    "type": "domain",
+    "value": "livefilestore.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:livefilestore.com",
+    "source": {
+      "list": "ONEDRIVE",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "livingyourambition.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:livingyourambition.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 133
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lync.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:lync.cn:@cn",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 134
+    }
+  },
+  {
+    "type": "domain",
+    "value": "m12.vc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:m12.vc",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 66
+    }
+  },
+  {
+    "type": "domain",
+    "value": "makecode.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:makecode.org",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 135
+    }
+  },
+  {
+    "type": "domain",
+    "value": "managedmeetingrooms.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:managedmeetingrooms.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 136
+    }
+  },
+  {
+    "type": "domain",
+    "value": "management-azure-devices-int.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:management-azure-devices-int.net",
+    "source": {
+      "list": "AZURE",
+      "line": 81
+    }
+  },
+  {
+    "type": "domain",
+    "value": "management-azure-devices-provisioning.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:management-azure-devices-provisioning.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 82
+    }
+  },
+  {
+    "type": "domain",
+    "value": "management-azure-devices.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:management-azure-devices.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 83
+    }
+  },
+  {
+    "type": "domain",
+    "value": "management-azure-devices.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:management-azure-devices.net",
+    "source": {
+      "list": "AZURE",
+      "line": 84
+    }
+  },
+  {
+    "type": "domain",
+    "value": "masalladeloslimites.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:masalladeloslimites.com",
+    "source": {
+      "list": "BING",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mcchcdn.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:mcchcdn.com:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 85
+    }
+  },
+  {
+    "type": "domain",
+    "value": "meetfasttrack.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:meetfasttrack.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 137
+    }
+  },
+  {
+    "type": "domain",
+    "value": "meetyourdevices.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:meetyourdevices.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 138
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mepn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mepn.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 139
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mgmt-azure-api.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:mgmt-azure-api.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 86
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microbit.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microbit.org",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoft",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoft",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoft-falcon.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoft-falcon.io",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 141
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoft-give.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoft-give.com",
+    "source": {
+      "list": "BING",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoft-int.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoft-int.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 142
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoft-ppe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoft-ppe.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 143
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoft-sap-events.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoft-sap-events.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 144
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoft-sbs-domains.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoft-sbs-domains.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 145
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoft-smb.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:microsoft-smb.cn:@cn",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 146
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoft.az",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoft.az",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoft.be",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoft.be",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoft.by",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoft.by",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoft.ca",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoft.ca",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoft.cat",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoft.cat",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoft.ch",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoft.ch",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoft.cl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoft.cl",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoft.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoft.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoft.cz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoft.cz",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoft.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoft.de",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoft.dk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoft.dk",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoft.ee",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoft.ee",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoft.es",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoft.es",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 37
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoft.eu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoft.eu",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 38
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoft.fi",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoft.fi",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 39
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoft.ge",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoft.ge",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 40
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoft.hu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoft.hu",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoft.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoft.io",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 42
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoft.is",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoft.is",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 43
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoft.it",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoft.it",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 44
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoft.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoft.jp",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 45
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoft.lt",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoft.lt",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 46
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoft.lu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoft.lu",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 47
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoft.lv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoft.lv",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 48
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoft.md",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoft.md",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 49
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoft.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoft.net",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 50
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoft.pl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoft.pl",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 51
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoft.pt",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoft.pt",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 52
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoft.red",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoft.red",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 53
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoft.ro",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoft.ro",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 54
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoft.rs",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoft.rs",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 55
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoft.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoft.ru",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 56
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoft.se",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoft.se",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 57
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoft.si",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoft.si",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 58
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoft.tv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoft.tv",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 59
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoft.ua",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoft.ua",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 60
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoft.uz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoft.uz",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 61
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoft.vn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoft.vn",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 62
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoft365.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoft365.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 147
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoftaccountguard.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoftaccountguard.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 148
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoftadc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoftadc.com",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoftads.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:microsoftads.com:@ads",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 310
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoftadvertising.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoftadvertising.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 149
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoftadvertisingregionalawards.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoftadvertisingregionalawards.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 150
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoftaffiliates.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoftaffiliates.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 151
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoftapp.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoftapp.net",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 152
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoftazuread-sso.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoftazuread-sso.com",
+    "source": {
+      "list": "AZURE",
+      "line": 87
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoftazuresponsorships.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoftazuresponsorships.com",
+    "source": {
+      "list": "AZURE",
+      "line": 88
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoftazurestatus.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:microsoftazurestatus.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 89
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoftcloud.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoftcloud.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 153
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoftcloudsummit.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoftcloudsummit.com",
+    "source": {
+      "list": "BING",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoftcloudworkshop.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoftcloudworkshop.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 154
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoftcommunitytraining.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoftcommunitytraining.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 155
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoftdiplomados.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoftdiplomados.com",
+    "source": {
+      "list": "BING",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsofteca.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsofteca.com",
+    "source": {
+      "list": "AZURE",
+      "line": 90
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoftedge.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoftedge.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 156
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoftedgeinsider.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoftedgeinsider.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 140
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoftgamestack.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoftgamestack.com",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsofthouse.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsofthouse.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 157
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsofthouse.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsofthouse.net",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 158
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoftinternetsafety.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoftinternetsafety.net",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 159
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoftiotcentral.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoftiotcentral.com",
+    "source": {
+      "list": "AZURE",
+      "line": 91
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoftiotinsiderlabs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoftiotinsiderlabs.com",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoftlatamaitour.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoftlatamaitour.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 160
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoftlatamholiday.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoftlatamholiday.com",
+    "source": {
+      "list": "BING",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoftlinc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoftlinc.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 161
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoftmetrics.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:microsoftmetrics.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 92
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoftmxfilantropia.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoftmxfilantropia.com",
+    "source": {
+      "list": "BING",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoftnews.cc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoftnews.cc",
+    "source": {
+      "list": "MSN",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoftnews.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:microsoftnews.cn:@cn",
+    "source": {
+      "list": "MSN",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoftnews.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoftnews.com",
+    "source": {
+      "list": "MSN",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoftnews.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoftnews.net",
+    "source": {
+      "list": "MSN",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoftnews.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoftnews.org",
+    "source": {
+      "list": "MSN",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoftnewsforkids.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoftnewsforkids.com",
+    "source": {
+      "list": "MSN",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoftnewsforkids.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoftnewsforkids.net",
+    "source": {
+      "list": "MSN",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoftnewsforkids.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoftnewsforkids.org",
+    "source": {
+      "list": "MSN",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoftnewskids.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoftnewskids.com",
+    "source": {
+      "list": "MSN",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoftnewskids.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoftnewskids.net",
+    "source": {
+      "list": "MSN",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoftnewskids.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoftnewskids.org",
+    "source": {
+      "list": "MSN",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoftonline-i.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:microsoftonline-i.cn:@cn",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 162
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoftonline-m-i.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:microsoftonline-m-i.cn:@cn",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 163
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoftonline-m.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:microsoftonline-m.cn:@cn",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 164
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoftonline-p-i.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:microsoftonline-p-i.cn:@cn",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 165
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoftonline-p-i.net.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:microsoftonline-p-i.net.cn:@cn",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 166
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoftonline-p.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:microsoftonline-p.cn:@cn",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 167
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoftonline-p.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoftonline-p.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 168
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoftonline-p.net.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:microsoftonline-p.net.cn:@cn",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 169
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoftonline.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:microsoftonline.cn:@cn",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 170
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoftonline.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoftonline.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 171
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoftpartnercommunity.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoftpartnercommunity.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 172
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoftpartnersolutions.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoftpartnersolutions.com",
+    "source": {
+      "list": "BING",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoftpersonalcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoftpersonalcontent.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 173
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoftreactor.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:microsoftreactor.cn:@cn",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoftreactor.com.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:microsoftreactor.com.cn:@cn",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoftreactor.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoftreactor.info",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoftreactor.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoftreactor.net",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoftreactor.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoftreactor.org",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoftready.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoftready.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 174
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoftsilverlight.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoftsilverlight.com",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoftsilverlight.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoftsilverlight.net",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoftsilverlight.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoftsilverlight.org",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoftsiteselection.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoftsiteselection.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 175
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoftsqlserver.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoftsqlserver.com",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoftstart.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoftstart.com",
+    "source": {
+      "list": "MSN",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoftstore.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoftstore.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 176
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoftstore.com.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:microsoftstore.com.cn:@cn",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 177
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoftstore.com.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoftstore.com.hk",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 178
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoftstream.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoftstream.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 179
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoftteams.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoftteams.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 180
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsofttradein.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsofttradein.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 181
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsofttranslator-int.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:microsofttranslator-int.cn:@cn",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 182
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsofttranslator.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsofttranslator.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 183
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoftuwp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoftuwp.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 184
+    }
+  },
+  {
+    "type": "domain",
+    "value": "minecraft-services.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:minecraft-services.net",
+    "source": {
+      "list": "MOJANG",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "minecraft.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:minecraft.net",
+    "source": {
+      "list": "MOJANG",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "minecraftservices.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:minecraftservices.com",
+    "source": {
+      "list": "MOJANG",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "minecraftshop.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:minecraftshop.com",
+    "source": {
+      "list": "MOJANG",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mmdnn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mmdnn.com",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mncmsidlab1.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:mncmsidlab1.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 93
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mojang.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mojang.com",
+    "source": {
+      "list": "MOJANG",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "momentumms.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:momentumms.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 185
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mono-project.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mono-project.com",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "morphcharts.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:morphcharts.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 186
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mpnevolution.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mpnevolution.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 187
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ms-studiosmedia.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ms-studiosmedia.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 188
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ms365surfaceoffer.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ms365surfaceoffer.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 189
+    }
+  },
+  {
+    "type": "domain",
+    "value": "msads.net",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:msads.net:@ads",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 311
+    }
+  },
+  {
+    "type": "domain",
+    "value": "msappproxy.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:msappproxy.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 94
+    }
+  },
+  {
+    "type": "domain",
+    "value": "msauth.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:msauth.cn:@cn",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 190
+    }
+  },
+  {
+    "type": "domain",
+    "value": "msauth.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:msauth.net",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 191
+    }
+  },
+  {
+    "type": "domain",
+    "value": "msauthimages.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:msauthimages.cn:@cn",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 192
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mschallenge2018.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mschallenge2018.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 193
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mschcdn.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:mschcdn.com:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 95
+    }
+  },
+  {
+    "type": "domain",
+    "value": "msdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:msdn.com",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "msecnd.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:msecnd.net",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 194
+    }
+  },
+  {
+    "type": "domain",
+    "value": "msedge.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:msedge.net",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 195
+    }
+  },
+  {
+    "type": "domain",
+    "value": "msft.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:msft.info",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 196
+    }
+  },
+  {
+    "type": "domain",
+    "value": "msft.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:msft.net",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 197
+    }
+  },
+  {
+    "type": "domain",
+    "value": "msftauth.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:msftauth.cn:@cn",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 198
+    }
+  },
+  {
+    "type": "domain",
+    "value": "msftauth.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:msftauth.net",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 199
+    }
+  },
+  {
+    "type": "domain",
+    "value": "msftauthimages.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:msftauthimages.cn:@cn",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 200
+    }
+  },
+  {
+    "type": "domain",
+    "value": "msftauthimages.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:msftauthimages.net",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 201
+    }
+  },
+  {
+    "type": "domain",
+    "value": "msftcloudes.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:msftcloudes.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 96
+    }
+  },
+  {
+    "type": "domain",
+    "value": "msftconnecttest.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:msftconnecttest.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 202
+    }
+  },
+  {
+    "type": "domain",
+    "value": "msfteducation.ca",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:msfteducation.ca",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 203
+    }
+  },
+  {
+    "type": "domain",
+    "value": "msftncsi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:msftncsi.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 204
+    }
+  },
+  {
+    "type": "domain",
+    "value": "msftnet.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:msftnet.org",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 205
+    }
+  },
+  {
+    "type": "domain",
+    "value": "msgamesresearch.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:msgamesresearch.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 206
+    }
+  },
+  {
+    "type": "domain",
+    "value": "msgamestudios.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:msgamestudios.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 207
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mshome.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mshome.net",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 208
+    }
+  },
+  {
+    "type": "domain",
+    "value": "msidentity.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:msidentity.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 97
+    }
+  },
+  {
+    "type": "domain",
+    "value": "msidentity.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:msidentity.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 209
+    }
+  },
+  {
+    "type": "domain",
+    "value": "msidlabpbmc.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:msidlabpbmc.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 98
+    }
+  },
+  {
+    "type": "domain",
+    "value": "msinnovationchallenge.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:msinnovationchallenge.com",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "msn.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:msn.cn:@cn",
+    "source": {
+      "list": "MSN",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "msn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:msn.com",
+    "source": {
+      "list": "MSN",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "msn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:msn.net",
+    "source": {
+      "list": "AZURE",
+      "line": 99
+    }
+  },
+  {
+    "type": "domain",
+    "value": "msnewskids.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:msnewskids.com",
+    "source": {
+      "list": "MSN",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "msnewskids.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:msnewskids.net",
+    "source": {
+      "list": "MSN",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "msnewskids.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:msnewskids.org",
+    "source": {
+      "list": "MSN",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "msnkids.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:msnkids.com",
+    "source": {
+      "list": "MSN",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "msocdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:msocdn.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 210
+    }
+  },
+  {
+    "type": "domain",
+    "value": "msocsp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:msocsp.com",
+    "source": {
+      "list": "MICROSOFT-PKI",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mspairlift.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mspairlift.com",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mspil.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:mspil.cn:@cn",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 211
+    }
+  },
+  {
+    "type": "domain",
+    "value": "msra.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:msra.cn:@cn",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 212
+    }
+  },
+  {
+    "type": "domain",
+    "value": "msropendata.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:msropendata.com",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "msturing.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:msturing.org",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 213
+    }
+  },
+  {
+    "type": "domain",
+    "value": "msudalosti.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:msudalosti.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 214
+    }
+  },
+  {
+    "type": "domain",
+    "value": "msunlimitedcloudsummit.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:msunlimitedcloudsummit.com",
+    "source": {
+      "list": "BING",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mymicrosoft.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mymicrosoft.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 215
+    }
+  },
+  {
+    "type": "domain",
+    "value": "myoctocat.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:myoctocat.com",
+    "source": {
+      "list": "GITHUB",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nelreports.net",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:nelreports.net:@ads",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 312
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nextechafrica.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nextechafrica.net",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 216
+    }
+  },
+  {
+    "type": "domain",
+    "value": "npm.community",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:npm.community",
+    "source": {
+      "list": "NPMJS",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "npmjs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:npmjs.com",
+    "source": {
+      "list": "NPMJS",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "npmjs.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:npmjs.org",
+    "source": {
+      "list": "NPMJS",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nuget.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nuget.org",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nugettest.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nugettest.org",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nxta.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nxta.org",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 217
+    }
+  },
+  {
+    "type": "domain",
+    "value": "o365cn.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:o365cn.com:@cn",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 218
+    }
+  },
+  {
+    "type": "domain",
+    "value": "o365files.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:o365files.cn:@cn",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 219
+    }
+  },
+  {
+    "type": "domain",
+    "value": "o365weve-dev.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:o365weve-dev.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 220
+    }
+  },
+  {
+    "type": "domain",
+    "value": "o365weve-ppe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:o365weve-ppe.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 221
+    }
+  },
+  {
+    "type": "domain",
+    "value": "o365weve.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:o365weve.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 222
+    }
+  },
+  {
+    "type": "domain",
+    "value": "octocaptcha.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:octocaptcha.com",
+    "source": {
+      "list": "GITHUB",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "office",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:office",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "office.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:office.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 223
+    }
+  },
+  {
+    "type": "domain",
+    "value": "office.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:office.net",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 224
+    }
+  },
+  {
+    "type": "domain",
+    "value": "office365-net.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:office365-net.cn:@cn",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 225
+    }
+  },
+  {
+    "type": "domain",
+    "value": "office365.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:office365.cn:@cn",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 226
+    }
+  },
+  {
+    "type": "domain",
+    "value": "office365.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:office365.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 227
+    }
+  },
+  {
+    "type": "domain",
+    "value": "office365love.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:office365love.com",
+    "source": {
+      "list": "BING",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "office365tw.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:office365tw.com",
+    "source": {
+      "list": "BING",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "officeplus.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:officeplus.cn:@cn",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 228
+    }
+  },
+  {
+    "type": "domain",
+    "value": "officewebapps.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:officewebapps.cn:@cn",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 229
+    }
+  },
+  {
+    "type": "domain",
+    "value": "onedrive.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:onedrive.co",
+    "source": {
+      "list": "ONEDRIVE",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "onedrive.co.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:onedrive.co.uk",
+    "source": {
+      "list": "ONEDRIVE",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "onedrive.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:onedrive.com",
+    "source": {
+      "list": "ONEDRIVE",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "onedrive.eu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:onedrive.eu",
+    "source": {
+      "list": "ONEDRIVE",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "onedrive.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:onedrive.net",
+    "source": {
+      "list": "ONEDRIVE",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "onedrive.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:onedrive.org",
+    "source": {
+      "list": "ONEDRIVE",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "onenote.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:onenote.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 230
+    }
+  },
+  {
+    "type": "domain",
+    "value": "onenote.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:onenote.net",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 231
+    }
+  },
+  {
+    "type": "domain",
+    "value": "onestore.ms",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:onestore.ms",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 232
+    }
+  },
+  {
+    "type": "domain",
+    "value": "onmschina.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:onmschina.cn:@cn",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 233
+    }
+  },
+  {
+    "type": "domain",
+    "value": "opensource.guide",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:opensource.guide",
+    "source": {
+      "list": "GITHUB",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "opentranslatorstothings.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:opentranslatorstothings.org",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "opticsforthecloud.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:opticsforthecloud.net",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 234
+    }
+  },
+  {
+    "type": "domain",
+    "value": "orithegame.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:orithegame.com",
+    "source": {
+      "list": "XBOX",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "outingsapp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:outingsapp.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 235
+    }
+  },
+  {
+    "type": "domain",
+    "value": "outlook.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:outlook.cn:@cn",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 236
+    }
+  },
+  {
+    "type": "domain",
+    "value": "outlook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:outlook.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 237
+    }
+  },
+  {
+    "type": "domain",
+    "value": "passport.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:passport.net",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 238
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pbiwebcontent.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:pbiwebcontent.cn:@cn",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 239
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pixapp.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pixapp.net",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 240
+    }
+  },
+  {
+    "type": "domain",
+    "value": "playfab.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:playfab.com",
+    "source": {
+      "list": "AZURE",
+      "line": 100
+    }
+  },
+  {
+    "type": "domain",
+    "value": "playfabapi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:playfabapi.com",
+    "source": {
+      "list": "AZURE",
+      "line": 101
+    }
+  },
+  {
+    "type": "domain",
+    "value": "poshtestgallery.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:poshtestgallery.com",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "powerapps.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:powerapps.cn:@cn",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 241
+    }
+  },
+  {
+    "type": "domain",
+    "value": "powerappscdn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:powerappscdn.net",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 242
+    }
+  },
+  {
+    "type": "domain",
+    "value": "powerappsportals.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:powerappsportals.cn:@cn",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 243
+    }
+  },
+  {
+    "type": "domain",
+    "value": "powerautomate.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:powerautomate.cn:@cn",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 244
+    }
+  },
+  {
+    "type": "domain",
+    "value": "powerautomate.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:powerautomate.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 245
+    }
+  },
+  {
+    "type": "domain",
+    "value": "powerbi.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:powerbi.cn:@cn",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 246
+    }
+  },
+  {
+    "type": "domain",
+    "value": "powerbi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:powerbi.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 247
+    }
+  },
+  {
+    "type": "domain",
+    "value": "powershellgallery.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:powershellgallery.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 248
+    }
+  },
+  {
+    "type": "domain",
+    "value": "projectmurphy.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:projectmurphy.net",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 249
+    }
+  },
+  {
+    "type": "domain",
+    "value": "projectsangam.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:projectsangam.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 250
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pwabuilder.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pwabuilder.com",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 37
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pxt.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pxt.io",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 251
+    }
+  },
+  {
+    "type": "domain",
+    "value": "r.bing.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:r.bing.com:@cn",
+    "source": {
+      "list": "BING",
+      "line": 39
+    }
+  },
+  {
+    "type": "domain",
+    "value": "reactorms.com.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:reactorms.com.cn:@cn",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 38
+    }
+  },
+  {
+    "type": "domain",
+    "value": "renovacionoffice.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:renovacionoffice.com",
+    "source": {
+      "list": "BING",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "renovacionxboxlive.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:renovacionxboxlive.com",
+    "source": {
+      "list": "XBOX",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "repo.new",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:repo.new",
+    "source": {
+      "list": "GITHUB",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "s-dc-msedge.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:s-dc-msedge.net",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 252
+    }
+  },
+  {
+    "type": "domain",
+    "value": "s-microsoft.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:s-microsoft.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 253
+    }
+  },
+  {
+    "type": "domain",
+    "value": "s-msedge.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:s-msedge.net",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 254
+    }
+  },
+  {
+    "type": "domain",
+    "value": "s-msft.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:s-msft.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 255
+    }
+  },
+  {
+    "type": "domain",
+    "value": "s-msn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:s-msn.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 256
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sankie.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sankie.net",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 39
+    }
+  },
+  {
+    "type": "domain",
+    "value": "serverlesslibrary.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:serverlesslibrary.net",
+    "source": {
+      "list": "AZURE",
+      "line": 102
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sfbassets.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sfbassets.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 257
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sfbassets.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sfbassets.net",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 258
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sfx.ms",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sfx.ms",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 259
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sharepoint.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:sharepoint.cn:@cn",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 260
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sharepoint.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sharepoint.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 261
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sharepointonline.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sharepointonline.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 262
+    }
+  },
+  {
+    "type": "domain",
+    "value": "signalr.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:signalr.net",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 263
+    }
+  },
+  {
+    "type": "domain",
+    "value": "skype",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:skype",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "skype-edf.akadns.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:skype-edf.akadns.net",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 305
+    }
+  },
+  {
+    "type": "domain",
+    "value": "skype.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:skype.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 264
+    }
+  },
+  {
+    "type": "domain",
+    "value": "skype.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:skype.net",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 265
+    }
+  },
+  {
+    "type": "domain",
+    "value": "skypeassets.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:skypeassets.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 266
+    }
+  },
+  {
+    "type": "domain",
+    "value": "skypeassets.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:skypeassets.net",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 267
+    }
+  },
+  {
+    "type": "domain",
+    "value": "skypedata.akadns.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:skypedata.akadns.net",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 306
+    }
+  },
+  {
+    "type": "domain",
+    "value": "spo-msedge.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:spo-msedge.net",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 268
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sprinklesapp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sprinklesapp.com",
+    "source": {
+      "list": "BING",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sqlserveronlinux.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sqlserveronlinux.com",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 40
+    }
+  },
+  {
+    "type": "domain",
+    "value": "staffhub.ms",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:staffhub.ms",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 269
+    }
+  },
+  {
+    "type": "domain",
+    "value": "start.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:start.com",
+    "source": {
+      "list": "MSN",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "successwithteams.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:successwithteams.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 270
+    }
+  },
+  {
+    "type": "domain",
+    "value": "surface.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:surface.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 271
+    }
+  },
+  {
+    "type": "domain",
+    "value": "svc.ms",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:svc.ms",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 272
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sway-cdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sway-cdn.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 273
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sway.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sway.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 274
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sysinternals.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sysinternals.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 275
+    }
+  },
+  {
+    "type": "domain",
+    "value": "t-msedge.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:t-msedge.net",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 276
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tailwindtraders.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tailwindtraders.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 277
+    }
+  },
+  {
+    "type": "domain",
+    "value": "techhub.ms",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:techhub.ms",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 278
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tellmewhygame.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tellmewhygame.com",
+    "source": {
+      "list": "XBOX",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tfsallin.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tfsallin.net",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 279
+    }
+  },
+  {
+    "type": "domain",
+    "value": "th.bing.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:th.bing.com:@cn",
+    "source": {
+      "list": "BING",
+      "line": 40
+    }
+  },
+  {
+    "type": "domain",
+    "value": "thegithubshop.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:thegithubshop.com",
+    "source": {
+      "list": "GITHUB",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "timelinestoryteller.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:timelinestoryteller.com",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "trafficmanager.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:trafficmanager.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 103
+    }
+  },
+  {
+    "type": "domain",
+    "value": "trafficmanager.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:trafficmanager.net",
+    "source": {
+      "list": "AZURE",
+      "line": 104
+    }
+  },
+  {
+    "type": "domain",
+    "value": "translatetheweb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:translatetheweb.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 280
+    }
+  },
+  {
+    "type": "domain",
+    "value": "trustcenter.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:trustcenter.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 105
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tryfunctions.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tryfunctions.com",
+    "source": {
+      "list": "AZURE",
+      "line": 106
+    }
+  },
+  {
+    "type": "domain",
+    "value": "unity3dcloud.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:unity3dcloud.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 107
+    }
+  },
+  {
+    "type": "domain",
+    "value": "unlocklimitlesslearning.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:unlocklimitlesslearning.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 281
+    }
+  },
+  {
+    "type": "domain",
+    "value": "userpxt.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:userpxt.io",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 282
+    }
+  },
+  {
+    "type": "domain",
+    "value": "uwpcommunitytoolkit.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:uwpcommunitytoolkit.com",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 42
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vfsforgit.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vfsforgit.com",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 49
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vfsforgit.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vfsforgit.org",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 50
+    }
+  },
+  {
+    "type": "domain",
+    "value": "videobreakdown.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:videobreakdown.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 283
+    }
+  },
+  {
+    "type": "domain",
+    "value": "videoindexer.ai",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:videoindexer.ai",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 284
+    }
+  },
+  {
+    "type": "domain",
+    "value": "virtualearth.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:virtualearth.net",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 285
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visualstudio-staging.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visualstudio-staging.com",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 43
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visualstudio.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visualstudio.co",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 45
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visualstudio.co.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visualstudio.co.uk",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 46
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visualstudio.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visualstudio.com",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 44
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visualstudio.eu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visualstudio.eu",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 47
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visualstudio.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visualstudio.net",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 48
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vsallin.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vsallin.net",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 286
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vsassets.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vsassets.io",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 51
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vscode-cdn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vscode-cdn.net",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 53
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vscode-unpkg.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vscode-unpkg.net",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 54
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vscode.dev",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vscode.dev",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 52
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wbd.ms",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wbd.ms",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 287
+    }
+  },
+  {
+    "type": "domain",
+    "value": "what-fan.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:what-fan.net",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 288
+    }
+  },
+  {
+    "type": "domain",
+    "value": "windows",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:windows",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "windows-int.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:windows-int.net",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 289
+    }
+  },
+  {
+    "type": "domain",
+    "value": "windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:windows.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 290
+    }
+  },
+  {
+    "type": "domain",
+    "value": "windows.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:windows.net",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 291
+    }
+  },
+  {
+    "type": "domain",
+    "value": "windows.nl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:windows.nl",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 292
+    }
+  },
+  {
+    "type": "domain",
+    "value": "windows8.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:windows8.hk",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 293
+    }
+  },
+  {
+    "type": "domain",
+    "value": "windowsazure.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:windowsazure.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 108
+    }
+  },
+  {
+    "type": "domain",
+    "value": "windowsazure.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:windowsazure.com",
+    "source": {
+      "list": "AZURE",
+      "line": 109
+    }
+  },
+  {
+    "type": "domain",
+    "value": "windowsazurestatus.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:windowsazurestatus.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 110
+    }
+  },
+  {
+    "type": "domain",
+    "value": "windowscommunity.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:windowscommunity.net",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 294
+    }
+  },
+  {
+    "type": "domain",
+    "value": "windowsmarketplace.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:windowsmarketplace.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 295
+    }
+  },
+  {
+    "type": "domain",
+    "value": "windowsphone-int.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:windowsphone-int.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 296
+    }
+  },
+  {
+    "type": "domain",
+    "value": "windowsphone.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:windowsphone.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 297
+    }
+  },
+  {
+    "type": "domain",
+    "value": "windowssearch.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:windowssearch.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 298
+    }
+  },
+  {
+    "type": "domain",
+    "value": "windowsupdate.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:windowsupdate.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 299
+    }
+  },
+  {
+    "type": "domain",
+    "value": "winhec.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:winhec.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 300
+    }
+  },
+  {
+    "type": "domain",
+    "value": "winhec.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:winhec.net",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 301
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xamarin.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xamarin.com",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 55
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xbox",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xbox",
+    "source": {
+      "list": "XBOX",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xbox.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xbox.co",
+    "source": {
+      "list": "XBOX",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xbox.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xbox.com",
+    "source": {
+      "list": "XBOX",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xbox.eu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xbox.eu",
+    "source": {
+      "list": "XBOX",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xbox.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xbox.org",
+    "source": {
+      "list": "XBOX",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xbox360.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xbox360.co",
+    "source": {
+      "list": "XBOX",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xbox360.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xbox360.com",
+    "source": {
+      "list": "XBOX",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xbox360.eu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xbox360.eu",
+    "source": {
+      "list": "XBOX",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xbox360.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xbox360.org",
+    "source": {
+      "list": "XBOX",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xboxab.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xboxab.com",
+    "source": {
+      "list": "XBOX",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xboxgamepass.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xboxgamepass.com",
+    "source": {
+      "list": "XBOX",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xboxgamestudios.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xboxgamestudios.com",
+    "source": {
+      "list": "XBOX",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xboxlive.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:xboxlive.cn:@cn",
+    "source": {
+      "list": "XBOX",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xboxlive.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xboxlive.com",
+    "source": {
+      "list": "XBOX",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xboxone.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xboxone.co",
+    "source": {
+      "list": "XBOX",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xboxone.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xboxone.com",
+    "source": {
+      "list": "XBOX",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xboxone.eu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xboxone.eu",
+    "source": {
+      "list": "XBOX",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xboxplayanywhere.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xboxplayanywhere.com",
+    "source": {
+      "list": "XBOX",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xboxservices.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xboxservices.com",
+    "source": {
+      "list": "XBOX",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xboxstudios.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xboxstudios.com",
+    "source": {
+      "list": "XBOX",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xbx.lv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xbx.lv",
+    "source": {
+      "list": "XBOX",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yammer.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yammer.com",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 302
+    }
+  },
+  {
+    "type": "full",
+    "value": "b.c2r.ts.cdn.office.net",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:b.c2r.ts.cdn.office.net:@cn",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 318
+    }
+  },
+  {
+    "type": "full",
+    "value": "bg.v4.a.dl.ws.microsoft.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:bg.v4.a.dl.ws.microsoft.com:@cn",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 319
+    }
+  },
+  {
+    "type": "full",
+    "value": "bg4.v4.a.dl.ws.microsoft.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:bg4.v4.a.dl.ws.microsoft.com:@cn",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 320
+    }
+  },
+  {
+    "type": "full",
+    "value": "bj1.api.bing.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:bj1.api.bing.com:@cn",
+    "source": {
+      "list": "BING",
+      "line": 41
+    }
+  },
+  {
+    "type": "full",
+    "value": "build.microsoft.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:build.microsoft.com:@cn",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 321
+    }
+  },
+  {
+    "type": "full",
+    "value": "cdn.marketplaceimages.windowsphone.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:cdn.marketplaceimages.windowsphone.com:@cn",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 322
+    }
+  },
+  {
+    "type": "full",
+    "value": "cn.windowssearch.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:cn.windowssearch.com:@cn",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 323
+    }
+  },
+  {
+    "type": "full",
+    "value": "copilot-telemetry-service.githubusercontent.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:copilot-telemetry-service.githubusercontent.com:@ads",
+    "source": {
+      "list": "GITHUB-COPILOT",
+      "line": 10
+    }
+  },
+  {
+    "type": "full",
+    "value": "copilot-telemetry.githubusercontent.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:copilot-telemetry.githubusercontent.com:@ads",
+    "source": {
+      "list": "GITHUB-COPILOT",
+      "line": 11
+    }
+  },
+  {
+    "type": "full",
+    "value": "ctldl.windowsupdate.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:ctldl.windowsupdate.com:@cn",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 324
+    }
+  },
+  {
+    "type": "full",
+    "value": "default.exp-tas.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:default.exp-tas.com",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 59
+    }
+  },
+  {
+    "type": "full",
+    "value": "devblogs.microsoft.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:devblogs.microsoft.com:@cn",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 325
+    }
+  },
+  {
+    "type": "full",
+    "value": "developer.microsoft.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:developer.microsoft.com:@cn",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 326
+    }
+  },
+  {
+    "type": "full",
+    "value": "docs.microsoft.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:docs.microsoft.com:@cn",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 327
+    }
+  },
+  {
+    "type": "full",
+    "value": "download.microsoft.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:download.microsoft.com:@cn",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 328
+    }
+  },
+  {
+    "type": "full",
+    "value": "download.visualstudio.microsoft.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:download.visualstudio.microsoft.com:@cn",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 329
+    }
+  },
+  {
+    "type": "full",
+    "value": "emoi-cncdn.bing.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:emoi-cncdn.bing.com:@cn",
+    "source": {
+      "list": "BING",
+      "line": 42
+    }
+  },
+  {
+    "type": "full",
+    "value": "f.c2r.ts.cdn.office.net",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:f.c2r.ts.cdn.office.net:@cn",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 330
+    }
+  },
+  {
+    "type": "full",
+    "value": "fs.microsoft.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:fs.microsoft.com:@cn",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 331
+    }
+  },
+  {
+    "type": "full",
+    "value": "github-api.arkoselabs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:github-api.arkoselabs.com",
+    "source": {
+      "list": "GITHUB",
+      "line": 29
+    }
+  },
+  {
+    "type": "full",
+    "value": "github-cloud.s3.amazonaws.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:github-cloud.s3.amazonaws.com",
+    "source": {
+      "list": "GITHUB",
+      "line": 32
+    }
+  },
+  {
+    "type": "full",
+    "value": "github-production-release-asset-2e65be.s3.amazonaws.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:github-production-release-asset-2e65be.s3.amazonaws.com",
+    "source": {
+      "list": "GITHUB",
+      "line": 33
+    }
+  },
+  {
+    "type": "full",
+    "value": "github-production-repository-file-5c1aeb.s3.amazonaws.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:github-production-repository-file-5c1aeb.s3.amazonaws.com",
+    "source": {
+      "list": "GITHUB",
+      "line": 34
+    }
+  },
+  {
+    "type": "full",
+    "value": "github-production-repository-image-32fea6.s3.amazonaws.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:github-production-repository-image-32fea6.s3.amazonaws.com",
+    "source": {
+      "list": "GITHUB",
+      "line": 35
+    }
+  },
+  {
+    "type": "full",
+    "value": "github-production-upload-manifest-file-7fdce7.s3.amazonaws.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:github-production-upload-manifest-file-7fdce7.s3.amazonaws.com",
+    "source": {
+      "list": "GITHUB",
+      "line": 36
+    }
+  },
+  {
+    "type": "full",
+    "value": "github-production-user-asset-6210df.s3.amazonaws.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:github-production-user-asset-6210df.s3.amazonaws.com",
+    "source": {
+      "list": "GITHUB",
+      "line": 37
+    }
+  },
+  {
+    "type": "full",
+    "value": "img-prod-cms-rt-microsoft-com.akamaized.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:img-prod-cms-rt-microsoft-com.akamaized.net",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 349
+    }
+  },
+  {
+    "type": "full",
+    "value": "img-s-msn-com.akamaized.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:img-s-msn-com.akamaized.net",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 350
+    }
+  },
+  {
+    "type": "full",
+    "value": "learn.microsoft.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:learn.microsoft.com:@cn",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 332
+    }
+  },
+  {
+    "type": "full",
+    "value": "mwf-service.akamaized.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:mwf-service.akamaized.net",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 351
+    }
+  },
+  {
+    "type": "full",
+    "value": "myvs.download.prss.microsoft.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:myvs.download.prss.microsoft.com:@cn",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 333
+    }
+  },
+  {
+    "type": "full",
+    "value": "oemsoc.download.prss.microsoft.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:oemsoc.download.prss.microsoft.com:@cn",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 334
+    }
+  },
+  {
+    "type": "full",
+    "value": "officecdn-microsoft-com.akamaized.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:officecdn-microsoft-com.akamaized.net",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 352
+    }
+  },
+  {
+    "type": "full",
+    "value": "officecdn.microsoft.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:officecdn.microsoft.com:@cn",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 335
+    }
+  },
+  {
+    "type": "full",
+    "value": "res-1.cdn.office.net",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:res-1.cdn.office.net:@cn",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 336
+    }
+  },
+  {
+    "type": "full",
+    "value": "res.cdn.office.net",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:res.cdn.office.net:@cn",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 337
+    }
+  },
+  {
+    "type": "full",
+    "value": "rink.hockeyapp.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:rink.hockeyapp.net",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 67
+    }
+  },
+  {
+    "type": "full",
+    "value": "sdx.microsoft.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:sdx.microsoft.com:@cn",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 338
+    }
+  },
+  {
+    "type": "full",
+    "value": "shell.cdn.office.net",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:shell.cdn.office.net:@cn",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 339
+    }
+  },
+  {
+    "type": "full",
+    "value": "software.download.prss.microsoft.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:software.download.prss.microsoft.com:@cn",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 340
+    }
+  },
+  {
+    "type": "full",
+    "value": "statics-marketingsites-eas-ms-com.akamaized.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:statics-marketingsites-eas-ms-com.akamaized.net",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 353
+    }
+  },
+  {
+    "type": "full",
+    "value": "statics-marketingsites-eus-ms-com.akamaized.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:statics-marketingsites-eus-ms-com.akamaized.net",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 354
+    }
+  },
+  {
+    "type": "full",
+    "value": "statics-marketingsites-wcus-ms-com.akamaized.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:statics-marketingsites-wcus-ms-com.akamaized.net",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 355
+    }
+  },
+  {
+    "type": "full",
+    "value": "statics.teams.cdn.office.net",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:statics.teams.cdn.office.net:@cn",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 341
+    }
+  },
+  {
+    "type": "full",
+    "value": "storeedgefd.dsx.mp.microsoft.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:storeedgefd.dsx.mp.microsoft.com:@cn",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 342
+    }
+  },
+  {
+    "type": "full",
+    "value": "surface.downloads.prss.microsoft.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:surface.downloads.prss.microsoft.com:@cn",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 343
+    }
+  },
+  {
+    "type": "full",
+    "value": "vscode.download.prss.microsoft.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:vscode.download.prss.microsoft.com:@cn",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 344
+    }
+  },
+  {
+    "type": "full",
+    "value": "vsmarketplacebadge.apphb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:vsmarketplacebadge.apphb.com",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 72
+    }
+  },
+  {
+    "type": "full",
+    "value": "vz.download.prss.microsoft.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:vz.download.prss.microsoft.com:@cn",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 345
+    }
+  },
+  {
+    "type": "full",
+    "value": "wscont1.apps.microsoft.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:wscont1.apps.microsoft.com:@cn",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 346
+    }
+  },
+  {
+    "type": "full",
+    "value": "wscont2.apps.microsoft.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:wscont2.apps.microsoft.com:@cn",
+    "source": {
+      "list": "MICROSOFT",
+      "line": 347
+    }
+  },
+  {
+    "type": "full",
+    "value": "www.microsoft.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:www.microsoft.com:@cn",
+    "source": {
+      "list": "MICROSOFT-PKI",
+      "line": 7
+    }
+  }
+]

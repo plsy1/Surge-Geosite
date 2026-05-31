@@ -1,0 +1,46 @@
+[
+  {
+    "type": "domain",
+    "value": "fsdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fsdn.com",
+    "source": {
+      "list": "SOURCEFORGE",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sf.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sf.net",
+    "source": {
+      "list": "SOURCEFORGE",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sourceforge.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sourceforge.com",
+    "source": {
+      "list": "SOURCEFORGE",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sourceforge.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sourceforge.net",
+    "source": {
+      "list": "SOURCEFORGE",
+      "line": 2
+    }
+  }
+]

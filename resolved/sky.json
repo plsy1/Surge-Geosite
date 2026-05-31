@@ -1,0 +1,147 @@
+[
+  {
+    "type": "domain",
+    "value": "cn-cdn1.skymansion.net",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:cn-cdn1.skymansion.net:@cn",
+    "source": {
+      "list": "SKY",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sky",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sky",
+    "source": {
+      "list": "SKY",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sky.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sky.com",
+    "source": {
+      "list": "SKY",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "skyassets.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:skyassets.com",
+    "source": {
+      "list": "SKY",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "skymansion.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:skymansion.net",
+    "source": {
+      "list": "SKY",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "skyoceanrescue.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:skyoceanrescue.com",
+    "source": {
+      "list": "SKY",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "skyoceanrescue.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:skyoceanrescue.de",
+    "source": {
+      "list": "SKY",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "skyoceanrescue.it",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:skyoceanrescue.it",
+    "source": {
+      "list": "SKY",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "skysports.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:skysports.com",
+    "source": {
+      "list": "SKY",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "skysports.fr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:skysports.fr",
+    "source": {
+      "list": "SKY",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "skysports.ie",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:skysports.ie",
+    "source": {
+      "list": "SKY",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "skysportsonline.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:skysportsonline.com",
+    "source": {
+      "list": "SKY",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "skysportsracing.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:skysportsracing.com",
+    "source": {
+      "list": "SKY",
+      "line": 14
+    }
+  }
+]

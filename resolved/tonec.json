@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "internetdownloadmanager.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:internetdownloadmanager.com",
+    "source": {
+      "list": "TONEC",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "registeridm.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:registeridm.com",
+    "source": {
+      "list": "TONEC",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tonec.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tonec.com",
+    "source": {
+      "list": "TONEC",
+      "line": 3
+    }
+  }
+]

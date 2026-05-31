@@ -1,0 +1,79 @@
+[
+  {
+    "type": "domain",
+    "value": "kfs.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kfs.io",
+    "source": {
+      "list": "KKBOX",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kk.stream",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kk.stream",
+    "source": {
+      "list": "KKBOX",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kkbox.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kkbox.com",
+    "source": {
+      "list": "KKBOX",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kkbox.com.tw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kkbox.com.tw",
+    "source": {
+      "list": "KKBOX",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kktix.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kktix.com",
+    "source": {
+      "list": "KKBOX",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kktv.com.tw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kktv.com.tw",
+    "source": {
+      "list": "KKBOX",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kktv.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kktv.me",
+    "source": {
+      "list": "KKBOX",
+      "line": 7
+    }
+  }
+]

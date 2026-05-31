@@ -1,0 +1,60 @@
+{
+  "name": "TENCENT",
+  "source": {
+    "domain": 133,
+    "full": 1,
+    "keyword": 0,
+    "regexp": 0,
+    "include": 4,
+    "affiliations": 0,
+    "attributes": 62
+  },
+  "resolved": {
+    "rules": 587,
+    "domain": 586,
+    "full": 1,
+    "keyword": 0,
+    "regexp": 0
+  },
+  "filters": {
+    "attrs": {
+      "ads": 57,
+      "!cn": 70
+    }
+  },
+  "modes": {
+    "strict": {
+      "rules": 587,
+      "bytes": 16911,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "balanced": {
+      "rules": 587,
+      "bytes": 16911,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "full": {
+      "rules": 587,
+      "bytes": 16911,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    }
+  }
+}

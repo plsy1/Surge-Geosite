@@ -1,0 +1,57 @@
+{
+  "name": "CATEGORY-EDUCATION-CN",
+  "source": {
+    "domain": 106,
+    "full": 0,
+    "keyword": 0,
+    "regexp": 0,
+    "include": 11,
+    "affiliations": 0,
+    "attributes": 0
+  },
+  "resolved": {
+    "rules": 161,
+    "domain": 160,
+    "full": 1,
+    "keyword": 0,
+    "regexp": 0
+  },
+  "filters": {
+    "attrs": {}
+  },
+  "modes": {
+    "strict": {
+      "rules": 161,
+      "bytes": 4244,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "balanced": {
+      "rules": 161,
+      "bytes": 4244,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "full": {
+      "rules": 161,
+      "bytes": 4244,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    }
+  }
+}

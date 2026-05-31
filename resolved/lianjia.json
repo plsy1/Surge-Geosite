@@ -1,0 +1,46 @@
+[
+  {
+    "type": "domain",
+    "value": "beckyroom.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:beckyroom.com",
+    "source": {
+      "list": "LIANJIA",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ke.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ke.com",
+    "source": {
+      "list": "LIANJIA",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lianjia.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lianjia.com",
+    "source": {
+      "list": "LIANJIA",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ljcdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ljcdn.com",
+    "source": {
+      "list": "LIANJIA",
+      "line": 2
+    }
+  }
+]

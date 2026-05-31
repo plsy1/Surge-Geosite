@@ -1,0 +1,79 @@
+[
+  {
+    "type": "domain",
+    "value": "blogjava.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:blogjava.net",
+    "source": {
+      "list": "CNBLOGS",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cnblogs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cnblogs.com",
+    "source": {
+      "list": "CNBLOGS",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cnitblog.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cnitblog.com",
+    "source": {
+      "list": "CNBLOGS",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cnweblog.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cnweblog.com",
+    "source": {
+      "list": "CNBLOGS",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cppblog.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cppblog.com",
+    "source": {
+      "list": "CNBLOGS",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "phpweblog.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:phpweblog.net",
+    "source": {
+      "list": "CNBLOGS",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "teachblog.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:teachblog.net",
+    "source": {
+      "list": "CNBLOGS",
+      "line": 7
+    }
+  }
+]

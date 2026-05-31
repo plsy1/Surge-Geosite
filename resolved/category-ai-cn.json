@@ -1,0 +1,1102 @@
+[
+  {
+    "type": "domain",
+    "value": "aispeech.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aispeech.com",
+    "source": {
+      "list": "CATEGORY-AI-CN",
+      "line": 89
+    }
+  },
+  {
+    "type": "domain",
+    "value": "antafu.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:antafu.com",
+    "source": {
+      "list": "CATEGORY-AI-CN",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "antaq.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:antaq.com",
+    "source": {
+      "list": "CATEGORY-AI-CN",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "api-building.fun",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:api-building.fun",
+    "source": {
+      "list": "DOUBAO",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "askdiandian.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:askdiandian.com",
+    "source": {
+      "list": "ASKDIANDIAN",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "baichuan-ai.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:baichuan-ai.com",
+    "source": {
+      "list": "CATEGORY-AI-CN",
+      "line": 66
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bigmodel.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bigmodel.cn",
+    "source": {
+      "list": "CATEGORY-AI-CN",
+      "line": 39
+    }
+  },
+  {
+    "type": "domain",
+    "value": "building.fun",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:building.fun",
+    "source": {
+      "list": "DOUBAO",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "butterfly-static.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:butterfly-static.cn",
+    "source": {
+      "list": "DOUBAO",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "butterflyai.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:butterflyai.cn",
+    "source": {
+      "list": "DOUBAO",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "chatglm.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:chatglm.cn",
+    "source": {
+      "list": "CATEGORY-AI-CN",
+      "line": 40
+    }
+  },
+  {
+    "type": "domain",
+    "value": "clawhub-mirror.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:clawhub-mirror.com",
+    "source": {
+      "list": "CATEGORY-AI-CN",
+      "line": 94
+    }
+  },
+  {
+    "type": "domain",
+    "value": "codebuddy.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:codebuddy.cn",
+    "source": {
+      "list": "CATEGORY-AI-CN",
+      "line": 59
+    }
+  },
+  {
+    "type": "domain",
+    "value": "coze-dns-01.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:coze-dns-01.com",
+    "source": {
+      "list": "DOUBAO",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "coze.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:coze.cn",
+    "source": {
+      "list": "DOUBAO",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "coze.email",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:coze.email",
+    "source": {
+      "list": "DOUBAO",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "coze.site",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:coze.site",
+    "source": {
+      "list": "DOUBAO",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cozeapp.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cozeapp.net",
+    "source": {
+      "list": "DOUBAO",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cozebaas.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cozebaas.cn",
+    "source": {
+      "list": "DOUBAO",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cozebuild.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cozebuild.com",
+    "source": {
+      "list": "DOUBAO",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cozecdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cozecdn.com",
+    "source": {
+      "list": "DOUBAO",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cozedeploy.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cozedeploy.com",
+    "source": {
+      "list": "DOUBAO",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cozefn.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cozefn.cn",
+    "source": {
+      "list": "DOUBAO",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cozeide.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cozeide.cn",
+    "source": {
+      "list": "DOUBAO",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cozesdk.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cozesdk.com",
+    "source": {
+      "list": "DOUBAO",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cozetest.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cozetest.cn",
+    "source": {
+      "list": "DOUBAO",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cozetest2.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cozetest2.cn",
+    "source": {
+      "list": "DOUBAO",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cozetest3.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cozetest3.cn",
+    "source": {
+      "list": "DOUBAO",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cueme.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cueme.cn",
+    "source": {
+      "list": "CATEGORY-AI-CN",
+      "line": 69
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dbbuilding.fun",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dbbuilding.fun",
+    "source": {
+      "list": "DOUBAO",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "deepseek.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:deepseek.com",
+    "source": {
+      "list": "DEEPSEEK",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "diandianlife.top",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:diandianlife.top",
+    "source": {
+      "list": "ASKDIANDIAN",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "doubao-dev.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:doubao-dev.com",
+    "source": {
+      "list": "DOUBAO",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "doubao.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:doubao.com",
+    "source": {
+      "list": "DOUBAO",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "doubaocdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:doubaocdn.com",
+    "source": {
+      "list": "DOUBAO",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "doudou.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:doudou.com",
+    "source": {
+      "list": "TRAE",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dui.ai",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dui.ai",
+    "source": {
+      "list": "CATEGORY-AI-CN",
+      "line": 90
+    }
+  },
+  {
+    "type": "domain",
+    "value": "duiopen.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:duiopen.com",
+    "source": {
+      "list": "CATEGORY-AI-CN",
+      "line": 91
+    }
+  },
+  {
+    "type": "domain",
+    "value": "faxingbao.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:faxingbao.com",
+    "source": {
+      "list": "CATEGORY-AI-CN",
+      "line": 81
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hailuoai.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hailuoai.com",
+    "source": {
+      "list": "CATEGORY-AI-CN",
+      "line": 54
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hi-butterfly.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hi-butterfly.cn",
+    "source": {
+      "list": "DOUBAO",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hunyuan.tencent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hunyuan.tencent.com",
+    "source": {
+      "list": "CATEGORY-AI-CN",
+      "line": 61
+    }
+  },
+  {
+    "type": "domain",
+    "value": "instreet.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:instreet.com",
+    "source": {
+      "list": "DOUBAO",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kimi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kimi.com",
+    "source": {
+      "list": "CATEGORY-AI-CN",
+      "line": 46
+    }
+  },
+  {
+    "type": "domain",
+    "value": "liblib.art",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:liblib.art",
+    "source": {
+      "list": "CATEGORY-AI-CN",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "liblib.cloud",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:liblib.cloud",
+    "source": {
+      "list": "CATEGORY-AI-CN",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "liblib.tv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:liblib.tv",
+    "source": {
+      "list": "CATEGORY-AI-CN",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "linka2a.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:linka2a.net",
+    "source": {
+      "list": "CATEGORY-AI-CN",
+      "line": 106
+    }
+  },
+  {
+    "type": "domain",
+    "value": "maoxiangai.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:maoxiangai.com",
+    "source": {
+      "list": "DOUBAO",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "marscode.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:marscode.cn",
+    "source": {
+      "list": "TRAE",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "marscode.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:marscode.com.cn",
+    "source": {
+      "list": "TRAE",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mcbaas.work",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mcbaas.work",
+    "source": {
+      "list": "TRAE",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mcdemo.show",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mcdemo.show",
+    "source": {
+      "list": "TRAE",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mchost.guru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mchost.guru",
+    "source": {
+      "list": "TRAE",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mcprev.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mcprev.cn",
+    "source": {
+      "list": "TRAE",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "meta.law",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:meta.law",
+    "source": {
+      "list": "CATEGORY-AI-CN",
+      "line": 84
+    }
+  },
+  {
+    "type": "domain",
+    "value": "metaso.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:metaso.cn",
+    "source": {
+      "list": "CATEGORY-AI-CN",
+      "line": 85
+    }
+  },
+  {
+    "type": "domain",
+    "value": "miaibox.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:miaibox.com",
+    "source": {
+      "list": "XIAOMI-AI",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "miaoyanai.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:miaoyanai.com",
+    "source": {
+      "list": "CATEGORY-AI-CN",
+      "line": 78
+    }
+  },
+  {
+    "type": "domain",
+    "value": "minimaxi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:minimaxi.com",
+    "source": {
+      "list": "CATEGORY-AI-CN",
+      "line": 55
+    }
+  },
+  {
+    "type": "domain",
+    "value": "moonshot.ai",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:moonshot.ai",
+    "source": {
+      "list": "CATEGORY-AI-CN",
+      "line": 47
+    }
+  },
+  {
+    "type": "domain",
+    "value": "moonshot.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:moonshot.cn",
+    "source": {
+      "list": "CATEGORY-AI-CN",
+      "line": 48
+    }
+  },
+  {
+    "type": "domain",
+    "value": "myparallelstory.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:myparallelstory.com",
+    "source": {
+      "list": "DOUBAO",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "n.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:n.cn",
+    "source": {
+      "list": "CATEGORY-AI-CN",
+      "line": 73
+    }
+  },
+  {
+    "type": "domain",
+    "value": "namiso.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:namiso.com",
+    "source": {
+      "list": "CATEGORY-AI-CN",
+      "line": 74
+    }
+  },
+  {
+    "type": "domain",
+    "value": "obriccloud.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:obriccloud.com",
+    "source": {
+      "list": "DOUBAO",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "obricclouddw.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:obricclouddw.com",
+    "source": {
+      "list": "DOUBAO",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oceancloudapi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oceancloudapi.com",
+    "source": {
+      "list": "DOUBAO",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "picpic-ai.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:picpic-ai.cn",
+    "source": {
+      "list": "DOUBAO",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pixeldance.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pixeldance.com",
+    "source": {
+      "list": "DOUBAO",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qianwen.aliyun.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qianwen.aliyun.com",
+    "source": {
+      "list": "CATEGORY-AI-CN",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qianwen.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qianwen.com",
+    "source": {
+      "list": "CATEGORY-AI-CN",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qwen.ai",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qwen.ai",
+    "source": {
+      "list": "CATEGORY-AI-CN",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qwenlm.ai",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qwenlm.ai",
+    "source": {
+      "list": "CATEGORY-AI-CN",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rwkv.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rwkv.cn",
+    "source": {
+      "list": "CATEGORY-AI-CN",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rwkv.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rwkv.com",
+    "source": {
+      "list": "CATEGORY-AI-CN",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "safeskill.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:safeskill.cn",
+    "source": {
+      "list": "CATEGORY-AI-CN",
+      "line": 100
+    }
+  },
+  {
+    "type": "domain",
+    "value": "skillhub.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:skillhub.cn",
+    "source": {
+      "list": "CATEGORY-AI-CN",
+      "line": 97
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tapnow.top",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tapnow.top",
+    "source": {
+      "list": "CATEGORY-AI-CN",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tcwqqdy.guru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tcwqqdy.guru",
+    "source": {
+      "list": "TRAE",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tiangong.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tiangong.cn",
+    "source": {
+      "list": "CATEGORY-AI-CN",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tongyi.aliyun.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tongyi.aliyun.com",
+    "source": {
+      "list": "CATEGORY-AI-CN",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tongyi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tongyi.com",
+    "source": {
+      "list": "CATEGORY-AI-CN",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "trae.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:trae.cn",
+    "source": {
+      "list": "TRAE",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "trae.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:trae.com.cn",
+    "source": {
+      "list": "TRAE",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "trae.guru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:trae.guru",
+    "source": {
+      "list": "TRAE",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xiaoaiassist.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xiaoaiassist.com",
+    "source": {
+      "list": "XIAOMI-AI",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xiaomimimo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xiaomimimo.com",
+    "source": {
+      "list": "XIAOMI-AI",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xiezuocat.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xiezuocat.com",
+    "source": {
+      "list": "CATEGORY-AI-CN",
+      "line": 86
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xinghuo.xfyun.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xinghuo.xfyun.cn",
+    "source": {
+      "list": "CATEGORY-AI-CN",
+      "line": 51
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xingyeai.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xingyeai.com",
+    "source": {
+      "list": "CATEGORY-AI-CN",
+      "line": 56
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yiyan.baidu.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yiyan.baidu.com",
+    "source": {
+      "list": "CATEGORY-AI-CN",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yoma.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yoma.cn",
+    "source": {
+      "list": "TRAE",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yuanqi.tencent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yuanqi.tencent.com",
+    "source": {
+      "list": "CATEGORY-AI-CN",
+      "line": 63
+    }
+  },
+  {
+    "type": "domain",
+    "value": "z.ai",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:z.ai",
+    "source": {
+      "list": "CATEGORY-AI-CN",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zhiexa.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zhiexa.com",
+    "source": {
+      "list": "CATEGORY-AI-CN",
+      "line": 103
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zhipuai.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zhipuai.cn",
+    "source": {
+      "list": "CATEGORY-AI-CN",
+      "line": 42
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zhipucn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zhipucn.com",
+    "source": {
+      "list": "CATEGORY-AI-CN",
+      "line": 43
+    }
+  },
+  {
+    "type": "full",
+    "value": "ai.zhaomi.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:ai.zhaomi.cn",
+    "source": {
+      "list": "CATEGORY-AI-CN",
+      "line": 75
+    }
+  },
+  {
+    "type": "full",
+    "value": "cueme-api.quark.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cueme-api.quark.cn",
+    "source": {
+      "list": "CATEGORY-AI-CN",
+      "line": 70
+    }
+  }
+]

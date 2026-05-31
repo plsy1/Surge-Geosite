@@ -1,0 +1,57 @@
+{
+  "name": "CATEGORY-BANK-CN",
+  "source": {
+    "domain": 36,
+    "full": 0,
+    "keyword": 0,
+    "regexp": 0,
+    "include": 7,
+    "affiliations": 0,
+    "attributes": 5
+  },
+  "resolved": {
+    "rules": 131,
+    "domain": 131,
+    "full": 0,
+    "keyword": 0,
+    "regexp": 0
+  },
+  "filters": {
+    "attrs": {}
+  },
+  "modes": {
+    "strict": {
+      "rules": 131,
+      "bytes": 3585,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "balanced": {
+      "rules": 131,
+      "bytes": 3585,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "full": {
+      "rules": 131,
+      "bytes": 3585,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    }
+  }
+}

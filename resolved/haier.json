@@ -1,0 +1,46 @@
+[
+  {
+    "type": "domain",
+    "value": "ehaier.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ehaier.com",
+    "source": {
+      "list": "HAIER",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "haier.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:haier.com",
+    "source": {
+      "list": "HAIER",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "haier.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:haier.net",
+    "source": {
+      "list": "HAIER",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "haiersmarthomes.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:haiersmarthomes.com",
+    "source": {
+      "list": "HAIER",
+      "line": 4
+    }
+  }
+]

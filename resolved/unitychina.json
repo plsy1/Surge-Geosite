@@ -1,0 +1,100 @@
+[
+  {
+    "type": "domain",
+    "value": "ads.unitychina.cn",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:ads.unitychina.cn:@ads",
+    "source": {
+      "list": "UNITYCHINA",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "splash-ads.cdn.unity.cn",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:splash-ads.cdn.unity.cn:@ads",
+    "source": {
+      "list": "UNITYCHINA",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "splash-ads.unitychina.cn",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:splash-ads.unitychina.cn:@ads",
+    "source": {
+      "list": "UNITYCHINA",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "u3d.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:u3d.cn",
+    "source": {
+      "list": "UNITYCHINA",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "unity.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:unity.cn",
+    "source": {
+      "list": "UNITYCHINA",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "unityads.unity.cn",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:unityads.unity.cn:@ads",
+    "source": {
+      "list": "UNITYCHINA",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "unityads.unitychina.cn",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:unityads.unitychina.cn:@ads",
+    "source": {
+      "list": "UNITYCHINA",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "unitychina.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:unitychina.cn",
+    "source": {
+      "list": "UNITYCHINA",
+      "line": 4
+    }
+  }
+]

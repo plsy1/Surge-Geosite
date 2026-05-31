@@ -1,0 +1,70 @@
+[
+  {
+    "type": "domain",
+    "value": "cainiao-inc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cainiao-inc.com",
+    "source": {
+      "list": "CAINIAO",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cainiao.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cainiao.com",
+    "source": {
+      "list": "CAINIAO",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cainiao.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cainiao.com.cn",
+    "source": {
+      "list": "CAINIAO",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cainiaoyizhan.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cainiaoyizhan.com",
+    "source": {
+      "list": "CAINIAO",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "guoguo-app.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:guoguo-app.com",
+    "source": {
+      "list": "CAINIAO",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "v6-adashx.ut.cainiao.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:v6-adashx.ut.cainiao.com:@ads",
+    "source": {
+      "list": "CAINIAO",
+      "line": 8
+    }
+  }
+]

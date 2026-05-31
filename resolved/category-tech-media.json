@@ -1,0 +1,279 @@
+[
+  {
+    "type": "domain",
+    "value": "9to5google.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:9to5google.com",
+    "source": {
+      "list": "9TO5",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "9to5mac.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:9to5mac.com",
+    "source": {
+      "list": "9TO5",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "9to5terminal.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:9to5terminal.com",
+    "source": {
+      "list": "9TO5",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "9to5toys.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:9to5toys.com",
+    "source": {
+      "list": "9TO5",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "androidauthority.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:androidauthority.com",
+    "source": {
+      "list": "CATEGORY-TECH-MEDIA",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "androidpolice.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:androidpolice.com",
+    "source": {
+      "list": "CATEGORY-TECH-MEDIA",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "appleinsider.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:appleinsider.com",
+    "source": {
+      "list": "CATEGORY-TECH-MEDIA",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "digitaltrends.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:digitaltrends.com",
+    "source": {
+      "list": "CATEGORY-TECH-MEDIA",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dronedj.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dronedj.com",
+    "source": {
+      "list": "9TO5",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "electrek.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:electrek.co",
+    "source": {
+      "list": "9TO5",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "engadget.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:engadget.com",
+    "source": {
+      "list": "CATEGORY-TECH-MEDIA",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "macrumors.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:macrumors.com",
+    "source": {
+      "list": "CATEGORY-TECH-MEDIA",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "slashdot.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:slashdot.org",
+    "source": {
+      "list": "CATEGORY-TECH-MEDIA",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "spaceexplored.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:spaceexplored.com",
+    "source": {
+      "list": "9TO5",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "startupschool.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:startupschool.org",
+    "source": {
+      "list": "YCOMBINATOR",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "technews.tw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:technews.tw",
+    "source": {
+      "list": "CATEGORY-TECH-MEDIA",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "techradar.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:techradar.com",
+    "source": {
+      "list": "CATEGORY-TECH-MEDIA",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "thetype.cloud",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:thetype.cloud:@cn",
+    "source": {
+      "list": "THETYPE",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "thetype.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:thetype.com",
+    "source": {
+      "list": "THETYPE",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "theverge.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:theverge.com",
+    "source": {
+      "list": "CATEGORY-TECH-MEDIA",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tomsguide.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tomsguide.com",
+    "source": {
+      "list": "CATEGORY-TECH-MEDIA",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "typeisbeautiful.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:typeisbeautiful.com",
+    "source": {
+      "list": "THETYPE",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ycombinator.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ycombinator.com",
+    "source": {
+      "list": "YCOMBINATOR",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zdnet.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zdnet.com",
+    "source": {
+      "list": "CATEGORY-TECH-MEDIA",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zdnet.redvideo.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zdnet.redvideo.io",
+    "source": {
+      "list": "CATEGORY-TECH-MEDIA",
+      "line": 19
+    }
+  }
+]

@@ -1,0 +1,590 @@
+[
+  {
+    "type": "domain",
+    "value": "100.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:100.me",
+    "source": {
+      "list": "DDMAICAI",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "3songshu.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:3songshu.com",
+    "source": {
+      "list": "CATEGORY-FOOD-CN",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "4008-517-517.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:4008-517-517.cn:@cn",
+    "source": {
+      "list": "MCDONALDS",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "517lppz.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:517lppz.com",
+    "source": {
+      "list": "BESTORE",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "anlaiye.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:anlaiye.com",
+    "source": {
+      "list": "CATEGORY-FOOD-CN",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "anlaiye.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:anlaiye.com.cn",
+    "source": {
+      "list": "CATEGORY-FOOD-CN",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bkchina.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bkchina.cn",
+    "source": {
+      "list": "CATEGORY-FOOD-CN",
+      "line": 48
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ddcorp.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ddcorp.net",
+    "source": {
+      "list": "DDMAICAI",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ddfresh.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ddfresh.net",
+    "source": {
+      "list": "DDMAICAI",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ddimg.mobi",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ddimg.mobi",
+    "source": {
+      "list": "DDMAICAI",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ddmaicai.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ddmaicai.net",
+    "source": {
+      "list": "DDMAICAI",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ddmc.mobi",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ddmc.mobi",
+    "source": {
+      "list": "DDMAICAI",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dduser.mobi",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dduser.mobi",
+    "source": {
+      "list": "DDMAICAI",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ddxq.mobi",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ddxq.mobi",
+    "source": {
+      "list": "DDMAICAI",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dicos.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dicos.com.cn",
+    "source": {
+      "list": "CATEGORY-FOOD-CN",
+      "line": 61
+    }
+  },
+  {
+    "type": "domain",
+    "value": "haidilao.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:haidilao.com",
+    "source": {
+      "list": "CATEGORY-FOOD-CN",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hdlcdns.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hdlcdns.com",
+    "source": {
+      "list": "CATEGORY-FOOD-CN",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "heytea.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:heytea.com",
+    "source": {
+      "list": "CATEGORY-FOOD-CN",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hophing.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hophing.cn",
+    "source": {
+      "list": "CATEGORY-FOOD-CN",
+      "line": 44
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hophing.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hophing.com.cn",
+    "source": {
+      "list": "CATEGORY-FOOD-CN",
+      "line": 45
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hwwt8.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hwwt8.com",
+    "source": {
+      "list": "CATEGORY-FOOD-CN",
+      "line": 51
+    }
+  },
+  {
+    "type": "domain",
+    "value": "imaicai.mobi",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:imaicai.mobi",
+    "source": {
+      "list": "DDMAICAI",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "imcome.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:imcome.net",
+    "source": {
+      "list": "CATEGORY-FOOD-CN",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "imcoming.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:imcoming.com",
+    "source": {
+      "list": "CATEGORY-FOOD-CN",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kemen.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kemen.cn",
+    "source": {
+      "list": "CATEGORY-FOOD-CN",
+      "line": 64
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kfc.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kfc.com.cn",
+    "source": {
+      "list": "CATEGORY-FOOD-CN",
+      "line": 52
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kiwa-tech.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kiwa-tech.com",
+    "source": {
+      "list": "CATEGORY-FOOD-CN",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lkcoffee.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lkcoffee.com",
+    "source": {
+      "list": "LKCOFFEE",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "logger.qmai.cn",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:logger.qmai.cn:@ads",
+    "source": {
+      "list": "CATEGORY-FOOD-CN",
+      "line": 67
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lppz.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lppz.com",
+    "source": {
+      "list": "BESTORE",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lppzimg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lppzimg.com",
+    "source": {
+      "list": "BESTORE",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "luckincoffeecdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:luckincoffeecdn.com",
+    "source": {
+      "list": "LKCOFFEE",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mcd.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:mcd.cn:@cn",
+    "source": {
+      "list": "MCDONALDS",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mcdchina.net",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:mcdchina.net:@cn",
+    "source": {
+      "list": "MCDONALDS",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mcdonalds.com.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:mcdonalds.com.cn:@cn",
+    "source": {
+      "list": "MCDONALDS",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "meican.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:meican.com",
+    "source": {
+      "list": "CATEGORY-FOOD-CN",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "meicanstatic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:meicanstatic.com",
+    "source": {
+      "list": "CATEGORY-FOOD-CN",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mxbc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mxbc.com",
+    "source": {
+      "list": "CATEGORY-FOOD-CN",
+      "line": 40
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mxbc.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mxbc.net",
+    "source": {
+      "list": "CATEGORY-FOOD-CN",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nongfuspring.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nongfuspring.com",
+    "source": {
+      "list": "CATEGORY-FOOD-CN",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qmai.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qmai.cn",
+    "source": {
+      "list": "CATEGORY-FOOD-CN",
+      "line": 57
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qmai.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qmai.com",
+    "source": {
+      "list": "CATEGORY-FOOD-CN",
+      "line": 56
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qmimg.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qmimg.cn",
+    "source": {
+      "list": "CATEGORY-FOOD-CN",
+      "line": 58
+    }
+  },
+  {
+    "type": "domain",
+    "value": "shuxinyc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:shuxinyc.com",
+    "source": {
+      "list": "CATEGORY-FOOD-CN",
+      "line": 37
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tracking.mcdonalds.com.cn",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:tracking.mcdonalds.com.cn:@ads",
+    "source": {
+      "list": "CATEGORY-FOOD-CN",
+      "line": 68
+    }
+  },
+  {
+    "type": "domain",
+    "value": "trackingprd.hwwt8.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:trackingprd.hwwt8.com:@ads",
+    "source": {
+      "list": "CATEGORY-FOOD-CN",
+      "line": 69
+    }
+  },
+  {
+    "type": "domain",
+    "value": "trackserver.shuxinyc.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:trackserver.shuxinyc.com:@ads",
+    "source": {
+      "list": "CATEGORY-FOOD-CN",
+      "line": 70
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wahaha.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wahaha.com.cn",
+    "source": {
+      "list": "CATEGORY-FOOD-CN",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "whhhealth.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:whhhealth.com",
+    "source": {
+      "list": "CATEGORY-FOOD-CN",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yst.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yst.com.cn",
+    "source": {
+      "list": "CATEGORY-FOOD-CN",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yumchina.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yumchina.com",
+    "source": {
+      "list": "CATEGORY-FOOD-CN",
+      "line": 53
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yyds.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yyds.co",
+    "source": {
+      "list": "LKCOFFEE",
+      "line": 3
+    }
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "type": "domain",
+    "value": "189.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:189.cn",
+    "source": {
+      "list": "CHINATELECOM",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bestpay.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bestpay.cn",
+    "source": {
+      "list": "CHINATELECOM",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bestpay.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bestpay.com.cn",
+    "source": {
+      "list": "CHINATELECOM",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "chinatelecom-h.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:chinatelecom-h.com",
+    "source": {
+      "list": "CHINATELECOM",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "chinatelecom.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:chinatelecom.com.cn",
+    "source": {
+      "list": "CHINATELECOM",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "chinatelecomglobal.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:chinatelecomglobal.com:@!cn",
+    "source": {
+      "list": "CHINATELECOM",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "chinatelecomhk.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:chinatelecomhk.com:@!cn",
+    "source": {
+      "list": "CHINATELECOM",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "chntel.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:chntel.com",
+    "source": {
+      "list": "CHINATELECOM",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ctexcel.ca",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:ctexcel.ca:@!cn",
+    "source": {
+      "list": "CTEXCEL",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ctexcel.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:ctexcel.com:@!cn",
+    "source": {
+      "list": "CTEXCEL",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ctexcel.com.hk",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:ctexcel.com.hk:@!cn",
+    "source": {
+      "list": "CTEXCEL",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ctexcel.fr",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:ctexcel.fr:@!cn",
+    "source": {
+      "list": "CTEXCEL",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ctexcel.us",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:ctexcel.us:@!cn",
+    "source": {
+      "list": "CTEXCEL",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vnet.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vnet.cn",
+    "source": {
+      "list": "CHINATELECOM",
+      "line": 11
+    }
+  }
+]

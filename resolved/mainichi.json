@@ -1,0 +1,112 @@
+[
+  {
+    "type": "domain",
+    "value": "machigoto.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:machigoto.jp",
+    "source": {
+      "list": "MAINICHI",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mainichi-athletepartners.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mainichi-athletepartners.jp",
+    "source": {
+      "list": "MAINICHI",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mainichi.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mainichi.jp",
+    "source": {
+      "list": "MAINICHI",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mainichibooks.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mainichibooks.com",
+    "source": {
+      "list": "MAINICHI",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "meijinsen.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:meijinsen.jp",
+    "source": {
+      "list": "MAINICHI",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mirailab.tech",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mirailab.tech",
+    "source": {
+      "list": "MAINICHI",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mottainai.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mottainai.info",
+    "source": {
+      "list": "MAINICHI",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "newsgawakaru.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:newsgawakaru.com",
+    "source": {
+      "list": "MAINICHI",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sponichi.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sponichi.co.jp",
+    "source": {
+      "list": "MAINICHI",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "weekly-economist.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:weekly-economist.com",
+    "source": {
+      "list": "MAINICHI",
+      "line": 12
+    }
+  }
+]

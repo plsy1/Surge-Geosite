@@ -1,0 +1,1417 @@
+{
+  "name": "GEOLOCATION-!CN",
+  "source": {
+    "domain": 25646,
+    "full": 705,
+    "keyword": 0,
+    "regexp": 151,
+    "include": 0,
+    "affiliations": 0,
+    "attributes": 0
+  },
+  "resolved": {
+    "rules": 25891,
+    "domain": 25646,
+    "full": 94,
+    "keyword": 0,
+    "regexp": 151
+  },
+  "filters": {
+    "attrs": {}
+  },
+  "modes": {
+    "strict": {
+      "rules": 25740,
+      "bytes": 734687,
+      "regex": {
+        "total": 151,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 151
+      },
+      "unsupported": [
+        {
+          "pattern": ".+\\.awsdns-[0-9][0-9]\\.(co\\.uk|com|net|org)$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26495
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": ".+\\.dkr\\.ecr\\.[^\\.]+\\.amazonaws\\.com$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26496
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)[1-5]gaoap\\.com$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26488
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)[1-9]+aipai\\.(com|net)$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26489
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)[1-9]+zipai\\.(com|net)$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26490
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)[1-9]00caocao\\.com$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26491
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)[3-9]0000sao\\.com$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26492
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)[a-z]?fulibl\\.(cc|com|org|net|xyz)$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26493
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)[a-z][1-9][0-9][a-z]\\.com$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26494
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)1[0-9]{2}\\.one$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26356
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)13mei[5-7]\\.buzz$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26352
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)18j[efg]\\.life$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26354
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)18jmttios[0-9]{2}\\.com$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26353
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)18tv[1-5]\\.com$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26355
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)2024(3[0-9]|4[0-9]|6[0-9]|7[0-9])\\.xyz$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26357
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)3[0-9]{2}\\.icu$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26358
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)3[0-9]{2}\\.one$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26359
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)69bag[0-1][1-9]?\\.com$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26360
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)783([a-z][a-z]?)?\\.tv$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26361
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)7mm0([0-1][0-9]?)?\\.com$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26362
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)8dgo[1-57-9]\\.com$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26363
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)91cg([1-9]|[0-9][1-9])?.com$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26364
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)91p[0-9][0-9]?\\.com$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26370
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)91porn[0-9]?\\.store$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26366
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)91porn[0-9]{3}\\.me$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26367
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)91porn[fvxy]\\.com$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26368
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)91porn\\.(best|com|cool|fun|group|party|plus|site|tw|work)$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26369
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)91porna[1-7]?\\.com$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26365
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)91sew1[1-6]\\.buzz$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26371
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)91wang[1-9]\\.com$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26372
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)989[a-z]?\\.tv$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26373
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)99pp[1-9][0-9]\\.com$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26374
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)9cha[0-9]{2}\\.cc$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26375
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)aipa(111|222|333|444|555|666|777|888|999)\\.life$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26376
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)aisejushi(2|3|5|6)\\.com$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26377
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)aiwei[1-9]{2}\\.buzz$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26378
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)apiproxy-device-prod-nlb-.+\\.amazonaws\\.com$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26379
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)apiproxy-website-nlb-prod-.+\\.amazonaws\\.com$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26380
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)aqdk[0-9]{3}\\.com$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26381
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)avcc1[0-9]\\.com$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26382
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)avstar0[1-9]\\.(com|me)$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26383
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)awjd[1-9]?\\.tv$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26384
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)awwcn[1-9]?\\.top$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26385
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)banyinjia[0-9]?\\.com$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26386
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)bhzyk[1-9]?\\.xyz$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26387
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)bibeidh1[6-8]\\.cc$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26388
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)bilibili3(0[1-9]|1[0-2])\\.xyz$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26389
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)bjini[0-9]{2}\\.buzz$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26390
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)byy[0-9][0-9]?\\.icu$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26392
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)byyum([3589]|2[235689]|3[34]|4[1-9]|5[1-79]|6[0134679])?\\.com$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26391
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)cav1(0[2-9]|1[0-9])\\.com$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26393
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)cgbb([1-9]|1[0-9]|20)\\.com$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26394
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)chuzs[1-9]{0,2}\\.buzz$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26395
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)cosaa[a-z]\\.cyou$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26396
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)doufuru[0-9]?\\.cc$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26397
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)doufuru[0-9]{2}?\\.xyz$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26398
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)douyintt[0-9]\\.me$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26399
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)dualstack\\.apiproxy-.+\\.amazonaws\\.com$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26400
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)dualstack\\.ichnaea-web-.+\\.amazonaws\\.com$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26401
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)fby[1-9]?[0-9]\\.icu$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26402
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)fby[1-9]?[0-9]\\.one$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26403
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)fi11sm([0-9]+)?\\.com$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26404
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)fiftymvapi\\..+$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26405
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)flsq[0-9]{2}\\.com$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26406
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)forduck[0-1][0-9]\\.com$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26407
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)gaogediao\\.(com|me|net|org)$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26408
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)gossipfuli[0-9]{3,4}\\.xyz$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26409
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)guifw3[1-3]\\.cc$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26410
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)h5ccav[1-5]\\.com$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26411
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)hhmen[1-3]\\.xyz$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26412
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)hkfg[1-7]\\.xyz$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26413
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)hs[1-9]{2}\\.vip$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26414
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)jav777\\.(cc|tv|work)$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26415
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)jb[1-9][0-9]\\.lol$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26417
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)jbk0([0-1][0-9]?)?\\.com$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26416
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)jdyy[1-9]?\\.me$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26418
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)jiuse[0-9]{1,3}\\.com$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26419
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)jmtt\\.(app|live|tv|vip)$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26420
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)jstv[0-9]{2}\\.com$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26421
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)kdfl[0-9]{2}\\.xyz$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26422
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)kimoav([1-9][0-9]?)?\\.com$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26423
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)kpkuang\\.(bond|fun|info|one|us)$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26424
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)ksyp0[1-9]\\.com$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26425
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)lianren[1-7]\\.cc$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26426
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)llyysp[0-9]{4}\\.top$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26427
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)loibus(100|101|202|505|606)\\.top$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26428
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)loibus\\.(cc|com|link)$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26429
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)luchuxue([0-9]{0,5})\\.buzz$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26430
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)maa18[0-2][0-9]\\.com$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26431
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)madouqu[0-9]{2}\\.cc$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26432
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)mdyy[0-1][0-9]\\.com$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26433
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)mdyy[0-9][0-9]\\.cc$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26434
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)mimi[0-9]{3}\\.com$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26435
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)mimi\\.(cfd|lol|onl|sbs|so|vc)$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26436
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)mitao[1-3]\\.tv$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26437
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)mmtv[1-5]\\.life$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26438
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)mmwz\\.(fun|in|la|me|one|pro|pw|run|tv|ws)$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26439
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)momotk([1-9][0-9]?)?\\.uno$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26440
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)nnbw[0-2]\\.xyz$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26441
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)putaozy([1-9][0-9]?)?\\.com$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26442
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)qqbs([0-9]{2})?\\.vip$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26443
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)qqsp0[1-3]\\.com$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26444
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)rbp[1-9][0-9]\\.com$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26445
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)rbyh[1-9]\\.buzz$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26446
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)rule34\\.(asia|us|world|xxx|xyz)$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26447
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)sao[1-6]0000\\.com$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26448
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)sbyjs2[6-9]\\.buzz$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26449
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)sg11[3-9]\\.me$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26450
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)shdd[0-9]{2}\\.buzz$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26451
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)shuangmawei[0-9]{2}\\.buzz$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26452
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)smgsp[0-2]?\\.buzz$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26453
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)spankwire[1-9]\\.com$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26454
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)ssphb[0-9]{2}\\.xyz$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26455
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)supxxx[0-9]{0,2}\\.com$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26456
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)sycf[0-9]?\\.xyz$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26457
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)syjc1[1-6]\\.xyz$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26458
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)tianbiav([1-9]|1[0-6])?\\.com$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26459
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)tqav[1-9][0-9]\\.com$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26460
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)tt[1-2][0-9]\\.tv$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26463
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)ttghg[1-9][0-9]\\.xyz$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26461
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)tttv([1-9][0-9]?|100)\\.com$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26462
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)twav[1-9]\\.xyz$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26464
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)twseb([1-9][0-9]?)?\\.com$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26465
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)uu[a-z][1-9][0-9]?\\.com$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26466
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)whtdh0[1-3]\\.cc$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26467
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)wmm33[0-5]\\.com$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26468
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)wyfuli[1-9]\\.net$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26469
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)xaa[0-9]?\\.one$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26470
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)xaxy[0-9]{2}\\.one$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26471
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)xg[0-9]{2}\\.vip$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26473
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)xgyy([0-9]{2})?\\.vip$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26472
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)xingdh([0-9]{3})?\\.xyz$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26474
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)xlywz[1-9]?\\.cc$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26475
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)xomfsp[1-9]?\\.buzz$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26476
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)xv[0-9]{4}\\.top$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26477
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)xxxyaom[0-9]{2}\\.buzz$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26478
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)yiren[1-9][0-9]\\.com$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26479
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)youyuapi\\..+$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26480
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)yrrj[1-9]?\\.buzz$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26481
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)yygc[0-9]?\\.xyz$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26482
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)zayy([0-9]{0,3})?\\.xyz$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26483
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)zh9[0-7]\\.net$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26484
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)zy[0-9]{4}\\.top$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26485
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)zztt[1-6][0-9]\\.com$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26486
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)zzz[1-9][0-9]\\.top$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26487
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "^[0-9]+vod-adaptive\\.akamaized\\.net$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26502
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "^chatgpt-async-webps-prod-\\S+-\\d+\\.webpubsub\\.azure\\.com$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26498
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "^epicgames-download\\d\\.akamaized\\.net$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26499
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "^ewcdn[0-9]+\\.nowe\\.com$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26500
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "^hses[1-7]?\\.akamaized\\.net$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26501
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "javdb\\d+\\.com$",
+          "source": {
+            "list": "GEOLOCATION-!CN",
+            "line": 26497
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        }
+      ]
+    },
+    "balanced": {
+      "rules": 25891,
+      "bytes": 739233,
+      "regex": {
+        "total": 151,
+        "lossless": 0,
+        "widened": 151,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "full": {
+      "rules": 25891,
+      "bytes": 739233,
+      "regex": {
+        "total": 151,
+        "lossless": 0,
+        "widened": 151,
+        "unsupported": 0
+      },
+      "unsupported": []
+    }
+  }
+}

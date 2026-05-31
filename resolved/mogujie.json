@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "mogu.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mogu.com",
+    "source": {
+      "list": "MOGUJIE",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mogucdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mogucdn.com",
+    "source": {
+      "list": "MOGUJIE",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mogujie.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mogujie.com",
+    "source": {
+      "list": "MOGUJIE",
+      "line": 3
+    }
+  }
+]

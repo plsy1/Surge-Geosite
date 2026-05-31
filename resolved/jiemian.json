@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "jiemian.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jiemian.com",
+    "source": {
+      "list": "JIEMIAN",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jiemian.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jiemian.com.cn",
+    "source": {
+      "list": "JIEMIAN",
+      "line": 4
+    }
+  }
+]

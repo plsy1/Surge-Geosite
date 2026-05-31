@@ -1,0 +1,290 @@
+[
+  {
+    "type": "domain",
+    "value": "ads-twitter.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:ads-twitter.com:@ads",
+    "source": {
+      "list": "TWITTER",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cms-twdigitalassets.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cms-twdigitalassets.com",
+    "source": {
+      "list": "TWITTER",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "grok.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:grok.com",
+    "source": {
+      "list": "XAI",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "periscope.tv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:periscope.tv",
+    "source": {
+      "list": "TWITTER",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pscp.tv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pscp.tv",
+    "source": {
+      "list": "TWITTER",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "t.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:t.co",
+    "source": {
+      "list": "TWITTER",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tellapart.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tellapart.com",
+    "source": {
+      "list": "TWITTER",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tweetdeck.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tweetdeck.com",
+    "source": {
+      "list": "TWITTER",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "twimg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:twimg.com",
+    "source": {
+      "list": "TWITTER",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "twitpic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:twitpic.com",
+    "source": {
+      "list": "TWITTER",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "twitter.biz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:twitter.biz",
+    "source": {
+      "list": "TWITTER",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "twitter.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:twitter.com",
+    "source": {
+      "list": "TWITTER",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "twitter.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:twitter.jp",
+    "source": {
+      "list": "TWITTER",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "twitter.map.fastly.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:twitter.map.fastly.net",
+    "source": {
+      "list": "TWITTER",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "twittercommunity.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:twittercommunity.com",
+    "source": {
+      "list": "TWITTER",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "twitterflightschool.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:twitterflightschool.com",
+    "source": {
+      "list": "TWITTER",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "twitterinc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:twitterinc.com",
+    "source": {
+      "list": "TWITTER",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "twitteroauth.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:twitteroauth.com",
+    "source": {
+      "list": "TWITTER",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "twitterstat.us",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:twitterstat.us",
+    "source": {
+      "list": "TWITTER",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "twtrdns.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:twtrdns.net",
+    "source": {
+      "list": "TWITTER",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "twttr.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:twttr.com",
+    "source": {
+      "list": "TWITTER",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "twttr.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:twttr.net",
+    "source": {
+      "list": "TWITTER",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "twvid.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:twvid.com",
+    "source": {
+      "list": "TWITTER",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vine.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vine.co",
+    "source": {
+      "list": "TWITTER",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "x.ai",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:x.ai",
+    "source": {
+      "list": "XAI",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "x.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:x.com",
+    "source": {
+      "list": "TWITTER",
+      "line": 24
+    }
+  }
+]

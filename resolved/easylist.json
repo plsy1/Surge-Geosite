@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "easylist.to",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:easylist.to",
+    "source": {
+      "list": "EASYLIST",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lanik.us",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lanik.us",
+    "source": {
+      "list": "EASYLIST",
+      "line": 2
+    }
+  }
+]

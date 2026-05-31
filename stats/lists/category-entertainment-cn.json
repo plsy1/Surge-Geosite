@@ -1,0 +1,70 @@
+{
+  "name": "CATEGORY-ENTERTAINMENT-CN",
+  "source": {
+    "domain": 85,
+    "full": 0,
+    "keyword": 0,
+    "regexp": 0,
+    "include": 40,
+    "affiliations": 0,
+    "attributes": 3
+  },
+  "resolved": {
+    "rules": 737,
+    "domain": 716,
+    "full": 20,
+    "keyword": 0,
+    "regexp": 1
+  },
+  "filters": {
+    "attrs": {
+      "ads": 76,
+      "cn": 1
+    }
+  },
+  "modes": {
+    "strict": {
+      "rules": 736,
+      "bytes": 19803,
+      "regex": {
+        "total": 1,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 1
+      },
+      "unsupported": [
+        {
+          "pattern": "^.+-mihayo\\.akamaized\\.net$",
+          "source": {
+            "list": "MIHOYO-CN",
+            "line": 31
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        }
+      ]
+    },
+    "balanced": {
+      "rules": 737,
+      "bytes": 19843,
+      "regex": {
+        "total": 1,
+        "lossless": 0,
+        "widened": 1,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "full": {
+      "rules": 737,
+      "bytes": 19843,
+      "regex": {
+        "total": 1,
+        "lossless": 0,
+        "widened": 1,
+        "unsupported": 0
+      },
+      "unsupported": []
+    }
+  }
+}

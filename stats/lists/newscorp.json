@@ -1,0 +1,57 @@
+{
+  "name": "NEWSCORP",
+  "source": {
+    "domain": 60,
+    "full": 0,
+    "keyword": 0,
+    "regexp": 0,
+    "include": 8,
+    "affiliations": 0,
+    "attributes": 0
+  },
+  "resolved": {
+    "rules": 152,
+    "domain": 152,
+    "full": 0,
+    "keyword": 0,
+    "regexp": 0
+  },
+  "filters": {
+    "attrs": {}
+  },
+  "modes": {
+    "strict": {
+      "rules": 152,
+      "bytes": 4653,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "balanced": {
+      "rules": 152,
+      "bytes": 4653,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "full": {
+      "rules": 152,
+      "bytes": 4653,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    }
+  }
+}

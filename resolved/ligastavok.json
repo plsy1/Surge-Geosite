@@ -1,0 +1,46 @@
+[
+  {
+    "type": "domain",
+    "value": "ligadobra.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ligadobra.ru",
+    "source": {
+      "list": "LIGASTAVOK",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ligastavok-csr.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ligastavok-csr.ru",
+    "source": {
+      "list": "LIGASTAVOK",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ligastavok.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ligastavok.ru",
+    "source": {
+      "list": "LIGASTAVOK",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sozvezdie-dobra.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sozvezdie-dobra.ru",
+    "source": {
+      "list": "LIGASTAVOK",
+      "line": 4
+    }
+  }
+]

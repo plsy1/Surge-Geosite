@@ -1,0 +1,57 @@
+[
+  {
+    "type": "domain",
+    "value": "gannett-cdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gannett-cdn.com",
+    "source": {
+      "list": "GANNETT",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gannett.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gannett.com",
+    "source": {
+      "list": "GANNETT",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gannettdigital.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gannettdigital.com",
+    "source": {
+      "list": "GANNETT",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "usatoday.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:usatoday.com",
+    "source": {
+      "list": "GANNETT",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "usatodaynetworkservice.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:usatodaynetworkservice.com",
+    "source": {
+      "list": "GANNETT",
+      "line": 7
+    }
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "abc-studios.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:abc-studios.com",
+    "source": {
+      "list": "ABC",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "abc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:abc.com",
+    "source": {
+      "list": "ABC",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "edgedatg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:edgedatg.com",
+    "source": {
+      "list": "ABC",
+      "line": 5
+    }
+  }
+]

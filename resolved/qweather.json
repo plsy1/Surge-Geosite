@@ -1,0 +1,46 @@
+[
+  {
+    "type": "domain",
+    "value": "hecdn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hecdn.net",
+    "source": {
+      "list": "QWEATHER",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "heweather.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:heweather.net",
+    "source": {
+      "list": "QWEATHER",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qweather.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qweather.com",
+    "source": {
+      "list": "QWEATHER",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qweather.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qweather.net",
+    "source": {
+      "list": "QWEATHER",
+      "line": 4
+    }
+  }
+]

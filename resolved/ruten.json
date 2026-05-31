@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "rimg.com.tw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rimg.com.tw",
+    "source": {
+      "list": "RUTEN",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ruten.com.tw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ruten.com.tw",
+    "source": {
+      "list": "RUTEN",
+      "line": 2
+    }
+  }
+]

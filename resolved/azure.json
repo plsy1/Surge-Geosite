@@ -1,0 +1,1756 @@
+[
+  {
+    "type": "domain",
+    "value": "21vbc.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:21vbc.com:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "21vbluecloud.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:21vbluecloud.com:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "21vbluecloud.net",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:21vbluecloud.net:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aadrm.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:aadrm.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aadrm.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aadrm.com",
+    "source": {
+      "list": "AZURE",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aggresmart.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:aggresmart.com:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "apihub-internal.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:apihub-internal.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "appserviceenvironment.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:appserviceenvironment.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azchcdna.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:azchcdna.com:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 113
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azchcdnb.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:azchcdnb.com:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 114
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azchcdnc.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:azchcdnc.com:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 115
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azchcdnd.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:azchcdnd.com:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 116
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azchcdne.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:azchcdne.com:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 117
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azchcdnf.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:azchcdnf.com:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 118
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azchcdng.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:azchcdng.com:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 119
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azchcdnh.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:azchcdnh.com:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 120
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azchcdni.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:azchcdni.com:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 121
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azchcdnj.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:azchcdnj.com:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 122
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azchcdnk.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:azchcdnk.com:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 123
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azchcdnl.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:azchcdnl.com:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 124
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azchcdnm.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:azchcdnm.com:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 125
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azchcdnn.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:azchcdnn.com:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 126
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azchcdno.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:azchcdno.com:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 127
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azchcdnp.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:azchcdnp.com:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 128
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azchcdnq.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:azchcdnq.com:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 129
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azchcdnr.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:azchcdnr.com:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 130
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azchcdns.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:azchcdns.com:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 131
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azcrmc-test.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:azcrmc-test.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azcrmc.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:azcrmc.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azk8s.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:azk8s.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aznbcontent.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:aznbcontent.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aztask.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:aztask.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azure",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:azure",
+    "source": {
+      "list": "AZURE",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azure-api.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:azure-api.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azure-apihub.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:azure-apihub.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azure-automation.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:azure-automation.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azure-connectedvehicles-stage.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:azure-connectedvehicles-stage.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azure-connectedvehicles.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:azure-connectedvehicles.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azure-devices-int.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:azure-devices-int.net",
+    "source": {
+      "list": "AZURE",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azure-devices-provisioning.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:azure-devices-provisioning.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azure-devices.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:azure-devices.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azure-devices.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:azure-devices.net",
+    "source": {
+      "list": "AZURE",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azure-dns-1.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:azure-dns-1.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 144
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azure-dns-10.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:azure-dns-10.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 153
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azure-dns-2.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:azure-dns-2.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 145
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azure-dns-3.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:azure-dns-3.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 146
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azure-dns-4.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:azure-dns-4.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 147
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azure-dns-5.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:azure-dns-5.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 148
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azure-dns-6.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:azure-dns-6.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 149
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azure-dns-7.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:azure-dns-7.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 150
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azure-dns-8.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:azure-dns-8.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 151
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azure-dns-9.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:azure-dns-9.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 152
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azure-dns.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:azure-dns.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 137
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azure-dns.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:azure-dns.com",
+    "source": {
+      "list": "AZURE",
+      "line": 138
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azure-dns.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:azure-dns.info",
+    "source": {
+      "list": "AZURE",
+      "line": 139
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azure-dns.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:azure-dns.net",
+    "source": {
+      "list": "AZURE",
+      "line": 140
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azure-dns.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:azure-dns.org",
+    "source": {
+      "list": "AZURE",
+      "line": 141
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azure-mobile.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:azure-mobile.net",
+    "source": {
+      "list": "AZURE",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azure-sphere.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:azure-sphere.com",
+    "source": {
+      "list": "AZURE",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azure-test.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:azure-test.net",
+    "source": {
+      "list": "AZURE",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azure.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:azure.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azure.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:azure.com",
+    "source": {
+      "list": "AZURE",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azure.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:azure.net",
+    "source": {
+      "list": "AZURE",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azurecomcdn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:azurecomcdn.net",
+    "source": {
+      "list": "AZURE",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azurecomm.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:azurecomm.net",
+    "source": {
+      "list": "AZURE",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azurecontainer.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:azurecontainer.io",
+    "source": {
+      "list": "AZURE",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azurecosmos.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:azurecosmos.net",
+    "source": {
+      "list": "AZURE",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azurecosmosdb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:azurecosmosdb.com",
+    "source": {
+      "list": "AZURE",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azurecosmosdb.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:azurecosmosdb.info",
+    "source": {
+      "list": "AZURE",
+      "line": 37
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azurecosmosdb.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:azurecosmosdb.net",
+    "source": {
+      "list": "AZURE",
+      "line": 38
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azurecr-test.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:azurecr-test.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 39
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azurecr.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:azurecr.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 40
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azuredatabricks.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:azuredatabricks.net",
+    "source": {
+      "list": "AZURE",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azuredevopslaunch.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:azuredevopslaunch.com",
+    "source": {
+      "list": "AZURE",
+      "line": 42
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azuredigitaltwin.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:azuredigitaltwin.com",
+    "source": {
+      "list": "AZURE",
+      "line": 43
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azuredigitaltwins.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:azuredigitaltwins.com",
+    "source": {
+      "list": "AZURE",
+      "line": 44
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azuredigitaltwins.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:azuredigitaltwins.net",
+    "source": {
+      "list": "AZURE",
+      "line": 45
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azuredns-prd.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:azuredns-prd.info",
+    "source": {
+      "list": "AZURE",
+      "line": 46
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azuredns-prd.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:azuredns-prd.org",
+    "source": {
+      "list": "AZURE",
+      "line": 47
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azureedge-test.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:azureedge-test.net",
+    "source": {
+      "list": "AZURE",
+      "line": 48
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azureedge.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:azureedge.net",
+    "source": {
+      "list": "AZURE",
+      "line": 49
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azurefd.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:azurefd.net",
+    "source": {
+      "list": "AZURE",
+      "line": 50
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azurehdinsight.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:azurehdinsight.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 51
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azureiotcentral.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:azureiotcentral.com",
+    "source": {
+      "list": "AZURE",
+      "line": 52
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azureiotsolutions.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:azureiotsolutions.com",
+    "source": {
+      "list": "AZURE",
+      "line": 53
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azureiotsuite.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:azureiotsuite.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 54
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azureiotsuite.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:azureiotsuite.com",
+    "source": {
+      "list": "AZURE",
+      "line": 55
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azuremresolver.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:azuremresolver.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 56
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azureplanetscale.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:azureplanetscale.info",
+    "source": {
+      "list": "AZURE",
+      "line": 57
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azureplanetscale.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:azureplanetscale.net",
+    "source": {
+      "list": "AZURE",
+      "line": 58
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azureprivatedns.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:azureprivatedns.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 59
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azurerms.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:azurerms.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 60
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azuresandbox.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:azuresandbox.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 61
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azureserviceprofiler.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:azureserviceprofiler.com",
+    "source": {
+      "list": "AZURE",
+      "line": 62
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azuresmartspaces.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:azuresmartspaces.net",
+    "source": {
+      "list": "AZURE",
+      "line": 63
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azurestackvalidation.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:azurestackvalidation.com",
+    "source": {
+      "list": "AZURE",
+      "line": 64
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azurewebsites.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:azurewebsites.net",
+    "source": {
+      "list": "AZURE",
+      "line": 65
+    }
+  },
+  {
+    "type": "domain",
+    "value": "b2clogin.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:b2clogin.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 66
+    }
+  },
+  {
+    "type": "domain",
+    "value": "b3itech.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:b3itech.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 67
+    }
+  },
+  {
+    "type": "domain",
+    "value": "blueaggrestore.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:blueaggrestore.com:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 68
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bluecloudprod.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:bluecloudprod.com:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 69
+    }
+  },
+  {
+    "type": "domain",
+    "value": "botframework.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:botframework.com",
+    "source": {
+      "list": "AZURE",
+      "line": 70
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cegid-cloud.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:cegid-cloud.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 71
+    }
+  },
+  {
+    "type": "domain",
+    "value": "chinacloud-mobile.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:chinacloud-mobile.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 72
+    }
+  },
+  {
+    "type": "domain",
+    "value": "chinacloudapi.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:chinacloudapi.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 73
+    }
+  },
+  {
+    "type": "domain",
+    "value": "chinacloudapp.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:chinacloudapp.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 74
+    }
+  },
+  {
+    "type": "domain",
+    "value": "chinacloudsites.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:chinacloudsites.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 75
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cosmosdb.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cosmosdb.info",
+    "source": {
+      "list": "AZURE",
+      "line": 76
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cosmosdb.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cosmosdb.net",
+    "source": {
+      "list": "AZURE",
+      "line": 77
+    }
+  },
+  {
+    "type": "domain",
+    "value": "devopsms.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:devopsms.com",
+    "source": {
+      "list": "AZURE",
+      "line": 78
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gotcosmos.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gotcosmos.com",
+    "source": {
+      "list": "AZURE",
+      "line": 79
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hdinsightservices.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:hdinsightservices.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 80
+    }
+  },
+  {
+    "type": "domain",
+    "value": "management-azure-devices-int.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:management-azure-devices-int.net",
+    "source": {
+      "list": "AZURE",
+      "line": 81
+    }
+  },
+  {
+    "type": "domain",
+    "value": "management-azure-devices-provisioning.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:management-azure-devices-provisioning.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 82
+    }
+  },
+  {
+    "type": "domain",
+    "value": "management-azure-devices.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:management-azure-devices.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 83
+    }
+  },
+  {
+    "type": "domain",
+    "value": "management-azure-devices.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:management-azure-devices.net",
+    "source": {
+      "list": "AZURE",
+      "line": 84
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mcchcdn.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:mcchcdn.com:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 85
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mgmt-azure-api.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:mgmt-azure-api.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 86
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoftazuread-sso.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoftazuread-sso.com",
+    "source": {
+      "list": "AZURE",
+      "line": 87
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoftazuresponsorships.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoftazuresponsorships.com",
+    "source": {
+      "list": "AZURE",
+      "line": 88
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoftazurestatus.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:microsoftazurestatus.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 89
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsofteca.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsofteca.com",
+    "source": {
+      "list": "AZURE",
+      "line": 90
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoftiotcentral.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoftiotcentral.com",
+    "source": {
+      "list": "AZURE",
+      "line": 91
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoftmetrics.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:microsoftmetrics.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 92
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mncmsidlab1.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:mncmsidlab1.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 93
+    }
+  },
+  {
+    "type": "domain",
+    "value": "msappproxy.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:msappproxy.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 94
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mschcdn.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:mschcdn.com:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 95
+    }
+  },
+  {
+    "type": "domain",
+    "value": "msftcloudes.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:msftcloudes.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 96
+    }
+  },
+  {
+    "type": "domain",
+    "value": "msidentity.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:msidentity.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 97
+    }
+  },
+  {
+    "type": "domain",
+    "value": "msidlabpbmc.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:msidlabpbmc.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 98
+    }
+  },
+  {
+    "type": "domain",
+    "value": "msn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:msn.net",
+    "source": {
+      "list": "AZURE",
+      "line": 99
+    }
+  },
+  {
+    "type": "domain",
+    "value": "playfab.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:playfab.com",
+    "source": {
+      "list": "AZURE",
+      "line": 100
+    }
+  },
+  {
+    "type": "domain",
+    "value": "playfabapi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:playfabapi.com",
+    "source": {
+      "list": "AZURE",
+      "line": 101
+    }
+  },
+  {
+    "type": "domain",
+    "value": "serverlesslibrary.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:serverlesslibrary.net",
+    "source": {
+      "list": "AZURE",
+      "line": 102
+    }
+  },
+  {
+    "type": "domain",
+    "value": "trafficmanager.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:trafficmanager.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 103
+    }
+  },
+  {
+    "type": "domain",
+    "value": "trafficmanager.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:trafficmanager.net",
+    "source": {
+      "list": "AZURE",
+      "line": 104
+    }
+  },
+  {
+    "type": "domain",
+    "value": "trustcenter.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:trustcenter.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 105
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tryfunctions.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tryfunctions.com",
+    "source": {
+      "list": "AZURE",
+      "line": 106
+    }
+  },
+  {
+    "type": "domain",
+    "value": "unity3dcloud.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:unity3dcloud.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 107
+    }
+  },
+  {
+    "type": "domain",
+    "value": "windowsazure.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:windowsazure.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 108
+    }
+  },
+  {
+    "type": "domain",
+    "value": "windowsazure.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:windowsazure.com",
+    "source": {
+      "list": "AZURE",
+      "line": 109
+    }
+  },
+  {
+    "type": "domain",
+    "value": "windowsazurestatus.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:windowsazurestatus.cn:@cn",
+    "source": {
+      "list": "AZURE",
+      "line": 110
+    }
+  },
+  {
+    "type": "full",
+    "value": "azure.microsoft.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:azure.microsoft.com",
+    "source": {
+      "list": "AZURE",
+      "line": 133
+    }
+  },
+  {
+    "type": "full",
+    "value": "azuremarketplace.microsoft.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:azuremarketplace.microsoft.com",
+    "source": {
+      "list": "AZURE",
+      "line": 134
+    }
+  }
+]

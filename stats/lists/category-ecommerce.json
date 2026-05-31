@@ -1,0 +1,60 @@
+{
+  "name": "CATEGORY-ECOMMERCE",
+  "source": {
+    "domain": 5,
+    "full": 0,
+    "keyword": 0,
+    "regexp": 0,
+    "include": 33,
+    "affiliations": 0,
+    "attributes": 0
+  },
+  "resolved": {
+    "rules": 1267,
+    "domain": 1231,
+    "full": 36,
+    "keyword": 0,
+    "regexp": 0
+  },
+  "filters": {
+    "attrs": {
+      "ads": 44,
+      "cn": 80
+    }
+  },
+  "modes": {
+    "strict": {
+      "rules": 1267,
+      "bytes": 35496,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "balanced": {
+      "rules": 1267,
+      "bytes": 35496,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "full": {
+      "rules": 1267,
+      "bytes": 35496,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    }
+  }
+}

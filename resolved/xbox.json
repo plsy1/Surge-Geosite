@@ -1,0 +1,499 @@
+[
+  {
+    "type": "domain",
+    "value": "asobostudio.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:asobostudio.com",
+    "source": {
+      "list": "ASOBO",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "beth.games",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:beth.games",
+    "source": {
+      "list": "BETHESDA",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bethesda.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bethesda.net",
+    "source": {
+      "list": "BETHESDA",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bethesdagamestudios.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bethesdagamestudios.com",
+    "source": {
+      "list": "BETHESDA",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bethsoft.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bethsoft.com",
+    "source": {
+      "list": "BETHESDA",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "callersbane.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:callersbane.com",
+    "source": {
+      "list": "MOJANG",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "doom.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:doom.com",
+    "source": {
+      "list": "BETHESDA",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "elderscrolls.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:elderscrolls.com",
+    "source": {
+      "list": "BETHESDA",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "flightsimulator.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:flightsimulator.com",
+    "source": {
+      "list": "ASOBO",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "forza.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:forza.net",
+    "source": {
+      "list": "FORZA",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "forzamotorsport.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:forzamotorsport.net",
+    "source": {
+      "list": "FORZA",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "forzaracingchampionship.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:forzaracingchampionship.com",
+    "source": {
+      "list": "FORZA",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "forzarc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:forzarc.com",
+    "source": {
+      "list": "FORZA",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gamepass.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gamepass.com",
+    "source": {
+      "list": "XBOX",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "minecraft-services.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:minecraft-services.net",
+    "source": {
+      "list": "MOJANG",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "minecraft.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:minecraft.net",
+    "source": {
+      "list": "MOJANG",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "minecraftservices.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:minecraftservices.com",
+    "source": {
+      "list": "MOJANG",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "minecraftshop.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:minecraftshop.com",
+    "source": {
+      "list": "MOJANG",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mojang.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mojang.com",
+    "source": {
+      "list": "MOJANG",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "orithegame.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:orithegame.com",
+    "source": {
+      "list": "XBOX",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "renovacionxboxlive.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:renovacionxboxlive.com",
+    "source": {
+      "list": "XBOX",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tellmewhygame.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tellmewhygame.com",
+    "source": {
+      "list": "XBOX",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xbox",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xbox",
+    "source": {
+      "list": "XBOX",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xbox.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xbox.co",
+    "source": {
+      "list": "XBOX",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xbox.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xbox.com",
+    "source": {
+      "list": "XBOX",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xbox.eu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xbox.eu",
+    "source": {
+      "list": "XBOX",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xbox.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xbox.org",
+    "source": {
+      "list": "XBOX",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xbox360.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xbox360.co",
+    "source": {
+      "list": "XBOX",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xbox360.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xbox360.com",
+    "source": {
+      "list": "XBOX",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xbox360.eu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xbox360.eu",
+    "source": {
+      "list": "XBOX",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xbox360.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xbox360.org",
+    "source": {
+      "list": "XBOX",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xboxab.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xboxab.com",
+    "source": {
+      "list": "XBOX",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xboxgamepass.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xboxgamepass.com",
+    "source": {
+      "list": "XBOX",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xboxgamestudios.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xboxgamestudios.com",
+    "source": {
+      "list": "XBOX",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xboxlive.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:xboxlive.cn:@cn",
+    "source": {
+      "list": "XBOX",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xboxlive.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xboxlive.com",
+    "source": {
+      "list": "XBOX",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xboxone.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xboxone.co",
+    "source": {
+      "list": "XBOX",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xboxone.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xboxone.com",
+    "source": {
+      "list": "XBOX",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xboxone.eu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xboxone.eu",
+    "source": {
+      "list": "XBOX",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xboxplayanywhere.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xboxplayanywhere.com",
+    "source": {
+      "list": "XBOX",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xboxservices.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xboxservices.com",
+    "source": {
+      "list": "XBOX",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xboxstudios.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xboxstudios.com",
+    "source": {
+      "list": "XBOX",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xbx.lv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xbx.lv",
+    "source": {
+      "list": "XBOX",
+      "line": 32
+    }
+  },
+  {
+    "type": "full",
+    "value": "flightsimulator.azureedge.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:flightsimulator.azureedge.net",
+    "source": {
+      "list": "ASOBO",
+      "line": 4
+    }
+  },
+  {
+    "type": "full",
+    "value": "prodforza.blob.core.windows.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:prodforza.blob.core.windows.net",
+    "source": {
+      "list": "FORZA",
+      "line": 6
+    }
+  }
+]

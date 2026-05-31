@@ -1,0 +1,90 @@
+[
+  {
+    "type": "domain",
+    "value": "mucinex.ca",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mucinex.ca",
+    "source": {
+      "list": "MUCINEX",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mucinex.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mucinex.cn",
+    "source": {
+      "list": "MUCINEX",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mucinex.co.nz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mucinex.co.nz",
+    "source": {
+      "list": "MUCINEX",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mucinex.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mucinex.com",
+    "source": {
+      "list": "MUCINEX",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mucinex.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mucinex.com.cn",
+    "source": {
+      "list": "MUCINEX",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mucinex.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mucinex.net",
+    "source": {
+      "list": "MUCINEX",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mucinex.tv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mucinex.tv",
+    "source": {
+      "list": "MUCINEX",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mucinexprofessional.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mucinexprofessional.com",
+    "source": {
+      "list": "MUCINEX",
+      "line": 8
+    }
+  }
+]

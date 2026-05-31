@@ -1,0 +1,46 @@
+[
+  {
+    "type": "domain",
+    "value": "zb.app",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zb.app",
+    "source": {
+      "list": "ZB",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zb.com",
+    "source": {
+      "list": "ZB",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zb.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zb.io",
+    "source": {
+      "list": "ZB",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zb.live",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zb.live",
+    "source": {
+      "list": "ZB",
+      "line": 4
+    }
+  }
+]

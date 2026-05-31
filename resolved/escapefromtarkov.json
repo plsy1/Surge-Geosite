@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "eft-store.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:eft-store.com",
+    "source": {
+      "list": "ESCAPEFROMTARKOV",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "escapefromtarkov.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:escapefromtarkov.com",
+    "source": {
+      "list": "ESCAPEFROMTARKOV",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tarkov.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tarkov.com",
+    "source": {
+      "list": "ESCAPEFROMTARKOV",
+      "line": 1
+    }
+  }
+]

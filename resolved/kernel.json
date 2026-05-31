@@ -1,0 +1,13 @@
+[
+  {
+    "type": "domain",
+    "value": "kernel.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kernel.org",
+    "source": {
+      "list": "KERNEL",
+      "line": 1
+    }
+  }
+]

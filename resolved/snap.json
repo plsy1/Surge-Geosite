@@ -1,0 +1,81 @@
+[
+  {
+    "type": "domain",
+    "value": "sc-cdn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sc-cdn.net",
+    "source": {
+      "list": "SNAP",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "snap-dev.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:snap-dev.net",
+    "source": {
+      "list": "SNAP",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "snap.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:snap.com",
+    "source": {
+      "list": "SNAP",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "snapads.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:snapads.com:@ads",
+    "source": {
+      "list": "SNAP",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "snapchat.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:snapchat.com",
+    "source": {
+      "list": "SNAP",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "snapkit.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:snapkit.co",
+    "source": {
+      "list": "SNAP",
+      "line": 7
+    }
+  },
+  {
+    "type": "full",
+    "value": "impala-media-production.s3.amazonaws.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:impala-media-production.s3.amazonaws.com",
+    "source": {
+      "list": "SNAP",
+      "line": 9
+    }
+  }
+]

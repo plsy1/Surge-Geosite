@@ -1,0 +1,26 @@
+[
+  {
+    "type": "domain",
+    "value": "mapbox.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:mapbox.cn:@cn",
+    "source": {
+      "list": "MAPBOX",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mapbox.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mapbox.com",
+    "source": {
+      "list": "MAPBOX",
+      "line": 2
+    }
+  }
+]

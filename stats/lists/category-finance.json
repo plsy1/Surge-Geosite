@@ -1,0 +1,60 @@
+{
+  "name": "CATEGORY-FINANCE",
+  "source": {
+    "domain": 3,
+    "full": 0,
+    "keyword": 0,
+    "regexp": 0,
+    "include": 16,
+    "affiliations": 0,
+    "attributes": 0
+  },
+  "resolved": {
+    "rules": 587,
+    "domain": 579,
+    "full": 8,
+    "keyword": 0,
+    "regexp": 0
+  },
+  "filters": {
+    "attrs": {
+      "ads": 9,
+      "cn": 5
+    }
+  },
+  "modes": {
+    "strict": {
+      "rules": 587,
+      "bytes": 16351,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "balanced": {
+      "rules": 587,
+      "bytes": 16351,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "full": {
+      "rules": 587,
+      "bytes": 16351,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    }
+  }
+}

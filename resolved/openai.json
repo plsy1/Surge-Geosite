@@ -1,0 +1,215 @@
+[
+  {
+    "type": "domain",
+    "value": "chat.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:chat.com",
+    "source": {
+      "list": "OPENAI",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "chatgpt.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:chatgpt.com",
+    "source": {
+      "list": "OPENAI",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "chatgpt.livekit.cloud",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:chatgpt.livekit.cloud",
+    "source": {
+      "list": "OPENAI",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "crixet.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:crixet.com",
+    "source": {
+      "list": "OPENAI",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "host.livekit.cloud",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:host.livekit.cloud",
+    "source": {
+      "list": "OPENAI",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oaistatic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oaistatic.com",
+    "source": {
+      "list": "OPENAI",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oaiusercontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oaiusercontent.com",
+    "source": {
+      "list": "OPENAI",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "openai.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:openai.com",
+    "source": {
+      "list": "OPENAI",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "openai.com.cdn.cloudflare.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:openai.com.cdn.cloudflare.net",
+    "source": {
+      "list": "OPENAI",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sora.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sora.com",
+    "source": {
+      "list": "OPENAI",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "turn.livekit.cloud",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:turn.livekit.cloud",
+    "source": {
+      "list": "OPENAI",
+      "line": 26
+    }
+  },
+  {
+    "type": "full",
+    "value": "browser-intake-datadoghq.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:browser-intake-datadoghq.com:@ads",
+    "source": {
+      "list": "OPENAI",
+      "line": 21
+    }
+  },
+  {
+    "type": "full",
+    "value": "o33249.ingest.sentry.io",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:o33249.ingest.sentry.io:@ads",
+    "source": {
+      "list": "OPENAI",
+      "line": 20
+    }
+  },
+  {
+    "type": "full",
+    "value": "openaiapi-site.azureedge.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:openaiapi-site.azureedge.net",
+    "source": {
+      "list": "OPENAI",
+      "line": 12
+    }
+  },
+  {
+    "type": "full",
+    "value": "openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net",
+    "source": {
+      "list": "OPENAI",
+      "line": 13
+    }
+  },
+  {
+    "type": "full",
+    "value": "openaicom.imgix.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:openaicom.imgix.net",
+    "source": {
+      "list": "OPENAI",
+      "line": 14
+    }
+  },
+  {
+    "type": "full",
+    "value": "openaicomproductionae4b.blob.core.windows.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:openaicomproductionae4b.blob.core.windows.net",
+    "source": {
+      "list": "OPENAI",
+      "line": 15
+    }
+  },
+  {
+    "type": "full",
+    "value": "production-openaicom-storage.azureedge.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:production-openaicom-storage.azureedge.net",
+    "source": {
+      "list": "OPENAI",
+      "line": 16
+    }
+  },
+  {
+    "type": "regexp",
+    "value": "^chatgpt-async-webps-prod-\\S+-\\d+\\.webpubsub\\.azure\\.com$",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "regexp:^chatgpt-async-webps-prod-\\S+-\\d+\\.webpubsub\\.azure\\.com$",
+    "source": {
+      "list": "OPENAI",
+      "line": 17
+    }
+  }
+]

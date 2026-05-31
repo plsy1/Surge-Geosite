@@ -1,0 +1,2039 @@
+[
+  {
+    "type": "domain",
+    "value": "1inch.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:1inch.io",
+    "source": {
+      "list": "CATEGORY-CRYPTOCURRENCY",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aave.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aave.com",
+    "source": {
+      "list": "CATEGORY-CRYPTOCURRENCY",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "appsflayer.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:appsflayer.com",
+    "source": {
+      "list": "BINANCE",
+      "line": 38
+    }
+  },
+  {
+    "type": "domain",
+    "value": "asproex.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:asproex.com",
+    "source": {
+      "list": "ASPROEX",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "asproexapi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:asproexapi.com",
+    "source": {
+      "list": "ASPROEX",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "binance.cc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:binance.cc",
+    "source": {
+      "list": "BINANCE",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "binance.charity",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:binance.charity",
+    "source": {
+      "list": "BINANCE",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "binance.cloud",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:binance.cloud",
+    "source": {
+      "list": "BINANCE",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "binance.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:binance.co",
+    "source": {
+      "list": "BINANCE",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "binance.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:binance.com",
+    "source": {
+      "list": "BINANCE",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "binance.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:binance.info",
+    "source": {
+      "list": "BINANCE",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "binance.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:binance.me",
+    "source": {
+      "list": "BINANCE",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "binance.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:binance.net",
+    "source": {
+      "list": "BINANCE",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "binance.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:binance.org",
+    "source": {
+      "list": "BINANCE",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "binance.us",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:binance.us",
+    "source": {
+      "list": "BINANCE",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "binance.vision",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:binance.vision",
+    "source": {
+      "list": "BINANCE",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "binanceapi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:binanceapi.com",
+    "source": {
+      "list": "BINANCE",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "binancecnt.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:binancecnt.com",
+    "source": {
+      "list": "BINANCE",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "binanceru.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:binanceru.net",
+    "source": {
+      "list": "BINANCE",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "binancezh.be",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:binancezh.be",
+    "source": {
+      "list": "BINANCE",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "binancezh.biz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:binancezh.biz",
+    "source": {
+      "list": "BINANCE",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "binancezh.cc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:binancezh.cc",
+    "source": {
+      "list": "BINANCE",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "binancezh.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:binancezh.co",
+    "source": {
+      "list": "BINANCE",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "binancezh.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:binancezh.com",
+    "source": {
+      "list": "BINANCE",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "binancezh.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:binancezh.info",
+    "source": {
+      "list": "BINANCE",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "binancezh.ink",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:binancezh.ink",
+    "source": {
+      "list": "BINANCE",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "binancezh.kim",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:binancezh.kim",
+    "source": {
+      "list": "BINANCE",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "binancezh.link",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:binancezh.link",
+    "source": {
+      "list": "BINANCE",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "binancezh.live",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:binancezh.live",
+    "source": {
+      "list": "BINANCE",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "binancezh.mobi",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:binancezh.mobi",
+    "source": {
+      "list": "BINANCE",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "binancezh.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:binancezh.net",
+    "source": {
+      "list": "BINANCE",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "binancezh.pro",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:binancezh.pro",
+    "source": {
+      "list": "BINANCE",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "binancezh.sh",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:binancezh.sh",
+    "source": {
+      "list": "BINANCE",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "binancezh.top",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:binancezh.top",
+    "source": {
+      "list": "BINANCE",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bingx.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bingx.com",
+    "source": {
+      "list": "CATEGORY-CRYPTOCURRENCY",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bisq.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bisq.io",
+    "source": {
+      "list": "BITSQUARE",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bisq.network",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bisq.network",
+    "source": {
+      "list": "BITSQUARE",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bitbank.cc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bitbank.cc",
+    "source": {
+      "list": "CATEGORY-CRYPTOCURRENCY",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bitcoin.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bitcoin.org",
+    "source": {
+      "list": "CATEGORY-CRYPTOCURRENCY",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bitcoincore.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bitcoincore.org",
+    "source": {
+      "list": "CATEGORY-CRYPTOCURRENCY",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bitfinex.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bitfinex.com",
+    "source": {
+      "list": "CATEGORY-CRYPTOCURRENCY",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bitflyer.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bitflyer.com",
+    "source": {
+      "list": "BITFLYER",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bitflyer.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bitflyer.jp",
+    "source": {
+      "list": "BITFLYER",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bitget.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bitget.com",
+    "source": {
+      "list": "CATEGORY-CRYPTOCURRENCY",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bitmex.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bitmex.com",
+    "source": {
+      "list": "CATEGORY-CRYPTOCURRENCY",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bitquick.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bitquick.co",
+    "source": {
+      "list": "CATEGORY-CRYPTOCURRENCY",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bitsquare.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bitsquare.io",
+    "source": {
+      "list": "BITSQUARE",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bitstamp.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bitstamp.net",
+    "source": {
+      "list": "CATEGORY-CRYPTOCURRENCY",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bittrex.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bittrex.com",
+    "source": {
+      "list": "CATEGORY-CRYPTOCURRENCY",
+      "line": 37
+    }
+  },
+  {
+    "type": "domain",
+    "value": "blockchain.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:blockchain.com",
+    "source": {
+      "list": "CATEGORY-CRYPTOCURRENCY",
+      "line": 38
+    }
+  },
+  {
+    "type": "domain",
+    "value": "blockfrost.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:blockfrost.io",
+    "source": {
+      "list": "CATEGORY-CRYPTOCURRENCY",
+      "line": 39
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bnbstatic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bnbstatic.com",
+    "source": {
+      "list": "BINANCE",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bntrace.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bntrace.com",
+    "source": {
+      "list": "BINANCE",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bsappapi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bsappapi.com",
+    "source": {
+      "list": "BINANCE",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "btcbox.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:btcbox.co.jp",
+    "source": {
+      "list": "CATEGORY-CRYPTOCURRENCY",
+      "line": 40
+    }
+  },
+  {
+    "type": "domain",
+    "value": "byabcde.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:byabcde.com",
+    "source": {
+      "list": "BYBIT",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "byapis.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:byapis.com",
+    "source": {
+      "list": "BYBIT",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "byapps.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:byapps.net",
+    "source": {
+      "list": "BYBIT",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bybdc6.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bybdc6.com",
+    "source": {
+      "list": "BYBIT",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bybit-global.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bybit-global.com",
+    "source": {
+      "list": "BYBIT",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bybit.biz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bybit.biz",
+    "source": {
+      "list": "BYBIT",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bybit.cloud",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bybit.cloud",
+    "source": {
+      "list": "BYBIT",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bybit.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bybit.com",
+    "source": {
+      "list": "BYBIT",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bybitglobal.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bybitglobal.com",
+    "source": {
+      "list": "BYBIT",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bycbe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bycbe.com",
+    "source": {
+      "list": "BYBIT",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bycsi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bycsi.com",
+    "source": {
+      "list": "BYBIT",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "byd3c3.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:byd3c3.com",
+    "source": {
+      "list": "BYBIT",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bymj.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bymj.io",
+    "source": {
+      "list": "BYBIT",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bytick.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bytick.com",
+    "source": {
+      "list": "BYBIT",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cex.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cex.io",
+    "source": {
+      "list": "CATEGORY-CRYPTOCURRENCY",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "clearpool.finance",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:clearpool.finance",
+    "source": {
+      "list": "CATEGORY-CRYPTOCURRENCY",
+      "line": 42
+    }
+  },
+  {
+    "type": "domain",
+    "value": "coinalyze.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:coinalyze.net",
+    "source": {
+      "list": "CATEGORY-CRYPTOCURRENCY",
+      "line": 43
+    }
+  },
+  {
+    "type": "domain",
+    "value": "coinbase.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:coinbase.com",
+    "source": {
+      "list": "CATEGORY-CRYPTOCURRENCY",
+      "line": 44
+    }
+  },
+  {
+    "type": "domain",
+    "value": "coindesk.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:coindesk.com",
+    "source": {
+      "list": "CATEGORY-CRYPTOCURRENCY",
+      "line": 45
+    }
+  },
+  {
+    "type": "domain",
+    "value": "coingecko.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:coingecko.com",
+    "source": {
+      "list": "CATEGORY-CRYPTOCURRENCY",
+      "line": 46
+    }
+  },
+  {
+    "type": "domain",
+    "value": "coinglass.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:coinglass.com",
+    "source": {
+      "list": "CATEGORY-CRYPTOCURRENCY",
+      "line": 47
+    }
+  },
+  {
+    "type": "domain",
+    "value": "coinmap.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:coinmap.org",
+    "source": {
+      "list": "CATEGORY-CRYPTOCURRENCY",
+      "line": 48
+    }
+  },
+  {
+    "type": "domain",
+    "value": "coinmarketcap.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:coinmarketcap.com",
+    "source": {
+      "list": "CATEGORY-CRYPTOCURRENCY",
+      "line": 49
+    }
+  },
+  {
+    "type": "domain",
+    "value": "coinone.co.kr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:coinone.co.kr",
+    "source": {
+      "list": "COINONE",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "coinonecore.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:coinonecore.com",
+    "source": {
+      "list": "COINONE",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "coinonecorp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:coinonecorp.com",
+    "source": {
+      "list": "COINONE",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "crypto.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:crypto.com",
+    "source": {
+      "list": "CATEGORY-CRYPTOCURRENCY",
+      "line": 50
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cryptocompare.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cryptocompare.com",
+    "source": {
+      "list": "CATEGORY-CRYPTOCURRENCY",
+      "line": 51
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cryptomus.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cryptomus.com",
+    "source": {
+      "list": "CATEGORY-CRYPTOCURRENCY",
+      "line": 52
+    }
+  },
+  {
+    "type": "domain",
+    "value": "curve.fi",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:curve.fi",
+    "source": {
+      "list": "CATEGORY-CRYPTOCURRENCY",
+      "line": 53
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cyberx.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cyberx.com",
+    "source": {
+      "list": "CATEGORY-CRYPTOCURRENCY",
+      "line": 54
+    }
+  },
+  {
+    "type": "domain",
+    "value": "debank.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:debank.com",
+    "source": {
+      "list": "CATEGORY-CRYPTOCURRENCY",
+      "line": 55
+    }
+  },
+  {
+    "type": "domain",
+    "value": "deribit.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:deribit.com",
+    "source": {
+      "list": "DERIBIT",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "devcon.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:devcon.org",
+    "source": {
+      "list": "ETHEREUM",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dogecoin.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dogecoin.com",
+    "source": {
+      "list": "CATEGORY-CRYPTOCURRENCY",
+      "line": 56
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dydx.exchange",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dydx.exchange",
+    "source": {
+      "list": "CATEGORY-CRYPTOCURRENCY",
+      "line": 57
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ethereum.foundation",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ethereum.foundation",
+    "source": {
+      "list": "ETHEREUM",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ethereum.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ethereum.org",
+    "source": {
+      "list": "ETHEREUM",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "etherscan.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:etherscan.io",
+    "source": {
+      "list": "ETHEREUM",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fundingrates.xyz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fundingrates.xyz",
+    "source": {
+      "list": "CATEGORY-CRYPTOCURRENCY",
+      "line": 58
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gate.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gate.io",
+    "source": {
+      "list": "GATEIO",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gatedata.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gatedata.org",
+    "source": {
+      "list": "GATEIO",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gateimg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gateimg.com",
+    "source": {
+      "list": "GATEIO",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gateio.live",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gateio.live",
+    "source": {
+      "list": "GATEIO",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gateio.services",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gateio.services",
+    "source": {
+      "list": "GATEIO",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gemini.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gemini.com",
+    "source": {
+      "list": "CATEGORY-CRYPTOCURRENCY",
+      "line": 59
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gmgn.ai",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gmgn.ai",
+    "source": {
+      "list": "CATEGORY-CRYPTOCURRENCY",
+      "line": 60
+    }
+  },
+  {
+    "type": "domain",
+    "value": "guardarian.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:guardarian.com",
+    "source": {
+      "list": "CATEGORY-CRYPTOCURRENCY",
+      "line": 61
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hashflow.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hashflow.com",
+    "source": {
+      "list": "CATEGORY-CRYPTOCURRENCY",
+      "line": 62
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hbabit.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hbabit.com",
+    "source": {
+      "list": "HUOBI",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hbfile.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hbfile.net",
+    "source": {
+      "list": "HUOBI",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "htx.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:htx.com",
+    "source": {
+      "list": "HUOBI",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "huobi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:huobi.com",
+    "source": {
+      "list": "HUOBI",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "huobi.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:huobi.me",
+    "source": {
+      "list": "HUOBI",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "huobi.pro",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:huobi.pro",
+    "source": {
+      "list": "HUOBI",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "huobi.sc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:huobi.sc",
+    "source": {
+      "list": "HUOBI",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "huobiasia.vip",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:huobiasia.vip",
+    "source": {
+      "list": "HUOBI",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "huobigroup.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:huobigroup.com",
+    "source": {
+      "list": "HUOBI",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "huobitoken.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:huobitoken.com",
+    "source": {
+      "list": "HUOBI",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "infura.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:infura.io",
+    "source": {
+      "list": "CATEGORY-CRYPTOCURRENCY",
+      "line": 63
+    }
+  },
+  {
+    "type": "domain",
+    "value": "invity.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:invity.io",
+    "source": {
+      "list": "CATEGORY-CRYPTOCURRENCY",
+      "line": 64
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kraken.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kraken.com",
+    "source": {
+      "list": "KRAKEN",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kraken.onl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kraken.onl",
+    "source": {
+      "list": "KRAKEN",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kucoin.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kucoin.com",
+    "source": {
+      "list": "KUCOIN",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kucoin.plus",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kucoin.plus",
+    "source": {
+      "list": "KUCOIN",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "localbitcoins.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:localbitcoins.com",
+    "source": {
+      "list": "LOCALBITCOINS",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "localbitcoinschain.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:localbitcoinschain.com",
+    "source": {
+      "list": "LOCALBITCOINS",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "maple.finance",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:maple.finance",
+    "source": {
+      "list": "CATEGORY-CRYPTOCURRENCY",
+      "line": 65
+    }
+  },
+  {
+    "type": "domain",
+    "value": "metalpha.finance",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:metalpha.finance",
+    "source": {
+      "list": "CATEGORY-CRYPTOCURRENCY",
+      "line": 66
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mexc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mexc.com",
+    "source": {
+      "list": "CATEGORY-CRYPTOCURRENCY",
+      "line": 67
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mexcsensors.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mexcsensors.com",
+    "source": {
+      "list": "CATEGORY-CRYPTOCURRENCY",
+      "line": 68
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mytokenapi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mytokenapi.com",
+    "source": {
+      "list": "CATEGORY-CRYPTOCURRENCY",
+      "line": 69
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nexo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nexo.com",
+    "source": {
+      "list": "NEXO",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nexo.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nexo.io",
+    "source": {
+      "list": "NEXO",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nftstatic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nftstatic.com",
+    "source": {
+      "list": "BINANCE",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "okex.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:okex.com",
+    "source": {
+      "list": "OKX",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oklink.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:oklink.com:@cn",
+    "source": {
+      "list": "OKX",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "okx-dns.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:okx-dns.com",
+    "source": {
+      "list": "OKX",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "okx-dns1.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:okx-dns1.com",
+    "source": {
+      "list": "OKX",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "okx-dns2.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:okx-dns2.com",
+    "source": {
+      "list": "OKX",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "okx.cab",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:okx.cab",
+    "source": {
+      "list": "OKX",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "okx.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:okx.com",
+    "source": {
+      "list": "OKX",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "okx.com.cdn.cloudflare.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:okx.com.cdn.cloudflare.net",
+    "source": {
+      "list": "OKX",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "onekey-asset.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:onekey-asset.com",
+    "source": {
+      "list": "ONEKEY",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "onekey.so",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:onekey.so",
+    "source": {
+      "list": "ONEKEY",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "onekeycn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:onekeycn.com",
+    "source": {
+      "list": "ONEKEY",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "opensea.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:opensea.io",
+    "source": {
+      "list": "CATEGORY-CRYPTOCURRENCY",
+      "line": 70
+    }
+  },
+  {
+    "type": "domain",
+    "value": "osl.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:osl.com",
+    "source": {
+      "list": "CATEGORY-CRYPTOCURRENCY",
+      "line": 71
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paxful.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paxful.com",
+    "source": {
+      "list": "CATEGORY-CRYPTOCURRENCY",
+      "line": 72
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pod-15-sunco-ws.zendesk.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pod-15-sunco-ws.zendesk.com",
+    "source": {
+      "list": "REDOTPAY",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "polymarket.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:polymarket.com",
+    "source": {
+      "list": "CATEGORY-CRYPTOCURRENCY",
+      "line": 73
+    }
+  },
+  {
+    "type": "domain",
+    "value": "redotpay.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:redotpay.com",
+    "source": {
+      "list": "REDOTPAY",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "redotpay.zendesk.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:redotpay.zendesk.com",
+    "source": {
+      "list": "REDOTPAY",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ripple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ripple.com",
+    "source": {
+      "list": "CATEGORY-CRYPTOCURRENCY",
+      "line": 74
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rp-static-apne1.s3.ap-northeast-1.amazonaws.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rp-static-apne1.s3.ap-northeast-1.amazonaws.com",
+    "source": {
+      "list": "REDOTPAY",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "saasexch.cc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:saasexch.cc",
+    "source": {
+      "list": "BINANCE",
+      "line": 39
+    }
+  },
+  {
+    "type": "domain",
+    "value": "saasexch.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:saasexch.co",
+    "source": {
+      "list": "BINANCE",
+      "line": 40
+    }
+  },
+  {
+    "type": "domain",
+    "value": "saasexch.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:saasexch.com",
+    "source": {
+      "list": "BINANCE",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "saasexch.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:saasexch.io",
+    "source": {
+      "list": "BINANCE",
+      "line": 42
+    }
+  },
+  {
+    "type": "domain",
+    "value": "satoshilabs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:satoshilabs.com",
+    "source": {
+      "list": "CATEGORY-CRYPTOCURRENCY",
+      "line": 75
+    }
+  },
+  {
+    "type": "domain",
+    "value": "stealthex.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:stealthex.io",
+    "source": {
+      "list": "CATEGORY-CRYPTOCURRENCY",
+      "line": 76
+    }
+  },
+  {
+    "type": "domain",
+    "value": "straitsx.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:straitsx.com",
+    "source": {
+      "list": "STRAITSX",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "theblock.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:theblock.co",
+    "source": {
+      "list": "CATEGORY-CRYPTOCURRENCY",
+      "line": 77
+    }
+  },
+  {
+    "type": "domain",
+    "value": "trezor.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:trezor.io",
+    "source": {
+      "list": "CATEGORY-CRYPTOCURRENCY",
+      "line": 78
+    }
+  },
+  {
+    "type": "domain",
+    "value": "truefi.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:truefi.io",
+    "source": {
+      "list": "CATEGORY-CRYPTOCURRENCY",
+      "line": 79
+    }
+  },
+  {
+    "type": "domain",
+    "value": "trustwallet.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:trustwallet.com",
+    "source": {
+      "list": "TRUSTWALLET",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "unisat.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:unisat.io",
+    "source": {
+      "list": "CATEGORY-CRYPTOCURRENCY",
+      "line": 80
+    }
+  },
+  {
+    "type": "domain",
+    "value": "uniswap.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:uniswap.org",
+    "source": {
+      "list": "CATEGORY-CRYPTOCURRENCY",
+      "line": 81
+    }
+  },
+  {
+    "type": "domain",
+    "value": "walletconnect.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:walletconnect.com",
+    "source": {
+      "list": "CATEGORY-CRYPTOCURRENCY",
+      "line": 82
+    }
+  },
+  {
+    "type": "domain",
+    "value": "walletconnect.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:walletconnect.org",
+    "source": {
+      "list": "CATEGORY-CRYPTOCURRENCY",
+      "line": 83
+    }
+  },
+  {
+    "type": "domain",
+    "value": "web3modal.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:web3modal.org",
+    "source": {
+      "list": "CATEGORY-CRYPTOCURRENCY",
+      "line": 84
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wintermute.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wintermute.com",
+    "source": {
+      "list": "CATEGORY-CRYPTOCURRENCY",
+      "line": 85
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wisecoin.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wisecoin.com",
+    "source": {
+      "list": "WISEKEY",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wiseid.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wiseid.com",
+    "source": {
+      "list": "WISEKEY",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wisekey.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wisekey.com",
+    "source": {
+      "list": "WISEKEY",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wisekey.com.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wisekey.com.hk",
+    "source": {
+      "list": "WISEKEY",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wynd.network",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wynd.network",
+    "source": {
+      "list": "WYND",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wyndlabs.ai",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wyndlabs.ai",
+    "source": {
+      "list": "WYND",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xhpjc6-cdn-settings.appsflyersdk.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xhpjc6-cdn-settings.appsflyersdk.com",
+    "source": {
+      "list": "REDOTPAY",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zapper.fi",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zapper.fi",
+    "source": {
+      "list": "CATEGORY-CRYPTOCURRENCY",
+      "line": 86
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zb.app",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zb.app",
+    "source": {
+      "list": "ZB",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zb.com",
+    "source": {
+      "list": "ZB",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zb.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zb.io",
+    "source": {
+      "list": "ZB",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zb.live",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zb.live",
+    "source": {
+      "list": "ZB",
+      "line": 4
+    }
+  },
+  {
+    "type": "full",
+    "value": "bybit-exchange.github.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:bybit-exchange.github.io",
+    "source": {
+      "list": "BYBIT",
+      "line": 16
+    }
+  },
+  {
+    "type": "full",
+    "value": "bybit.ada.support",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:bybit.ada.support",
+    "source": {
+      "list": "BYBIT",
+      "line": 17
+    }
+  },
+  {
+    "type": "full",
+    "value": "d3r7nsslvs6aaf.cloudfront.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:d3r7nsslvs6aaf.cloudfront.net",
+    "source": {
+      "list": "STRAITSX",
+      "line": 3
+    }
+  },
+  {
+    "type": "full",
+    "value": "deribit.cdn.prismic.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:deribit.cdn.prismic.io",
+    "source": {
+      "list": "DERIBIT",
+      "line": 3
+    }
+  },
+  {
+    "type": "full",
+    "value": "onekey.zendesk.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:onekey.zendesk.com",
+    "source": {
+      "list": "ONEKEY",
+      "line": 5
+    }
+  },
+  {
+    "type": "full",
+    "value": "straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com",
+    "source": {
+      "list": "STRAITSX",
+      "line": 4
+    }
+  }
+]

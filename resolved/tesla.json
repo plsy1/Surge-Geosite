@@ -1,0 +1,155 @@
+[
+  {
+    "type": "domain",
+    "value": "solarcity.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:solarcity.com",
+    "source": {
+      "list": "TESLA",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tesla.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:tesla.cn:@cn",
+    "source": {
+      "list": "TESLA",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tesla.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tesla.com",
+    "source": {
+      "list": "TESLA",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tesla.com.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:tesla.com.cn:@cn",
+    "source": {
+      "list": "TESLA",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tesla.services",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tesla.services",
+    "source": {
+      "list": "TESLA",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "teslaenergy.services",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:teslaenergy.services",
+    "source": {
+      "list": "TESLA",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "teslamotors.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:teslamotors.cn:@cn",
+    "source": {
+      "list": "TESLA",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "teslamotors.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:teslamotors.com",
+    "source": {
+      "list": "TESLA",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "teslamotors.com.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:teslamotors.com.cn:@cn",
+    "source": {
+      "list": "TESLA",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "teslazta.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:teslazta.net",
+    "source": {
+      "list": "TESLA",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ts.la",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ts.la",
+    "source": {
+      "list": "TESLA",
+      "line": 11
+    }
+  },
+  {
+    "type": "full",
+    "value": "tesla-cdn.thron.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:tesla-cdn.thron.cn:@cn",
+    "source": {
+      "list": "TESLA",
+      "line": 13
+    }
+  },
+  {
+    "type": "full",
+    "value": "tesla-cdn.thron.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:tesla-cdn.thron.com",
+    "source": {
+      "list": "TESLA",
+      "line": 14
+    }
+  }
+]

@@ -1,0 +1,59 @@
+{
+  "name": "SBER",
+  "source": {
+    "domain": 73,
+    "full": 6,
+    "keyword": 0,
+    "regexp": 0,
+    "include": 2,
+    "affiliations": 0,
+    "attributes": 9
+  },
+  "resolved": {
+    "rules": 97,
+    "domain": 91,
+    "full": 6,
+    "keyword": 0,
+    "regexp": 0
+  },
+  "filters": {
+    "attrs": {
+      "ads": 9
+    }
+  },
+  "modes": {
+    "strict": {
+      "rules": 97,
+      "bytes": 2594,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "balanced": {
+      "rules": 97,
+      "bytes": 2594,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "full": {
+      "rules": 97,
+      "bytes": 2594,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "name": "OPPO",
+  "source": {
+    "domain": 34,
+    "full": 0,
+    "keyword": 0,
+    "regexp": 0,
+    "include": 1,
+    "affiliations": 0,
+    "attributes": 0
+  },
+  "resolved": {
+    "rules": 42,
+    "domain": 41,
+    "full": 1,
+    "keyword": 0,
+    "regexp": 0
+  },
+  "filters": {
+    "attrs": {
+      "!cn": 1
+    }
+  },
+  "modes": {
+    "strict": {
+      "rules": 42,
+      "bytes": 1138,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "balanced": {
+      "rules": 42,
+      "bytes": 1138,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "full": {
+      "rules": 42,
+      "bytes": 1138,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    }
+  }
+}

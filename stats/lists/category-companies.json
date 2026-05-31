@@ -1,0 +1,116 @@
+{
+  "name": "CATEGORY-COMPANIES",
+  "source": {
+    "domain": 4,
+    "full": 0,
+    "keyword": 0,
+    "regexp": 0,
+    "include": 113,
+    "affiliations": 0,
+    "attributes": 1
+  },
+  "resolved": {
+    "rules": 8160,
+    "domain": 7518,
+    "full": 636,
+    "keyword": 0,
+    "regexp": 6
+  },
+  "filters": {
+    "attrs": {
+      "cn": 833,
+      "ads": 227,
+      "!cn": 15
+    }
+  },
+  "modes": {
+    "strict": {
+      "rules": 8154,
+      "bytes": 238609,
+      "regex": {
+        "total": 6,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 6
+      },
+      "unsupported": [
+        {
+          "pattern": ".+\\.awsdns-[0-9][0-9]\\.(co\\.uk|com|net|org)$",
+          "source": {
+            "list": "AWS",
+            "line": 58
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": ".+\\.awsdns-cn-[0-9][0-9]\\.(biz|com|net|top)$",
+          "source": {
+            "list": "AWS-CN",
+            "line": 31
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": ".+\\.awsdns-cn-[0-9][a-e0-9]\\.cn$",
+          "source": {
+            "list": "AWS-CN",
+            "line": 32
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "^ewcdn[0-9]+\\.nowe\\.com$",
+          "source": {
+            "list": "VIU",
+            "line": 4
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "^r+[0-9]+(---|\\.)sn-(2x3|ni5|j5o)\\w{5}\\.googlevideo\\.com$",
+          "source": {
+            "list": "GOOGLE-PLAY",
+            "line": 14
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "^r+[0-9]+(---|\\.)sn-(2x3|ni5|j5o)\\w{5}\\.xn--ngstr-lra8j\\.com$",
+          "source": {
+            "list": "GOOGLE-PLAY",
+            "line": 12
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        }
+      ]
+    },
+    "balanced": {
+      "rules": 8160,
+      "bytes": 238817,
+      "regex": {
+        "total": 6,
+        "lossless": 0,
+        "widened": 6,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "full": {
+      "rules": 8160,
+      "bytes": 238817,
+      "regex": {
+        "total": 6,
+        "lossless": 0,
+        "widened": 6,
+        "unsupported": 0
+      },
+      "unsupported": []
+    }
+  }
+}

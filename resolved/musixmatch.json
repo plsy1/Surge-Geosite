@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "musixmatch.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:musixmatch.com",
+    "source": {
+      "list": "MUSIXMATCH",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mxmcdn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mxmcdn.net",
+    "source": {
+      "list": "MUSIXMATCH",
+      "line": 2
+    }
+  }
+]

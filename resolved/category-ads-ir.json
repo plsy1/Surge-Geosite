@@ -1,0 +1,79 @@
+[
+  {
+    "type": "domain",
+    "value": "adivery.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:adivery.com",
+    "source": {
+      "list": "CATEGORY-ADS-IR",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adivery.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:adivery.ir",
+    "source": {
+      "list": "CATEGORY-ADS-IR",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kaprila.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kaprila.com",
+    "source": {
+      "list": "CATEGORY-ADS-IR",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "najva.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:najva.com",
+    "source": {
+      "list": "CATEGORY-ADS-IR",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sabavision.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sabavision.com",
+    "source": {
+      "list": "CATEGORY-ADS-IR",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tapsell.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tapsell.ir",
+    "source": {
+      "list": "CATEGORY-ADS-IR",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yektanet.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yektanet.com",
+    "source": {
+      "list": "CATEGORY-ADS-IR",
+      "line": 9
+    }
+  }
+]

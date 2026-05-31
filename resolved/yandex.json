@@ -1,0 +1,1492 @@
+[
+  {
+    "type": "domain",
+    "value": "adfox.ru",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:adfox.ru:@ads",
+    "source": {
+      "list": "YANDEX",
+      "line": 95
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adfox.yandex.ru",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:adfox.yandex.ru:@ads",
+    "source": {
+      "list": "YANDEX",
+      "line": 96
+    }
+  },
+  {
+    "type": "domain",
+    "value": "admetrica.ru",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:admetrica.ru:@ads",
+    "source": {
+      "list": "YANDEX",
+      "line": 97
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ads.yandex",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:ads.yandex:@ads",
+    "source": {
+      "list": "YANDEX",
+      "line": 98
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ads.yandex.ru",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:ads.yandex.ru:@ads",
+    "source": {
+      "list": "YANDEX",
+      "line": 99
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adv.yandex.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:adv.yandex.com:@ads",
+    "source": {
+      "list": "YANDEX",
+      "line": 100
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adv.yandex.ru",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:adv.yandex.ru:@ads",
+    "source": {
+      "list": "YANDEX",
+      "line": 101
+    }
+  },
+  {
+    "type": "domain",
+    "value": "an.yandex.ru",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:an.yandex.ru:@ads",
+    "source": {
+      "list": "YANDEX",
+      "line": 102
+    }
+  },
+  {
+    "type": "domain",
+    "value": "appmetrica.yandex.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:appmetrica.yandex.com:@ads",
+    "source": {
+      "list": "YANDEX",
+      "line": 103
+    }
+  },
+  {
+    "type": "domain",
+    "value": "appmetrica.yandex.net",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:appmetrica.yandex.net:@ads",
+    "source": {
+      "list": "YANDEX",
+      "line": 104
+    }
+  },
+  {
+    "type": "domain",
+    "value": "appmetrica.yandex.ru",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:appmetrica.yandex.ru:@ads",
+    "source": {
+      "list": "YANDEX",
+      "line": 105
+    }
+  },
+  {
+    "type": "domain",
+    "value": "appmetrica.yango.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:appmetrica.yango.com:@ads",
+    "source": {
+      "list": "YANDEX",
+      "line": 106
+    }
+  },
+  {
+    "type": "domain",
+    "value": "berizaryad.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:berizaryad.ru",
+    "source": {
+      "list": "YANDEX",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bs.yandex.ru",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:bs.yandex.ru:@ads",
+    "source": {
+      "list": "YANDEX",
+      "line": 107
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cabconnect.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cabconnect.org",
+    "source": {
+      "list": "YANDEX",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "clck.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:clck.ru",
+    "source": {
+      "list": "YANDEX",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "clck.yandex.ru",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:clck.yandex.ru:@ads",
+    "source": {
+      "list": "YANDEX",
+      "line": 108
+    }
+  },
+  {
+    "type": "domain",
+    "value": "clstorage.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:clstorage.net",
+    "source": {
+      "list": "YANDEX",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "counter.yandex.ru",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:counter.yandex.ru:@ads",
+    "source": {
+      "list": "YANDEX",
+      "line": 109
+    }
+  },
+  {
+    "type": "domain",
+    "value": "driveawaytaxi.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:driveawaytaxi.org",
+    "source": {
+      "list": "YANDEX",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "elama.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:elama.ru",
+    "source": {
+      "list": "YANDEX",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gogettaxi.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gogettaxi.org",
+    "source": {
+      "list": "YANDEX",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "goup.ai",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:goup.ai",
+    "source": {
+      "list": "YANDEX",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hayya.ae",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hayya.ae",
+    "source": {
+      "list": "YANDEX",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kinopoisk.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kinopoisk.ru",
+    "source": {
+      "list": "KINOPOISK",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mc.yandex.ru",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:mc.yandex.ru:@ads",
+    "source": {
+      "list": "YANDEX",
+      "line": 110
+    }
+  },
+  {
+    "type": "domain",
+    "value": "meteum.ai",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:meteum.ai",
+    "source": {
+      "list": "YANDEX",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "metrika.yandex.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:metrika.yandex.com:@ads",
+    "source": {
+      "list": "YANDEX",
+      "line": 111
+    }
+  },
+  {
+    "type": "domain",
+    "value": "metrika.yandex.net",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:metrika.yandex.net:@ads",
+    "source": {
+      "list": "YANDEX",
+      "line": 112
+    }
+  },
+  {
+    "type": "domain",
+    "value": "metrika.yandex.ru",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:metrika.yandex.ru:@ads",
+    "source": {
+      "list": "YANDEX",
+      "line": 113
+    }
+  },
+  {
+    "type": "domain",
+    "value": "my-manager-account.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:my-manager-account.com",
+    "source": {
+      "list": "YANDEX",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "naydex.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:naydex.net",
+    "source": {
+      "list": "YANDEX",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rostaxi.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rostaxi.org",
+    "source": {
+      "list": "YANDEX",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "shedevrum.ai",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:shedevrum.ai",
+    "source": {
+      "list": "YANDEX",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sourcecraft.dev",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sourcecraft.dev",
+    "source": {
+      "list": "YANDEX",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "static-storage.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:static-storage.net",
+    "source": {
+      "list": "YANDEX",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "support-uber.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:support-uber.com",
+    "source": {
+      "list": "YANDEX",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "taxiaid.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:taxiaid.org",
+    "source": {
+      "list": "YANDEX",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "taxiguru.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:taxiguru.org",
+    "source": {
+      "list": "YANDEX",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "taxitax.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:taxitax.org",
+    "source": {
+      "list": "YANDEX",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "turbopages.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:turbopages.org",
+    "source": {
+      "list": "YANDEX",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "webvisor.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:webvisor.com:@ads",
+    "source": {
+      "list": "YANDEX",
+      "line": 114
+    }
+  },
+  {
+    "type": "domain",
+    "value": "webvisor.org",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:webvisor.org:@ads",
+    "source": {
+      "list": "YANDEX",
+      "line": 115
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--d1acpjx3f.xn--p1ai",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--d1acpjx3f.xn--p1ai",
+    "source": {
+      "list": "YANDEX",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ya.cc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ya.cc",
+    "source": {
+      "list": "YANDEX",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ya.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ya.ru",
+    "source": {
+      "list": "YANDEX",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yabs.yandex.ru",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:yabs.yandex.ru:@ads",
+    "source": {
+      "list": "YANDEX",
+      "line": 116
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yads.tech",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:yads.tech:@ads",
+    "source": {
+      "list": "YANDEX",
+      "line": 117
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yandex",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yandex",
+    "source": {
+      "list": "YANDEX",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yandex-bank.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yandex-bank.net",
+    "source": {
+      "list": "YANDEX",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yandex-metrica.ru",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:yandex-metrica.ru:@ads",
+    "source": {
+      "list": "YANDEX",
+      "line": 118
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yandex-team.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yandex-team.ru",
+    "source": {
+      "list": "YANDEX",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yandex.aero",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yandex.aero",
+    "source": {
+      "list": "YANDEX",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yandex.asia",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yandex.asia",
+    "source": {
+      "list": "YANDEX",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yandex.az",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yandex.az",
+    "source": {
+      "list": "YANDEX",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yandex.by",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yandex.by",
+    "source": {
+      "list": "YANDEX",
+      "line": 37
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yandex.cloud",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yandex.cloud",
+    "source": {
+      "list": "YANDEX",
+      "line": 38
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yandex.co.il",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yandex.co.il",
+    "source": {
+      "list": "YANDEX",
+      "line": 39
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yandex.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yandex.com",
+    "source": {
+      "list": "YANDEX",
+      "line": 40
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yandex.com.am",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yandex.com.am",
+    "source": {
+      "list": "YANDEX",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yandex.com.ge",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yandex.com.ge",
+    "source": {
+      "list": "YANDEX",
+      "line": 42
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yandex.com.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yandex.com.ru",
+    "source": {
+      "list": "YANDEX",
+      "line": 43
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yandex.com.tr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yandex.com.tr",
+    "source": {
+      "list": "YANDEX",
+      "line": 44
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yandex.com.ua",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yandex.com.ua",
+    "source": {
+      "list": "YANDEX",
+      "line": 45
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yandex.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yandex.de",
+    "source": {
+      "list": "YANDEX",
+      "line": 46
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yandex.ee",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yandex.ee",
+    "source": {
+      "list": "YANDEX",
+      "line": 47
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yandex.eu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yandex.eu",
+    "source": {
+      "list": "YANDEX",
+      "line": 48
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yandex.fi",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yandex.fi",
+    "source": {
+      "list": "YANDEX",
+      "line": 49
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yandex.fr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yandex.fr",
+    "source": {
+      "list": "YANDEX",
+      "line": 50
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yandex.jobs",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yandex.jobs",
+    "source": {
+      "list": "YANDEX",
+      "line": 51
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yandex.kg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yandex.kg",
+    "source": {
+      "list": "YANDEX",
+      "line": 52
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yandex.kz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yandex.kz",
+    "source": {
+      "list": "YANDEX",
+      "line": 53
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yandex.lt",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yandex.lt",
+    "source": {
+      "list": "YANDEX",
+      "line": 54
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yandex.lv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yandex.lv",
+    "source": {
+      "list": "YANDEX",
+      "line": 55
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yandex.md",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yandex.md",
+    "source": {
+      "list": "YANDEX",
+      "line": 56
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yandex.mobi",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yandex.mobi",
+    "source": {
+      "list": "YANDEX",
+      "line": 57
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yandex.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yandex.net",
+    "source": {
+      "list": "YANDEX",
+      "line": 58
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yandex.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yandex.org",
+    "source": {
+      "list": "YANDEX",
+      "line": 59
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yandex.pl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yandex.pl",
+    "source": {
+      "list": "YANDEX",
+      "line": 60
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yandex.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yandex.ru",
+    "source": {
+      "list": "YANDEX",
+      "line": 61
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yandex.st",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yandex.st",
+    "source": {
+      "list": "YANDEX",
+      "line": 62
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yandex.sx",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yandex.sx",
+    "source": {
+      "list": "YANDEX",
+      "line": 63
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yandex.tj",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yandex.tj",
+    "source": {
+      "list": "YANDEX",
+      "line": 64
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yandex.tm",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yandex.tm",
+    "source": {
+      "list": "YANDEX",
+      "line": 65
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yandex.tr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yandex.tr",
+    "source": {
+      "list": "YANDEX",
+      "line": 66
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yandex.ua",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yandex.ua",
+    "source": {
+      "list": "YANDEX",
+      "line": 67
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yandex.uz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yandex.uz",
+    "source": {
+      "list": "YANDEX",
+      "line": 68
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yandexadexchange.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yandexadexchange.net",
+    "source": {
+      "list": "YANDEX",
+      "line": 69
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yandexcloud.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yandexcloud.net",
+    "source": {
+      "list": "YANDEX",
+      "line": 70
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yandexcom.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yandexcom.net",
+    "source": {
+      "list": "YANDEX",
+      "line": 71
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yandexgo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yandexgo.com",
+    "source": {
+      "list": "YANDEX",
+      "line": 72
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yandexlyceum.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yandexlyceum.ru",
+    "source": {
+      "list": "YANDEX",
+      "line": 73
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yandexmetrica.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:yandexmetrica.com:@ads",
+    "source": {
+      "list": "YANDEX",
+      "line": 119
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yandexwebcache.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yandexwebcache.net",
+    "source": {
+      "list": "YANDEX",
+      "line": 74
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yandexwebcache.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yandexwebcache.org",
+    "source": {
+      "list": "YANDEX",
+      "line": 75
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yango-ads.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:yango-ads.com:@ads",
+    "source": {
+      "list": "YANDEX",
+      "line": 120
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yango-b2b.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yango-b2b.com",
+    "source": {
+      "list": "YANDEX",
+      "line": 76
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yango-team.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yango-team.com",
+    "source": {
+      "list": "YANDEX",
+      "line": 77
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yango-tech.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yango-tech.com",
+    "source": {
+      "list": "YANDEX",
+      "line": 78
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yango.africa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yango.africa",
+    "source": {
+      "list": "YANDEX",
+      "line": 79
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yango.ao",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yango.ao",
+    "source": {
+      "list": "YANDEX",
+      "line": 80
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yango.bh",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yango.bh",
+    "source": {
+      "list": "YANDEX",
+      "line": 81
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yango.co.il",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yango.co.il",
+    "source": {
+      "list": "YANDEX",
+      "line": 82
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yango.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yango.com",
+    "source": {
+      "list": "YANDEX",
+      "line": 83
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yango.fi",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yango.fi",
+    "source": {
+      "list": "YANDEX",
+      "line": 84
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yango.qa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yango.qa",
+    "source": {
+      "list": "YANDEX",
+      "line": 85
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yango.taxi",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yango.taxi",
+    "source": {
+      "list": "YANDEX",
+      "line": 86
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yango.tech",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yango.tech",
+    "source": {
+      "list": "YANDEX",
+      "line": 87
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yangofellowship.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yangofellowship.com",
+    "source": {
+      "list": "YANDEX",
+      "line": 88
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yastat.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yastat.net",
+    "source": {
+      "list": "YANDEX",
+      "line": 89
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yastatic-net.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yastatic-net.ru",
+    "source": {
+      "list": "YANDEX",
+      "line": 90
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yastatic.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yastatic.net",
+    "source": {
+      "list": "YANDEX",
+      "line": 91
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yccdn.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yccdn.ru",
+    "source": {
+      "list": "YANDEX",
+      "line": 92
+    }
+  },
+  {
+    "type": "full",
+    "value": "adfstat.yandex.ru",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:adfstat.yandex.ru:@ads",
+    "source": {
+      "list": "YANDEX",
+      "line": 121
+    }
+  },
+  {
+    "type": "full",
+    "value": "ads.yandex.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:ads.yandex.com:@ads",
+    "source": {
+      "list": "YANDEX",
+      "line": 122
+    }
+  },
+  {
+    "type": "full",
+    "value": "ads.yango.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:ads.yango.com:@ads",
+    "source": {
+      "list": "YANDEX",
+      "line": 123
+    }
+  },
+  {
+    "type": "full",
+    "value": "adsdk.yandex.ru",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:adsdk.yandex.ru:@ads",
+    "source": {
+      "list": "YANDEX",
+      "line": 124
+    }
+  },
+  {
+    "type": "full",
+    "value": "amc.yandex.ru",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:amc.yandex.ru:@ads",
+    "source": {
+      "list": "YANDEX",
+      "line": 125
+    }
+  },
+  {
+    "type": "full",
+    "value": "analytics.mobile.yandex.net",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:analytics.mobile.yandex.net:@ads",
+    "source": {
+      "list": "YANDEX",
+      "line": 126
+    }
+  },
+  {
+    "type": "full",
+    "value": "clck.yandex.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:clck.yandex.com:@ads",
+    "source": {
+      "list": "YANDEX",
+      "line": 127
+    }
+  },
+  {
+    "type": "full",
+    "value": "clck.yandex.net",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:clck.yandex.net:@ads",
+    "source": {
+      "list": "YANDEX",
+      "line": 128
+    }
+  },
+  {
+    "type": "full",
+    "value": "clck.yango.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:clck.yango.com:@ads",
+    "source": {
+      "list": "YANDEX",
+      "line": 129
+    }
+  },
+  {
+    "type": "full",
+    "value": "informer.yandex.ru",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:informer.yandex.ru:@ads",
+    "source": {
+      "list": "YANDEX",
+      "line": 130
+    }
+  },
+  {
+    "type": "full",
+    "value": "mc.yandex.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:mc.yandex.com:@ads",
+    "source": {
+      "list": "YANDEX",
+      "line": 131
+    }
+  },
+  {
+    "type": "full",
+    "value": "mc.yandex.net",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:mc.yandex.net:@ads",
+    "source": {
+      "list": "YANDEX",
+      "line": 132
+    }
+  },
+  {
+    "type": "full",
+    "value": "mc.yango.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:mc.yango.com:@ads",
+    "source": {
+      "list": "YANDEX",
+      "line": 133
+    }
+  },
+  {
+    "type": "full",
+    "value": "pixel.yandex.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:pixel.yandex.com:@ads",
+    "source": {
+      "list": "YANDEX",
+      "line": 134
+    }
+  },
+  {
+    "type": "full",
+    "value": "report.ap.yandex-net.ru",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:report.ap.yandex-net.ru:@ads",
+    "source": {
+      "list": "YANDEX",
+      "line": 135
+    }
+  }
+]

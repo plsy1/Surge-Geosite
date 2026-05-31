@@ -1,0 +1,6088 @@
+[
+  {
+    "type": "domain",
+    "value": "aboutfacebook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aboutfacebook.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "accessfacebookfromschool.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:accessfacebookfromschool.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "accountkit.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:accountkit.com",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "acebooik.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:acebooik.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "acebook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:acebook.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "achat-followers-instagram.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:achat-followers-instagram.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "acheter-followers-instagram.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:acheter-followers-instagram.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "acheterdesfollowersinstagram.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:acheterdesfollowersinstagram.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "acheterfollowersinstagram.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:acheterfollowersinstagram.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "advancediddetection.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:advancediddetection.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "analytics.facebook.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:analytics.facebook.com:@ads",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 400
+    }
+  },
+  {
+    "type": "domain",
+    "value": "askfacebook.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:askfacebook.net",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "askfacebook.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:askfacebook.org",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "atdmt2.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:atdmt2.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "atlasdmt.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:atlasdmt.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "atlasonepoint.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:atlasonepoint.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "atscaleconference.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:atscaleconference.com",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "binoculus.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:binoculus.com",
+    "source": {
+      "list": "OCULUS",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bookstagram.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bookstagram.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "botorch.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:botorch.org",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "buck.build",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:buck.build",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "buckbuild.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:buckbuild.com",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "buyingfacebooklikes.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:buyingfacebooklikes.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "buyoculus.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:buyoculus.com",
+    "source": {
+      "list": "OCULUS",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "careersatfb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:careersatfb.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "carstagram.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:carstagram.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdninstagram.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdninstagram.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "celebgramme.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:celebgramme.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "chickstagram.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:chickstagram.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "china-facebook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:china-facebook.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "click-url.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:click-url.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "como-hackearfacebook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:como-hackearfacebook.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "componentkit.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:componentkit.org",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "crowdtangle.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:crowdtangle.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dacebook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dacebook.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dlfacebook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dlfacebook.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dotfacebook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dotfacebook.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dotfacebook.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dotfacebook.net",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "draftjs.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:draftjs.org",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "expresswifi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:expresswifi.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "f8.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:f8.com",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "faacebok.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:faacebok.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "faacebook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:faacebook.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "faasbook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:faasbook.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facbebook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facbebook.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facbeok.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facbeok.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facboo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facboo.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facbook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facbook.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facbool.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facbool.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facboox.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facboox.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "faccebook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:faccebook.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "faccebookk.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:faccebookk.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facdbook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facdbook.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facdebook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facdebook.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "face-book.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:face-book.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "faceabook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:faceabook.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 37
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebboc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebboc.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 38
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebbook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebbook.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 39
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebboook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebboook.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 40
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebcook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebcook.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebdok.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebdok.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 42
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebgook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebgook.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 43
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebhook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebhook.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 44
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebkkk.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebkkk.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 45
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebo-ok.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebo-ok.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 46
+    }
+  },
+  {
+    "type": "domain",
+    "value": "faceboak.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:faceboak.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 47
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebock.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebock.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 48
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebocke.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebocke.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 49
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebof.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebof.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 50
+    }
+  },
+  {
+    "type": "domain",
+    "value": "faceboik.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:faceboik.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 51
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebok.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebok.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 52
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebokbook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebokbook.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 53
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebokc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebokc.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 54
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebokk.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebokk.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 55
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebokok.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebokok.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 56
+    }
+  },
+  {
+    "type": "domain",
+    "value": "faceboks.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:faceboks.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 57
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebol.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebol.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 58
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebolk.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebolk.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 59
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebomok.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebomok.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 60
+    }
+  },
+  {
+    "type": "domain",
+    "value": "faceboo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:faceboo.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 61
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebooa.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebooa.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 62
+    }
+  },
+  {
+    "type": "domain",
+    "value": "faceboob.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:faceboob.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 63
+    }
+  },
+  {
+    "type": "domain",
+    "value": "faceboobok.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:faceboobok.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 64
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebooc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebooc.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 65
+    }
+  },
+  {
+    "type": "domain",
+    "value": "faceboock.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:faceboock.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 66
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebood.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebood.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 67
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebooe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebooe.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 68
+    }
+  },
+  {
+    "type": "domain",
+    "value": "faceboof.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:faceboof.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 69
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebooi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebooi.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 70
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebooik.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebooik.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 71
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebooik.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebooik.org",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 72
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebooj.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebooj.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 73
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebook-corp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebook-corp.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 74
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebook-covid-19.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebook-covid-19.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 75
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebook-ebook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebook-ebook.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 76
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebook-forum.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebook-forum.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 77
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebook-hardware.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebook-hardware.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 78
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebook-inc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebook-inc.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 79
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebook-login.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebook-login.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 80
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebook-newsroom.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebook-newsroom.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 81
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebook-newsroom.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebook-newsroom.org",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 82
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebook-pmdcenter.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebook-pmdcenter.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 83
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebook-pmdcenter.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebook-pmdcenter.net",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 84
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebook-pmdcenter.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebook-pmdcenter.org",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 85
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebook-privacy.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebook-privacy.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 86
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebook-program.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebook-program.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 87
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebook-studio.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebook-studio.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 88
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebook-support.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebook-support.org",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 89
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebook-texas-holdem.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebook-texas-holdem.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 90
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebook-texas-holdem.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebook-texas-holdem.net",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 91
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebook.br",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebook.br",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 92
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebook.ca",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebook.ca",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 93
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebook.cc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebook.cc",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 94
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebook.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 95
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebook.design",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebook.design",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 96
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebook.hu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebook.hu",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 98
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebook.in",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebook.in",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 99
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebook.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebook.net",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 97
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebook.nl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebook.nl",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 101
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebook.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebook.org",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 102
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebook.se",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebook.se",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 103
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebook.shop",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebook.shop",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 104
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebook.tv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebook.tv",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 105
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebook.us",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebook.us",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 106
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebook.wang",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebook.wang",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 107
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebook123.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebook123.org",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 108
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebook30.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebook30.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 109
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebook30.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebook30.net",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 110
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebook30.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebook30.org",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 111
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebook4business.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebook4business.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 112
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebookads.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:facebookads.com:@ads",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 401
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebookadvertisingsecrets.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebookadvertisingsecrets.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 113
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebookappcenter.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebookappcenter.info",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebookappcenter.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebookappcenter.net",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebookappcenter.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebookappcenter.org",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebookatschool.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebookatschool.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 114
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebookawards.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebookawards.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 115
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebookblueprint.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebookblueprint.net",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 116
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebookbrand.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebookbrand.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 117
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebookbrand.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebookbrand.net",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 118
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebookcanadianelectionintegrityinitiative.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebookcanadianelectionintegrityinitiative.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 119
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebookcareer.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebookcareer.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 120
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebookcheats.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebookcheats.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 121
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebookck.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebookck.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 122
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebookclub.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebookclub.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 123
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebookcom.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebookcom.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 124
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebookconnect.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebookconnect.com",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebookconsultant.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebookconsultant.org",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 125
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebookcoronavirus.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebookcoronavirus.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 126
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebookcovers.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebookcovers.org",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 127
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebookcredits.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebookcredits.info",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 128
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebookdating.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebookdating.net",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 129
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebookdevelopergarage.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebookdevelopergarage.com",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebookdusexe.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebookdusexe.org",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 130
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebookemail.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebookemail.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 131
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebookenespanol.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebookenespanol.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 132
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebookexchange.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebookexchange.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 133
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebookexchange.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebookexchange.net",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 134
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebookfacebook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebookfacebook.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 135
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebookflow.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebookflow.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 136
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebookgames.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebookgames.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 137
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebookgraphsearch.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebookgraphsearch.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 138
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebookgraphsearch.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebookgraphsearch.info",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 139
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebookgroups.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebookgroups.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 140
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebookhome.cc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebookhome.cc",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 141
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebookhome.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebookhome.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 142
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebookhome.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebookhome.info",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 143
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebookhub.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebookhub.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 144
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebooki.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebooki.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 145
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebookinc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebookinc.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 146
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebookland.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebookland.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 147
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebooklikeexchange.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebooklikeexchange.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 148
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebooklive.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebooklive.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 149
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebooklivestaging.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebooklivestaging.net",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 150
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebooklivestaging.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebooklivestaging.org",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 151
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebooklogin.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebooklogin.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 152
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebooklogin.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebooklogin.info",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 153
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebookloginhelp.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebookloginhelp.net",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 154
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebooklogs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebooklogs.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 155
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebookmail.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebookmail.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 156
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebookmail.tv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebookmail.tv",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 157
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebookmanager.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebookmanager.info",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 158
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebookmarketing.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebookmarketing.info",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 159
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebookmarketingpartner.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebookmarketingpartner.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 160
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebookmarketingpartners.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebookmarketingpartners.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 161
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebookmobile.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebookmobile.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 162
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebookmsn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebookmsn.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 163
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebooknews.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebooknews.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 164
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebooknfl.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebooknfl.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 165
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebooknude.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebooknude.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 166
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebookofsex.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebookofsex.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 167
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebookook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebookook.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 168
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebookpaper.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebookpaper.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 169
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebookpay.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebookpay.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 170
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebookphonenumber.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebookphonenumber.net",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 171
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebookphoto.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebookphoto.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 172
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebookphotos.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebookphotos.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 173
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebookpmdcenter.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebookpmdcenter.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 174
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebookpoke.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebookpoke.net",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 175
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebookpoke.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebookpoke.org",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 176
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebookpoker.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebookpoker.info",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 177
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebookpokerchips.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebookpokerchips.info",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 178
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebookporn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebookporn.net",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 179
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebookporn.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebookporn.org",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 180
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebookporno.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebookporno.net",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 181
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebookportal.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebookportal.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 182
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebooks.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebooks.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 183
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebooksafety.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebooksafety.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 184
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebooksecurity.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebooksecurity.net",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 185
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebookshop.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebookshop.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 186
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebooksignup.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebooksignup.net",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 187
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebooksite.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebooksite.net",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 188
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebookstories.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebookstories.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 189
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebookstudios.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebookstudios.net",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 190
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebookstudios.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebookstudios.org",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 191
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebooksupplier.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebooksupplier.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 192
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebooksuppliers.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebooksuppliers.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 193
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebookswagemea.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebookswagemea.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 194
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebookswagstore.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebookswagstore.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 195
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebooksz.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebooksz.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 196
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebookthreads.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebookthreads.net",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 197
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebooktv.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebooktv.net",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 198
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebooktv.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebooktv.org",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 199
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebookvacation.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebookvacation.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 200
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebookw.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebookw.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 201
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebookwork.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebookwork.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 392
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebookworld.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebookworld.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 202
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebool.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebool.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 203
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebool.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebool.info",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 204
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebooll.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebooll.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 205
+    }
+  },
+  {
+    "type": "domain",
+    "value": "faceboom.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:faceboom.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 206
+    }
+  },
+  {
+    "type": "domain",
+    "value": "faceboon.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:faceboon.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 207
+    }
+  },
+  {
+    "type": "domain",
+    "value": "faceboonk.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:faceboonk.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 208
+    }
+  },
+  {
+    "type": "domain",
+    "value": "faceboooik.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:faceboooik.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 209
+    }
+  },
+  {
+    "type": "domain",
+    "value": "faceboook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:faceboook.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 210
+    }
+  },
+  {
+    "type": "domain",
+    "value": "faceboop.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:faceboop.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 211
+    }
+  },
+  {
+    "type": "domain",
+    "value": "faceboot.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:faceboot.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 212
+    }
+  },
+  {
+    "type": "domain",
+    "value": "faceboox.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:faceboox.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 213
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebopk.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebopk.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 214
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebpook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebpook.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 215
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebuk.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebuk.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 216
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebuok.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebuok.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 217
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebvook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebvook.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 218
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebyook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebyook.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 219
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebzook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebzook.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 220
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facecbgook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facecbgook.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 221
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facecbook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facecbook.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 222
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facecbook.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facecbook.org",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 223
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facecook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facecook.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 224
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facecook.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facecook.org",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 225
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facedbook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facedbook.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 226
+    }
+  },
+  {
+    "type": "domain",
+    "value": "faceebok.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:faceebok.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 227
+    }
+  },
+  {
+    "type": "domain",
+    "value": "faceebook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:faceebook.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 228
+    }
+  },
+  {
+    "type": "domain",
+    "value": "faceebot.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:faceebot.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 229
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facegbok.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facegbok.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 230
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facegbook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facegbook.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 231
+    }
+  },
+  {
+    "type": "domain",
+    "value": "faceobk.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:faceobk.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 232
+    }
+  },
+  {
+    "type": "domain",
+    "value": "faceobok.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:faceobok.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 233
+    }
+  },
+  {
+    "type": "domain",
+    "value": "faceobook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:faceobook.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 234
+    }
+  },
+  {
+    "type": "domain",
+    "value": "faceook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:faceook.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 235
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facerbooik.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facerbooik.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 236
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facerbook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facerbook.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 237
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facesbooc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facesbooc.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 238
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facesounds.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facesounds.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 239
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facetook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facetook.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 240
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facevbook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facevbook.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 241
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facewbook.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facewbook.co",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 242
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facewook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facewook.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 243
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facfacebook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facfacebook.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 244
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facfebook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facfebook.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 245
+    }
+  },
+  {
+    "type": "domain",
+    "value": "faciometrics.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:faciometrics.com",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fackebook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fackebook.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 246
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facnbook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facnbook.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 247
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facrbook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facrbook.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 248
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facvebook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facvebook.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 249
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facwebook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facwebook.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 250
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facxebook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facxebook.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 251
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fadebook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fadebook.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 252
+    }
+  },
+  {
+    "type": "domain",
+    "value": "faebok.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:faebok.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 253
+    }
+  },
+  {
+    "type": "domain",
+    "value": "faebook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:faebook.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 254
+    }
+  },
+  {
+    "type": "domain",
+    "value": "faebookc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:faebookc.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 255
+    }
+  },
+  {
+    "type": "domain",
+    "value": "faeboook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:faeboook.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 256
+    }
+  },
+  {
+    "type": "domain",
+    "value": "faecebok.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:faecebok.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 257
+    }
+  },
+  {
+    "type": "domain",
+    "value": "faesebook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:faesebook.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 258
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fafacebook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fafacebook.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 259
+    }
+  },
+  {
+    "type": "domain",
+    "value": "faicbooc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:faicbooc.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 260
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fasebokk.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fasebokk.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 261
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fasebook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fasebook.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 262
+    }
+  },
+  {
+    "type": "domain",
+    "value": "faseboox.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:faseboox.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 263
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fasttext.cc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fasttext.cc",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "favebook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:favebook.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 264
+    }
+  },
+  {
+    "type": "domain",
+    "value": "faycbok.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:faycbok.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 265
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fb.careers",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fb.careers",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 266
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fb.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 267
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fb.gg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fb.gg",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 268
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fb.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fb.me",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 269
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fb.watch",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fb.watch",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 270
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fbacebook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fbacebook.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 271
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fbbmarket.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fbbmarket.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 272
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fbboostyourbusiness.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fbboostyourbusiness.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 273
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fbcdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fbcdn.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 274
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fbcdn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fbcdn.net",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 275
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fbf8.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fbf8.com",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fbfeedback.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fbfeedback.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 276
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fbhome.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fbhome.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 277
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fbidb.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fbidb.io",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 278
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fbinc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fbinc.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 279
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fbinfer.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fbinfer.com",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fbinnovation.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fbinnovation.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 280
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fblitho.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fblitho.com",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fbmarketing.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fbmarketing.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 281
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fbmessenger.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fbmessenger.com",
+    "source": {
+      "list": "MESSENGER",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fbredex.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fbredex.com",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fbreg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fbreg.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 282
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fbrell.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fbrell.com",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fbrpms.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fbrpms.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 283
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fbsbx.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fbsbx.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 284
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fbsbx.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fbsbx.net",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 285
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fbsupport-covid.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fbsupport-covid.net",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 286
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fbthirdpartypixel.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fbthirdpartypixel.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 287
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fbthirdpartypixel.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fbthirdpartypixel.net",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 288
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fbthirdpartypixel.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fbthirdpartypixel.org",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 289
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fburl.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fburl.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 290
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fbwat.ch",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fbwat.ch",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 291
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fbworkmail.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fbworkmail.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 292
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fcacebook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fcacebook.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 293
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fcaebook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fcaebook.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 294
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fcebook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fcebook.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 295
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fcebookk.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fcebookk.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 296
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fcfacebook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fcfacebook.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 297
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fdacebook.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fdacebook.info",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 298
+    }
+  },
+  {
+    "type": "domain",
+    "value": "feacboo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:feacboo.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 299
+    }
+  },
+  {
+    "type": "domain",
+    "value": "feacbook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:feacbook.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 300
+    }
+  },
+  {
+    "type": "domain",
+    "value": "feacbooke.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:feacbooke.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 301
+    }
+  },
+  {
+    "type": "domain",
+    "value": "feacebook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:feacebook.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 302
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fecbbok.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fecbbok.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 303
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fecbooc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fecbooc.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 304
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fecbook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fecbook.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 305
+    }
+  },
+  {
+    "type": "domain",
+    "value": "feceboock.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:feceboock.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 306
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fecebook.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fecebook.net",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 100
+    }
+  },
+  {
+    "type": "domain",
+    "value": "feceboox.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:feceboox.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 307
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fececbook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fececbook.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 308
+    }
+  },
+  {
+    "type": "domain",
+    "value": "feook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:feook.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 309
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ferabook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ferabook.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 310
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fescebook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fescebook.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 311
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fesebook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fesebook.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 312
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ffacebook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ffacebook.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 313
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fgacebook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fgacebook.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 314
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ficeboock.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ficeboock.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 315
+    }
+  },
+  {
+    "type": "domain",
+    "value": "flow.dev",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:flow.dev",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "flow.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:flow.org",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "flowtype.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:flowtype.org",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fmcebook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fmcebook.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 316
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fnacebook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fnacebook.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 317
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fosebook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fosebook.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 318
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fpacebook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fpacebook.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 319
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fqcebook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fqcebook.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 320
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fracebook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fracebook.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 321
+    }
+  },
+  {
+    "type": "domain",
+    "value": "freeb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:freeb.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 322
+    }
+  },
+  {
+    "type": "domain",
+    "value": "freebasics.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:freebasics.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 323
+    }
+  },
+  {
+    "type": "domain",
+    "value": "freebasics.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:freebasics.net",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 324
+    }
+  },
+  {
+    "type": "domain",
+    "value": "freebs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:freebs.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 325
+    }
+  },
+  {
+    "type": "domain",
+    "value": "freefacebook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:freefacebook.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 326
+    }
+  },
+  {
+    "type": "domain",
+    "value": "freefacebook.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:freefacebook.net",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 327
+    }
+  },
+  {
+    "type": "domain",
+    "value": "freefacebookads.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:freefacebookads.net",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 328
+    }
+  },
+  {
+    "type": "domain",
+    "value": "freefblikes.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:freefblikes.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 329
+    }
+  },
+  {
+    "type": "domain",
+    "value": "freindfeed.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:freindfeed.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 330
+    }
+  },
+  {
+    "type": "domain",
+    "value": "frescolib.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:frescolib.org",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "friendbook.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:friendbook.info",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 331
+    }
+  },
+  {
+    "type": "domain",
+    "value": "friendfed.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:friendfed.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 332
+    }
+  },
+  {
+    "type": "domain",
+    "value": "friendfeed-api.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:friendfeed-api.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 333
+    }
+  },
+  {
+    "type": "domain",
+    "value": "friendfeed-media.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:friendfeed-media.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 334
+    }
+  },
+  {
+    "type": "domain",
+    "value": "friendfeed.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:friendfeed.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 335
+    }
+  },
+  {
+    "type": "domain",
+    "value": "friendfeedmedia.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:friendfeedmedia.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 336
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fsacebok.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fsacebok.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 337
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fscebook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fscebook.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 338
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fundraisingwithfacebook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fundraisingwithfacebook.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 339
+    }
+  },
+  {
+    "type": "domain",
+    "value": "funnyfacebook.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:funnyfacebook.org",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 340
+    }
+  },
+  {
+    "type": "domain",
+    "value": "futureofbusinesssurvey.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:futureofbusinesssurvey.org",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 341
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gacebook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gacebook.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 342
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gameroom.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gameroom.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 343
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gfacecbook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gfacecbook.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 344
+    }
+  },
+  {
+    "type": "domain",
+    "value": "graph-fallback.instagram.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:graph-fallback.instagram.com:@ads",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 76
+    }
+  },
+  {
+    "type": "domain",
+    "value": "graph.instagram.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:graph.instagram.com:@ads",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 75
+    }
+  },
+  {
+    "type": "domain",
+    "value": "graph.whatsapp.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:graph.whatsapp.com:@ads",
+    "source": {
+      "list": "WHATSAPP",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "graph.whatsapp.net",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:graph.whatsapp.net:@ads",
+    "source": {
+      "list": "WHATSAPP",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "groups.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:groups.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 345
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hackerfacebook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hackerfacebook.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 346
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hackfacebook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hackfacebook.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 347
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hackfacebookid.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hackfacebookid.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 348
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hacklang.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hacklang.org",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hhvm.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hhvm.com",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hifacebook.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hifacebook.info",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 349
+    }
+  },
+  {
+    "type": "domain",
+    "value": "howtohackfacebook-account.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:howtohackfacebook-account.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 350
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hsfacebook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hsfacebook.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 351
+    }
+  },
+  {
+    "type": "domain",
+    "value": "httpfacebook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:httpfacebook.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 352
+    }
+  },
+  {
+    "type": "domain",
+    "value": "httpsfacebook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:httpsfacebook.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 353
+    }
+  },
+  {
+    "type": "domain",
+    "value": "httpwwwfacebook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:httpwwwfacebook.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 354
+    }
+  },
+  {
+    "type": "domain",
+    "value": "i.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:i.org",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 355
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ig.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ig.me",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "igcdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:igcdn.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "igsonar.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:igsonar.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "igtv.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:igtv.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "imstagram.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:imstagram.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "imtagram.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:imtagram.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "instaadder.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:instaadder.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "instachecker.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:instachecker.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "instafallow.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:instafallow.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "instafollower.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:instafollower.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "instagainer.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:instagainer.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "instagda.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:instagda.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "instagify.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:instagify.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "instagmania.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:instagmania.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "instagor.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:instagor.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "instagram-brand.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:instagram-brand.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "instagram-engineering.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:instagram-engineering.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "instagram-help.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:instagram-help.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "instagram-press.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:instagram-press.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "instagram-press.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:instagram-press.net",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "instagram.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:instagram.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "instagramci.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:instagramci.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "instagramcn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:instagramcn.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "instagramdi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:instagramdi.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "instagramhashtags.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:instagramhashtags.net",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "instagramhilecim.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:instagramhilecim.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "instagramhilesi.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:instagramhilesi.org",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "instagramium.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:instagramium.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "instagramizlenme.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:instagramizlenme.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 37
+    }
+  },
+  {
+    "type": "domain",
+    "value": "instagramkusu.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:instagramkusu.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 38
+    }
+  },
+  {
+    "type": "domain",
+    "value": "instagramlogin.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:instagramlogin.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 39
+    }
+  },
+  {
+    "type": "domain",
+    "value": "instagramm.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:instagramm.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 40
+    }
+  },
+  {
+    "type": "domain",
+    "value": "instagramn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:instagramn.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "instagrampartners.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:instagrampartners.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 42
+    }
+  },
+  {
+    "type": "domain",
+    "value": "instagramphoto.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:instagramphoto.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 43
+    }
+  },
+  {
+    "type": "domain",
+    "value": "instagramq.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:instagramq.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 44
+    }
+  },
+  {
+    "type": "domain",
+    "value": "instagramsepeti.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:instagramsepeti.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 45
+    }
+  },
+  {
+    "type": "domain",
+    "value": "instagramtakipcisatinal.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:instagramtakipcisatinal.net",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 46
+    }
+  },
+  {
+    "type": "domain",
+    "value": "instagramtakiphilesi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:instagramtakiphilesi.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 47
+    }
+  },
+  {
+    "type": "domain",
+    "value": "instagramtips.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:instagramtips.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 48
+    }
+  },
+  {
+    "type": "domain",
+    "value": "instagramtr.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:instagramtr.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 49
+    }
+  },
+  {
+    "type": "domain",
+    "value": "instagran.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:instagran.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 50
+    }
+  },
+  {
+    "type": "domain",
+    "value": "instagranm.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:instagranm.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 51
+    }
+  },
+  {
+    "type": "domain",
+    "value": "instagrem.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:instagrem.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 52
+    }
+  },
+  {
+    "type": "domain",
+    "value": "instagrm.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:instagrm.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 53
+    }
+  },
+  {
+    "type": "domain",
+    "value": "instagtram.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:instagtram.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 54
+    }
+  },
+  {
+    "type": "domain",
+    "value": "instagy.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:instagy.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 55
+    }
+  },
+  {
+    "type": "domain",
+    "value": "instamgram.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:instamgram.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 56
+    }
+  },
+  {
+    "type": "domain",
+    "value": "instangram.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:instangram.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 57
+    }
+  },
+  {
+    "type": "domain",
+    "value": "instanttelegram.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:instanttelegram.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 58
+    }
+  },
+  {
+    "type": "domain",
+    "value": "instaplayer.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:instaplayer.net",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 59
+    }
+  },
+  {
+    "type": "domain",
+    "value": "instastyle.tv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:instastyle.tv",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 60
+    }
+  },
+  {
+    "type": "domain",
+    "value": "instgram.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:instgram.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 61
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intagram.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intagram.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 62
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intagrm.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intagrm.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 63
+    }
+  },
+  {
+    "type": "domain",
+    "value": "internet.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:internet.org",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 356
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intgram.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intgram.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 64
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kingstagram.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kingstagram.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 65
+    }
+  },
+  {
+    "type": "domain",
+    "value": "klik.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:klik.me",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 357
+    }
+  },
+  {
+    "type": "domain",
+    "value": "liverail.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:liverail.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 358
+    }
+  },
+  {
+    "type": "domain",
+    "value": "liverail.tv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:liverail.tv",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 359
+    }
+  },
+  {
+    "type": "domain",
+    "value": "llama.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:llama.com",
+    "source": {
+      "list": "META",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lnstagram-help.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lnstagram-help.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 66
+    }
+  },
+  {
+    "type": "domain",
+    "value": "login-account.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:login-account.net",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 360
+    }
+  },
+  {
+    "type": "domain",
+    "value": "m.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:m.me",
+    "source": {
+      "list": "MESSENGER",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "makeitopen.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:makeitopen.com",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "markzuckerberg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:markzuckerberg.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 361
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mcrouter.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mcrouter.net",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mcrouter.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mcrouter.org",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "messenger.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:messenger.com",
+    "source": {
+      "list": "MESSENGER",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "messengerdevelopers.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:messengerdevelopers.com",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "meta.ai",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:meta.ai",
+    "source": {
+      "list": "META",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "meta.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:meta.com",
+    "source": {
+      "list": "META",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "midentsolutions.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:midentsolutions.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 362
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mobilefacebook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mobilefacebook.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 363
+    }
+  },
+  {
+    "type": "domain",
+    "value": "moneywithfacebook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:moneywithfacebook.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 364
+    }
+  },
+  {
+    "type": "domain",
+    "value": "myfbfans.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:myfbfans.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 365
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nbabot.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nbabot.net",
+    "source": {
+      "list": "MESSENGER",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "newsfeed.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:newsfeed.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 366
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nextstop.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nextstop.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 367
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ocul.us",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ocul.us",
+    "source": {
+      "list": "OCULUS",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oculus-china.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oculus-china.com",
+    "source": {
+      "list": "OCULUS",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oculus.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oculus.com",
+    "source": {
+      "list": "OCULUS",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oculus2014.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oculus2014.com",
+    "source": {
+      "list": "OCULUS",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oculus3d.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oculus3d.com",
+    "source": {
+      "list": "OCULUS",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oculusblog.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oculusblog.com",
+    "source": {
+      "list": "OCULUS",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oculusbrand.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oculusbrand.com",
+    "source": {
+      "list": "OCULUS",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oculuscasino.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oculuscasino.net",
+    "source": {
+      "list": "OCULUS",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oculuscdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oculuscdn.com",
+    "source": {
+      "list": "OCULUS",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oculusconnect.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oculusconnect.com",
+    "source": {
+      "list": "OCULUS",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oculusdiving.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oculusdiving.com",
+    "source": {
+      "list": "OCULUS",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oculusforbusiness.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oculusforbusiness.com",
+    "source": {
+      "list": "OCULUS",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oculusrift.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oculusrift.com",
+    "source": {
+      "list": "OCULUS",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oculusvr.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oculusvr.com",
+    "source": {
+      "list": "OCULUS",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ogp.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ogp.me",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oninstagram.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oninstagram.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 68
+    }
+  },
+  {
+    "type": "domain",
+    "value": "online-deals.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:online-deals.net",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 368
+    }
+  },
+  {
+    "type": "domain",
+    "value": "online-instagram.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:online-instagram.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 69
+    }
+  },
+  {
+    "type": "domain",
+    "value": "onlineinstagram.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:onlineinstagram.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 70
+    }
+  },
+  {
+    "type": "domain",
+    "value": "opencreate.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:opencreate.org",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 369
+    }
+  },
+  {
+    "type": "domain",
+    "value": "opengraphprotocol.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:opengraphprotocol.com",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "opengraphprotocol.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:opengraphprotocol.org",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "parse.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:parse.com",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pixel.facebook.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:pixel.facebook.com:@ads",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 402
+    }
+  },
+  {
+    "type": "domain",
+    "value": "powersunitedvr.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:powersunitedvr.com",
+    "source": {
+      "list": "OCULUS",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pyrobot.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pyrobot.org",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "reachtheworldonfacebook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:reachtheworldonfacebook.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 370
+    }
+  },
+  {
+    "type": "domain",
+    "value": "react.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:react.com",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "reactjs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:reactjs.com",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 37
+    }
+  },
+  {
+    "type": "domain",
+    "value": "reactjs.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:reactjs.org",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 38
+    }
+  },
+  {
+    "type": "domain",
+    "value": "recoiljs.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:recoiljs.org",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 39
+    }
+  },
+  {
+    "type": "domain",
+    "value": "redkix.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:redkix.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 393
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rocksdb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rocksdb.com",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 40
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rocksdb.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rocksdb.net",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rocksdb.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rocksdb.org",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 42
+    }
+  },
+  {
+    "type": "domain",
+    "value": "shopfacebook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:shopfacebook.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 372
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sportsfacebook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sportsfacebook.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 373
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sportstream.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sportstream.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 374
+    }
+  },
+  {
+    "type": "domain",
+    "value": "supportfacebook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:supportfacebook.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 375
+    }
+  },
+  {
+    "type": "domain",
+    "value": "terragraph.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:terragraph.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 376
+    }
+  },
+  {
+    "type": "domain",
+    "value": "thefacebook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:thefacebook.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 377
+    }
+  },
+  {
+    "type": "domain",
+    "value": "thefacebook.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:thefacebook.net",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 378
+    }
+  },
+  {
+    "type": "domain",
+    "value": "thefind.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:thefind.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 379
+    }
+  },
+  {
+    "type": "domain",
+    "value": "theinstagramhack.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:theinstagramhack.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 67
+    }
+  },
+  {
+    "type": "domain",
+    "value": "threads.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:threads.com",
+    "source": {
+      "list": "THREADS",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "threads.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:threads.net",
+    "source": {
+      "list": "THREADS",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "toplayerserver.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:toplayerserver.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 380
+    }
+  },
+  {
+    "type": "domain",
+    "value": "viewpointsfromfacebook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:viewpointsfromfacebook.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 381
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wa.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wa.me",
+    "source": {
+      "list": "WHATSAPP",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "web-instagram.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:web-instagram.net",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 71
+    }
+  },
+  {
+    "type": "domain",
+    "value": "whatsapp-plus.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:whatsapp-plus.info",
+    "source": {
+      "list": "WHATSAPP",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "whatsapp-plus.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:whatsapp-plus.me",
+    "source": {
+      "list": "WHATSAPP",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "whatsapp-plus.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:whatsapp-plus.net",
+    "source": {
+      "list": "WHATSAPP",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "whatsapp.cc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:whatsapp.cc",
+    "source": {
+      "list": "WHATSAPP",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "whatsapp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:whatsapp.com",
+    "source": {
+      "list": "WHATSAPP",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "whatsapp.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:whatsapp.info",
+    "source": {
+      "list": "WHATSAPP",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "whatsapp.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:whatsapp.net",
+    "source": {
+      "list": "WHATSAPP",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "whatsapp.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:whatsapp.org",
+    "source": {
+      "list": "WHATSAPP",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "whatsapp.tv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:whatsapp.tv",
+    "source": {
+      "list": "WHATSAPP",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "whatsappbrand.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:whatsappbrand.com",
+    "source": {
+      "list": "WHATSAPP",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "whyfacebook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:whyfacebook.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 382
+    }
+  },
+  {
+    "type": "domain",
+    "value": "workplace.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:workplace.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 394
+    }
+  },
+  {
+    "type": "domain",
+    "value": "workplaceusecases.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:workplaceusecases.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 395
+    }
+  },
+  {
+    "type": "domain",
+    "value": "worldhack.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:worldhack.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 383
+    }
+  },
+  {
+    "type": "domain",
+    "value": "www-facebook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:www-facebook.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 384
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wwwfacebok.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wwwfacebok.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 385
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wwwfacebook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wwwfacebook.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 386
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wwwinstagram.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wwwinstagram.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 72
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wwwmfacebook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wwwmfacebook.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 387
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yogalayout.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yogalayout.com",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 43
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zuckerberg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zuckerberg.com",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 388
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zuckerberg.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zuckerberg.net",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 389
+    }
+  },
+  {
+    "type": "full",
+    "value": "fbcdn-a.akamaihd.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:fbcdn-a.akamaihd.net",
+    "source": {
+      "list": "FACEBOOK",
+      "line": 397
+    }
+  }
+]

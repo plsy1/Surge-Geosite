@@ -1,0 +1,59 @@
+{
+  "name": "KASPERSKY",
+  "source": {
+    "domain": 37,
+    "full": 96,
+    "keyword": 0,
+    "regexp": 0,
+    "include": 0,
+    "affiliations": 0,
+    "attributes": 97
+  },
+  "resolved": {
+    "rules": 132,
+    "domain": 36,
+    "full": 96,
+    "keyword": 0,
+    "regexp": 0
+  },
+  "filters": {
+    "attrs": {
+      "cn": 97
+    }
+  },
+  "modes": {
+    "strict": {
+      "rules": 132,
+      "bytes": 4252,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "balanced": {
+      "rules": 132,
+      "bytes": 4252,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "full": {
+      "rules": 132,
+      "bytes": 4252,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    }
+  }
+}

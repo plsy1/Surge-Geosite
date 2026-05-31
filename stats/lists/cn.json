@@ -1,0 +1,157 @@
+{
+  "name": "CN",
+  "source": {
+    "domain": 3732,
+    "full": 564,
+    "keyword": 0,
+    "regexp": 11,
+    "include": 0,
+    "affiliations": 0,
+    "attributes": 0
+  },
+  "resolved": {
+    "rules": 4295,
+    "domain": 3732,
+    "full": 552,
+    "keyword": 0,
+    "regexp": 11
+  },
+  "filters": {
+    "attrs": {}
+  },
+  "modes": {
+    "strict": {
+      "rules": 4284,
+      "bytes": 115549,
+      "regex": {
+        "total": 11,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 11
+      },
+      "unsupported": [
+        {
+          "pattern": ".+\\.awsdns-cn-[0-9][0-9]\\.(biz|com|net|top)$",
+          "source": {
+            "list": "CN",
+            "line": 4297
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": ".+\\.awsdns-cn-[0-9][a-e0-9]\\.cn$",
+          "source": {
+            "list": "CN",
+            "line": 4298
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "^.+-mihayo\\.akamaized\\.net$",
+          "source": {
+            "list": "CN",
+            "line": 4300
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "^(.+\\.)*zh\\.okaapps\\.com$",
+          "source": {
+            "list": "CN",
+            "line": 4299
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "^cdn-akamai-.+\\.gog-services\\.com$",
+          "source": {
+            "list": "CN",
+            "line": 4301
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "^cdn\\d-epicgames-\\d+\\.file\\.myqcloud\\.com$",
+          "source": {
+            "list": "CN",
+            "line": 4302
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "^epicgames-download\\d-\\d+\\.file\\.myqcloud\\.com$",
+          "source": {
+            "list": "CN",
+            "line": 4303
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "^gog-cdn-.+\\.footprint\\.net$",
+          "source": {
+            "list": "CN",
+            "line": 4304
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "^images(-\\d)?\\.gog-statics\\.com$",
+          "source": {
+            "list": "CN",
+            "line": 4305
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "^r+[0-9]+(---|\\.)sn-(2x3|ni5|j5o)\\w{5}\\.googlevideo\\.com$",
+          "source": {
+            "list": "CN",
+            "line": 4306
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "^r+[0-9]+(---|\\.)sn-(2x3|ni5|j5o)\\w{5}\\.xn--ngstr-lra8j\\.com$",
+          "source": {
+            "list": "CN",
+            "line": 4307
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        }
+      ]
+    },
+    "balanced": {
+      "rules": 4295,
+      "bytes": 116000,
+      "regex": {
+        "total": 11,
+        "lossless": 0,
+        "widened": 11,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "full": {
+      "rules": 4295,
+      "bytes": 116000,
+      "regex": {
+        "total": 11,
+        "lossless": 0,
+        "widened": 11,
+        "unsupported": 0
+      },
+      "unsupported": []
+    }
+  }
+}

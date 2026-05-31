@@ -1,0 +1,57 @@
+{
+  "name": "CATEGORY-AUTOMOBILE-CN",
+  "source": {
+    "domain": 23,
+    "full": 0,
+    "keyword": 0,
+    "regexp": 0,
+    "include": 2,
+    "affiliations": 0,
+    "attributes": 0
+  },
+  "resolved": {
+    "rules": 36,
+    "domain": 36,
+    "full": 0,
+    "keyword": 0,
+    "regexp": 0
+  },
+  "filters": {
+    "attrs": {}
+  },
+  "modes": {
+    "strict": {
+      "rules": 36,
+      "bytes": 939,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "balanced": {
+      "rules": 36,
+      "bytes": 939,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "full": {
+      "rules": 36,
+      "bytes": 939,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    }
+  }
+}

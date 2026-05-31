@@ -1,0 +1,1320 @@
+{
+  "name": "CATEGORY-PORN",
+  "source": {
+    "domain": 5969,
+    "full": 1,
+    "keyword": 0,
+    "regexp": 137,
+    "include": 71,
+    "affiliations": 0,
+    "attributes": 0
+  },
+  "resolved": {
+    "rules": 6636,
+    "domain": 6491,
+    "full": 5,
+    "keyword": 0,
+    "regexp": 140
+  },
+  "filters": {
+    "attrs": {
+      "ads": 3
+    }
+  },
+  "modes": {
+    "strict": {
+      "rules": 6496,
+      "bytes": 184813,
+      "regex": {
+        "total": 140,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 140
+      },
+      "unsupported": [
+        {
+          "pattern": "(^|\\.)[1-5]gaoap\\.com$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6056
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)[1-9]+aipai\\.(com|net)$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6057
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)[1-9]+zipai\\.(com|net)$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6058
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)[1-9]00caocao\\.com$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6059
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)[3-9]0000sao\\.com$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6060
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)[a-z]?fulibl\\.(cc|com|org|net|xyz)$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6062
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)[a-z][1-9][0-9][a-z]\\.com$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6061
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)1[0-9]{2}\\.one$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6063
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)13mei[5-7]\\.buzz$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6064
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)18j[efg]\\.life$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6065
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)18jmttios[0-9]{2}\\.com$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6066
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)18tv[1-5]\\.com$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6067
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)2024(3[0-9]|4[0-9]|6[0-9]|7[0-9])\\.xyz$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6068
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)3[0-9]{2}\\.icu$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6069
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)3[0-9]{2}\\.one$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6070
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)69bag[0-1][1-9]?\\.com$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6071
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)783([a-z][a-z]?)?\\.tv$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6072
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)7mm0([0-1][0-9]?)?\\.com$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6073
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)8dgo[1-57-9]\\.com$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6074
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)91cg([1-9]|[0-9][1-9])?.com$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6075
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)91p[0-9][0-9]?\\.com$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6076
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)91porn[0-9]?\\.store$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6079
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)91porn[0-9]{3}\\.me$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6078
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)91porn[fvxy]\\.com$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6081
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)91porn\\.(best|com|cool|fun|group|party|plus|site|tw|work)$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6077
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)91porna[1-7]?\\.com$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6080
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)91sew1[1-6]\\.buzz$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6082
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)91wang[1-9]\\.com$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6083
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)989[a-z]?\\.tv$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6084
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)99pp[1-9][0-9]\\.com$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6085
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)9cha[0-9]{2}\\.cc$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6086
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)aipa(111|222|333|444|555|666|777|888|999)\\.life$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6087
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)aisejushi(2|3|5|6)\\.com$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6088
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)aiwei[1-9]{2}\\.buzz$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6089
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)aqdk[0-9]{3}\\.com$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6090
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)avcc1[0-9]\\.com$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6091
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)avstar0[1-9]\\.(com|me)$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6092
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)awjd[1-9]?\\.tv$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6093
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)awwcn[1-9]?\\.top$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6094
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)banyinjia[0-9]?\\.com$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6095
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)bhzyk[1-9]?\\.xyz$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6096
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)bibeidh1[6-8]\\.cc$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6097
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)bilibili3(0[1-9]|1[0-2])\\.xyz$",
+          "source": {
+            "list": "BILIBILI2",
+            "line": 7
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)bjini[0-9]{2}\\.buzz$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6098
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)byy[0-9][0-9]?\\.icu$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6099
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)byyum([3589]|2[235689]|3[34]|4[1-9]|5[1-79]|6[0134679])?\\.com$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6100
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)cav1(0[2-9]|1[0-9])\\.com$",
+          "source": {
+            "list": "CAVPORN",
+            "line": 4
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)cgbb([1-9]|1[0-9]|20)\\.com$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6101
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)chuzs[1-9]{0,2}\\.buzz$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6102
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)cosaa[a-z]\\.cyou$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6103
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)doufuru[0-9]?\\.cc$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6105
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)doufuru[0-9]{2}?\\.xyz$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6106
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)douyintt[0-9]\\.me$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6104
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)fby[1-9]?[0-9]\\.icu$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6107
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)fby[1-9]?[0-9]\\.one$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6108
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)fi11sm([0-9]+)?\\.com$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6109
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)fiftymvapi\\..+$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6110
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)flsq[0-9]{2}\\.com$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6111
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)forduck[0-1][0-9]\\.com$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6112
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)gaogediao\\.(com|me|net|org)$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6113
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)gossipfuli[0-9]{3,4}\\.xyz$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6114
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)guifw3[1-3]\\.cc$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6115
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)h5ccav[1-5]\\.com$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6116
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)hhmen[1-3]\\.xyz$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6117
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)hkfg[1-7]\\.xyz$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6118
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)hs[1-9]{2}\\.vip$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6119
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)jav777\\.(cc|tv|work)$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6120
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)jb[1-9][0-9]\\.lol$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6121
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)jbk0([0-1][0-9]?)?\\.com$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6122
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)jdyy[1-9]?\\.me$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6123
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)jiuse[0-9]{1,3}\\.com$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6124
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)jmtt\\.(app|live|tv|vip)$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6125
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)jstv[0-9]{2}\\.com$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6126
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)kdfl[0-9]{2}\\.xyz$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6127
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)kimoav([1-9][0-9]?)?\\.com$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6128
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)kpkuang\\.(bond|fun|info|one|us)$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6129
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)ksyp0[1-9]\\.com$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6130
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)lianren[1-7]\\.cc$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6131
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)llyysp[0-9]{4}\\.top$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6132
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)loibus(100|101|202|505|606)\\.top$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6134
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)loibus\\.(cc|com|link)$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6133
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)luchuxue([0-9]{0,5})\\.buzz$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6135
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)maa18[0-2][0-9]\\.com$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6136
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)madouqu[0-9]{2}\\.cc$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6137
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)mdyy[0-1][0-9]\\.com$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6139
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)mdyy[0-9][0-9]\\.cc$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6138
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)mimi[0-9]{3}\\.com$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6141
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)mimi\\.(cfd|lol|onl|sbs|so|vc)$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6140
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)mitao[1-3]\\.tv$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6142
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)mmtv[1-5]\\.life$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6143
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)mmwz\\.(fun|in|la|me|one|pro|pw|run|tv|ws)$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6144
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)momotk([1-9][0-9]?)?\\.uno$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6145
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)nnbw[0-2]\\.xyz$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6146
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)putaozy([1-9][0-9]?)?\\.com$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6147
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)qqbs([0-9]{2})?\\.vip$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6148
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)qqsp0[1-3]\\.com$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6149
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)rbp[1-9][0-9]\\.com$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6150
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)rbyh[1-9]\\.buzz$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6151
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)rule34\\.(asia|us|world|xxx|xyz)$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6152
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)sao[1-6]0000\\.com$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6153
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)sbyjs2[6-9]\\.buzz$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6154
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)sg11[3-9]\\.me$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6155
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)shdd[0-9]{2}\\.buzz$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6156
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)shuangmawei[0-9]{2}\\.buzz$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6157
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)smgsp[0-2]?\\.buzz$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6158
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)spankwire[1-9]\\.com$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6159
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)ssphb[0-9]{2}\\.xyz$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6160
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)supxxx[0-9]{0,2}\\.com$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6161
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)sycf[0-9]?\\.xyz$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6162
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)syjc1[1-6]\\.xyz$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6163
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)tianbiav([1-9]|1[0-6])?\\.com$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6164
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)tqav[1-9][0-9]\\.com$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6165
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)tt[1-2][0-9]\\.tv$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6166
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)ttghg[1-9][0-9]\\.xyz$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6167
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)tttv([1-9][0-9]?|100)\\.com$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6168
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)twav[1-9]\\.xyz$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6169
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)twseb([1-9][0-9]?)?\\.com$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6170
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)uu[a-z][1-9][0-9]?\\.com$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6171
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)whtdh0[1-3]\\.cc$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6172
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)wmm33[0-5]\\.com$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6173
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)wyfuli[1-9]\\.net$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6174
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)xaa[0-9]?\\.one$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6175
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)xaxy[0-9]{2}\\.one$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6176
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)xg[0-9]{2}\\.vip$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6177
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)xgyy([0-9]{2})?\\.vip$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6178
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)xingdh([0-9]{3})?\\.xyz$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6179
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)xlywz[1-9]?\\.cc$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6180
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)xomfsp[1-9]?\\.buzz$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6181
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)xv[0-9]{4}\\.top$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6182
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)xxxyaom[0-9]{2}\\.buzz$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6183
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)yiren[1-9][0-9]\\.com$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6184
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)youyuapi\\..+$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6185
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)yrrj[1-9]?\\.buzz$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6186
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)yygc[0-9]?\\.xyz$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6187
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)zayy([0-9]{0,3})?\\.xyz$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6188
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)zh9[0-7]\\.net$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6189
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)zy[0-9]{4}\\.top$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6190
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)zztt[1-6][0-9]\\.com$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6191
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)zzz[1-9][0-9]\\.top$",
+          "source": {
+            "list": "CATEGORY-PORN",
+            "line": 6192
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "javdb\\d+\\.com$",
+          "source": {
+            "list": "JAVDB",
+            "line": 6
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        }
+      ]
+    },
+    "balanced": {
+      "rules": 6636,
+      "bytes": 188829,
+      "regex": {
+        "total": 140,
+        "lossless": 0,
+        "widened": 140,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "full": {
+      "rules": 6636,
+      "bytes": 188829,
+      "regex": {
+        "total": 140,
+        "lossless": 0,
+        "widened": 140,
+        "unsupported": 0
+      },
+      "unsupported": []
+    }
+  }
+}

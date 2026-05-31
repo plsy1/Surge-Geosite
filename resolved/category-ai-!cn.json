@@ -1,0 +1,1729 @@
+[
+  {
+    "type": "domain",
+    "value": "agentclientprotocol.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:agentclientprotocol.com",
+    "source": {
+      "list": "CATEGORY-AI-!CN",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ai.studio",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ai.studio",
+    "source": {
+      "list": "GOOGLE-DEEPMIND",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aicode.googleapis.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aicode.googleapis.com",
+    "source": {
+      "list": "GOOGLE-DEEPMIND",
+      "line": 48
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aida.googleapis.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aida.googleapis.com",
+    "source": {
+      "list": "GOOGLE-DEEPMIND",
+      "line": 49
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aisandbox-pa.googleapis.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aisandbox-pa.googleapis.com",
+    "source": {
+      "list": "GOOGLE-DEEPMIND",
+      "line": 45
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aistudio.google.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aistudio.google.com",
+    "source": {
+      "list": "GOOGLE-DEEPMIND",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "anthropic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:anthropic.com",
+    "source": {
+      "list": "ANTHROPIC",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "antigravity-unleash.goog",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:antigravity-unleash.goog",
+    "source": {
+      "list": "GOOGLE-DEEPMIND",
+      "line": 59
+    }
+  },
+  {
+    "type": "domain",
+    "value": "antigravity.google",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:antigravity.google",
+    "source": {
+      "list": "GOOGLE-DEEPMIND",
+      "line": 58
+    }
+  },
+  {
+    "type": "domain",
+    "value": "anythingllm.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:anythingllm.com",
+    "source": {
+      "list": "CATEGORY-AI-!CN",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "arena.ai",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:arena.ai",
+    "source": {
+      "list": "CATEGORY-AI-!CN",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bard.google.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bard.google.com",
+    "source": {
+      "list": "GOOGLE-DEEPMIND",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cerebras.ai",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cerebras.ai",
+    "source": {
+      "list": "CEREBRAS",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "chat.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:chat.com",
+    "source": {
+      "list": "OPENAI",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "chatgpt.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:chatgpt.com",
+    "source": {
+      "list": "OPENAI",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "chatgpt.livekit.cloud",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:chatgpt.livekit.cloud",
+    "source": {
+      "list": "OPENAI",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "chutes.ai",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:chutes.ai",
+    "source": {
+      "list": "CATEGORY-AI-!CN",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cici.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:cici.com:@!cn",
+    "source": {
+      "list": "DOLA",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ciciai.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:ciciai.com:@!cn",
+    "source": {
+      "list": "DOLA",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ciciaicdn.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:ciciaicdn.com:@!cn",
+    "source": {
+      "list": "DOLA",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "clau.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:clau.de",
+    "source": {
+      "list": "ANTHROPIC",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "claude.ai",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:claude.ai",
+    "source": {
+      "list": "ANTHROPIC",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "claude.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:claude.com",
+    "source": {
+      "list": "ANTHROPIC",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "claudemcpclient.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:claudemcpclient.com",
+    "source": {
+      "list": "ANTHROPIC",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "claudeusercontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:claudeusercontent.com",
+    "source": {
+      "list": "ANTHROPIC",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "clawhub.ai",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:clawhub.ai",
+    "source": {
+      "list": "CATEGORY-AI-!CN",
+      "line": 37
+    }
+  },
+  {
+    "type": "domain",
+    "value": "clipdrop.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:clipdrop.co",
+    "source": {
+      "list": "CATEGORY-AI-!CN",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "codeium.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:codeium.com",
+    "source": {
+      "list": "WINDSURF",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "codeiumdata.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:codeiumdata.com",
+    "source": {
+      "list": "WINDSURF",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "coderabbit.ai",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:coderabbit.ai",
+    "source": {
+      "list": "CATEGORY-AI-!CN",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "coderabbit.gallery.vsassets.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:coderabbit.gallery.vsassets.io",
+    "source": {
+      "list": "CATEGORY-AI-!CN",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cohere.ai",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cohere.ai",
+    "source": {
+      "list": "CATEGORY-AI-!CN",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cohere.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cohere.com",
+    "source": {
+      "list": "CATEGORY-AI-!CN",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "comfy.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:comfy.org",
+    "source": {
+      "list": "COMFY",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "comfyci.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:comfyci.org",
+    "source": {
+      "list": "COMFY",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "comfyregistry.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:comfyregistry.org",
+    "source": {
+      "list": "COMFY",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "copilot.microsoft.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:copilot.microsoft.com",
+    "source": {
+      "list": "CATEGORY-AI-!CN",
+      "line": 38
+    }
+  },
+  {
+    "type": "domain",
+    "value": "coze.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:coze.com:@!cn",
+    "source": {
+      "list": "BYTEDANCE-AI-!CN",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "crewai.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:crewai.com",
+    "source": {
+      "list": "CATEGORY-AI-!CN",
+      "line": 39
+    }
+  },
+  {
+    "type": "domain",
+    "value": "crixet.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:crixet.com",
+    "source": {
+      "list": "OPENAI",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cursor-cdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cursor-cdn.com",
+    "source": {
+      "list": "CURSOR",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cursor.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cursor.com",
+    "source": {
+      "list": "CURSOR",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cursor.sh",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cursor.sh",
+    "source": {
+      "list": "CURSOR",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cursorapi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cursorapi.com",
+    "source": {
+      "list": "CURSOR",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "deepmind.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:deepmind.com",
+    "source": {
+      "list": "GOOGLE-DEEPMIND",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "deepmind.google",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:deepmind.google",
+    "source": {
+      "list": "GOOGLE-DEEPMIND",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "devin.ai",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:devin.ai",
+    "source": {
+      "list": "CATEGORY-AI-!CN",
+      "line": 40
+    }
+  },
+  {
+    "type": "domain",
+    "value": "diabrowser.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:diabrowser.com",
+    "source": {
+      "list": "CATEGORY-AI-!CN",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "diabrowser.engineering",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:diabrowser.engineering",
+    "source": {
+      "list": "CATEGORY-AI-!CN",
+      "line": 42
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dify.ai",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dify.ai",
+    "source": {
+      "list": "CATEGORY-AI-!CN",
+      "line": 43
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dola.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:dola.com:@!cn",
+    "source": {
+      "list": "DOLA",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "duck.ai",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:duck.ai",
+    "source": {
+      "list": "CATEGORY-AI-!CN",
+      "line": 44
+    }
+  },
+  {
+    "type": "domain",
+    "value": "elevenlabs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:elevenlabs.com",
+    "source": {
+      "list": "ELEVENLABS",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "elevenlabs.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:elevenlabs.io",
+    "source": {
+      "list": "ELEVENLABS",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "envato-static.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:envato-static.com",
+    "source": {
+      "list": "ENVATO",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "envato.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:envato.com",
+    "source": {
+      "list": "ENVATO",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "envatousercontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:envatousercontent.com",
+    "source": {
+      "list": "ENVATO",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gateway.ai.cloudflare.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gateway.ai.cloudflare.com",
+    "source": {
+      "list": "CATEGORY-AI-!CN",
+      "line": 45
+    }
+  },
+  {
+    "type": "domain",
+    "value": "geller-pa.googleapis.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:geller-pa.googleapis.com",
+    "source": {
+      "list": "GOOGLE-DEEPMIND",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gemini.google",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gemini.google",
+    "source": {
+      "list": "GOOGLE-DEEPMIND",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gemini.google.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gemini.google.com",
+    "source": {
+      "list": "GOOGLE-DEEPMIND",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gemini.gstatic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gemini.gstatic.com",
+    "source": {
+      "list": "GOOGLE-DEEPMIND",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "generativeai.google",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:generativeai.google",
+    "source": {
+      "list": "GOOGLE-DEEPMIND",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "generativelanguage.googleapis.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:generativelanguage.googleapis.com",
+    "source": {
+      "list": "GOOGLE-DEEPMIND",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "githubcopilot.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:githubcopilot.com",
+    "source": {
+      "list": "GITHUB-COPILOT",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "grok.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:grok.com",
+    "source": {
+      "list": "XAI",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "grok.x.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:grok.x.com",
+    "source": {
+      "list": "XAI",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "groq.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:groq.com",
+    "source": {
+      "list": "GROQ",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "h2o.ai",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:h2o.ai",
+    "source": {
+      "list": "CATEGORY-AI-!CN",
+      "line": 46
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hf.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hf.co",
+    "source": {
+      "list": "HUGGINGFACE",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hf.space",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hf.space",
+    "source": {
+      "list": "HUGGINGFACE",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "host.livekit.cloud",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:host.livekit.cloud",
+    "source": {
+      "list": "OPENAI",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "huggingface.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:huggingface.co",
+    "source": {
+      "list": "HUGGINGFACE",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jasper.ai",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jasper.ai",
+    "source": {
+      "list": "CATEGORY-AI-!CN",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jules.google",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jules.google",
+    "source": {
+      "list": "GOOGLE-DEEPMIND",
+      "line": 39
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jules.google.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jules.google.com",
+    "source": {
+      "list": "GOOGLE-DEEPMIND",
+      "line": 40
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kiro.dev",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kiro.dev",
+    "source": {
+      "list": "CATEGORY-AI-!CN",
+      "line": 47
+    }
+  },
+  {
+    "type": "domain",
+    "value": "labs.google",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:labs.google",
+    "source": {
+      "list": "GOOGLE-DEEPMIND",
+      "line": 43
+    }
+  },
+  {
+    "type": "domain",
+    "value": "labs.google.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:labs.google.com",
+    "source": {
+      "list": "GOOGLE-DEEPMIND",
+      "line": 44
+    }
+  },
+  {
+    "type": "domain",
+    "value": "langchain.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:langchain.com",
+    "source": {
+      "list": "CATEGORY-AI-!CN",
+      "line": 48
+    }
+  },
+  {
+    "type": "domain",
+    "value": "liveperson.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:liveperson.net",
+    "source": {
+      "list": "LIVEPERSON",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lmstudio.ai",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lmstudio.ai",
+    "source": {
+      "list": "CATEGORY-AI-!CN",
+      "line": 49
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lovart.ai",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lovart.ai",
+    "source": {
+      "list": "CATEGORY-AI-!CN",
+      "line": 50
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lpsnmedia.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lpsnmedia.net",
+    "source": {
+      "list": "LIVEPERSON",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "makersuite.google.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:makersuite.google.com",
+    "source": {
+      "list": "GOOGLE-DEEPMIND",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "manus.im",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:manus.im",
+    "source": {
+      "list": "MANUS",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "manuscdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:manuscdn.com",
+    "source": {
+      "list": "MANUS",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "marscode.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:marscode.com:@!cn",
+    "source": {
+      "list": "BYTEDANCE-AI-!CN",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "meta.ai",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:meta.ai",
+    "source": {
+      "list": "CATEGORY-AI-!CN",
+      "line": 51
+    }
+  },
+  {
+    "type": "domain",
+    "value": "midjourney.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:midjourney.com",
+    "source": {
+      "list": "CATEGORY-AI-!CN",
+      "line": 52
+    }
+  },
+  {
+    "type": "domain",
+    "value": "minimax.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:minimax.io",
+    "source": {
+      "list": "CATEGORY-AI-!CN",
+      "line": 53
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mistral.ai",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mistral.ai",
+    "source": {
+      "list": "CATEGORY-AI-!CN",
+      "line": 54
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mozilla.ai",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mozilla.ai",
+    "source": {
+      "list": "CATEGORY-AI-!CN",
+      "line": 55
+    }
+  },
+  {
+    "type": "domain",
+    "value": "notebooklm.google",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:notebooklm.google",
+    "source": {
+      "list": "GOOGLE-DEEPMIND",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "notebooklm.google.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:notebooklm.google.com",
+    "source": {
+      "list": "GOOGLE-DEEPMIND",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oaistatic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oaistatic.com",
+    "source": {
+      "list": "OPENAI",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oaiusercontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oaiusercontent.com",
+    "source": {
+      "list": "OPENAI",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ollama.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ollama.com",
+    "source": {
+      "list": "CATEGORY-AI-!CN",
+      "line": 56
+    }
+  },
+  {
+    "type": "domain",
+    "value": "opal.google",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:opal.google",
+    "source": {
+      "list": "GOOGLE-DEEPMIND",
+      "line": 52
+    }
+  },
+  {
+    "type": "domain",
+    "value": "opal.google.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:opal.google.com",
+    "source": {
+      "list": "GOOGLE-DEEPMIND",
+      "line": 53
+    }
+  },
+  {
+    "type": "domain",
+    "value": "openai.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:openai.com",
+    "source": {
+      "list": "OPENAI",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "openai.com.cdn.cloudflare.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:openai.com.cdn.cloudflare.net",
+    "source": {
+      "list": "OPENAI",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "openart.ai",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:openart.ai",
+    "source": {
+      "list": "CATEGORY-AI-!CN",
+      "line": 57
+    }
+  },
+  {
+    "type": "domain",
+    "value": "openclaw.ai",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:openclaw.ai",
+    "source": {
+      "list": "CATEGORY-AI-!CN",
+      "line": 58
+    }
+  },
+  {
+    "type": "domain",
+    "value": "openrouter.ai",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:openrouter.ai",
+    "source": {
+      "list": "CATEGORY-AI-!CN",
+      "line": 59
+    }
+  },
+  {
+    "type": "domain",
+    "value": "openspec.dev",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:openspec.dev",
+    "source": {
+      "list": "CATEGORY-AI-!CN",
+      "line": 60
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oystermercury.top",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oystermercury.top",
+    "source": {
+      "list": "COMFY-UI-LAUNCHER",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "perplexity.ai",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:perplexity.ai",
+    "source": {
+      "list": "PERPLEXITY",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "perplexity.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:perplexity.com",
+    "source": {
+      "list": "PERPLEXITY",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "plannotator.ai",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:plannotator.ai",
+    "source": {
+      "list": "CATEGORY-AI-!CN",
+      "line": 61
+    }
+  },
+  {
+    "type": "domain",
+    "value": "poe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:poe.com",
+    "source": {
+      "list": "POE",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "poecdn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:poecdn.net",
+    "source": {
+      "list": "POE",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pplx.ai",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pplx.ai",
+    "source": {
+      "list": "PERPLEXITY",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "proactivebackend-pa.googleapis.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:proactivebackend-pa.googleapis.com",
+    "source": {
+      "list": "GOOGLE-DEEPMIND",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "robinfrontend-pa.googleapis.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:robinfrontend-pa.googleapis.com",
+    "source": {
+      "list": "GOOGLE-DEEPMIND",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sora.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sora.com",
+    "source": {
+      "list": "OPENAI",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "spicywriter.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:spicywriter.com",
+    "source": {
+      "list": "CATEGORY-AI-!CN",
+      "line": 62
+    }
+  },
+  {
+    "type": "domain",
+    "value": "stitch.withgoogle.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:stitch.withgoogle.com",
+    "source": {
+      "list": "GOOGLE-DEEPMIND",
+      "line": 62
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tapnow.ai",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tapnow.ai",
+    "source": {
+      "list": "CATEGORY-AI-!CN",
+      "line": 63
+    }
+  },
+  {
+    "type": "domain",
+    "value": "themeforest.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:themeforest.net",
+    "source": {
+      "list": "ENVATO",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "trae.ai",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:trae.ai:@!cn",
+    "source": {
+      "list": "BYTEDANCE-AI-!CN",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "turn.livekit.cloud",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:turn.livekit.cloud",
+    "source": {
+      "list": "OPENAI",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "windsurf.build",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:windsurf.build",
+    "source": {
+      "list": "WINDSURF",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "windsurf.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:windsurf.com",
+    "source": {
+      "list": "WINDSURF",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "x.ai",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:x.ai",
+    "source": {
+      "list": "XAI",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youmind.ai",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youmind.ai",
+    "source": {
+      "list": "YOUMIND",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youmind.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youmind.com",
+    "source": {
+      "list": "YOUMIND",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youmind.site",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youmind.site",
+    "source": {
+      "list": "YOUMIND",
+      "line": 4
+    }
+  },
+  {
+    "type": "full",
+    "value": "ai.google.dev",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:ai.google.dev",
+    "source": {
+      "list": "GOOGLE-DEEPMIND",
+      "line": 12
+    }
+  },
+  {
+    "type": "full",
+    "value": "alkalicore-pa.clients6.google.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:alkalicore-pa.clients6.google.com",
+    "source": {
+      "list": "GOOGLE-DEEPMIND",
+      "line": 13
+    }
+  },
+  {
+    "type": "full",
+    "value": "alkalimakersuite-pa.clients6.google.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:alkalimakersuite-pa.clients6.google.com",
+    "source": {
+      "list": "GOOGLE-DEEPMIND",
+      "line": 14
+    }
+  },
+  {
+    "type": "full",
+    "value": "antigravity-pa.googleapis.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:antigravity-pa.googleapis.com",
+    "source": {
+      "list": "GOOGLE-DEEPMIND",
+      "line": 56
+    }
+  },
+  {
+    "type": "full",
+    "value": "antigravity.googleapis.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:antigravity.googleapis.com",
+    "source": {
+      "list": "GOOGLE-DEEPMIND",
+      "line": 57
+    }
+  },
+  {
+    "type": "full",
+    "value": "browser-intake-datadoghq.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:browser-intake-datadoghq.com:@ads",
+    "source": {
+      "list": "OPENAI",
+      "line": 21
+    }
+  },
+  {
+    "type": "full",
+    "value": "cloudaicompanion.googleapis.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cloudaicompanion.googleapis.com",
+    "source": {
+      "list": "GOOGLE-DEEPMIND",
+      "line": 28
+    }
+  },
+  {
+    "type": "full",
+    "value": "cloudcode-pa.googleapis.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cloudcode-pa.googleapis.com",
+    "source": {
+      "list": "GOOGLE-DEEPMIND",
+      "line": 29
+    }
+  },
+  {
+    "type": "full",
+    "value": "copilot-proxy.githubusercontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:copilot-proxy.githubusercontent.com",
+    "source": {
+      "list": "GITHUB-COPILOT",
+      "line": 3
+    }
+  },
+  {
+    "type": "full",
+    "value": "copilot-telemetry-service.githubusercontent.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:copilot-telemetry-service.githubusercontent.com:@ads",
+    "source": {
+      "list": "GITHUB-COPILOT",
+      "line": 10
+    }
+  },
+  {
+    "type": "full",
+    "value": "copilot-telemetry.githubusercontent.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:copilot-telemetry.githubusercontent.com:@ads",
+    "source": {
+      "list": "GITHUB-COPILOT",
+      "line": 11
+    }
+  },
+  {
+    "type": "full",
+    "value": "copilot-workspace.githubnext.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:copilot-workspace.githubnext.com",
+    "source": {
+      "list": "GITHUB-COPILOT",
+      "line": 4
+    }
+  },
+  {
+    "type": "full",
+    "value": "copilotprodattachments.blob.core.windows.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:copilotprodattachments.blob.core.windows.net",
+    "source": {
+      "list": "GITHUB-COPILOT",
+      "line": 7
+    }
+  },
+  {
+    "type": "full",
+    "value": "daily-cloudcode-pa.googleapis.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:daily-cloudcode-pa.googleapis.com",
+    "source": {
+      "list": "GOOGLE-DEEPMIND",
+      "line": 30
+    }
+  },
+  {
+    "type": "full",
+    "value": "notebooklm-pa.googleapis.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:notebooklm-pa.googleapis.com",
+    "source": {
+      "list": "GOOGLE-DEEPMIND",
+      "line": 33
+    }
+  },
+  {
+    "type": "full",
+    "value": "notebooklm.googleapis.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:notebooklm.googleapis.com",
+    "source": {
+      "list": "GOOGLE-DEEPMIND",
+      "line": 34
+    }
+  },
+  {
+    "type": "full",
+    "value": "o33249.ingest.sentry.io",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:o33249.ingest.sentry.io:@ads",
+    "source": {
+      "list": "OPENAI",
+      "line": 20
+    }
+  },
+  {
+    "type": "full",
+    "value": "openaiapi-site.azureedge.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:openaiapi-site.azureedge.net",
+    "source": {
+      "list": "OPENAI",
+      "line": 12
+    }
+  },
+  {
+    "type": "full",
+    "value": "openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net",
+    "source": {
+      "list": "OPENAI",
+      "line": 13
+    }
+  },
+  {
+    "type": "full",
+    "value": "openaicom.imgix.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:openaicom.imgix.net",
+    "source": {
+      "list": "OPENAI",
+      "line": 14
+    }
+  },
+  {
+    "type": "full",
+    "value": "openaicomproductionae4b.blob.core.windows.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:openaicomproductionae4b.blob.core.windows.net",
+    "source": {
+      "list": "OPENAI",
+      "line": 15
+    }
+  },
+  {
+    "type": "full",
+    "value": "ppl-ai-file-upload.s3.amazonaws.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:ppl-ai-file-upload.s3.amazonaws.com",
+    "source": {
+      "list": "PERPLEXITY",
+      "line": 5
+    }
+  },
+  {
+    "type": "full",
+    "value": "pplx-res.cloudinary.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:pplx-res.cloudinary.com",
+    "source": {
+      "list": "PERPLEXITY",
+      "line": 6
+    }
+  },
+  {
+    "type": "full",
+    "value": "production-openaicom-storage.azureedge.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:production-openaicom-storage.azureedge.net",
+    "source": {
+      "list": "OPENAI",
+      "line": 16
+    }
+  },
+  {
+    "type": "full",
+    "value": "servd-anthropic-website.b-cdn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:servd-anthropic-website.b-cdn.net",
+    "source": {
+      "list": "ANTHROPIC",
+      "line": 9
+    }
+  },
+  {
+    "type": "full",
+    "value": "webchannel-alkalimakersuite-pa.clients6.google.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:webchannel-alkalimakersuite-pa.clients6.google.com",
+    "source": {
+      "list": "GOOGLE-DEEPMIND",
+      "line": 15
+    }
+  },
+  {
+    "type": "regexp",
+    "value": "^chatgpt-async-webps-prod-\\S+-\\d+\\.webpubsub\\.azure\\.com$",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "regexp:^chatgpt-async-webps-prod-\\S+-\\d+\\.webpubsub\\.azure\\.com$",
+    "source": {
+      "list": "OPENAI",
+      "line": 17
+    }
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "type": "domain",
+    "value": "emojipedia.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:emojipedia.org",
+    "source": {
+      "list": "EMOJIPEDIA",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "worldemojiawards.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:worldemojiawards.com",
+    "source": {
+      "list": "EMOJIPEDIA",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "worldemojiday.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:worldemojiday.com",
+    "source": {
+      "list": "EMOJIPEDIA",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--yt8h.la",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--yt8h.la",
+    "source": {
+      "list": "EMOJIPEDIA",
+      "line": 4
+    }
+  }
+]

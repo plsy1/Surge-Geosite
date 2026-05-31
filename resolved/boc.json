@@ -1,0 +1,224 @@
+[
+  {
+    "type": "domain",
+    "value": "bank-of-china.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bank-of-china.com",
+    "source": {
+      "list": "BOC",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bankofchina.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bankofchina.com",
+    "source": {
+      "list": "BOC",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "boc.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:boc.cn",
+    "source": {
+      "list": "BOC",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bocamchina.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bocamchina.com",
+    "source": {
+      "list": "BOC",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bocaviation.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bocaviation.com",
+    "source": {
+      "list": "BOC",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "boccfc.cc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:boccfc.cc",
+    "source": {
+      "list": "BOC",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "boccfc.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:boccfc.cn",
+    "source": {
+      "list": "BOC",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bocfullertonbank.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bocfullertonbank.com",
+    "source": {
+      "list": "BOC",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bocgi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bocgi.com",
+    "source": {
+      "list": "BOC",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bocgins.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bocgins.com",
+    "source": {
+      "list": "BOC",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bochk.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:bochk.com:@!cn",
+    "source": {
+      "list": "BOC",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bocichina.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bocichina.cn",
+    "source": {
+      "list": "BOC",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bocichina.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bocichina.com",
+    "source": {
+      "list": "BOC",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bocichina.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bocichina.com.cn",
+    "source": {
+      "list": "BOC",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bocifunds.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bocifunds.cn",
+    "source": {
+      "list": "BOC",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bocifunds.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bocifunds.com",
+    "source": {
+      "list": "BOC",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bocifunds.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bocifunds.com.cn",
+    "source": {
+      "list": "BOC",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bocigroup.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bocigroup.com",
+    "source": {
+      "list": "BOC",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bocim.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bocim.com",
+    "source": {
+      "list": "BOC",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bocservices.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bocservices.com.cn",
+    "source": {
+      "list": "BOC",
+      "line": 26
+    }
+  }
+]

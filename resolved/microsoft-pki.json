@@ -1,0 +1,70 @@
+[
+  {
+    "type": "domain",
+    "value": "msocsp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:msocsp.com",
+    "source": {
+      "list": "MICROSOFT-PKI",
+      "line": 1
+    }
+  },
+  {
+    "type": "full",
+    "value": "crl.microsoft.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:crl.microsoft.com",
+    "source": {
+      "list": "MICROSOFT-PKI",
+      "line": 3
+    }
+  },
+  {
+    "type": "full",
+    "value": "mscrl.microsoft.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:mscrl.microsoft.com",
+    "source": {
+      "list": "MICROSOFT-PKI",
+      "line": 4
+    }
+  },
+  {
+    "type": "full",
+    "value": "ocsp.microsoft.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:ocsp.microsoft.com",
+    "source": {
+      "list": "MICROSOFT-PKI",
+      "line": 5
+    }
+  },
+  {
+    "type": "full",
+    "value": "oneocsp.microsoft.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:oneocsp.microsoft.com",
+    "source": {
+      "list": "MICROSOFT-PKI",
+      "line": 6
+    }
+  },
+  {
+    "type": "full",
+    "value": "www.microsoft.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:www.microsoft.com:@cn",
+    "source": {
+      "list": "MICROSOFT-PKI",
+      "line": 7
+    }
+  }
+]

@@ -1,0 +1,60 @@
+{
+  "name": "HUAWEI",
+  "source": {
+    "domain": 27,
+    "full": 0,
+    "keyword": 0,
+    "regexp": 0,
+    "include": 2,
+    "affiliations": 0,
+    "attributes": 3
+  },
+  "resolved": {
+    "rules": 340,
+    "domain": 340,
+    "full": 0,
+    "keyword": 0,
+    "regexp": 0
+  },
+  "filters": {
+    "attrs": {
+      "!cn": 46,
+      "ads": 1
+    }
+  },
+  "modes": {
+    "strict": {
+      "rules": 340,
+      "bytes": 10365,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "balanced": {
+      "rules": 340,
+      "bytes": 10365,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "full": {
+      "rules": 340,
+      "bytes": 10365,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    }
+  }
+}

@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "acmvid.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:acmvid.com",
+    "source": {
+      "list": "MVIDEO",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mvideo.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mvideo.ru",
+    "source": {
+      "list": "MVIDEO",
+      "line": 2
+    }
+  },
+  {
+    "type": "full",
+    "value": "mvideo.edna.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:mvideo.edna.io",
+    "source": {
+      "list": "MVIDEO",
+      "line": 3
+    }
+  }
+]

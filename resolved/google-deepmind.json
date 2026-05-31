@@ -1,0 +1,431 @@
+[
+  {
+    "type": "domain",
+    "value": "ai.studio",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ai.studio",
+    "source": {
+      "list": "GOOGLE-DEEPMIND",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aicode.googleapis.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aicode.googleapis.com",
+    "source": {
+      "list": "GOOGLE-DEEPMIND",
+      "line": 48
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aida.googleapis.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aida.googleapis.com",
+    "source": {
+      "list": "GOOGLE-DEEPMIND",
+      "line": 49
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aisandbox-pa.googleapis.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aisandbox-pa.googleapis.com",
+    "source": {
+      "list": "GOOGLE-DEEPMIND",
+      "line": 45
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aistudio.google.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aistudio.google.com",
+    "source": {
+      "list": "GOOGLE-DEEPMIND",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "antigravity-unleash.goog",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:antigravity-unleash.goog",
+    "source": {
+      "list": "GOOGLE-DEEPMIND",
+      "line": 59
+    }
+  },
+  {
+    "type": "domain",
+    "value": "antigravity.google",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:antigravity.google",
+    "source": {
+      "list": "GOOGLE-DEEPMIND",
+      "line": 58
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bard.google.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bard.google.com",
+    "source": {
+      "list": "GOOGLE-DEEPMIND",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "deepmind.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:deepmind.com",
+    "source": {
+      "list": "GOOGLE-DEEPMIND",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "deepmind.google",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:deepmind.google",
+    "source": {
+      "list": "GOOGLE-DEEPMIND",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "geller-pa.googleapis.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:geller-pa.googleapis.com",
+    "source": {
+      "list": "GOOGLE-DEEPMIND",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gemini.google",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gemini.google",
+    "source": {
+      "list": "GOOGLE-DEEPMIND",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gemini.google.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gemini.google.com",
+    "source": {
+      "list": "GOOGLE-DEEPMIND",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gemini.gstatic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gemini.gstatic.com",
+    "source": {
+      "list": "GOOGLE-DEEPMIND",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "generativeai.google",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:generativeai.google",
+    "source": {
+      "list": "GOOGLE-DEEPMIND",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "generativelanguage.googleapis.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:generativelanguage.googleapis.com",
+    "source": {
+      "list": "GOOGLE-DEEPMIND",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jules.google",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jules.google",
+    "source": {
+      "list": "GOOGLE-DEEPMIND",
+      "line": 39
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jules.google.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jules.google.com",
+    "source": {
+      "list": "GOOGLE-DEEPMIND",
+      "line": 40
+    }
+  },
+  {
+    "type": "domain",
+    "value": "labs.google",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:labs.google",
+    "source": {
+      "list": "GOOGLE-DEEPMIND",
+      "line": 43
+    }
+  },
+  {
+    "type": "domain",
+    "value": "labs.google.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:labs.google.com",
+    "source": {
+      "list": "GOOGLE-DEEPMIND",
+      "line": 44
+    }
+  },
+  {
+    "type": "domain",
+    "value": "makersuite.google.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:makersuite.google.com",
+    "source": {
+      "list": "GOOGLE-DEEPMIND",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "notebooklm.google",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:notebooklm.google",
+    "source": {
+      "list": "GOOGLE-DEEPMIND",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "notebooklm.google.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:notebooklm.google.com",
+    "source": {
+      "list": "GOOGLE-DEEPMIND",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "opal.google",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:opal.google",
+    "source": {
+      "list": "GOOGLE-DEEPMIND",
+      "line": 52
+    }
+  },
+  {
+    "type": "domain",
+    "value": "opal.google.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:opal.google.com",
+    "source": {
+      "list": "GOOGLE-DEEPMIND",
+      "line": 53
+    }
+  },
+  {
+    "type": "domain",
+    "value": "proactivebackend-pa.googleapis.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:proactivebackend-pa.googleapis.com",
+    "source": {
+      "list": "GOOGLE-DEEPMIND",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "robinfrontend-pa.googleapis.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:robinfrontend-pa.googleapis.com",
+    "source": {
+      "list": "GOOGLE-DEEPMIND",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "stitch.withgoogle.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:stitch.withgoogle.com",
+    "source": {
+      "list": "GOOGLE-DEEPMIND",
+      "line": 62
+    }
+  },
+  {
+    "type": "full",
+    "value": "ai.google.dev",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:ai.google.dev",
+    "source": {
+      "list": "GOOGLE-DEEPMIND",
+      "line": 12
+    }
+  },
+  {
+    "type": "full",
+    "value": "alkalicore-pa.clients6.google.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:alkalicore-pa.clients6.google.com",
+    "source": {
+      "list": "GOOGLE-DEEPMIND",
+      "line": 13
+    }
+  },
+  {
+    "type": "full",
+    "value": "alkalimakersuite-pa.clients6.google.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:alkalimakersuite-pa.clients6.google.com",
+    "source": {
+      "list": "GOOGLE-DEEPMIND",
+      "line": 14
+    }
+  },
+  {
+    "type": "full",
+    "value": "antigravity-pa.googleapis.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:antigravity-pa.googleapis.com",
+    "source": {
+      "list": "GOOGLE-DEEPMIND",
+      "line": 56
+    }
+  },
+  {
+    "type": "full",
+    "value": "antigravity.googleapis.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:antigravity.googleapis.com",
+    "source": {
+      "list": "GOOGLE-DEEPMIND",
+      "line": 57
+    }
+  },
+  {
+    "type": "full",
+    "value": "cloudaicompanion.googleapis.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cloudaicompanion.googleapis.com",
+    "source": {
+      "list": "GOOGLE-DEEPMIND",
+      "line": 28
+    }
+  },
+  {
+    "type": "full",
+    "value": "cloudcode-pa.googleapis.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cloudcode-pa.googleapis.com",
+    "source": {
+      "list": "GOOGLE-DEEPMIND",
+      "line": 29
+    }
+  },
+  {
+    "type": "full",
+    "value": "daily-cloudcode-pa.googleapis.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:daily-cloudcode-pa.googleapis.com",
+    "source": {
+      "list": "GOOGLE-DEEPMIND",
+      "line": 30
+    }
+  },
+  {
+    "type": "full",
+    "value": "notebooklm-pa.googleapis.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:notebooklm-pa.googleapis.com",
+    "source": {
+      "list": "GOOGLE-DEEPMIND",
+      "line": 33
+    }
+  },
+  {
+    "type": "full",
+    "value": "notebooklm.googleapis.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:notebooklm.googleapis.com",
+    "source": {
+      "list": "GOOGLE-DEEPMIND",
+      "line": 34
+    }
+  },
+  {
+    "type": "full",
+    "value": "webchannel-alkalimakersuite-pa.clients6.google.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:webchannel-alkalimakersuite-pa.clients6.google.com",
+    "source": {
+      "list": "GOOGLE-DEEPMIND",
+      "line": 15
+    }
+  }
+]

@@ -1,0 +1,1964 @@
+[
+  {
+    "type": "domain",
+    "value": "ads.youtube.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:ads.youtube.com:@ads",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 182
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ggpht.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:ggpht.cn:@cn",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ggpht.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ggpht.com",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "googlevideo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:googlevideo.com",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wide-youtube.l.google.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wide-youtube.l.google.com",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "withyoutube.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:withyoutube.com",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtu.be",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtu.be",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube-nocookie.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube-nocookie.com",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube-ui.l.google.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube-ui.l.google.com",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.ae",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.ae",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.al",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.al",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.am",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.am",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.at",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.at",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.az",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.az",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.ba",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.ba",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.be",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.be",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.bg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.bg",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.bh",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.bh",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.bo",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.bo",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.by",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.by",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.ca",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.ca",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.cat",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.cat",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.ch",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.ch",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.cl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.cl",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.co",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.co.ae",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.co.ae",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.co.at",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.co.at",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.co.cr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.co.cr",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.co.hu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.co.hu",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.co.id",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.co.id",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.co.il",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.co.il",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.co.in",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.co.in",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.co.jp",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.co.ke",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.co.ke",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.co.kr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.co.kr",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 37
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.co.ma",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.co.ma",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 38
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.co.nz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.co.nz",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 39
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.co.th",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.co.th",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 40
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.co.tz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.co.tz",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.co.ug",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.co.ug",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 42
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.co.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.co.uk",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 43
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.co.ve",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.co.ve",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 44
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.co.za",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.co.za",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 45
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.co.zw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.co.zw",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 46
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.com",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 47
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.com.ar",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.com.ar",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 48
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.com.au",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.com.au",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 49
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.com.az",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.com.az",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 50
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.com.bd",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.com.bd",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 51
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.com.bh",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.com.bh",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 52
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.com.bo",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.com.bo",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 53
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.com.br",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.com.br",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 54
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.com.by",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.com.by",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 55
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.com.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.com.co",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 56
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.com.do",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.com.do",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 57
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.com.ec",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.com.ec",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 58
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.com.ee",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.com.ee",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 59
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.com.eg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.com.eg",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 60
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.com.es",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.com.es",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 61
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.com.gh",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.com.gh",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 62
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.com.gr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.com.gr",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 63
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.com.gt",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.com.gt",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 64
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.com.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.com.hk",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 65
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.com.hn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.com.hn",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 66
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.com.hr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.com.hr",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 67
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.com.jm",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.com.jm",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 68
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.com.jo",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.com.jo",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 69
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.com.kw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.com.kw",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 70
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.com.lb",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.com.lb",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 71
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.com.lv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.com.lv",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 72
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.com.ly",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.com.ly",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 73
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.com.mk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.com.mk",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 74
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.com.mt",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.com.mt",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 75
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.com.mx",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.com.mx",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 76
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.com.my",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.com.my",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 77
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.com.ng",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.com.ng",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 78
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.com.ni",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.com.ni",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 79
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.com.om",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.com.om",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 80
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.com.pa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.com.pa",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 81
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.com.pe",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.com.pe",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 82
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.com.ph",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.com.ph",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 83
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.com.pk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.com.pk",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 84
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.com.pt",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.com.pt",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 85
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.com.py",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.com.py",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 86
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.com.qa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.com.qa",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 87
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.com.ro",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.com.ro",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 88
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.com.sa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.com.sa",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 89
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.com.sg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.com.sg",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 90
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.com.sv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.com.sv",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 91
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.com.tn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.com.tn",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 92
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.com.tr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.com.tr",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 93
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.com.tw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.com.tw",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 94
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.com.ua",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.com.ua",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 95
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.com.uy",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.com.uy",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 96
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.com.ve",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.com.ve",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 97
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.cr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.cr",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 98
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.cz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.cz",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 99
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.de",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 100
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.dk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.dk",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 101
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.ee",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.ee",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 102
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.es",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.es",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 103
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.fi",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.fi",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 104
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.fr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.fr",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 105
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.ge",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.ge",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 106
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.googleapis.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.googleapis.com",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 107
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.gr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.gr",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 108
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.gt",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.gt",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 109
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.hk",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 110
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.hr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.hr",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 111
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.hu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.hu",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 112
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.ie",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.ie",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 113
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.in",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.in",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 114
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.iq",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.iq",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 115
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.is",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.is",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 116
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.it",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.it",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 117
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.jo",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.jo",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 118
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.jp",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 119
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.kr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.kr",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 120
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.kz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.kz",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 121
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.la",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.la",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 122
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.lk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.lk",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 123
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.lt",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.lt",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 124
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.lu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.lu",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 125
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.lv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.lv",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 126
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.ly",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.ly",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 127
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.ma",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.ma",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 128
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.md",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.md",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 129
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.me",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 130
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.mk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.mk",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 131
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.mn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.mn",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 132
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.mx",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.mx",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 133
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.my",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.my",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 134
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.ng",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.ng",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 135
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.ni",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.ni",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 136
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.nl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.nl",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 137
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.no",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.no",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 138
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.pa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.pa",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 139
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.pe",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.pe",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 140
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.ph",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.ph",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 141
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.pk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.pk",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 142
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.pl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.pl",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 143
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.pr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.pr",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 144
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.pt",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.pt",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 145
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.qa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.qa",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 146
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.ro",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.ro",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 147
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.rs",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.rs",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 148
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.ru",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 149
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.sa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.sa",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 150
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.se",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.se",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 151
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.sg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.sg",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 152
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.si",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.si",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 153
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.sk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.sk",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 154
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.sn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.sn",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 155
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.soy",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.soy",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 156
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.sv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.sv",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 157
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.tn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.tn",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 158
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.tv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.tv",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 159
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.ua",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.ua",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 160
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.ug",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.ug",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 161
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.uy",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.uy",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 162
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube.vn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube.vn",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 163
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtubeeducation.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtubeeducation.com",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 164
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtubeembeddedplayer.googleapis.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtubeembeddedplayer.googleapis.com",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 165
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtubefanfest.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtubefanfest.com",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 166
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtubegaming.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtubegaming.com",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 167
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtubego.co.id",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtubego.co.id",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 168
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtubego.co.in",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtubego.co.in",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 169
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtubego.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtubego.com",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 170
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtubego.com.br",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtubego.com.br",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 171
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtubego.id",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtubego.id",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 172
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtubego.in",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtubego.in",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 173
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtubei.googleapis.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtubei.googleapis.com",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 174
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtubekids.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtubekids.com",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 175
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtubemobilesupport.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtubemobilesupport.com",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 176
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yt.be",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yt.be",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 177
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ytimg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ytimg.com",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 178
+    }
+  },
+  {
+    "type": "full",
+    "value": "yt3.googleusercontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:yt3.googleusercontent.com",
+    "source": {
+      "list": "YOUTUBE",
+      "line": 179
+    }
+  }
+]

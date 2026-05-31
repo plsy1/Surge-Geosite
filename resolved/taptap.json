@@ -1,0 +1,81 @@
+[
+  {
+    "type": "domain",
+    "value": "tapapks.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tapapks.com",
+    "source": {
+      "list": "TAPTAP",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tapimg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tapimg.com",
+    "source": {
+      "list": "TAPTAP",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tapimg.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tapimg.net",
+    "source": {
+      "list": "TAPTAP",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "taptap.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:taptap.cn",
+    "source": {
+      "list": "TAPTAP",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "taptap.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:taptap.com",
+    "source": {
+      "list": "TAPTAP",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "taptap.io",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:taptap.io:@!cn",
+    "source": {
+      "list": "TAPTAP",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "taptapdada.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:taptapdada.com",
+    "source": {
+      "list": "TAPTAP",
+      "line": 7
+    }
+  }
+]

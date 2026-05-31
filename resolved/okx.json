@@ -1,0 +1,92 @@
+[
+  {
+    "type": "domain",
+    "value": "okex.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:okex.com",
+    "source": {
+      "list": "OKX",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oklink.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:oklink.com:@cn",
+    "source": {
+      "list": "OKX",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "okx-dns.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:okx-dns.com",
+    "source": {
+      "list": "OKX",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "okx-dns1.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:okx-dns1.com",
+    "source": {
+      "list": "OKX",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "okx-dns2.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:okx-dns2.com",
+    "source": {
+      "list": "OKX",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "okx.cab",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:okx.cab",
+    "source": {
+      "list": "OKX",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "okx.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:okx.com",
+    "source": {
+      "list": "OKX",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "okx.com.cdn.cloudflare.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:okx.com.cdn.cloudflare.net",
+    "source": {
+      "list": "OKX",
+      "line": 7
+    }
+  }
+]

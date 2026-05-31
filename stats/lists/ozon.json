@@ -1,0 +1,59 @@
+{
+  "name": "OZON",
+  "source": {
+    "domain": 42,
+    "full": 18,
+    "keyword": 0,
+    "regexp": 0,
+    "include": 0,
+    "affiliations": 0,
+    "attributes": 18
+  },
+  "resolved": {
+    "rules": 60,
+    "domain": 42,
+    "full": 18,
+    "keyword": 0,
+    "regexp": 0
+  },
+  "filters": {
+    "attrs": {
+      "ads": 18
+    }
+  },
+  "modes": {
+    "strict": {
+      "rules": 60,
+      "bytes": 1589,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "balanced": {
+      "rules": 60,
+      "bytes": 1589,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "full": {
+      "rules": 60,
+      "bytes": 1589,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    }
+  }
+}

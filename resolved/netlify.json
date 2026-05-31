@@ -1,0 +1,57 @@
+[
+  {
+    "type": "domain",
+    "value": "bitballoon.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bitballoon.com",
+    "source": {
+      "list": "NETLIFY",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "netlify.app",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:netlify.app",
+    "source": {
+      "list": "NETLIFY",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "netlify.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:netlify.com",
+    "source": {
+      "list": "NETLIFY",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "netlifystatus.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:netlifystatus.com",
+    "source": {
+      "list": "NETLIFY",
+      "line": 4
+    }
+  },
+  {
+    "type": "full",
+    "value": "d33wubrfki0l68.cloudfront.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:d33wubrfki0l68.cloudfront.net",
+    "source": {
+      "list": "NETLIFY",
+      "line": 6
+    }
+  }
+]

@@ -1,0 +1,59 @@
+{
+  "name": "GITHUB",
+  "source": {
+    "domain": 25,
+    "full": 27,
+    "keyword": 0,
+    "regexp": 0,
+    "include": 2,
+    "affiliations": 0,
+    "attributes": 1
+  },
+  "resolved": {
+    "rules": 59,
+    "domain": 29,
+    "full": 30,
+    "keyword": 0,
+    "regexp": 0
+  },
+  "filters": {
+    "attrs": {
+      "ads": 3
+    }
+  },
+  "modes": {
+    "strict": {
+      "rules": 59,
+      "bytes": 2367,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "balanced": {
+      "rules": 59,
+      "bytes": 2367,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "full": {
+      "rules": 59,
+      "bytes": 2367,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    }
+  }
+}

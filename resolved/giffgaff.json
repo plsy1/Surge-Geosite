@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "giffgaff.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:giffgaff.com",
+    "source": {
+      "list": "GIFFGAFF",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "giffgaff.design",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:giffgaff.design",
+    "source": {
+      "list": "GIFFGAFF",
+      "line": 2
+    }
+  }
+]

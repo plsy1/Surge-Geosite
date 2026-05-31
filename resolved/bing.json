@@ -1,0 +1,440 @@
+[
+  {
+    "type": "domain",
+    "value": "bing",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bing",
+    "source": {
+      "list": "BING",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bing.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bing.com",
+    "source": {
+      "list": "BING",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bing.com.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:bing.com.cn:@cn",
+    "source": {
+      "list": "BING",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bing.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bing.net",
+    "source": {
+      "list": "BING",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bing123.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bing123.com",
+    "source": {
+      "list": "BING",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bingads.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:bingads.com:@ads",
+    "source": {
+      "list": "BING",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bingagencyawards.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bingagencyawards.com",
+    "source": {
+      "list": "BING",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bingapis.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bingapis.com",
+    "source": {
+      "list": "BING",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bingapistatistics.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bingapistatistics.com",
+    "source": {
+      "list": "BING",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bingparachute.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bingparachute.com",
+    "source": {
+      "list": "BING",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bingsandbox.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bingsandbox.com",
+    "source": {
+      "list": "BING",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bingvisualsearch.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bingvisualsearch.com",
+    "source": {
+      "list": "BING",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bingworld.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bingworld.com",
+    "source": {
+      "list": "BING",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bluehatnights.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bluehatnights.com",
+    "source": {
+      "list": "BING",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cn.bing.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:cn.bing.com:@cn",
+    "source": {
+      "list": "BING",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cn.bing.net",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:cn.bing.net:@cn",
+    "source": {
+      "list": "BING",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cn.mm.bing.net",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:cn.mm.bing.net:@cn",
+    "source": {
+      "list": "BING",
+      "line": 37
+    }
+  },
+  {
+    "type": "domain",
+    "value": "copilot.microsoft.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:copilot.microsoft.com",
+    "source": {
+      "list": "BING",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dictate.ms",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dictate.ms",
+    "source": {
+      "list": "BING",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ditu.live.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:ditu.live.com:@cn",
+    "source": {
+      "list": "BING",
+      "line": 38
+    }
+  },
+  {
+    "type": "domain",
+    "value": "flipwithsurface.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:flipwithsurface.com",
+    "source": {
+      "list": "BING",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "masalladeloslimites.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:masalladeloslimites.com",
+    "source": {
+      "list": "BING",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoft-give.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoft-give.com",
+    "source": {
+      "list": "BING",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoftcloudsummit.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoftcloudsummit.com",
+    "source": {
+      "list": "BING",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoftdiplomados.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoftdiplomados.com",
+    "source": {
+      "list": "BING",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoftlatamholiday.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoftlatamholiday.com",
+    "source": {
+      "list": "BING",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoftmxfilantropia.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoftmxfilantropia.com",
+    "source": {
+      "list": "BING",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoftpartnersolutions.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoftpartnersolutions.com",
+    "source": {
+      "list": "BING",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "msunlimitedcloudsummit.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:msunlimitedcloudsummit.com",
+    "source": {
+      "list": "BING",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "office365love.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:office365love.com",
+    "source": {
+      "list": "BING",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "office365tw.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:office365tw.com",
+    "source": {
+      "list": "BING",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "r.bing.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:r.bing.com:@cn",
+    "source": {
+      "list": "BING",
+      "line": 39
+    }
+  },
+  {
+    "type": "domain",
+    "value": "renovacionoffice.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:renovacionoffice.com",
+    "source": {
+      "list": "BING",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sprinklesapp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sprinklesapp.com",
+    "source": {
+      "list": "BING",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "th.bing.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:th.bing.com:@cn",
+    "source": {
+      "list": "BING",
+      "line": 40
+    }
+  },
+  {
+    "type": "full",
+    "value": "bj1.api.bing.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:bj1.api.bing.com:@cn",
+    "source": {
+      "list": "BING",
+      "line": 41
+    }
+  },
+  {
+    "type": "full",
+    "value": "emoi-cncdn.bing.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:emoi-cncdn.bing.com:@cn",
+    "source": {
+      "list": "BING",
+      "line": 42
+    }
+  },
+  {
+    "type": "full",
+    "value": "location.microsoft.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:location.microsoft.com",
+    "source": {
+      "list": "BING",
+      "line": 33
+    }
+  }
+]

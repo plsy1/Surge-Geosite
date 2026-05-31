@@ -1,0 +1,1011 @@
+[
+  {
+    "type": "domain",
+    "value": "97973.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:97973.com",
+    "source": {
+      "list": "SINA",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ad.sina.com.cn",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:ad.sina.com.cn:@ads",
+    "source": {
+      "list": "SINA",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ad.us.sinaimg.cn",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:ad.us.sinaimg.cn:@ads",
+    "source": {
+      "list": "SINA",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adbox.sina.com.cn",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:adbox.sina.com.cn:@ads",
+    "source": {
+      "list": "SINA",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adimg.mobile.sina.cn",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:adimg.mobile.sina.cn:@ads",
+    "source": {
+      "list": "SINA",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adimg.uve.weibo.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:adimg.uve.weibo.com:@ads",
+    "source": {
+      "list": "SINA",
+      "line": 37
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ads.sina.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:ads.sina.com:@ads",
+    "source": {
+      "list": "SINA",
+      "line": 38
+    }
+  },
+  {
+    "type": "domain",
+    "value": "alitui.weibo.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:alitui.weibo.com:@ads",
+    "source": {
+      "list": "SINA",
+      "line": 39
+    }
+  },
+  {
+    "type": "domain",
+    "value": "askdiandian.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:askdiandian.com",
+    "source": {
+      "list": "ASKDIANDIAN",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "beacon.sina.com.cn",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:beacon.sina.com.cn:@ads",
+    "source": {
+      "list": "SINA",
+      "line": 40
+    }
+  },
+  {
+    "type": "domain",
+    "value": "biz.weibo.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:biz.weibo.com:@ads",
+    "source": {
+      "list": "SINA",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "click.uve.mobile.sina.cn",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:click.uve.mobile.sina.cn:@ads",
+    "source": {
+      "list": "SINA",
+      "line": 42
+    }
+  },
+  {
+    "type": "domain",
+    "value": "click.uve.weibo.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:click.uve.weibo.com:@ads",
+    "source": {
+      "list": "SINA",
+      "line": 43
+    }
+  },
+  {
+    "type": "domain",
+    "value": "coolapk.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:coolapk.com",
+    "source": {
+      "list": "COOLAPK",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "coolapkmarket.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:coolapkmarket.com",
+    "source": {
+      "list": "COOLAPK",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "coolapkmarket.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:coolapkmarket.net",
+    "source": {
+      "list": "COOLAPK",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "crash2.zhihu.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:crash2.zhihu.com:@ads",
+    "source": {
+      "list": "ZHIHU",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dandan818.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dandan818.com",
+    "source": {
+      "list": "CATEGORY-SOCIAL-MEDIA-CN",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dandanvoice.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dandanvoice.com",
+    "source": {
+      "list": "CATEGORY-SOCIAL-MEDIA-CN",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "diandianlife.top",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:diandianlife.top",
+    "source": {
+      "list": "ASKDIANDIAN",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "douban.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:douban.com",
+    "source": {
+      "list": "DOUBAN",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "douban.fm",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:douban.fm",
+    "source": {
+      "list": "DOUBAN",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "doubanio.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:doubanio.com",
+    "source": {
+      "list": "DOUBAN",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fanfou.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fanfou.com",
+    "source": {
+      "list": "CATEGORY-SOCIAL-MEDIA-CN",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gracg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gracg.com",
+    "source": {
+      "list": "GRACG",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hoopchina.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hoopchina.com.cn",
+    "source": {
+      "list": "HUPU",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hupu.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hupu.com",
+    "source": {
+      "list": "HUPU",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hupucdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hupucdn.com",
+    "source": {
+      "list": "HUPU",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ivwen.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ivwen.com",
+    "source": {
+      "list": "MEIPIAN",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jike.city",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jike.city",
+    "source": {
+      "list": "OKJIKE",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jikecdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jikecdn.com",
+    "source": {
+      "list": "OKJIKE",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "log.mix.sina.com.cn",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:log.mix.sina.com.cn:@ads",
+    "source": {
+      "list": "SINA",
+      "line": 44
+    }
+  },
+  {
+    "type": "domain",
+    "value": "log.sina.cn",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:log.sina.cn:@ads",
+    "source": {
+      "list": "SINA",
+      "line": 45
+    }
+  },
+  {
+    "type": "domain",
+    "value": "log2.sina.cn",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:log2.sina.cn:@ads",
+    "source": {
+      "list": "SINA",
+      "line": 46
+    }
+  },
+  {
+    "type": "domain",
+    "value": "maimai.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:maimai.cn",
+    "source": {
+      "list": "CATEGORY-SOCIAL-MEDIA-CN",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "meipian.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:meipian.cn",
+    "source": {
+      "list": "MEIPIAN",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "meipian.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:meipian.me",
+    "source": {
+      "list": "MEIPIAN",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mixer.sina.cn",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:mixer.sina.cn:@ads",
+    "source": {
+      "list": "SINA",
+      "line": 47
+    }
+  },
+  {
+    "type": "domain",
+    "value": "okjike.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:okjike.com",
+    "source": {
+      "list": "OKJIKE",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "okjk.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:okjk.co",
+    "source": {
+      "list": "OKJIKE",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "p4p.sina.com.cn",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:p4p.sina.com.cn:@ads",
+    "source": {
+      "list": "SINA",
+      "line": 48
+    }
+  },
+  {
+    "type": "domain",
+    "value": "picself.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:picself.cn",
+    "source": {
+      "list": "SINA",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "procg.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:procg.cn",
+    "source": {
+      "list": "GRACG",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "redelight.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:redelight.cn",
+    "source": {
+      "list": "XIAOHONGSHU",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rs.sinajs.cn",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:rs.sinajs.cn:@ads",
+    "source": {
+      "list": "SINA",
+      "line": 49
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ruguoapp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ruguoapp.com",
+    "source": {
+      "list": "OKJIKE",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sa.sina.cn",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:sa.sina.cn:@ads",
+    "source": {
+      "list": "SINA",
+      "line": 50
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sbeacon.sina.com.cn",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:sbeacon.sina.com.cn:@ads",
+    "source": {
+      "list": "SINA",
+      "line": 51
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sdkclick.mobile.sina.cn",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:sdkclick.mobile.sina.cn:@ads",
+    "source": {
+      "list": "SINA",
+      "line": 52
+    }
+  },
+  {
+    "type": "domain",
+    "value": "shihuo.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:shihuo.cn",
+    "source": {
+      "list": "HUPU",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sina.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sina.cn",
+    "source": {
+      "list": "SINA",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sina.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sina.com",
+    "source": {
+      "list": "SINA",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sina.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sina.com.cn",
+    "source": {
+      "list": "SINA",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sina.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sina.net",
+    "source": {
+      "list": "SINA",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sinaapp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sinaapp.com",
+    "source": {
+      "list": "SINA",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sinaedge.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sinaedge.com",
+    "source": {
+      "list": "SINA",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sinaimg.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sinaimg.cn",
+    "source": {
+      "list": "SINA",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sinaimg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sinaimg.com",
+    "source": {
+      "list": "SINA",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sinajs.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sinajs.cn",
+    "source": {
+      "list": "SINA",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sinajs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sinajs.com",
+    "source": {
+      "list": "SINA",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "slog.sina.cn",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:slog.sina.cn:@ads",
+    "source": {
+      "list": "SINA",
+      "line": 53
+    }
+  },
+  {
+    "type": "domain",
+    "value": "slog.sina.com.cn",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:slog.sina.com.cn:@ads",
+    "source": {
+      "list": "SINA",
+      "line": 54
+    }
+  },
+  {
+    "type": "domain",
+    "value": "t.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:t.cn",
+    "source": {
+      "list": "SINA",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "taou.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:taou.com",
+    "source": {
+      "list": "CATEGORY-SOCIAL-MEDIA-CN",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tieba.baidu.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tieba.baidu.com",
+    "source": {
+      "list": "CATEGORY-SOCIAL-MEDIA-CN",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tieba.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tieba.com",
+    "source": {
+      "list": "CATEGORY-SOCIAL-MEDIA-CN",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "videoself.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:videoself.cn",
+    "source": {
+      "list": "SINA",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wapwbclick.mobile.sina.cn",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:wapwbclick.mobile.sina.cn:@ads",
+    "source": {
+      "list": "SINA",
+      "line": 55
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wbclick.mobile.sina.cn",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:wbclick.mobile.sina.cn:@ads",
+    "source": {
+      "list": "SINA",
+      "line": 56
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wbimg.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wbimg.cn",
+    "source": {
+      "list": "SINA",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wbimg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wbimg.com",
+    "source": {
+      "list": "SINA",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wcdn.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wcdn.cn",
+    "source": {
+      "list": "SINA",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "weibo.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:weibo.cn",
+    "source": {
+      "list": "SINA",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "weibo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:weibo.com",
+    "source": {
+      "list": "SINA",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "weibo.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:weibo.com.cn",
+    "source": {
+      "list": "SINA",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "weibocdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:weibocdn.com",
+    "source": {
+      "list": "SINA",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "weibopay.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:weibopay.com",
+    "source": {
+      "list": "SINA",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xhaiwai.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xhaiwai.com",
+    "source": {
+      "list": "SINA",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xhscdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xhscdn.com",
+    "source": {
+      "list": "XIAOHONGSHU",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xhscdn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xhscdn.net",
+    "source": {
+      "list": "XIAOHONGSHU",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xhslink.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xhslink.com",
+    "source": {
+      "list": "XIAOHONGSHU",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xhsrcdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xhsrcdn.com",
+    "source": {
+      "list": "XIAOHONGSHU",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xiaohongshu.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xiaohongshu.com",
+    "source": {
+      "list": "XIAOHONGSHU",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zhihu-web-analytics.zhihu.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:zhihu-web-analytics.zhihu.com:@ads",
+    "source": {
+      "list": "ZHIHU",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zhihu.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zhihu.com",
+    "source": {
+      "list": "ZHIHU",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zhimg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zhimg.com",
+    "source": {
+      "list": "ZHIHU",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zsxq.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zsxq.com",
+    "source": {
+      "list": "CATEGORY-SOCIAL-MEDIA-CN",
+      "line": 28
+    }
+  }
+]

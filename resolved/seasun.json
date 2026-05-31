@@ -1,0 +1,68 @@
+[
+  {
+    "type": "domain",
+    "value": "cbjq.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cbjq.com",
+    "source": {
+      "list": "SEASUN",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "seasungames.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:seasungames.com",
+    "source": {
+      "list": "SEASUN",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "testplus.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:testplus.cn",
+    "source": {
+      "list": "SEASUN",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xishanju.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xishanju.com",
+    "source": {
+      "list": "SEASUN",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xoyo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xoyo.com",
+    "source": {
+      "list": "SEASUN",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xoyocdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xoyocdn.com",
+    "source": {
+      "list": "SEASUN",
+      "line": 4
+    }
+  }
+]

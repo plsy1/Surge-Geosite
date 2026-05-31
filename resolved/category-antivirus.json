@@ -1,0 +1,2024 @@
+[
+  {
+    "type": "domain",
+    "value": "avast.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:avast.com",
+    "source": {
+      "list": "CATEGORY-ANTIVIRUS",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "avg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:avg.com",
+    "source": {
+      "list": "CATEGORY-ANTIVIRUS",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "avira.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:avira.com",
+    "source": {
+      "list": "CATEGORY-ANTIVIRUS",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bitdefender.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bitdefender.com",
+    "source": {
+      "list": "CATEGORY-ANTIVIRUS",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "clamwin.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:clamwin.com",
+    "source": {
+      "list": "CATEGORY-ANTIVIRUS",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cn.eset.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:cn.eset.com:@cn",
+    "source": {
+      "list": "ESET",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "comodo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:comodo.com",
+    "source": {
+      "list": "COMODO",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "comodo.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:comodo.net",
+    "source": {
+      "list": "COMODO",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "drweb-av.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:drweb-av.de",
+    "source": {
+      "list": "DRWEB",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "drweb-av.es",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:drweb-av.es",
+    "source": {
+      "list": "DRWEB",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "drweb-av.it",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:drweb-av.it",
+    "source": {
+      "list": "DRWEB",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "drweb-av.pl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:drweb-av.pl",
+    "source": {
+      "list": "DRWEB",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "drweb.by",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:drweb.by",
+    "source": {
+      "list": "DRWEB",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "drweb.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:drweb.cn",
+    "source": {
+      "list": "DRWEB",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "drweb.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:drweb.co.jp",
+    "source": {
+      "list": "DRWEB",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "drweb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:drweb.com",
+    "source": {
+      "list": "DRWEB",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "drweb.fr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:drweb.fr",
+    "source": {
+      "list": "DRWEB",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "drweb.kz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:drweb.kz",
+    "source": {
+      "list": "DRWEB",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "drweb.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:drweb.ru",
+    "source": {
+      "list": "DRWEB",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "drweb.uz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:drweb.uz",
+    "source": {
+      "list": "DRWEB",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "e5.sk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:e5.sk",
+    "source": {
+      "list": "ESET",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "eset.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:eset.com",
+    "source": {
+      "list": "ESET",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "eset.eu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:eset.eu",
+    "source": {
+      "list": "ESET",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "eset.sk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:eset.sk",
+    "source": {
+      "list": "ESET",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "eset.systems",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:eset.systems",
+    "source": {
+      "list": "ESET",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "esetsoftware.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:esetsoftware.com",
+    "source": {
+      "list": "ESET",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "f-secure.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:f-secure.com",
+    "source": {
+      "list": "CATEGORY-ANTIVIRUS",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kaspersky-labs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kaspersky-labs.com",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kaspersky.be",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kaspersky.be",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kaspersky.ca",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kaspersky.ca",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kaspersky.co.in",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kaspersky.co.in",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kaspersky.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kaspersky.co.jp",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kaspersky.co.kr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kaspersky.co.kr",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kaspersky.co.th",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kaspersky.co.th",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kaspersky.co.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kaspersky.co.uk",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kaspersky.co.za",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kaspersky.co.za",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kaspersky.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kaspersky.com",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kaspersky.com.au",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kaspersky.com.au",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kaspersky.com.br",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kaspersky.com.br",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kaspersky.com.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:kaspersky.com.cn:@cn",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kaspersky.com.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kaspersky.com.hk",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kaspersky.com.pl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kaspersky.com.pl",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kaspersky.com.tr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kaspersky.com.tr",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kaspersky.com.tw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kaspersky.com.tw",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kaspersky.com.vn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kaspersky.com.vn",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kaspersky.cz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kaspersky.cz",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kaspersky.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kaspersky.de",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kaspersky.dk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kaspersky.dk",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kaspersky.dz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kaspersky.dz",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kaspersky.es",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kaspersky.es",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kaspersky.fi",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kaspersky.fi",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kaspersky.fr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kaspersky.fr",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kaspersky.gr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kaspersky.gr",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kaspersky.it",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kaspersky.it",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kaspersky.kz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kaspersky.kz",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kaspersky.ma",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kaspersky.ma",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kaspersky.my",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kaspersky.my",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kaspersky.nl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kaspersky.nl",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kaspersky.pt",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kaspersky.pt",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kaspersky.ro",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kaspersky.ro",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kaspersky.rs",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kaspersky.rs",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 37
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kaspersky.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kaspersky.ru",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 38
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kaspersky.se",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kaspersky.se",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 39
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mcafee.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mcafee.com",
+    "source": {
+      "list": "CATEGORY-ANTIVIRUS",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "norton.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:norton.com",
+    "source": {
+      "list": "CATEGORY-ANTIVIRUS",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pandasecurity.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pandasecurity.com",
+    "source": {
+      "list": "CATEGORY-ANTIVIRUS",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "symantec.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:symantec.com",
+    "source": {
+      "list": "SYMANTEC",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "symantecliveupdate.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:symantecliveupdate.com",
+    "source": {
+      "list": "SYMANTEC",
+      "line": 2
+    }
+  },
+  {
+    "type": "full",
+    "value": "activate.activation-v2.kaspersky.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:activate.activation-v2.kaspersky.com:@cn",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 43
+    }
+  },
+  {
+    "type": "full",
+    "value": "activation-v2.geo.kaspersky.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:activation-v2.geo.kaspersky.com:@cn",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 42
+    }
+  },
+  {
+    "type": "full",
+    "value": "activation-v2.kaspersky.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:activation-v2.kaspersky.com:@cn",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 41
+    }
+  },
+  {
+    "type": "full",
+    "value": "crl.kaspersky.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:crl.kaspersky.com:@cn",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 46
+    }
+  },
+  {
+    "type": "full",
+    "value": "dc1-cert.ksn.kaspersky-labs.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:dc1-cert.ksn.kaspersky-labs.com:@cn",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 48
+    }
+  },
+  {
+    "type": "full",
+    "value": "dc1-file.ksn.kaspersky-labs.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:dc1-file.ksn.kaspersky-labs.com:@cn",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 49
+    }
+  },
+  {
+    "type": "full",
+    "value": "dc1-pp.ksn.kaspersky-labs.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:dc1-pp.ksn.kaspersky-labs.com:@cn",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 50
+    }
+  },
+  {
+    "type": "full",
+    "value": "dc1-st.ksn.kaspersky-labs.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:dc1-st.ksn.kaspersky-labs.com:@cn",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 51
+    }
+  },
+  {
+    "type": "full",
+    "value": "dc1.ksn.kaspersky-labs.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:dc1.ksn.kaspersky-labs.com:@cn",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 47
+    }
+  },
+  {
+    "type": "full",
+    "value": "dnl-00.geo.kaspersky.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:dnl-00.geo.kaspersky.com:@cn",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 52
+    }
+  },
+  {
+    "type": "full",
+    "value": "dnl-01.geo.kaspersky.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:dnl-01.geo.kaspersky.com:@cn",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 53
+    }
+  },
+  {
+    "type": "full",
+    "value": "dnl-02.geo.kaspersky.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:dnl-02.geo.kaspersky.com:@cn",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 54
+    }
+  },
+  {
+    "type": "full",
+    "value": "dnl-03.geo.kaspersky.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:dnl-03.geo.kaspersky.com:@cn",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 55
+    }
+  },
+  {
+    "type": "full",
+    "value": "dnl-04.geo.kaspersky.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:dnl-04.geo.kaspersky.com:@cn",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 56
+    }
+  },
+  {
+    "type": "full",
+    "value": "dnl-05.geo.kaspersky.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:dnl-05.geo.kaspersky.com:@cn",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 57
+    }
+  },
+  {
+    "type": "full",
+    "value": "dnl-06.geo.kaspersky.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:dnl-06.geo.kaspersky.com:@cn",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 58
+    }
+  },
+  {
+    "type": "full",
+    "value": "dnl-07.geo.kaspersky.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:dnl-07.geo.kaspersky.com:@cn",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 59
+    }
+  },
+  {
+    "type": "full",
+    "value": "dnl-08.geo.kaspersky.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:dnl-08.geo.kaspersky.com:@cn",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 60
+    }
+  },
+  {
+    "type": "full",
+    "value": "dnl-09.geo.kaspersky.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:dnl-09.geo.kaspersky.com:@cn",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 61
+    }
+  },
+  {
+    "type": "full",
+    "value": "dnl-10.geo.kaspersky.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:dnl-10.geo.kaspersky.com:@cn",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 62
+    }
+  },
+  {
+    "type": "full",
+    "value": "dnl-11.geo.kaspersky.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:dnl-11.geo.kaspersky.com:@cn",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 63
+    }
+  },
+  {
+    "type": "full",
+    "value": "dnl-12.geo.kaspersky.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:dnl-12.geo.kaspersky.com:@cn",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 64
+    }
+  },
+  {
+    "type": "full",
+    "value": "dnl-13.geo.kaspersky.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:dnl-13.geo.kaspersky.com:@cn",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 65
+    }
+  },
+  {
+    "type": "full",
+    "value": "dnl-14.geo.kaspersky.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:dnl-14.geo.kaspersky.com:@cn",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 66
+    }
+  },
+  {
+    "type": "full",
+    "value": "dnl-15.geo.kaspersky.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:dnl-15.geo.kaspersky.com:@cn",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 67
+    }
+  },
+  {
+    "type": "full",
+    "value": "dnl-16.geo.kaspersky.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:dnl-16.geo.kaspersky.com:@cn",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 68
+    }
+  },
+  {
+    "type": "full",
+    "value": "dnl-17.geo.kaspersky.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:dnl-17.geo.kaspersky.com:@cn",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 69
+    }
+  },
+  {
+    "type": "full",
+    "value": "dnl-18.geo.kaspersky.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:dnl-18.geo.kaspersky.com:@cn",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 70
+    }
+  },
+  {
+    "type": "full",
+    "value": "dnl-19.geo.kaspersky.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:dnl-19.geo.kaspersky.com:@cn",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 71
+    }
+  },
+  {
+    "type": "full",
+    "value": "edge.geo.kaspersky.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:edge.geo.kaspersky.com:@cn",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 72
+    }
+  },
+  {
+    "type": "full",
+    "value": "epc-de-agent-proxy.germanywestcentral.cloudapp.azure.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:epc-de-agent-proxy.germanywestcentral.cloudapp.azure.com",
+    "source": {
+      "list": "ESET",
+      "line": 14
+    }
+  },
+  {
+    "type": "full",
+    "value": "eset-prod-ca48648d0ce7cadf.elb.eu-central-1.amazonaws.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:eset-prod-ca48648d0ce7cadf.elb.eu-central-1.amazonaws.com",
+    "source": {
+      "list": "ESET",
+      "line": 11
+    }
+  },
+  {
+    "type": "full",
+    "value": "ksn-cinfo-geo.kaspersky-labs.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:ksn-cinfo-geo.kaspersky-labs.com:@cn",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 74
+    }
+  },
+  {
+    "type": "full",
+    "value": "ksn-cinfo.geoksn.kaspersky.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:ksn-cinfo.geoksn.kaspersky.com:@cn",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 73
+    }
+  },
+  {
+    "type": "full",
+    "value": "ksn-crypto-info-geo.kaspersky-labs.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:ksn-crypto-info-geo.kaspersky-labs.com:@cn",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 75
+    }
+  },
+  {
+    "type": "full",
+    "value": "ksn-crypto-kas-geo.kaspersky-labs.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:ksn-crypto-kas-geo.kaspersky-labs.com:@cn",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 76
+    }
+  },
+  {
+    "type": "full",
+    "value": "ksn-crypto-tcert-geo.kaspersky-labs.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:ksn-crypto-tcert-geo.kaspersky-labs.com:@cn",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 77
+    }
+  },
+  {
+    "type": "full",
+    "value": "ksn-crypto-url-geo.kaspersky-labs.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:ksn-crypto-url-geo.kaspersky-labs.com:@cn",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 78
+    }
+  },
+  {
+    "type": "full",
+    "value": "ksn-crypto-verdict-geo.kaspersky-labs.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:ksn-crypto-verdict-geo.kaspersky-labs.com:@cn",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 79
+    }
+  },
+  {
+    "type": "full",
+    "value": "ksn-crypto-wifiplus-geo.kaspersky-labs.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:ksn-crypto-wifiplus-geo.kaspersky-labs.com:@cn",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 81
+    }
+  },
+  {
+    "type": "full",
+    "value": "ksn-crypto-wifiplus.geoksn.kaspersky.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:ksn-crypto-wifiplus.geoksn.kaspersky.com:@cn",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 80
+    }
+  },
+  {
+    "type": "full",
+    "value": "ksn-dc1-cert.geoksn.kaspersky.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:ksn-dc1-cert.geoksn.kaspersky.com:@cn",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 83
+    }
+  },
+  {
+    "type": "full",
+    "value": "ksn-dc1-file.geoksn.kaspersky.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:ksn-dc1-file.geoksn.kaspersky.com:@cn",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 84
+    }
+  },
+  {
+    "type": "full",
+    "value": "ksn-dc1.geoksn.kaspersky.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:ksn-dc1.geoksn.kaspersky.com:@cn",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 82
+    }
+  },
+  {
+    "type": "full",
+    "value": "ksn-file-geo.kaspersky-labs.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:ksn-file-geo.kaspersky-labs.com:@cn",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 86
+    }
+  },
+  {
+    "type": "full",
+    "value": "ksn-file.geoksn.kaspersky.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:ksn-file.geoksn.kaspersky.com:@cn",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 85
+    }
+  },
+  {
+    "type": "full",
+    "value": "ksn-info-geo.kaspersky-labs.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:ksn-info-geo.kaspersky-labs.com:@cn",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 88
+    }
+  },
+  {
+    "type": "full",
+    "value": "ksn-info.geoksn.kaspersky.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:ksn-info.geoksn.kaspersky.com:@cn",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 87
+    }
+  },
+  {
+    "type": "full",
+    "value": "ksn-kas.geoksn.kaspersky.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:ksn-kas.geoksn.kaspersky.com:@cn",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 89
+    }
+  },
+  {
+    "type": "full",
+    "value": "ksn-mdr.geoksn.kaspersky.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:ksn-mdr.geoksn.kaspersky.com:@cn",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 90
+    }
+  },
+  {
+    "type": "full",
+    "value": "ksn-tcert-geo.kaspersky-labs.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:ksn-tcert-geo.kaspersky-labs.com:@cn",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 92
+    }
+  },
+  {
+    "type": "full",
+    "value": "ksn-tcert.geoksn.kaspersky.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:ksn-tcert.geoksn.kaspersky.com:@cn",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 91
+    }
+  },
+  {
+    "type": "full",
+    "value": "ksn-url-geo.kaspersky-labs.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:ksn-url-geo.kaspersky-labs.com:@cn",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 94
+    }
+  },
+  {
+    "type": "full",
+    "value": "ksn-url.geoksn.kaspersky.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:ksn-url.geoksn.kaspersky.com:@cn",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 93
+    }
+  },
+  {
+    "type": "full",
+    "value": "ksn-verdict-geo.kaspersky-labs.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:ksn-verdict-geo.kaspersky-labs.com:@cn",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 96
+    }
+  },
+  {
+    "type": "full",
+    "value": "ksn-verdict.geoksn.kaspersky.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:ksn-verdict.geoksn.kaspersky.com:@cn",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 95
+    }
+  },
+  {
+    "type": "full",
+    "value": "mdr.ksn.kaspersky-labs.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:mdr.ksn.kaspersky-labs.com:@cn",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 97
+    }
+  },
+  {
+    "type": "full",
+    "value": "p00.upd.kaspersky.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:p00.upd.kaspersky.com:@cn",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 98
+    }
+  },
+  {
+    "type": "full",
+    "value": "p01.upd.kaspersky.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:p01.upd.kaspersky.com:@cn",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 99
+    }
+  },
+  {
+    "type": "full",
+    "value": "p02.upd.kaspersky.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:p02.upd.kaspersky.com:@cn",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 100
+    }
+  },
+  {
+    "type": "full",
+    "value": "p03.upd.kaspersky.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:p03.upd.kaspersky.com:@cn",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 101
+    }
+  },
+  {
+    "type": "full",
+    "value": "p04.upd.kaspersky.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:p04.upd.kaspersky.com:@cn",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 102
+    }
+  },
+  {
+    "type": "full",
+    "value": "p05.upd.kaspersky.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:p05.upd.kaspersky.com:@cn",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 103
+    }
+  },
+  {
+    "type": "full",
+    "value": "p06.upd.kaspersky.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:p06.upd.kaspersky.com:@cn",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 104
+    }
+  },
+  {
+    "type": "full",
+    "value": "p07.upd.kaspersky.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:p07.upd.kaspersky.com:@cn",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 105
+    }
+  },
+  {
+    "type": "full",
+    "value": "p08.upd.kaspersky.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:p08.upd.kaspersky.com:@cn",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 106
+    }
+  },
+  {
+    "type": "full",
+    "value": "p09.upd.kaspersky.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:p09.upd.kaspersky.com:@cn",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 107
+    }
+  },
+  {
+    "type": "full",
+    "value": "p10.upd.kaspersky.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:p10.upd.kaspersky.com:@cn",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 108
+    }
+  },
+  {
+    "type": "full",
+    "value": "p11.upd.kaspersky.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:p11.upd.kaspersky.com:@cn",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 109
+    }
+  },
+  {
+    "type": "full",
+    "value": "p12.upd.kaspersky.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:p12.upd.kaspersky.com:@cn",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 110
+    }
+  },
+  {
+    "type": "full",
+    "value": "p13.upd.kaspersky.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:p13.upd.kaspersky.com:@cn",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 111
+    }
+  },
+  {
+    "type": "full",
+    "value": "p14.upd.kaspersky.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:p14.upd.kaspersky.com:@cn",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 112
+    }
+  },
+  {
+    "type": "full",
+    "value": "p15.upd.kaspersky.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:p15.upd.kaspersky.com:@cn",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 113
+    }
+  },
+  {
+    "type": "full",
+    "value": "p16.upd.kaspersky.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:p16.upd.kaspersky.com:@cn",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 114
+    }
+  },
+  {
+    "type": "full",
+    "value": "p17.upd.kaspersky.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:p17.upd.kaspersky.com:@cn",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 115
+    }
+  },
+  {
+    "type": "full",
+    "value": "p18.upd.kaspersky.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:p18.upd.kaspersky.com:@cn",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 116
+    }
+  },
+  {
+    "type": "full",
+    "value": "p19.upd.kaspersky.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:p19.upd.kaspersky.com:@cn",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 117
+    }
+  },
+  {
+    "type": "full",
+    "value": "refresh-bkg.activation-v2.kaspersky.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:refresh-bkg.activation-v2.kaspersky.com:@cn",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 44
+    }
+  },
+  {
+    "type": "full",
+    "value": "s00.upd.kaspersky.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:s00.upd.kaspersky.com:@cn",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 118
+    }
+  },
+  {
+    "type": "full",
+    "value": "s01.upd.kaspersky.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:s01.upd.kaspersky.com:@cn",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 119
+    }
+  },
+  {
+    "type": "full",
+    "value": "s02.upd.kaspersky.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:s02.upd.kaspersky.com:@cn",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 120
+    }
+  },
+  {
+    "type": "full",
+    "value": "s03.upd.kaspersky.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:s03.upd.kaspersky.com:@cn",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 121
+    }
+  },
+  {
+    "type": "full",
+    "value": "s04.upd.kaspersky.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:s04.upd.kaspersky.com:@cn",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 122
+    }
+  },
+  {
+    "type": "full",
+    "value": "s05.upd.kaspersky.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:s05.upd.kaspersky.com:@cn",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 123
+    }
+  },
+  {
+    "type": "full",
+    "value": "s06.upd.kaspersky.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:s06.upd.kaspersky.com:@cn",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 124
+    }
+  },
+  {
+    "type": "full",
+    "value": "s07.upd.kaspersky.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:s07.upd.kaspersky.com:@cn",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 125
+    }
+  },
+  {
+    "type": "full",
+    "value": "s08.upd.kaspersky.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:s08.upd.kaspersky.com:@cn",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 126
+    }
+  },
+  {
+    "type": "full",
+    "value": "s09.upd.kaspersky.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:s09.upd.kaspersky.com:@cn",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 127
+    }
+  },
+  {
+    "type": "full",
+    "value": "s10.upd.kaspersky.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:s10.upd.kaspersky.com:@cn",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 128
+    }
+  },
+  {
+    "type": "full",
+    "value": "s11.upd.kaspersky.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:s11.upd.kaspersky.com:@cn",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 129
+    }
+  },
+  {
+    "type": "full",
+    "value": "s12.upd.kaspersky.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:s12.upd.kaspersky.com:@cn",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 130
+    }
+  },
+  {
+    "type": "full",
+    "value": "s13.upd.kaspersky.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:s13.upd.kaspersky.com:@cn",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 131
+    }
+  },
+  {
+    "type": "full",
+    "value": "s14.upd.kaspersky.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:s14.upd.kaspersky.com:@cn",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 132
+    }
+  },
+  {
+    "type": "full",
+    "value": "s15.upd.kaspersky.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:s15.upd.kaspersky.com:@cn",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 133
+    }
+  },
+  {
+    "type": "full",
+    "value": "s16.upd.kaspersky.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:s16.upd.kaspersky.com:@cn",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 134
+    }
+  },
+  {
+    "type": "full",
+    "value": "s17.upd.kaspersky.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:s17.upd.kaspersky.com:@cn",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 135
+    }
+  },
+  {
+    "type": "full",
+    "value": "s18.upd.kaspersky.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:s18.upd.kaspersky.com:@cn",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 136
+    }
+  },
+  {
+    "type": "full",
+    "value": "s19.upd.kaspersky.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:s19.upd.kaspersky.com:@cn",
+    "source": {
+      "list": "KASPERSKY",
+      "line": 137
+    }
+  }
+]

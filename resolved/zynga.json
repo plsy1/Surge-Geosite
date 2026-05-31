@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "zynga.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zynga.com",
+    "source": {
+      "list": "ZYNGA",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zyngaplayersupport.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zyngaplayersupport.com",
+    "source": {
+      "list": "ZYNGA",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zyngapoker.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zyngapoker.com",
+    "source": {
+      "list": "ZYNGA",
+      "line": 3
+    }
+  }
+]

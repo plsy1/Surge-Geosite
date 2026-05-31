@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "esp32.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:esp32.com",
+    "source": {
+      "list": "ESPRESSIF",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "esp8266.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:esp8266.com",
+    "source": {
+      "list": "ESPRESSIF",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "espressif.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:espressif.com",
+    "source": {
+      "list": "ESPRESSIF",
+      "line": 1
+    }
+  }
+]

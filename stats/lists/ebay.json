@@ -1,0 +1,59 @@
+{
+  "name": "EBAY",
+  "source": {
+    "domain": 363,
+    "full": 1,
+    "keyword": 0,
+    "regexp": 0,
+    "include": 0,
+    "affiliations": 0,
+    "attributes": 37
+  },
+  "resolved": {
+    "rules": 363,
+    "domain": 362,
+    "full": 1,
+    "keyword": 0,
+    "regexp": 0
+  },
+  "filters": {
+    "attrs": {
+      "cn": 37
+    }
+  },
+  "modes": {
+    "strict": {
+      "rules": 363,
+      "bytes": 10416,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "balanced": {
+      "rules": 363,
+      "bytes": 10416,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "full": {
+      "rules": 363,
+      "bytes": 10416,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    }
+  }
+}

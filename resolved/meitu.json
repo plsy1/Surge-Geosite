@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "meitu.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:meitu.com",
+    "source": {
+      "list": "MEITU",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "meitudata.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:meitudata.com",
+    "source": {
+      "list": "MEITU",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "meitustat.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:meitustat.com",
+    "source": {
+      "list": "MEITU",
+      "line": 3
+    }
+  }
+]

@@ -1,0 +1,59 @@
+{
+  "name": "SPOTIFY",
+  "source": {
+    "domain": 15,
+    "full": 11,
+    "keyword": 0,
+    "regexp": 0,
+    "include": 0,
+    "affiliations": 0,
+    "attributes": 3
+  },
+  "resolved": {
+    "rules": 26,
+    "domain": 15,
+    "full": 11,
+    "keyword": 0,
+    "regexp": 0
+  },
+  "filters": {
+    "attrs": {
+      "ads": 3
+    }
+  },
+  "modes": {
+    "strict": {
+      "rules": 26,
+      "bytes": 835,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "balanced": {
+      "rules": 26,
+      "bytes": 835,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "full": {
+      "rules": 26,
+      "bytes": 835,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    }
+  }
+}

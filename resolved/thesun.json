@@ -1,0 +1,79 @@
+[
+  {
+    "type": "domain",
+    "value": "dreamteamfc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dreamteamfc.com",
+    "source": {
+      "list": "THESUN",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "page3.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:page3.com",
+    "source": {
+      "list": "THESUN",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sunbingo.co.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sunbingo.co.uk",
+    "source": {
+      "list": "THESUN",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "talksport.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:talksport.com",
+    "source": {
+      "list": "THESUN",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "thescottishsun.co.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:thescottishsun.co.uk",
+    "source": {
+      "list": "THESUN",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "thesun.co.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:thesun.co.uk",
+    "source": {
+      "list": "THESUN",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "thesun.ie",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:thesun.ie",
+    "source": {
+      "list": "THESUN",
+      "line": 7
+    }
+  }
+]

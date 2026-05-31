@@ -1,0 +1,160 @@
+[
+  {
+    "type": "domain",
+    "value": "cdn.jetbrains.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:cdn.jetbrains.com:@cn",
+    "source": {
+      "list": "JETBRAINS",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "datalore.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:datalore.io",
+    "source": {
+      "list": "JETBRAINS",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "download-cdn.jetbrains.com.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:download-cdn.jetbrains.com.cn:@cn",
+    "source": {
+      "list": "JETBRAINS",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intellij.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intellij.com",
+    "source": {
+      "list": "JETBRAINS",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intellij.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intellij.net",
+    "source": {
+      "list": "JETBRAINS",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intellij.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intellij.org",
+    "source": {
+      "list": "JETBRAINS",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jb.gg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jb.gg",
+    "source": {
+      "list": "JETBRAINS",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jetbrains.cloud",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jetbrains.cloud",
+    "source": {
+      "list": "JETBRAINS",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jetbrains.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jetbrains.com",
+    "source": {
+      "list": "JETBRAINS",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jetbrains.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jetbrains.net",
+    "source": {
+      "list": "JETBRAINS",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jetbrains.space",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jetbrains.space",
+    "source": {
+      "list": "JETBRAINS",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jetbrains.team",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jetbrains.team",
+    "source": {
+      "list": "JETBRAINS",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kotlinlang.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kotlinlang.org",
+    "source": {
+      "list": "JETBRAINS",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtrack.cloud",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtrack.cloud",
+    "source": {
+      "list": "JETBRAINS",
+      "line": 12
+    }
+  }
+]

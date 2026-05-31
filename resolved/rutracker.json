@@ -1,0 +1,90 @@
+[
+  {
+    "type": "domain",
+    "value": "maintracker.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:maintracker.org",
+    "source": {
+      "list": "RUTRACKER",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rutracker.cc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rutracker.cc",
+    "source": {
+      "list": "RUTRACKER",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rutracker.cr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rutracker.cr",
+    "source": {
+      "list": "RUTRACKER",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rutracker.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rutracker.me",
+    "source": {
+      "list": "RUTRACKER",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rutracker.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rutracker.net",
+    "source": {
+      "list": "RUTRACKER",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rutracker.nl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rutracker.nl",
+    "source": {
+      "list": "RUTRACKER",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rutracker.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rutracker.org",
+    "source": {
+      "list": "RUTRACKER",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rutrk.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rutrk.org",
+    "source": {
+      "list": "RUTRACKER",
+      "line": 8
+    }
+  }
+]

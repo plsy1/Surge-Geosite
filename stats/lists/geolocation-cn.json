@@ -1,0 +1,88 @@
+{
+  "name": "GEOLOCATION-CN",
+  "source": {
+    "domain": 1296,
+    "full": 0,
+    "keyword": 0,
+    "regexp": 0,
+    "include": 152,
+    "affiliations": 0,
+    "attributes": 19
+  },
+  "resolved": {
+    "rules": 7045,
+    "domain": 7002,
+    "full": 40,
+    "keyword": 0,
+    "regexp": 3
+  },
+  "filters": {
+    "attrs": {
+      "cn": 75,
+      "ads": 444
+    }
+  },
+  "modes": {
+    "strict": {
+      "rules": 7042,
+      "bytes": 190413,
+      "regex": {
+        "total": 3,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 3
+      },
+      "unsupported": [
+        {
+          "pattern": ".+\\.awsdns-cn-[0-9][0-9]\\.(biz|com|net|top)$",
+          "source": {
+            "list": "AWS-CN",
+            "line": 31
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": ".+\\.awsdns-cn-[0-9][a-e0-9]\\.cn$",
+          "source": {
+            "list": "AWS-CN",
+            "line": 32
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "^.+-mihayo\\.akamaized\\.net$",
+          "source": {
+            "list": "MIHOYO-CN",
+            "line": 31
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        }
+      ]
+    },
+    "balanced": {
+      "rules": 7045,
+      "bytes": 190518,
+      "regex": {
+        "total": 3,
+        "lossless": 0,
+        "widened": 3,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "full": {
+      "rules": 7045,
+      "bytes": 190518,
+      "regex": {
+        "total": 3,
+        "lossless": 0,
+        "widened": 3,
+        "unsupported": 0
+      },
+      "unsupported": []
+    }
+  }
+}

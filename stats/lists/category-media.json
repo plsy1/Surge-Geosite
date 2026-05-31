@@ -1,0 +1,59 @@
+{
+  "name": "CATEGORY-MEDIA",
+  "source": {
+    "domain": 102,
+    "full": 0,
+    "keyword": 0,
+    "regexp": 0,
+    "include": 74,
+    "affiliations": 0,
+    "attributes": 0
+  },
+  "resolved": {
+    "rules": 1447,
+    "domain": 1423,
+    "full": 24,
+    "keyword": 0,
+    "regexp": 0
+  },
+  "filters": {
+    "attrs": {
+      "cn": 5
+    }
+  },
+  "modes": {
+    "strict": {
+      "rules": 1447,
+      "bytes": 42488,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "balanced": {
+      "rules": 1447,
+      "bytes": 42488,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "full": {
+      "rules": 1447,
+      "bytes": 42488,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    }
+  }
+}

@@ -1,0 +1,827 @@
+[
+  {
+    "type": "domain",
+    "value": "analog.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:analog.com",
+    "source": {
+      "list": "CATEGORY-ELECTRONIC-CN",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "arrow.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:arrow.cn",
+    "source": {
+      "list": "CATEGORY-ELECTRONIC-CN",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "boe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:boe.com",
+    "source": {
+      "list": "CATEGORY-ELECTRONIC-CN",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "boe.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:boe.com.cn",
+    "source": {
+      "list": "CATEGORY-ELECTRONIC-CN",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bouffalolab.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bouffalolab.com",
+    "source": {
+      "list": "CATEGORY-ELECTRONIC-CN",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cxmt.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cxmt.com",
+    "source": {
+      "list": "CATEGORY-ELECTRONIC-CN",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "eda.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:eda.cn",
+    "source": {
+      "list": "CATEGORY-ELECTRONIC-CN",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "elecfans.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:elecfans.com",
+    "source": {
+      "list": "CATEGORY-ELECTRONIC-CN",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "esp8266.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:esp8266.cn",
+    "source": {
+      "list": "CATEGORY-ELECTRONIC-CN",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "esp8266.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:esp8266.com.cn",
+    "source": {
+      "list": "CATEGORY-ELECTRONIC-CN",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "espressif.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:espressif.cn",
+    "source": {
+      "list": "CATEGORY-ELECTRONIC-CN",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "espressif.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:espressif.com.cn",
+    "source": {
+      "list": "CATEGORY-ELECTRONIC-CN",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fa-part.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fa-part.com",
+    "source": {
+      "list": "JLC",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "forface3d.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:forface3d.com",
+    "source": {
+      "list": "JLC",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hqchip.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hqchip.com",
+    "source": {
+      "list": "CATEGORY-ELECTRONIC-CN",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hqdoc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hqdoc.com",
+    "source": {
+      "list": "CATEGORY-ELECTRONIC-CN",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hqpcb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hqpcb.com",
+    "source": {
+      "list": "CATEGORY-ELECTRONIC-CN",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "infineon.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:infineon.cn",
+    "source": {
+      "list": "CATEGORY-ELECTRONIC-CN",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "iotronic.tech",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:iotronic.tech",
+    "source": {
+      "list": "CATEGORY-ELECTRONIC-CN",
+      "line": 43
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jlc-3dp.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jlc-3dp.cn",
+    "source": {
+      "list": "JLC",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jlc-3dp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jlc-3dp.com",
+    "source": {
+      "list": "JLC",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jlc-bbs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jlc-bbs.com",
+    "source": {
+      "list": "JLC",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jlc-cad.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jlc-cad.com",
+    "source": {
+      "list": "JLC",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jlc-cam.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jlc-cam.com",
+    "source": {
+      "list": "JLC",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jlc-cnc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jlc-cnc.com",
+    "source": {
+      "list": "JLC",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jlc-dfm.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jlc-dfm.com",
+    "source": {
+      "list": "JLC",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jlc-drm.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jlc-drm.com",
+    "source": {
+      "list": "JLC",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jlc-ecad.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jlc-ecad.com",
+    "source": {
+      "list": "JLC",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jlc-erp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jlc-erp.com",
+    "source": {
+      "list": "JLC",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jlc-fpc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jlc-fpc.com",
+    "source": {
+      "list": "JLC",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jlc-gw.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jlc-gw.com",
+    "source": {
+      "list": "JLC",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jlc-jh.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jlc-jh.com",
+    "source": {
+      "list": "JLC",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jlc-layout.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jlc-layout.com",
+    "source": {
+      "list": "JLC",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jlc-pcb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jlc-pcb.com",
+    "source": {
+      "list": "JLC",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jlc-smt.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jlc-smt.com",
+    "source": {
+      "list": "JLC",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jlc-zh.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jlc-zh.com",
+    "source": {
+      "list": "JLC",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jlc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jlc.com",
+    "source": {
+      "list": "JLC",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jlc3dp.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jlc3dp.cn",
+    "source": {
+      "list": "JLC",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jlccad.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jlccad.com",
+    "source": {
+      "list": "JLC",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jlccam.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jlccam.com",
+    "source": {
+      "list": "JLC",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jlccnc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jlccnc.com",
+    "source": {
+      "list": "JLC",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jlcdfm.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jlcdfm.com",
+    "source": {
+      "list": "JLC",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jlcecad.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jlcecad.com",
+    "source": {
+      "list": "JLC",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jlceda.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jlceda.cn",
+    "source": {
+      "list": "JLC",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jlceda.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jlceda.com",
+    "source": {
+      "list": "JLC",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jlcerp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jlcerp.com",
+    "source": {
+      "list": "JLC",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jlcfa.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jlcfa.com",
+    "source": {
+      "list": "JLC",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jlcgroup.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jlcgroup.cn",
+    "source": {
+      "list": "JLC",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jlcops.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jlcops.com",
+    "source": {
+      "list": "JLC",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jlcsj.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jlcsj.com",
+    "source": {
+      "list": "JLC",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jlcsmt.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jlcsmt.com",
+    "source": {
+      "list": "JLC",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lceda.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lceda.cn",
+    "source": {
+      "list": "JLC",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lckfb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lckfb.com",
+    "source": {
+      "list": "JLC",
+      "line": 37
+    }
+  },
+  {
+    "type": "domain",
+    "value": "maixhub.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:maixhub.com",
+    "source": {
+      "list": "CATEGORY-ELECTRONIC-CN",
+      "line": 56
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oshwhub.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oshwhub.com",
+    "source": {
+      "list": "JLC",
+      "line": 38
+    }
+  },
+  {
+    "type": "domain",
+    "value": "quecmall.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:quecmall.cn",
+    "source": {
+      "list": "CATEGORY-ELECTRONIC-CN",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "quectel.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:quectel.com.cn",
+    "source": {
+      "list": "CATEGORY-ELECTRONIC-CN",
+      "line": 42
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rock-chips.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rock-chips.com",
+    "source": {
+      "list": "CATEGORY-ELECTRONIC-CN",
+      "line": 46
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sanweihou.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sanweihou.com",
+    "source": {
+      "list": "JLC",
+      "line": 39
+    }
+  },
+  {
+    "type": "domain",
+    "value": "seeed.cc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:seeed.cc",
+    "source": {
+      "list": "CATEGORY-ELECTRONIC-CN",
+      "line": 50
+    }
+  },
+  {
+    "type": "domain",
+    "value": "seeed.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:seeed.cn",
+    "source": {
+      "list": "CATEGORY-ELECTRONIC-CN",
+      "line": 49
+    }
+  },
+  {
+    "type": "domain",
+    "value": "seeed.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:seeed.com.cn",
+    "source": {
+      "list": "CATEGORY-ELECTRONIC-CN",
+      "line": 51
+    }
+  },
+  {
+    "type": "domain",
+    "value": "seeedstudio.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:seeedstudio.com.cn",
+    "source": {
+      "list": "CATEGORY-ELECTRONIC-CN",
+      "line": 52
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sipeed.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sipeed.com",
+    "source": {
+      "list": "CATEGORY-ELECTRONIC-CN",
+      "line": 55
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sz-jlc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sz-jlc.com",
+    "source": {
+      "list": "JLC",
+      "line": 40
+    }
+  },
+  {
+    "type": "domain",
+    "value": "szjlc.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:szjlc.cn",
+    "source": {
+      "list": "JLC",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "szlcsc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:szlcsc.com",
+    "source": {
+      "list": "JLC",
+      "line": 42
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ti.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ti.com.cn",
+    "source": {
+      "list": "CATEGORY-ELECTRONIC-CN",
+      "line": 60
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wch-ic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wch-ic.com",
+    "source": {
+      "list": "CATEGORY-ELECTRONIC-CN",
+      "line": 64
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wch.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wch.cn",
+    "source": {
+      "list": "CATEGORY-ELECTRONIC-CN",
+      "line": 63
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ymtc.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ymtc.cn",
+    "source": {
+      "list": "YMTC",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ymtc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ymtc.com",
+    "source": {
+      "list": "YMTC",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ymtc.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ymtc.com.cn",
+    "source": {
+      "list": "YMTC",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zs-jlc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zs-jlc.com",
+    "source": {
+      "list": "JLC",
+      "line": 43
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zxhgroup.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zxhgroup.com",
+    "source": {
+      "list": "JLC",
+      "line": 44
+    }
+  }
+]

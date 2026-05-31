@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "scp-wiki.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:scp-wiki.net",
+    "source": {
+      "list": "SCP",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "scpdb.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:scpdb.org",
+    "source": {
+      "list": "SCP",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "scpwiki.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:scpwiki.com",
+    "source": {
+      "list": "SCP",
+      "line": 3
+    }
+  }
+]

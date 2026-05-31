@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "i-scmp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:i-scmp.com",
+    "source": {
+      "list": "SCMP",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "scmp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:scmp.com",
+    "source": {
+      "list": "SCMP",
+      "line": 1
+    }
+  }
+]

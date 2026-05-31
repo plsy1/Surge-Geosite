@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "youzan.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youzan.com",
+    "source": {
+      "list": "YOUZAN",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youzanyun.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youzanyun.com",
+    "source": {
+      "list": "YOUZAN",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yzcdn.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yzcdn.cn",
+    "source": {
+      "list": "YOUZAN",
+      "line": 2
+    }
+  }
+]

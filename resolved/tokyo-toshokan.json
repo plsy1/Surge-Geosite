@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "tokyo-tosho.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tokyo-tosho.net",
+    "source": {
+      "list": "TOKYO-TOSHOKAN",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tokyotosho.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tokyotosho.info",
+    "source": {
+      "list": "TOKYO-TOSHOKAN",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tokyotosho.se",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tokyotosho.se",
+    "source": {
+      "list": "TOKYO-TOSHOKAN",
+      "line": 3
+    }
+  }
+]

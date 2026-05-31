@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "firefox.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:firefox.com",
+    "source": {
+      "list": "FIREFOX",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "firefoxusercontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:firefoxusercontent.com",
+    "source": {
+      "list": "FIREFOX",
+      "line": 2
+    }
+  }
+]

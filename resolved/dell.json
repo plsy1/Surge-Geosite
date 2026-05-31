@@ -1,0 +1,2664 @@
+[
+  {
+    "type": "domain",
+    "value": "alienware.ae",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:alienware.ae",
+    "source": {
+      "list": "DELL",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "alienware.at",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:alienware.at",
+    "source": {
+      "list": "DELL",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "alienware.be",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:alienware.be",
+    "source": {
+      "list": "DELL",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "alienware.biz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:alienware.biz",
+    "source": {
+      "list": "DELL",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "alienware.ca",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:alienware.ca",
+    "source": {
+      "list": "DELL",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "alienware.ch",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:alienware.ch",
+    "source": {
+      "list": "DELL",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "alienware.co.cr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:alienware.co.cr",
+    "source": {
+      "list": "DELL",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "alienware.co.il",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:alienware.co.il",
+    "source": {
+      "list": "DELL",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "alienware.co.in",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:alienware.co.in",
+    "source": {
+      "list": "DELL",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "alienware.co.nz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:alienware.co.nz",
+    "source": {
+      "list": "DELL",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "alienware.co.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:alienware.co.uk",
+    "source": {
+      "list": "DELL",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "alienware.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:alienware.com",
+    "source": {
+      "list": "DELL",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "alienware.com.au",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:alienware.com.au",
+    "source": {
+      "list": "DELL",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "alienware.com.es",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:alienware.com.es",
+    "source": {
+      "list": "DELL",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "alienware.com.my",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:alienware.com.my",
+    "source": {
+      "list": "DELL",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "alienware.com.sg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:alienware.com.sg",
+    "source": {
+      "list": "DELL",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "alienware.cz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:alienware.cz",
+    "source": {
+      "list": "DELL",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "alienware.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:alienware.de",
+    "source": {
+      "list": "DELL",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "alienware.dk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:alienware.dk",
+    "source": {
+      "list": "DELL",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "alienware.es",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:alienware.es",
+    "source": {
+      "list": "DELL",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "alienware.eu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:alienware.eu",
+    "source": {
+      "list": "DELL",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "alienware.fr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:alienware.fr",
+    "source": {
+      "list": "DELL",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "alienware.gr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:alienware.gr",
+    "source": {
+      "list": "DELL",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "alienware.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:alienware.hk",
+    "source": {
+      "list": "DELL",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "alienware.ie",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:alienware.ie",
+    "source": {
+      "list": "DELL",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "alienware.it",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:alienware.it",
+    "source": {
+      "list": "DELL",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "alienware.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:alienware.jp",
+    "source": {
+      "list": "DELL",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "alienware.kr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:alienware.kr",
+    "source": {
+      "list": "DELL",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "alienware.lv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:alienware.lv",
+    "source": {
+      "list": "DELL",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "alienware.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:alienware.net",
+    "source": {
+      "list": "DELL",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "alienware.nl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:alienware.nl",
+    "source": {
+      "list": "DELL",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "alienware.ph",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:alienware.ph",
+    "source": {
+      "list": "DELL",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "alienware.pl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:alienware.pl",
+    "source": {
+      "list": "DELL",
+      "line": 37
+    }
+  },
+  {
+    "type": "domain",
+    "value": "alienware.ps",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:alienware.ps",
+    "source": {
+      "list": "DELL",
+      "line": 38
+    }
+  },
+  {
+    "type": "domain",
+    "value": "alienware.ro",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:alienware.ro",
+    "source": {
+      "list": "DELL",
+      "line": 39
+    }
+  },
+  {
+    "type": "domain",
+    "value": "alienware.se",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:alienware.se",
+    "source": {
+      "list": "DELL",
+      "line": 40
+    }
+  },
+  {
+    "type": "domain",
+    "value": "alienware.us",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:alienware.us",
+    "source": {
+      "list": "DELL",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dataframeworks.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dataframeworks.com",
+    "source": {
+      "list": "DELL",
+      "line": 185
+    }
+  },
+  {
+    "type": "domain",
+    "value": "del.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:del.com",
+    "source": {
+      "list": "DELL",
+      "line": 43
+    }
+  },
+  {
+    "type": "domain",
+    "value": "del.com.br",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:del.com.br",
+    "source": {
+      "list": "DELL",
+      "line": 44
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell",
+    "source": {
+      "list": "DELL",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell-alw.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:dell-alw.com:@cn",
+    "source": {
+      "list": "DELL",
+      "line": 186
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell-brand.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:dell-brand.com:@cn",
+    "source": {
+      "list": "DELL",
+      "line": 45
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.ac",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.ac",
+    "source": {
+      "list": "DELL",
+      "line": 46
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.am",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.am",
+    "source": {
+      "list": "DELL",
+      "line": 47
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.at",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.at",
+    "source": {
+      "list": "DELL",
+      "line": 48
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.az",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.az",
+    "source": {
+      "list": "DELL",
+      "line": 49
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.be",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.be",
+    "source": {
+      "list": "DELL",
+      "line": 50
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.bg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.bg",
+    "source": {
+      "list": "DELL",
+      "line": 51
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.bi",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.bi",
+    "source": {
+      "list": "DELL",
+      "line": 52
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.bs",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.bs",
+    "source": {
+      "list": "DELL",
+      "line": 53
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.by",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.by",
+    "source": {
+      "list": "DELL",
+      "line": 54
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.ca",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.ca",
+    "source": {
+      "list": "DELL",
+      "line": 55
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.cd",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.cd",
+    "source": {
+      "list": "DELL",
+      "line": 56
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.cg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.cg",
+    "source": {
+      "list": "DELL",
+      "line": 57
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.ch",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.ch",
+    "source": {
+      "list": "DELL",
+      "line": 58
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.cl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.cl",
+    "source": {
+      "list": "DELL",
+      "line": 59
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.co.id",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.co.id",
+    "source": {
+      "list": "DELL",
+      "line": 60
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.co.il",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.co.il",
+    "source": {
+      "list": "DELL",
+      "line": 61
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.co.in",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.co.in",
+    "source": {
+      "list": "DELL",
+      "line": 62
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.co.jp",
+    "source": {
+      "list": "DELL",
+      "line": 63
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.co.kr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.co.kr",
+    "source": {
+      "list": "DELL",
+      "line": 64
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.co.mu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.co.mu",
+    "source": {
+      "list": "DELL",
+      "line": 65
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.co.nz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.co.nz",
+    "source": {
+      "list": "DELL",
+      "line": 66
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.co.th",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.co.th",
+    "source": {
+      "list": "DELL",
+      "line": 67
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.co.tt",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.co.tt",
+    "source": {
+      "list": "DELL",
+      "line": 68
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.co.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.co.uk",
+    "source": {
+      "list": "DELL",
+      "line": 69
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.co.vi",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.co.vi",
+    "source": {
+      "list": "DELL",
+      "line": 70
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.co.za",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.co.za",
+    "source": {
+      "list": "DELL",
+      "line": 71
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.com",
+    "source": {
+      "list": "DELL",
+      "line": 72
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.com.ag",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.com.ag",
+    "source": {
+      "list": "DELL",
+      "line": 73
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.com.ai",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.com.ai",
+    "source": {
+      "list": "DELL",
+      "line": 74
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.com.ar",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.com.ar",
+    "source": {
+      "list": "DELL",
+      "line": 75
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.com.au",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.com.au",
+    "source": {
+      "list": "DELL",
+      "line": 76
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.com.bb",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.com.bb",
+    "source": {
+      "list": "DELL",
+      "line": 77
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.com.bo",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.com.bo",
+    "source": {
+      "list": "DELL",
+      "line": 78
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.com.br",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.com.br",
+    "source": {
+      "list": "DELL",
+      "line": 79
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.com.bs",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.com.bs",
+    "source": {
+      "list": "DELL",
+      "line": 80
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.com.bz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.com.bz",
+    "source": {
+      "list": "DELL",
+      "line": 81
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.com.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:dell.com.cn:@cn",
+    "source": {
+      "list": "DELL",
+      "line": 82
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.com.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.com.co",
+    "source": {
+      "list": "DELL",
+      "line": 83
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.com.cy",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.com.cy",
+    "source": {
+      "list": "DELL",
+      "line": 84
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.com.dm",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.com.dm",
+    "source": {
+      "list": "DELL",
+      "line": 85
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.com.do",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.com.do",
+    "source": {
+      "list": "DELL",
+      "line": 86
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.com.ec",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.com.ec",
+    "source": {
+      "list": "DELL",
+      "line": 87
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.com.gr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.com.gr",
+    "source": {
+      "list": "DELL",
+      "line": 88
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.com.gt",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.com.gt",
+    "source": {
+      "list": "DELL",
+      "line": 89
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.com.gy",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.com.gy",
+    "source": {
+      "list": "DELL",
+      "line": 90
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.com.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.com.hk",
+    "source": {
+      "list": "DELL",
+      "line": 91
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.com.hn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.com.hn",
+    "source": {
+      "list": "DELL",
+      "line": 92
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.com.hr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.com.hr",
+    "source": {
+      "list": "DELL",
+      "line": 93
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.com.ht",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.com.ht",
+    "source": {
+      "list": "DELL",
+      "line": 94
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.com.jm",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.com.jm",
+    "source": {
+      "list": "DELL",
+      "line": 95
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.com.kn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.com.kn",
+    "source": {
+      "list": "DELL",
+      "line": 96
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.com.ky",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.com.ky",
+    "source": {
+      "list": "DELL",
+      "line": 97
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.com.lc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.com.lc",
+    "source": {
+      "list": "DELL",
+      "line": 98
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.com.ly",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.com.ly",
+    "source": {
+      "list": "DELL",
+      "line": 99
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.com.mk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.com.mk",
+    "source": {
+      "list": "DELL",
+      "line": 100
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.com.mt",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.com.mt",
+    "source": {
+      "list": "DELL",
+      "line": 101
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.com.mx",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.com.mx",
+    "source": {
+      "list": "DELL",
+      "line": 102
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.com.my",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.com.my",
+    "source": {
+      "list": "DELL",
+      "line": 103
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.com.na",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.com.na",
+    "source": {
+      "list": "DELL",
+      "line": 104
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.com.ng",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.com.ng",
+    "source": {
+      "list": "DELL",
+      "line": 105
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.com.ni",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.com.ni",
+    "source": {
+      "list": "DELL",
+      "line": 106
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.com.pa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.com.pa",
+    "source": {
+      "list": "DELL",
+      "line": 107
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.com.pe",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.com.pe",
+    "source": {
+      "list": "DELL",
+      "line": 108
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.com.ph",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.com.ph",
+    "source": {
+      "list": "DELL",
+      "line": 109
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.com.pk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.com.pk",
+    "source": {
+      "list": "DELL",
+      "line": 110
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.com.pl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.com.pl",
+    "source": {
+      "list": "DELL",
+      "line": 111
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.com.pr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.com.pr",
+    "source": {
+      "list": "DELL",
+      "line": 112
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.com.py",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.com.py",
+    "source": {
+      "list": "DELL",
+      "line": 113
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.com.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.com.ru",
+    "source": {
+      "list": "DELL",
+      "line": 114
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.com.sa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.com.sa",
+    "source": {
+      "list": "DELL",
+      "line": 115
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.com.sg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.com.sg",
+    "source": {
+      "list": "DELL",
+      "line": 116
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.com.tc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.com.tc",
+    "source": {
+      "list": "DELL",
+      "line": 117
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.com.tr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.com.tr",
+    "source": {
+      "list": "DELL",
+      "line": 118
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.com.tt",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.com.tt",
+    "source": {
+      "list": "DELL",
+      "line": 119
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.com.tw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.com.tw",
+    "source": {
+      "list": "DELL",
+      "line": 120
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.com.ua",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.com.ua",
+    "source": {
+      "list": "DELL",
+      "line": 121
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.com.uy",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.com.uy",
+    "source": {
+      "list": "DELL",
+      "line": 122
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.com.vc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.com.vc",
+    "source": {
+      "list": "DELL",
+      "line": 123
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.com.ve",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.com.ve",
+    "source": {
+      "list": "DELL",
+      "line": 124
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.com.vi",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.com.vi",
+    "source": {
+      "list": "DELL",
+      "line": 125
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.cz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.cz",
+    "source": {
+      "list": "DELL",
+      "line": 126
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.de",
+    "source": {
+      "list": "DELL",
+      "line": 127
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.dk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.dk",
+    "source": {
+      "list": "DELL",
+      "line": 128
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.dm",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.dm",
+    "source": {
+      "list": "DELL",
+      "line": 129
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.ee",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.ee",
+    "source": {
+      "list": "DELL",
+      "line": 130
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.es",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.es",
+    "source": {
+      "list": "DELL",
+      "line": 131
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.eu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.eu",
+    "source": {
+      "list": "DELL",
+      "line": 132
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.fi",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.fi",
+    "source": {
+      "list": "DELL",
+      "line": 133
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.fr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.fr",
+    "source": {
+      "list": "DELL",
+      "line": 134
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.gm",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.gm",
+    "source": {
+      "list": "DELL",
+      "line": 135
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.gp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.gp",
+    "source": {
+      "list": "DELL",
+      "line": 136
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.gr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.gr",
+    "source": {
+      "list": "DELL",
+      "line": 137
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.hr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.hr",
+    "source": {
+      "list": "DELL",
+      "line": 138
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.hu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.hu",
+    "source": {
+      "list": "DELL",
+      "line": 139
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.id",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.id",
+    "source": {
+      "list": "DELL",
+      "line": 140
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.ie",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.ie",
+    "source": {
+      "list": "DELL",
+      "line": 141
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.is",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.is",
+    "source": {
+      "list": "DELL",
+      "line": 142
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.it",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.it",
+    "source": {
+      "list": "DELL",
+      "line": 143
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.jp",
+    "source": {
+      "list": "DELL",
+      "line": 144
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.kg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.kg",
+    "source": {
+      "list": "DELL",
+      "line": 145
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.kn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.kn",
+    "source": {
+      "list": "DELL",
+      "line": 146
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.kz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.kz",
+    "source": {
+      "list": "DELL",
+      "line": 147
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.lt",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.lt",
+    "source": {
+      "list": "DELL",
+      "line": 148
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.lu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.lu",
+    "source": {
+      "list": "DELL",
+      "line": 149
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.lv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.lv",
+    "source": {
+      "list": "DELL",
+      "line": 150
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.ly",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.ly",
+    "source": {
+      "list": "DELL",
+      "line": 151
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.ma",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.ma",
+    "source": {
+      "list": "DELL",
+      "line": 152
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.mq",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.mq",
+    "source": {
+      "list": "DELL",
+      "line": 153
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.mu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.mu",
+    "source": {
+      "list": "DELL",
+      "line": 154
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.mw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.mw",
+    "source": {
+      "list": "DELL",
+      "line": 155
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.net",
+    "source": {
+      "list": "DELL",
+      "line": 156
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.ng",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.ng",
+    "source": {
+      "list": "DELL",
+      "line": 157
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.nl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.nl",
+    "source": {
+      "list": "DELL",
+      "line": 158
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.no",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.no",
+    "source": {
+      "list": "DELL",
+      "line": 159
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.org.il",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.org.il",
+    "source": {
+      "list": "DELL",
+      "line": 160
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.ph",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.ph",
+    "source": {
+      "list": "DELL",
+      "line": 161
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.pl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.pl",
+    "source": {
+      "list": "DELL",
+      "line": 162
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.ps",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.ps",
+    "source": {
+      "list": "DELL",
+      "line": 163
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.pt",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.pt",
+    "source": {
+      "list": "DELL",
+      "line": 164
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.ro",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.ro",
+    "source": {
+      "list": "DELL",
+      "line": 165
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.ru",
+    "source": {
+      "list": "DELL",
+      "line": 166
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.rw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.rw",
+    "source": {
+      "list": "DELL",
+      "line": 167
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.sc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.sc",
+    "source": {
+      "list": "DELL",
+      "line": 168
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.se",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.se",
+    "source": {
+      "list": "DELL",
+      "line": 169
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.sg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.sg",
+    "source": {
+      "list": "DELL",
+      "line": 170
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.si",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.si",
+    "source": {
+      "list": "DELL",
+      "line": 171
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.sk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.sk",
+    "source": {
+      "list": "DELL",
+      "line": 172
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.sn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.sn",
+    "source": {
+      "list": "DELL",
+      "line": 173
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.tc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.tc",
+    "source": {
+      "list": "DELL",
+      "line": 174
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.tj",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.tj",
+    "source": {
+      "list": "DELL",
+      "line": 175
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.tm",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.tm",
+    "source": {
+      "list": "DELL",
+      "line": 176
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.tt",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.tt",
+    "source": {
+      "list": "DELL",
+      "line": 177
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.tv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.tv",
+    "source": {
+      "list": "DELL",
+      "line": 178
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.ua",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.ua",
+    "source": {
+      "list": "DELL",
+      "line": 179
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.ug",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.ug",
+    "source": {
+      "list": "DELL",
+      "line": 180
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.uz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.uz",
+    "source": {
+      "list": "DELL",
+      "line": 181
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.vg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.vg",
+    "source": {
+      "list": "DELL",
+      "line": 182
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell.vn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell.vn",
+    "source": {
+      "list": "DELL",
+      "line": 183
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dellcdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dellcdn.com",
+    "source": {
+      "list": "DELL",
+      "line": 187
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dellcommunity.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dellcommunity.com",
+    "source": {
+      "list": "DELL",
+      "line": 188
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dellcomunidade.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dellcomunidade.com",
+    "source": {
+      "list": "DELL",
+      "line": 189
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dellcustomerservice.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dellcustomerservice.com",
+    "source": {
+      "list": "DELL",
+      "line": 190
+    }
+  },
+  {
+    "type": "domain",
+    "value": "delldesignsystem.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:delldesignsystem.com",
+    "source": {
+      "list": "DELL",
+      "line": 191
+    }
+  },
+  {
+    "type": "domain",
+    "value": "delldrivers.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:delldrivers.com",
+    "source": {
+      "list": "DELL",
+      "line": 192
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dellemc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dellemc.com",
+    "source": {
+      "list": "DELL",
+      "line": 193
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dellemc.com.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:dellemc.com.cn:@cn",
+    "source": {
+      "list": "DELL",
+      "line": 194
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dellemcevents.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dellemcevents.com",
+    "source": {
+      "list": "DELL",
+      "line": 195
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dellmobile.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:dellmobile.cn:@cn",
+    "source": {
+      "list": "DELL",
+      "line": 196
+    }
+  },
+  {
+    "type": "domain",
+    "value": "delloutlet.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:delloutlet.com",
+    "source": {
+      "list": "DELL",
+      "line": 197
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dellpoweredge.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dellpoweredge.com",
+    "source": {
+      "list": "DELL",
+      "line": 198
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dellpowersolutions.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dellpowersolutions.com",
+    "source": {
+      "list": "DELL",
+      "line": 199
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dellprecision.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dellprecision.com",
+    "source": {
+      "list": "DELL",
+      "line": 200
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dellprinter.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dellprinter.com",
+    "source": {
+      "list": "DELL",
+      "line": 201
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dellsupportcenter.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dellsupportcenter.com",
+    "source": {
+      "list": "DELL",
+      "line": 202
+    }
+  },
+  {
+    "type": "domain",
+    "value": "delltechcenter.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:delltechcenter.com",
+    "source": {
+      "list": "DELL",
+      "line": 203
+    }
+  },
+  {
+    "type": "domain",
+    "value": "delltechnologies.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:delltechnologies.com",
+    "source": {
+      "list": "DELL",
+      "line": 204
+    }
+  },
+  {
+    "type": "domain",
+    "value": "delltechnologies.com.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:delltechnologies.com.cn:@cn",
+    "source": {
+      "list": "DELL",
+      "line": 205
+    }
+  },
+  {
+    "type": "domain",
+    "value": "delltechnologiescapital.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:delltechnologiescapital.com",
+    "source": {
+      "list": "DELL",
+      "line": 206
+    }
+  },
+  {
+    "type": "domain",
+    "value": "delltechnologiesworld.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:delltechnologiesworld.com",
+    "source": {
+      "list": "DELL",
+      "line": 207
+    }
+  },
+  {
+    "type": "domain",
+    "value": "earthdell.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:earthdell.com",
+    "source": {
+      "list": "DELL",
+      "line": 208
+    }
+  },
+  {
+    "type": "domain",
+    "value": "emc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:emc.com",
+    "source": {
+      "list": "DELL",
+      "line": 209
+    }
+  },
+  {
+    "type": "domain",
+    "value": "platform.dell.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:platform.dell.com:@cn",
+    "source": {
+      "list": "DELL",
+      "line": 210
+    }
+  },
+  {
+    "type": "domain",
+    "value": "shopalienware.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:shopalienware.com",
+    "source": {
+      "list": "DELL",
+      "line": 211
+    }
+  },
+  {
+    "type": "domain",
+    "value": "solutionstation.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:solutionstation.com",
+    "source": {
+      "list": "DELL",
+      "line": 212
+    }
+  },
+  {
+    "type": "domain",
+    "value": "studiodell.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:studiodell.com",
+    "source": {
+      "list": "DELL",
+      "line": 213
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vce.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vce.com",
+    "source": {
+      "list": "DELL",
+      "line": 214
+    }
+  },
+  {
+    "type": "full",
+    "value": "afcs.dell.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:afcs.dell.com:@cn",
+    "source": {
+      "list": "DELL",
+      "line": 218
+    }
+  },
+  {
+    "type": "full",
+    "value": "clientperipherals.dell.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:clientperipherals.dell.com:@cn",
+    "source": {
+      "list": "DELL",
+      "line": 219
+    }
+  },
+  {
+    "type": "full",
+    "value": "customization-cdn.dell.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:customization-cdn.dell.com:@cn",
+    "source": {
+      "list": "DELL",
+      "line": 220
+    }
+  },
+  {
+    "type": "full",
+    "value": "dds.dell.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:dds.dell.com:@cn",
+    "source": {
+      "list": "DELL",
+      "line": 221
+    }
+  },
+  {
+    "type": "full",
+    "value": "dell.my.site.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:dell.my.site.com",
+    "source": {
+      "list": "DELL",
+      "line": 216
+    }
+  },
+  {
+    "type": "full",
+    "value": "dl.dell.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:dl.dell.com:@cn",
+    "source": {
+      "list": "DELL",
+      "line": 222
+    }
+  },
+  {
+    "type": "full",
+    "value": "ea2cn-dev-outlet.dell.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:ea2cn-dev-outlet.dell.com:@cn",
+    "source": {
+      "list": "DELL",
+      "line": 223
+    }
+  },
+  {
+    "type": "full",
+    "value": "ea2cn-prod-outlet.dell.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:ea2cn-prod-outlet.dell.com:@cn",
+    "source": {
+      "list": "DELL",
+      "line": 224
+    }
+  },
+  {
+    "type": "full",
+    "value": "ea2cn-staging-outlet.dell.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:ea2cn-staging-outlet.dell.com:@cn",
+    "source": {
+      "list": "DELL",
+      "line": 225
+    }
+  },
+  {
+    "type": "full",
+    "value": "fcs.dell.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:fcs.dell.com:@cn",
+    "source": {
+      "list": "DELL",
+      "line": 226
+    }
+  },
+  {
+    "type": "full",
+    "value": "fta.dell.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:fta.dell.com:@cn",
+    "source": {
+      "list": "DELL",
+      "line": 227
+    }
+  },
+  {
+    "type": "full",
+    "value": "ftaapj.dell.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:ftaapj.dell.com:@cn",
+    "source": {
+      "list": "DELL",
+      "line": 228
+    }
+  },
+  {
+    "type": "full",
+    "value": "ftaemea.dell.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:ftaemea.dell.com:@cn",
+    "source": {
+      "list": "DELL",
+      "line": 229
+    }
+  },
+  {
+    "type": "full",
+    "value": "ftasitapj.dell.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:ftasitapj.dell.com:@cn",
+    "source": {
+      "list": "DELL",
+      "line": 230
+    }
+  },
+  {
+    "type": "full",
+    "value": "gbxgateway-dev.dell.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:gbxgateway-dev.dell.com:@cn",
+    "source": {
+      "list": "DELL",
+      "line": 231
+    }
+  },
+  {
+    "type": "full",
+    "value": "gbxgateway.dell.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:gbxgateway.dell.com:@cn",
+    "source": {
+      "list": "DELL",
+      "line": 232
+    }
+  },
+  {
+    "type": "full",
+    "value": "i.dell.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:i.dell.com:@cn",
+    "source": {
+      "list": "DELL",
+      "line": 233
+    }
+  },
+  {
+    "type": "full",
+    "value": "nexus.dell.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:nexus.dell.com:@cn",
+    "source": {
+      "list": "DELL",
+      "line": 234
+    }
+  },
+  {
+    "type": "full",
+    "value": "p.cdn.persaas.dell.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:p.cdn.persaas.dell.com:@cn",
+    "source": {
+      "list": "DELL",
+      "line": 235
+    }
+  },
+  {
+    "type": "full",
+    "value": "scene7-cdn.dell.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:scene7-cdn.dell.com:@cn",
+    "source": {
+      "list": "DELL",
+      "line": 236
+    }
+  },
+  {
+    "type": "full",
+    "value": "si.cdn.dell.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:si.cdn.dell.com:@cn",
+    "source": {
+      "list": "DELL",
+      "line": 237
+    }
+  },
+  {
+    "type": "full",
+    "value": "sm.dell.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:sm.dell.com:@cn",
+    "source": {
+      "list": "DELL",
+      "line": 238
+    }
+  },
+  {
+    "type": "full",
+    "value": "snp.cdn.dell.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:snp.cdn.dell.com:@cn",
+    "source": {
+      "list": "DELL",
+      "line": 239
+    }
+  },
+  {
+    "type": "full",
+    "value": "snpi.dell.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:snpi.dell.com:@cn",
+    "source": {
+      "list": "DELL",
+      "line": 240
+    }
+  },
+  {
+    "type": "full",
+    "value": "supportassist.dell.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:supportassist.dell.com:@cn",
+    "source": {
+      "list": "DELL",
+      "line": 241
+    }
+  },
+  {
+    "type": "full",
+    "value": "www-csb.dell.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:www-csb.dell.com:@cn",
+    "source": {
+      "list": "DELL",
+      "line": 242
+    }
+  },
+  {
+    "type": "full",
+    "value": "www.dell.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:www.dell.com:@cn",
+    "source": {
+      "list": "DELL",
+      "line": 243
+    }
+  }
+]

@@ -1,0 +1,2666 @@
+[
+  {
+    "type": "domain",
+    "value": "1huizhan.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:1huizhan.com",
+    "source": {
+      "list": "JD",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "3.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:3.cn",
+    "source": {
+      "list": "JD",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "300hu.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:300hu.com",
+    "source": {
+      "list": "JD",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "360buy.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:360buy.cn",
+    "source": {
+      "list": "JD",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "360buy.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:360buy.com",
+    "source": {
+      "list": "JD",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "360buy.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:360buy.com.cn",
+    "source": {
+      "list": "JD",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "360buyimg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:360buyimg.com",
+    "source": {
+      "list": "JD",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "360buyinternational.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:360buyinternational.com",
+    "source": {
+      "list": "JD",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "360top.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:360top.com",
+    "source": {
+      "list": "JD",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "7fresh.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:7fresh.com",
+    "source": {
+      "list": "JD",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ads-union.jd.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:ads-union.jd.com:@ads",
+    "source": {
+      "list": "JD",
+      "line": 239
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ads.union.jd.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:ads.union.jd.com:@ads",
+    "source": {
+      "list": "JD",
+      "line": 240
+    }
+  },
+  {
+    "type": "domain",
+    "value": "baitiao.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:baitiao.com",
+    "source": {
+      "list": "JD",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "blackdragon.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:blackdragon.com",
+    "source": {
+      "list": "JD",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "c-nfa.jd.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:c-nfa.jd.com:@ads",
+    "source": {
+      "list": "JD",
+      "line": 241
+    }
+  },
+  {
+    "type": "domain",
+    "value": "caiyu.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:caiyu.com",
+    "source": {
+      "list": "JD",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "chicalot.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:chicalot.cn",
+    "source": {
+      "list": "JD",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "chinabank.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:chinabank.com.cn",
+    "source": {
+      "list": "JD",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloud-beijing.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloud-beijing.com",
+    "source": {
+      "list": "JD",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloud-hebi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloud-hebi.com",
+    "source": {
+      "list": "JD",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloud-ningbo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloud-ningbo.com",
+    "source": {
+      "list": "JD",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloud-ordos.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloud-ordos.com",
+    "source": {
+      "list": "JD",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloud-shenzhen.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloud-shenzhen.com",
+    "source": {
+      "list": "JD",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloud-shiyan.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloud-shiyan.com",
+    "source": {
+      "list": "JD",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloud-wuhan.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloud-wuhan.com",
+    "source": {
+      "list": "JD",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloud-xian.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloud-xian.com",
+    "source": {
+      "list": "JD",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloud-xm.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloud-xm.com",
+    "source": {
+      "list": "JD",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloud-zhaoqing.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloud-zhaoqing.com",
+    "source": {
+      "list": "JD",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloud-zhongwei.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloud-zhongwei.com",
+    "source": {
+      "list": "JD",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudanqing.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudanqing.com",
+    "source": {
+      "list": "JD",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudbaoshan.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudbaoshan.com",
+    "source": {
+      "list": "JD",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudbeibei.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudbeibei.com",
+    "source": {
+      "list": "JD",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudbinzhou.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudbinzhou.com",
+    "source": {
+      "list": "JD",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudchangde.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudchangde.com",
+    "source": {
+      "list": "JD",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudchangsha.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudchangsha.com",
+    "source": {
+      "list": "JD",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudchangzhou.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudchangzhou.com",
+    "source": {
+      "list": "JD",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudchaozhou.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudchaozhou.com",
+    "source": {
+      "list": "JD",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudchengde.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudchengde.com",
+    "source": {
+      "list": "JD",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudchengdu.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudchengdu.com",
+    "source": {
+      "list": "JD",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudchuzhou.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudchuzhou.com",
+    "source": {
+      "list": "JD",
+      "line": 37
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudczs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudczs.com",
+    "source": {
+      "list": "JD",
+      "line": 38
+    }
+  },
+  {
+    "type": "domain",
+    "value": "clouddalian.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:clouddalian.com",
+    "source": {
+      "list": "JD",
+      "line": 39
+    }
+  },
+  {
+    "type": "domain",
+    "value": "clouddatong.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:clouddatong.com",
+    "source": {
+      "list": "JD",
+      "line": 40
+    }
+  },
+  {
+    "type": "domain",
+    "value": "clouddongying.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:clouddongying.com",
+    "source": {
+      "list": "JD",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudfoshan.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudfoshan.com",
+    "source": {
+      "list": "JD",
+      "line": 42
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudfuqing.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudfuqing.com",
+    "source": {
+      "list": "JD",
+      "line": 43
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudganzhou.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudganzhou.com",
+    "source": {
+      "list": "JD",
+      "line": 44
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudguangzhou.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudguangzhou.com",
+    "source": {
+      "list": "JD",
+      "line": 45
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudhaidong.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudhaidong.com",
+    "source": {
+      "list": "JD",
+      "line": 46
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudhefei.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudhefei.com",
+    "source": {
+      "list": "JD",
+      "line": 47
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudhengshui.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudhengshui.com",
+    "source": {
+      "list": "JD",
+      "line": 48
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudhuaihua.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudhuaihua.com",
+    "source": {
+      "list": "JD",
+      "line": 49
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudhuizhou.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudhuizhou.com",
+    "source": {
+      "list": "JD",
+      "line": 50
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudjinan.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudjinan.com",
+    "source": {
+      "list": "JD",
+      "line": 51
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudjinchang.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudjinchang.com",
+    "source": {
+      "list": "JD",
+      "line": 52
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudjingzhou.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudjingzhou.com",
+    "source": {
+      "list": "JD",
+      "line": 53
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudjining.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudjining.com",
+    "source": {
+      "list": "JD",
+      "line": 54
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudjiujiang.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudjiujiang.com",
+    "source": {
+      "list": "JD",
+      "line": 55
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudkunming.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudkunming.com",
+    "source": {
+      "list": "JD",
+      "line": 56
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudleshan.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudleshan.com",
+    "source": {
+      "list": "JD",
+      "line": 57
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudlijiang.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudlijiang.com",
+    "source": {
+      "list": "JD",
+      "line": 58
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudlishui.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudlishui.com",
+    "source": {
+      "list": "JD",
+      "line": 59
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudluohe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudluohe.com",
+    "source": {
+      "list": "JD",
+      "line": 60
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudluoyang.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudluoyang.com",
+    "source": {
+      "list": "JD",
+      "line": 61
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudmeishan.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudmeishan.com",
+    "source": {
+      "list": "JD",
+      "line": 62
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudnanan.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudnanan.com",
+    "source": {
+      "list": "JD",
+      "line": 63
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudnanjing.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudnanjing.com",
+    "source": {
+      "list": "JD",
+      "line": 64
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudnanning.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudnanning.com",
+    "source": {
+      "list": "JD",
+      "line": 65
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudnantong.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudnantong.com",
+    "source": {
+      "list": "JD",
+      "line": 66
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudquanzhou.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudquanzhou.com",
+    "source": {
+      "list": "JD",
+      "line": 67
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudsanya.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudsanya.com",
+    "source": {
+      "list": "JD",
+      "line": 68
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudshanghai.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudshanghai.com",
+    "source": {
+      "list": "JD",
+      "line": 69
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudshaoyang.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudshaoyang.com",
+    "source": {
+      "list": "JD",
+      "line": 70
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudshenfuxingqu.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudshenfuxingqu.com",
+    "source": {
+      "list": "JD",
+      "line": 71
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudsiping.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudsiping.com",
+    "source": {
+      "list": "JD",
+      "line": 72
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudsuqian.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudsuqian.com",
+    "source": {
+      "list": "JD",
+      "line": 73
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudtangshan.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudtangshan.com",
+    "source": {
+      "list": "JD",
+      "line": 74
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudtianjin.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudtianjin.com",
+    "source": {
+      "list": "JD",
+      "line": 75
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudtongchuan.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudtongchuan.com",
+    "source": {
+      "list": "JD",
+      "line": 76
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudtongliang.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudtongliang.com",
+    "source": {
+      "list": "JD",
+      "line": 77
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudweinan.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudweinan.com",
+    "source": {
+      "list": "JD",
+      "line": 78
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudxiangtan.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudxiangtan.com",
+    "source": {
+      "list": "JD",
+      "line": 79
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudxianyou.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudxianyou.com",
+    "source": {
+      "list": "JD",
+      "line": 80
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudxining.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudxining.com",
+    "source": {
+      "list": "JD",
+      "line": 81
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudyanan.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudyanan.com",
+    "source": {
+      "list": "JD",
+      "line": 82
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudyancheng.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudyancheng.com",
+    "source": {
+      "list": "JD",
+      "line": 83
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudyantai.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudyantai.com",
+    "source": {
+      "list": "JD",
+      "line": 84
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudyinchuan.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudyinchuan.com",
+    "source": {
+      "list": "JD",
+      "line": 85
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudyueyang.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudyueyang.com",
+    "source": {
+      "list": "JD",
+      "line": 86
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudyuncheng.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudyuncheng.com",
+    "source": {
+      "list": "JD",
+      "line": 87
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudyuxi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudyuxi.com",
+    "source": {
+      "list": "JD",
+      "line": 88
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudzhongshan.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudzhongshan.com",
+    "source": {
+      "list": "JD",
+      "line": 89
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudzhuhai.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudzhuhai.com",
+    "source": {
+      "list": "JD",
+      "line": 90
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cps.360buy.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:cps.360buy.com:@ads",
+    "source": {
+      "list": "JD",
+      "line": 242
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dao123.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dao123.com",
+    "source": {
+      "list": "JD",
+      "line": 91
+    }
+  },
+  {
+    "type": "domain",
+    "value": "duiou.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:duiou.com.cn",
+    "source": {
+      "list": "JD",
+      "line": 92
+    }
+  },
+  {
+    "type": "domain",
+    "value": "duolabao.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:duolabao.com",
+    "source": {
+      "list": "JD",
+      "line": 236
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gia.jd.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:gia.jd.com:@ads",
+    "source": {
+      "list": "JD",
+      "line": 243
+    }
+  },
+  {
+    "type": "domain",
+    "value": "goselling.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:goselling.com",
+    "source": {
+      "list": "JD",
+      "line": 93
+    }
+  },
+  {
+    "type": "domain",
+    "value": "healthjd.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:healthjd.com",
+    "source": {
+      "list": "JD",
+      "line": 94
+    }
+  },
+  {
+    "type": "domain",
+    "value": "imdada.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:imdada.cn",
+    "source": {
+      "list": "JD",
+      "line": 233
+    }
+  },
+  {
+    "type": "domain",
+    "value": "img-x.jd.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:img-x.jd.com:@ads",
+    "source": {
+      "list": "JD",
+      "line": 244
+    }
+  },
+  {
+    "type": "domain",
+    "value": "isvjcloud.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:isvjcloud.com",
+    "source": {
+      "list": "JD",
+      "line": 95
+    }
+  },
+  {
+    "type": "domain",
+    "value": "isvjd.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:isvjd.com",
+    "source": {
+      "list": "JD",
+      "line": 96
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jcloud-cache.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jcloud-cache.com",
+    "source": {
+      "list": "JD",
+      "line": 97
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jcloud-cache.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jcloud-cache.net",
+    "source": {
+      "list": "JD",
+      "line": 98
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jcloud-cdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jcloud-cdn.com",
+    "source": {
+      "list": "JD",
+      "line": 99
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jcloud-live.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jcloud-live.com",
+    "source": {
+      "list": "JD",
+      "line": 100
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jcloud-oss.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jcloud-oss.com",
+    "source": {
+      "list": "JD",
+      "line": 101
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jcloud.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jcloud.com",
+    "source": {
+      "list": "JD",
+      "line": 102
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jcloudcache.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jcloudcache.com",
+    "source": {
+      "list": "JD",
+      "line": 103
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jcloudcache.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jcloudcache.net",
+    "source": {
+      "list": "JD",
+      "line": 104
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jcloudcs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jcloudcs.com",
+    "source": {
+      "list": "JD",
+      "line": 105
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jclouddn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jclouddn.com",
+    "source": {
+      "list": "JD",
+      "line": 106
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jclouddns.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jclouddns.com",
+    "source": {
+      "list": "JD",
+      "line": 107
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jclouddns.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jclouddns.net",
+    "source": {
+      "list": "JD",
+      "line": 108
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jcloudec.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jcloudec.com",
+    "source": {
+      "list": "JD",
+      "line": 109
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jcloudedge.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jcloudedge.com",
+    "source": {
+      "list": "JD",
+      "line": 110
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jcloudedge.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jcloudedge.net",
+    "source": {
+      "list": "JD",
+      "line": 111
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jcloudgslb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jcloudgslb.com",
+    "source": {
+      "list": "JD",
+      "line": 112
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jcloudgslb.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jcloudgslb.net",
+    "source": {
+      "list": "JD",
+      "line": 113
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jcloudimg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jcloudimg.com",
+    "source": {
+      "list": "JD",
+      "line": 114
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jcloudimg.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jcloudimg.net",
+    "source": {
+      "list": "JD",
+      "line": 115
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jcloudlb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jcloudlb.com",
+    "source": {
+      "list": "JD",
+      "line": 116
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jcloudlb.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jcloudlb.net",
+    "source": {
+      "list": "JD",
+      "line": 117
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jcloudlive.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jcloudlive.com",
+    "source": {
+      "list": "JD",
+      "line": 118
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jcloudlv.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jcloudlv.com",
+    "source": {
+      "list": "JD",
+      "line": 119
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jcloudoss.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jcloudoss.com",
+    "source": {
+      "list": "JD",
+      "line": 120
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jcloudresolve.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jcloudresolve.com",
+    "source": {
+      "list": "JD",
+      "line": 121
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jcloudresolve.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jcloudresolve.net",
+    "source": {
+      "list": "JD",
+      "line": 122
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jcloudss.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jcloudss.com",
+    "source": {
+      "list": "JD",
+      "line": 123
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jcloudstatic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jcloudstatic.com",
+    "source": {
+      "list": "JD",
+      "line": 124
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jcloudstatic.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jcloudstatic.net",
+    "source": {
+      "list": "JD",
+      "line": 125
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jcloudvideo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jcloudvideo.com",
+    "source": {
+      "list": "JD",
+      "line": 126
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jcloudvideo.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jcloudvideo.net",
+    "source": {
+      "list": "JD",
+      "line": 127
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jclps.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jclps.com",
+    "source": {
+      "list": "JD",
+      "line": 128
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jd-app.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jd-app.com",
+    "source": {
+      "list": "JD",
+      "line": 129
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jd-ex.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jd-ex.cn",
+    "source": {
+      "list": "JD",
+      "line": 130
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jd-ex.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jd-ex.com",
+    "source": {
+      "list": "JD",
+      "line": 131
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jd-ex.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jd-ex.com.cn",
+    "source": {
+      "list": "JD",
+      "line": 132
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jd-ex.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jd-ex.net",
+    "source": {
+      "list": "JD",
+      "line": 133
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jd.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jd.cn",
+    "source": {
+      "list": "JD",
+      "line": 134
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jd.co.th",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:jd.co.th:@!cn",
+    "source": {
+      "list": "JD",
+      "line": 135
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jd.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jd.com",
+    "source": {
+      "list": "JD",
+      "line": 136
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jd.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jd.com.cn",
+    "source": {
+      "list": "JD",
+      "line": 137
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jd.hk",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:jd.hk:@!cn",
+    "source": {
+      "list": "JD",
+      "line": 138
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jd.id",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:jd.id:@!cn",
+    "source": {
+      "list": "JD",
+      "line": 139
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jd.ru",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:jd.ru:@!cn",
+    "source": {
+      "list": "JD",
+      "line": 140
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jd.shop",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jd.shop",
+    "source": {
+      "list": "JD",
+      "line": 141
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jdbusiness.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jdbusiness.com",
+    "source": {
+      "list": "JD",
+      "line": 142
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jdcache.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jdcache.com",
+    "source": {
+      "list": "JD",
+      "line": 143
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jdcdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jdcdn.com",
+    "source": {
+      "list": "JD",
+      "line": 144
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jdcloud-api.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jdcloud-api.com",
+    "source": {
+      "list": "JD",
+      "line": 145
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jdcloud-api.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jdcloud-api.net",
+    "source": {
+      "list": "JD",
+      "line": 146
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jdcloud-edu.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jdcloud-edu.com",
+    "source": {
+      "list": "JD",
+      "line": 147
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jdcloud-elite.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jdcloud-elite.com",
+    "source": {
+      "list": "JD",
+      "line": 148
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jdcloud-elive.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jdcloud-elive.com",
+    "source": {
+      "list": "JD",
+      "line": 149
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jdcloud-livebuy.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jdcloud-livebuy.com",
+    "source": {
+      "list": "JD",
+      "line": 150
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jdcloud-mail.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jdcloud-mail.com",
+    "source": {
+      "list": "JD",
+      "line": 151
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jdcloud-openapi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jdcloud-openapi.com",
+    "source": {
+      "list": "JD",
+      "line": 152
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jdcloud-oss.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jdcloud-oss.com",
+    "source": {
+      "list": "JD",
+      "line": 153
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jdcloud.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jdcloud.com",
+    "source": {
+      "list": "JD",
+      "line": 154
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jdcloudcache.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jdcloudcache.com",
+    "source": {
+      "list": "JD",
+      "line": 155
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jdcloudcache.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jdcloudcache.net",
+    "source": {
+      "list": "JD",
+      "line": 156
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jdcloudcdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jdcloudcdn.com",
+    "source": {
+      "list": "JD",
+      "line": 157
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jdcloudcdn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jdcloudcdn.net",
+    "source": {
+      "list": "JD",
+      "line": 158
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jdcloudcs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jdcloudcs.com",
+    "source": {
+      "list": "JD",
+      "line": 159
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jdclouddns.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jdclouddns.com",
+    "source": {
+      "list": "JD",
+      "line": 160
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jdclouddns.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jdclouddns.net",
+    "source": {
+      "list": "JD",
+      "line": 161
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jdcloudedge.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jdcloudedge.com",
+    "source": {
+      "list": "JD",
+      "line": 162
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jdcloudedge.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jdcloudedge.net",
+    "source": {
+      "list": "JD",
+      "line": 163
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jdcloudlb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jdcloudlb.com",
+    "source": {
+      "list": "JD",
+      "line": 164
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jdcloudlb.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jdcloudlb.net",
+    "source": {
+      "list": "JD",
+      "line": 165
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jdcloudlive.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jdcloudlive.com",
+    "source": {
+      "list": "JD",
+      "line": 166
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jdcloudlive.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jdcloudlive.net",
+    "source": {
+      "list": "JD",
+      "line": 167
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jdcloudresolve.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jdcloudresolve.com",
+    "source": {
+      "list": "JD",
+      "line": 168
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jdcloudresolve.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jdcloudresolve.net",
+    "source": {
+      "list": "JD",
+      "line": 169
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jdcloudsite.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jdcloudsite.com",
+    "source": {
+      "list": "JD",
+      "line": 170
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jdcloudstatic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jdcloudstatic.com",
+    "source": {
+      "list": "JD",
+      "line": 171
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jdcloudstatic.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jdcloudstatic.net",
+    "source": {
+      "list": "JD",
+      "line": 172
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jdcloudstatus.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jdcloudstatus.com",
+    "source": {
+      "list": "JD",
+      "line": 173
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jdcloudstatus.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jdcloudstatus.net",
+    "source": {
+      "list": "JD",
+      "line": 174
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jdcloudvideo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jdcloudvideo.com",
+    "source": {
+      "list": "JD",
+      "line": 175
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jdcloudvideo.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jdcloudvideo.net",
+    "source": {
+      "list": "JD",
+      "line": 176
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jdcloudwaf.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jdcloudwaf.com",
+    "source": {
+      "list": "JD",
+      "line": 177
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jddapeigou.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jddapeigou.com",
+    "source": {
+      "list": "JD",
+      "line": 178
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jddebug.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jddebug.com",
+    "source": {
+      "list": "JD",
+      "line": 179
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jddglobal.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jddglobal.com",
+    "source": {
+      "list": "JD",
+      "line": 180
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jdemall.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jdemall.com",
+    "source": {
+      "list": "JD",
+      "line": 181
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jdfw1.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jdfw1.com",
+    "source": {
+      "list": "JD",
+      "line": 182
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jdgslb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jdgslb.com",
+    "source": {
+      "list": "JD",
+      "line": 183
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jdgslb.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jdgslb.net",
+    "source": {
+      "list": "JD",
+      "line": 184
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jdh.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jdh.com",
+    "source": {
+      "list": "JD",
+      "line": 185
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jdjinrong.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jdjinrong.com",
+    "source": {
+      "list": "JD",
+      "line": 186
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jdl.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jdl.cn",
+    "source": {
+      "list": "JD",
+      "line": 187
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jdl.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jdl.com",
+    "source": {
+      "list": "JD",
+      "line": 188
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jdl.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jdl.com.cn",
+    "source": {
+      "list": "JD",
+      "line": 189
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jdlike.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jdlike.cn",
+    "source": {
+      "list": "JD",
+      "line": 190
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jdpay.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jdpay.com",
+    "source": {
+      "list": "JD",
+      "line": 191
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jdpaydns.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jdpaydns.com",
+    "source": {
+      "list": "JD",
+      "line": 192
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jdwl.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jdwl.com",
+    "source": {
+      "list": "JD",
+      "line": 193
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jdx.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jdx.com",
+    "source": {
+      "list": "JD",
+      "line": 194
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jhscm.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jhscm.com",
+    "source": {
+      "list": "JD",
+      "line": 195
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jingdong.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jingdong.com",
+    "source": {
+      "list": "JD",
+      "line": 196
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jingdongjinrong.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jingdongjinrong.com",
+    "source": {
+      "list": "JD",
+      "line": 197
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jingpinhui.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jingpinhui.com",
+    "source": {
+      "list": "JD",
+      "line": 198
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jingxi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jingxi.com",
+    "source": {
+      "list": "JD",
+      "line": 199
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jkcsjd.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jkcsjd.com",
+    "source": {
+      "list": "JD",
+      "line": 200
+    }
+  },
+  {
+    "type": "domain",
+    "value": "joybuy.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:joybuy.com",
+    "source": {
+      "list": "JD",
+      "line": 201
+    }
+  },
+  {
+    "type": "domain",
+    "value": "joybuy.es",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:joybuy.es",
+    "source": {
+      "list": "JD",
+      "line": 202
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jzt.jd.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:jzt.jd.com:@ads",
+    "source": {
+      "list": "JD",
+      "line": 245
+    }
+  },
+  {
+    "type": "domain",
+    "value": "linglonglife.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:linglonglife.com",
+    "source": {
+      "list": "JD",
+      "line": 203
+    }
+  },
+  {
+    "type": "domain",
+    "value": "logiseasy.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:logiseasy.com",
+    "source": {
+      "list": "JD",
+      "line": 204
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mayshijia.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mayshijia.com",
+    "source": {
+      "list": "JD",
+      "line": 205
+    }
+  },
+  {
+    "type": "domain",
+    "value": "minitiao.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:minitiao.com",
+    "source": {
+      "list": "JD",
+      "line": 206
+    }
+  },
+  {
+    "type": "domain",
+    "value": "missjia.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:missjia.net",
+    "source": {
+      "list": "JD",
+      "line": 207
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ocwms.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ocwms.com",
+    "source": {
+      "list": "JD",
+      "line": 208
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paidaojia.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paidaojia.cn",
+    "source": {
+      "list": "JD",
+      "line": 209
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paipai.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paipai.com",
+    "source": {
+      "list": "JD",
+      "line": 210
+    }
+  },
+  {
+    "type": "domain",
+    "value": "prestodb-china.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:prestodb-china.com",
+    "source": {
+      "list": "JD",
+      "line": 212
+    }
+  },
+  {
+    "type": "domain",
+    "value": "prestodb.net.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:prestodb.net.cn",
+    "source": {
+      "list": "JD",
+      "line": 211
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qianxun.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qianxun.com",
+    "source": {
+      "list": "JD",
+      "line": 213
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qingzhouip.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qingzhouip.com",
+    "source": {
+      "list": "JD",
+      "line": 214
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sgsic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sgsic.com",
+    "source": {
+      "list": "JD",
+      "line": 215
+    }
+  },
+  {
+    "type": "domain",
+    "value": "stat.m.jd.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:stat.m.jd.com:@ads",
+    "source": {
+      "list": "JD",
+      "line": 246
+    }
+  },
+  {
+    "type": "domain",
+    "value": "toplife.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:toplife.com",
+    "source": {
+      "list": "JD",
+      "line": 216
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vg.com",
+    "source": {
+      "list": "JD",
+      "line": 217
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vipmro.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vipmro.com",
+    "source": {
+      "list": "JD",
+      "line": 218
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vipmro.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vipmro.net",
+    "source": {
+      "list": "JD",
+      "line": 219
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wangyin.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wangyin.com",
+    "source": {
+      "list": "JD",
+      "line": 220
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wdfok.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wdfok.com",
+    "source": {
+      "list": "JD",
+      "line": 221
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wuliujie.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wuliujie.cn",
+    "source": {
+      "list": "JD",
+      "line": 222
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wuliujie.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wuliujie.com",
+    "source": {
+      "list": "JD",
+      "line": 223
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xianjiqun.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xianjiqun.com",
+    "source": {
+      "list": "JD",
+      "line": 224
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xjoycity.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xjoycity.com",
+    "source": {
+      "list": "JD",
+      "line": 225
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yhd.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yhd.com",
+    "source": {
+      "list": "JD",
+      "line": 226
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yihaodian.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yihaodian.com",
+    "source": {
+      "list": "JD",
+      "line": 227
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yihaodianimg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yihaodianimg.com",
+    "source": {
+      "list": "JD",
+      "line": 228
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yiyaojd.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yiyaojd.com",
+    "source": {
+      "list": "JD",
+      "line": 229
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yizhitou.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yizhitou.com",
+    "source": {
+      "list": "JD",
+      "line": 230
+    }
+  }
+]

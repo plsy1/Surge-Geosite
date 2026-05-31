@@ -1,0 +1,125 @@
+[
+  {
+    "type": "domain",
+    "value": "collector.xhamster.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:collector.xhamster.com:@ads",
+    "source": {
+      "list": "XHAMSTER",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xhamster.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xhamster.com",
+    "source": {
+      "list": "XHAMSTER",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xhamster.desi",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xhamster.desi",
+    "source": {
+      "list": "XHAMSTER",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xhamster.xxx",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xhamster.xxx",
+    "source": {
+      "list": "XHAMSTER",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xhamster18.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xhamster18.com",
+    "source": {
+      "list": "XHAMSTER",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xhamster18.desi",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xhamster18.desi",
+    "source": {
+      "list": "XHAMSTER",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xhamster19.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xhamster19.com",
+    "source": {
+      "list": "XHAMSTER",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xhamster3.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xhamster3.com",
+    "source": {
+      "list": "XHAMSTER",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xhamsterlive.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xhamsterlive.com",
+    "source": {
+      "list": "XHAMSTER",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xhcdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xhcdn.com",
+    "source": {
+      "list": "XHAMSTER",
+      "line": 9
+    }
+  },
+  {
+    "type": "full",
+    "value": "widgets.stripst.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:widgets.stripst.com",
+    "source": {
+      "list": "XHAMSTER",
+      "line": 12
+    }
+  }
+]

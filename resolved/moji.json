@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "moji.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:moji.com",
+    "source": {
+      "list": "MOJI",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mojichina.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mojichina.com",
+    "source": {
+      "list": "MOJI",
+      "line": 2
+    }
+  }
+]

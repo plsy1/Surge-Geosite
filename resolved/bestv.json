@@ -1,0 +1,79 @@
+[
+  {
+    "type": "domain",
+    "value": "bbtv.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bbtv.cn",
+    "source": {
+      "list": "BESTV",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bestv.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bestv.com.cn",
+    "source": {
+      "list": "BESTV",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bestvcdn.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bestvcdn.cn",
+    "source": {
+      "list": "BESTV",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bestvcdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bestvcdn.com",
+    "source": {
+      "list": "BESTV",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bestvcdn.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bestvcdn.com.cn",
+    "source": {
+      "list": "BESTV",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bestvcdn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bestvcdn.net",
+    "source": {
+      "list": "BESTV",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "smgbb.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:smgbb.cn",
+    "source": {
+      "list": "BESTV",
+      "line": 8
+    }
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "type": "domain",
+    "value": "arma3.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:arma3.com",
+    "source": {
+      "list": "BOHEMIA",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "armaplatform.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:armaplatform.com",
+    "source": {
+      "list": "BOHEMIA",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bistudio.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bistudio.com",
+    "source": {
+      "list": "BOHEMIA",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bohemia.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bohemia.net",
+    "source": {
+      "list": "BOHEMIA",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dayz.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dayz.com",
+    "source": {
+      "list": "BOHEMIA",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "makearmanotwar.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:makearmanotwar.com",
+    "source": {
+      "list": "BOHEMIA",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "silicagame.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:silicagame.com",
+    "source": {
+      "list": "BOHEMIA",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vigorgame.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vigorgame.com",
+    "source": {
+      "list": "BOHEMIA",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ylands.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ylands.com",
+    "source": {
+      "list": "BOHEMIA",
+      "line": 9
+    }
+  }
+]

@@ -1,0 +1,59 @@
+{
+  "name": "YOUKU",
+  "source": {
+    "domain": 26,
+    "full": 0,
+    "keyword": 0,
+    "regexp": 0,
+    "include": 0,
+    "affiliations": 0,
+    "attributes": 21
+  },
+  "resolved": {
+    "rules": 26,
+    "domain": 26,
+    "full": 0,
+    "keyword": 0,
+    "regexp": 0
+  },
+  "filters": {
+    "attrs": {
+      "ads": 21
+    }
+  },
+  "modes": {
+    "strict": {
+      "rules": 26,
+      "bytes": 812,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "balanced": {
+      "rules": 26,
+      "bytes": 812,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "full": {
+      "rules": 26,
+      "bytes": 812,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    }
+  }
+}

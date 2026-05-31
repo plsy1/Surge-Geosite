@@ -1,0 +1,417 @@
+[
+  {
+    "type": "domain",
+    "value": "apple-cloudkit.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:apple-cloudkit.com",
+    "source": {
+      "list": "APPLE-DEV",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "apple-mapkit.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:apple-mapkit.com",
+    "source": {
+      "list": "APPLE-DEV",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "appleswift.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:appleswift.com",
+    "source": {
+      "list": "SWIFT",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "calendarserver.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:calendarserver.org",
+    "source": {
+      "list": "APPLE-DEV",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "carekit.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:carekit.org",
+    "source": {
+      "list": "APPLE-DEV",
+      "line": 39
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cups.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cups.org",
+    "source": {
+      "list": "APPLE-DEV",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "developer.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:developer.apple.com",
+    "source": {
+      "list": "APPLE-DEV",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "developerservices2.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:developerservices2.apple.com",
+    "source": {
+      "list": "APPLE-DEV",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "devimages-cdn.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:devimages-cdn.apple.com",
+    "source": {
+      "list": "APPLE-DEV",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "devstreaming-cdn.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:devstreaming-cdn.apple.com",
+    "source": {
+      "list": "APPLE-DEV",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "foundationdb.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:foundationdb.org",
+    "source": {
+      "list": "APPLE-DEV",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "macosforge.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:macosforge.org",
+    "source": {
+      "list": "APPLE-DEV",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "macruby.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:macruby.com",
+    "source": {
+      "list": "APPLE-DEV",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "macruby.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:macruby.net",
+    "source": {
+      "list": "APPLE-DEV",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "macruby.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:macruby.org",
+    "source": {
+      "list": "APPLE-DEV",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "playgrounds-cdn.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:playgrounds-cdn.apple.com",
+    "source": {
+      "list": "APPLE-DEV",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "researchandcare.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:researchandcare.org",
+    "source": {
+      "list": "APPLE-DEV",
+      "line": 40
+    }
+  },
+  {
+    "type": "domain",
+    "value": "researchkit.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:researchkit.cn:@cn",
+    "source": {
+      "list": "APPLE-DEV",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "researchkit.com.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:researchkit.com.cn:@cn",
+    "source": {
+      "list": "APPLE-DEV",
+      "line": 42
+    }
+  },
+  {
+    "type": "domain",
+    "value": "researchkit.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:researchkit.hk",
+    "source": {
+      "list": "APPLE-DEV",
+      "line": 43
+    }
+  },
+  {
+    "type": "domain",
+    "value": "researchkit.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:researchkit.net",
+    "source": {
+      "list": "APPLE-DEV",
+      "line": 44
+    }
+  },
+  {
+    "type": "domain",
+    "value": "researchkit.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:researchkit.org",
+    "source": {
+      "list": "APPLE-DEV",
+      "line": 45
+    }
+  },
+  {
+    "type": "domain",
+    "value": "researchkit.tv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:researchkit.tv",
+    "source": {
+      "list": "APPLE-DEV",
+      "line": 46
+    }
+  },
+  {
+    "type": "domain",
+    "value": "servicetalk.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:servicetalk.io",
+    "source": {
+      "list": "APPLE-DEV",
+      "line": 49
+    }
+  },
+  {
+    "type": "domain",
+    "value": "swift.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:swift.org",
+    "source": {
+      "list": "SWIFT",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "swiftui.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:swiftui.cn:@cn",
+    "source": {
+      "list": "SWIFT",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "swiftui.com.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:swiftui.com.cn:@cn",
+    "source": {
+      "list": "SWIFT",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "timestamp.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:timestamp.apple.com",
+    "source": {
+      "list": "APPLE-DEV",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "webkit.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:webkit.org",
+    "source": {
+      "list": "APPLE-DEV",
+      "line": 52
+    }
+  },
+  {
+    "type": "domain",
+    "value": "webkitgtk.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:webkitgtk.org",
+    "source": {
+      "list": "APPLE-DEV",
+      "line": 53
+    }
+  },
+  {
+    "type": "domain",
+    "value": "webobjects.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:webobjects.com",
+    "source": {
+      "list": "APPLE-DEV",
+      "line": 57
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wpewebkit.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wpewebkit.org",
+    "source": {
+      "list": "APPLE-DEV",
+      "line": 54
+    }
+  },
+  {
+    "type": "full",
+    "value": "appleworldwidedeveloper.hb-api.omtrdc.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:appleworldwidedeveloper.hb-api.omtrdc.net",
+    "source": {
+      "list": "APPLE-DEV",
+      "line": 59
+    }
+  },
+  {
+    "type": "full",
+    "value": "appleworldwidedeveloper.sc.omtrdc.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:appleworldwidedeveloper.sc.omtrdc.net",
+    "source": {
+      "list": "APPLE-DEV",
+      "line": 60
+    }
+  },
+  {
+    "type": "full",
+    "value": "notary-submissions-prod.s3-accelerate.amazonaws.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:notary-submissions-prod.s3-accelerate.amazonaws.com",
+    "source": {
+      "list": "APPLE-DEV",
+      "line": 18
+    }
+  },
+  {
+    "type": "full",
+    "value": "notary-submissions-prod.s3.us-west-2.amazonaws.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:notary-submissions-prod.s3.us-west-2.amazonaws.com",
+    "source": {
+      "list": "APPLE-DEV",
+      "line": 19
+    }
+  },
+  {
+    "type": "full",
+    "value": "p-events-delivery.akamaized.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:p-events-delivery.akamaized.net",
+    "source": {
+      "list": "APPLE-DEV",
+      "line": 61
+    }
+  }
+]

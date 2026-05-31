@@ -1,0 +1,1047 @@
+[
+  {
+    "type": "domain",
+    "value": "4everland.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:4everland.io",
+    "source": {
+      "list": "CATEGORY-IPFS",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ahmia.fi",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ahmia.fi",
+    "source": {
+      "list": "CATEGORY-ANTICENSORSHIP",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akasha.world",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akasha.world",
+    "source": {
+      "list": "CATEGORY-ANTICENSORSHIP",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "applecensorship.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:applecensorship.com",
+    "source": {
+      "list": "GREATFIRE",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "browserleaks.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:browserleaks.com",
+    "source": {
+      "list": "CATEGORY-ANTICENSORSHIP",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bypasscensorship.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bypasscensorship.org",
+    "source": {
+      "list": "CATEGORY-ANTICENSORSHIP",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "c4rex.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:c4rex.co",
+    "source": {
+      "list": "CATEGORY-IPFS",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "censorship.ai",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:censorship.ai",
+    "source": {
+      "list": "CATEGORY-ANTICENSORSHIP",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "censorship.no",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:censorship.no",
+    "source": {
+      "list": "CENO",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cf-ipfs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cf-ipfs.com",
+    "source": {
+      "list": "CLOUDFLARE-IPFS",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "citizenlab.ca",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:citizenlab.ca",
+    "source": {
+      "list": "CITIZENLAB",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "citizenlab.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:citizenlab.org",
+    "source": {
+      "list": "CITIZENLAB",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudflare-ipfs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudflare-ipfs.com",
+    "source": {
+      "list": "CLOUDFLARE-IPFS",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "crustwebsites.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:crustwebsites.net",
+    "source": {
+      "list": "CATEGORY-IPFS",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dat.foundation",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dat.foundation",
+    "source": {
+      "list": "CATEGORY-ANTICENSORSHIP",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "democracy.earth",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:democracy.earth",
+    "source": {
+      "list": "CATEGORY-ANTICENSORSHIP",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dweb.link",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dweb.link",
+    "source": {
+      "list": "CATEGORY-IPFS",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "eff.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:eff.org",
+    "source": {
+      "list": "CATEGORY-ANTICENSORSHIP",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "epicbrowser.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:epicbrowser.com",
+    "source": {
+      "list": "EPICBROWSER",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ffprofile.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ffprofile.com",
+    "source": {
+      "list": "CATEGORY-ANTICENSORSHIP",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "freebrowser.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:freebrowser.org",
+    "source": {
+      "list": "GREATFIRE",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "freenetproject.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:freenetproject.org",
+    "source": {
+      "list": "CATEGORY-ANTICENSORSHIP",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "freewechat.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:freewechat.com",
+    "source": {
+      "list": "GREATFIRE",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "freeweibo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:freeweibo.com",
+    "source": {
+      "list": "GREATFIRE",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "freezhihu.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:freezhihu.org",
+    "source": {
+      "list": "GREATFIRE",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fteproxy.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fteproxy.org",
+    "source": {
+      "list": "CATEGORY-ANTICENSORSHIP",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gateway.pinata.cloud",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gateway.pinata.cloud",
+    "source": {
+      "list": "CATEGORY-IPFS",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "geti2p.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:geti2p.net",
+    "source": {
+      "list": "CATEGORY-ANTICENSORSHIP",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "getlantern.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:getlantern.org",
+    "source": {
+      "list": "LANTERN",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "getoutline.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:getoutline.org",
+    "source": {
+      "list": "CATEGORY-ANTICENSORSHIP",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gfw.report",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gfw.report",
+    "source": {
+      "list": "CATEGORY-ANTICENSORSHIP",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "googlecensorship.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:googlecensorship.org",
+    "source": {
+      "list": "GREATFIRE",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "greatfire.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:greatfire.org",
+    "source": {
+      "list": "GREATFIRE",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "greatfirevpn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:greatfirevpn.com",
+    "source": {
+      "list": "GREATFIRE",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "guardianproject.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:guardianproject.info",
+    "source": {
+      "list": "CATEGORY-ANTICENSORSHIP",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "haveibeenpwned.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:haveibeenpwned.com",
+    "source": {
+      "list": "HAVEIBEENPWNED",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hiddify.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hiddify.com",
+    "source": {
+      "list": "CATEGORY-ANTICENSORSHIP",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ipfs-gateway.cloud",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ipfs-gateway.cloud",
+    "source": {
+      "list": "CATEGORY-IPFS",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ipfs.anonymize.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ipfs.anonymize.com",
+    "source": {
+      "list": "CATEGORY-IPFS",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ipfs.best-practice.se",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ipfs.best-practice.se",
+    "source": {
+      "list": "CATEGORY-IPFS",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ipfs.eternum.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ipfs.eternum.io",
+    "source": {
+      "list": "CATEGORY-IPFS",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ipfs.eth.aragon.network",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ipfs.eth.aragon.network",
+    "source": {
+      "list": "CATEGORY-IPFS",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ipfs.fleek.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ipfs.fleek.co",
+    "source": {
+      "list": "CATEGORY-IPFS",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ipfs.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ipfs.io",
+    "source": {
+      "list": "CATEGORY-IPFS",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ipfs.lain.la",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ipfs.lain.la",
+    "source": {
+      "list": "CATEGORY-IPFS",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ipfs.runfission.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ipfs.runfission.com",
+    "source": {
+      "list": "CATEGORY-IPFS",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ipfs.tech",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ipfs.tech",
+    "source": {
+      "list": "CATEGORY-IPFS",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ipns.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ipns.co",
+    "source": {
+      "list": "CATEGORY-IPFS",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jitsi.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jitsi.org",
+    "source": {
+      "list": "CATEGORY-ANTICENSORSHIP",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jorropo.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jorropo.net",
+    "source": {
+      "list": "CATEGORY-IPFS",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lantern.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lantern.io",
+    "source": {
+      "list": "LANTERN",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lokinet.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lokinet.org",
+    "source": {
+      "list": "CATEGORY-ANTICENSORSHIP",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "metacubex.one",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:metacubex.one",
+    "source": {
+      "list": "CATEGORY-ANTICENSORSHIP",
+      "line": 59
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nftstorage.link",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nftstorage.link",
+    "source": {
+      "list": "CATEGORY-IPFS",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ntc.party",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ntc.party",
+    "source": {
+      "list": "CATEGORY-ANTICENSORSHIP",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "onionshare.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:onionshare.org",
+    "source": {
+      "list": "CATEGORY-ANTICENSORSHIP",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ooni.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ooni.org",
+    "source": {
+      "list": "CATEGORY-ANTICENSORSHIP",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "opengw.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:opengw.net",
+    "source": {
+      "list": "VPNGATE",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "openvpn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:openvpn.net",
+    "source": {
+      "list": "CATEGORY-ANTICENSORSHIP",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pao-pao.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pao-pao.net",
+    "source": {
+      "list": "GREATFIRE",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paskoocheh.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paskoocheh.com",
+    "source": {
+      "list": "PASKOOCHEH",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "privacytools.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:privacytools.io",
+    "source": {
+      "list": "CATEGORY-ANTICENSORSHIP",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "proxifier.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:proxifier.com",
+    "source": {
+      "list": "CATEGORY-ANTICENSORSHIP",
+      "line": 37
+    }
+  },
+  {
+    "type": "domain",
+    "value": "psiphon.ca",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:psiphon.ca",
+    "source": {
+      "list": "CATEGORY-ANTICENSORSHIP",
+      "line": 38
+    }
+  },
+  {
+    "type": "domain",
+    "value": "psiphon3.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:psiphon3.com",
+    "source": {
+      "list": "CATEGORY-ANTICENSORSHIP",
+      "line": 39
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pwnedpasswords.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pwnedpasswords.com",
+    "source": {
+      "list": "HAVEIBEENPWNED",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sagernet.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sagernet.org",
+    "source": {
+      "list": "CATEGORY-ANTICENSORSHIP",
+      "line": 40
+    }
+  },
+  {
+    "type": "domain",
+    "value": "shadowsocks.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:shadowsocks.org",
+    "source": {
+      "list": "CATEGORY-ANTICENSORSHIP",
+      "line": 42
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sing-box.app",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sing-box.app",
+    "source": {
+      "list": "CATEGORY-ANTICENSORSHIP",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "softether-download.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:softether-download.com",
+    "source": {
+      "list": "SOFTETHER",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "softether.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:softether.org",
+    "source": {
+      "list": "SOFTETHER",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sspanel.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sspanel.net",
+    "source": {
+      "list": "CATEGORY-ANTICENSORSHIP",
+      "line": 43
+    }
+  },
+  {
+    "type": "domain",
+    "value": "stunnel.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:stunnel.org",
+    "source": {
+      "list": "CATEGORY-ANTICENSORSHIP",
+      "line": 44
+    }
+  },
+  {
+    "type": "domain",
+    "value": "telex.cc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:telex.cc",
+    "source": {
+      "list": "CATEGORY-ANTICENSORSHIP",
+      "line": 45
+    }
+  },
+  {
+    "type": "domain",
+    "value": "torproject.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:torproject.org",
+    "source": {
+      "list": "TORPROJECT",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tribler.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tribler.org",
+    "source": {
+      "list": "CATEGORY-ANTICENSORSHIP",
+      "line": 46
+    }
+  },
+  {
+    "type": "domain",
+    "value": "trojan-gfw.github.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:trojan-gfw.github.io",
+    "source": {
+      "list": "CATEGORY-ANTICENSORSHIP",
+      "line": 57
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tunsafe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tunsafe.com",
+    "source": {
+      "list": "CATEGORY-ANTICENSORSHIP",
+      "line": 47
+    }
+  },
+  {
+    "type": "domain",
+    "value": "turkeyblocks.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:turkeyblocks.org",
+    "source": {
+      "list": "CATEGORY-ANTICENSORSHIP",
+      "line": 48
+    }
+  },
+  {
+    "type": "domain",
+    "value": "twister.net.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:twister.net.co",
+    "source": {
+      "list": "CATEGORY-ANTICENSORSHIP",
+      "line": 49
+    }
+  },
+  {
+    "type": "domain",
+    "value": "uproxy.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:uproxy.org",
+    "source": {
+      "list": "CATEGORY-ANTICENSORSHIP",
+      "line": 50
+    }
+  },
+  {
+    "type": "domain",
+    "value": "v2fly.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:v2fly.org",
+    "source": {
+      "list": "V2RAY",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "v2ray.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:v2ray.com",
+    "source": {
+      "list": "V2RAY",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "v2ray.cool",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:v2ray.cool",
+    "source": {
+      "list": "V2RAY",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "via0.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:via0.com",
+    "source": {
+      "list": "CATEGORY-IPFS",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vpngate.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vpngate.jp",
+    "source": {
+      "list": "VPNGATE",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vpngate.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vpngate.net",
+    "source": {
+      "list": "VPNGATE",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vpnrouter.homes",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vpnrouter.homes",
+    "source": {
+      "list": "CATEGORY-ANTICENSORSHIP",
+      "line": 51
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vuvuzela.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vuvuzela.io",
+    "source": {
+      "list": "CATEGORY-ANTICENSORSHIP",
+      "line": 52
+    }
+  },
+  {
+    "type": "domain",
+    "value": "whonix.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:whonix.org",
+    "source": {
+      "list": "CATEGORY-ANTICENSORSHIP",
+      "line": 53
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wikileaks.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wikileaks.org",
+    "source": {
+      "list": "CATEGORY-ANTICENSORSHIP",
+      "line": 54
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wikiunblocked.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wikiunblocked.org",
+    "source": {
+      "list": "GREATFIRE",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wireguard.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wireguard.com",
+    "source": {
+      "list": "CATEGORY-ANTICENSORSHIP",
+      "line": 55
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xtls.github.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xtls.github.io",
+    "source": {
+      "list": "CATEGORY-ANTICENSORSHIP",
+      "line": 56
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zeronet.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zeronet.io",
+    "source": {
+      "list": "CATEGORY-ANTICENSORSHIP",
+      "line": 58
+    }
+  }
+]

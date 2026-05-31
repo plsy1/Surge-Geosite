@@ -1,0 +1,46 @@
+[
+  {
+    "type": "domain",
+    "value": "playstation",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:playstation",
+    "source": {
+      "list": "PLAYSTATION",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "playstation.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:playstation.com",
+    "source": {
+      "list": "PLAYSTATION",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "playstation.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:playstation.net",
+    "source": {
+      "list": "PLAYSTATION",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sonyentertainmentnetwork.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sonyentertainmentnetwork.com",
+    "source": {
+      "list": "PLAYSTATION",
+      "line": 6
+    }
+  }
+]

@@ -1,0 +1,420 @@
+[
+  {
+    "type": "domain",
+    "value": "appsflayer.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:appsflayer.com",
+    "source": {
+      "list": "BINANCE",
+      "line": 38
+    }
+  },
+  {
+    "type": "domain",
+    "value": "binance.cc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:binance.cc",
+    "source": {
+      "list": "BINANCE",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "binance.charity",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:binance.charity",
+    "source": {
+      "list": "BINANCE",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "binance.cloud",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:binance.cloud",
+    "source": {
+      "list": "BINANCE",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "binance.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:binance.co",
+    "source": {
+      "list": "BINANCE",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "binance.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:binance.com",
+    "source": {
+      "list": "BINANCE",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "binance.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:binance.info",
+    "source": {
+      "list": "BINANCE",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "binance.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:binance.me",
+    "source": {
+      "list": "BINANCE",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "binance.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:binance.net",
+    "source": {
+      "list": "BINANCE",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "binance.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:binance.org",
+    "source": {
+      "list": "BINANCE",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "binance.us",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:binance.us",
+    "source": {
+      "list": "BINANCE",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "binance.vision",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:binance.vision",
+    "source": {
+      "list": "BINANCE",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "binanceapi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:binanceapi.com",
+    "source": {
+      "list": "BINANCE",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "binancecnt.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:binancecnt.com",
+    "source": {
+      "list": "BINANCE",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "binanceru.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:binanceru.net",
+    "source": {
+      "list": "BINANCE",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "binancezh.be",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:binancezh.be",
+    "source": {
+      "list": "BINANCE",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "binancezh.biz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:binancezh.biz",
+    "source": {
+      "list": "BINANCE",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "binancezh.cc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:binancezh.cc",
+    "source": {
+      "list": "BINANCE",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "binancezh.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:binancezh.co",
+    "source": {
+      "list": "BINANCE",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "binancezh.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:binancezh.com",
+    "source": {
+      "list": "BINANCE",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "binancezh.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:binancezh.info",
+    "source": {
+      "list": "BINANCE",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "binancezh.ink",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:binancezh.ink",
+    "source": {
+      "list": "BINANCE",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "binancezh.kim",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:binancezh.kim",
+    "source": {
+      "list": "BINANCE",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "binancezh.link",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:binancezh.link",
+    "source": {
+      "list": "BINANCE",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "binancezh.live",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:binancezh.live",
+    "source": {
+      "list": "BINANCE",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "binancezh.mobi",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:binancezh.mobi",
+    "source": {
+      "list": "BINANCE",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "binancezh.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:binancezh.net",
+    "source": {
+      "list": "BINANCE",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "binancezh.pro",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:binancezh.pro",
+    "source": {
+      "list": "BINANCE",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "binancezh.sh",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:binancezh.sh",
+    "source": {
+      "list": "BINANCE",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "binancezh.top",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:binancezh.top",
+    "source": {
+      "list": "BINANCE",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bnbstatic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bnbstatic.com",
+    "source": {
+      "list": "BINANCE",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bntrace.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bntrace.com",
+    "source": {
+      "list": "BINANCE",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bsappapi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bsappapi.com",
+    "source": {
+      "list": "BINANCE",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nftstatic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nftstatic.com",
+    "source": {
+      "list": "BINANCE",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "saasexch.cc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:saasexch.cc",
+    "source": {
+      "list": "BINANCE",
+      "line": 39
+    }
+  },
+  {
+    "type": "domain",
+    "value": "saasexch.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:saasexch.co",
+    "source": {
+      "list": "BINANCE",
+      "line": 40
+    }
+  },
+  {
+    "type": "domain",
+    "value": "saasexch.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:saasexch.com",
+    "source": {
+      "list": "BINANCE",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "saasexch.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:saasexch.io",
+    "source": {
+      "list": "BINANCE",
+      "line": 42
+    }
+  }
+]

@@ -1,0 +1,596 @@
+[
+  {
+    "type": "domain",
+    "value": "computer.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:computer.org",
+    "source": {
+      "list": "IEEE",
+      "line": 38
+    }
+  },
+  {
+    "type": "domain",
+    "value": "comsoc.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:comsoc.org",
+    "source": {
+      "list": "IEEE",
+      "line": 39
+    }
+  },
+  {
+    "type": "domain",
+    "value": "datasheets360.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:datasheets360.com",
+    "source": {
+      "list": "IEEE",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "embs.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:embs.org",
+    "source": {
+      "list": "IEEE",
+      "line": 40
+    }
+  },
+  {
+    "type": "domain",
+    "value": "emcs.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:emcs.org",
+    "source": {
+      "list": "IEEE",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "globalspec.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:globalspec.com",
+    "source": {
+      "list": "IEEE",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "grss-ieee.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:grss-ieee.org",
+    "source": {
+      "list": "IEEE",
+      "line": 42
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ieee-aess.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ieee-aess.org",
+    "source": {
+      "list": "IEEE",
+      "line": 43
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ieee-cas.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ieee-cas.org",
+    "source": {
+      "list": "IEEE",
+      "line": 44
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ieee-ccnc.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ieee-ccnc.org",
+    "source": {
+      "list": "IEEE",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ieee-ceda.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ieee-ceda.org",
+    "source": {
+      "list": "IEEE",
+      "line": 45
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ieee-ecce.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ieee-ecce.org",
+    "source": {
+      "list": "IEEE",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ieee-edusociety.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ieee-edusociety.org",
+    "source": {
+      "list": "IEEE",
+      "line": 46
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ieee-ies.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ieee-ies.org",
+    "source": {
+      "list": "IEEE",
+      "line": 47
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ieee-ims.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ieee-ims.org",
+    "source": {
+      "list": "IEEE",
+      "line": 48
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ieee-into-focus.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ieee-into-focus.org",
+    "source": {
+      "list": "IEEE",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ieee-isto.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ieee-isto.org",
+    "source": {
+      "list": "IEEE",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ieee-npss.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ieee-npss.org",
+    "source": {
+      "list": "IEEE",
+      "line": 49
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ieee-pels.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ieee-pels.org",
+    "source": {
+      "list": "IEEE",
+      "line": 50
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ieee-pes.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ieee-pes.org",
+    "source": {
+      "list": "IEEE",
+      "line": 51
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ieee-ras.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ieee-ras.org",
+    "source": {
+      "list": "IEEE",
+      "line": 52
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ieee-region6.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ieee-region6.org",
+    "source": {
+      "list": "IEEE",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ieee-sensors.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ieee-sensors.org",
+    "source": {
+      "list": "IEEE",
+      "line": 53
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ieee-tems.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ieee-tems.org",
+    "source": {
+      "list": "IEEE",
+      "line": 54
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ieee-uffc.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ieee-uffc.org",
+    "source": {
+      "list": "IEEE",
+      "line": 55
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ieee-vics.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ieee-vics.org",
+    "source": {
+      "list": "IEEE",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ieee.ca",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ieee.ca",
+    "source": {
+      "list": "IEEE",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ieee.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ieee.org",
+    "source": {
+      "list": "IEEE",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ieee.tv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ieee.tv",
+    "source": {
+      "list": "IEEE",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ieeeaps.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ieeeaps.org",
+    "source": {
+      "list": "IEEE",
+      "line": 56
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ieeecsc.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ieeecsc.org",
+    "source": {
+      "list": "IEEE",
+      "line": 57
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ieeecss.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ieeecss.org",
+    "source": {
+      "list": "IEEE",
+      "line": 58
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ieeeday.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ieeeday.org",
+    "source": {
+      "list": "IEEE",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ieeedeis.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ieeedeis.org",
+    "source": {
+      "list": "IEEE",
+      "line": 59
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ieeefoundation.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ieeefoundation.org",
+    "source": {
+      "list": "IEEE",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ieeemagnetics.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ieeemagnetics.org",
+    "source": {
+      "list": "IEEE",
+      "line": 60
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ieeemce.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ieeemce.org",
+    "source": {
+      "list": "IEEE",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ieeenano.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ieeenano.org",
+    "source": {
+      "list": "IEEE",
+      "line": 61
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ieeeoes.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ieeeoes.org",
+    "source": {
+      "list": "IEEE",
+      "line": 62
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ieeer10.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ieeer10.org",
+    "source": {
+      "list": "IEEE",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ieeer5.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ieeer5.org",
+    "source": {
+      "list": "IEEE",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ieeer8.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ieeer8.org",
+    "source": {
+      "list": "IEEE",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ieeesmc.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ieeesmc.org",
+    "source": {
+      "list": "IEEE",
+      "line": 63
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ieeesystemscouncil.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ieeesystemscouncil.org",
+    "source": {
+      "list": "IEEE",
+      "line": 64
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ieeeusa.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ieeeusa.org",
+    "source": {
+      "list": "IEEE",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "itsoc.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:itsoc.org",
+    "source": {
+      "list": "IEEE",
+      "line": 65
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mtt.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mtt.org",
+    "source": {
+      "list": "IEEE",
+      "line": 66
+    }
+  },
+  {
+    "type": "domain",
+    "value": "photonicssociety.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:photonicssociety.org",
+    "source": {
+      "list": "IEEE",
+      "line": 67
+    }
+  },
+  {
+    "type": "domain",
+    "value": "signalprocessingsociety.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:signalprocessingsociety.org",
+    "source": {
+      "list": "IEEE",
+      "line": 68
+    }
+  },
+  {
+    "type": "domain",
+    "value": "standardsuniversity.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:standardsuniversity.org",
+    "source": {
+      "list": "IEEE",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "technologyandsociety.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:technologyandsociety.org",
+    "source": {
+      "list": "IEEE",
+      "line": 69
+    }
+  },
+  {
+    "type": "domain",
+    "value": "techstreet.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:techstreet.com",
+    "source": {
+      "list": "IEEE",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tryengineering.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tryengineering.org",
+    "source": {
+      "list": "IEEE",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vtsociety.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vtsociety.org",
+    "source": {
+      "list": "IEEE",
+      "line": 70
+    }
+  }
+]

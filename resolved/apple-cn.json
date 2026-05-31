@@ -1,0 +1,1795 @@
+[
+  {
+    "type": "full",
+    "value": "a1.mzstatic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:a1.mzstatic.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 1
+    }
+  },
+  {
+    "type": "full",
+    "value": "a2.mzstatic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:a2.mzstatic.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 2
+    }
+  },
+  {
+    "type": "full",
+    "value": "a3.mzstatic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:a3.mzstatic.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 3
+    }
+  },
+  {
+    "type": "full",
+    "value": "a4.mzstatic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:a4.mzstatic.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 4
+    }
+  },
+  {
+    "type": "full",
+    "value": "a5.mzstatic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:a5.mzstatic.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 5
+    }
+  },
+  {
+    "type": "full",
+    "value": "adcdownload.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:adcdownload.apple.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 7
+    }
+  },
+  {
+    "type": "full",
+    "value": "adcdownload.apple.com.akadns.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:adcdownload.apple.com.akadns.net",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 6
+    }
+  },
+  {
+    "type": "full",
+    "value": "amp-api-updates.apps.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:amp-api-updates.apps.apple.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 8
+    }
+  },
+  {
+    "type": "full",
+    "value": "amp-api.media.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:amp-api.media.apple.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 9
+    }
+  },
+  {
+    "type": "full",
+    "value": "app-site-association.cdn-apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:app-site-association.cdn-apple.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 10
+    }
+  },
+  {
+    "type": "full",
+    "value": "appldnld.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:appldnld.apple.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 11
+    }
+  },
+  {
+    "type": "full",
+    "value": "appldnld.g.aaplimg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:appldnld.g.aaplimg.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 12
+    }
+  },
+  {
+    "type": "full",
+    "value": "appleid.cdn-apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:appleid.cdn-apple.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 13
+    }
+  },
+  {
+    "type": "full",
+    "value": "apps.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:apps.apple.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 14
+    }
+  },
+  {
+    "type": "full",
+    "value": "apps.mzstatic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:apps.mzstatic.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 15
+    }
+  },
+  {
+    "type": "full",
+    "value": "bag-cdn.itunes-apple.com.akadns.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:bag-cdn.itunes-apple.com.akadns.net",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 16
+    }
+  },
+  {
+    "type": "full",
+    "value": "cdn-cn1.apple-mapkit.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cdn-cn1.apple-mapkit.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 17
+    }
+  },
+  {
+    "type": "full",
+    "value": "cdn-cn2.apple-mapkit.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cdn-cn2.apple-mapkit.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 18
+    }
+  },
+  {
+    "type": "full",
+    "value": "cdn-cn3.apple-mapkit.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cdn-cn3.apple-mapkit.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 19
+    }
+  },
+  {
+    "type": "full",
+    "value": "cdn-cn4.apple-mapkit.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cdn-cn4.apple-mapkit.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 20
+    }
+  },
+  {
+    "type": "full",
+    "value": "cdn.apple-mapkit.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cdn.apple-mapkit.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 21
+    }
+  },
+  {
+    "type": "full",
+    "value": "cdn1.apple-mapkit.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cdn1.apple-mapkit.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 22
+    }
+  },
+  {
+    "type": "full",
+    "value": "cdn2.apple-mapkit.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cdn2.apple-mapkit.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 23
+    }
+  },
+  {
+    "type": "full",
+    "value": "cdn3.apple-mapkit.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cdn3.apple-mapkit.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 24
+    }
+  },
+  {
+    "type": "full",
+    "value": "cdn4.apple-mapkit.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cdn4.apple-mapkit.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 25
+    }
+  },
+  {
+    "type": "full",
+    "value": "cds-cdn.v.aaplimg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cds-cdn.v.aaplimg.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 26
+    }
+  },
+  {
+    "type": "full",
+    "value": "cds.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cds.apple.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 28
+    }
+  },
+  {
+    "type": "full",
+    "value": "cds.apple.com.akadns.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cds.apple.com.akadns.net",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 27
+    }
+  },
+  {
+    "type": "full",
+    "value": "cdsassets.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cdsassets.apple.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 29
+    }
+  },
+  {
+    "type": "full",
+    "value": "certs.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:certs.apple.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 30
+    }
+  },
+  {
+    "type": "full",
+    "value": "cl1-cdn.origin-apple.com.akadns.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cl1-cdn.origin-apple.com.akadns.net",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 31
+    }
+  },
+  {
+    "type": "full",
+    "value": "cl1.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cl1.apple.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 32
+    }
+  },
+  {
+    "type": "full",
+    "value": "cl2-cn.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cl2-cn.apple.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 33
+    }
+  },
+  {
+    "type": "full",
+    "value": "cl2.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cl2.apple.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 35
+    }
+  },
+  {
+    "type": "full",
+    "value": "cl2.apple.com.edgekey.net.globalredir.akadns.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cl2.apple.com.edgekey.net.globalredir.akadns.net",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 34
+    }
+  },
+  {
+    "type": "full",
+    "value": "cl3-cdn.origin-apple.com.akadns.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cl3-cdn.origin-apple.com.akadns.net",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 36
+    }
+  },
+  {
+    "type": "full",
+    "value": "cl3.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cl3.apple.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 37
+    }
+  },
+  {
+    "type": "full",
+    "value": "cl4-cdn.origin-apple.com.akadns.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cl4-cdn.origin-apple.com.akadns.net",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 38
+    }
+  },
+  {
+    "type": "full",
+    "value": "cl4-cn.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cl4-cn.apple.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 39
+    }
+  },
+  {
+    "type": "full",
+    "value": "cl4.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cl4.apple.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 40
+    }
+  },
+  {
+    "type": "full",
+    "value": "cl5-cdn.origin-apple.com.akadns.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cl5-cdn.origin-apple.com.akadns.net",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 41
+    }
+  },
+  {
+    "type": "full",
+    "value": "cl5.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cl5.apple.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 42
+    }
+  },
+  {
+    "type": "full",
+    "value": "clientflow.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:clientflow.apple.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 44
+    }
+  },
+  {
+    "type": "full",
+    "value": "clientflow.apple.com.akadns.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:clientflow.apple.com.akadns.net",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 43
+    }
+  },
+  {
+    "type": "full",
+    "value": "cn-smp-paymentservices.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cn-smp-paymentservices.apple.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 45
+    }
+  },
+  {
+    "type": "full",
+    "value": "configuration.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:configuration.apple.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 47
+    }
+  },
+  {
+    "type": "full",
+    "value": "configuration.apple.com.akadns.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:configuration.apple.com.akadns.net",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 46
+    }
+  },
+  {
+    "type": "full",
+    "value": "crl.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:crl.apple.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 48
+    }
+  },
+  {
+    "type": "full",
+    "value": "cstat.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cstat.apple.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 49
+    }
+  },
+  {
+    "type": "full",
+    "value": "cstat.cdn-apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cstat.cdn-apple.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 50
+    }
+  },
+  {
+    "type": "full",
+    "value": "dd-cdn.origin-apple.com.akadns.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:dd-cdn.origin-apple.com.akadns.net",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 51
+    }
+  },
+  {
+    "type": "full",
+    "value": "dejavu.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:dejavu.apple.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 52
+    }
+  },
+  {
+    "type": "full",
+    "value": "devimages-cdn.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:devimages-cdn.apple.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 53
+    }
+  },
+  {
+    "type": "full",
+    "value": "devstreaming-cdn.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:devstreaming-cdn.apple.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 54
+    }
+  },
+  {
+    "type": "full",
+    "value": "download.developer.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:download.developer.apple.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 55
+    }
+  },
+  {
+    "type": "full",
+    "value": "experiments.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:experiments.apple.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 56
+    }
+  },
+  {
+    "type": "full",
+    "value": "gs-loc-cn.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:gs-loc-cn.apple.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 57
+    }
+  },
+  {
+    "type": "full",
+    "value": "gs-loc.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:gs-loc.apple.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 58
+    }
+  },
+  {
+    "type": "full",
+    "value": "gsp10-ssl-cn.ls.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:gsp10-ssl-cn.ls.apple.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 59
+    }
+  },
+  {
+    "type": "full",
+    "value": "gsp11-cn.ls.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:gsp11-cn.ls.apple.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 60
+    }
+  },
+  {
+    "type": "full",
+    "value": "gsp12-cn.ls.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:gsp12-cn.ls.apple.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 61
+    }
+  },
+  {
+    "type": "full",
+    "value": "gsp13-cn.ls.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:gsp13-cn.ls.apple.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 62
+    }
+  },
+  {
+    "type": "full",
+    "value": "gsp4-cn.ls.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:gsp4-cn.ls.apple.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 64
+    }
+  },
+  {
+    "type": "full",
+    "value": "gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 63
+    }
+  },
+  {
+    "type": "full",
+    "value": "gsp5-cn.ls.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:gsp5-cn.ls.apple.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 65
+    }
+  },
+  {
+    "type": "full",
+    "value": "gsp85-cn-ssl.ls.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:gsp85-cn-ssl.ls.apple.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 66
+    }
+  },
+  {
+    "type": "full",
+    "value": "gspe19-2-cn-ssl.ls-apple.com.akadns.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:gspe19-2-cn-ssl.ls-apple.com.akadns.net",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 67
+    }
+  },
+  {
+    "type": "full",
+    "value": "gspe19-2-cn-ssl.ls.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:gspe19-2-cn-ssl.ls.apple.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 68
+    }
+  },
+  {
+    "type": "full",
+    "value": "gspe19-cn-ssl.ls.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:gspe19-cn-ssl.ls.apple.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 69
+    }
+  },
+  {
+    "type": "full",
+    "value": "gspe19-cn.ls-apple.com.akadns.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:gspe19-cn.ls-apple.com.akadns.net",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 70
+    }
+  },
+  {
+    "type": "full",
+    "value": "gspe19-cn.ls.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:gspe19-cn.ls.apple.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 71
+    }
+  },
+  {
+    "type": "full",
+    "value": "gspe21-ssl.ls.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:gspe21-ssl.ls.apple.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 72
+    }
+  },
+  {
+    "type": "full",
+    "value": "gspe35-ssl.ls.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:gspe35-ssl.ls.apple.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 73
+    }
+  },
+  {
+    "type": "full",
+    "value": "gspe79-cn-ssl.ls.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:gspe79-cn-ssl.ls.apple.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 74
+    }
+  },
+  {
+    "type": "full",
+    "value": "guzzoni-apple-com.v.aaplimg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:guzzoni-apple-com.v.aaplimg.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 75
+    }
+  },
+  {
+    "type": "full",
+    "value": "guzzoni.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:guzzoni.apple.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 76
+    }
+  },
+  {
+    "type": "full",
+    "value": "guzzoni.smoot.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:guzzoni.smoot.apple.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 77
+    }
+  },
+  {
+    "type": "full",
+    "value": "iadsdk.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:iadsdk.apple.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 78
+    }
+  },
+  {
+    "type": "full",
+    "value": "images.apple.com.edgekey.net.globalredir.akadns.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:images.apple.com.edgekey.net.globalredir.akadns.net",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 79
+    }
+  },
+  {
+    "type": "full",
+    "value": "init-kt.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:init-kt.apple.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 80
+    }
+  },
+  {
+    "type": "full",
+    "value": "init-p01md-lb.push-apple.com.akadns.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:init-p01md-lb.push-apple.com.akadns.net",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 81
+    }
+  },
+  {
+    "type": "full",
+    "value": "init-p01md.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:init-p01md.apple.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 82
+    }
+  },
+  {
+    "type": "full",
+    "value": "init-p01st-lb.push-apple.com.akadns.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:init-p01st-lb.push-apple.com.akadns.net",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 83
+    }
+  },
+  {
+    "type": "full",
+    "value": "init-p01st.push.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:init-p01st.push.apple.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 84
+    }
+  },
+  {
+    "type": "full",
+    "value": "init-s01st-lb.push-apple.com.akadns.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:init-s01st-lb.push-apple.com.akadns.net",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 85
+    }
+  },
+  {
+    "type": "full",
+    "value": "init-s01st.push.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:init-s01st.push.apple.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 86
+    }
+  },
+  {
+    "type": "full",
+    "value": "init.ess.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:init.ess.apple.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 87
+    }
+  },
+  {
+    "type": "full",
+    "value": "iosapps.itunes.g.aaplimg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:iosapps.itunes.g.aaplimg.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 88
+    }
+  },
+  {
+    "type": "full",
+    "value": "ipcdn.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:ipcdn.apple.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 89
+    }
+  },
+  {
+    "type": "full",
+    "value": "iphone-ld.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:iphone-ld.apple.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 90
+    }
+  },
+  {
+    "type": "full",
+    "value": "iphone-ld.origin-apple.com.akadns.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:iphone-ld.origin-apple.com.akadns.net",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 91
+    }
+  },
+  {
+    "type": "full",
+    "value": "is-ssl.mzstatic.com-cn-lb.itunes-apple.com.akadns.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:is-ssl.mzstatic.com-cn-lb.itunes-apple.com.akadns.net",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 92
+    }
+  },
+  {
+    "type": "full",
+    "value": "is1-ssl.mzstatic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:is1-ssl.mzstatic.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 93
+    }
+  },
+  {
+    "type": "full",
+    "value": "is1.mzstatic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:is1.mzstatic.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 94
+    }
+  },
+  {
+    "type": "full",
+    "value": "is2-ssl.mzstatic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:is2-ssl.mzstatic.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 95
+    }
+  },
+  {
+    "type": "full",
+    "value": "is2.mzstatic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:is2.mzstatic.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 96
+    }
+  },
+  {
+    "type": "full",
+    "value": "is3-ssl.mzstatic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:is3-ssl.mzstatic.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 97
+    }
+  },
+  {
+    "type": "full",
+    "value": "is3.mzstatic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:is3.mzstatic.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 98
+    }
+  },
+  {
+    "type": "full",
+    "value": "is4-ssl.mzstatic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:is4-ssl.mzstatic.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 99
+    }
+  },
+  {
+    "type": "full",
+    "value": "is4.mzstatic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:is4.mzstatic.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 100
+    }
+  },
+  {
+    "type": "full",
+    "value": "is5-ssl.mzstatic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:is5-ssl.mzstatic.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 101
+    }
+  },
+  {
+    "type": "full",
+    "value": "is5.mzstatic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:is5.mzstatic.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 102
+    }
+  },
+  {
+    "type": "full",
+    "value": "itunes-apple.com.akadns.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:itunes-apple.com.akadns.net",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 103
+    }
+  },
+  {
+    "type": "full",
+    "value": "itunes.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:itunes.apple.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 104
+    }
+  },
+  {
+    "type": "full",
+    "value": "itunesconnect.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:itunesconnect.apple.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 105
+    }
+  },
+  {
+    "type": "full",
+    "value": "mesu-cdn.apple.com.akadns.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:mesu-cdn.apple.com.akadns.net",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 106
+    }
+  },
+  {
+    "type": "full",
+    "value": "mesu-china.apple.com.akadns.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:mesu-china.apple.com.akadns.net",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 107
+    }
+  },
+  {
+    "type": "full",
+    "value": "mesu.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:mesu.apple.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 108
+    }
+  },
+  {
+    "type": "full",
+    "value": "ml.cdn-apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:ml.cdn-apple.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 109
+    }
+  },
+  {
+    "type": "full",
+    "value": "music.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:music.apple.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 110
+    }
+  },
+  {
+    "type": "full",
+    "value": "ocsp.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:ocsp.apple.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 111
+    }
+  },
+  {
+    "type": "full",
+    "value": "ocsp2.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:ocsp2.apple.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 112
+    }
+  },
+  {
+    "type": "full",
+    "value": "oscdn.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:oscdn.apple.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 113
+    }
+  },
+  {
+    "type": "full",
+    "value": "oscdn.origin-apple.com.akadns.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:oscdn.origin-apple.com.akadns.net",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 114
+    }
+  },
+  {
+    "type": "full",
+    "value": "osxapps.itunes.g.aaplimg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:osxapps.itunes.g.aaplimg.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 115
+    }
+  },
+  {
+    "type": "full",
+    "value": "pancake.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:pancake.apple.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 116
+    }
+  },
+  {
+    "type": "full",
+    "value": "pba0.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:pba0.apple.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 117
+    }
+  },
+  {
+    "type": "full",
+    "value": "probe.siri.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:probe.siri.apple.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 118
+    }
+  },
+  {
+    "type": "full",
+    "value": "prod-support.apple-support.akadns.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:prod-support.apple-support.akadns.net",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 119
+    }
+  },
+  {
+    "type": "full",
+    "value": "publicassets.cdn-apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:publicassets.cdn-apple.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 120
+    }
+  },
+  {
+    "type": "full",
+    "value": "s.mzstatic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:s.mzstatic.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 121
+    }
+  },
+  {
+    "type": "full",
+    "value": "seed-sequoia.siri.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:seed-sequoia.siri.apple.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 122
+    }
+  },
+  {
+    "type": "full",
+    "value": "seed-swallow.siri.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:seed-swallow.siri.apple.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 123
+    }
+  },
+  {
+    "type": "full",
+    "value": "seed.siri.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:seed.siri.apple.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 124
+    }
+  },
+  {
+    "type": "full",
+    "value": "sequoia.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:sequoia.apple.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 125
+    }
+  },
+  {
+    "type": "full",
+    "value": "sh-pod2-smp-device.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:sh-pod2-smp-device.apple.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 126
+    }
+  },
+  {
+    "type": "full",
+    "value": "shazam-insights.cdn-apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:shazam-insights.cdn-apple.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 127
+    }
+  },
+  {
+    "type": "full",
+    "value": "smp-device-content.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:smp-device-content.apple.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 128
+    }
+  },
+  {
+    "type": "full",
+    "value": "static.gc.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:static.gc.apple.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 129
+    }
+  },
+  {
+    "type": "full",
+    "value": "stocks-sparkline-lb.apple.com.akadns.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stocks-sparkline-lb.apple.com.akadns.net",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 130
+    }
+  },
+  {
+    "type": "full",
+    "value": "stocks-sparkline.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stocks-sparkline.apple.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 131
+    }
+  },
+  {
+    "type": "full",
+    "value": "store.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:store.apple.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 134
+    }
+  },
+  {
+    "type": "full",
+    "value": "store.apple.com.edgekey.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:store.apple.com.edgekey.net",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 133
+    }
+  },
+  {
+    "type": "full",
+    "value": "store.apple.com.edgekey.net.globalredir.akadns.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:store.apple.com.edgekey.net.globalredir.akadns.net",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 132
+    }
+  },
+  {
+    "type": "full",
+    "value": "store.storeimages.apple.com.akadns.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:store.storeimages.apple.com.akadns.net",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 135
+    }
+  },
+  {
+    "type": "full",
+    "value": "store.storeimages.cdn-apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:store.storeimages.cdn-apple.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 136
+    }
+  },
+  {
+    "type": "full",
+    "value": "support-china.apple-support.akadns.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:support-china.apple-support.akadns.net",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 137
+    }
+  },
+  {
+    "type": "full",
+    "value": "support.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:support.apple.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 138
+    }
+  },
+  {
+    "type": "full",
+    "value": "swallow-apple-com.v.aaplimg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:swallow-apple-com.v.aaplimg.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 139
+    }
+  },
+  {
+    "type": "full",
+    "value": "swallow.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:swallow.apple.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 140
+    }
+  },
+  {
+    "type": "full",
+    "value": "swcatalog-cdn.apple.com.akadns.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:swcatalog-cdn.apple.com.akadns.net",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 141
+    }
+  },
+  {
+    "type": "full",
+    "value": "swcatalog.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:swcatalog.apple.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 142
+    }
+  },
+  {
+    "type": "full",
+    "value": "swcdn.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:swcdn.apple.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 143
+    }
+  },
+  {
+    "type": "full",
+    "value": "swcdn.g.aaplimg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:swcdn.g.aaplimg.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 144
+    }
+  },
+  {
+    "type": "full",
+    "value": "swdist.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:swdist.apple.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 146
+    }
+  },
+  {
+    "type": "full",
+    "value": "swdist.apple.com.akadns.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:swdist.apple.com.akadns.net",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 145
+    }
+  },
+  {
+    "type": "full",
+    "value": "swscan-cdn.apple.com.akadns.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:swscan-cdn.apple.com.akadns.net",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 147
+    }
+  },
+  {
+    "type": "full",
+    "value": "swscan.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:swscan.apple.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 148
+    }
+  },
+  {
+    "type": "full",
+    "value": "sylvan.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:sylvan.apple.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 149
+    }
+  },
+  {
+    "type": "full",
+    "value": "tj-pod1-smp-device.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:tj-pod1-smp-device.apple.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 150
+    }
+  },
+  {
+    "type": "full",
+    "value": "updates-http.cdn-apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:updates-http.cdn-apple.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 152
+    }
+  },
+  {
+    "type": "full",
+    "value": "updates-http.cdn-apple.com.akadns.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:updates-http.cdn-apple.com.akadns.net",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 151
+    }
+  },
+  {
+    "type": "full",
+    "value": "updates.cdn-apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:updates.cdn-apple.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 153
+    }
+  },
+  {
+    "type": "full",
+    "value": "valid.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:valid.apple.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 154
+    }
+  },
+  {
+    "type": "full",
+    "value": "valid.origin-apple.com.akadns.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:valid.origin-apple.com.akadns.net",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 155
+    }
+  },
+  {
+    "type": "full",
+    "value": "weather-data.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:weather-data.apple.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 157
+    }
+  },
+  {
+    "type": "full",
+    "value": "weather-data.apple.com.akadns.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:weather-data.apple.com.akadns.net",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 156
+    }
+  },
+  {
+    "type": "full",
+    "value": "weather-map.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:weather-map.apple.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 158
+    }
+  },
+  {
+    "type": "full",
+    "value": "weather-map2.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:weather-map2.apple.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 159
+    }
+  },
+  {
+    "type": "full",
+    "value": "weatherkit.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:weatherkit.apple.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 160
+    }
+  },
+  {
+    "type": "full",
+    "value": "www.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:www.apple.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 162
+    }
+  },
+  {
+    "type": "full",
+    "value": "www.apple.com.edgekey.net.globalredir.akadns.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:www.apple.com.edgekey.net.globalredir.akadns.net",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 161
+    }
+  },
+  {
+    "type": "full",
+    "value": "xp.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:xp.apple.com",
+    "source": {
+      "list": "APPLE-CN",
+      "line": 163
+    }
+  }
+]

@@ -1,0 +1,60 @@
+{
+  "name": "CATEGORY-RU",
+  "source": {
+    "domain": 39,
+    "full": 0,
+    "keyword": 0,
+    "regexp": 0,
+    "include": 36,
+    "affiliations": 0,
+    "attributes": 4
+  },
+  "resolved": {
+    "rules": 903,
+    "domain": 683,
+    "full": 220,
+    "keyword": 0,
+    "regexp": 0
+  },
+  "filters": {
+    "attrs": {
+      "ads": 186,
+      "cn": 97
+    }
+  },
+  "modes": {
+    "strict": {
+      "rules": 903,
+      "bytes": 24637,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "balanced": {
+      "rules": 903,
+      "bytes": 24637,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "full": {
+      "rules": 903,
+      "bytes": 24637,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    }
+  }
+}

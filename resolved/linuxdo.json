@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "ldstatic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ldstatic.com",
+    "source": {
+      "list": "LINUXDO",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "linux.do",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:linux.do",
+    "source": {
+      "list": "LINUXDO",
+      "line": 1
+    }
+  }
+]

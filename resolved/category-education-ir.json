@@ -1,0 +1,79 @@
+[
+  {
+    "type": "domain",
+    "value": "done.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:done.ir",
+    "source": {
+      "list": "CATEGORY-EDUCATION-IR",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "faradars.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:faradars.org",
+    "source": {
+      "list": "CATEGORY-EDUCATION-IR",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "git.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:git.ir",
+    "source": {
+      "list": "CATEGORY-EDUCATION-IR",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "iranlms.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:iranlms.org",
+    "source": {
+      "list": "CATEGORY-EDUCATION-IR",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "learnby.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:learnby.ir",
+    "source": {
+      "list": "CATEGORY-EDUCATION-IR",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "toplearn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:toplearn.com",
+    "source": {
+      "list": "CATEGORY-EDUCATION-IR",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "webinarplus.online",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:webinarplus.online",
+    "source": {
+      "list": "CATEGORY-EDUCATION-IR",
+      "line": 12
+    }
+  }
+]

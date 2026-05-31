@@ -1,0 +1,50 @@
+[
+  {
+    "type": "domain",
+    "value": "iads.unity3d.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:iads.unity3d.com:@ads",
+    "source": {
+      "list": "UNITY",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "unity.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:unity.com",
+    "source": {
+      "list": "UNITY",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "unity3d.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:unity3d.com",
+    "source": {
+      "list": "UNITY",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "unityads.unity3d.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:unityads.unity3d.com:@ads",
+    "source": {
+      "list": "UNITY",
+      "line": 6
+    }
+  }
+]

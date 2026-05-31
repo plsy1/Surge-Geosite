@@ -1,0 +1,2738 @@
+[
+  {
+    "type": "domain",
+    "value": "a2z.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:a2z.com",
+    "source": {
+      "list": "AMAZON",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "a2z.org.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:a2z.org.cn:@cn",
+    "source": {
+      "list": "AWS-CN",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aboutamazon.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:aboutamazon.cn:@cn",
+    "source": {
+      "list": "AMAZON",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aboutamazon.co.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aboutamazon.co.uk",
+    "source": {
+      "list": "AMAZON",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aboutamazon.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aboutamazon.com",
+    "source": {
+      "list": "AMAZON",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aboutamazon.com.au",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aboutamazon.com.au",
+    "source": {
+      "list": "AMAZON",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aboutamazon.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aboutamazon.de",
+    "source": {
+      "list": "AMAZON",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aboutamazon.es",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aboutamazon.es",
+    "source": {
+      "list": "AMAZON",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aboutamazon.eu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aboutamazon.eu",
+    "source": {
+      "list": "AMAZON",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aboutamazon.fr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aboutamazon.fr",
+    "source": {
+      "list": "AMAZON",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aboutamazon.in",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aboutamazon.in",
+    "source": {
+      "list": "AMAZON",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aboutamazon.it",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aboutamazon.it",
+    "source": {
+      "list": "AMAZON",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aboutamazon.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aboutamazon.jp",
+    "source": {
+      "list": "AMAZON",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aboutamazon.pl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aboutamazon.pl",
+    "source": {
+      "list": "AMAZON",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aboutamazon.sg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aboutamazon.sg",
+    "source": {
+      "list": "AMAZON",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "acmvalidations.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:acmvalidations.com",
+    "source": {
+      "list": "AWS",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "acmvalidationsaws.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:acmvalidationsaws.com",
+    "source": {
+      "list": "AWS",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aesworkshops.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aesworkshops.com",
+    "source": {
+      "list": "AWS",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aiv-cdn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aiv-cdn.net",
+    "source": {
+      "list": "PRIMEVIDEO",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "alexa.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:alexa.com",
+    "source": {
+      "list": "AMAZON",
+      "line": 127
+    }
+  },
+  {
+    "type": "domain",
+    "value": "alexafund.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:alexafund.cn:@cn",
+    "source": {
+      "list": "AMAZON",
+      "line": 37
+    }
+  },
+  {
+    "type": "domain",
+    "value": "alexafund.com.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:alexafund.com.cn:@cn",
+    "source": {
+      "list": "AMAZON",
+      "line": 38
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amaaozn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:amaaozn.com",
+    "source": {
+      "list": "AMAZON",
+      "line": 39
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amazon",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:amazon",
+    "source": {
+      "list": "AMAZON",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amazon-adsystem.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:amazon-adsystem.com:@ads",
+    "source": {
+      "list": "AMAZON",
+      "line": 139
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amazon-fashions.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:amazon-fashions.com",
+    "source": {
+      "list": "AMAZON",
+      "line": 40
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amazon-jp-recruiting.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:amazon-jp-recruiting.com",
+    "source": {
+      "list": "AMAZON",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amazon-lantern.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:amazon-lantern.com",
+    "source": {
+      "list": "AMAZON",
+      "line": 42
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amazon-launchpad.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:amazon-launchpad.com",
+    "source": {
+      "list": "AMAZON",
+      "line": 43
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amazon.ae",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:amazon.ae",
+    "source": {
+      "list": "AMAZON",
+      "line": 44
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amazon.ca",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:amazon.ca",
+    "source": {
+      "list": "AMAZON",
+      "line": 45
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amazon.cl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:amazon.cl",
+    "source": {
+      "list": "AMAZON",
+      "line": 46
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amazon.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:amazon.cn:@cn",
+    "source": {
+      "list": "AMAZON",
+      "line": 47
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amazon.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:amazon.co.jp",
+    "source": {
+      "list": "AMAZON",
+      "line": 48
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amazon.co.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:amazon.co.uk",
+    "source": {
+      "list": "AMAZON",
+      "line": 49
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amazon.co.za",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:amazon.co.za",
+    "source": {
+      "list": "AMAZON",
+      "line": 50
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amazon.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:amazon.com",
+    "source": {
+      "list": "AMAZON",
+      "line": 51
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amazon.com.au",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:amazon.com.au",
+    "source": {
+      "list": "AMAZON",
+      "line": 52
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amazon.com.be",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:amazon.com.be",
+    "source": {
+      "list": "AMAZON",
+      "line": 53
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amazon.com.br",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:amazon.com.br",
+    "source": {
+      "list": "AMAZON",
+      "line": 54
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amazon.com.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:amazon.com.co",
+    "source": {
+      "list": "AMAZON",
+      "line": 55
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amazon.com.mx",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:amazon.com.mx",
+    "source": {
+      "list": "AMAZON",
+      "line": 56
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amazon.com.ng",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:amazon.com.ng",
+    "source": {
+      "list": "AMAZON",
+      "line": 57
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amazon.com.tr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:amazon.com.tr",
+    "source": {
+      "list": "AMAZON",
+      "line": 58
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amazon.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:amazon.de",
+    "source": {
+      "list": "AMAZON",
+      "line": 59
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amazon.dev",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:amazon.dev",
+    "source": {
+      "list": "AMAZON",
+      "line": 60
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amazon.eg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:amazon.eg",
+    "source": {
+      "list": "AMAZON",
+      "line": 61
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amazon.es",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:amazon.es",
+    "source": {
+      "list": "AMAZON",
+      "line": 62
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amazon.fr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:amazon.fr",
+    "source": {
+      "list": "AMAZON",
+      "line": 63
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amazon.ie",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:amazon.ie",
+    "source": {
+      "list": "AMAZON",
+      "line": 64
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amazon.in",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:amazon.in",
+    "source": {
+      "list": "AMAZON",
+      "line": 65
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amazon.it",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:amazon.it",
+    "source": {
+      "list": "AMAZON",
+      "line": 66
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amazon.jobs",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:amazon.jobs",
+    "source": {
+      "list": "AMAZON",
+      "line": 67
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amazon.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:amazon.jp",
+    "source": {
+      "list": "AMAZON",
+      "line": 68
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amazon.lu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:amazon.lu",
+    "source": {
+      "list": "AMAZON",
+      "line": 69
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amazon.nl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:amazon.nl",
+    "source": {
+      "list": "AMAZON",
+      "line": 70
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amazon.pl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:amazon.pl",
+    "source": {
+      "list": "AMAZON",
+      "line": 71
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amazon.red",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:amazon.red",
+    "source": {
+      "list": "AMAZON",
+      "line": 72
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amazon.sa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:amazon.sa",
+    "source": {
+      "list": "AMAZON",
+      "line": 73
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amazon.se",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:amazon.se",
+    "source": {
+      "list": "AMAZON",
+      "line": 74
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amazon.sg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:amazon.sg",
+    "source": {
+      "list": "AMAZON",
+      "line": 75
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amazonalexavoxcon.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:amazonalexavoxcon.com",
+    "source": {
+      "list": "AMAZON",
+      "line": 76
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amazonauthorinsights.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:amazonauthorinsights.com",
+    "source": {
+      "list": "AMAZON",
+      "line": 77
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amazonaws-china.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:amazonaws-china.com",
+    "source": {
+      "list": "AWS",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amazonaws.biz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:amazonaws.biz",
+    "source": {
+      "list": "AWS",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amazonaws.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:amazonaws.cn:@cn",
+    "source": {
+      "list": "AWS-CN",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amazonaws.co.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:amazonaws.co.uk",
+    "source": {
+      "list": "AWS",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amazonaws.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:amazonaws.com",
+    "source": {
+      "list": "AWS",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amazonaws.com.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:amazonaws.com.cn:@cn",
+    "source": {
+      "list": "AWS-CN",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amazonaws.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:amazonaws.info",
+    "source": {
+      "list": "AWS",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amazonaws.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:amazonaws.net",
+    "source": {
+      "list": "AWS",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amazonaws.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:amazonaws.org",
+    "source": {
+      "list": "AWS",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amazonaws.tv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:amazonaws.tv",
+    "source": {
+      "list": "AWS",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amazonbusiness.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:amazonbusiness.cn:@cn",
+    "source": {
+      "list": "AMAZON",
+      "line": 78
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amazonbusiness.com.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:amazonbusiness.com.cn:@cn",
+    "source": {
+      "list": "AMAZON",
+      "line": 79
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amazonbusiness.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:amazonbusiness.org",
+    "source": {
+      "list": "AMAZON",
+      "line": 80
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amazonbusinessblog.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:amazonbusinessblog.com",
+    "source": {
+      "list": "AMAZON",
+      "line": 81
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amazonchoice.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:amazonchoice.cn:@cn",
+    "source": {
+      "list": "AMAZON",
+      "line": 82
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amazonchoice.com.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:amazonchoice.com.cn:@cn",
+    "source": {
+      "list": "AMAZON",
+      "line": 83
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amazonchoices.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:amazonchoices.cn:@cn",
+    "source": {
+      "list": "AMAZON",
+      "line": 84
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amazonchoices.com.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:amazonchoices.com.cn:@cn",
+    "source": {
+      "list": "AMAZON",
+      "line": 85
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amazoncognito.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:amazoncognito.com",
+    "source": {
+      "list": "AWS",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amazondevicesupport.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:amazondevicesupport.com",
+    "source": {
+      "list": "AMAZON",
+      "line": 86
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amazonfctours.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:amazonfctours.com",
+    "source": {
+      "list": "AMAZON",
+      "line": 87
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amazonianblog.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:amazonianblog.com",
+    "source": {
+      "list": "AMAZON",
+      "line": 88
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amazonimages.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:amazonimages.com",
+    "source": {
+      "list": "AMAZON",
+      "line": 89
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amazoninspire.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:amazoninspire.cn:@cn",
+    "source": {
+      "list": "AMAZON",
+      "line": 90
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amazoninspire.com.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:amazoninspire.com.cn:@cn",
+    "source": {
+      "list": "AMAZON",
+      "line": 91
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amazonlaunchpad.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:amazonlaunchpad.cn:@cn",
+    "source": {
+      "list": "AMAZON",
+      "line": 92
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amazonlaunchpad.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:amazonlaunchpad.com",
+    "source": {
+      "list": "AMAZON",
+      "line": 93
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amazonlaunchpad.com.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:amazonlaunchpad.com.cn:@cn",
+    "source": {
+      "list": "AMAZON",
+      "line": 94
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amazonlending.com.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:amazonlending.com.cn:@cn",
+    "source": {
+      "list": "AMAZON",
+      "line": 95
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amazonliterarypartnership.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:amazonliterarypartnership.com",
+    "source": {
+      "list": "AMAZON",
+      "line": 96
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amazonlumberyard.wang",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:amazonlumberyard.wang",
+    "source": {
+      "list": "AMAZON",
+      "line": 97
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amazonnow.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:amazonnow.cn:@cn",
+    "source": {
+      "list": "AMAZON",
+      "line": 98
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amazonnow.com.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:amazonnow.com.cn:@cn",
+    "source": {
+      "list": "AMAZON",
+      "line": 99
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amazonpay.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:amazonpay.com",
+    "source": {
+      "list": "AMAZON",
+      "line": 100
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amazonpay.in",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:amazonpay.in",
+    "source": {
+      "list": "AMAZON",
+      "line": 101
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amazonprimevideo.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:amazonprimevideo.cn:@cn",
+    "source": {
+      "list": "PRIMEVIDEO",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amazonprimevideo.com.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:amazonprimevideo.com.cn:@cn",
+    "source": {
+      "list": "PRIMEVIDEO",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amazonprimevideos.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:amazonprimevideos.com",
+    "source": {
+      "list": "PRIMEVIDEO",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amazonsdi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:amazonsdi.com",
+    "source": {
+      "list": "AMAZON",
+      "line": 102
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amazonses.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:amazonses.com",
+    "source": {
+      "list": "AWS",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amazonstudiosguilds.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:amazonstudiosguilds.com",
+    "source": {
+      "list": "AMAZON",
+      "line": 103
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amazontrust.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:amazontrust.com",
+    "source": {
+      "list": "AMAZONTRUST",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amazonvideo.cc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:amazonvideo.cc",
+    "source": {
+      "list": "PRIMEVIDEO",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amazonvideo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:amazonvideo.com",
+    "source": {
+      "list": "PRIMEVIDEO",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amazonvideodirect.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:amazonvideodirect.com",
+    "source": {
+      "list": "AMAZON",
+      "line": 104
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amazonwebservices.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:amazonwebservices.cn:@cn",
+    "source": {
+      "list": "AWS-CN",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amazonwebservices.com.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:amazonwebservices.com.cn:@cn",
+    "source": {
+      "list": "AWS-CN",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amazonworkdocs.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:amazonworkdocs.cn:@cn",
+    "source": {
+      "list": "AWS-CN",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amazonworkdocs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:amazonworkdocs.com",
+    "source": {
+      "list": "AWS",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amazonworkdocs.com.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:amazonworkdocs.com.cn:@cn",
+    "source": {
+      "list": "AWS-CN",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amplifyapp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:amplifyapp.com",
+    "source": {
+      "list": "AWS",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amplifyframework.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:amplifyframework.com",
+    "source": {
+      "list": "AWS",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amzn.asia",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:amzn.asia",
+    "source": {
+      "list": "AMAZON",
+      "line": 105
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amzn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:amzn.com",
+    "source": {
+      "list": "AMAZON",
+      "line": 106
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amzn.to",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:amzn.to",
+    "source": {
+      "list": "AMAZON",
+      "line": 107
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amzndns-cn.biz",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:amzndns-cn.biz:@cn",
+    "source": {
+      "list": "AWS-CN",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amzndns-cn.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:amzndns-cn.cn:@cn",
+    "source": {
+      "list": "AWS-CN",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amzndns-cn.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:amzndns-cn.com:@cn",
+    "source": {
+      "list": "AWS-CN",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amzndns-cn.net",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:amzndns-cn.net:@cn",
+    "source": {
+      "list": "AWS-CN",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amzndns.co.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:amzndns.co.uk",
+    "source": {
+      "list": "AWS",
+      "line": 53
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amzndns.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:amzndns.com",
+    "source": {
+      "list": "AWS",
+      "line": 54
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amzndns.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:amzndns.net",
+    "source": {
+      "list": "AWS",
+      "line": 55
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amzndns.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:amzndns.org",
+    "source": {
+      "list": "AWS",
+      "line": 56
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amznl.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:amznl.com",
+    "source": {
+      "list": "AMAZON",
+      "line": 108
+    }
+  },
+  {
+    "type": "domain",
+    "value": "asfiovnxocqpcry.com.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:asfiovnxocqpcry.com.cn:@cn",
+    "source": {
+      "list": "AWS-CN",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "assoc-amazon.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:assoc-amazon.cn:@cn",
+    "source": {
+      "list": "AMAZON",
+      "line": 109
+    }
+  },
+  {
+    "type": "domain",
+    "value": "associates-amazon.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:associates-amazon.com",
+    "source": {
+      "list": "AMAZON",
+      "line": 110
+    }
+  },
+  {
+    "type": "domain",
+    "value": "audible.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:audible.com",
+    "source": {
+      "list": "AMAZON",
+      "line": 130
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aws",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aws",
+    "source": {
+      "list": "AWS",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aws-border.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:aws-border.cn:@cn",
+    "source": {
+      "list": "AWS-CN",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aws-icp-domain-manager.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:aws-icp-domain-manager.cn:@cn",
+    "source": {
+      "list": "AWS-CN",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aws-iot-hackathon.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aws-iot-hackathon.com",
+    "source": {
+      "list": "AWS",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aws.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aws.com",
+    "source": {
+      "list": "AWS",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aws.dev",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aws.dev",
+    "source": {
+      "list": "AWS",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "awsapprunner.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:awsapprunner.com",
+    "source": {
+      "list": "AWS",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "awsapps.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:awsapps.cn:@cn",
+    "source": {
+      "list": "AWS-CN",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "awsapps.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:awsapps.com",
+    "source": {
+      "list": "AWS",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "awsapps.com.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:awsapps.com.cn:@cn",
+    "source": {
+      "list": "AWS-CN",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "awsautopilot.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:awsautopilot.com",
+    "source": {
+      "list": "AWS",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "awsautoscaling.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:awsautoscaling.com",
+    "source": {
+      "list": "AWS",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "awsbraket.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:awsbraket.com",
+    "source": {
+      "list": "AWS",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "awscommandlineinterface.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:awscommandlineinterface.com",
+    "source": {
+      "list": "AWS",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "awsedstart.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:awsedstart.com",
+    "source": {
+      "list": "AWS",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "awseducate.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:awseducate.com",
+    "source": {
+      "list": "AWS",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "awseducate.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:awseducate.net",
+    "source": {
+      "list": "AWS",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "awseducate.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:awseducate.org",
+    "source": {
+      "list": "AWS",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "awsglobalaccelerator.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:awsglobalaccelerator.com",
+    "source": {
+      "list": "AWS",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "awsloft-johannesburg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:awsloft-johannesburg.com",
+    "source": {
+      "list": "AWS",
+      "line": 37
+    }
+  },
+  {
+    "type": "domain",
+    "value": "awsloft-stockholm.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:awsloft-stockholm.com",
+    "source": {
+      "list": "AWS",
+      "line": 38
+    }
+  },
+  {
+    "type": "domain",
+    "value": "awssecworkshops.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:awssecworkshops.com",
+    "source": {
+      "list": "AWS",
+      "line": 39
+    }
+  },
+  {
+    "type": "domain",
+    "value": "awsstatic.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:awsstatic.cn:@cn",
+    "source": {
+      "list": "AWS-CN",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "awsstatic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:awsstatic.com",
+    "source": {
+      "list": "AWS",
+      "line": 40
+    }
+  },
+  {
+    "type": "domain",
+    "value": "awsthinkbox.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:awsthinkbox.com",
+    "source": {
+      "list": "AWS",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "awstrack.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:awstrack.me",
+    "source": {
+      "list": "AWS",
+      "line": 42
+    }
+  },
+  {
+    "type": "domain",
+    "value": "awstrust.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:awstrust.com",
+    "source": {
+      "list": "AMAZONTRUST",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "awswaf.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:awswaf.com",
+    "source": {
+      "list": "AWS",
+      "line": 43
+    }
+  },
+  {
+    "type": "domain",
+    "value": "boxofficemojo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:boxofficemojo.com",
+    "source": {
+      "list": "IMDB",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdkworkshop.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdkworkshop.com",
+    "source": {
+      "list": "AWS",
+      "line": 44
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudfront-cn.net",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:cloudfront-cn.net:@cn",
+    "source": {
+      "list": "AWS-CN",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudfront-test.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:cloudfront-test.cn:@cn",
+    "source": {
+      "list": "AWS-CN",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudfront.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:cloudfront.cn:@cn",
+    "source": {
+      "list": "AWS-CN",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudfront.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudfront.com",
+    "source": {
+      "list": "AWS",
+      "line": 45
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudfront.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudfront.net",
+    "source": {
+      "list": "AWS",
+      "line": 46
+    }
+  },
+  {
+    "type": "domain",
+    "value": "containersonaws.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:containersonaws.com",
+    "source": {
+      "list": "AWS",
+      "line": 47
+    }
+  },
+  {
+    "type": "domain",
+    "value": "createspace.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:createspace.com",
+    "source": {
+      "list": "AMAZON",
+      "line": 133
+    }
+  },
+  {
+    "type": "domain",
+    "value": "elasticbeanstalk.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:elasticbeanstalk.com",
+    "source": {
+      "list": "AWS",
+      "line": 48
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gameon-masters.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gameon-masters.com",
+    "source": {
+      "list": "AMAZON",
+      "line": 111
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gdansk-amazon.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gdansk-amazon.com",
+    "source": {
+      "list": "AMAZON",
+      "line": 112
+    }
+  },
+  {
+    "type": "domain",
+    "value": "images-amazon.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:images-amazon.com",
+    "source": {
+      "list": "AMAZON",
+      "line": 113
+    }
+  },
+  {
+    "type": "domain",
+    "value": "imdb",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:imdb",
+    "source": {
+      "list": "IMDB",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "imdb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:imdb.com",
+    "source": {
+      "list": "IMDB",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "imdb.to",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:imdb.to",
+    "source": {
+      "list": "IMDB",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kindle",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kindle",
+    "source": {
+      "list": "KINDLE",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kindle.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:kindle.cn:@cn",
+    "source": {
+      "list": "KINDLE",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kindle.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kindle.co.jp",
+    "source": {
+      "list": "KINDLE",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kindle.co.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kindle.co.uk",
+    "source": {
+      "list": "KINDLE",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kindle.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kindle.com",
+    "source": {
+      "list": "KINDLE",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kindle.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kindle.de",
+    "source": {
+      "list": "KINDLE",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kindle.es",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kindle.es",
+    "source": {
+      "list": "KINDLE",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kindle.fr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kindle.fr",
+    "source": {
+      "list": "KINDLE",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kindle.in",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kindle.in",
+    "source": {
+      "list": "KINDLE",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kindle.it",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kindle.it",
+    "source": {
+      "list": "KINDLE",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kindle.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kindle.jp",
+    "source": {
+      "list": "KINDLE",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kindleoasis.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:kindleoasis.cn:@cn",
+    "source": {
+      "list": "KINDLE",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kindleoasis.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kindleoasis.com",
+    "source": {
+      "list": "KINDLE",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kindleoasis.com.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:kindleoasis.com.cn:@cn",
+    "source": {
+      "list": "KINDLE",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kindleoasis.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kindleoasis.info",
+    "source": {
+      "list": "KINDLE",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kindleoasis.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kindleoasis.jp",
+    "source": {
+      "list": "KINDLE",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kindleoasis.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kindleoasis.org",
+    "source": {
+      "list": "KINDLE",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kindleoasis.us",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kindleoasis.us",
+    "source": {
+      "list": "KINDLE",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kindleoasisnews.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kindleoasisnews.com",
+    "source": {
+      "list": "KINDLE",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kindleproject.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kindleproject.com",
+    "source": {
+      "list": "KINDLE",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "media-amazon.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:media-amazon.com",
+    "source": {
+      "list": "AMAZON",
+      "line": 114
+    }
+  },
+  {
+    "type": "domain",
+    "value": "media-imdb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:media-imdb.com",
+    "source": {
+      "list": "IMDB",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nwcdcloud.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:nwcdcloud.cn:@cn",
+    "source": {
+      "list": "AWS-CN",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nwcdcloud.com.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:nwcdcloud.com.cn:@cn",
+    "source": {
+      "list": "AWS-CN",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nwcddns.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:nwcddns.cn:@cn",
+    "source": {
+      "list": "AWS-CN",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nwcdinfosec.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:nwcdinfosec.cn:@cn",
+    "source": {
+      "list": "AWS-CN",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "prime-video.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:prime-video.com",
+    "source": {
+      "list": "PRIMEVIDEO",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "primeday.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:primeday.cn:@cn",
+    "source": {
+      "list": "AMAZON",
+      "line": 115
+    }
+  },
+  {
+    "type": "domain",
+    "value": "primeday.com.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:primeday.com.cn:@cn",
+    "source": {
+      "list": "AMAZON",
+      "line": 116
+    }
+  },
+  {
+    "type": "domain",
+    "value": "primeday.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:primeday.info",
+    "source": {
+      "list": "AMAZON",
+      "line": 117
+    }
+  },
+  {
+    "type": "domain",
+    "value": "primevideo.cc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:primevideo.cc",
+    "source": {
+      "list": "PRIMEVIDEO",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "primevideo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:primevideo.com",
+    "source": {
+      "list": "PRIMEVIDEO",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "primevideo.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:primevideo.info",
+    "source": {
+      "list": "PRIMEVIDEO",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "primevideo.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:primevideo.org",
+    "source": {
+      "list": "PRIMEVIDEO",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "primevideo.tv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:primevideo.tv",
+    "source": {
+      "list": "PRIMEVIDEO",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "route53.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:route53.cn:@cn",
+    "source": {
+      "list": "AWS-CN",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sagemaker.com.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:sagemaker.com.cn:@cn",
+    "source": {
+      "list": "AWS-CN",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "seattlespheres.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:seattlespheres.com",
+    "source": {
+      "list": "AMAZON",
+      "line": 118
+    }
+  },
+  {
+    "type": "domain",
+    "value": "serving-sys.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:serving-sys.com:@ads",
+    "source": {
+      "list": "AMAZON",
+      "line": 140
+    }
+  },
+  {
+    "type": "domain",
+    "value": "siege-amazon.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:siege-amazon.com",
+    "source": {
+      "list": "AMAZON",
+      "line": 119
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ss2.us",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ss2.us",
+    "source": {
+      "list": "AMAZONTRUST",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ssl-images-amazon.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ssl-images-amazon.com",
+    "source": {
+      "list": "AMAZON",
+      "line": 120
+    }
+  },
+  {
+    "type": "domain",
+    "value": "thinkboxsoftware.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:thinkboxsoftware.com",
+    "source": {
+      "list": "AWS",
+      "line": 49
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ueberamazon.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ueberamazon.de",
+    "source": {
+      "list": "AMAZON",
+      "line": 121
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wfm.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wfm.com",
+    "source": {
+      "list": "WHOLEFOODSMARKET",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wholecitiesfoundation.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wholecitiesfoundation.org",
+    "source": {
+      "list": "WHOLEFOODSMARKET",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wholefoods.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wholefoods.com",
+    "source": {
+      "list": "WHOLEFOODSMARKET",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wholefoodsmarket.co.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wholefoodsmarket.co.uk",
+    "source": {
+      "list": "WHOLEFOODSMARKET",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wholefoodsmarket.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wholefoodsmarket.com",
+    "source": {
+      "list": "WHOLEFOODSMARKET",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wholekidsfoundation.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wholekidsfoundation.org",
+    "source": {
+      "list": "WHOLEFOODSMARKET",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wholeplanetfoundation.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wholeplanetfoundation.org",
+    "source": {
+      "list": "WHOLEFOODSMARKET",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--cckwcxetd",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--cckwcxetd",
+    "source": {
+      "list": "AMAZON",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--jlq480n2rg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--jlq480n2rg",
+    "source": {
+      "list": "AMAZON",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yamaxun",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yamaxun",
+    "source": {
+      "list": "AMAZON",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yamaxun.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:yamaxun.cn:@cn",
+    "source": {
+      "list": "AMAZON",
+      "line": 122
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yamaxun.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yamaxun.com",
+    "source": {
+      "list": "AMAZON",
+      "line": 123
+    }
+  },
+  {
+    "type": "domain",
+    "value": "z.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:z.cn:@cn",
+    "source": {
+      "list": "AMAZON",
+      "line": 124
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zappos",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zappos",
+    "source": {
+      "list": "AMAZON",
+      "line": 21
+    }
+  },
+  {
+    "type": "full",
+    "value": "images-cn-8.ssl-images-amazon.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:images-cn-8.ssl-images-amazon.com:@cn",
+    "source": {
+      "list": "AMAZON",
+      "line": 136
+    }
+  },
+  {
+    "type": "full",
+    "value": "images-cn.ssl-images-amazon.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:images-cn.ssl-images-amazon.com:@cn",
+    "source": {
+      "list": "AMAZON",
+      "line": 135
+    }
+  },
+  {
+    "type": "regexp",
+    "value": ".+\\.awsdns-[0-9][0-9]\\.(co\\.uk|com|net|org)$",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "regexp:.+\\.awsdns-[0-9][0-9]\\.(co\\.uk|com|net|org)$",
+    "source": {
+      "list": "AWS",
+      "line": 58
+    }
+  },
+  {
+    "type": "regexp",
+    "value": ".+\\.awsdns-cn-[0-9][0-9]\\.(biz|com|net|top)$",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "regexp:.+\\.awsdns-cn-[0-9][0-9]\\.(biz|com|net|top)$:@cn",
+    "source": {
+      "list": "AWS-CN",
+      "line": 31
+    }
+  },
+  {
+    "type": "regexp",
+    "value": ".+\\.awsdns-cn-[0-9][a-e0-9]\\.cn$",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "regexp:.+\\.awsdns-cn-[0-9][a-e0-9]\\.cn$:@cn",
+    "source": {
+      "list": "AWS-CN",
+      "line": 32
+    }
+  }
+]

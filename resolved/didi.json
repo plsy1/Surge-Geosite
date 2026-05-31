@@ -1,0 +1,131 @@
+[
+  {
+    "type": "domain",
+    "value": "didi-food.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:didi-food.com:@!cn",
+    "source": {
+      "list": "DIDI",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "didi.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:didi.cn",
+    "source": {
+      "list": "DIDI",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "didialift.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:didialift.com",
+    "source": {
+      "list": "DIDI",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "didiaustralia.blog",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:didiaustralia.blog:@!cn",
+    "source": {
+      "list": "DIDI",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "didichuxing.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:didichuxing.com",
+    "source": {
+      "list": "DIDI",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "didiglobal.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:didiglobal.com:@!cn",
+    "source": {
+      "list": "DIDI",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "didimobility.co.jp",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:didimobility.co.jp:@!cn",
+    "source": {
+      "list": "DIDI",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "didistatic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:didistatic.com",
+    "source": {
+      "list": "DIDI",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "diditaxi.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:diditaxi.com.cn",
+    "source": {
+      "list": "DIDI",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "udache.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:udache.com",
+    "source": {
+      "list": "DIDI",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xiaojukeji.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xiaojukeji.com",
+    "source": {
+      "list": "DIDI",
+      "line": 11
+    }
+  }
+]

@@ -1,0 +1,57 @@
+{
+  "name": "CATEGORY-SCHOLAR-!CN",
+  "source": {
+    "domain": 160,
+    "full": 13,
+    "keyword": 0,
+    "regexp": 0,
+    "include": 15,
+    "affiliations": 0,
+    "attributes": 0
+  },
+  "resolved": {
+    "rules": 442,
+    "domain": 353,
+    "full": 89,
+    "keyword": 0,
+    "regexp": 0
+  },
+  "filters": {
+    "attrs": {}
+  },
+  "modes": {
+    "strict": {
+      "rules": 442,
+      "bytes": 12362,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "balanced": {
+      "rules": 442,
+      "bytes": 12362,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "full": {
+      "rules": 442,
+      "bytes": 12362,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    }
+  }
+}

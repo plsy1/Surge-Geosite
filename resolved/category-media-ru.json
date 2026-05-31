@@ -1,0 +1,46 @@
+[
+  {
+    "type": "domain",
+    "value": "rteam.tech",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rteam.tech",
+    "source": {
+      "list": "CATEGORY-MEDIA-RU",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "russiatoday.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:russiatoday.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-RU",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "shop-rt.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:shop-rt.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-RU",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "swentr.site",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:swentr.site",
+    "source": {
+      "list": "CATEGORY-MEDIA-RU",
+      "line": 5
+    }
+  }
+]

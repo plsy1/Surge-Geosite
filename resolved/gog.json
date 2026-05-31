@@ -1,0 +1,167 @@
+[
+  {
+    "type": "domain",
+    "value": "gog-statics.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gog-statics.com",
+    "source": {
+      "list": "GOG",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gog.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gog.com",
+    "source": {
+      "list": "GOG",
+      "line": 1
+    }
+  },
+  {
+    "type": "full",
+    "value": "gog-cdn-fastly.gog.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:gog-cdn-fastly.gog.com:@cn",
+    "source": {
+      "list": "GOG",
+      "line": 15
+    }
+  },
+  {
+    "type": "full",
+    "value": "gog-cdn.akamaized.net",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:gog-cdn.akamaized.net:@cn",
+    "source": {
+      "list": "GOG",
+      "line": 16
+    }
+  },
+  {
+    "type": "full",
+    "value": "gog.qtlglb.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:gog.qtlglb.com:@cn",
+    "source": {
+      "list": "GOG",
+      "line": 4
+    }
+  },
+  {
+    "type": "full",
+    "value": "gogalaxy.gog-statics.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:gogalaxy.gog-statics.com:@cn",
+    "source": {
+      "list": "GOG",
+      "line": 5
+    }
+  },
+  {
+    "type": "full",
+    "value": "menu-static.gog-statics.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:menu-static.gog-statics.com:@cn",
+    "source": {
+      "list": "GOG",
+      "line": 6
+    }
+  },
+  {
+    "type": "full",
+    "value": "productcard.gog-statics.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:productcard.gog-statics.com:@cn",
+    "source": {
+      "list": "GOG",
+      "line": 7
+    }
+  },
+  {
+    "type": "full",
+    "value": "static-login.gog-statics.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:static-login.gog-statics.com:@cn",
+    "source": {
+      "list": "GOG",
+      "line": 8
+    }
+  },
+  {
+    "type": "full",
+    "value": "www4-static.gog-statics.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:www4-static.gog-statics.com:@cn",
+    "source": {
+      "list": "GOG",
+      "line": 9
+    }
+  },
+  {
+    "type": "regexp",
+    "value": "^cdn-akamai-.+\\.gog-services\\.com$",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "regexp:^cdn-akamai-.+\\.gog-services\\.com$:@cn",
+    "source": {
+      "list": "GOG",
+      "line": 10
+    }
+  },
+  {
+    "type": "regexp",
+    "value": "^gog-cdn-.+\\.footprint\\.net$",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "regexp:^gog-cdn-.+\\.footprint\\.net$:@cn",
+    "source": {
+      "list": "GOG",
+      "line": 11
+    }
+  },
+  {
+    "type": "regexp",
+    "value": "^images(-\\d)?\\.gog-statics\\.com$",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "regexp:^images(-\\d)?\\.gog-statics\\.com$:@cn",
+    "source": {
+      "list": "GOG",
+      "line": 12
+    }
+  }
+]

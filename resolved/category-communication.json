@@ -1,0 +1,1647 @@
+[
+  {
+    "type": "domain",
+    "value": "adsgram.ai",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:adsgram.ai:@ads",
+    "source": {
+      "list": "NICEGRAM",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airhorn.solutions",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airhorn.solutions",
+    "source": {
+      "list": "DISCORD",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airhornbot.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airhornbot.com",
+    "source": {
+      "list": "DISCORD",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "arewereadyyet.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:arewereadyyet.com",
+    "source": {
+      "list": "MATRIX",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bigbeans.solutions",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bigbeans.solutions",
+    "source": {
+      "list": "DISCORD",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdn-telegram.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdn-telegram.org",
+    "source": {
+      "list": "TELEGRAM",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cinny.in",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cinny.in",
+    "source": {
+      "list": "MATRIX",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "clubhouse.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:clubhouse.com",
+    "source": {
+      "list": "CLUBHOUSE",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "clubhouseapi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:clubhouseapi.com",
+    "source": {
+      "list": "CLUBHOUSE",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "comments.app",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:comments.app",
+    "source": {
+      "list": "TELEGRAM",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "contest.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:contest.com",
+    "source": {
+      "list": "TELEGRAM",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dis.gd",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dis.gd",
+    "source": {
+      "list": "DISCORD",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "discord-activities.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:discord-activities.com",
+    "source": {
+      "list": "DISCORD",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "discord.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:discord.co",
+    "source": {
+      "list": "DISCORD",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "discord.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:discord.com",
+    "source": {
+      "list": "DISCORD",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "discord.design",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:discord.design",
+    "source": {
+      "list": "DISCORD",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "discord.dev",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:discord.dev",
+    "source": {
+      "list": "DISCORD",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "discord.gg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:discord.gg",
+    "source": {
+      "list": "DISCORD",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "discord.gift",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:discord.gift",
+    "source": {
+      "list": "DISCORD",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "discord.gifts",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:discord.gifts",
+    "source": {
+      "list": "DISCORD",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "discord.media",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:discord.media",
+    "source": {
+      "list": "DISCORD",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "discord.new",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:discord.new",
+    "source": {
+      "list": "DISCORD",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "discord.store",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:discord.store",
+    "source": {
+      "list": "DISCORD",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "discord.tools",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:discord.tools",
+    "source": {
+      "list": "DISCORD",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "discordactivities.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:discordactivities.com",
+    "source": {
+      "list": "DISCORD",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "discordapp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:discordapp.com",
+    "source": {
+      "list": "DISCORD",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "discordapp.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:discordapp.io",
+    "source": {
+      "list": "DISCORD",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "discordapp.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:discordapp.net",
+    "source": {
+      "list": "DISCORD",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "discordcdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:discordcdn.com",
+    "source": {
+      "list": "DISCORD",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "discordmerch.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:discordmerch.com",
+    "source": {
+      "list": "DISCORD",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "discordpartygames.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:discordpartygames.com",
+    "source": {
+      "list": "DISCORD",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "discordsays.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:discordsays.com",
+    "source": {
+      "list": "DISCORD",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "discordstatus.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:discordstatus.com",
+    "source": {
+      "list": "DISCORD",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "element.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:element.io",
+    "source": {
+      "list": "MATRIX",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fbmessenger.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fbmessenger.com",
+    "source": {
+      "list": "MESSENGER",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fluffychat.im",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fluffychat.im",
+    "source": {
+      "list": "MATRIX",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fragment.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fragment.com",
+    "source": {
+      "list": "TELEGRAM",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "freenode.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:freenode.net",
+    "source": {
+      "list": "FREENODE",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gcld-line.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gcld-line.com",
+    "source": {
+      "list": "LINE",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "graph.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:graph.org",
+    "source": {
+      "list": "TELEGRAM",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "graph.whatsapp.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:graph.whatsapp.com:@ads",
+    "source": {
+      "list": "WHATSAPP",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "graph.whatsapp.net",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:graph.whatsapp.net:@ads",
+    "source": {
+      "list": "WHATSAPP",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intercom.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intercom.com",
+    "source": {
+      "list": "INTERCOM",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intercom.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intercom.io",
+    "source": {
+      "list": "INTERCOM",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intercomassets.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intercomassets.com",
+    "source": {
+      "list": "INTERCOM",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intercomcdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intercomcdn.com",
+    "source": {
+      "list": "INTERCOM",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "joinclubhouse.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:joinclubhouse.com",
+    "source": {
+      "list": "CLUBHOUSE",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "keybase.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:keybase.io",
+    "source": {
+      "list": "KEYBASE",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "keybaseapi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:keybaseapi.com",
+    "source": {
+      "list": "KEYBASE",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lin.ee",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lin.ee",
+    "source": {
+      "list": "LINE",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "line-apps-beta.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:line-apps-beta.com",
+    "source": {
+      "list": "LINE",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "line-apps-rc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:line-apps-rc.com",
+    "source": {
+      "list": "LINE",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "line-apps.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:line-apps.com",
+    "source": {
+      "list": "LINE",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "line-beta.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:line-beta.me",
+    "source": {
+      "list": "LINE",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "line-cdn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:line-cdn.net",
+    "source": {
+      "list": "LINE",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "line-scdn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:line-scdn.net",
+    "source": {
+      "list": "LINE",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "line.biz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:line.biz",
+    "source": {
+      "list": "LINE",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "line.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:line.me",
+    "source": {
+      "list": "LINE",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "line.naver.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:line.naver.jp",
+    "source": {
+      "list": "LINE",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "linecorp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:linecorp.com",
+    "source": {
+      "list": "LINE",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "linefriends.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:linefriends.com",
+    "source": {
+      "list": "LINE",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "linefriends.com.tw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:linefriends.com.tw",
+    "source": {
+      "list": "LINE",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "linegame.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:linegame.jp",
+    "source": {
+      "list": "LINE",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "linemobile.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:linemobile.com",
+    "source": {
+      "list": "LINE",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "linemyshop.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:linemyshop.com",
+    "source": {
+      "list": "LINE",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lineshoppingseller.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lineshoppingseller.com",
+    "source": {
+      "list": "LINE",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "linetv.tw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:linetv.tw",
+    "source": {
+      "list": "LINE",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "m.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:m.me",
+    "source": {
+      "list": "MESSENGER",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mail.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mail.com",
+    "source": {
+      "list": "MAILCOM",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "matrix.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:matrix.org",
+    "source": {
+      "list": "MATRIX",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "matrix.to",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:matrix.to",
+    "source": {
+      "list": "MATRIX",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "messenger.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:messenger.com",
+    "source": {
+      "list": "MESSENGER",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "modular.im",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:modular.im",
+    "source": {
+      "list": "MATRIX",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "myteamspeak.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:myteamspeak.com",
+    "source": {
+      "list": "TEAMSPEAK",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nbabot.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nbabot.net",
+    "source": {
+      "list": "MESSENGER",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nhncorp.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nhncorp.jp",
+    "source": {
+      "list": "LINE",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nicegram.app",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nicegram.app",
+    "source": {
+      "list": "NICEGRAM",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nicegram.cloud",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nicegram.cloud",
+    "source": {
+      "list": "NICEGRAM",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pm.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pm.me",
+    "source": {
+      "list": "PROTONMAIL",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "proton.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:proton.me",
+    "source": {
+      "list": "PROTONMAIL",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "protonmail.ch",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:protonmail.ch",
+    "source": {
+      "list": "PROTONMAIL",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "protonmail.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:protonmail.com",
+    "source": {
+      "list": "PROTONMAIL",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "protonstatus.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:protonstatus.com",
+    "source": {
+      "list": "PROTONMAIL",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "protontech.ch",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:protontech.ch",
+    "source": {
+      "list": "PROTONMAIL",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "protonvpn.ch",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:protonvpn.ch",
+    "source": {
+      "list": "PROTONMAIL",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "protonvpn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:protonvpn.com",
+    "source": {
+      "list": "PROTONMAIL",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "protonweb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:protonweb.com",
+    "source": {
+      "list": "PROTONMAIL",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "quiz.directory",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:quiz.directory",
+    "source": {
+      "list": "TELEGRAM",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "riot.im",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:riot.im",
+    "source": {
+      "list": "MATRIX",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "s-bid.rmp.rakuten.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:s-bid.rmp.rakuten.com",
+    "source": {
+      "list": "VIBER",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "signal.art",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:signal.art",
+    "source": {
+      "list": "SIGNAL",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "signal.group",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:signal.group",
+    "source": {
+      "list": "SIGNAL",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "signal.link",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:signal.link",
+    "source": {
+      "list": "SIGNAL",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "signal.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:signal.me",
+    "source": {
+      "list": "SIGNAL",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "signal.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:signal.org",
+    "source": {
+      "list": "SIGNAL",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "signal.tube",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:signal.tube",
+    "source": {
+      "list": "SIGNAL",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "signalusers.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:signalusers.org",
+    "source": {
+      "list": "SIGNAL",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "slack-core.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:slack-core.com",
+    "source": {
+      "list": "SLACK",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "slack-edge.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:slack-edge.com",
+    "source": {
+      "list": "SLACK",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "slack-files.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:slack-files.com",
+    "source": {
+      "list": "SLACK",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "slack-imgs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:slack-imgs.com",
+    "source": {
+      "list": "SLACK",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "slack-msgs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:slack-msgs.com",
+    "source": {
+      "list": "SLACK",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "slack-redir.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:slack-redir.net",
+    "source": {
+      "list": "SLACK",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "slack.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:slack.com",
+    "source": {
+      "list": "SLACK",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "slackb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:slackb.com",
+    "source": {
+      "list": "SLACK",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "slackcertified.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:slackcertified.com",
+    "source": {
+      "list": "SLACK",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "slackdemo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:slackdemo.com",
+    "source": {
+      "list": "SLACK",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "slackhq.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:slackhq.com",
+    "source": {
+      "list": "SLACK",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "t.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:t.me",
+    "source": {
+      "list": "TELEGRAM",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tdesktop.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tdesktop.com",
+    "source": {
+      "list": "TELEGRAM",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "teamspeak-services.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:teamspeak-services.com",
+    "source": {
+      "list": "TEAMSPEAK",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "teamspeak.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:teamspeak.com",
+    "source": {
+      "list": "TEAMSPEAK",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "telega.one",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:telega.one",
+    "source": {
+      "list": "TELEGRAM",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "telegra.ph",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:telegra.ph",
+    "source": {
+      "list": "TELEGRAM",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "telegram-cdn.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:telegram-cdn.org",
+    "source": {
+      "list": "TELEGRAM",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "telegram.dog",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:telegram.dog",
+    "source": {
+      "list": "TELEGRAM",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "telegram.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:telegram.me",
+    "source": {
+      "list": "TELEGRAM",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "telegram.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:telegram.org",
+    "source": {
+      "list": "TELEGRAM",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "telegram.space",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:telegram.space",
+    "source": {
+      "list": "TELEGRAM",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "telesco.pe",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:telesco.pe",
+    "source": {
+      "list": "TELEGRAM",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "temp-mail.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:temp-mail.org",
+    "source": {
+      "list": "TEMP-MAIL",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tg.dev",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tg.dev",
+    "source": {
+      "list": "TELEGRAM",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ton.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ton.org",
+    "source": {
+      "list": "TELEGRAM",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tx.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tx.me",
+    "source": {
+      "list": "TELEGRAM",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ui-portal.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ui-portal.de",
+    "source": {
+      "list": "MAILCOM",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "uicdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:uicdn.com",
+    "source": {
+      "list": "MAILCOM",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "uimserv.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:uimserv.net",
+    "source": {
+      "list": "MAILCOM",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "usercontent.dev",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:usercontent.dev",
+    "source": {
+      "list": "TELEGRAM",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vbcdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vbcdn.com",
+    "source": {
+      "list": "VIBER",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vbcdn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vbcdn.net",
+    "source": {
+      "list": "VIBER",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vector.im",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vector.im",
+    "source": {
+      "list": "MATRIX",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "viber.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:viber.co",
+    "source": {
+      "list": "VIBER",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "viber.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:viber.com",
+    "source": {
+      "list": "VIBER",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "viber.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:viber.me",
+    "source": {
+      "list": "VIBER",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wa.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wa.me",
+    "source": {
+      "list": "WHATSAPP",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "watchanimeattheoffice.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:watchanimeattheoffice.com",
+    "source": {
+      "list": "DISCORD",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "whatsapp-plus.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:whatsapp-plus.info",
+    "source": {
+      "list": "WHATSAPP",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "whatsapp-plus.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:whatsapp-plus.me",
+    "source": {
+      "list": "WHATSAPP",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "whatsapp-plus.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:whatsapp-plus.net",
+    "source": {
+      "list": "WHATSAPP",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "whatsapp.cc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:whatsapp.cc",
+    "source": {
+      "list": "WHATSAPP",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "whatsapp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:whatsapp.com",
+    "source": {
+      "list": "WHATSAPP",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "whatsapp.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:whatsapp.info",
+    "source": {
+      "list": "WHATSAPP",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "whatsapp.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:whatsapp.net",
+    "source": {
+      "list": "WHATSAPP",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "whatsapp.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:whatsapp.org",
+    "source": {
+      "list": "WHATSAPP",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "whatsapp.tv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:whatsapp.tv",
+    "source": {
+      "list": "WHATSAPP",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "whatsappbrand.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:whatsappbrand.com",
+    "source": {
+      "list": "WHATSAPP",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "whispersystems.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:whispersystems.org",
+    "source": {
+      "list": "SIGNAL",
+      "line": 8
+    }
+  },
+  {
+    "type": "full",
+    "value": "discord-attachments-uploads-prd.storage.googleapis.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:discord-attachments-uploads-prd.storage.googleapis.com",
+    "source": {
+      "list": "DISCORD",
+      "line": 33
+    }
+  },
+  {
+    "type": "full",
+    "value": "hammerandchisel.ssl.zendesk.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:hammerandchisel.ssl.zendesk.com",
+    "source": {
+      "list": "DISCORD",
+      "line": 34
+    }
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "youmind.ai",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youmind.ai",
+    "source": {
+      "list": "YOUMIND",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youmind.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youmind.com",
+    "source": {
+      "list": "YOUMIND",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youmind.site",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youmind.site",
+    "source": {
+      "list": "YOUMIND",
+      "line": 4
+    }
+  }
+]

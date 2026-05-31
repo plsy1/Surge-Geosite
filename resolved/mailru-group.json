@@ -1,0 +1,3387 @@
+[
+  {
+    "type": "domain",
+    "value": "ad.mail.ru",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:ad.mail.ru:@ads",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 50
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ads.viqeo.tv",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:ads.viqeo.tv:@ads",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 51
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adsadvisor.io",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:adsadvisor.io:@ads",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 52
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adv.vk.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:adv.vk.com:@ads",
+    "source": {
+      "list": "VK",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "algoritmika.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:algoritmika.org",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 138
+    }
+  },
+  {
+    "type": "domain",
+    "value": "alt-ad.mail.ru",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:alt-ad.mail.ru:@ads",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 53
+    }
+  },
+  {
+    "type": "domain",
+    "value": "analytics.vk.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:analytics.vk.com:@ads",
+    "source": {
+      "list": "VK",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aodahl.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aodahl.com",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 246
+    }
+  },
+  {
+    "type": "domain",
+    "value": "apiok.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:apiok.ru",
+    "source": {
+      "list": "OK",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "appsmail.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:appsmail.ru",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 106
+    }
+  },
+  {
+    "type": "domain",
+    "value": "apptracer.ru",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:apptracer.ru:@ads",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 54
+    }
+  },
+  {
+    "type": "domain",
+    "value": "armgs.team",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:armgs.team",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "attachmail.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:attachmail.ru",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 107
+    }
+  },
+  {
+    "type": "domain",
+    "value": "attachmy.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:attachmy.com",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 108
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bargipsy.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bargipsy.com",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bizmrg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bizmrg.com",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 109
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bk.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bk.ru",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 125
+    }
+  },
+  {
+    "type": "domain",
+    "value": "boom.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:boom.ru",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "boosty.to",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:boosty.to",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdn-vk.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdn-vk.net",
+    "source": {
+      "list": "VK",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdn-vk.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdn-vk.ru",
+    "source": {
+      "list": "VK",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnmail.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnmail.ru",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 110
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ciciq.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ciciq.net",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 159
+    }
+  },
+  {
+    "type": "domain",
+    "value": "code-class.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:code-class.ru",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 139
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cups.online",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cups.online",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 132
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cxhub.ru",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:cxhub.ru:@ads",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 55
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cybersport.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cybersport.ru",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 152
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dahl.su",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dahl.su",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 247
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dahlmessenger.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dahlmessenger.com",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 248
+    }
+  },
+  {
+    "type": "domain",
+    "value": "datacloudmy.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:datacloudmy.com",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 111
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dev-my.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dev-my.com",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 223
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dev-my.games",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dev-my.games",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 227
+    }
+  },
+  {
+    "type": "domain",
+    "value": "donationalerts.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:donationalerts.com",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dzen.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dzen.ru",
+    "source": {
+      "list": "DZEN",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dzeninfra.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dzeninfra.ru",
+    "source": {
+      "list": "DZEN",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "epicevents.gg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:epicevents.gg",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 153
+    }
+  },
+  {
+    "type": "domain",
+    "value": "esforce.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:esforce.com",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 154
+    }
+  },
+  {
+    "type": "domain",
+    "value": "esforce.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:esforce.ru",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 155
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gamescup.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gamescup.ru",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 133
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gb.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gb.ru",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 140
+    }
+  },
+  {
+    "type": "domain",
+    "value": "goicq.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:goicq.org",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 160
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hrtek.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hrtek.ru",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icq-download.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icq-download.com",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 161
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icq-mobile.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icq-mobile.com",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 162
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icq-online.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icq-online.com",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 163
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icq-phone.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icq-phone.com",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 164
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icq-phone.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icq-phone.org",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 165
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icq.asia",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icq.asia",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 166
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icq.at",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icq.at",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 167
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icq.biz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icq.biz",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 168
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icq.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icq.com",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 169
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icq.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icq.de",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 170
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icq.eu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icq.eu",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 172
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icq.fr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icq.fr",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 171
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icq.im",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icq.im",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 173
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icq.lt",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icq.lt",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 174
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icq.mobi",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icq.mobi",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 175
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icq.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icq.org",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 176
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icq.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icq.ru",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 177
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icq.sg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icq.sg",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 178
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icq2mobile.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icq2mobile.com",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 179
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icq5.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icq5.com",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 180
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icqanywhere.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icqanywhere.com",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 181
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icqbrasil.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icqbrasil.com",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 182
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icqbrazil.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icqbrazil.com",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 183
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icqchat.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icqchat.com",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 184
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icqflirting.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icqflirting.com",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 185
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icqgame.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icqgame.com",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 186
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icqgames.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icqgames.com",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 187
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icqkids.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icqkids.com",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 188
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icqmail.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icqmail.com",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 189
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icqmail.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icqmail.net",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 190
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icqonline.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icqonline.com",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 191
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icqpassword.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icqpassword.com",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 192
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icqpeople.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icqpeople.com",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 193
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icqservers.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icqservers.com",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 194
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icqservice.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icqservice.com",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 195
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icqsupportteam.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icqsupportteam.com",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 196
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icqsystem.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icqsystem.com",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 197
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icqsystems.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icqsystems.com",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 198
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icqtoday.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icqtoday.com",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 199
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icqtutor.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icqtutor.com",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 200
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icqvideo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icqvideo.com",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 201
+    }
+  },
+  {
+    "type": "domain",
+    "value": "imgsmail.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:imgsmail.ru",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 112
+    }
+  },
+  {
+    "type": "domain",
+    "value": "inbox.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:inbox.ru",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 126
+    }
+  },
+  {
+    "type": "domain",
+    "value": "insideok.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:insideok.ru",
+    "source": {
+      "list": "OK",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "internet.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:internet.ru",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 127
+    }
+  },
+  {
+    "type": "domain",
+    "value": "it-territory.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:it-territory.com",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 228
+    }
+  },
+  {
+    "type": "domain",
+    "value": "justveryok.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:justveryok.com",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 44
+    }
+  },
+  {
+    "type": "domain",
+    "value": "keyboardmen.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:keyboardmen.com",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 45
+    }
+  },
+  {
+    "type": "domain",
+    "value": "knightspeak.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:knightspeak.com",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 229
+    }
+  },
+  {
+    "type": "domain",
+    "value": "koddobra.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:koddobra.ru",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lerna.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lerna.ru",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 141
+    }
+  },
+  {
+    "type": "domain",
+    "value": "list.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:list.ru",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 128
+    }
+  },
+  {
+    "type": "domain",
+    "value": "log.dzen.ru",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:log.dzen.ru:@ads",
+    "source": {
+      "list": "DZEN",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lovina.app",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lovina.app",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mail.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mail.ru",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mailicq.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mailicq.org",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 202
+    }
+  },
+  {
+    "type": "domain",
+    "value": "max.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:max.ru",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 217
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mcs.st",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mcs.st",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mediumquality.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mediumquality.ru",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "memealerts.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:memealerts.com",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "metrics.viqeo.tv",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:metrics.viqeo.tv:@ads",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 56
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mirabilis.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mirabilis.com",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 203
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mirandaicq.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mirandaicq.com",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 204
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mlbootcamp.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mlbootcamp.ru",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 134
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mobile-icq.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mobile-icq.com",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 205
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mobileicq.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mobileicq.com",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 206
+    }
+  },
+  {
+    "type": "domain",
+    "value": "movika.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:movika.com",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mpgw-my.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mpgw-my.com",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 113
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mradx.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mradx.net",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 114
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mrgcdn.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mrgcdn.ru",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 115
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ms.dzen.ru",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:ms.dzen.ru:@ads",
+    "source": {
+      "list": "DZEN",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ms.vk.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:ms.vk.com:@ads",
+    "source": {
+      "list": "VK",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ms.vk.ru",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:ms.vk.ru:@ads",
+    "source": {
+      "list": "VK",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mvk.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mvk.com",
+    "source": {
+      "list": "VK",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "my.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:my.com",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 224
+    }
+  },
+  {
+    "type": "domain",
+    "value": "my.games",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:my.games",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 230
+    }
+  },
+  {
+    "type": "domain",
+    "value": "myadx.net",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:myadx.net:@ads",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 57
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mycdn.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mycdn.me",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 116
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mytopf.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mytopf.com",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 117
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mytrk.link",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mytrk.link",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 58
+    }
+  },
+  {
+    "type": "domain",
+    "value": "odkl.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:odkl.ru",
+    "source": {
+      "list": "OK",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "odnoklasniki.by",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:odnoklasniki.by",
+    "source": {
+      "list": "OK",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "odnoklasniki.ua",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:odnoklasniki.ua",
+    "source": {
+      "list": "OK",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "odnoklassniki.am",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:odnoklassniki.am",
+    "source": {
+      "list": "OK",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "odnoklassniki.by",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:odnoklassniki.by",
+    "source": {
+      "list": "OK",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "odnoklassniki.co.ee",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:odnoklassniki.co.ee",
+    "source": {
+      "list": "OK",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "odnoklassniki.eu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:odnoklassniki.eu",
+    "source": {
+      "list": "OK",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "odnoklassniki.lv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:odnoklassniki.lv",
+    "source": {
+      "list": "OK",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "odnoklassniki.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:odnoklassniki.ru",
+    "source": {
+      "list": "OK",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "odnoklassniki.tj",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:odnoklassniki.tj",
+    "source": {
+      "list": "OK",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ok.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ok.me",
+    "source": {
+      "list": "OK",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ok.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ok.ru",
+    "source": {
+      "list": "OK",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "okcdn.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:okcdn.ru",
+    "source": {
+      "list": "OK",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "okl.lt",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:okl.lt",
+    "source": {
+      "list": "OK",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oktech.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oktech.ru",
+    "source": {
+      "list": "OK",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oneme.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oneme.ru",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 218
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pixonic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pixonic.com",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 231
+    }
+  },
+  {
+    "type": "domain",
+    "value": "prod-my.games",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:prod-my.games",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 232
+    }
+  },
+  {
+    "type": "domain",
+    "value": "r.mail.ru",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:r.mail.ru:@ads",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 59
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rabbitcounter.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rabbitcounter.com",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 46
+    }
+  },
+  {
+    "type": "domain",
+    "value": "radar.imgsmail.ru",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:radar.imgsmail.ru:@ads",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 60
+    }
+  },
+  {
+    "type": "domain",
+    "value": "relap.mail.ru",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:relap.mail.ru:@ads",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 61
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ruhub.tv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ruhub.tv",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 156
+    }
+  },
+  {
+    "type": "domain",
+    "value": "russiandesigncup.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:russiandesigncup.ru",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 135
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rustore.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rustore.ru",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 235
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rustore.team",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rustore.team",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 236
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rustore.tv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rustore.tv",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 237
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sayeasy.eu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sayeasy.eu",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 47
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sferum-dev.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sferum-dev.ru",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 219
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sferum.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sferum.ru",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 220
+    }
+  },
+  {
+    "type": "domain",
+    "value": "skbx.pro",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:skbx.pro",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 142
+    }
+  },
+  {
+    "type": "domain",
+    "value": "skillbox.pro",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:skillbox.pro",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 143
+    }
+  },
+  {
+    "type": "domain",
+    "value": "skillbox.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:skillbox.ru",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 144
+    }
+  },
+  {
+    "type": "domain",
+    "value": "skillfactory.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:skillfactory.ru",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 145
+    }
+  },
+  {
+    "type": "domain",
+    "value": "smailru.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:smailru.net",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 118
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sportmail.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sportmail.ru",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "staticmy.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:staticmy.com",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 119
+    }
+  },
+  {
+    "type": "domain",
+    "value": "summerstage.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:summerstage.ru",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tamtam.chat",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tamtam.chat",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tarantool.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tarantool.io",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 240
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tarantoolplus.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tarantoolplus.ru",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 241
+    }
+  },
+  {
+    "type": "domain",
+    "value": "target.my.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:target.my.com:@ads",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 62
+    }
+  },
+  {
+    "type": "domain",
+    "value": "target.vk.ru",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:target.vk.ru:@ads",
+    "source": {
+      "list": "VK",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tech-mail.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tech-mail.ru",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "telega.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:telega.info",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 249
+    }
+  },
+  {
+    "type": "domain",
+    "value": "telega.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:telega.me",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 250
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tetrika-school.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tetrika-school.ru",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 146
+    }
+  },
+  {
+    "type": "domain",
+    "value": "top-fwz1.mail.ru",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:top-fwz1.mail.ru:@ads",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 63
+    }
+  },
+  {
+    "type": "domain",
+    "value": "trace-flow.ru",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:trace-flow.ru:@ads",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 64
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tracker-api.my.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:tracker-api.my.com:@ads",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 65
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tracker.my.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:tracker.my.com:@ads",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 66
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tusco.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tusco.ru",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 251
+    }
+  },
+  {
+    "type": "domain",
+    "value": "uchi.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:uchi.ru",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 147
+    }
+  },
+  {
+    "type": "domain",
+    "value": "uma.media",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:uma.media",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 254
+    }
+  },
+  {
+    "type": "domain",
+    "value": "umschool.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:umschool.net",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 148
+    }
+  },
+  {
+    "type": "domain",
+    "value": "userapi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:userapi.com",
+    "source": {
+      "list": "VK",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "userapi.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:userapi.ru",
+    "source": {
+      "list": "VK",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "viqeo.tv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:viqeo.tv",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 257
+    }
+  },
+  {
+    "type": "domain",
+    "value": "viqeotv.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:viqeotv.com",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 258
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vk-analytics.ru",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:vk-analytics.ru:@ads",
+    "source": {
+      "list": "VK",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vk-apps.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vk-apps.com",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vk-apps.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vk-apps.ru",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vk-cdn.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vk-cdn.me",
+    "source": {
+      "list": "VK",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vk-cdn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vk-cdn.net",
+    "source": {
+      "list": "VK",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vk-portal.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vk-portal.net",
+    "source": {
+      "list": "VK",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vk-records.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vk-records.ru",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vk-stadium.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vk-stadium.ru",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vk.cc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vk.cc",
+    "source": {
+      "list": "VK",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vk.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vk.com",
+    "source": {
+      "list": "VK",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vk.company",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vk.company",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vk.design",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vk.design",
+    "source": {
+      "list": "VK",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vk.kz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vk.kz",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vk.link",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vk.link",
+    "source": {
+      "list": "VK",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vk.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vk.me",
+    "source": {
+      "list": "VK",
+      "line": 53
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vk.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vk.ru",
+    "source": {
+      "list": "VK",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vk.team",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vk.team",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vkcache.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vkcache.com",
+    "source": {
+      "list": "VK",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vkcdnservice.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vkcdnservice.com",
+    "source": {
+      "list": "VK",
+      "line": 37
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vkclips.app",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vkclips.app",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vkcloud-static.kz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vkcloud-static.kz",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 261
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vkcloud-static.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vkcloud-static.ru",
+    "source": {
+      "list": "VK",
+      "line": 38
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vkcloud.kz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vkcloud.kz",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 262
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vkcs.cloud",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vkcs.cloud",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vkfest.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vkfest.ru",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vkgo.app",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vkgo.app",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vklive.app",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vklive.app",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vkmessenger.app",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vkmessenger.app",
+    "source": {
+      "list": "VK",
+      "line": 54
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vkmessenger.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vkmessenger.com",
+    "source": {
+      "list": "VK",
+      "line": 55
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vkontakte.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vkontakte.com",
+    "source": {
+      "list": "VK",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vkontakte.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vkontakte.ru",
+    "source": {
+      "list": "VK",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vkpay.app",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vkpay.app",
+    "source": {
+      "list": "VK",
+      "line": 58
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vkpay.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vkpay.com",
+    "source": {
+      "list": "VK",
+      "line": 59
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vkpay.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vkpay.io",
+    "source": {
+      "list": "VK",
+      "line": 60
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vkpay.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vkpay.ru",
+    "source": {
+      "list": "VK",
+      "line": 61
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vkplay-arena.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vkplay-arena.ru",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 265
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vkplay.live",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vkplay.live",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 267
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vkplay.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vkplay.ru",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 266
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vktech-static.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vktech-static.ru",
+    "source": {
+      "list": "VK",
+      "line": 39
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vkuser.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vkuser.net",
+    "source": {
+      "list": "VK",
+      "line": 40
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vkuseraudio.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vkuseraudio.com",
+    "source": {
+      "list": "VK",
+      "line": 43
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vkuseraudio.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vkuseraudio.net",
+    "source": {
+      "list": "VK",
+      "line": 44
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vkuseraudio.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vkuseraudio.ru",
+    "source": {
+      "list": "VK",
+      "line": 45
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vkusercdn.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vkusercdn.ru",
+    "source": {
+      "list": "VK",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vkuserlive.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vkuserlive.com",
+    "source": {
+      "list": "VK",
+      "line": 46
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vkuserlive.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vkuserlive.net",
+    "source": {
+      "list": "VK",
+      "line": 47
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vkuserphoto.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vkuserphoto.ru",
+    "source": {
+      "list": "VK",
+      "line": 42
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vkuservideo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vkuservideo.com",
+    "source": {
+      "list": "VK",
+      "line": 48
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vkuservideo.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vkuservideo.net",
+    "source": {
+      "list": "VK",
+      "line": 49
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vkuservideo.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vkuservideo.ru",
+    "source": {
+      "list": "VK",
+      "line": 50
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vkvideo.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vkvideo.ru",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vkworkspace.kz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vkworkspace.kz",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vmailru.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vmailru.net",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 120
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xmail.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xmail.ru",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 129
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn-----6kc7adj0c9esa.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn-----6kc7adj0c9esa.com",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 207
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn----7sbaba0dc6cdn7cxcj.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn----7sbaba0dc6cdn7cxcj.com",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 208
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn----7sbabae2a0bnvtsfr4loc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn----7sbabae2a0bnvtsfr4loc.com",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 209
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn----7sbbab6bregnh7b8if5b.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn----7sbbab6bregnh7b8if5b.com",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 210
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn----7sbbamm1bv2bh7i.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn----7sbbamm1bv2bh7i.com",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 211
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn----8sbaroledu6bi7j.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn----8sbaroledu6bi7j.com",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 212
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn----8sbeoy5bze.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn----8sbeoy5bze.com",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 213
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--80aqcf7a6do.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--80aqcf7a6do.com",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 214
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--80asgb.xn--p1ai",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--80asgb.xn--p1ai",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 40
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--e1aigb.xn--p1ai",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--e1aigb.xn--p1ai",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yaklass.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yaklass.ru",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 149
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yclients.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yclients.com",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 37
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youla.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youla.io",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 270
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youla.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youla.ru",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 271
+    }
+  },
+  {
+    "type": "full",
+    "value": "1l-hit.mail.ru",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:1l-hit.mail.ru:@ads",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 67
+    }
+  },
+  {
+    "type": "full",
+    "value": "1l-hit.vkplay.ru",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:1l-hit.vkplay.ru:@ads",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 68
+    }
+  },
+  {
+    "type": "full",
+    "value": "ad4.mail.ru",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:ad4.mail.ru:@ads",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 69
+    }
+  },
+  {
+    "type": "full",
+    "value": "adblogger.vk.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:adblogger.vk.com:@ads",
+    "source": {
+      "list": "VK",
+      "line": 18
+    }
+  },
+  {
+    "type": "full",
+    "value": "adblogger.vk.ru",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:adblogger.vk.ru:@ads",
+    "source": {
+      "list": "VK",
+      "line": 19
+    }
+  },
+  {
+    "type": "full",
+    "value": "ads-integration.rustore.ru",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:ads-integration.rustore.ru:@ads",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 70
+    }
+  },
+  {
+    "type": "full",
+    "value": "ads.dahlmessenger.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:ads.dahlmessenger.com:@ads",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 71
+    }
+  },
+  {
+    "type": "full",
+    "value": "ads.icq.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:ads.icq.com:@ads",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 72
+    }
+  },
+  {
+    "type": "full",
+    "value": "ads.rustore.ru",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:ads.rustore.ru:@ads",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 73
+    }
+  },
+  {
+    "type": "full",
+    "value": "ads.vk.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:ads.vk.com:@ads",
+    "source": {
+      "list": "VK",
+      "line": 20
+    }
+  },
+  {
+    "type": "full",
+    "value": "ads.vk.ru",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:ads.vk.ru:@ads",
+    "source": {
+      "list": "VK",
+      "line": 21
+    }
+  },
+  {
+    "type": "full",
+    "value": "adsapp.dahlmessenger.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:adsapp.dahlmessenger.com:@ads",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 74
+    }
+  },
+  {
+    "type": "full",
+    "value": "adsapp.stage.telega.info",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:adsapp.stage.telega.info:@ads",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 76
+    }
+  },
+  {
+    "type": "full",
+    "value": "adsapp.telega.info",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:adsapp.telega.info:@ads",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 75
+    }
+  },
+  {
+    "type": "full",
+    "value": "adv.rustore.ru",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:adv.rustore.ru:@ads",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 77
+    }
+  },
+  {
+    "type": "full",
+    "value": "adv.vk.ru",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:adv.vk.ru:@ads",
+    "source": {
+      "list": "VK",
+      "line": 22
+    }
+  },
+  {
+    "type": "full",
+    "value": "advk.vk.ru",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:advk.vk.ru:@ads",
+    "source": {
+      "list": "VK",
+      "line": 23
+    }
+  },
+  {
+    "type": "full",
+    "value": "alt-r.my.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:alt-r.my.com:@ads",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 78
+    }
+  },
+  {
+    "type": "full",
+    "value": "an.mail.ru",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:an.mail.ru:@ads",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 79
+    }
+  },
+  {
+    "type": "full",
+    "value": "analytics.vk.ru",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:analytics.vk.ru:@ads",
+    "source": {
+      "list": "VK",
+      "line": 24
+    }
+  },
+  {
+    "type": "full",
+    "value": "b2.mail.ru",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:b2.mail.ru:@ads",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 80
+    }
+  },
+  {
+    "type": "full",
+    "value": "bs.mail.ru",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:bs.mail.ru:@ads",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 81
+    }
+  },
+  {
+    "type": "full",
+    "value": "click.rustore.ru",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:click.rustore.ru:@ads",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 82
+    }
+  },
+  {
+    "type": "full",
+    "value": "pixel.rustore.ru",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:pixel.rustore.ru:@ads",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 83
+    }
+  },
+  {
+    "type": "full",
+    "value": "r0.mail.ru",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:r0.mail.ru:@ads",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 84
+    }
+  },
+  {
+    "type": "full",
+    "value": "r0.mradx.net",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:r0.mradx.net:@ads",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 85
+    }
+  },
+  {
+    "type": "full",
+    "value": "r1.mail.ru",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:r1.mail.ru:@ads",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 86
+    }
+  },
+  {
+    "type": "full",
+    "value": "reklama.mail.ru",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:reklama.mail.ru:@ads",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 87
+    }
+  },
+  {
+    "type": "full",
+    "value": "rs.mail.ru",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:rs.mail.ru:@ads",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 88
+    }
+  },
+  {
+    "type": "full",
+    "value": "sentry-ng.g.smailru.net",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:sentry-ng.g.smailru.net:@ads",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 89
+    }
+  },
+  {
+    "type": "full",
+    "value": "sentry.dev-my.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:sentry.dev-my.com:@ads",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 91
+    }
+  },
+  {
+    "type": "full",
+    "value": "sentry.dev-my.games",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:sentry.dev-my.games:@ads",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 92
+    }
+  },
+  {
+    "type": "full",
+    "value": "sentry.rustore.ru",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:sentry.rustore.ru:@ads",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 93
+    }
+  },
+  {
+    "type": "full",
+    "value": "sentry.viqeo.tv",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:sentry.viqeo.tv:@ads",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 94
+    }
+  },
+  {
+    "type": "full",
+    "value": "srch-telemeter10.g.smailru.net",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:srch-telemeter10.g.smailru.net:@ads",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 90
+    }
+  },
+  {
+    "type": "full",
+    "value": "stacks.vk-portal.net",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:stacks.vk-portal.net:@ads",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 95
+    }
+  },
+  {
+    "type": "full",
+    "value": "stats.dahlmessenger.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:stats.dahlmessenger.com:@ads",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 96
+    }
+  },
+  {
+    "type": "full",
+    "value": "stats.dev.telega.info",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:stats.dev.telega.info:@ads",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 97
+    }
+  },
+  {
+    "type": "full",
+    "value": "stats.rustore.ru",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:stats.rustore.ru:@ads",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 98
+    }
+  },
+  {
+    "type": "full",
+    "value": "stats.telega.info",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:stats.telega.info:@ads",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 99
+    }
+  },
+  {
+    "type": "full",
+    "value": "stats.vk-portal.net",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:stats.vk-portal.net:@ads",
+    "source": {
+      "list": "VK",
+      "line": 25
+    }
+  },
+  {
+    "type": "full",
+    "value": "t.mail.ru",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:t.mail.ru:@ads",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 100
+    }
+  },
+  {
+    "type": "full",
+    "value": "target.vk.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:target.vk.com:@ads",
+    "source": {
+      "list": "VK",
+      "line": 26
+    }
+  },
+  {
+    "type": "full",
+    "value": "top-staging.mail.ru",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:top-staging.mail.ru:@ads",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 101
+    }
+  },
+  {
+    "type": "full",
+    "value": "whiteline.mail.ru",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:whiteline.mail.ru:@ads",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 102
+    }
+  },
+  {
+    "type": "full",
+    "value": "xray.mail.ru",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:xray.mail.ru:@ads",
+    "source": {
+      "list": "MAILRU-GROUP",
+      "line": 103
+    }
+  }
+]

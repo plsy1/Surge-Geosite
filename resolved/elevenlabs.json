@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "elevenlabs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:elevenlabs.com",
+    "source": {
+      "list": "ELEVENLABS",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "elevenlabs.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:elevenlabs.io",
+    "source": {
+      "list": "ELEVENLABS",
+      "line": 2
+    }
+  }
+]

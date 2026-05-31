@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "kodi.tv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kodi.tv",
+    "source": {
+      "list": "KODI",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kodi.wiki",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kodi.wiki",
+    "source": {
+      "list": "KODI",
+      "line": 2
+    }
+  }
+]

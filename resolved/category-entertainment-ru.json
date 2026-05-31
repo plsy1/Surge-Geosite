@@ -1,0 +1,310 @@
+[
+  {
+    "type": "domain",
+    "value": "24h.tv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:24h.tv",
+    "source": {
+      "list": "CATEGORY-ENTERTAINMENT-RU",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amediateka.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:amediateka.ru",
+    "source": {
+      "list": "CATEGORY-ENTERTAINMENT-RU",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "beeline.tv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:beeline.tv",
+    "source": {
+      "list": "CATEGORY-ENTERTAINMENT-RU",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnvideo.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnvideo.ru",
+    "source": {
+      "list": "CATEGORY-ENTERTAINMENT-RU",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnvideohub.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnvideohub.com",
+    "source": {
+      "list": "CATEGORY-ENTERTAINMENT-RU",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ivi.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ivi.ru",
+    "source": {
+      "list": "CATEGORY-ENTERTAINMENT-RU",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kinopoisk-ru.clstorage.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kinopoisk-ru.clstorage.net",
+    "source": {
+      "list": "KINOPOISK",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kinopoisk.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kinopoisk.ru",
+    "source": {
+      "list": "KINOPOISK",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kinorium.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kinorium.com",
+    "source": {
+      "list": "CATEGORY-ENTERTAINMENT-RU",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "more.tv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:more.tv",
+    "source": {
+      "list": "WINK",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "okko.sport",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:okko.sport",
+    "source": {
+      "list": "OKKO",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "okko.tv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:okko.tv",
+    "source": {
+      "list": "OKKO",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "okkoapi.tv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:okkoapi.tv",
+    "source": {
+      "list": "OKKO",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "playfamily.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:playfamily.ru",
+    "source": {
+      "list": "OKKO",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "premier.one",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:premier.one",
+    "source": {
+      "list": "CATEGORY-ENTERTAINMENT-RU",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "promodj.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:promodj.com",
+    "source": {
+      "list": "CATEGORY-ENTERTAINMENT-RU",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "restream-media.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:restream-media.net",
+    "source": {
+      "list": "WINK",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "restream.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:restream.ru",
+    "source": {
+      "list": "WINK",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rtbcdn.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rtbcdn.ru",
+    "source": {
+      "list": "RUTUBE",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rutube.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rutube.ru",
+    "source": {
+      "list": "RUTUBE",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rutubelist.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rutubelist.ru",
+    "source": {
+      "list": "RUTUBE",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "smotreshka.tv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:smotreshka.tv",
+    "source": {
+      "list": "CATEGORY-ENTERTAINMENT-RU",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "start.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:start.ru",
+    "source": {
+      "list": "CATEGORY-ENTERTAINMENT-RU",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "trbcdn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:trbcdn.net",
+    "source": {
+      "list": "CATEGORY-ENTERTAINMENT-RU",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tvigle.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tvigle.ru",
+    "source": {
+      "list": "CATEGORY-ENTERTAINMENT-RU",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "viju.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:viju.ru",
+    "source": {
+      "list": "CATEGORY-ENTERTAINMENT-RU",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wink.am",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wink.am",
+    "source": {
+      "list": "WINK",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wink.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wink.ru",
+    "source": {
+      "list": "WINK",
+      "line": 5
+    }
+  }
+]

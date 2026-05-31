@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "avito.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:avito.ru",
+    "source": {
+      "list": "AVITO",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "avito.st",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:avito.st",
+    "source": {
+      "list": "AVITO",
+      "line": 2
+    }
+  }
+]

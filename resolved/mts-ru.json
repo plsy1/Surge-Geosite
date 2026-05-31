@@ -1,0 +1,138 @@
+[
+  {
+    "type": "domain",
+    "value": "a.mts.ru",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:a.mts.ru:@ads",
+    "source": {
+      "list": "MTS-RU",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dbo-dengi.online",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dbo-dengi.online",
+    "source": {
+      "list": "MTS-RU",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kion.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kion.ru",
+    "source": {
+      "list": "MTS-RU",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mts-ws.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mts-ws.net",
+    "source": {
+      "list": "MTS-RU",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mts.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mts.ru",
+    "source": {
+      "list": "MTS-RU",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mtsbank.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mtsbank.ru",
+    "source": {
+      "list": "MTS-RU",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mtsdengi.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mtsdengi.ru",
+    "source": {
+      "list": "MTS-RU",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mtsmedia.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mtsmedia.ru",
+    "source": {
+      "list": "MTS-RU",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mymts.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mymts.ru",
+    "source": {
+      "list": "MTS-RU",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "obs.mts.ru",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:obs.mts.ru:@ads",
+    "source": {
+      "list": "MTS-RU",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "on-media.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:on-media.ru",
+    "source": {
+      "list": "MTS-RU",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tvoyodbo.online",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tvoyodbo.online",
+    "source": {
+      "list": "MTS-RU",
+      "line": 15
+    }
+  }
+]

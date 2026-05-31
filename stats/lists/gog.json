@@ -1,0 +1,87 @@
+{
+  "name": "GOG",
+  "source": {
+    "domain": 2,
+    "full": 8,
+    "keyword": 0,
+    "regexp": 3,
+    "include": 0,
+    "affiliations": 0,
+    "attributes": 11
+  },
+  "resolved": {
+    "rules": 13,
+    "domain": 2,
+    "full": 8,
+    "keyword": 0,
+    "regexp": 3
+  },
+  "filters": {
+    "attrs": {
+      "cn": 11
+    }
+  },
+  "modes": {
+    "strict": {
+      "rules": 10,
+      "bytes": 305,
+      "regex": {
+        "total": 3,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 3
+      },
+      "unsupported": [
+        {
+          "pattern": "^cdn-akamai-.+\\.gog-services\\.com$",
+          "source": {
+            "list": "GOG",
+            "line": 10
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "^gog-cdn-.+\\.footprint\\.net$",
+          "source": {
+            "list": "GOG",
+            "line": 11
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "^images(-\\d)?\\.gog-statics\\.com$",
+          "source": {
+            "list": "GOG",
+            "line": 12
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        }
+      ]
+    },
+    "balanced": {
+      "rules": 13,
+      "bytes": 433,
+      "regex": {
+        "total": 3,
+        "lossless": 0,
+        "widened": 3,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "full": {
+      "rules": 13,
+      "bytes": 433,
+      "regex": {
+        "total": 3,
+        "lossless": 0,
+        "widened": 3,
+        "unsupported": 0
+      },
+      "unsupported": []
+    }
+  }
+}

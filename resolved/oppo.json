@@ -1,0 +1,466 @@
+[
+  {
+    "type": "domain",
+    "value": "allawnfs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:allawnfs.com",
+    "source": {
+      "list": "OPPO",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "allawno.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:allawno.com",
+    "source": {
+      "list": "OPPO",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "allawntech.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:allawntech.com",
+    "source": {
+      "list": "OPPO",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "coloros.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:coloros.com",
+    "source": {
+      "list": "OPPO",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "coloros.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:coloros.net",
+    "source": {
+      "list": "OPPO",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "finzfin.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:finzfin.com",
+    "source": {
+      "list": "OPPO",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "h2os.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:h2os.com",
+    "source": {
+      "list": "ONEPLUS",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "heytap.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:heytap.com",
+    "source": {
+      "list": "OPPO",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "heytapcs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:heytapcs.com",
+    "source": {
+      "list": "OPPO",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "heytapdownload.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:heytapdownload.com",
+    "source": {
+      "list": "OPPO",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "heytapimage.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:heytapimage.com",
+    "source": {
+      "list": "OPPO",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "heytapmobi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:heytapmobi.com",
+    "source": {
+      "list": "OPPO",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ioppo.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ioppo.com.cn",
+    "source": {
+      "list": "OPPO",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ioppo.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ioppo.net",
+    "source": {
+      "list": "OPPO",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "myoppo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:myoppo.com",
+    "source": {
+      "list": "OPPO",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nearme.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nearme.com.cn",
+    "source": {
+      "list": "OPPO",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oneplus.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oneplus.cn",
+    "source": {
+      "list": "ONEPLUS",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oneplus.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oneplus.com",
+    "source": {
+      "list": "ONEPLUS",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oneplus.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oneplus.net",
+    "source": {
+      "list": "ONEPLUS",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oneplusbbs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oneplusbbs.com",
+    "source": {
+      "list": "ONEPLUS",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oneplusmobile.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oneplusmobile.com",
+    "source": {
+      "list": "ONEPLUS",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "opdwz.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:opdwz.cn",
+    "source": {
+      "list": "OPPO",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oppo.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oppo.cn",
+    "source": {
+      "list": "OPPO",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oppo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oppo.com",
+    "source": {
+      "list": "OPPO",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oppo.mobi",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oppo.mobi",
+    "source": {
+      "list": "OPPO",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oppocolor.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oppocolor.com",
+    "source": {
+      "list": "OPPO",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oppocoloros.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oppocoloros.com",
+    "source": {
+      "list": "OPPO",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oppodigital.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oppodigital.com",
+    "source": {
+      "list": "OPPO",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oppodigital.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oppodigital.com.cn",
+    "source": {
+      "list": "OPPO",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oppoer.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oppoer.me",
+    "source": {
+      "list": "OPPO",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oppomobile.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oppomobile.cn",
+    "source": {
+      "list": "OPPO",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oppomobile.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oppomobile.com",
+    "source": {
+      "list": "OPPO",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oppopay.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oppopay.com",
+    "source": {
+      "list": "OPPO",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "opposhop.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:opposhop.cn",
+    "source": {
+      "list": "OPPO",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oppowork.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oppowork.com",
+    "source": {
+      "list": "OPPO",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "opstatics.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:opstatics.com",
+    "source": {
+      "list": "ONEPLUS",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "realme.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:realme.com",
+    "source": {
+      "list": "OPPO",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "realmebbs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:realmebbs.com",
+    "source": {
+      "list": "OPPO",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "realmemobile.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:realmemobile.com",
+    "source": {
+      "list": "OPPO",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "shopoppo.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:shopoppo.cn",
+    "source": {
+      "list": "OPPO",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "shopoppo.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:shopoppo.com.cn",
+    "source": {
+      "list": "OPPO",
+      "line": 35
+    }
+  },
+  {
+    "type": "full",
+    "value": "community.oneplus.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "full:community.oneplus.com:@!cn",
+    "source": {
+      "list": "ONEPLUS",
+      "line": 9
+    }
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "type": "domain",
+    "value": "calorietech.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:calorietech.com",
+    "source": {
+      "list": "KEEP",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gotokeep.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gotokeep.com",
+    "source": {
+      "list": "KEEP",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "keep.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:keep.com",
+    "source": {
+      "list": "KEEP",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "keep.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:keep.com.cn",
+    "source": {
+      "list": "KEEP",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "keepcdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:keepcdn.com",
+    "source": {
+      "list": "KEEP",
+      "line": 5
+    }
+  }
+]

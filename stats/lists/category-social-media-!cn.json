@@ -1,0 +1,60 @@
+{
+  "name": "CATEGORY-SOCIAL-MEDIA-!CN",
+  "source": {
+    "domain": 6,
+    "full": 0,
+    "keyword": 0,
+    "regexp": 0,
+    "include": 10,
+    "affiliations": 0,
+    "attributes": 0
+  },
+  "resolved": {
+    "rules": 624,
+    "domain": 611,
+    "full": 13,
+    "keyword": 0,
+    "regexp": 0
+  },
+  "filters": {
+    "attrs": {
+      "ads": 21,
+      "cn": 2
+    }
+  },
+  "modes": {
+    "strict": {
+      "rules": 624,
+      "bytes": 18376,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "balanced": {
+      "rules": 624,
+      "bytes": 18376,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "full": {
+      "rules": 624,
+      "bytes": 18376,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    }
+  }
+}

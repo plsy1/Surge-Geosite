@@ -1,0 +1,46 @@
+[
+  {
+    "type": "domain",
+    "value": "itiger.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:itiger.com",
+    "source": {
+      "list": "ITIGER",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "itigergrowth.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:itigergrowth.com",
+    "source": {
+      "list": "ITIGER",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "itigergrowtha.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:itigergrowtha.com",
+    "source": {
+      "list": "ITIGER",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "itigerup.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:itigerup.com",
+    "source": {
+      "list": "ITIGER",
+      "line": 5
+    }
+  }
+]

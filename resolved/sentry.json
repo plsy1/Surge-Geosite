@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "sentry-cdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sentry-cdn.com",
+    "source": {
+      "list": "SENTRY",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sentry.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sentry.io",
+    "source": {
+      "list": "SENTRY",
+      "line": 1
+    }
+  }
+]

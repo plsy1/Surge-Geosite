@@ -1,0 +1,106 @@
+[
+  {
+    "type": "domain",
+    "value": "alibabacloud.co.in",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:alibabacloud.co.in:@!cn",
+    "source": {
+      "list": "ALIBABACLOUD",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "alibabacloud.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:alibabacloud.com:@!cn",
+    "source": {
+      "list": "ALIBABACLOUD",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "alibabacloud.com.au",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:alibabacloud.com.au:@!cn",
+    "source": {
+      "list": "ALIBABACLOUD",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "alibabacloud.com.hk",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:alibabacloud.com.hk:@!cn",
+    "source": {
+      "list": "ALIBABACLOUD",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "alibabacloud.com.my",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:alibabacloud.com.my:@!cn",
+    "source": {
+      "list": "ALIBABACLOUD",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "alibabacloud.com.sg",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:alibabacloud.com.sg:@!cn",
+    "source": {
+      "list": "ALIBABACLOUD",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "alibabacloud.com.tw",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:alibabacloud.com.tw:@!cn",
+    "source": {
+      "list": "ALIBABACLOUD",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "alicloud.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:alicloud.com:@!cn",
+    "source": {
+      "list": "ALIBABACLOUD",
+      "line": 8
+    }
+  }
+]

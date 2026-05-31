@@ -1,0 +1,9143 @@
+[
+  {
+    "type": "domain",
+    "value": "aaa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aaa",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 576
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aarp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aarp",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 389
+    }
+  },
+  {
+    "type": "domain",
+    "value": "abb",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:abb",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 736
+    }
+  },
+  {
+    "type": "domain",
+    "value": "abbott",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:abbott",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 390
+    }
+  },
+  {
+    "type": "domain",
+    "value": "abbvie",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:abbvie",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 391
+    }
+  },
+  {
+    "type": "domain",
+    "value": "abc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:abc",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 877
+    }
+  },
+  {
+    "type": "domain",
+    "value": "able",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:able",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 871
+    }
+  },
+  {
+    "type": "domain",
+    "value": "abudhabi",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:abudhabi",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 321
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ac",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ac",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "accenture",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:accenture",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 737
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aco",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aco",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 738
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ad",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ad",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adult",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:adult",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 497
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ae",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ae",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aeg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aeg",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 401
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aetna",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aetna",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 392
+    }
+  },
+  {
+    "type": "domain",
+    "value": "af",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:af",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "afl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:afl",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 273
+    }
+  },
+  {
+    "type": "domain",
+    "value": "africa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:africa",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 315
+    }
+  },
+  {
+    "type": "domain",
+    "value": "africamagic",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:africamagic",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 442
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ag",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ag",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "agakhan",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:agakhan",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 443
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ai",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ai",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aig",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aig",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 692
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airbus",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airbus",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 402
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airtel",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airtel",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 739
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akdn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akdn",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 444
+    }
+  },
+  {
+    "type": "domain",
+    "value": "al",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:al",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 37
+    }
+  },
+  {
+    "type": "domain",
+    "value": "allfinanz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:allfinanz",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 630
+    }
+  },
+  {
+    "type": "domain",
+    "value": "allstate",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:allstate",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 693
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ally",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ally",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 631
+    }
+  },
+  {
+    "type": "domain",
+    "value": "alsace",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:alsace",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 335
+    }
+  },
+  {
+    "type": "domain",
+    "value": "alstom",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:alstom",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 403
+    }
+  },
+  {
+    "type": "domain",
+    "value": "am",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:am",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 38
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amazon",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:amazon",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 740
+    }
+  },
+  {
+    "type": "domain",
+    "value": "americanexpress",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:americanexpress",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 632
+    }
+  },
+  {
+    "type": "domain",
+    "value": "americanfamily",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:americanfamily",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 694
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amex",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:amex",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 633
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amfam",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:amfam",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 695
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amica",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:amica",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 696
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amsterdam",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:amsterdam",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 336
+    }
+  },
+  {
+    "type": "domain",
+    "value": "android",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:android",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 609
+    }
+  },
+  {
+    "type": "domain",
+    "value": "anz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:anz",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 634
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ao",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ao",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 39
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aol",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aol",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 741
+    }
+  },
+  {
+    "type": "domain",
+    "value": "app",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:app",
+    "source": {
+      "list": "GOOGLE-REGISTRY-TLD",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "apple",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:apple",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 610
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aq",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aq",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 40
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aquarelle",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aquarelle",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 686
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ar",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ar",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "arab",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:arab",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 322
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aramco",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aramco",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 404
+    }
+  },
+  {
+    "type": "domain",
+    "value": "arte",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:arte",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 878
+    }
+  },
+  {
+    "type": "domain",
+    "value": "as",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:as",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 42
+    }
+  },
+  {
+    "type": "domain",
+    "value": "asda",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:asda",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 720
+    }
+  },
+  {
+    "type": "domain",
+    "value": "at",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:at",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 43
+    }
+  },
+  {
+    "type": "domain",
+    "value": "athleta",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:athleta",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 296
+    }
+  },
+  {
+    "type": "domain",
+    "value": "au",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:au",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 44
+    }
+  },
+  {
+    "type": "domain",
+    "value": "audi",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:audi",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 577
+    }
+  },
+  {
+    "type": "domain",
+    "value": "auspost",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:auspost",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 504
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aw",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 45
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aws",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aws",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 742
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ax",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ax",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 46
+    }
+  },
+  {
+    "type": "domain",
+    "value": "axa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:axa",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 697
+    }
+  },
+  {
+    "type": "domain",
+    "value": "az",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:az",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 47
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azure",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:azure",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 743
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ba",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ba",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 48
+    }
+  },
+  {
+    "type": "domain",
+    "value": "banamex",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:banamex",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 635
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bar",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bar",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 445
+    }
+  },
+  {
+    "type": "domain",
+    "value": "barcelona",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:barcelona",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 338
+    }
+  },
+  {
+    "type": "domain",
+    "value": "barclaycard",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:barclaycard",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 636
+    }
+  },
+  {
+    "type": "domain",
+    "value": "barclays",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:barclays",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 637
+    }
+  },
+  {
+    "type": "domain",
+    "value": "barefoot",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:barefoot",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 831
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bauhaus",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bauhaus",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 896
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bayern",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bayern",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 339
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bb",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bb",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 49
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bbc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bbc",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 879
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bbt",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bbt",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 638
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bbva",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bbva",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 639
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bcn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bcn",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 340
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bd",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bd",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 50
+    }
+  },
+  {
+    "type": "domain",
+    "value": "be",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:be",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 51
+    }
+  },
+  {
+    "type": "domain",
+    "value": "beats",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:beats",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 711
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bentley",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bentley",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 578
+    }
+  },
+  {
+    "type": "domain",
+    "value": "berlin",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:berlin",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 341
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bestbuy",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bestbuy",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 611
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bf",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bf",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 52
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bg",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 53
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bh",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bh",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 54
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bharti",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bharti",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 446
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bi",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bi",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 55
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bible",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bible",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 476
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bingo",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bingo",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 447
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bj",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bj",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 56
+    }
+  },
+  {
+    "type": "domain",
+    "value": "blockbuster",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:blockbuster",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 712
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bloomberg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bloomberg",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 297
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bm",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bm",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 57
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bms",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bms",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 393
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bmw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bmw",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 579
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bn",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 58
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bnpparibas",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bnpparibas",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 640
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bo",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bo",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 59
+    }
+  },
+  {
+    "type": "domain",
+    "value": "boehringer",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:boehringer",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 394
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bofa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bofa",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 641
+    }
+  },
+  {
+    "type": "domain",
+    "value": "boo",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:boo",
+    "source": {
+      "list": "GOOGLE-REGISTRY-TLD",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bosch",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bosch",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 405
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bostik",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bostik",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 406
+    }
+  },
+  {
+    "type": "domain",
+    "value": "boston",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:boston",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 373
+    }
+  },
+  {
+    "type": "domain",
+    "value": "br",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:br",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 60
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bradesco",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bradesco",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 642
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bridgestone",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bridgestone",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 580
+    }
+  },
+  {
+    "type": "domain",
+    "value": "brother",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:brother",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 612
+    }
+  },
+  {
+    "type": "domain",
+    "value": "brussels",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:brussels",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 342
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bs",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bs",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 61
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bt",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bt",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 62
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bv",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 63
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bw",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 64
+    }
+  },
+  {
+    "type": "domain",
+    "value": "by",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:by",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 65
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bz",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 66
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bzh",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bzh",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 343
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ca",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ca",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 67
+    }
+  },
+  {
+    "type": "domain",
+    "value": "calvinklein",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:calvinklein",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 298
+    }
+  },
+  {
+    "type": "domain",
+    "value": "canon",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:canon",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 613
+    }
+  },
+  {
+    "type": "domain",
+    "value": "capetown",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:capetown",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 316
+    }
+  },
+  {
+    "type": "domain",
+    "value": "capitalone",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:capitalone",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 643
+    }
+  },
+  {
+    "type": "domain",
+    "value": "caravan",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:caravan",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 856
+    }
+  },
+  {
+    "type": "domain",
+    "value": "casa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:casa",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 448
+    }
+  },
+  {
+    "type": "domain",
+    "value": "case",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:case",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 581
+    }
+  },
+  {
+    "type": "domain",
+    "value": "casino",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:casino",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 449
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cat",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cat",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 344
+    }
+  },
+  {
+    "type": "domain",
+    "value": "catholic",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:catholic",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 477
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cba",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cba",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 644
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cbn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cbn",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 880
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cbre",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cbre",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 872
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cd",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cd",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 68
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cern",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cern",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 482
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cf",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cf",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 69
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cfa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cfa",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 645
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cg",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 70
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ch",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ch",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 71
+    }
+  },
+  {
+    "type": "domain",
+    "value": "chanel",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:chanel",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 824
+    }
+  },
+  {
+    "type": "domain",
+    "value": "chintai",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:chintai",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 873
+    }
+  },
+  {
+    "type": "domain",
+    "value": "chrome",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:chrome",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 744
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ci",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ci",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 72
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cipriani",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cipriani",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 857
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cisco",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cisco",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 745
+    }
+  },
+  {
+    "type": "domain",
+    "value": "citadel",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:citadel",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 646
+    }
+  },
+  {
+    "type": "domain",
+    "value": "citi",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:citi",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 647
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ck",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ck",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 73
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cl",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 74
+    }
+  },
+  {
+    "type": "domain",
+    "value": "clinique",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:clinique",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 825
+    }
+  },
+  {
+    "type": "domain",
+    "value": "clubmed",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:clubmed",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 858
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cm",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cm",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 75
+    }
+  },
+  {
+    "type": "domain",
+    "value": "commbank",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:commbank",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 648
+    }
+  },
+  {
+    "type": "domain",
+    "value": "corsica",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:corsica",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 345
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cr",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 76
+    }
+  },
+  {
+    "type": "domain",
+    "value": "crown",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:crown",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 407
+    }
+  },
+  {
+    "type": "domain",
+    "value": "crs",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:crs",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 280
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cu",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 77
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cuisinella",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cuisinella",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 832
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cv",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 78
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cw",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 79
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cx",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cx",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 80
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cy",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cy",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 81
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cymru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cymru",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 346
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cz",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 82
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dabur",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dabur",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 395
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dad",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dad",
+    "source": {
+      "list": "GOOGLE-REGISTRY-TLD",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dating",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dating",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 450
+    }
+  },
+  {
+    "type": "domain",
+    "value": "datsun",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:datsun",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 582
+    }
+  },
+  {
+    "type": "domain",
+    "value": "day",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:day",
+    "source": {
+      "list": "GOOGLE-REGISTRY-TLD",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dclk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dclk",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 746
+    }
+  },
+  {
+    "type": "domain",
+    "value": "de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:de",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 83
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dell",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dell",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 614
+    }
+  },
+  {
+    "type": "domain",
+    "value": "deloitte",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:deloitte",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 649
+    }
+  },
+  {
+    "type": "domain",
+    "value": "delta",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:delta",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 859
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dev",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dev",
+    "source": {
+      "list": "GOOGLE-REGISTRY-TLD",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dhl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dhl",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 505
+    }
+  },
+  {
+    "type": "domain",
+    "value": "discover",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:discover",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 650
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dish",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dish",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 747
+    }
+  },
+  {
+    "type": "domain",
+    "value": "diy",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:diy",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 687
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dj",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dj",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 84
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dk",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 85
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dm",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dm",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 86
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dnp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dnp",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 281
+    }
+  },
+  {
+    "type": "domain",
+    "value": "do",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:do",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 87
+    }
+  },
+  {
+    "type": "domain",
+    "value": "domains",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:domains",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 451
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dtv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dtv",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 748
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dubai",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dubai",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 323
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dunlop",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dunlop",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 583
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dupont",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dupont",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 408
+    }
+  },
+  {
+    "type": "domain",
+    "value": "durban",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:durban",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 317
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dvag",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dvag",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 282
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dz",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 88
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ec",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ec",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 89
+    }
+  },
+  {
+    "type": "domain",
+    "value": "edeka",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:edeka",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 833
+    }
+  },
+  {
+    "type": "domain",
+    "value": "edu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:edu",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ee",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ee",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 90
+    }
+  },
+  {
+    "type": "domain",
+    "value": "eg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:eg",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 91
+    }
+  },
+  {
+    "type": "domain",
+    "value": "emerck",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:emerck",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 483
+    }
+  },
+  {
+    "type": "domain",
+    "value": "epson",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:epson",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 749
+    }
+  },
+  {
+    "type": "domain",
+    "value": "er",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:er",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 92
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ericsson",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ericsson",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 750
+    }
+  },
+  {
+    "type": "domain",
+    "value": "erni",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:erni",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 283
+    }
+  },
+  {
+    "type": "domain",
+    "value": "es",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:es",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 93
+    }
+  },
+  {
+    "type": "domain",
+    "value": "esq",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:esq",
+    "source": {
+      "list": "GOOGLE-REGISTRY-TLD",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "et",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:et",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 94
+    }
+  },
+  {
+    "type": "domain",
+    "value": "eu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:eu",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 95
+    }
+  },
+  {
+    "type": "domain",
+    "value": "eurovision",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:eurovision",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 881
+    }
+  },
+  {
+    "type": "domain",
+    "value": "eus",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:eus",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 347
+    }
+  },
+  {
+    "type": "domain",
+    "value": "extraspace",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:extraspace",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 452
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fage",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fage",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 834
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fairwinds",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fairwinds",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 751
+    }
+  },
+  {
+    "type": "domain",
+    "value": "farmers",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:farmers",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 698
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fedex",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fedex",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 506
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ferrari",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ferrari",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 584
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ferrero",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ferrero",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 835
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fi",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fi",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 96
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fidelity",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fidelity",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 651
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fido",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fido",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 752
+    }
+  },
+  {
+    "type": "domain",
+    "value": "firestone",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:firestone",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 585
+    }
+  },
+  {
+    "type": "domain",
+    "value": "firmdale",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:firmdale",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 860
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fj",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fj",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 97
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fk",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 98
+    }
+  },
+  {
+    "type": "domain",
+    "value": "flickr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:flickr",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 753
+    }
+  },
+  {
+    "type": "domain",
+    "value": "flir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:flir",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 409
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fm",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fm",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 99
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fo",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fo",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 100
+    }
+  },
+  {
+    "type": "domain",
+    "value": "foo",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:foo",
+    "source": {
+      "list": "GOOGLE-REGISTRY-TLD",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "food",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:food",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 836
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ford",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ford",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 586
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fox",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fox",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 882
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fr",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 101
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fresenius",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fresenius",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 396
+    }
+  },
+  {
+    "type": "domain",
+    "value": "frl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:frl",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 348
+    }
+  },
+  {
+    "type": "domain",
+    "value": "frogans",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:frogans",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 754
+    }
+  },
+  {
+    "type": "domain",
+    "value": "frontier",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:frontier",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 755
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ftr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ftr",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 756
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fujitsu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fujitsu",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 615
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ga",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ga",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 102
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gal",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gal",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 349
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gallo",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gallo",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 837
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gallup",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gallup",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 883
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gap",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gap",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 299
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gay",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gay",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 453
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gb",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gb",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 103
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gbiz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gbiz",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 757
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gd",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gd",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 104
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ge",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ge",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 105
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gea",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gea",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 758
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gent",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gent",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 350
+    }
+  },
+  {
+    "type": "domain",
+    "value": "genting",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:genting",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 454
+    }
+  },
+  {
+    "type": "domain",
+    "value": "george",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:george",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 721
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gf",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gf",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 106
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gg",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 107
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ggee",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ggee",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 759
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gh",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gh",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 108
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gi",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gi",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 109
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gl",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 110
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gle",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gle",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 760
+    }
+  },
+  {
+    "type": "domain",
+    "value": "globo",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:globo",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 884
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gm",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gm",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 111
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gmail",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gmail",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 761
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gmo",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gmo",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 762
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gmx",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gmx",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 763
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gn",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 112
+    }
+  },
+  {
+    "type": "domain",
+    "value": "godaddy",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:godaddy",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 764
+    }
+  },
+  {
+    "type": "domain",
+    "value": "goldpoint",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:goldpoint",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 616
+    }
+  },
+  {
+    "type": "domain",
+    "value": "goo",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:goo",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 767
+    }
+  },
+  {
+    "type": "domain",
+    "value": "goodyear",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:goodyear",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 587
+    }
+  },
+  {
+    "type": "domain",
+    "value": "goog",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:goog",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 765
+    }
+  },
+  {
+    "type": "domain",
+    "value": "google",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:google",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 766
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gov",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gov",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gp",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 113
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gr",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 114
+    }
+  },
+  {
+    "type": "domain",
+    "value": "grainger",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:grainger",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 410
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gs",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gs",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 115
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gt",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gt",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 116
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gu",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 117
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gucci",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gucci",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 300
+    }
+  },
+  {
+    "type": "domain",
+    "value": "guge",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:guge",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 768
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gw",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 118
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gy",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gy",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 119
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hamburg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hamburg",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 351
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hangout",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hangout",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 769
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hbo",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hbo",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 885
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hdfc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hdfc",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 653
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hdfcbank",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hdfcbank",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 652
+    }
+  },
+  {
+    "type": "domain",
+    "value": "helsinki",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:helsinki",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 352
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hermes",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hermes",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 301
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hisamitsu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hisamitsu",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 484
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hitachi",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hitachi",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 411
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hkt",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hkt",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 770
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hm",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hm",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 120
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hn",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 121
+    }
+  },
+  {
+    "type": "domain",
+    "value": "homedepot",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:homedepot",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 688
+    }
+  },
+  {
+    "type": "domain",
+    "value": "homegoods",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:homegoods",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 689
+    }
+  },
+  {
+    "type": "domain",
+    "value": "homesense",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:homesense",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 722
+    }
+  },
+  {
+    "type": "domain",
+    "value": "honda",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:honda",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 588
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hot",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hot",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 455
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hotmail",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hotmail",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 771
+    }
+  },
+  {
+    "type": "domain",
+    "value": "how",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:how",
+    "source": {
+      "list": "GOOGLE-REGISTRY-TLD",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hr",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 122
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hsbc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hsbc",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 654
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ht",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ht",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 123
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hu",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 124
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hughes",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hughes",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 772
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hyatt",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hyatt",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 861
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hyundai",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hyundai",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 589
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ibm",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ibm",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 617
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ice",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ice",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 284
+    }
+  },
+  {
+    "type": "domain",
+    "value": "id",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:id",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 125
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ie",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ie",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 126
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ieee",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ieee",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 773
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ifm",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ifm",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 412
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ikano",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ikano",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 456
+    }
+  },
+  {
+    "type": "domain",
+    "value": "il",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:il",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 127
+    }
+  },
+  {
+    "type": "domain",
+    "value": "im",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:im",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 128
+    }
+  },
+  {
+    "type": "domain",
+    "value": "imamat",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:imamat",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 457
+    }
+  },
+  {
+    "type": "domain",
+    "value": "imdb",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:imdb",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 886
+    }
+  },
+  {
+    "type": "domain",
+    "value": "in",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:in",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 129
+    }
+  },
+  {
+    "type": "domain",
+    "value": "infiniti",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:infiniti",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 590
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ing",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ing",
+    "source": {
+      "list": "GOOGLE-REGISTRY-TLD",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intuit",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intuit",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 774
+    }
+  },
+  {
+    "type": "domain",
+    "value": "io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:io",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 130
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ipiranga",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ipiranga",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 413
+    }
+  },
+  {
+    "type": "domain",
+    "value": "iq",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:iq",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 131
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ir",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 132
+    }
+  },
+  {
+    "type": "domain",
+    "value": "irish",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:irish",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 353
+    }
+  },
+  {
+    "type": "domain",
+    "value": "is",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:is",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 133
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ismaili",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ismaili",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 478
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ist",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ist",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 354
+    }
+  },
+  {
+    "type": "domain",
+    "value": "istanbul",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:istanbul",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 355
+    }
+  },
+  {
+    "type": "domain",
+    "value": "it",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:it",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 134
+    }
+  },
+  {
+    "type": "domain",
+    "value": "itau",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:itau",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 655
+    }
+  },
+  {
+    "type": "domain",
+    "value": "itv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:itv",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 887
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jaguar",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jaguar",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 591
+    }
+  },
+  {
+    "type": "domain",
+    "value": "java",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:java",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 775
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jcb",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jcb",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 656
+    }
+  },
+  {
+    "type": "domain",
+    "value": "je",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:je",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 135
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jeep",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jeep",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 592
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jio",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jio",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 414
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jll",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jll",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 657
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jm",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jm",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 136
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jmp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jmp",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 776
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jnj",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jnj",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 397
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jo",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jo",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 137
+    }
+  },
+  {
+    "type": "domain",
+    "value": "joburg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:joburg",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 318
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jp",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 138
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jprs",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jprs",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 777
+    }
+  },
+  {
+    "type": "domain",
+    "value": "juniper",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:juniper",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 778
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kddi",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kddi",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 779
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ke",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ke",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 139
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kerryhotels",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kerryhotels",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 862
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kerryproperties",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kerryproperties",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 863
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kfh",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kfh",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 658
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kg",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 140
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kh",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kh",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 141
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ki",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ki",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 142
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kia",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kia",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 593
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kindle",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kindle",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 780
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kiwi",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kiwi",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 380
+    }
+  },
+  {
+    "type": "domain",
+    "value": "km",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:km",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 143
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kn",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 144
+    }
+  },
+  {
+    "type": "domain",
+    "value": "koeln",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:koeln",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 356
+    }
+  },
+  {
+    "type": "domain",
+    "value": "komatsu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:komatsu",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 415
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kp",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 145
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kpmg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kpmg",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 659
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kpn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kpn",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 781
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kr",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 146
+    }
+  },
+  {
+    "type": "domain",
+    "value": "krd",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:krd",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 324
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kuokgroup",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kuokgroup",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 416
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kw",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 147
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ky",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ky",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 148
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kyoto",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kyoto",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 325
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kz",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 149
+    }
+  },
+  {
+    "type": "domain",
+    "value": "la",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:la",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 150
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lacaixa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lacaixa",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 660
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lamborghini",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lamborghini",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 594
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lamer",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lamer",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 826
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lancaster",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lancaster",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 302
+    }
+  },
+  {
+    "type": "domain",
+    "value": "landrover",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:landrover",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 595
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lanxess",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lanxess",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 782
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lasalle",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lasalle",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 661
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lat",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lat",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 385
+    }
+  },
+  {
+    "type": "domain",
+    "value": "latrobe",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:latrobe",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 897
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lb",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lb",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 151
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lc",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 152
+    }
+  },
+  {
+    "type": "domain",
+    "value": "leclerc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:leclerc",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 417
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lefrak",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lefrak",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 874
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lego",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lego",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 723
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lexus",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lexus",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 596
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lgbt",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lgbt",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 458
+    }
+  },
+  {
+    "type": "domain",
+    "value": "li",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:li",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 153
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lidl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lidl",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 418
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lilly",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lilly",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 485
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lincoln",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lincoln",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 597
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lipsy",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lipsy",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 303
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lk",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 154
+    }
+  },
+  {
+    "type": "domain",
+    "value": "locker",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:locker",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 783
+    }
+  },
+  {
+    "type": "domain",
+    "value": "locus",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:locus",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 285
+    }
+  },
+  {
+    "type": "domain",
+    "value": "london",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:london",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 357
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lotte",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lotte",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 419
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lpl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lpl",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 663
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lplfinancial",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lplfinancial",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 662
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lr",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 155
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ls",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ls",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 156
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lt",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lt",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 157
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lu",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 158
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lundbeck",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lundbeck",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 486
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lv",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 159
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ly",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ly",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 160
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ma",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ma",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 161
+    }
+  },
+  {
+    "type": "domain",
+    "value": "madrid",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:madrid",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 358
+    }
+  },
+  {
+    "type": "domain",
+    "value": "maif",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:maif",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 459
+    }
+  },
+  {
+    "type": "domain",
+    "value": "man",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:man",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 420
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mango",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mango",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 304
+    }
+  },
+  {
+    "type": "domain",
+    "value": "marriott",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:marriott",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 864
+    }
+  },
+  {
+    "type": "domain",
+    "value": "marshalls",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:marshalls",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 724
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mattel",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mattel",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 460
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mc",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 162
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mckinsey",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mckinsey",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 286
+    }
+  },
+  {
+    "type": "domain",
+    "value": "md",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:md",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 163
+    }
+  },
+  {
+    "type": "domain",
+    "value": "melbourne",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:melbourne",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 381
+    }
+  },
+  {
+    "type": "domain",
+    "value": "meme",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:meme",
+    "source": {
+      "list": "GOOGLE-REGISTRY-TLD",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "merckmsd",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:merckmsd",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 487
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mg",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 164
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mh",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mh",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 165
+    }
+  },
+  {
+    "type": "domain",
+    "value": "miami",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:miami",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 374
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoft",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoft",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 784
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mil",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mil",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mini",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mini",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 598
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mint",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mint",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 785
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mit",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mit",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 786
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mitsubishi",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mitsubishi",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 599
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mk",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 166
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ml",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ml",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 167
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mlb",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mlb",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 274
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mm",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mm",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 168
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mma",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mma",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 699
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mn",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 169
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mo",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mo",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 170
+    }
+  },
+  {
+    "type": "domain",
+    "value": "moe",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:moe",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 461
+    }
+  },
+  {
+    "type": "domain",
+    "value": "monash",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:monash",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 898
+    }
+  },
+  {
+    "type": "domain",
+    "value": "moscow",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:moscow",
+    "source": {
+      "list": "TLD-RU",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mov",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mov",
+    "source": {
+      "list": "GOOGLE-REGISTRY-TLD",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mp",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 171
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mq",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mq",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 172
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mr",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 173
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ms",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ms",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 174
+    }
+  },
+  {
+    "type": "domain",
+    "value": "msd",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:msd",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 488
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mt",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mt",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 175
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mtn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mtn",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 787
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mtr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mtr",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 421
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mu",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 176
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mv",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 177
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mw",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 178
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mx",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mx",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 179
+    }
+  },
+  {
+    "type": "domain",
+    "value": "my",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:my",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 180
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mz",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 181
+    }
+  },
+  {
+    "type": "domain",
+    "value": "na",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:na",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 182
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nab",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nab",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 664
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nagoya",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nagoya",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 326
+    }
+  },
+  {
+    "type": "domain",
+    "value": "natura",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:natura",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 827
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nba",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nba",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 275
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nc",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 183
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ne",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ne",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 184
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nec",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nec",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 788
+    }
+  },
+  {
+    "type": "domain",
+    "value": "netbank",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:netbank",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 665
+    }
+  },
+  {
+    "type": "domain",
+    "value": "netflix",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:netflix",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 713
+    }
+  },
+  {
+    "type": "domain",
+    "value": "neustar",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:neustar",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 789
+    }
+  },
+  {
+    "type": "domain",
+    "value": "new",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:new",
+    "source": {
+      "list": "GOOGLE-REGISTRY-TLD",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "next",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:next",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 306
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nextdirect",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nextdirect",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 305
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nexus",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nexus",
+    "source": {
+      "list": "GOOGLE-REGISTRY-TLD",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nf",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nf",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 185
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nfl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nfl",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 276
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ng",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ng",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 186
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nhk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nhk",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 888
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ni",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ni",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 187
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nico",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nico",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 791
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nike",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nike",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 307
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nikon",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nikon",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 618
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nissan",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nissan",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 600
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nissay",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nissay",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 700
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nl",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 188
+    }
+  },
+  {
+    "type": "domain",
+    "value": "no",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:no",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 189
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nokia",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nokia",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 619
+    }
+  },
+  {
+    "type": "domain",
+    "value": "norton",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:norton",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 792
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nowtv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nowtv",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 889
+    }
+  },
+  {
+    "type": "domain",
+    "value": "np",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:np",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 190
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nr",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 191
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nra",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nra",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 277
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nrw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nrw",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 359
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ntt",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ntt",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 793
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nu",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 192
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nyc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nyc",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 375
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nz",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 193
+    }
+  },
+  {
+    "type": "domain",
+    "value": "obi",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:obi",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 725
+    }
+  },
+  {
+    "type": "domain",
+    "value": "office",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:office",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 794
+    }
+  },
+  {
+    "type": "domain",
+    "value": "okinawa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:okinawa",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 327
+    }
+  },
+  {
+    "type": "domain",
+    "value": "olayan",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:olayan",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 288
+    }
+  },
+  {
+    "type": "domain",
+    "value": "olayangroup",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:olayangroup",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 287
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ollo",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ollo",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 795
+    }
+  },
+  {
+    "type": "domain",
+    "value": "om",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:om",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 194
+    }
+  },
+  {
+    "type": "domain",
+    "value": "omega",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:omega",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 308
+    }
+  },
+  {
+    "type": "domain",
+    "value": "open",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:open",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 666
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oracle",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oracle",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 796
+    }
+  },
+  {
+    "type": "domain",
+    "value": "orange",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:orange",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 797
+    }
+  },
+  {
+    "type": "domain",
+    "value": "origins",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:origins",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 828
+    }
+  },
+  {
+    "type": "domain",
+    "value": "osaka",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:osaka",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 328
+    }
+  },
+  {
+    "type": "domain",
+    "value": "otsuka",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:otsuka",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 489
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ovh",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ovh",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 798
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pa",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 195
+    }
+  },
+  {
+    "type": "domain",
+    "value": "page",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:page",
+    "source": {
+      "list": "GOOGLE-REGISTRY-TLD",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "panasonic",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:panasonic",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 620
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paris",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paris",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 360
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pccw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pccw",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 799
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pe",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pe",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 196
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pf",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pf",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 197
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pfizer",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pfizer",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 490
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pg",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 198
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ph",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ph",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 199
+    }
+  },
+  {
+    "type": "domain",
+    "value": "phd",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:phd",
+    "source": {
+      "list": "GOOGLE-REGISTRY-TLD",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "philips",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:philips",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 621
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pictet",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pictet",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 667
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pioneer",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pioneer",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 622
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pk",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 200
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pl",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 201
+    }
+  },
+  {
+    "type": "domain",
+    "value": "playstation",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:playstation",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 714
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pm",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pm",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 202
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pn",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 203
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pnc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pnc",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 668
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pohl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pohl",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 669
+    }
+  },
+  {
+    "type": "domain",
+    "value": "porn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:porn",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 498
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pr",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 204
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pramerica",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pramerica",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 670
+    }
+  },
+  {
+    "type": "domain",
+    "value": "praxi",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:praxi",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 289
+    }
+  },
+  {
+    "type": "domain",
+    "value": "prof",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:prof",
+    "source": {
+      "list": "GOOGLE-REGISTRY-TLD",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "progressive",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:progressive",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 701
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pru",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 672
+    }
+  },
+  {
+    "type": "domain",
+    "value": "prudential",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:prudential",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 671
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ps",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ps",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 206
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pt",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pt",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 207
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pwc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pwc",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 673
+    }
+  },
+  {
+    "type": "domain",
+    "value": "py",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:py",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 208
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qa",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 209
+    }
+  },
+  {
+    "type": "domain",
+    "value": "quebec",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:quebec",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 376
+    }
+  },
+  {
+    "type": "domain",
+    "value": "re",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:re",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 210
+    }
+  },
+  {
+    "type": "domain",
+    "value": "redstone",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:redstone",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 309
+    }
+  },
+  {
+    "type": "domain",
+    "value": "redumbrella",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:redumbrella",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 702
+    }
+  },
+  {
+    "type": "domain",
+    "value": "reliance",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:reliance",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 422
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rexroth",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rexroth",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 423
+    }
+  },
+  {
+    "type": "domain",
+    "value": "richardli",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:richardli",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 800
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ricoh",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ricoh",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 801
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ril",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ril",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 424
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rio",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rio",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 386
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ro",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ro",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 211
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rogers",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rogers",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 802
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rs",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rs",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 212
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rsvp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rsvp",
+    "source": {
+      "list": "GOOGLE-REGISTRY-TLD",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ru",
+    "source": {
+      "list": "TLD-RU",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ruhr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ruhr",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 361
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rw",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 213
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rwe",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rwe",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 425
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ryukyu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ryukyu",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 329
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sa",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 214
+    }
+  },
+  {
+    "type": "domain",
+    "value": "saarland",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:saarland",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 362
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sakura",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sakura",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 803
+    }
+  },
+  {
+    "type": "domain",
+    "value": "samsclub",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:samsclub",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 726
+    }
+  },
+  {
+    "type": "domain",
+    "value": "samsung",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:samsung",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 623
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sandvik",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sandvik",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 427
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sandvikcoromant",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sandvikcoromant",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 426
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sanofi",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sanofi",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 398
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sap",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sap",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 290
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sas",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sas",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 804
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sb",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sb",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 215
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sbi",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sbi",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 674
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sbs",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sbs",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 890
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sc",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 216
+    }
+  },
+  {
+    "type": "domain",
+    "value": "scb",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:scb",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 675
+    }
+  },
+  {
+    "type": "domain",
+    "value": "schaeffler",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:schaeffler",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 428
+    }
+  },
+  {
+    "type": "domain",
+    "value": "schmidt",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:schmidt",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 429
+    }
+  },
+  {
+    "type": "domain",
+    "value": "schwarz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:schwarz",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 430
+    }
+  },
+  {
+    "type": "domain",
+    "value": "scot",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:scot",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 363
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sd",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sd",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 217
+    }
+  },
+  {
+    "type": "domain",
+    "value": "se",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:se",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 218
+    }
+  },
+  {
+    "type": "domain",
+    "value": "seat",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:seat",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 601
+    }
+  },
+  {
+    "type": "domain",
+    "value": "seek",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:seek",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 291
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sener",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sener",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 431
+    }
+  },
+  {
+    "type": "domain",
+    "value": "seven",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:seven",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 891
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sew",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sew",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 432
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sex",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sex",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 499
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sexy",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sexy",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 500
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sfr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sfr",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 805
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sg",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 219
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sh",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sh",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 220
+    }
+  },
+  {
+    "type": "domain",
+    "value": "shangrila",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:shangrila",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 865
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sharp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sharp",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 624
+    }
+  },
+  {
+    "type": "domain",
+    "value": "shaw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:shaw",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 806
+    }
+  },
+  {
+    "type": "domain",
+    "value": "shell",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:shell",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 463
+    }
+  },
+  {
+    "type": "domain",
+    "value": "shia",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:shia",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 464
+    }
+  },
+  {
+    "type": "domain",
+    "value": "si",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:si",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 221
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sj",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sj",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 222
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sk",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 223
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sky",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sky",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 892
+    }
+  },
+  {
+    "type": "domain",
+    "value": "skype",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:skype",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 807
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sl",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 224
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sling",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sling",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 808
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sm",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sm",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 225
+    }
+  },
+  {
+    "type": "domain",
+    "value": "smart",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:smart",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 809
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sn",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 226
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sncf",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sncf",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 433
+    }
+  },
+  {
+    "type": "domain",
+    "value": "so",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:so",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 228
+    }
+  },
+  {
+    "type": "domain",
+    "value": "softbank",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:softbank",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 676
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sony",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sony",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 625
+    }
+  },
+  {
+    "type": "domain",
+    "value": "soy",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:soy",
+    "source": {
+      "list": "GOOGLE-REGISTRY-TLD",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sr",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 229
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ss",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ss",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 230
+    }
+  },
+  {
+    "type": "domain",
+    "value": "st",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:st",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 231
+    }
+  },
+  {
+    "type": "domain",
+    "value": "stada",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:stada",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 491
+    }
+  },
+  {
+    "type": "domain",
+    "value": "staples",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:staples",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 727
+    }
+  },
+  {
+    "type": "domain",
+    "value": "statebank",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:statebank",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 677
+    }
+  },
+  {
+    "type": "domain",
+    "value": "statefarm",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:statefarm",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 703
+    }
+  },
+  {
+    "type": "domain",
+    "value": "stc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:stc",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 811
+    }
+  },
+  {
+    "type": "domain",
+    "value": "stcgroup",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:stcgroup",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 810
+    }
+  },
+  {
+    "type": "domain",
+    "value": "stockholm",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:stockholm",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 364
+    }
+  },
+  {
+    "type": "domain",
+    "value": "style",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:style",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 465
+    }
+  },
+  {
+    "type": "domain",
+    "value": "su",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:su",
+    "source": {
+      "list": "TLD-RU",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sucks",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sucks",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 466
+    }
+  },
+  {
+    "type": "domain",
+    "value": "suzuki",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:suzuki",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 602
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sv",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 232
+    }
+  },
+  {
+    "type": "domain",
+    "value": "swatch",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:swatch",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 310
+    }
+  },
+  {
+    "type": "domain",
+    "value": "swiss",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:swiss",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 365
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sx",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sx",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 233
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sy",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sy",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 234
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sydney",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sydney",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 382
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sz",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 235
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tab",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tab",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 715
+    }
+  },
+  {
+    "type": "domain",
+    "value": "taipei",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:taipei",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 330
+    }
+  },
+  {
+    "type": "domain",
+    "value": "target",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:target",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 728
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tatamotors",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tatamotors",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 603
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tatar",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tatar",
+    "source": {
+      "list": "TLD-RU",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tattoo",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tattoo",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 467
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tc",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 236
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tci",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tci",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 812
+    }
+  },
+  {
+    "type": "domain",
+    "value": "td",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:td",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 237
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tdk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tdk",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 813
+    }
+  },
+  {
+    "type": "domain",
+    "value": "temasek",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:temasek",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 678
+    }
+  },
+  {
+    "type": "domain",
+    "value": "teva",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:teva",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 492
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tf",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tf",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 238
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tg",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 239
+    }
+  },
+  {
+    "type": "domain",
+    "value": "th",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:th",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 240
+    }
+  },
+  {
+    "type": "domain",
+    "value": "thd",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:thd",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 729
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tiaa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tiaa",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 704
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tirol",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tirol",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 366
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tj",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tj",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 241
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tjmaxx",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tjmaxx",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 730
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tjx",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tjx",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 731
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tk",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 242
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tkmaxx",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tkmaxx",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 732
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tl",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 243
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tm",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tm",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 244
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tn",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 245
+    }
+  },
+  {
+    "type": "domain",
+    "value": "to",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:to",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 246
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tokyo",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tokyo",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 331
+    }
+  },
+  {
+    "type": "domain",
+    "value": "toray",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:toray",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 493
+    }
+  },
+  {
+    "type": "domain",
+    "value": "toshiba",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:toshiba",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 626
+    }
+  },
+  {
+    "type": "domain",
+    "value": "total",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:total",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 434
+    }
+  },
+  {
+    "type": "domain",
+    "value": "toyota",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:toyota",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 604
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tr",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 247
+    }
+  },
+  {
+    "type": "domain",
+    "value": "travelers",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:travelers",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 706
+    }
+  },
+  {
+    "type": "domain",
+    "value": "travelersinsurance",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:travelersinsurance",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 705
+    }
+  },
+  {
+    "type": "domain",
+    "value": "trv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:trv",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 707
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tt",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tt",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 248
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tui",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tui",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 866
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tvs",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tvs",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 605
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tw",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 249
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tz",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 250
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ua",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ua",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 251
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ubank",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ubank",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 679
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ubs",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ubs",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 680
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ug",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ug",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 252
+    }
+  },
+  {
+    "type": "domain",
+    "value": "uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:uk",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 253
+    }
+  },
+  {
+    "type": "domain",
+    "value": "uol",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:uol",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 814
+    }
+  },
+  {
+    "type": "domain",
+    "value": "us",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:us",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 254
+    }
+  },
+  {
+    "type": "domain",
+    "value": "uy",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:uy",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 255
+    }
+  },
+  {
+    "type": "domain",
+    "value": "uz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:uz",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 256
+    }
+  },
+  {
+    "type": "domain",
+    "value": "va",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:va",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 257
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vana",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vana",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 468
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vanguard",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vanguard",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 681
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vc",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 258
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ve",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ve",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 259
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vegas",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vegas",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 377
+    }
+  },
+  {
+    "type": "domain",
+    "value": "verisign",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:verisign",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 815
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vg",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 260
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vi",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vi",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 261
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vig",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vig",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 708
+    }
+  },
+  {
+    "type": "domain",
+    "value": "viking",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:viking",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 867
+    }
+  },
+  {
+    "type": "domain",
+    "value": "virgin",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:virgin",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 868
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visa",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 682
+    }
+  },
+  {
+    "type": "domain",
+    "value": "viva",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:viva",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 816
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vivo",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vivo",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 817
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vlaanderen",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vlaanderen",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 367
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vn",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 262
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vodka",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vodka",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 470
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volvo",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volvo",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 606
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vu",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 263
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wales",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wales",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 368
+    }
+  },
+  {
+    "type": "domain",
+    "value": "walmart",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:walmart",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 733
+    }
+  },
+  {
+    "type": "domain",
+    "value": "walter",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:walter",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 435
+    }
+  },
+  {
+    "type": "domain",
+    "value": "weather",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:weather",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 494
+    }
+  },
+  {
+    "type": "domain",
+    "value": "weatherchannel",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:weatherchannel",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 893
+    }
+  },
+  {
+    "type": "domain",
+    "value": "weber",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:weber",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 436
+    }
+  },
+  {
+    "type": "domain",
+    "value": "weir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:weir",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 437
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wf",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wf",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 264
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wien",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wien",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 369
+    }
+  },
+  {
+    "type": "domain",
+    "value": "williamhill",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:williamhill",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 716
+    }
+  },
+  {
+    "type": "domain",
+    "value": "windows",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:windows",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 818
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wine",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wine",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 471
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wme",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wme",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 472
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wolterskluwer",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wolterskluwer",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 683
+    }
+  },
+  {
+    "type": "domain",
+    "value": "woodside",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:woodside",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 438
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ws",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ws",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 265
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wtc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wtc",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 292
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wtf",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wtf",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 473
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xbox",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xbox",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 717
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xerox",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xerox",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 293
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--2scrj9c",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--2scrj9c",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 529
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--3e0b707e",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--3e0b707e",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 542
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--3hcrj9c",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--3hcrj9c",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 532
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--45br5cyl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--45br5cyl",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 531
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--45brj9c",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--45brj9c",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 527
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--4dbrk0ce",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--4dbrk0ce",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 521
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--54b7fta0cc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--54b7fta0cc",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 513
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--5su34j936bgsg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--5su34j936bgsg",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 840
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--80adxhks",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--80adxhks",
+    "source": {
+      "list": "TLD-RU",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--80ao21a",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--80ao21a",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 541
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--80asehdb",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--80asehdb",
+    "source": {
+      "list": "TLD-RU",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--80aswg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--80aswg",
+    "source": {
+      "list": "TLD-RU",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--90a3ac",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--90a3ac",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 560
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--90ae",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--90ae",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 515
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--90ais",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--90ais",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 514
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--b4w605ferd",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--b4w605ferd",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 841
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--c1avg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--c1avg",
+    "source": {
+      "list": "TLD-RU",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--cckwcxetd",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--cckwcxetd",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 842
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--cg4bki",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--cg4bki",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 843
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--d1acj3b",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--d1acj3b",
+    "source": {
+      "list": "TLD-RU",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--d1alf",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--d1alf",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 546
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--e1a4c",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--e1a4c",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 517
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--flw351e",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--flw351e",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 844
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--fpcrj9c3d",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--fpcrj9c3d",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 524
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--fzc2c9e2c",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--fzc2c9e2c",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 562
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--fzys8d69uvgm",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--fzys8d69uvgm",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 845
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--gecrj9c",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--gecrj9c",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 525
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--h2breg3eve",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--h2breg3eve",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 534
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--h2brj9c",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--h2brj9c",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 522
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--h2brj9c8c",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--h2brj9c8c",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 535
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--j1amh",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--j1amh",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 571
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--jlq480n2rg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--jlq480n2rg",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 846
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--kcrx77d1x4a",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--kcrx77d1x4a",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 847
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--kprw13d",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--kprw13d",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 567
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--kpry57d",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--kpry57d",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 566
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--l1acc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--l1acc",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 549
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--lgbbat1ad8j",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--lgbbat1ad8j",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 510
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--mgb2ddes",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--mgb2ddes",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 573
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--mgb9awbf",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--mgb9awbf",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 551
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--mgba3a3ejt",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--mgba3a3ejt",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 848
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--mgba3a4f16a",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--mgba3a4f16a",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 537
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--mgba3a4fra",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--mgba3a4fra",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 538
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--mgba7c0bbn0a",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--mgba7c0bbn0a",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 849
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--mgbaam7a8h",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--mgbaam7a8h",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 572
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--mgbah1a3hjkrd",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--mgbah1a3hjkrd",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 548
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--mgbai9a5eva00b",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--mgbai9a5eva00b",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 553
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--mgbai9azgqp6j",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--mgbai9azgqp6j",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 552
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--mgbayh7gpa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--mgbayh7gpa",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 540
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--mgbbh1a",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--mgbbh1a",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 533
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--mgbbh1a71e",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--mgbbh1a71e",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 523
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--mgbc0a9azcg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--mgbc0a9azcg",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 550
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--mgbcpq6gpa1a",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--mgbcpq6gpa1a",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 512
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--mgberp4a5d4a87g",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--mgberp4a5d4a87g",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 557
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--mgberp4a5d4ar",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--mgberp4a5d4ar",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 556
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--mgbgu82a",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--mgbgu82a",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 536
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--mgbi4ecexp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--mgbi4ecexp",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 479
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--mgbpl2fh",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--mgbpl2fh",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 563
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--mgbqly7c0a67fbc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--mgbqly7c0a67fbc",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 558
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--mgbqly7cvafr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--mgbqly7cvafr",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 559
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--mgbtf8fl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--mgbtf8fl",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 565
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--mgbtx2b",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--mgbtx2b",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 539
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--mgbx4cd0ab",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--mgbx4cd0ab",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 547
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--mix082f",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--mix082f",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 545
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--mix891f",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--mix891f",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 544
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--ngbe9e0a",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--ngbe9e0a",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 850
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--nnx388a",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--nnx388a",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 568
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--node",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--node",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 519
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--o3cw4h",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--o3cw4h",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 569
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--ogbpf8fl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--ogbpf8fl",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 564
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--p1acf",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--p1acf",
+    "source": {
+      "list": "TLD-RU",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--p1ai",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--p1ai",
+    "source": {
+      "list": "TLD-RU",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--pgbs0dh",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--pgbs0dh",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 570
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--q7ce6a",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--q7ce6a",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 543
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--q9jyb4c",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--q9jyb4c",
+    "source": {
+      "list": "GOOGLE-REGISTRY-TLD",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--qcka1pmc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--qcka1pmc",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 851
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--qxa6a",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--qxa6a",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 518
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--qxam",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--qxam",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 520
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--rvc1e0am3e",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--rvc1e0am3e",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 530
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--s9brj9c",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--s9brj9c",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 526
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--w4r85el8fhu5dnra",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--w4r85el8fhu5dnra",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 852
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--w4rs40l",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--w4rs40l",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 853
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--wgbh1c",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--wgbh1c",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 516
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--wgbl6a",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--wgbl6a",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 555
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--xkc2dl3a5ee0h",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--xkc2dl3a5ee0h",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 528
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--y9a3aq",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--y9a3aq",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 511
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--yfro4i67o",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--yfro4i67o",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 561
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--ygbi2ammx",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--ygbi2ammx",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 554
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xxx",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xxx",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 501
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 819
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yamaxun",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yamaxun",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 820
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yandex",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yandex",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 821
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ye",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ye",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 266
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yodobashi",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yodobashi",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 627
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yokohama",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yokohama",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 332
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtube",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtube",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 822
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yt",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yt",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 267
+    }
+  },
+  {
+    "type": "domain",
+    "value": "za",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:za",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 268
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zappos",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zappos",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 823
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zara",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zara",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 439
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zip",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zip",
+    "source": {
+      "list": "GOOGLE-REGISTRY-TLD",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zm",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zm",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 269
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zuerich",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zuerich",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 370
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zw",
+    "source": {
+      "list": "TLD-!CN",
+      "line": 270
+    }
+  }
+]

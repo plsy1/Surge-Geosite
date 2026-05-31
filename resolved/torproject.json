@@ -1,0 +1,13 @@
+[
+  {
+    "type": "domain",
+    "value": "torproject.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:torproject.org",
+    "source": {
+      "list": "TORPROJECT",
+      "line": 1
+    }
+  }
+]

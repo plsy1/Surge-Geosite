@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "jinshuju.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jinshuju.net",
+    "source": {
+      "list": "JINSHUJU",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jinshujucdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jinshujucdn.com",
+    "source": {
+      "list": "JINSHUJU",
+      "line": 2
+    }
+  }
+]

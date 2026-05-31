@@ -1,0 +1,3172 @@
+[
+  {
+    "type": "domain",
+    "value": "01.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:01.org",
+    "source": {
+      "list": "INTEL-DEV",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "acpica.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:acpica.com",
+    "source": {
+      "list": "INTEL-DEV",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "altera.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:altera.co.jp",
+    "source": {
+      "list": "INTEL",
+      "line": 156
+    }
+  },
+  {
+    "type": "domain",
+    "value": "altera.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:altera.com",
+    "source": {
+      "list": "INTEL",
+      "line": 157
+    }
+  },
+  {
+    "type": "domain",
+    "value": "alteraforum.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:alteraforum.com",
+    "source": {
+      "list": "INTEL",
+      "line": 158
+    }
+  },
+  {
+    "type": "domain",
+    "value": "barefootnetworks.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:barefootnetworks.com",
+    "source": {
+      "list": "INTEL",
+      "line": 279
+    }
+  },
+  {
+    "type": "domain",
+    "value": "buyaltera.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:buyaltera.com",
+    "source": {
+      "list": "INTEL",
+      "line": 159
+    }
+  },
+  {
+    "type": "domain",
+    "value": "celeron.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:celeron.com",
+    "source": {
+      "list": "INTEL",
+      "line": 160
+    }
+  },
+  {
+    "type": "domain",
+    "value": "celeron.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:celeron.net",
+    "source": {
+      "list": "INTEL",
+      "line": 161
+    }
+  },
+  {
+    "type": "domain",
+    "value": "centrino.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:centrino.com",
+    "source": {
+      "list": "INTEL",
+      "line": 162
+    }
+  },
+  {
+    "type": "domain",
+    "value": "centrino.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:centrino.net",
+    "source": {
+      "list": "INTEL",
+      "line": 163
+    }
+  },
+  {
+    "type": "domain",
+    "value": "chips.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:chips.com",
+    "source": {
+      "list": "INTEL",
+      "line": 164
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cilk.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cilk.com",
+    "source": {
+      "list": "INTEL",
+      "line": 165
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cilk.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cilk.net",
+    "source": {
+      "list": "INTEL",
+      "line": 166
+    }
+  },
+  {
+    "type": "domain",
+    "value": "clearlinux.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:clearlinux.org",
+    "source": {
+      "list": "INTEL-DEV",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudinsights.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudinsights.com",
+    "source": {
+      "list": "INTEL",
+      "line": 167
+    }
+  },
+  {
+    "type": "domain",
+    "value": "clusterconnection.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:clusterconnection.com",
+    "source": {
+      "list": "INTEL",
+      "line": 168
+    }
+  },
+  {
+    "type": "domain",
+    "value": "comm-verse.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:comm-verse.com",
+    "source": {
+      "list": "INTEL",
+      "line": 169
+    }
+  },
+  {
+    "type": "domain",
+    "value": "coreduo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:coreduo.com",
+    "source": {
+      "list": "INTEL",
+      "line": 170
+    }
+  },
+  {
+    "type": "domain",
+    "value": "coreextreme.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:coreextreme.com",
+    "source": {
+      "list": "INTEL",
+      "line": 171
+    }
+  },
+  {
+    "type": "domain",
+    "value": "crosswalk-project.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:crosswalk-project.com",
+    "source": {
+      "list": "INTEL",
+      "line": 172
+    }
+  },
+  {
+    "type": "domain",
+    "value": "crosswalk-project.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:crosswalk-project.net",
+    "source": {
+      "list": "INTEL",
+      "line": 173
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dml-lang.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dml-lang.org",
+    "source": {
+      "list": "INTEL",
+      "line": 174
+    }
+  },
+  {
+    "type": "domain",
+    "value": "doceapower.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:doceapower.com",
+    "source": {
+      "list": "INTEL",
+      "line": 175
+    }
+  },
+  {
+    "type": "domain",
+    "value": "easic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:easic.com",
+    "source": {
+      "list": "INTEL",
+      "line": 176
+    }
+  },
+  {
+    "type": "domain",
+    "value": "enpirion.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:enpirion.com",
+    "source": {
+      "list": "INTEL",
+      "line": 177
+    }
+  },
+  {
+    "type": "domain",
+    "value": "exascale-tech.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:exascale-tech.com",
+    "source": {
+      "list": "INTEL",
+      "line": 178
+    }
+  },
+  {
+    "type": "domain",
+    "value": "exploreintel.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:exploreintel.com",
+    "source": {
+      "list": "INTEL",
+      "line": 179
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gordonmoore.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gordonmoore.com",
+    "source": {
+      "list": "INTEL",
+      "line": 180
+    }
+  },
+  {
+    "type": "domain",
+    "value": "granulate.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:granulate.io",
+    "source": {
+      "list": "INTEL",
+      "line": 181
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hackharassment.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hackharassment.com",
+    "source": {
+      "list": "INTEL",
+      "line": 182
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hyperscan.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hyperscan.io",
+    "source": {
+      "list": "INTEL-DEV",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "insidefilms.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:insidefilms.com",
+    "source": {
+      "list": "INTEL",
+      "line": 183
+    }
+  },
+  {
+    "type": "domain",
+    "value": "insight.tech",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:insight.tech",
+    "source": {
+      "list": "INTEL",
+      "line": 184
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intc.com",
+    "source": {
+      "list": "INTEL",
+      "line": 185
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel",
+    "source": {
+      "list": "INTEL",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel-research.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel-research.net",
+    "source": {
+      "list": "INTEL",
+      "line": 186
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel-university-collaboration.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel-university-collaboration.net",
+    "source": {
+      "list": "INTEL",
+      "line": 187
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.ac",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.ac",
+    "source": {
+      "list": "INTEL",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.ae",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.ae",
+    "source": {
+      "list": "INTEL",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.af",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.af",
+    "source": {
+      "list": "INTEL",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.ag",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.ag",
+    "source": {
+      "list": "INTEL",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.ai",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.ai",
+    "source": {
+      "list": "INTEL",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.ar",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.ar",
+    "source": {
+      "list": "INTEL",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.at",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.at",
+    "source": {
+      "list": "INTEL",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.az",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.az",
+    "source": {
+      "list": "INTEL",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.ba",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.ba",
+    "source": {
+      "list": "INTEL",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.bg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.bg",
+    "source": {
+      "list": "INTEL",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.bh",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.bh",
+    "source": {
+      "list": "INTEL",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.bi",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.bi",
+    "source": {
+      "list": "INTEL",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.bo",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.bo",
+    "source": {
+      "list": "INTEL",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.bs",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.bs",
+    "source": {
+      "list": "INTEL",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.by",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.by",
+    "source": {
+      "list": "INTEL",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.ca",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.ca",
+    "source": {
+      "list": "INTEL",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.cc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.cc",
+    "source": {
+      "list": "INTEL",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.cg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.cg",
+    "source": {
+      "list": "INTEL",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.ch",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.ch",
+    "source": {
+      "list": "INTEL",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.cl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.cl",
+    "source": {
+      "list": "INTEL",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.cm",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.cm",
+    "source": {
+      "list": "INTEL",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:intel.cn:@cn",
+    "source": {
+      "list": "INTEL",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.co",
+    "source": {
+      "list": "INTEL",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.co.ae",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.co.ae",
+    "source": {
+      "list": "INTEL",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.co.cr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.co.cr",
+    "source": {
+      "list": "INTEL",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.co.id",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.co.id",
+    "source": {
+      "list": "INTEL",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.co.il",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.co.il",
+    "source": {
+      "list": "INTEL",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.co.jp",
+    "source": {
+      "list": "INTEL",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.co.kr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.co.kr",
+    "source": {
+      "list": "INTEL",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.co.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.co.uk",
+    "source": {
+      "list": "INTEL",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.co.za",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.co.za",
+    "source": {
+      "list": "INTEL",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.com",
+    "source": {
+      "list": "INTEL",
+      "line": 37
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.com.ar",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.com.ar",
+    "source": {
+      "list": "INTEL",
+      "line": 38
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.com.au",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.com.au",
+    "source": {
+      "list": "INTEL",
+      "line": 39
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.com.bo",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.com.bo",
+    "source": {
+      "list": "INTEL",
+      "line": 40
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.com.br",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.com.br",
+    "source": {
+      "list": "INTEL",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.com.cn",
+    "source": {
+      "list": "INTEL",
+      "line": 42
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.com.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.com.co",
+    "source": {
+      "list": "INTEL",
+      "line": 43
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.com.ec",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.com.ec",
+    "source": {
+      "list": "INTEL",
+      "line": 44
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.com.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.com.hk",
+    "source": {
+      "list": "INTEL",
+      "line": 45
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.com.jm",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.com.jm",
+    "source": {
+      "list": "INTEL",
+      "line": 46
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.com.mx",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.com.mx",
+    "source": {
+      "list": "INTEL",
+      "line": 47
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.com.my",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.com.my",
+    "source": {
+      "list": "INTEL",
+      "line": 48
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.com.pe",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.com.pe",
+    "source": {
+      "list": "INTEL",
+      "line": 49
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.com.ph",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.com.ph",
+    "source": {
+      "list": "INTEL",
+      "line": 50
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.com.pr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.com.pr",
+    "source": {
+      "list": "INTEL",
+      "line": 51
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.com.py",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.com.py",
+    "source": {
+      "list": "INTEL",
+      "line": 52
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.com.tr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.com.tr",
+    "source": {
+      "list": "INTEL",
+      "line": 53
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.com.tw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.com.tw",
+    "source": {
+      "list": "INTEL",
+      "line": 54
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.com.uy",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.com.uy",
+    "source": {
+      "list": "INTEL",
+      "line": 55
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.com.ve",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.com.ve",
+    "source": {
+      "list": "INTEL",
+      "line": 56
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.cr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.cr",
+    "source": {
+      "list": "INTEL",
+      "line": 57
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.cu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.cu",
+    "source": {
+      "list": "INTEL",
+      "line": 58
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.cz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.cz",
+    "source": {
+      "list": "INTEL",
+      "line": 59
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.de",
+    "source": {
+      "list": "INTEL",
+      "line": 60
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.dev",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.dev",
+    "source": {
+      "list": "INTEL",
+      "line": 61
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.dk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.dk",
+    "source": {
+      "list": "INTEL",
+      "line": 62
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.dz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.dz",
+    "source": {
+      "list": "INTEL",
+      "line": 63
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.ec",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.ec",
+    "source": {
+      "list": "INTEL",
+      "line": 64
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.ee",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.ee",
+    "source": {
+      "list": "INTEL",
+      "line": 65
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.eg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.eg",
+    "source": {
+      "list": "INTEL",
+      "line": 66
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.es",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.es",
+    "source": {
+      "list": "INTEL",
+      "line": 67
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.eu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.eu",
+    "source": {
+      "list": "INTEL",
+      "line": 68
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.fi",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.fi",
+    "source": {
+      "list": "INTEL",
+      "line": 69
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.fr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.fr",
+    "source": {
+      "list": "INTEL",
+      "line": 70
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.ga",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.ga",
+    "source": {
+      "list": "INTEL",
+      "line": 71
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.gd",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.gd",
+    "source": {
+      "list": "INTEL",
+      "line": 72
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.ge",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.ge",
+    "source": {
+      "list": "INTEL",
+      "line": 73
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.gg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.gg",
+    "source": {
+      "list": "INTEL",
+      "line": 74
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.gl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.gl",
+    "source": {
+      "list": "INTEL",
+      "line": 75
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.gm",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.gm",
+    "source": {
+      "list": "INTEL",
+      "line": 76
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.gr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.gr",
+    "source": {
+      "list": "INTEL",
+      "line": 77
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.gs",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.gs",
+    "source": {
+      "list": "INTEL",
+      "line": 78
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.gt",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.gt",
+    "source": {
+      "list": "INTEL",
+      "line": 79
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.gy",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.gy",
+    "source": {
+      "list": "INTEL",
+      "line": 80
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.hk",
+    "source": {
+      "list": "INTEL",
+      "line": 81
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.hn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.hn",
+    "source": {
+      "list": "INTEL",
+      "line": 82
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.ht",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.ht",
+    "source": {
+      "list": "INTEL",
+      "line": 83
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.hu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.hu",
+    "source": {
+      "list": "INTEL",
+      "line": 84
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.id",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.id",
+    "source": {
+      "list": "INTEL",
+      "line": 85
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.ie",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.ie",
+    "source": {
+      "list": "INTEL",
+      "line": 86
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.in",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.in",
+    "source": {
+      "list": "INTEL",
+      "line": 87
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.io",
+    "source": {
+      "list": "INTEL",
+      "line": 88
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.it",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.it",
+    "source": {
+      "list": "INTEL",
+      "line": 89
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.je",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.je",
+    "source": {
+      "list": "INTEL",
+      "line": 90
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.jo",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.jo",
+    "source": {
+      "list": "INTEL",
+      "line": 91
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.jp",
+    "source": {
+      "list": "INTEL",
+      "line": 92
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.ke",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.ke",
+    "source": {
+      "list": "INTEL",
+      "line": 93
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.la",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.la",
+    "source": {
+      "list": "INTEL",
+      "line": 94
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.lc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.lc",
+    "source": {
+      "list": "INTEL",
+      "line": 95
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.lk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.lk",
+    "source": {
+      "list": "INTEL",
+      "line": 96
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.lt",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.lt",
+    "source": {
+      "list": "INTEL",
+      "line": 97
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.lu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.lu",
+    "source": {
+      "list": "INTEL",
+      "line": 98
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.ly",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.ly",
+    "source": {
+      "list": "INTEL",
+      "line": 99
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.ma",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.ma",
+    "source": {
+      "list": "INTEL",
+      "line": 100
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.md",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.md",
+    "source": {
+      "list": "INTEL",
+      "line": 101
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.me",
+    "source": {
+      "list": "INTEL",
+      "line": 102
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.mg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.mg",
+    "source": {
+      "list": "INTEL",
+      "line": 103
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.mk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.mk",
+    "source": {
+      "list": "INTEL",
+      "line": 104
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.mn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.mn",
+    "source": {
+      "list": "INTEL",
+      "line": 105
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.mp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.mp",
+    "source": {
+      "list": "INTEL",
+      "line": 106
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.mt",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.mt",
+    "source": {
+      "list": "INTEL",
+      "line": 107
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.mu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.mu",
+    "source": {
+      "list": "INTEL",
+      "line": 108
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.mw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.mw",
+    "source": {
+      "list": "INTEL",
+      "line": 109
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.mx",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.mx",
+    "source": {
+      "list": "INTEL",
+      "line": 110
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.my",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.my",
+    "source": {
+      "list": "INTEL",
+      "line": 111
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.ng",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.ng",
+    "source": {
+      "list": "INTEL",
+      "line": 112
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.nl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.nl",
+    "source": {
+      "list": "INTEL",
+      "line": 113
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.nu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.nu",
+    "source": {
+      "list": "INTEL",
+      "line": 114
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.nz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.nz",
+    "source": {
+      "list": "INTEL",
+      "line": 115
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.pa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.pa",
+    "source": {
+      "list": "INTEL",
+      "line": 116
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.pe",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.pe",
+    "source": {
+      "list": "INTEL",
+      "line": 117
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.ph",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.ph",
+    "source": {
+      "list": "INTEL",
+      "line": 118
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.pl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.pl",
+    "source": {
+      "list": "INTEL",
+      "line": 119
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.pn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.pn",
+    "source": {
+      "list": "INTEL",
+      "line": 120
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.re",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.re",
+    "source": {
+      "list": "INTEL",
+      "line": 121
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.ro",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.ro",
+    "source": {
+      "list": "INTEL",
+      "line": 122
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.ru",
+    "source": {
+      "list": "INTEL",
+      "line": 123
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.rw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.rw",
+    "source": {
+      "list": "INTEL",
+      "line": 124
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.sa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.sa",
+    "source": {
+      "list": "INTEL",
+      "line": 125
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.sc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.sc",
+    "source": {
+      "list": "INTEL",
+      "line": 126
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.se",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.se",
+    "source": {
+      "list": "INTEL",
+      "line": 127
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.sg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.sg",
+    "source": {
+      "list": "INTEL",
+      "line": 128
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.si",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.si",
+    "source": {
+      "list": "INTEL",
+      "line": 129
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.sk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.sk",
+    "source": {
+      "list": "INTEL",
+      "line": 130
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.sn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.sn",
+    "source": {
+      "list": "INTEL",
+      "line": 131
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.sr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.sr",
+    "source": {
+      "list": "INTEL",
+      "line": 132
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.st",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.st",
+    "source": {
+      "list": "INTEL",
+      "line": 133
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.sv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.sv",
+    "source": {
+      "list": "INTEL",
+      "line": 134
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.sx",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.sx",
+    "source": {
+      "list": "INTEL",
+      "line": 135
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.sy",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.sy",
+    "source": {
+      "list": "INTEL",
+      "line": 136
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.tf",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.tf",
+    "source": {
+      "list": "INTEL",
+      "line": 137
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.tj",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.tj",
+    "source": {
+      "list": "INTEL",
+      "line": 138
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.tl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.tl",
+    "source": {
+      "list": "INTEL",
+      "line": 139
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.tm",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.tm",
+    "source": {
+      "list": "INTEL",
+      "line": 140
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.tn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.tn",
+    "source": {
+      "list": "INTEL",
+      "line": 141
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.tt",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.tt",
+    "source": {
+      "list": "INTEL",
+      "line": 142
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.tv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.tv",
+    "source": {
+      "list": "INTEL",
+      "line": 143
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.tw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.tw",
+    "source": {
+      "list": "INTEL",
+      "line": 144
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.ua",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.ua",
+    "source": {
+      "list": "INTEL",
+      "line": 145
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.uk",
+    "source": {
+      "list": "INTEL",
+      "line": 146
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.us",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.us",
+    "source": {
+      "list": "INTEL",
+      "line": 147
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.uy",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.uy",
+    "source": {
+      "list": "INTEL",
+      "line": 148
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.uz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.uz",
+    "source": {
+      "list": "INTEL",
+      "line": 149
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.vg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.vg",
+    "source": {
+      "list": "INTEL",
+      "line": 150
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.vn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.vn",
+    "source": {
+      "list": "INTEL",
+      "line": 151
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.vu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.vu",
+    "source": {
+      "list": "INTEL",
+      "line": 152
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.wf",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.wf",
+    "source": {
+      "list": "INTEL",
+      "line": 153
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intel.yt",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intel.yt",
+    "source": {
+      "list": "INTEL",
+      "line": 154
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intelamericasstore.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intelamericasstore.com",
+    "source": {
+      "list": "INTEL",
+      "line": 188
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intelapacstore.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intelapacstore.com",
+    "source": {
+      "list": "INTEL",
+      "line": 189
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intelatom.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intelatom.net",
+    "source": {
+      "list": "INTEL",
+      "line": 190
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intelcapital.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intelcapital.com",
+    "source": {
+      "list": "INTEL",
+      "line": 191
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intelcapital.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intelcapital.net",
+    "source": {
+      "list": "INTEL",
+      "line": 192
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intelcloudbuilders.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intelcloudbuilders.com",
+    "source": {
+      "list": "INTEL",
+      "line": 193
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intelcloudfinder.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intelcloudfinder.com",
+    "source": {
+      "list": "INTEL",
+      "line": 194
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intelemeastore.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intelemeastore.com",
+    "source": {
+      "list": "INTEL",
+      "line": 195
+    }
+  },
+  {
+    "type": "domain",
+    "value": "inteleventexpress.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:inteleventexpress.com",
+    "source": {
+      "list": "INTEL",
+      "line": 196
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intelforchange.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intelforchange.com",
+    "source": {
+      "list": "INTEL",
+      "line": 197
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intelfreepress.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intelfreepress.com",
+    "source": {
+      "list": "INTEL",
+      "line": 198
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intelgo.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intelgo.net",
+    "source": {
+      "list": "INTEL",
+      "line": 199
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intelinsight.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intelinsight.com",
+    "source": {
+      "list": "INTEL",
+      "line": 200
+    }
+  },
+  {
+    "type": "domain",
+    "value": "inteliotmarketplace.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:inteliotmarketplace.com",
+    "source": {
+      "list": "INTEL",
+      "line": 201
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intell.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intell.com",
+    "source": {
+      "list": "INTEL",
+      "line": 202
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intellearningseries.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intellearningseries.com",
+    "source": {
+      "list": "INTEL",
+      "line": 203
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intellinuxgraphics.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intellinuxgraphics.com",
+    "source": {
+      "list": "INTEL-DEV",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intellinuxgraphics.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intellinuxgraphics.net",
+    "source": {
+      "list": "INTEL-DEV",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intellinuxwireless.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intellinuxwireless.net",
+    "source": {
+      "list": "INTEL",
+      "line": 204
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intelnervana.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intelnervana.com",
+    "source": {
+      "list": "INTEL",
+      "line": 205
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intelplay.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intelplay.com",
+    "source": {
+      "list": "INTEL",
+      "line": 206
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intelquark.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intelquark.com",
+    "source": {
+      "list": "INTEL",
+      "line": 207
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intelrealsense.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intelrealsense.cn",
+    "source": {
+      "list": "INTEL",
+      "line": 208
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intelrealsense.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intelrealsense.com",
+    "source": {
+      "list": "INTEL",
+      "line": 209
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intelrealsense.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intelrealsense.net",
+    "source": {
+      "list": "INTEL",
+      "line": 210
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intelreimbursement.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intelreimbursement.com",
+    "source": {
+      "list": "INTEL",
+      "line": 211
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intelrxt.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intelrxt.com",
+    "source": {
+      "list": "INTEL",
+      "line": 212
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intelsalestraining.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intelsalestraining.com",
+    "source": {
+      "list": "INTEL",
+      "line": 213
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intelsecurity.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intelsecurity.com",
+    "source": {
+      "list": "INTEL",
+      "line": 214
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intelserveredge.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intelserveredge.com",
+    "source": {
+      "list": "INTEL",
+      "line": 215
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intelsoftwarenetwork.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intelsoftwarenetwork.com",
+    "source": {
+      "list": "INTEL",
+      "line": 216
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intelstore.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intelstore.com",
+    "source": {
+      "list": "INTEL",
+      "line": 217
+    }
+  },
+  {
+    "type": "domain",
+    "value": "inteltechnologyprovider.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:inteltechnologyprovider.com",
+    "source": {
+      "list": "INTEL",
+      "line": 218
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intelvmwarecybersecurity.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intelvmwarecybersecurity.com",
+    "source": {
+      "list": "INTEL",
+      "line": 219
+    }
+  },
+  {
+    "type": "domain",
+    "value": "itnel.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:itnel.com",
+    "source": {
+      "list": "INTEL",
+      "line": 220
+    }
+  },
+  {
+    "type": "domain",
+    "value": "latencytop.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:latencytop.com",
+    "source": {
+      "list": "INTEL",
+      "line": 221
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lookinside.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lookinside.com",
+    "source": {
+      "list": "INTEL",
+      "line": 222
+    }
+  },
+  {
+    "type": "domain",
+    "value": "makebettercode.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:makebettercode.com",
+    "source": {
+      "list": "INTEL",
+      "line": 223
+    }
+  },
+  {
+    "type": "domain",
+    "value": "makesenseofdata.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:makesenseofdata.com",
+    "source": {
+      "list": "INTEL",
+      "line": 224
+    }
+  },
+  {
+    "type": "domain",
+    "value": "meccontroller.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:meccontroller.com",
+    "source": {
+      "list": "INTEL",
+      "line": 225
+    }
+  },
+  {
+    "type": "domain",
+    "value": "movidius.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:movidius.com",
+    "source": {
+      "list": "INTEL",
+      "line": 226
+    }
+  },
+  {
+    "type": "domain",
+    "value": "movidius.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:movidius.net",
+    "source": {
+      "list": "INTEL",
+      "line": 227
+    }
+  },
+  {
+    "type": "domain",
+    "value": "movidius.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:movidius.org",
+    "source": {
+      "list": "INTEL",
+      "line": 228
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nervanasys.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nervanasys.com",
+    "source": {
+      "list": "INTEL",
+      "line": 229
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nevex.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nevex.com",
+    "source": {
+      "list": "INTEL",
+      "line": 230
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nextgenerationcenter.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nextgenerationcenter.com",
+    "source": {
+      "list": "INTEL",
+      "line": 231
+    }
+  },
+  {
+    "type": "domain",
+    "value": "niosii.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:niosii.com",
+    "source": {
+      "list": "INTEL",
+      "line": 232
+    }
+  },
+  {
+    "type": "domain",
+    "value": "niosii.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:niosii.net",
+    "source": {
+      "list": "INTEL",
+      "line": 233
+    }
+  },
+  {
+    "type": "domain",
+    "value": "omekinteractive.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:omekinteractive.com",
+    "source": {
+      "list": "INTEL",
+      "line": 234
+    }
+  },
+  {
+    "type": "domain",
+    "value": "omnitek.tv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:omnitek.tv",
+    "source": {
+      "list": "INTEL",
+      "line": 235
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oneapi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oneapi.com",
+    "source": {
+      "list": "INTEL-DEV",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oneapi.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oneapi.io",
+    "source": {
+      "list": "INTEL-DEV",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "openamt.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:openamt.com",
+    "source": {
+      "list": "INTEL",
+      "line": 236
+    }
+  },
+  {
+    "type": "domain",
+    "value": "opencas.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:opencas.io",
+    "source": {
+      "list": "INTEL-DEV",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "opendroneid.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:opendroneid.org",
+    "source": {
+      "list": "INTEL-DEV",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "openvino.ai",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:openvino.ai",
+    "source": {
+      "list": "INTEL-DEV",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "openvinotoolkit.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:openvinotoolkit.org",
+    "source": {
+      "list": "INTEL-DEV",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "optanedifference.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:optanedifference.com",
+    "source": {
+      "list": "INTEL",
+      "line": 238
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ospray.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ospray.net",
+    "source": {
+      "list": "INTEL-DEV",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ospray.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ospray.org",
+    "source": {
+      "list": "INTEL-DEV",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "passwordday.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:passwordday.org",
+    "source": {
+      "list": "INTEL",
+      "line": 239
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pc.com",
+    "source": {
+      "list": "INTEL",
+      "line": 240
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pentium.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pentium.com",
+    "source": {
+      "list": "INTEL",
+      "line": 241
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pentium.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pentium.net",
+    "source": {
+      "list": "INTEL",
+      "line": 242
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pintool.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pintool.com",
+    "source": {
+      "list": "INTEL",
+      "line": 243
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pmem.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pmem.org",
+    "source": {
+      "list": "INTEL",
+      "line": 244
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pmem.us",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pmem.us",
+    "source": {
+      "list": "INTEL",
+      "line": 245
+    }
+  },
+  {
+    "type": "domain",
+    "value": "poweredbyintel.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:poweredbyintel.com",
+    "source": {
+      "list": "INTEL",
+      "line": 246
+    }
+  },
+  {
+    "type": "domain",
+    "value": "projectcircuitbreaker.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:projectcircuitbreaker.com",
+    "source": {
+      "list": "INTEL",
+      "line": 247
+    }
+  },
+  {
+    "type": "domain",
+    "value": "reconinstruments.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:reconinstruments.com",
+    "source": {
+      "list": "INTEL",
+      "line": 248
+    }
+  },
+  {
+    "type": "domain",
+    "value": "reconjet.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:reconjet.com",
+    "source": {
+      "list": "INTEL",
+      "line": 249
+    }
+  },
+  {
+    "type": "domain",
+    "value": "renderingtoolkit.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:renderingtoolkit.org",
+    "source": {
+      "list": "INTEL-DEV",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "researchintel.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:researchintel.com",
+    "source": {
+      "list": "INTEL",
+      "line": 250
+    }
+  },
+  {
+    "type": "domain",
+    "value": "saffrontech.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:saffrontech.com",
+    "source": {
+      "list": "INTEL",
+      "line": 251
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sensorynetworks.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sensorynetworks.com",
+    "source": {
+      "list": "INTEL",
+      "line": 252
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sigopt.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sigopt.com",
+    "source": {
+      "list": "INTEL",
+      "line": 253
+    }
+  },
+  {
+    "type": "domain",
+    "value": "silicon-mobility.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:silicon-mobility.com",
+    "source": {
+      "list": "INTEL",
+      "line": 254
+    }
+  },
+  {
+    "type": "domain",
+    "value": "siliconmobility.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:siliconmobility.com",
+    "source": {
+      "list": "INTEL",
+      "line": 255
+    }
+  },
+  {
+    "type": "domain",
+    "value": "siport.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:siport.com",
+    "source": {
+      "list": "INTEL",
+      "line": 256
+    }
+  },
+  {
+    "type": "domain",
+    "value": "smart-edge.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:smart-edge.com",
+    "source": {
+      "list": "INTEL",
+      "line": 257
+    }
+  },
+  {
+    "type": "domain",
+    "value": "smart-edge.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:smart-edge.info",
+    "source": {
+      "list": "INTEL",
+      "line": 258
+    }
+  },
+  {
+    "type": "domain",
+    "value": "smart-edge.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:smart-edge.io",
+    "source": {
+      "list": "INTEL",
+      "line": 259
+    }
+  },
+  {
+    "type": "domain",
+    "value": "smart-edge.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:smart-edge.net",
+    "source": {
+      "list": "INTEL",
+      "line": 260
+    }
+  },
+  {
+    "type": "domain",
+    "value": "smart-edge.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:smart-edge.org",
+    "source": {
+      "list": "INTEL",
+      "line": 261
+    }
+  },
+  {
+    "type": "domain",
+    "value": "smart-edge.systems",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:smart-edge.systems",
+    "source": {
+      "list": "INTEL",
+      "line": 262
+    }
+  },
+  {
+    "type": "domain",
+    "value": "smartedge.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:smartedge.info",
+    "source": {
+      "list": "INTEL",
+      "line": 263
+    }
+  },
+  {
+    "type": "domain",
+    "value": "snap-telemetry.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:snap-telemetry.io",
+    "source": {
+      "list": "INTEL-DEV",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "storageclassmemory.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:storageclassmemory.io",
+    "source": {
+      "list": "INTEL",
+      "line": 264
+    }
+  },
+  {
+    "type": "domain",
+    "value": "storageclassmemory.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:storageclassmemory.org",
+    "source": {
+      "list": "INTEL",
+      "line": 265
+    }
+  },
+  {
+    "type": "domain",
+    "value": "theintelstore.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:theintelstore.com",
+    "source": {
+      "list": "INTEL",
+      "line": 266
+    }
+  },
+  {
+    "type": "domain",
+    "value": "threadingbuildingblocks.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:threadingbuildingblocks.org",
+    "source": {
+      "list": "INTEL",
+      "line": 267
+    }
+  },
+  {
+    "type": "domain",
+    "value": "thunderbolttechnology.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:thunderbolttechnology.net",
+    "source": {
+      "list": "INTEL",
+      "line": 268
+    }
+  },
+  {
+    "type": "domain",
+    "value": "trustedanalytics.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:trustedanalytics.com",
+    "source": {
+      "list": "INTEL",
+      "line": 269
+    }
+  },
+  {
+    "type": "domain",
+    "value": "trustedanalytics.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:trustedanalytics.net",
+    "source": {
+      "list": "INTEL",
+      "line": 270
+    }
+  },
+  {
+    "type": "domain",
+    "value": "universalscalablefirmware.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:universalscalablefirmware.org",
+    "source": {
+      "list": "INTEL-DEV",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vokevr.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vokevr.com",
+    "source": {
+      "list": "INTEL",
+      "line": 271
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vpro.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vpro.com",
+    "source": {
+      "list": "INTEL",
+      "line": 272
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vpro.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vpro.net",
+    "source": {
+      "list": "INTEL",
+      "line": 273
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xeon.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xeon.com",
+    "source": {
+      "list": "INTEL",
+      "line": 274
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--ztsq84g.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--ztsq84g.cn",
+    "source": {
+      "list": "INTEL",
+      "line": 275
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xscale.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xscale.com",
+    "source": {
+      "list": "INTEL",
+      "line": 276
+    }
+  }
+]

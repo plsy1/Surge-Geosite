@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "kkmh.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kkmh.com",
+    "source": {
+      "list": "KUAIKAN",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kuaikanmanhua.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kuaikanmanhua.com",
+    "source": {
+      "list": "KUAIKAN",
+      "line": 2
+    }
+  }
+]

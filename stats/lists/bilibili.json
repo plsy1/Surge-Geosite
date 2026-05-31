@@ -1,0 +1,59 @@
+{
+  "name": "BILIBILI",
+  "source": {
+    "domain": 30,
+    "full": 0,
+    "keyword": 0,
+    "regexp": 0,
+    "include": 2,
+    "affiliations": 0,
+    "attributes": 3
+  },
+  "resolved": {
+    "rules": 50,
+    "domain": 49,
+    "full": 1,
+    "keyword": 0,
+    "regexp": 0
+  },
+  "filters": {
+    "attrs": {
+      "!cn": 4
+    }
+  },
+  "modes": {
+    "strict": {
+      "rules": 50,
+      "bytes": 1333,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "balanced": {
+      "rules": 50,
+      "bytes": 1333,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "full": {
+      "rules": 50,
+      "bytes": 1333,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    }
+  }
+}

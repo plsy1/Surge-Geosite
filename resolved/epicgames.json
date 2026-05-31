@@ -1,0 +1,358 @@
+[
+  {
+    "type": "domain",
+    "value": "3lateral.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:3lateral.com",
+    "source": {
+      "list": "EPICGAMES",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "artstation.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:artstation.com",
+    "source": {
+      "list": "EPICGAMES",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "battlebreakers.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:battlebreakers.com",
+    "source": {
+      "list": "EPICGAMES",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "capturingreality.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:capturingreality.com",
+    "source": {
+      "list": "EPICGAMES",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cubicmotion.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cubicmotion.com",
+    "source": {
+      "list": "EPICGAMES",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "eac-cdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:eac-cdn.com",
+    "source": {
+      "list": "EPICGAMES",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "easy.ac",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:easy.ac",
+    "source": {
+      "list": "EPICGAMES",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "easyanticheat.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:easyanticheat.net",
+    "source": {
+      "list": "EPICGAMES",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "egdownload.fastly-edge.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:egdownload.fastly-edge.com",
+    "source": {
+      "list": "EPICGAMES",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "epicgames.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:epicgames.com",
+    "source": {
+      "list": "EPICGAMES",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "epicgames.dev",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:epicgames.dev",
+    "source": {
+      "list": "EPICGAMES",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "epicgamescdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:epicgamescdn.com",
+    "source": {
+      "list": "EPICGAMES",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fab.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fab.com",
+    "source": {
+      "list": "EPICGAMES",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fortnite-vod.akamaized.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fortnite-vod.akamaized.net",
+    "source": {
+      "list": "EPICGAMES",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fortnite.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fortnite.com",
+    "source": {
+      "list": "EPICGAMES",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hyprsense.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hyprsense.com",
+    "source": {
+      "list": "EPICGAMES",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paragon.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paragon.com",
+    "source": {
+      "list": "EPICGAMES",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "playparagon.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:playparagon.com",
+    "source": {
+      "list": "EPICGAMES",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "quixel.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:quixel.com",
+    "source": {
+      "list": "EPICGAMES",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "quixel.se",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:quixel.se",
+    "source": {
+      "list": "EPICGAMES",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "radgametools.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:radgametools.com",
+    "source": {
+      "list": "EPICGAMES",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "realityscan.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:realityscan.com",
+    "source": {
+      "list": "EPICGAMES",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "roborecall.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:roborecall.com",
+    "source": {
+      "list": "EPICGAMES",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "shadowcomplex.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:shadowcomplex.com",
+    "source": {
+      "list": "EPICGAMES",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sketchfab.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sketchfab.com",
+    "source": {
+      "list": "EPICGAMES",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "spyjinx.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:spyjinx.com",
+    "source": {
+      "list": "EPICGAMES",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "twinmotion.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:twinmotion.com",
+    "source": {
+      "list": "EPICGAMES",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "unrealengine.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:unrealengine.com",
+    "source": {
+      "list": "EPICGAMES",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "unrealtournament.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:unrealtournament.com",
+    "source": {
+      "list": "EPICGAMES",
+      "line": 27
+    }
+  },
+  {
+    "type": "regexp",
+    "value": "^cdn\\d-epicgames-\\d+\\.file\\.myqcloud\\.com$",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "regexp:^cdn\\d-epicgames-\\d+\\.file\\.myqcloud\\.com$:@cn",
+    "source": {
+      "list": "EPICGAMES",
+      "line": 31
+    }
+  },
+  {
+    "type": "regexp",
+    "value": "^epicgames-download\\d-\\d+\\.file\\.myqcloud\\.com$",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "regexp:^epicgames-download\\d-\\d+\\.file\\.myqcloud\\.com$:@cn",
+    "source": {
+      "list": "EPICGAMES",
+      "line": 33
+    }
+  },
+  {
+    "type": "regexp",
+    "value": "^epicgames-download\\d\\.akamaized\\.net$",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "regexp:^epicgames-download\\d\\.akamaized\\.net$",
+    "source": {
+      "list": "EPICGAMES",
+      "line": 32
+    }
+  }
+]

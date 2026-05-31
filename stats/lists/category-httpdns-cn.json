@@ -1,0 +1,59 @@
+{
+  "name": "CATEGORY-HTTPDNS-CN",
+  "source": {
+    "domain": 49,
+    "full": 0,
+    "keyword": 0,
+    "regexp": 0,
+    "include": 0,
+    "affiliations": 0,
+    "attributes": 49
+  },
+  "resolved": {
+    "rules": 49,
+    "domain": 49,
+    "full": 0,
+    "keyword": 0,
+    "regexp": 0
+  },
+  "filters": {
+    "attrs": {
+      "ads": 49
+    }
+  },
+  "modes": {
+    "strict": {
+      "rules": 49,
+      "bytes": 1762,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "balanced": {
+      "rules": 49,
+      "bytes": 1762,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "full": {
+      "rules": 49,
+      "bytes": 1762,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    }
+  }
+}

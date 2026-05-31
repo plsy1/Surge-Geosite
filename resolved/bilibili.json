@@ -1,0 +1,560 @@
+[
+  {
+    "type": "domain",
+    "value": "acg.tv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:acg.tv",
+    "source": {
+      "list": "BILIBILI",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "acgvideo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:acgvideo.com",
+    "source": {
+      "list": "BILIBILI",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "animetamashi.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:animetamashi.cn",
+    "source": {
+      "list": "BILIBILI",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "animetamashi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:animetamashi.com",
+    "source": {
+      "list": "BILIBILI",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "anitama.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:anitama.cn",
+    "source": {
+      "list": "BILIBILI",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "anitama.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:anitama.net",
+    "source": {
+      "list": "BILIBILI",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "b23.tv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:b23.tv",
+    "source": {
+      "list": "BILIBILI",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bigfun.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bigfun.cn",
+    "source": {
+      "list": "BILIBILI",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bigfunapp.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bigfunapp.cn",
+    "source": {
+      "list": "BILIBILI",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bili22.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bili22.cn",
+    "source": {
+      "list": "BILIBILI",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bili2233.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bili2233.cn",
+    "source": {
+      "list": "BILIBILI",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bili23.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bili23.cn",
+    "source": {
+      "list": "BILIBILI",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bili33.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bili33.cn",
+    "source": {
+      "list": "BILIBILI",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "biliapi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:biliapi.com",
+    "source": {
+      "list": "BILIBILI",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "biliapi.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:biliapi.net",
+    "source": {
+      "list": "BILIBILI",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bilibili.cc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bilibili.cc",
+    "source": {
+      "list": "BILIBILI",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bilibili.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bilibili.cn",
+    "source": {
+      "list": "BILIBILI",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bilibili.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bilibili.com",
+    "source": {
+      "list": "BILIBILI",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bilibili.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bilibili.net",
+    "source": {
+      "list": "BILIBILI",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bilibili.tv",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:bilibili.tv:@!cn",
+    "source": {
+      "list": "BILIBILI",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bilibiligame.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bilibiligame.cn",
+    "source": {
+      "list": "BILIBILI-GAME",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bilibiligame.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bilibiligame.co",
+    "source": {
+      "list": "BILIBILI-GAME",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bilibiligame.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bilibiligame.net",
+    "source": {
+      "list": "BILIBILI-GAME",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bilibilipay.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bilibilipay.cn",
+    "source": {
+      "list": "BILIBILI",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bilibilipay.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bilibilipay.com",
+    "source": {
+      "list": "BILIBILI",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bilicdn1.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bilicdn1.com",
+    "source": {
+      "list": "BILIBILI-CDN",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bilicdn2.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bilicdn2.com",
+    "source": {
+      "list": "BILIBILI-CDN",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bilicdn3.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bilicdn3.com",
+    "source": {
+      "list": "BILIBILI-CDN",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bilicdn4.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bilicdn4.com",
+    "source": {
+      "list": "BILIBILI-CDN",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bilicdn5.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bilicdn5.com",
+    "source": {
+      "list": "BILIBILI-CDN",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bilicomic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bilicomic.com",
+    "source": {
+      "list": "BILIBILI",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bilicomics.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bilicomics.com",
+    "source": {
+      "list": "BILIBILI",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "biligame.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:biligame.co",
+    "source": {
+      "list": "BILIBILI-GAME",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "biligame.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:biligame.com",
+    "source": {
+      "list": "BILIBILI-GAME",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "biligame.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:biligame.net",
+    "source": {
+      "list": "BILIBILI-GAME",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "biligo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:biligo.com",
+    "source": {
+      "list": "BILIBILI",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "biliimg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:biliimg.com",
+    "source": {
+      "list": "BILIBILI-CDN",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "biliintl.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:biliintl.com:@!cn",
+    "source": {
+      "list": "BILIBILI",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bilivideo.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bilivideo.cn",
+    "source": {
+      "list": "BILIBILI-CDN",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bilivideo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bilivideo.com",
+    "source": {
+      "list": "BILIBILI-CDN",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bilivideo.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bilivideo.net",
+    "source": {
+      "list": "BILIBILI-CDN",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dreamcast.hk",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:dreamcast.hk:@!cn",
+    "source": {
+      "list": "BILIBILI",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hdslb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hdslb.com",
+    "source": {
+      "list": "BILIBILI-CDN",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hdslb.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hdslb.org",
+    "source": {
+      "list": "BILIBILI-CDN",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "huasheng.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:huasheng.cn",
+    "source": {
+      "list": "BILIBILI",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "im9.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:im9.com",
+    "source": {
+      "list": "BILIBILI",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "maoercdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:maoercdn.com",
+    "source": {
+      "list": "BILIBILI-CDN",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mincdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mincdn.com",
+    "source": {
+      "list": "BILIBILI-CDN",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yo9.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yo9.com",
+    "source": {
+      "list": "BILIBILI",
+      "line": 35
+    }
+  },
+  {
+    "type": "full",
+    "value": "upos-hz-mirrorakam.akamaized.net",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "full:upos-hz-mirrorakam.akamaized.net:@!cn",
+    "source": {
+      "list": "BILIBILI-CDN",
+      "line": 16
+    }
+  }
+]

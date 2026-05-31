@@ -1,0 +1,90 @@
+[
+  {
+    "type": "domain",
+    "value": "dcarapi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dcarapi.com",
+    "source": {
+      "list": "DONGCHEDI",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dcarimg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dcarimg.com",
+    "source": {
+      "list": "DONGCHEDI",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dcarlive.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dcarlive.com",
+    "source": {
+      "list": "DONGCHEDI",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dcarstatic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dcarstatic.com",
+    "source": {
+      "list": "DONGCHEDI",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dcarvod.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dcarvod.com",
+    "source": {
+      "list": "DONGCHEDI",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dcdapp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dcdapp.com",
+    "source": {
+      "list": "DONGCHEDI",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dongchedi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dongchedi.com",
+    "source": {
+      "list": "DONGCHEDI",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dongchediapp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dongchediapp.com",
+    "source": {
+      "list": "DONGCHEDI",
+      "line": 9
+    }
+  }
+]

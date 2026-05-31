@@ -1,0 +1,332 @@
+[
+  {
+    "type": "domain",
+    "value": "abank.com.mm",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:abank.com.mm",
+    "source": {
+      "list": "CATEGORY-BANK-MM",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ablmm.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ablmm.com",
+    "source": {
+      "list": "CATEGORY-BANK-MM",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "agdbank.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:agdbank.com",
+    "source": {
+      "list": "CATEGORY-BANK-MM",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ayabank.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ayabank.com",
+    "source": {
+      "list": "CATEGORY-BANK-MM",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cbbank.com.mm",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cbbank.com.mm",
+    "source": {
+      "list": "CATEGORY-BANK-MM",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cbm.com.mm",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cbm.com.mm",
+    "source": {
+      "list": "CATEGORY-BANK-MM",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "chid.com.mm",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:chid.com.mm",
+    "source": {
+      "list": "CATEGORY-BANK-MM",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "firstprivatebank.com.mm",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:firstprivatebank.com.mm",
+    "source": {
+      "list": "CATEGORY-BANK-MM",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gbank.com.mm",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gbank.com.mm",
+    "source": {
+      "list": "CATEGORY-BANK-MM",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kbzbank.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kbzbank.com",
+    "source": {
+      "list": "CATEGORY-BANK-MM",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kbzpay.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kbzpay.com",
+    "source": {
+      "list": "CATEGORY-BANK-MM",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mabbank.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mabbank.com",
+    "source": {
+      "list": "CATEGORY-BANK-MM",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mcb.com.mm",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mcb.com.mm",
+    "source": {
+      "list": "CATEGORY-BANK-MM",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mdbankpublic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mdbankpublic.com",
+    "source": {
+      "list": "CATEGORY-BANK-MM",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "meb.gov.mm",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:meb.gov.mm",
+    "source": {
+      "list": "CATEGORY-BANK-MM",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "micb.gov.mm",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:micb.gov.mm",
+    "source": {
+      "list": "CATEGORY-BANK-MM",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mmbbank.com.mm",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mmbbank.com.mm",
+    "source": {
+      "list": "CATEGORY-BANK-MM",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mmftb.gov.mm",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mmftb.gov.mm",
+    "source": {
+      "list": "CATEGORY-BANK-MM",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mminsurance.gov.mm",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mminsurance.gov.mm",
+    "source": {
+      "list": "CATEGORY-BANK-MM",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mmtourismbank.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mmtourismbank.com",
+    "source": {
+      "list": "CATEGORY-BANK-MM",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mobmyanmar.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mobmyanmar.com",
+    "source": {
+      "list": "CATEGORY-BANK-MM",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mwdbank.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mwdbank.com",
+    "source": {
+      "list": "CATEGORY-BANK-MM",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nptsibinbank.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nptsibinbank.com",
+    "source": {
+      "list": "CATEGORY-BANK-MM",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "shwebank.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:shwebank.com",
+    "source": {
+      "list": "CATEGORY-BANK-MM",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "smedevelopmentbank.com.mm",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:smedevelopmentbank.com.mm",
+    "source": {
+      "list": "CATEGORY-BANK-MM",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tuncommercialbank.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tuncommercialbank.com",
+    "source": {
+      "list": "CATEGORY-BANK-MM",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "uab.com.mm",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:uab.com.mm",
+    "source": {
+      "list": "CATEGORY-BANK-MM",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "waveomoney.com.mm",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:waveomoney.com.mm",
+    "source": {
+      "list": "CATEGORY-BANK-MM",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yomabank.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yomabank.com",
+    "source": {
+      "list": "CATEGORY-BANK-MM",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ysx-mm.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ysx-mm.com",
+    "source": {
+      "list": "CATEGORY-BANK-MM",
+      "line": 31
+    }
+  }
+]

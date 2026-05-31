@@ -1,0 +1,68 @@
+[
+  {
+    "type": "domain",
+    "value": "22112211.xyz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:22112211.xyz",
+    "source": {
+      "list": "NODESEEK",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "deepflood.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:deepflood.com",
+    "source": {
+      "list": "NODESEEK",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nodeget.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nodeget.com",
+    "source": {
+      "list": "NODESEEK",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nodeimage.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nodeimage.com",
+    "source": {
+      "list": "NODESEEK",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nodequality.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nodequality.com",
+    "source": {
+      "list": "NODESEEK",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nodeseek.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nodeseek.com",
+    "source": {
+      "list": "NODESEEK",
+      "line": 6
+    }
+  }
+]

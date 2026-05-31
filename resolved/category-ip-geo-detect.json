@@ -1,0 +1,1761 @@
+[
+  {
+    "type": "domain",
+    "value": "2ip.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:2ip.io",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "2ip.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:2ip.ru",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "2ip.ua",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:2ip.ua",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "51degrees.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:51degrees.com",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "abstractapi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:abstractapi.com",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "apiip.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:apiip.net",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "apivoid.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:apivoid.com",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bigdatacloud.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bigdatacloud.net",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "check-host.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:check-host.net",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "checkip.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:checkip.org",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "checkip.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:checkip.ru",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "country.is",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:country.is",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "curlmyip.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:curlmyip.net",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dadata.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dadata.ru",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db-ip.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db-ip.com",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "extreme-ip-lookup.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:extreme-ip-lookup.com",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "find-my-ip.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:find-my-ip.com",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "find-my-ip.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:find-my-ip.net",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "findip.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:findip.net",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "flagfox.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:flagfox.net",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fraudguard.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fraudguard.io",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fraudlogix.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fraudlogix.com",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "freegeoip.app",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:freegeoip.app",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "freeipapi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:freeipapi.com",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "geodatatool.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:geodatatool.com",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "geoip.noc.gov.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:geoip.noc.gov.ru",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 151
+    }
+  },
+  {
+    "type": "domain",
+    "value": "geojs.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:geojs.io",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "geolocation-db.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:geolocation-db.com",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "geoplugin.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:geoplugin.com",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "geoplugin.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:geoplugin.net",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "getipintel.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:getipintel.net",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "greip.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:greip.io",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hackertarget.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hackertarget.com",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "httpbin.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:httpbin.org",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "i.pn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:i.pn",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 37
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icanhazip.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icanhazip.com",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 38
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ident.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ident.me",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 39
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ifconfig.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ifconfig.co",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 40
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ifconfig.es",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ifconfig.es",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ifconfig.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ifconfig.io",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 42
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ifconfig.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ifconfig.me",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 43
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ip-adress.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ip-adress.com",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 44
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ip-api.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ip-api.com",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 45
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ip-api.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ip-api.io",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 46
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ip-api.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ip-api.ru",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 47
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ip-check.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ip-check.info",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 48
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ip-score.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ip-score.com",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 49
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ip.hetzner.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ip.hetzner.com",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 152
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ip.mail.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ip.mail.ru",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 153
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ip.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ip.me",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 50
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ip.nic.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ip.nic.ru",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 154
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ip.pe.kr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ip.pe.kr",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 155
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ip.sb",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ip.sb",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 51
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ip.tyk.nu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ip.tyk.nu",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 156
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ip2c.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ip2c.org",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 52
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ip2location.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ip2location.com",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 53
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ip2location.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ip2location.io",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 54
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ip2ruscity.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ip2ruscity.com",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 55
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ip4.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ip4.me",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 56
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ip6.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ip6.me",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 57
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ip6only.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ip6only.me",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 58
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ip8.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ip8.com",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 59
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ipaddr.site",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ipaddr.site",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 60
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ipaddress.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ipaddress.com",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 61
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ipaddress.my",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ipaddress.my",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 62
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ipaddress.sh",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ipaddress.sh",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 63
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ipapi.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ipapi.co",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 64
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ipapi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ipapi.com",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 65
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ipapi.is",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ipapi.is",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 66
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ipbase.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ipbase.com",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 67
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ipbot.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ipbot.com",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 68
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ipcalf.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ipcalf.com",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 69
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ipchicken.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ipchicken.com",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 70
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ipdata.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ipdata.co",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 71
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ipecho.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ipecho.net",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 72
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ipfind.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ipfind.io",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 73
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ipfinder.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ipfinder.io",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 74
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ipgeo.vercel.app",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ipgeo.vercel.app",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 157
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ipgeolocation.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ipgeolocation.io",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 75
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ipify.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:ipify.cn:@cn",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 76
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ipify.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ipify.org",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 77
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ipinfo.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ipinfo.io",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 78
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ipip.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ipip.net",
+    "source": {
+      "list": "IPIP",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "iplark.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:iplark.com:@cn",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 79
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ipleak.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ipleak.net",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 80
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ipligence.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ipligence.com",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 81
+    }
+  },
+  {
+    "type": "domain",
+    "value": "iplocate.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:iplocate.io",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 82
+    }
+  },
+  {
+    "type": "domain",
+    "value": "iplocation.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:iplocation.com",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 83
+    }
+  },
+  {
+    "type": "domain",
+    "value": "iplocation.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:iplocation.io",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 84
+    }
+  },
+  {
+    "type": "domain",
+    "value": "iplocation.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:iplocation.net",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 85
+    }
+  },
+  {
+    "type": "domain",
+    "value": "iplookup.it",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:iplookup.it",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 86
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ipqualityscore.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ipqualityscore.com",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 87
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ipquery.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ipquery.io",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 88
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ipregistry.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ipregistry.co",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 89
+    }
+  },
+  {
+    "type": "domain",
+    "value": "iproyal.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:iproyal.com",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 90
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ipstack.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ipstack.com",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 91
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ipv4-internet.yandex.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ipv4-internet.yandex.net",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 158
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ipv4.internet.yandex.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ipv4.internet.yandex.net",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 159
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ipv6-internet.yandex.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ipv6-internet.yandex.net",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 160
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ipv6.internet.yandex.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ipv6.internet.yandex.net",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 161
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ipverify.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ipverify.com",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 92
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ipw.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:ipw.cn:@cn",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 93
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ipwho.is",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ipwho.is",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 94
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ipwhois.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ipwhois.io",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 95
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ipxapi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ipxapi.com",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 96
+    }
+  },
+  {
+    "type": "domain",
+    "value": "l2.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:l2.io",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 97
+    }
+  },
+  {
+    "type": "domain",
+    "value": "maxmind.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:maxmind.com",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 98
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mon-ip.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mon-ip.com",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 99
+    }
+  },
+  {
+    "type": "domain",
+    "value": "monip.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:monip.org",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 100
+    }
+  },
+  {
+    "type": "domain",
+    "value": "my-ip.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:my-ip.io",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 101
+    }
+  },
+  {
+    "type": "domain",
+    "value": "my.ipinfo.app",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:my.ipinfo.app",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 102
+    }
+  },
+  {
+    "type": "domain",
+    "value": "myexternalip.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:myexternalip.com",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 103
+    }
+  },
+  {
+    "type": "domain",
+    "value": "myip.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:myip.com",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 104
+    }
+  },
+  {
+    "type": "domain",
+    "value": "myip.expert",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:myip.expert",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 105
+    }
+  },
+  {
+    "type": "domain",
+    "value": "myip.la",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:myip.la:@!cn",
+    "source": {
+      "list": "IPIP",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "myip.ms",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:myip.ms",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 106
+    }
+  },
+  {
+    "type": "domain",
+    "value": "myip.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:myip.ru",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 107
+    }
+  },
+  {
+    "type": "domain",
+    "value": "myip.wtf",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:myip.wtf",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 108
+    }
+  },
+  {
+    "type": "domain",
+    "value": "myipaddress.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:myipaddress.com",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 109
+    }
+  },
+  {
+    "type": "domain",
+    "value": "myiplookup.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:myiplookup.com",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 110
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mylocation.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mylocation.org",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 111
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nodedata.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nodedata.io",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 112
+    }
+  },
+  {
+    "type": "domain",
+    "value": "osint.sh",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:osint.sh",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 113
+    }
+  },
+  {
+    "type": "domain",
+    "value": "proxycheck.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:proxycheck.io",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 114
+    }
+  },
+  {
+    "type": "domain",
+    "value": "realip.cc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:realip.cc",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 115
+    }
+  },
+  {
+    "type": "domain",
+    "value": "seeip.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:seeip.org",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 116
+    }
+  },
+  {
+    "type": "domain",
+    "value": "showip.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:showip.net",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 117
+    }
+  },
+  {
+    "type": "domain",
+    "value": "showmyip.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:showmyip.com",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 118
+    }
+  },
+  {
+    "type": "domain",
+    "value": "showmyipaddress.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:showmyipaddress.com",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 119
+    }
+  },
+  {
+    "type": "domain",
+    "value": "spur.us",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:spur.us",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 120
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sxgeo.city",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sxgeo.city",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 121
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sypexgeo.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sypexgeo.net",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 122
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tnx.nl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tnx.nl",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 123
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tracemyip.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tracemyip.org",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 124
+    }
+  },
+  {
+    "type": "domain",
+    "value": "trustmyip.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:trustmyip.com",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 125
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wgetip.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wgetip.com",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 126
+    }
+  },
+  {
+    "type": "domain",
+    "value": "whatismyip.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:whatismyip.com",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 127
+    }
+  },
+  {
+    "type": "domain",
+    "value": "whatismyip.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:whatismyip.net",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 128
+    }
+  },
+  {
+    "type": "domain",
+    "value": "whatismyip.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:whatismyip.org",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 129
+    }
+  },
+  {
+    "type": "domain",
+    "value": "whatismyipaddress.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:whatismyipaddress.com",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 130
+    }
+  },
+  {
+    "type": "domain",
+    "value": "whatismyipaddress.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:whatismyipaddress.net",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 131
+    }
+  },
+  {
+    "type": "domain",
+    "value": "whatismyisp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:whatismyisp.com",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 132
+    }
+  },
+  {
+    "type": "domain",
+    "value": "whatismyv6.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:whatismyv6.com",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 133
+    }
+  },
+  {
+    "type": "domain",
+    "value": "whatsmyip.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:whatsmyip.com",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 134
+    }
+  },
+  {
+    "type": "domain",
+    "value": "whatsmyip.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:whatsmyip.org",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 135
+    }
+  },
+  {
+    "type": "domain",
+    "value": "where-am-i.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:where-am-i.co",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 136
+    }
+  },
+  {
+    "type": "domain",
+    "value": "whoer.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:whoer.net",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 137
+    }
+  },
+  {
+    "type": "domain",
+    "value": "whoerip.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:whoerip.com",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 138
+    }
+  },
+  {
+    "type": "domain",
+    "value": "whois.pconline.com.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:whois.pconline.com.cn:@cn",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 162
+    }
+  },
+  {
+    "type": "domain",
+    "value": "whoisxmlapi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:whoisxmlapi.com",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 139
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wieistmeineip.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wieistmeineip.de",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 140
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wtfismyip.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wtfismyip.com",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 141
+    }
+  },
+  {
+    "type": "full",
+    "value": "checkip.amazonaws.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:checkip.amazonaws.com",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 144
+    }
+  },
+  {
+    "type": "full",
+    "value": "checkip.dyn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:checkip.dyn.com",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 146
+    }
+  },
+  {
+    "type": "full",
+    "value": "checkip.dyndns.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:checkip.dyndns.org",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 145
+    }
+  },
+  {
+    "type": "full",
+    "value": "ip.comss.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:ip.comss.net",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 147
+    }
+  },
+  {
+    "type": "full",
+    "value": "ipv4-check-perf.radar.cloudflare.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:ipv4-check-perf.radar.cloudflare.com",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 148
+    }
+  },
+  {
+    "type": "full",
+    "value": "ipv6-check-perf.radar.cloudflare.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:ipv6-check-perf.radar.cloudflare.com",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 149
+    }
+  },
+  {
+    "type": "full",
+    "value": "whatismyip.akamai.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:whatismyip.akamai.com",
+    "source": {
+      "list": "CATEGORY-IP-GEO-DETECT",
+      "line": 150
+    }
+  }
+]

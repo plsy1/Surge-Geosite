@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "threads.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:threads.com",
+    "source": {
+      "list": "THREADS",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "threads.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:threads.net",
+    "source": {
+      "list": "THREADS",
+      "line": 2
+    }
+  }
+]

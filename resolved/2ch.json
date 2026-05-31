@@ -1,0 +1,46 @@
+[
+  {
+    "type": "domain",
+    "value": "2ch.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:2ch.hk",
+    "source": {
+      "list": "2CH",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "2ch.life",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:2ch.life",
+    "source": {
+      "list": "2CH",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "2ch.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:2ch.org",
+    "source": {
+      "list": "2CH",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "2ch.su",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:2ch.su",
+    "source": {
+      "list": "2CH",
+      "line": 4
+    }
+  }
+]

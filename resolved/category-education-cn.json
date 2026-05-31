@@ -1,0 +1,1773 @@
+[
+  {
+    "type": "domain",
+    "value": "100tal.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:100tal.com",
+    "source": {
+      "list": "XUEERSI",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "17zuoye.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:17zuoye.cn",
+    "source": {
+      "list": "17ZUOYE",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "17zuoye.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:17zuoye.com",
+    "source": {
+      "list": "17ZUOYE",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "17zuoye.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:17zuoye.net",
+    "source": {
+      "list": "17ZUOYE",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "21cnjy.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:21cnjy.com",
+    "source": {
+      "list": "CATEGORY-EDUCATION-CN",
+      "line": 63
+    }
+  },
+  {
+    "type": "domain",
+    "value": "91yunxiao.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:91yunxiao.com",
+    "source": {
+      "list": "CATEGORY-EDUCATION-CN",
+      "line": 65
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aiyunxiao.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aiyunxiao.com",
+    "source": {
+      "list": "CATEGORY-EDUCATION-CN",
+      "line": 67
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aoshu.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aoshu.com",
+    "source": {
+      "list": "XUEERSI",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "applysquare.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:applysquare.com",
+    "source": {
+      "list": "APPLYSQUARE",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "applysquare.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:applysquare.net",
+    "source": {
+      "list": "APPLYSQUARE",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "baicizhan.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:baicizhan.com",
+    "source": {
+      "list": "CATEGORY-EDUCATION-CN",
+      "line": 72
+    }
+  },
+  {
+    "type": "domain",
+    "value": "baicizhan.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:baicizhan.org",
+    "source": {
+      "list": "CATEGORY-EDUCATION-CN",
+      "line": 73
+    }
+  },
+  {
+    "type": "domain",
+    "value": "banmaaike.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:banmaaike.com",
+    "source": {
+      "list": "YUANFUDAO",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "banxiaoer.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:banxiaoer.com",
+    "source": {
+      "list": "CATEGORY-EDUCATION-CN",
+      "line": 77
+    }
+  },
+  {
+    "type": "domain",
+    "value": "banxiaoer.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:banxiaoer.net",
+    "source": {
+      "list": "CATEGORY-EDUCATION-CN",
+      "line": 78
+    }
+  },
+  {
+    "type": "domain",
+    "value": "baydn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:baydn.com",
+    "source": {
+      "list": "SHANBAY",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bczcdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bczcdn.com",
+    "source": {
+      "list": "CATEGORY-EDUCATION-CN",
+      "line": 74
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bczeducation.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bczeducation.cn",
+    "source": {
+      "list": "CATEGORY-EDUCATION-CN",
+      "line": 75
+    }
+  },
+  {
+    "type": "domain",
+    "value": "biyehome.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:biyehome.net",
+    "source": {
+      "list": "CATEGORY-EDUCATION-CN",
+      "line": 80
+    }
+  },
+  {
+    "type": "domain",
+    "value": "burningvocabulary.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:burningvocabulary.cn",
+    "source": {
+      "list": "CATEGORY-EDUCATION-CN",
+      "line": 82
+    }
+  },
+  {
+    "type": "domain",
+    "value": "burningvocabulary.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:burningvocabulary.com",
+    "source": {
+      "list": "CATEGORY-EDUCATION-CN",
+      "line": 83
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cbern.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cbern.com.cn",
+    "source": {
+      "list": "CATEGORY-EDUCATION-CN",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cctalk.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cctalk.com",
+    "source": {
+      "list": "HUJIANG",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cedf.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cedf.cn",
+    "source": {
+      "list": "CATEGORY-EDUCATION-CN",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cedf.org.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cedf.org.cn",
+    "source": {
+      "list": "CATEGORY-EDUCATION-CN",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "centuryenglish.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:centuryenglish.com",
+    "source": {
+      "list": "CATEGORY-EDUCATION-CN",
+      "line": 85
+    }
+  },
+  {
+    "type": "domain",
+    "value": "chdi.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:chdi.com.cn",
+    "source": {
+      "list": "CATEGORY-EDUCATION-CN",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "chei.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:chei.com.cn",
+    "source": {
+      "list": "CATEGORY-EDUCATION-CN",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "chesicc.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:chesicc.cn",
+    "source": {
+      "list": "CATEGORY-EDUCATION-CN",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "chesicc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:chesicc.com",
+    "source": {
+      "list": "CATEGORY-EDUCATION-CN",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "chesicc.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:chesicc.com.cn",
+    "source": {
+      "list": "CATEGORY-EDUCATION-CN",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "chesicc.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:chesicc.net",
+    "source": {
+      "list": "CATEGORY-EDUCATION-CN",
+      "line": 37
+    }
+  },
+  {
+    "type": "domain",
+    "value": "chesicc.net.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:chesicc.net.cn",
+    "source": {
+      "list": "CATEGORY-EDUCATION-CN",
+      "line": 38
+    }
+  },
+  {
+    "type": "domain",
+    "value": "chesicc.org.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:chesicc.org.cn",
+    "source": {
+      "list": "CATEGORY-EDUCATION-CN",
+      "line": 39
+    }
+  },
+  {
+    "type": "domain",
+    "value": "chinayz.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:chinayz.com.cn",
+    "source": {
+      "list": "CATEGORY-EDUCATION-CN",
+      "line": 40
+    }
+  },
+  {
+    "type": "domain",
+    "value": "chinesemooc.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:chinesemooc.org",
+    "source": {
+      "list": "CATEGORY-MOOC-CN",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "chsi.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:chsi.cn",
+    "source": {
+      "list": "CATEGORY-EDUCATION-CN",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "chsi.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:chsi.com.cn",
+    "source": {
+      "list": "CATEGORY-EDUCATION-CN",
+      "line": 42
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cnmooc.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cnmooc.org",
+    "source": {
+      "list": "CATEGORY-MOOC-CN",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cugbonline.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cugbonline.cn",
+    "source": {
+      "list": "CATEGORY-EDUCATION-CN",
+      "line": 87
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dearedu.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dearedu.com",
+    "source": {
+      "list": "CATEGORY-EDUCATION-CN",
+      "line": 89
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dgjy.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dgjy.net",
+    "source": {
+      "list": "CATEGORY-EDUCATION-CN",
+      "line": 91
+    }
+  },
+  {
+    "type": "domain",
+    "value": "edu.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:edu.cn",
+    "source": {
+      "list": "CATEGORY-EDUCATION-CN",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "eduei.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:eduei.com",
+    "source": {
+      "list": "CATEGORY-EDUCATION-CN",
+      "line": 93
+    }
+  },
+  {
+    "type": "domain",
+    "value": "eduu.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:eduu.com",
+    "source": {
+      "list": "XUEERSI",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "eduuu.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:eduuu.com",
+    "source": {
+      "list": "XUEERSI",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "eoffcn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:eoffcn.com",
+    "source": {
+      "list": "CATEGORY-EDUCATION-CN",
+      "line": 95
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fbstatic.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fbstatic.cn",
+    "source": {
+      "list": "YUANFUDAO",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fenbi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fenbi.com",
+    "source": {
+      "list": "YUANFUDAO",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fenbike.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fenbike.cn",
+    "source": {
+      "list": "YUANFUDAO",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fenbike.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fenbike.com",
+    "source": {
+      "list": "YUANFUDAO",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fenbilantian.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fenbilantian.cn",
+    "source": {
+      "list": "YUANFUDAO",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fenbilantian.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fenbilantian.com",
+    "source": {
+      "list": "YUANFUDAO",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gaokao.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gaokao.com",
+    "source": {
+      "list": "XUEERSI",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gatzs.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gatzs.com.cn",
+    "source": {
+      "list": "CATEGORY-EDUCATION-CN",
+      "line": 43
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gfbzb.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gfbzb.cn",
+    "source": {
+      "list": "CATEGORY-EDUCATION-CN",
+      "line": 44
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gfbzb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gfbzb.com",
+    "source": {
+      "list": "CATEGORY-EDUCATION-CN",
+      "line": 45
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gfbzb.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gfbzb.com.cn",
+    "source": {
+      "list": "CATEGORY-EDUCATION-CN",
+      "line": 46
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gfbzb.gov.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gfbzb.gov.cn",
+    "source": {
+      "list": "CATEGORY-EDUCATION-CN",
+      "line": 47
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gfbzb.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gfbzb.net",
+    "source": {
+      "list": "CATEGORY-EDUCATION-CN",
+      "line": 48
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gk100.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gk100.com",
+    "source": {
+      "list": "CATEGORY-EDUCATION-CN",
+      "line": 102
+    }
+  },
+  {
+    "type": "domain",
+    "value": "haofenshu.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:haofenshu.com",
+    "source": {
+      "list": "CATEGORY-EDUCATION-CN",
+      "line": 68
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hjapi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hjapi.com",
+    "source": {
+      "list": "HUJIANG",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hjfile.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hjfile.cn",
+    "source": {
+      "list": "HUJIANG",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "huatu.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:huatu.com",
+    "source": {
+      "list": "CATEGORY-EDUCATION-CN",
+      "line": 104
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hugecore.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hugecore.net",
+    "source": {
+      "list": "HUGECORE",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hujiang.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hujiang.com",
+    "source": {
+      "list": "HUJIANG",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icourse163.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icourse163.org",
+    "source": {
+      "list": "CATEGORY-MOOC-CN",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icourses.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icourses.cn",
+    "source": {
+      "list": "CATEGORY-MOOC-CN",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ictbda.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ictbda.cn",
+    "source": {
+      "list": "CATEGORY-EDUCATION-CN",
+      "line": 107
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ictbda.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ictbda.com",
+    "source": {
+      "list": "CATEGORY-EDUCATION-CN",
+      "line": 108
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icve.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icve.com.cn",
+    "source": {
+      "list": "CATEGORY-MOOC-CN",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "iyunxiao.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:iyunxiao.com",
+    "source": {
+      "list": "CATEGORY-EDUCATION-CN",
+      "line": 69
+    }
+  },
+  {
+    "type": "domain",
+    "value": "j-test.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:j-test.com",
+    "source": {
+      "list": "CATEGORY-EDUCATION-CN",
+      "line": 112
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jinrongren.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jinrongren.net",
+    "source": {
+      "list": "CATEGORY-EDUCATION-CN",
+      "line": 96
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jyeoo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jyeoo.com",
+    "source": {
+      "list": "CATEGORY-EDUCATION-CN",
+      "line": 115
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jyeoo.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jyeoo.net",
+    "source": {
+      "list": "CATEGORY-EDUCATION-CN",
+      "line": 116
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jzagile.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jzagile.com",
+    "source": {
+      "list": "CATEGORY-EDUCATION-CN",
+      "line": 118
+    }
+  },
+  {
+    "type": "domain",
+    "value": "keboyunxiao.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:keboyunxiao.com",
+    "source": {
+      "list": "CATEGORY-EDUCATION-CN",
+      "line": 120
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ketangpai.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ketangpai.com",
+    "source": {
+      "list": "CATEGORY-EDUCATION-CN",
+      "line": 122
+    }
+  },
+  {
+    "type": "domain",
+    "value": "koocdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:koocdn.com",
+    "source": {
+      "list": "KOOLEARN",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "koolearn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:koolearn.com",
+    "source": {
+      "list": "KOOLEARN",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "koopass.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:koopass.com",
+    "source": {
+      "list": "KOOLEARN",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kuaiduizuoye.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kuaiduizuoye.com",
+    "source": {
+      "list": "CATEGORY-EDUCATION-CN",
+      "line": 124
+    }
+  },
+  {
+    "type": "domain",
+    "value": "liulishuo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:liulishuo.com",
+    "source": {
+      "list": "CATEGORY-EDUCATION-CN",
+      "line": 126
+    }
+  },
+  {
+    "type": "domain",
+    "value": "llsapp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:llsapp.com",
+    "source": {
+      "list": "CATEGORY-EDUCATION-CN",
+      "line": 127
+    }
+  },
+  {
+    "type": "domain",
+    "value": "llscdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:llscdn.com",
+    "source": {
+      "list": "CATEGORY-EDUCATION-CN",
+      "line": 128
+    }
+  },
+  {
+    "type": "domain",
+    "value": "llsserver.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:llsserver.com",
+    "source": {
+      "list": "CATEGORY-EDUCATION-CN",
+      "line": 129
+    }
+  },
+  {
+    "type": "domain",
+    "value": "magedu.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:magedu.com",
+    "source": {
+      "list": "CATEGORY-EDUCATION-CN",
+      "line": 131
+    }
+  },
+  {
+    "type": "domain",
+    "value": "maimemo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:maimemo.com",
+    "source": {
+      "list": "CATEGORY-EDUCATION-CN",
+      "line": 133
+    }
+  },
+  {
+    "type": "domain",
+    "value": "maimemostatus.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:maimemostatus.com",
+    "source": {
+      "list": "CATEGORY-EDUCATION-CN",
+      "line": 134
+    }
+  },
+  {
+    "type": "domain",
+    "value": "markji.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:markji.com",
+    "source": {
+      "list": "CATEGORY-EDUCATION-CN",
+      "line": 136
+    }
+  },
+  {
+    "type": "domain",
+    "value": "modex.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:modex.com.cn",
+    "source": {
+      "list": "CATEGORY-EDUCATION-CN",
+      "line": 109
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mojidict.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mojidict.com",
+    "source": {
+      "list": "HUGECORE",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mooc.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mooc.cn",
+    "source": {
+      "list": "CATEGORY-MOOC-CN",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nattest-china.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nattest-china.com",
+    "source": {
+      "list": "CATEGORY-EDUCATION-CN",
+      "line": 113
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ncss.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ncss.cn",
+    "source": {
+      "list": "CATEGORY-EDUCATION-CN",
+      "line": 49
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ncss.org.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ncss.org.cn",
+    "source": {
+      "list": "CATEGORY-EDUCATION-CN",
+      "line": 50
+    }
+  },
+  {
+    "type": "domain",
+    "value": "neea.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:neea.cn",
+    "source": {
+      "list": "CATEGORY-EDUCATION-CN",
+      "line": 59
+    }
+  },
+  {
+    "type": "domain",
+    "value": "neoscholar.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:neoscholar.com",
+    "source": {
+      "list": "CATEGORY-EDUCATION-CN",
+      "line": 138
+    }
+  },
+  {
+    "type": "domain",
+    "value": "neoschool.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:neoschool.com",
+    "source": {
+      "list": "CATEGORY-EDUCATION-CN",
+      "line": 139
+    }
+  },
+  {
+    "type": "domain",
+    "value": "offcn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:offcn.com",
+    "source": {
+      "list": "CATEGORY-EDUCATION-CN",
+      "line": 97
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oldboyedu.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oldboyedu.com",
+    "source": {
+      "list": "CATEGORY-EDUCATION-CN",
+      "line": 141
+    }
+  },
+  {
+    "type": "domain",
+    "value": "openlearning.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:openlearning.com",
+    "source": {
+      "list": "CATEGORY-MOOC-CN",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pigai.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pigai.org",
+    "source": {
+      "list": "CATEGORY-EDUCATION-CN",
+      "line": 143
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pmphmooc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pmphmooc.com",
+    "source": {
+      "list": "CATEGORY-MOOC-CN",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qgzb.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qgzb.com.cn",
+    "source": {
+      "list": "CATEGORY-EDUCATION-CN",
+      "line": 51
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qgzb.gov.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qgzb.gov.cn",
+    "source": {
+      "list": "CATEGORY-EDUCATION-CN",
+      "line": 52
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qgzb.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qgzb.net",
+    "source": {
+      "list": "CATEGORY-EDUCATION-CN",
+      "line": 53
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rainclassroom.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rainclassroom.com",
+    "source": {
+      "list": "YUKETANG",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "saduck.top",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:saduck.top",
+    "source": {
+      "list": "CATEGORY-EDUCATION-CN",
+      "line": 145
+    }
+  },
+  {
+    "type": "domain",
+    "value": "schoopia.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:schoopia.com",
+    "source": {
+      "list": "SCHOOPIA",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "shanbay.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:shanbay.com",
+    "source": {
+      "list": "SHANBAY",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "shareintelli.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:shareintelli.com",
+    "source": {
+      "list": "HUGECORE",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "smartedu.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:smartedu.cn",
+    "source": {
+      "list": "CATEGORY-EDUCATION-CN",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "speiyou.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:speiyou.com",
+    "source": {
+      "list": "XUEERSI",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sydw8.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sydw8.com",
+    "source": {
+      "list": "CATEGORY-EDUCATION-CN",
+      "line": 105
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tal.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tal.com",
+    "source": {
+      "list": "XUEERSI",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tongxuepie.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tongxuepie.com",
+    "source": {
+      "list": "SCHOOPIA",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "unipus.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:unipus.cn",
+    "source": {
+      "list": "CATEGORY-EDUCATION-CN",
+      "line": 147
+    }
+  },
+  {
+    "type": "domain",
+    "value": "weilaiyunxiao.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:weilaiyunxiao.com",
+    "source": {
+      "list": "CATEGORY-EDUCATION-CN",
+      "line": 149
+    }
+  },
+  {
+    "type": "domain",
+    "value": "winyoungreading.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:winyoungreading.com",
+    "source": {
+      "list": "CATEGORY-EDUCATION-CN",
+      "line": 151
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wjwai.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wjwai.com",
+    "source": {
+      "list": "CATEGORY-EDUCATION-CN",
+      "line": 153
+    }
+  },
+  {
+    "type": "domain",
+    "value": "x-cloud.cc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:x-cloud.cc",
+    "source": {
+      "list": "CATEGORY-EDUCATION-CN",
+      "line": 156
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xesimg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xesimg.com",
+    "source": {
+      "list": "XUEERSI",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xiaoyuankousuan.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xiaoyuankousuan.com",
+    "source": {
+      "list": "YUANFUDAO",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xiguacity.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xiguacity.cn",
+    "source": {
+      "list": "CATEGORY-EDUCATION-CN",
+      "line": 158
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xir.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xir.cn",
+    "source": {
+      "list": "CATEGORY-EDUCATION-CN",
+      "line": 110
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xiyouyingyu.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xiyouyingyu.com",
+    "source": {
+      "list": "CATEGORY-EDUCATION-CN",
+      "line": 160
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xkw.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xkw.com",
+    "source": {
+      "list": "CATEGORY-EDUCATION-CN",
+      "line": 162
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xueersi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xueersi.com",
+    "source": {
+      "list": "XUEERSI",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xuetangx.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xuetangx.com",
+    "source": {
+      "list": "CATEGORY-EDUCATION-CN",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ybccode.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ybccode.com",
+    "source": {
+      "list": "YUANFUDAO",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yeshj.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yeshj.com",
+    "source": {
+      "list": "HUJIANG",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youjiao.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youjiao.com",
+    "source": {
+      "list": "XUEERSI",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ystbds.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ystbds.com",
+    "source": {
+      "list": "CATEGORY-EDUCATION-CN",
+      "line": 167
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yuanfudao.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yuanfudao.com",
+    "source": {
+      "list": "YUANFUDAO",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yuansouti.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yuansouti.com",
+    "source": {
+      "list": "YUANFUDAO",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yuantiku.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yuantiku.com",
+    "source": {
+      "list": "YUANFUDAO",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yudou.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yudou.cn",
+    "source": {
+      "list": "CATEGORY-EDUCATION-CN",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yuketang.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yuketang.cn",
+    "source": {
+      "list": "YUKETANG",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yunxiao.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yunxiao.com",
+    "source": {
+      "list": "CATEGORY-EDUCATION-CN",
+      "line": 70
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yunzhuxue.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yunzhuxue.com",
+    "source": {
+      "list": "CATEGORY-EDUCATION-CN",
+      "line": 165
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yushiyan.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yushiyan.net",
+    "source": {
+      "list": "CATEGORY-EDUCATION-CN",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zbbm.gov.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zbbm.gov.cn",
+    "source": {
+      "list": "CATEGORY-EDUCATION-CN",
+      "line": 54
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zbbm.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zbbm.net",
+    "source": {
+      "list": "CATEGORY-EDUCATION-CN",
+      "line": 55
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zggqzp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zggqzp.com",
+    "source": {
+      "list": "CATEGORY-EDUCATION-CN",
+      "line": 98
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zgjsks.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zgjsks.com",
+    "source": {
+      "list": "CATEGORY-EDUCATION-CN",
+      "line": 99
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zgsydw.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zgsydw.com",
+    "source": {
+      "list": "CATEGORY-EDUCATION-CN",
+      "line": 100
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zhan.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zhan.com",
+    "source": {
+      "list": "CATEGORY-EDUCATION-CN",
+      "line": 169
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zhihuishu.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zhihuishu.com",
+    "source": {
+      "list": "CATEGORY-EDUCATION-CN",
+      "line": 171
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zhongkao.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zhongkao.com",
+    "source": {
+      "list": "XUEERSI",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zjzs.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zjzs.net",
+    "source": {
+      "list": "CATEGORY-EDUCATION-CN",
+      "line": 173
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zuowen.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zuowen.com",
+    "source": {
+      "list": "XUEERSI",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zuowen8.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zuowen8.com",
+    "source": {
+      "list": "CATEGORY-EDUCATION-CN",
+      "line": 175
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zuowenjun.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zuowenjun.com",
+    "source": {
+      "list": "CATEGORY-EDUCATION-CN",
+      "line": 176
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zuowenku.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zuowenku.net",
+    "source": {
+      "list": "CATEGORY-EDUCATION-CN",
+      "line": 177
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zuowenwang.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zuowenwang.net",
+    "source": {
+      "list": "CATEGORY-EDUCATION-CN",
+      "line": 178
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zxxk.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zxxk.com",
+    "source": {
+      "list": "CATEGORY-EDUCATION-CN",
+      "line": 163
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zysn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zysn.net",
+    "source": {
+      "list": "CATEGORY-EDUCATION-CN",
+      "line": 154
+    }
+  },
+  {
+    "type": "full",
+    "value": "study.163.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:study.163.com",
+    "source": {
+      "list": "CATEGORY-MOOC-CN",
+      "line": 12
+    }
+  }
+]

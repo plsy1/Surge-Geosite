@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "kraken.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kraken.com",
+    "source": {
+      "list": "KRAKEN",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kraken.onl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kraken.onl",
+    "source": {
+      "list": "KRAKEN",
+      "line": 2
+    }
+  }
+]

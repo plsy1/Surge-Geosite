@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "chinaso.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:chinaso.com",
+    "source": {
+      "list": "CHINASO",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pg0.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pg0.cn",
+    "source": {
+      "list": "CHINASO",
+      "line": 2
+    }
+  }
+]

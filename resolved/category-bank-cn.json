@@ -1,0 +1,1443 @@
+[
+  {
+    "type": "domain",
+    "value": "8008205555.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:8008205555.cn",
+    "source": {
+      "list": "CMB",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "8008205555.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:8008205555.com",
+    "source": {
+      "list": "CMB",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "95516.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:95516.com",
+    "source": {
+      "list": "UNIONPAY",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "95516.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:95516.net",
+    "source": {
+      "list": "UNIONPAY",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "95588.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:95588.com",
+    "source": {
+      "list": "ICBC",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "95588.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:95588.com.cn",
+    "source": {
+      "list": "ICBC",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "abchina.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:abchina.com",
+    "source": {
+      "list": "CATEGORY-BANK-CN",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bank-of-china.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bank-of-china.com",
+    "source": {
+      "list": "BOC",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bankcomm.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bankcomm.cn",
+    "source": {
+      "list": "CATEGORY-BANK-CN",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bankcomm.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bankcomm.com",
+    "source": {
+      "list": "CATEGORY-BANK-CN",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bankofbeijing.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bankofbeijing.com.cn",
+    "source": {
+      "list": "CATEGORY-BANK-CN",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bankofchina.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bankofchina.com",
+    "source": {
+      "list": "BOC",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "boc.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:boc.cn",
+    "source": {
+      "list": "BOC",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bocamchina.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bocamchina.com",
+    "source": {
+      "list": "BOC",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bocaviation.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bocaviation.com",
+    "source": {
+      "list": "BOC",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "boccfc.cc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:boccfc.cc",
+    "source": {
+      "list": "BOC",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "boccfc.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:boccfc.cn",
+    "source": {
+      "list": "BOC",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bocfullertonbank.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bocfullertonbank.com",
+    "source": {
+      "list": "BOC",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bocgi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bocgi.com",
+    "source": {
+      "list": "BOC",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bocgins.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bocgins.com",
+    "source": {
+      "list": "BOC",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bocichina.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bocichina.cn",
+    "source": {
+      "list": "BOC",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bocichina.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bocichina.com",
+    "source": {
+      "list": "BOC",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bocichina.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bocichina.com.cn",
+    "source": {
+      "list": "BOC",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bocifunds.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bocifunds.cn",
+    "source": {
+      "list": "BOC",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bocifunds.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bocifunds.com",
+    "source": {
+      "list": "BOC",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bocifunds.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bocifunds.com.cn",
+    "source": {
+      "list": "BOC",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bocigroup.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bocigroup.com",
+    "source": {
+      "list": "BOC",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bocim.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bocim.com",
+    "source": {
+      "list": "BOC",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bocservices.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bocservices.com.cn",
+    "source": {
+      "list": "BOC",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bosc.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bosc.cn",
+    "source": {
+      "list": "CATEGORY-BANK-CN",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bsb.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bsb.com.cn",
+    "source": {
+      "list": "CATEGORY-BANK-CN",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ccb-life.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ccb-life.com.cn",
+    "source": {
+      "list": "CCB",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ccb.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ccb.cn",
+    "source": {
+      "list": "CCB",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ccb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ccb.com",
+    "source": {
+      "list": "CCB",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ccb.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ccb.com.cn",
+    "source": {
+      "list": "CCB",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ccbcos.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ccbcos.com",
+    "source": {
+      "list": "CCB",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ccbfund.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ccbfund.cn",
+    "source": {
+      "list": "CCB",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ccbfund.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ccbfund.com",
+    "source": {
+      "list": "CCB",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ccbfund.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ccbfund.com.cn",
+    "source": {
+      "list": "CCB",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ccbfutures.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ccbfutures.cn",
+    "source": {
+      "list": "CCB",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ccbfutures.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ccbfutures.com",
+    "source": {
+      "list": "CCB",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ccbleasing.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ccbleasing.com",
+    "source": {
+      "list": "CCB",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ccblife-test.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ccblife-test.com.cn",
+    "source": {
+      "list": "CCB",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ccbtrust.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ccbtrust.com.cn",
+    "source": {
+      "list": "CCB",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ccbxt.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ccbxt.com",
+    "source": {
+      "list": "CCB",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cebbank.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cebbank.com",
+    "source": {
+      "list": "CATEGORY-BANK-CN",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cfc108.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cfc108.com",
+    "source": {
+      "list": "CITIC",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cgbchina.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cgbchina.com.cn",
+    "source": {
+      "list": "CATEGORY-BANK-CN",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "chinaamc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:chinaamc.com",
+    "source": {
+      "list": "CITIC",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "chinaunionpay.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:chinaunionpay.com",
+    "source": {
+      "list": "UNIONPAY",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "chinaunionpay.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:chinaunionpay.com.cn",
+    "source": {
+      "list": "UNIONPAY",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "chinaunionpay.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:chinaunionpay.net",
+    "source": {
+      "list": "UNIONPAY",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cib.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cib.com.cn",
+    "source": {
+      "list": "CATEGORY-BANK-CN",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cignacmb-ipmi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cignacmb-ipmi.com",
+    "source": {
+      "list": "CMB",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cignacmb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cignacmb.com",
+    "source": {
+      "list": "CMB",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cignacmbamc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cignacmbamc.com",
+    "source": {
+      "list": "CMB",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "citibank.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:citibank.com.cn",
+    "source": {
+      "list": "CATEGORY-BANK-CN",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "citic",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:citic",
+    "source": {
+      "list": "CITIC",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "citic-prudential.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:citic-prudential.com.cn",
+    "source": {
+      "list": "CITIC",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "citicbank.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:citicbank.com",
+    "source": {
+      "list": "CITIC",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "citiccapital.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:citiccapital.com",
+    "source": {
+      "list": "CITIC",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "citiciam.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:citiciam.com",
+    "source": {
+      "list": "CITIC",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "citicifh.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:citicifh.com",
+    "source": {
+      "list": "CITIC",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "citicprufunds.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:citicprufunds.com.cn",
+    "source": {
+      "list": "CITIC",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "citicsf.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:citicsf.com",
+    "source": {
+      "list": "CITIC",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "clsa.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:clsa.com",
+    "source": {
+      "list": "CITIC",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cmb-leasing.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cmb-leasing.com",
+    "source": {
+      "list": "CMB",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cmbc.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cmbc.com.cn",
+    "source": {
+      "list": "CATEGORY-BANK-CN",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cmbchina.biz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cmbchina.biz",
+    "source": {
+      "list": "CMB",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cmbchina.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cmbchina.cn",
+    "source": {
+      "list": "CMB",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cmbchina.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cmbchina.com",
+    "source": {
+      "list": "CMB",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cmbimg.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cmbimg.cn",
+    "source": {
+      "list": "CMB",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cmbimg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cmbimg.com",
+    "source": {
+      "list": "CMB",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cmbt.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cmbt.cn",
+    "source": {
+      "list": "CMB",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cmbuat.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cmbuat.com",
+    "source": {
+      "list": "CMB",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cmburl.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cmburl.cn",
+    "source": {
+      "list": "CMB",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cmf.biz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cmf.biz",
+    "source": {
+      "list": "CMB",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cmf.ltd",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cmf.ltd",
+    "source": {
+      "list": "CMB",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cmfchina.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cmfchina.com",
+    "source": {
+      "list": "CMB",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cmfunds.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cmfunds.cn",
+    "source": {
+      "list": "CMB",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "csc108.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:csc108.com",
+    "source": {
+      "list": "CITIC",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "csxbank.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:csxbank.com",
+    "source": {
+      "list": "CATEGORY-BANK-CN",
+      "line": 39
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cup.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cup.com.cn",
+    "source": {
+      "list": "UNIONPAY",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cup62.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cup62.cn",
+    "source": {
+      "list": "UNIONPAY",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dccnet.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dccnet.com.cn",
+    "source": {
+      "list": "ICBC",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ecitic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ecitic.com",
+    "source": {
+      "list": "CITIC",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fbank.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fbank.com",
+    "source": {
+      "list": "CATEGORY-BANK-CN",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hsbc.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hsbc.com.cn",
+    "source": {
+      "list": "HSBC-CN",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hsbcinsurance.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hsbcinsurance.com.cn",
+    "source": {
+      "list": "HSBC-CN",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hsbcqh.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hsbcqh.com.cn",
+    "source": {
+      "list": "HSBC-CN",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hxb.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hxb.com.cn",
+    "source": {
+      "list": "CATEGORY-BANK-CN",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icbc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icbc",
+    "source": {
+      "list": "ICBC",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icbc.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icbc.com.cn",
+    "source": {
+      "list": "ICBC",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icbccs.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icbccs.com.cn",
+    "source": {
+      "list": "ICBC",
+      "line": 38
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icbccstz.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icbccstz.com.cn",
+    "source": {
+      "list": "ICBC",
+      "line": 39
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icbcina.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icbcina.com",
+    "source": {
+      "list": "ICBC",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icbcmanila.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icbcmanila.com.cn",
+    "source": {
+      "list": "ICBC",
+      "line": 45
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icbcstandard.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icbcstandard.com",
+    "source": {
+      "list": "ICBC",
+      "line": 53
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icbcstandardbank.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icbcstandardbank.com",
+    "source": {
+      "list": "ICBC",
+      "line": 54
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icbcstandardresources.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icbcstandardresources.com",
+    "source": {
+      "list": "ICBC",
+      "line": 55
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icbcstandardsecurities.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icbcstandardsecurities.com",
+    "source": {
+      "list": "ICBC",
+      "line": 56
+    }
+  },
+  {
+    "type": "domain",
+    "value": "joying.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:joying.com",
+    "source": {
+      "list": "CMB",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kcbebank.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kcbebank.com",
+    "source": {
+      "list": "CATEGORY-BANK-CN",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kshbank.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kshbank.cn",
+    "source": {
+      "list": "CATEGORY-BANK-CN",
+      "line": 57
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ms-bank.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ms-bank.cn",
+    "source": {
+      "list": "CATEGORY-BANK-CN",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mybank.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mybank.cn",
+    "source": {
+      "list": "CATEGORY-BANK-CN",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "newupbank.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:newupbank.com",
+    "source": {
+      "list": "CATEGORY-BANK-CN",
+      "line": 61
+    }
+  },
+  {
+    "type": "domain",
+    "value": "njcb.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:njcb.com.cn",
+    "source": {
+      "list": "CATEGORY-BANK-CN",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "onebank.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:onebank.com.cn",
+    "source": {
+      "list": "CATEGORY-BANK-CN",
+      "line": 51
+    }
+  },
+  {
+    "type": "domain",
+    "value": "psbc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:psbc.com",
+    "source": {
+      "list": "CATEGORY-BANK-CN",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "shrbank.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:shrbank.com",
+    "source": {
+      "list": "CATEGORY-BANK-CN",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "spdb.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:spdb.com.cn",
+    "source": {
+      "list": "CATEGORY-BANK-CN",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "suningbank.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:suningbank.com",
+    "source": {
+      "list": "CATEGORY-BANK-CN",
+      "line": 55
+    }
+  },
+  {
+    "type": "domain",
+    "value": "test-cignacmb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:test-cignacmb.com",
+    "source": {
+      "list": "CMB",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "unionpay.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:unionpay.com",
+    "source": {
+      "list": "UNIONPAY",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "unionpay.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:unionpay.net",
+    "source": {
+      "list": "UNIONPAY",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "unionpayintl.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:unionpayintl.cn",
+    "source": {
+      "list": "UNIONPAY",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "unionpayintl.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:unionpayintl.com",
+    "source": {
+      "list": "UNIONPAY",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "unionpaysecure.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:unionpaysecure.com",
+    "source": {
+      "list": "UNIONPAY",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "webank.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:webank.com",
+    "source": {
+      "list": "CATEGORY-BANK-CN",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "webankcdn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:webankcdn.net",
+    "source": {
+      "list": "CATEGORY-BANK-CN",
+      "line": 37
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wegobank.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wegobank.cn",
+    "source": {
+      "list": "CATEGORY-BANK-CN",
+      "line": 53
+    }
+  },
+  {
+    "type": "domain",
+    "value": "whccb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:whccb.com",
+    "source": {
+      "list": "CATEGORY-BANK-CN",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wxsbank.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wxsbank.com",
+    "source": {
+      "list": "CATEGORY-BANK-CN",
+      "line": 65
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xa-bank.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xa-bank.com",
+    "source": {
+      "list": "CATEGORY-BANK-CN",
+      "line": 59
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--fiq64b",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--fiq64b",
+    "source": {
+      "list": "CITIC",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xwbank.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xwbank.com",
+    "source": {
+      "list": "CATEGORY-BANK-CN",
+      "line": 43
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yillionbank.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yillionbank.com",
+    "source": {
+      "list": "CATEGORY-BANK-CN",
+      "line": 47
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ymbank.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ymbank.com",
+    "source": {
+      "list": "CATEGORY-BANK-CN",
+      "line": 63
+    }
+  },
+  {
+    "type": "domain",
+    "value": "z-bank.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:z-bank.com",
+    "source": {
+      "list": "CATEGORY-BANK-CN",
+      "line": 49
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zgcbank.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zgcbank.com",
+    "source": {
+      "list": "CATEGORY-BANK-CN",
+      "line": 45
+    }
+  }
+]

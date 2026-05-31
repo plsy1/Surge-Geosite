@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "transferwise.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:transferwise.com",
+    "source": {
+      "list": "WISE",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wise.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wise.com",
+    "source": {
+      "list": "WISE",
+      "line": 2
+    }
+  }
+]

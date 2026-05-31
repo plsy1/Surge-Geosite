@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "apipost.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:apipost.cn",
+    "source": {
+      "list": "APIPOST",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "apipost.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:apipost.net",
+    "source": {
+      "list": "APIPOST",
+      "line": 2
+    }
+  }
+]

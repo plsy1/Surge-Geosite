@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "acplay.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:acplay.net",
+    "source": {
+      "list": "ACPLAY",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dandanplay.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dandanplay.com",
+    "source": {
+      "list": "ACPLAY",
+      "line": 2
+    }
+  }
+]

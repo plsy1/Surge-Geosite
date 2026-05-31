@@ -1,0 +1,80 @@
+{
+  "name": "GOOGLE",
+  "source": {
+    "domain": 538,
+    "full": 107,
+    "keyword": 0,
+    "regexp": 0,
+    "include": 19,
+    "affiliations": 0,
+    "attributes": 165
+  },
+  "resolved": {
+    "rules": 961,
+    "domain": 836,
+    "full": 123,
+    "keyword": 0,
+    "regexp": 2
+  },
+  "filters": {
+    "attrs": {
+      "ads": 53,
+      "cn": 125,
+      "!cn": 7
+    }
+  },
+  "modes": {
+    "strict": {
+      "rules": 959,
+      "bytes": 26516,
+      "regex": {
+        "total": 2,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 2
+      },
+      "unsupported": [
+        {
+          "pattern": "^r+[0-9]+(---|\\.)sn-(2x3|ni5|j5o)\\w{5}\\.googlevideo\\.com$",
+          "source": {
+            "list": "GOOGLE-PLAY",
+            "line": 14
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "^r+[0-9]+(---|\\.)sn-(2x3|ni5|j5o)\\w{5}\\.xn--ngstr-lra8j\\.com$",
+          "source": {
+            "list": "GOOGLE-PLAY",
+            "line": 12
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        }
+      ]
+    },
+    "balanced": {
+      "rules": 961,
+      "bytes": 26598,
+      "regex": {
+        "total": 2,
+        "lossless": 0,
+        "widened": 2,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "full": {
+      "rules": 961,
+      "bytes": 26598,
+      "regex": {
+        "total": 2,
+        "lossless": 0,
+        "widened": 2,
+        "unsupported": 0
+      },
+      "unsupported": []
+    }
+  }
+}

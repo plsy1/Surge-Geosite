@@ -1,0 +1,189 @@
+[
+  {
+    "type": "domain",
+    "value": "captive.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:captive.apple.com",
+    "source": {
+      "list": "CONNECTIVITY-CHECK",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "connectivitycheck.gstatic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:connectivitycheck.gstatic.com",
+    "source": {
+      "list": "CONNECTIVITY-CHECK",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cp.cloudflare.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cp.cloudflare.com",
+    "source": {
+      "list": "CONNECTIVITY-CHECK",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "detectportal.firefox.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:detectportal.firefox.com",
+    "source": {
+      "list": "CONNECTIVITY-CHECK",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ipv6check-http.steamserver.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ipv6check-http.steamserver.net",
+    "source": {
+      "list": "CONNECTIVITY-CHECK",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ipv6check-udp.steamserver.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ipv6check-udp.steamserver.net",
+    "source": {
+      "list": "CONNECTIVITY-CHECK",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "msftconnecttest.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:msftconnecttest.com",
+    "source": {
+      "list": "CONNECTIVITY-CHECK",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "msftncsi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:msftncsi.com",
+    "source": {
+      "list": "CONNECTIVITY-CHECK",
+      "line": 42
+    }
+  },
+  {
+    "type": "domain",
+    "value": "network-test.debian.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:network-test.debian.org",
+    "source": {
+      "list": "CONNECTIVITY-CHECK",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "networkcheck.kde.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:networkcheck.kde.org",
+    "source": {
+      "list": "CONNECTIVITY-CHECK",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "test.steampowered.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:test.steampowered.com",
+    "source": {
+      "list": "CONNECTIVITY-CHECK",
+      "line": 35
+    }
+  },
+  {
+    "type": "full",
+    "value": "connect.rom.miui.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:connect.rom.miui.com",
+    "source": {
+      "list": "CONNECTIVITY-CHECK",
+      "line": 30
+    }
+  },
+  {
+    "type": "full",
+    "value": "connectivity-check.ubuntu.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:connectivity-check.ubuntu.com",
+    "source": {
+      "list": "CONNECTIVITY-CHECK",
+      "line": 38
+    }
+  },
+  {
+    "type": "full",
+    "value": "connectivitycheck.platform.hicloud.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:connectivitycheck.platform.hicloud.com",
+    "source": {
+      "list": "CONNECTIVITY-CHECK",
+      "line": 24
+    }
+  },
+  {
+    "type": "full",
+    "value": "connectivitycheck.platform.hihonorcloud.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:connectivitycheck.platform.hihonorcloud.com",
+    "source": {
+      "list": "CONNECTIVITY-CHECK",
+      "line": 21
+    }
+  },
+  {
+    "type": "full",
+    "value": "ping.archlinux.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:ping.archlinux.org",
+    "source": {
+      "list": "CONNECTIVITY-CHECK",
+      "line": 5
+    }
+  },
+  {
+    "type": "full",
+    "value": "redirect.archlinux.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:redirect.archlinux.org",
+    "source": {
+      "list": "CONNECTIVITY-CHECK",
+      "line": 6
+    }
+  }
+]

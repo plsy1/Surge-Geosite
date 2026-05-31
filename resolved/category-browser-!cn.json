@@ -1,0 +1,321 @@
+[
+  {
+    "type": "domain",
+    "value": "basilisk-browser.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:basilisk-browser.org",
+    "source": {
+      "list": "CATEGORY-BROWSER-!CN",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "brave.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:brave.com",
+    "source": {
+      "list": "CATEGORY-BROWSER-!CN",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bromite.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bromite.org",
+    "source": {
+      "list": "CATEGORY-BROWSER-!CN",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "browser.kagi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:browser.kagi.com",
+    "source": {
+      "list": "CATEGORY-BROWSER-!CN",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "censorship.no",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:censorship.no",
+    "source": {
+      "list": "CENO",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "chrome",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:chrome",
+    "source": {
+      "list": "CATEGORY-BROWSER-!CN",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "chrome.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:chrome.com",
+    "source": {
+      "list": "CATEGORY-BROWSER-!CN",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "chromium.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:chromium.org",
+    "source": {
+      "list": "CATEGORY-BROWSER-!CN",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cromite.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cromite.org",
+    "source": {
+      "list": "CATEGORY-BROWSER-!CN",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "decentr.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:decentr.net",
+    "source": {
+      "list": "CATEGORY-BROWSER-!CN",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dothq.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dothq.org",
+    "source": {
+      "list": "CATEGORY-BROWSER-!CN",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "epicbrowser.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:epicbrowser.com",
+    "source": {
+      "list": "EPICBROWSER",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "firefox.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:firefox.com",
+    "source": {
+      "list": "FIREFOX",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "firefoxusercontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:firefoxusercontent.com",
+    "source": {
+      "list": "FIREFOX",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "floorp.app",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:floorp.app",
+    "source": {
+      "list": "CATEGORY-BROWSER-!CN",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "iridiumbrowser.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:iridiumbrowser.de",
+    "source": {
+      "list": "CATEGORY-BROWSER-!CN",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kiwibrowser.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kiwibrowser.com",
+    "source": {
+      "list": "CATEGORY-BROWSER-!CN",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kmeleonbrowser.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kmeleonbrowser.org",
+    "source": {
+      "list": "CATEGORY-BROWSER-!CN",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "librewolf.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:librewolf.net",
+    "source": {
+      "list": "CATEGORY-BROWSER-!CN",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "minbrowser.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:minbrowser.org",
+    "source": {
+      "list": "CATEGORY-BROWSER-!CN",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "netsurf-browser.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:netsurf-browser.org",
+    "source": {
+      "list": "CATEGORY-BROWSER-!CN",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "opera.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:opera.com",
+    "source": {
+      "list": "CATEGORY-BROWSER-!CN",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "palemoon.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:palemoon.org",
+    "source": {
+      "list": "CATEGORY-BROWSER-!CN",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pulsebrowser.app",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pulsebrowser.app",
+    "source": {
+      "list": "CATEGORY-BROWSER-!CN",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qutebrowser.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qutebrowser.org",
+    "source": {
+      "list": "CATEGORY-BROWSER-!CN",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "torproject.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:torproject.org",
+    "source": {
+      "list": "TORPROJECT",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vivaldi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vivaldi.com",
+    "source": {
+      "list": "CATEGORY-BROWSER-!CN",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "waterfox.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:waterfox.net",
+    "source": {
+      "list": "CATEGORY-BROWSER-!CN",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zen-browser.app",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zen-browser.app",
+    "source": {
+      "list": "CATEGORY-BROWSER-!CN",
+      "line": 31
+    }
+  }
+]

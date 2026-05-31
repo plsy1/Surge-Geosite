@@ -1,0 +1,60 @@
+{
+  "name": "BING",
+  "source": {
+    "domain": 35,
+    "full": 3,
+    "keyword": 0,
+    "regexp": 0,
+    "include": 0,
+    "affiliations": 0,
+    "attributes": 10
+  },
+  "resolved": {
+    "rules": 38,
+    "domain": 35,
+    "full": 3,
+    "keyword": 0,
+    "regexp": 0
+  },
+  "filters": {
+    "attrs": {
+      "cn": 9,
+      "ads": 1
+    }
+  },
+  "modes": {
+    "strict": {
+      "rules": 38,
+      "bytes": 1175,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "balanced": {
+      "rules": 38,
+      "bytes": 1175,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "full": {
+      "rules": 38,
+      "bytes": 1175,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    }
+  }
+}

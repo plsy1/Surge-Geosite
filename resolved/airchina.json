@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "airchina.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airchina.com.cn",
+    "source": {
+      "list": "AIRCHINA",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airchinacargo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airchinacargo.com",
+    "source": {
+      "list": "AIRCHINA",
+      "line": 2
+    }
+  }
+]

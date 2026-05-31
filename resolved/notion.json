@@ -1,0 +1,68 @@
+[
+  {
+    "type": "domain",
+    "value": "notion-static.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:notion-static.com",
+    "source": {
+      "list": "NOTION",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "notion.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:notion.com",
+    "source": {
+      "list": "NOTION",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "notion.new",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:notion.new",
+    "source": {
+      "list": "NOTION",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "notion.site",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:notion.site",
+    "source": {
+      "list": "NOTION",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "notion.so",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:notion.so",
+    "source": {
+      "list": "NOTION",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "notionusercontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:notionusercontent.com",
+    "source": {
+      "list": "NOTION",
+      "line": 8
+    }
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "type": "domain",
+    "value": "cd120.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cd120.com",
+    "source": {
+      "list": "CATEGORY-HOSPITAL-CN",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fuwai.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fuwai.com",
+    "source": {
+      "list": "CATEGORY-HOSPITAL-CN",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pkuh6.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pkuh6.cn",
+    "source": {
+      "list": "CATEGORY-HOSPITAL-CN",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "puh3.net.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:puh3.net.cn",
+    "source": {
+      "list": "CATEGORY-HOSPITAL-CN",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "smuszh.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:smuszh.com",
+    "source": {
+      "list": "CATEGORY-HOSPITAL-CN",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yctdyy.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yctdyy.com",
+    "source": {
+      "list": "CATEGORY-HOSPITAL-CN",
+      "line": 9
+    }
+  },
+  {
+    "type": "full",
+    "value": "hospital.pku.edu.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:hospital.pku.edu.cn",
+    "source": {
+      "list": "CATEGORY-HOSPITAL-CN",
+      "line": 5
+    }
+  },
+  {
+    "type": "full",
+    "value": "ss.bjmu.edu.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:ss.bjmu.edu.cn",
+    "source": {
+      "list": "CATEGORY-HOSPITAL-CN",
+      "line": 6
+    }
+  }
+]

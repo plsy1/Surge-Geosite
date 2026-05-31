@@ -1,0 +1,57 @@
+[
+  {
+    "type": "domain",
+    "value": "chinanews.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:chinanews.com",
+    "source": {
+      "list": "CHINANEWS",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "chinanews.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:chinanews.com.cn",
+    "source": {
+      "list": "CHINANEWS",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cns.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cns.com.cn",
+    "source": {
+      "list": "CHINANEWS",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ecns.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ecns.cn",
+    "source": {
+      "list": "CHINANEWS",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "inewsweek.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:inewsweek.cn",
+    "source": {
+      "list": "CHINANEWS",
+      "line": 5
+    }
+  }
+]

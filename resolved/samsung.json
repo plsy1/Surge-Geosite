@@ -1,0 +1,259 @@
+[
+  {
+    "type": "domain",
+    "value": "galaxyappstore.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:galaxyappstore.com",
+    "source": {
+      "list": "SAMSUNG",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "galaxymobile.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:galaxymobile.jp",
+    "source": {
+      "list": "SAMSUNG",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "game-platform.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:game-platform.net",
+    "source": {
+      "list": "SAMSUNG",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "knoxemm.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:knoxemm.com",
+    "source": {
+      "list": "SAMSUNG",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ospserver.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ospserver.net",
+    "source": {
+      "list": "SAMSUNG",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "samsung",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:samsung",
+    "source": {
+      "list": "SAMSUNG",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "samsung.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:samsung.com",
+    "source": {
+      "list": "SAMSUNG",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "samsungads.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:samsungads.com:@ads",
+    "source": {
+      "list": "SAMSUNG",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "samsungapps.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:samsungapps.com",
+    "source": {
+      "list": "SAMSUNG",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "samsungcloud.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:samsungcloud.com",
+    "source": {
+      "list": "SAMSUNG",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "samsungconsent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:samsungconsent.com",
+    "source": {
+      "list": "SAMSUNG",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "samsungdm.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:samsungdm.com",
+    "source": {
+      "list": "SAMSUNG",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "samsungeshop.com.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:samsungeshop.com.cn:@cn",
+    "source": {
+      "list": "SAMSUNG",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "samsunggalaxyfriends.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:samsunggalaxyfriends.com",
+    "source": {
+      "list": "SAMSUNG",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "samsunghealth.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:samsunghealth.com",
+    "source": {
+      "list": "SAMSUNG",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "samsungiotcloud.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:samsungiotcloud.com",
+    "source": {
+      "list": "SAMSUNG",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "samsungiots.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:samsungiots.com",
+    "source": {
+      "list": "SAMSUNG",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "samsungknox.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:samsungknox.com",
+    "source": {
+      "list": "SAMSUNG",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "samsungosp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:samsungosp.com",
+    "source": {
+      "list": "SAMSUNG",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "samsungqbe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:samsungqbe.com",
+    "source": {
+      "list": "SAMSUNG",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "samsungrs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:samsungrs.com",
+    "source": {
+      "list": "SAMSUNG",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "smartthings.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:smartthings.com",
+    "source": {
+      "list": "SAMSUNG",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--cg4bki",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--cg4bki",
+    "source": {
+      "list": "SAMSUNG",
+      "line": 5
+    }
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "type": "domain",
+    "value": "githubcopilot.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:githubcopilot.com",
+    "source": {
+      "list": "GITHUB-COPILOT",
+      "line": 1
+    }
+  },
+  {
+    "type": "full",
+    "value": "copilot-proxy.githubusercontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:copilot-proxy.githubusercontent.com",
+    "source": {
+      "list": "GITHUB-COPILOT",
+      "line": 3
+    }
+  },
+  {
+    "type": "full",
+    "value": "copilot-telemetry-service.githubusercontent.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:copilot-telemetry-service.githubusercontent.com:@ads",
+    "source": {
+      "list": "GITHUB-COPILOT",
+      "line": 10
+    }
+  },
+  {
+    "type": "full",
+    "value": "copilot-telemetry.githubusercontent.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:copilot-telemetry.githubusercontent.com:@ads",
+    "source": {
+      "list": "GITHUB-COPILOT",
+      "line": 11
+    }
+  },
+  {
+    "type": "full",
+    "value": "copilot-workspace.githubnext.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:copilot-workspace.githubnext.com",
+    "source": {
+      "list": "GITHUB-COPILOT",
+      "line": 4
+    }
+  },
+  {
+    "type": "full",
+    "value": "copilotprodattachments.blob.core.windows.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:copilotprodattachments.blob.core.windows.net",
+    "source": {
+      "list": "GITHUB-COPILOT",
+      "line": 7
+    }
+  }
+]

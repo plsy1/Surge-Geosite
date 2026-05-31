@@ -1,0 +1,68 @@
+[
+  {
+    "type": "domain",
+    "value": "rockstargames.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rockstargames.com",
+    "source": {
+      "list": "ROCKSTAR",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rockstarnorth.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rockstarnorth.com",
+    "source": {
+      "list": "ROCKSTAR",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rsg.sc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rsg.sc",
+    "source": {
+      "list": "ROCKSTAR",
+      "line": 3
+    }
+  },
+  {
+    "type": "full",
+    "value": "gamedownloads-rockstargames-com.akamaized.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:gamedownloads-rockstargames-com.akamaized.net",
+    "source": {
+      "list": "ROCKSTAR",
+      "line": 5
+    }
+  },
+  {
+    "type": "full",
+    "value": "media-rockstargames-com.akamaized.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:media-rockstargames-com.akamaized.net",
+    "source": {
+      "list": "ROCKSTAR",
+      "line": 6
+    }
+  },
+  {
+    "type": "full",
+    "value": "videos-rockstargames-com.akamaized.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:videos-rockstargames-com.akamaized.net",
+    "source": {
+      "list": "ROCKSTAR",
+      "line": 7
+    }
+  }
+]

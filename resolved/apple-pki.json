@@ -1,0 +1,132 @@
+[
+  {
+    "type": "full",
+    "value": "certs-lb.apple.com.akadns.net",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:certs-lb.apple.com.akadns.net:@cn",
+    "source": {
+      "list": "APPLE-PKI",
+      "line": 1
+    }
+  },
+  {
+    "type": "full",
+    "value": "certs.apple.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:certs.apple.com:@cn",
+    "source": {
+      "list": "APPLE-PKI",
+      "line": 2
+    }
+  },
+  {
+    "type": "full",
+    "value": "crl-lb.apple.com.akadns.net",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:crl-lb.apple.com.akadns.net:@cn",
+    "source": {
+      "list": "APPLE-PKI",
+      "line": 3
+    }
+  },
+  {
+    "type": "full",
+    "value": "crl.apple.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:crl.apple.com:@cn",
+    "source": {
+      "list": "APPLE-PKI",
+      "line": 4
+    }
+  },
+  {
+    "type": "full",
+    "value": "ocsp-lb.apple.com.akadns.net",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:ocsp-lb.apple.com.akadns.net:@cn",
+    "source": {
+      "list": "APPLE-PKI",
+      "line": 5
+    }
+  },
+  {
+    "type": "full",
+    "value": "ocsp.apple.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:ocsp.apple.com:@cn",
+    "source": {
+      "list": "APPLE-PKI",
+      "line": 6
+    }
+  },
+  {
+    "type": "full",
+    "value": "ocsp2-lb.apple.com.akadns.net",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:ocsp2-lb.apple.com.akadns.net:@cn",
+    "source": {
+      "list": "APPLE-PKI",
+      "line": 7
+    }
+  },
+  {
+    "type": "full",
+    "value": "ocsp2.apple.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:ocsp2.apple.com:@cn",
+    "source": {
+      "list": "APPLE-PKI",
+      "line": 8
+    }
+  },
+  {
+    "type": "full",
+    "value": "valid.apple.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:valid.apple.com:@cn",
+    "source": {
+      "list": "APPLE-PKI",
+      "line": 9
+    }
+  },
+  {
+    "type": "full",
+    "value": "valid.origin-apple.com.akadns.net",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:valid.origin-apple.com.akadns.net:@cn",
+    "source": {
+      "list": "APPLE-PKI",
+      "line": 10
+    }
+  }
+]

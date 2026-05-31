@@ -1,0 +1,6712 @@
+[
+  {
+    "type": "domain",
+    "value": "17roco.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:17roco.com",
+    "source": {
+      "list": "TENCENT-GAMES",
+      "line": 106
+    }
+  },
+  {
+    "type": "domain",
+    "value": "acctdns.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:acctdns.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "acctdns.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:acctdns.net",
+    "source": {
+      "list": "QCLOUD",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "acimg.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:acimg.cn",
+    "source": {
+      "list": "TENCENT",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ad.browser.qq.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:ad.browser.qq.com:@ads",
+    "source": {
+      "list": "TENCENT",
+      "line": 95
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ad.qq.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:ad.qq.com:@ads",
+    "source": {
+      "list": "TENCENT",
+      "line": 96
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ad.qun.qq.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:ad.qun.qq.com:@ads",
+    "source": {
+      "list": "TENCENT",
+      "line": 97
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ad.tencentmusic.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:ad.tencentmusic.com:@ads",
+    "source": {
+      "list": "TENCENT",
+      "line": 98
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ad.weixin.qq.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:ad.weixin.qq.com:@ads",
+    "source": {
+      "list": "TENCENT",
+      "line": 99
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adfilter.imtt.qq.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:adfilter.imtt.qq.com:@ads",
+    "source": {
+      "list": "TENCENT",
+      "line": 100
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adnet.qq.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:adnet.qq.com:@ads",
+    "source": {
+      "list": "TENCENT",
+      "line": 101
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adping.qq.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:adping.qq.com:@ads",
+    "source": {
+      "list": "TENCENT",
+      "line": 102
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adpm.app.qq.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:adpm.app.qq.com:@ads",
+    "source": {
+      "list": "TENCENT",
+      "line": 103
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adsclick.qq.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:adsclick.qq.com:@ads",
+    "source": {
+      "list": "TENCENT",
+      "line": 104
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adsfile.qq.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:adsfile.qq.com:@ads",
+    "source": {
+      "list": "TENCENT",
+      "line": 105
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adshmmsg.qq.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:adshmmsg.qq.com:@ads",
+    "source": {
+      "list": "TENCENT",
+      "line": 106
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adslvfile.qq.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:adslvfile.qq.com:@ads",
+    "source": {
+      "list": "TENCENT",
+      "line": 107
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adslvseed.qq.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:adslvseed.qq.com:@ads",
+    "source": {
+      "list": "TENCENT",
+      "line": 108
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adsmind.apdcdn.tc.qq.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:adsmind.apdcdn.tc.qq.com:@ads",
+    "source": {
+      "list": "TENCENT",
+      "line": 109
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adsqqclick.qq.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:adsqqclick.qq.com:@ads",
+    "source": {
+      "list": "TENCENT",
+      "line": 110
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adstats.tencentmusic.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:adstats.tencentmusic.com:@ads",
+    "source": {
+      "list": "TENCENT",
+      "line": 111
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adstestview.qq.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:adstestview.qq.com:@ads",
+    "source": {
+      "list": "TENCENT",
+      "line": 112
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adsview.qq.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:adsview.qq.com:@ads",
+    "source": {
+      "list": "TENCENT",
+      "line": 113
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adsview2.qq.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:adsview2.qq.com:@ads",
+    "source": {
+      "list": "TENCENT",
+      "line": 114
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adv.app.qq.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:adv.app.qq.com:@ads",
+    "source": {
+      "list": "TENCENT",
+      "line": 115
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adver.qq.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:adver.qq.com:@ads",
+    "source": {
+      "list": "TENCENT",
+      "line": 116
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aitransfy.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aitransfy.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "alloyteam.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:alloyteam.com",
+    "source": {
+      "list": "TENCENT",
+      "line": 55
+    }
+  },
+  {
+    "type": "domain",
+    "value": "anticheatexpert.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:anticheatexpert.com",
+    "source": {
+      "list": "TENCENT-GAMES",
+      "line": 103
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ap-bangkok.myqcloud.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:ap-bangkok.myqcloud.com:@!cn",
+    "source": {
+      "list": "QCLOUD",
+      "line": 276
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ap-bangkok.tencentcos.cn",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:ap-bangkok.tencentcos.cn:@!cn",
+    "source": {
+      "list": "QCLOUD",
+      "line": 322
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ap-bangkok.tencentcos.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:ap-bangkok.tencentcos.com:@!cn",
+    "source": {
+      "list": "QCLOUD",
+      "line": 323
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ap-bangkok.tencentcos.com.cn",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:ap-bangkok.tencentcos.com.cn:@!cn",
+    "source": {
+      "list": "QCLOUD",
+      "line": 324
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ap-hongkong.myqcloud.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:ap-hongkong.myqcloud.com:@!cn",
+    "source": {
+      "list": "QCLOUD",
+      "line": 271
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ap-hongkong.tencentcos.cn",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:ap-hongkong.tencentcos.cn:@!cn",
+    "source": {
+      "list": "QCLOUD",
+      "line": 297
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ap-hongkong.tencentcos.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:ap-hongkong.tencentcos.com:@!cn",
+    "source": {
+      "list": "QCLOUD",
+      "line": 298
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ap-hongkong.tencentcos.com.cn",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:ap-hongkong.tencentcos.com.cn:@!cn",
+    "source": {
+      "list": "QCLOUD",
+      "line": 299
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ap-jakarta.myqcloud.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:ap-jakarta.myqcloud.com:@!cn",
+    "source": {
+      "list": "QCLOUD",
+      "line": 274
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ap-jakarta.tencentcos.cn",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:ap-jakarta.tencentcos.cn:@!cn",
+    "source": {
+      "list": "QCLOUD",
+      "line": 312
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ap-jakarta.tencentcos.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:ap-jakarta.tencentcos.com:@!cn",
+    "source": {
+      "list": "QCLOUD",
+      "line": 313
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ap-jakarta.tencentcos.com.cn",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:ap-jakarta.tencentcos.com.cn:@!cn",
+    "source": {
+      "list": "QCLOUD",
+      "line": 314
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ap-mumbai.myqcloud.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:ap-mumbai.myqcloud.com:@!cn",
+    "source": {
+      "list": "QCLOUD",
+      "line": 273
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ap-mumbai.tencentcos.cn",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:ap-mumbai.tencentcos.cn:@!cn",
+    "source": {
+      "list": "QCLOUD",
+      "line": 307
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ap-mumbai.tencentcos.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:ap-mumbai.tencentcos.com:@!cn",
+    "source": {
+      "list": "QCLOUD",
+      "line": 308
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ap-mumbai.tencentcos.com.cn",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:ap-mumbai.tencentcos.com.cn:@!cn",
+    "source": {
+      "list": "QCLOUD",
+      "line": 309
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ap-seoul.myqcloud.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:ap-seoul.myqcloud.com:@!cn",
+    "source": {
+      "list": "QCLOUD",
+      "line": 275
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ap-seoul.tencentcos.cn",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:ap-seoul.tencentcos.cn:@!cn",
+    "source": {
+      "list": "QCLOUD",
+      "line": 317
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ap-seoul.tencentcos.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:ap-seoul.tencentcos.com:@!cn",
+    "source": {
+      "list": "QCLOUD",
+      "line": 318
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ap-seoul.tencentcos.com.cn",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:ap-seoul.tencentcos.com.cn:@!cn",
+    "source": {
+      "list": "QCLOUD",
+      "line": 319
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ap-singapore.myqcloud.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:ap-singapore.myqcloud.com:@!cn",
+    "source": {
+      "list": "QCLOUD",
+      "line": 272
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ap-singapore.tencentcos.cn",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:ap-singapore.tencentcos.cn:@!cn",
+    "source": {
+      "list": "QCLOUD",
+      "line": 302
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ap-singapore.tencentcos.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:ap-singapore.tencentcos.com:@!cn",
+    "source": {
+      "list": "QCLOUD",
+      "line": 303
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ap-singapore.tencentcos.com.cn",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:ap-singapore.tencentcos.com.cn:@!cn",
+    "source": {
+      "list": "QCLOUD",
+      "line": 304
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ap-tokyo.myqcloud.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:ap-tokyo.myqcloud.com:@!cn",
+    "source": {
+      "list": "QCLOUD",
+      "line": 277
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ap-tokyo.tencentcos.cn",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:ap-tokyo.tencentcos.cn:@!cn",
+    "source": {
+      "list": "QCLOUD",
+      "line": 327
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ap-tokyo.tencentcos.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:ap-tokyo.tencentcos.com:@!cn",
+    "source": {
+      "list": "QCLOUD",
+      "line": 328
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ap-tokyo.tencentcos.com.cn",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:ap-tokyo.tencentcos.com.cn:@!cn",
+    "source": {
+      "list": "QCLOUD",
+      "line": 329
+    }
+  },
+  {
+    "type": "domain",
+    "value": "apaas-zone-test.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:apaas-zone-test.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "apcdns.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:apcdns.net",
+    "source": {
+      "list": "TENCENT",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "apdcdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:apdcdn.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "apdcdn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:apdcdn.net",
+    "source": {
+      "list": "QCLOUD",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "apigwtencent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:apigwtencent.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "badjs.weixinbridge.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:badjs.weixinbridge.com:@ads",
+    "source": {
+      "list": "TENCENT-DEV",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "battlecare.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:battlecare.net",
+    "source": {
+      "list": "TENCENT-GAMES",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bcfmglobal.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bcfmglobal.com",
+    "source": {
+      "list": "TENCENT-GAMES",
+      "line": 99
+    }
+  },
+  {
+    "type": "domain",
+    "value": "beacon.cdn.qq.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:beacon.cdn.qq.com:@ads",
+    "source": {
+      "list": "TENCENT",
+      "line": 117
+    }
+  },
+  {
+    "type": "domain",
+    "value": "beacon.qq.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:beacon.qq.com:@ads",
+    "source": {
+      "list": "TENCENT",
+      "line": 118
+    }
+  },
+  {
+    "type": "domain",
+    "value": "beaconcdn.qq.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:beaconcdn.qq.com:@ads",
+    "source": {
+      "list": "TENCENT",
+      "line": 119
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bkapigw.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bkapigw.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bkapps.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bkapps.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bkclouds.cc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bkclouds.cc",
+    "source": {
+      "list": "QCLOUD",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bktencent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bktencent.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "brawlstars.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:brawlstars.cn",
+    "source": {
+      "list": "TENCENT-GAMES",
+      "line": 84
+    }
+  },
+  {
+    "type": "domain",
+    "value": "btrace.qq.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:btrace.qq.com:@ads",
+    "source": {
+      "list": "TENCENT",
+      "line": 120
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bugly.qq.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:bugly.qq.com:@ads",
+    "source": {
+      "list": "TENCENT",
+      "line": 121
+    }
+  },
+  {
+    "type": "domain",
+    "value": "build9s.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:build9s.io",
+    "source": {
+      "list": "QCLOUD",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "byodonline.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:byodonline.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ca.file.myqcloud.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:ca.file.myqcloud.com:@!cn",
+    "source": {
+      "list": "QCLOUD",
+      "line": 380
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdn-go.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdn-go.cn",
+    "source": {
+      "list": "QCLOUD",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdndoctor.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdndoctor.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdngot.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdngot.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdntip.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdntip.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdntips.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdntips.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdntips.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdntips.net",
+    "source": {
+      "list": "QCLOUD",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnv1.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnv1.cn",
+    "source": {
+      "list": "QCLOUD",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnv2.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnv2.cn",
+    "source": {
+      "list": "QCLOUD",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnv3.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnv3.cn",
+    "source": {
+      "list": "QCLOUD",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloud-industry-delivery.site",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloud-industry-delivery.site",
+    "source": {
+      "list": "QCLOUD",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudbase.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudbase.cn",
+    "source": {
+      "list": "QCLOUD",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudbase.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudbase.net",
+    "source": {
+      "list": "QCLOUD",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudidaas.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudidaas.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudsite.vip",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudsite.vip",
+    "source": {
+      "list": "QCLOUD",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cnb.cool",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cnb.cool",
+    "source": {
+      "list": "CNB",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cncqcloud.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cncqcloud.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "coding.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:coding.me",
+    "source": {
+      "list": "CODING",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "coding.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:coding.net",
+    "source": {
+      "list": "CODING",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "codm.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:codm.com",
+    "source": {
+      "list": "TENCENT-GAMES",
+      "line": 96
+    }
+  },
+  {
+    "type": "domain",
+    "value": "computeinit.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:computeinit.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "comsenz.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:comsenz.com",
+    "source": {
+      "list": "DISCUZ",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "coolsite.vip",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:coolsite.vip",
+    "source": {
+      "list": "QCLOUD",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cosca.myqcloud.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:cosca.myqcloud.com:@!cn",
+    "source": {
+      "list": "QCLOUD",
+      "line": 369
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cosger.myqcloud.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:cosger.myqcloud.com:@!cn",
+    "source": {
+      "list": "QCLOUD",
+      "line": 370
+    }
+  },
+  {
+    "type": "domain",
+    "value": "coshk.myqcloud.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:coshk.myqcloud.com:@!cn",
+    "source": {
+      "list": "QCLOUD",
+      "line": 367
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cossgp.myqcloud.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:cossgp.myqcloud.com:@!cn",
+    "source": {
+      "list": "QCLOUD",
+      "line": 368
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dcloudlive.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dcloudlive.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dcloudlive.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dcloudlive.net",
+    "source": {
+      "list": "QCLOUD",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dcloudsp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dcloudsp.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dcloudsp.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dcloudsp.net",
+    "source": {
+      "list": "QCLOUD",
+      "line": 37
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dcloudstc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dcloudstc.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 38
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dcloudstc.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dcloudstc.net",
+    "source": {
+      "list": "QCLOUD",
+      "line": 39
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dcloudvod.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dcloudvod.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 40
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dcloudvod.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dcloudvod.net",
+    "source": {
+      "list": "QCLOUD",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "discuz.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:discuz.net",
+    "source": {
+      "list": "DISCUZ",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "discuz.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:discuz.org",
+    "source": {
+      "list": "DISCUZ",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dns.pub",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dns.pub",
+    "source": {
+      "list": "DNSPOD",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dnsapi.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dnsapi.cn",
+    "source": {
+      "list": "DNSPOD",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dnse0.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dnse0.cn",
+    "source": {
+      "list": "QCLOUD",
+      "line": 215
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dnse0.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dnse0.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 221
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dnse1.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dnse1.cn",
+    "source": {
+      "list": "QCLOUD",
+      "line": 216
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dnse1.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dnse1.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 222
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dnse2.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dnse2.cn",
+    "source": {
+      "list": "QCLOUD",
+      "line": 217
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dnse2.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dnse2.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 223
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dnse3.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dnse3.cn",
+    "source": {
+      "list": "QCLOUD",
+      "line": 218
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dnse3.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dnse3.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 224
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dnse4.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dnse4.cn",
+    "source": {
+      "list": "QCLOUD",
+      "line": 219
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dnse4.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dnse4.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 225
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dnse5.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dnse5.cn",
+    "source": {
+      "list": "QCLOUD",
+      "line": 220
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dnse5.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dnse5.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 226
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dnspod.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dnspod.cn",
+    "source": {
+      "list": "DNSPOD",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dnspod.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dnspod.com",
+    "source": {
+      "list": "DNSPOD",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dnspod.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dnspod.com.cn",
+    "source": {
+      "list": "DNSPOD",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dnspod.mobi",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dnspod.mobi",
+    "source": {
+      "list": "DNSPOD",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dnspod.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dnspod.net",
+    "source": {
+      "list": "DNSPOD",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dnspod.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dnspod.org",
+    "source": {
+      "list": "DNSPOD",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dnsv1.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dnsv1.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 42
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dnsv1.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dnsv1.com.cn",
+    "source": {
+      "list": "QCLOUD",
+      "line": 43
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dnsv2.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dnsv2.com",
+    "source": {
+      "list": "DNSPOD",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dnsv3.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dnsv3.com",
+    "source": {
+      "list": "DNSPOD",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dnsv4.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dnsv4.com",
+    "source": {
+      "list": "DNSPOD",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dnsv5.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dnsv5.com",
+    "source": {
+      "list": "DNSPOD",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "doh.pub",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:doh.pub",
+    "source": {
+      "list": "DNSPOD",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dot.pub",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dot.pub",
+    "source": {
+      "list": "DNSPOD",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dothework.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dothework.cn",
+    "source": {
+      "list": "QCLOUD",
+      "line": 44
+    }
+  },
+  {
+    "type": "domain",
+    "value": "e.qq.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:e.qq.com:@ads",
+    "source": {
+      "list": "TENCENT",
+      "line": 122
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ectencent.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ectencent.cn",
+    "source": {
+      "list": "QCLOUD",
+      "line": 45
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ectencent.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ectencent.com.cn",
+    "source": {
+      "list": "QCLOUD",
+      "line": 46
+    }
+  },
+  {
+    "type": "domain",
+    "value": "edgeone.cool",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:edgeone.cool",
+    "source": {
+      "list": "QCLOUD",
+      "line": 47
+    }
+  },
+  {
+    "type": "domain",
+    "value": "edgeonedy1.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:edgeonedy1.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 48
+    }
+  },
+  {
+    "type": "domain",
+    "value": "essurl.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:essurl.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 49
+    }
+  },
+  {
+    "type": "domain",
+    "value": "eu-frankfurt.myqcloud.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:eu-frankfurt.myqcloud.com:@!cn",
+    "source": {
+      "list": "QCLOUD",
+      "line": 282
+    }
+  },
+  {
+    "type": "domain",
+    "value": "eu-frankfurt.tencentcos.cn",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:eu-frankfurt.tencentcos.cn:@!cn",
+    "source": {
+      "list": "QCLOUD",
+      "line": 352
+    }
+  },
+  {
+    "type": "domain",
+    "value": "eu-frankfurt.tencentcos.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:eu-frankfurt.tencentcos.com:@!cn",
+    "source": {
+      "list": "QCLOUD",
+      "line": 353
+    }
+  },
+  {
+    "type": "domain",
+    "value": "eu-frankfurt.tencentcos.com.cn",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:eu-frankfurt.tencentcos.com.cn:@!cn",
+    "source": {
+      "list": "QCLOUD",
+      "line": 354
+    }
+  },
+  {
+    "type": "domain",
+    "value": "eu-moscow.myqcloud.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:eu-moscow.myqcloud.com:@!cn",
+    "source": {
+      "list": "QCLOUD",
+      "line": 283
+    }
+  },
+  {
+    "type": "domain",
+    "value": "eu-moscow.tencentcos.cn",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:eu-moscow.tencentcos.cn:@!cn",
+    "source": {
+      "list": "QCLOUD",
+      "line": 357
+    }
+  },
+  {
+    "type": "domain",
+    "value": "eu-moscow.tencentcos.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:eu-moscow.tencentcos.com:@!cn",
+    "source": {
+      "list": "QCLOUD",
+      "line": 358
+    }
+  },
+  {
+    "type": "domain",
+    "value": "eu-moscow.tencentcos.com.cn",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:eu-moscow.tencentcos.com.cn:@!cn",
+    "source": {
+      "list": "QCLOUD",
+      "line": 359
+    }
+  },
+  {
+    "type": "domain",
+    "value": "exmailgz.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:exmailgz.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 50
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ffbuddy.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ffbuddy.com",
+    "source": {
+      "list": "TENCENT-GAMES",
+      "line": 74
+    }
+  },
+  {
+    "type": "domain",
+    "value": "foxmail.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:foxmail.com",
+    "source": {
+      "list": "TENCENT",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "foxmail.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:foxmail.com.cn",
+    "source": {
+      "list": "TENCENT",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fsphere.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fsphere.cn",
+    "source": {
+      "list": "QCLOUD",
+      "line": 51
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fyeds.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fyeds.com",
+    "source": {
+      "list": "TENCENT",
+      "line": 60
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fyeds0.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fyeds0.com",
+    "source": {
+      "list": "TENCENT",
+      "line": 61
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fyeds1.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fyeds1.com",
+    "source": {
+      "list": "TENCENT",
+      "line": 62
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fyeds3.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fyeds3.com",
+    "source": {
+      "list": "TENCENT",
+      "line": 63
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fyeds4.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fyeds4.com",
+    "source": {
+      "list": "TENCENT",
+      "line": 64
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fyeds5.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fyeds5.com",
+    "source": {
+      "list": "TENCENT",
+      "line": 65
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fyeds6.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fyeds6.com",
+    "source": {
+      "list": "TENCENT",
+      "line": 66
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fyeds7.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fyeds7.com",
+    "source": {
+      "list": "TENCENT",
+      "line": 67
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fyeds8.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fyeds8.com",
+    "source": {
+      "list": "TENCENT",
+      "line": 68
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fyeds9.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fyeds9.com",
+    "source": {
+      "list": "TENCENT",
+      "line": 69
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fymall0.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fymall0.com",
+    "source": {
+      "list": "TENCENT",
+      "line": 70
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fymall1.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fymall1.com",
+    "source": {
+      "list": "TENCENT",
+      "line": 71
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fymall4.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fymall4.com",
+    "source": {
+      "list": "TENCENT",
+      "line": 72
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fymall7.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fymall7.com",
+    "source": {
+      "list": "TENCENT",
+      "line": 73
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fymall9.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fymall9.com",
+    "source": {
+      "list": "TENCENT",
+      "line": 74
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fymallqa0.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fymallqa0.com",
+    "source": {
+      "list": "TENCENT",
+      "line": 75
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fymallqa1.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fymallqa1.com",
+    "source": {
+      "list": "TENCENT",
+      "line": 76
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fymallqa2.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fymallqa2.com",
+    "source": {
+      "list": "TENCENT",
+      "line": 77
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fymallqa3.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fymallqa3.com",
+    "source": {
+      "list": "TENCENT",
+      "line": 78
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fymallqa4.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fymallqa4.com",
+    "source": {
+      "list": "TENCENT",
+      "line": 79
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fymallqa7.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fymallqa7.com",
+    "source": {
+      "list": "TENCENT",
+      "line": 80
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fymallqa9.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fymallqa9.com",
+    "source": {
+      "list": "TENCENT",
+      "line": 81
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gaapqcloud.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gaapqcloud.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 52
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gamebonfire.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gamebonfire.com",
+    "source": {
+      "list": "TENCENT-GAMES",
+      "line": 70
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gameitop.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gameitop.com",
+    "source": {
+      "list": "TENCENT-GAMES",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gameloop.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gameloop.com",
+    "source": {
+      "list": "TENCENT-GAMES",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gcloudcs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gcloudcs.com",
+    "source": {
+      "list": "TENCENT-GAMES",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gcloudcstest.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gcloudcstest.com",
+    "source": {
+      "list": "TENCENT-GAMES",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gcloudcstestonly.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gcloudcstestonly.com",
+    "source": {
+      "list": "TENCENT-GAMES",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gclouddolphin.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gclouddolphin.com",
+    "source": {
+      "list": "TENCENT-GAMES",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gcloudsdk.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gcloudsdk.com",
+    "source": {
+      "list": "TENCENT-GAMES",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gcloudsvcs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gcloudsvcs.com",
+    "source": {
+      "list": "TENCENT-GAMES",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gdt.qq.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:gdt.qq.com:@ads",
+    "source": {
+      "list": "TENCENT",
+      "line": 123
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gdtimg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gdtimg.com",
+    "source": {
+      "list": "TENCENT-GAMES",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ger.file.myqcloud.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:ger.file.myqcloud.com:@!cn",
+    "source": {
+      "list": "QCLOUD",
+      "line": 381
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gitdrone.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gitdrone.cn",
+    "source": {
+      "list": "QCLOUD",
+      "line": 53
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gmedev.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gmedev.cn",
+    "source": {
+      "list": "QCLOUD",
+      "line": 54
+    }
+  },
+  {
+    "type": "domain",
+    "value": "goto-game.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:goto-game.com",
+    "source": {
+      "list": "TENCENT-GAMES",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "goto-game.mobi",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:goto-game.mobi",
+    "source": {
+      "list": "TENCENT-GAMES",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "goto-game.net.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:goto-game.net.cn",
+    "source": {
+      "list": "TENCENT-GAMES",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "goto-game.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:goto-game.org",
+    "source": {
+      "list": "TENCENT-GAMES",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gotolink.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gotolink.net",
+    "source": {
+      "list": "TENCENT-GAMES",
+      "line": 75
+    }
+  },
+  {
+    "type": "domain",
+    "value": "govqcloud.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:govqcloud.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 55
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gsadds.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gsadds.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 56
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gtgres.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gtgres.com",
+    "source": {
+      "list": "TENCENT-GAMES",
+      "line": 76
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gtimg.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gtimg.cn",
+    "source": {
+      "list": "TENCENT",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gtimg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gtimg.com",
+    "source": {
+      "list": "TENCENT",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gtimg.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gtimg.com.cn",
+    "source": {
+      "list": "TENCENT",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gtm.pub",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gtm.pub",
+    "source": {
+      "list": "QCLOUD",
+      "line": 57
+    }
+  },
+  {
+    "type": "domain",
+    "value": "happyhlddz.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:happyhlddz.com",
+    "source": {
+      "list": "TENCENT-GAMES",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "haydaypop.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:haydaypop.cn",
+    "source": {
+      "list": "TENCENT-GAMES",
+      "line": 85
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hdyxgame.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hdyxgame.com",
+    "source": {
+      "list": "TENCENT-GAMES",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hk.file.myqcloud.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:hk.file.myqcloud.com:@!cn",
+    "source": {
+      "list": "QCLOUD",
+      "line": 378
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hkgcloudcs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hkgcloudcs.com",
+    "source": {
+      "list": "TENCENT-GAMES",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hongxiu.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hongxiu.com",
+    "source": {
+      "list": "YUEWEN",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hq-tracking.qq.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:hq-tracking.qq.com:@ads",
+    "source": {
+      "list": "TENCENT",
+      "line": 124
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hr-welink.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hr-welink.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 58
+    }
+  },
+  {
+    "type": "domain",
+    "value": "htrace.wetvinfo.com",
+    "attrs": [
+      "!cn",
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:htrace.wetvinfo.com:@!cn,@ads",
+    "source": {
+      "list": "TENCENT",
+      "line": 125
+    }
+  },
+  {
+    "type": "domain",
+    "value": "idcgcloudcs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:idcgcloudcs.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 59
+    }
+  },
+  {
+    "type": "domain",
+    "value": "idqqimg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:idqqimg.com",
+    "source": {
+      "list": "TENCENT",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "iemiq.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:iemiq.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 60
+    }
+  },
+  {
+    "type": "domain",
+    "value": "igtm-meeting-tencent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:igtm-meeting-tencent.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 61
+    }
+  },
+  {
+    "type": "domain",
+    "value": "igtm.pub",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:igtm.pub",
+    "source": {
+      "list": "QCLOUD",
+      "line": 62
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ihappystudio.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ihappystudio.cn",
+    "source": {
+      "list": "TENCENT-GAMES",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ihappystudio.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ihappystudio.com",
+    "source": {
+      "list": "TENCENT-GAMES",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "imqq.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:imqq.com",
+    "source": {
+      "list": "TENCENT",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "imweb.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:imweb.io",
+    "source": {
+      "list": "TENCENT",
+      "line": 56
+    }
+  },
+  {
+    "type": "domain",
+    "value": "in.th",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:in.th",
+    "source": {
+      "list": "TENCENT-GAMES",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intltencentcos.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:intltencentcos.com:@!cn",
+    "source": {
+      "list": "QCLOUD",
+      "line": 63
+    }
+  },
+  {
+    "type": "domain",
+    "value": "isd.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:isd.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 64
+    }
+  },
+  {
+    "type": "domain",
+    "value": "isdspeed.qq.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:isdspeed.qq.com:@ads",
+    "source": {
+      "list": "TENCENT",
+      "line": 126
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ispqcloud.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ispqcloud.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 65
+    }
+  },
+  {
+    "type": "domain",
+    "value": "itopsdk.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:itopsdk.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 66
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ivweb.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ivweb.io",
+    "source": {
+      "list": "TENCENT",
+      "line": 57
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jrzk.net.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jrzk.net.cn",
+    "source": {
+      "list": "QCLOUD",
+      "line": 67
+    }
+  },
+  {
+    "type": "domain",
+    "value": "labycore.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:labycore.cn",
+    "source": {
+      "list": "TENCENT-GAMES",
+      "line": 86
+    }
+  },
+  {
+    "type": "domain",
+    "value": "log.tbs.qq.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:log.tbs.qq.com:@ads",
+    "source": {
+      "list": "TENCENT",
+      "line": 127
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lrts.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lrts.me",
+    "source": {
+      "list": "YUEWEN",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ludosuperstar.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ludosuperstar.cn",
+    "source": {
+      "list": "TENCENT-GAMES",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ludoworld.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ludoworld.net",
+    "source": {
+      "list": "TENCENT-GAMES",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "m1.run",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:m1.run",
+    "source": {
+      "list": "QCLOUD",
+      "line": 391
+    }
+  },
+  {
+    "type": "domain",
+    "value": "m6.run",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:m6.run",
+    "source": {
+      "list": "QCLOUD",
+      "line": 392
+    }
+  },
+  {
+    "type": "domain",
+    "value": "m9.run",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:m9.run",
+    "source": {
+      "list": "QCLOUD",
+      "line": 393
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ma.run",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ma.run",
+    "source": {
+      "list": "QCLOUD",
+      "line": 394
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mahjongai.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mahjongai.net",
+    "source": {
+      "list": "TENCENT-GAMES",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mahjongcup.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mahjongcup.cn",
+    "source": {
+      "list": "TENCENT-GAMES",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mahjongcup.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mahjongcup.com",
+    "source": {
+      "list": "TENCENT-GAMES",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mahjongcup.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mahjongcup.net",
+    "source": {
+      "list": "TENCENT-GAMES",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mdt.qq.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:mdt.qq.com:@ads",
+    "source": {
+      "list": "TENCENT",
+      "line": 128
+    }
+  },
+  {
+    "type": "domain",
+    "value": "metalrevolution.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:metalrevolution.com",
+    "source": {
+      "list": "TENCENT-GAMES",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "midasbuy.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:midasbuy.com",
+    "source": {
+      "list": "TENCENT-GAMES",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "monitor.music.qq.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:monitor.music.qq.com:@ads",
+    "source": {
+      "list": "TENCENT",
+      "line": 129
+    }
+  },
+  {
+    "type": "domain",
+    "value": "monitor.uu.qq.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:monitor.uu.qq.com:@ads",
+    "source": {
+      "list": "TENCENT",
+      "line": 130
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mpush.qq.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:mpush.qq.com:@ads",
+    "source": {
+      "list": "TENCENT",
+      "line": 131
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mszdld.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mszdld.cn",
+    "source": {
+      "list": "TENCENT-GAMES",
+      "line": 65
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mszdld.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mszdld.com",
+    "source": {
+      "list": "TENCENT-GAMES",
+      "line": 66
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mszdld.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mszdld.net",
+    "source": {
+      "list": "TENCENT-GAMES",
+      "line": 67
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mtrace.qq.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:mtrace.qq.com:@ads",
+    "source": {
+      "list": "TENCENT",
+      "line": 132
+    }
+  },
+  {
+    "type": "domain",
+    "value": "my-qcloud.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:my-qcloud.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 68
+    }
+  },
+  {
+    "type": "domain",
+    "value": "myapp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:myapp.com",
+    "source": {
+      "list": "TENCENT",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "myelasticsearch.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:myelasticsearch.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 69
+    }
+  },
+  {
+    "type": "domain",
+    "value": "myqcloud.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:myqcloud.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 70
+    }
+  },
+  {
+    "type": "domain",
+    "value": "na-ashburn.myqcloud.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:na-ashburn.myqcloud.com:@!cn",
+    "source": {
+      "list": "QCLOUD",
+      "line": 279
+    }
+  },
+  {
+    "type": "domain",
+    "value": "na-ashburn.tencentcos.cn",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:na-ashburn.tencentcos.cn:@!cn",
+    "source": {
+      "list": "QCLOUD",
+      "line": 337
+    }
+  },
+  {
+    "type": "domain",
+    "value": "na-ashburn.tencentcos.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:na-ashburn.tencentcos.com:@!cn",
+    "source": {
+      "list": "QCLOUD",
+      "line": 338
+    }
+  },
+  {
+    "type": "domain",
+    "value": "na-ashburn.tencentcos.com.cn",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:na-ashburn.tencentcos.com.cn:@!cn",
+    "source": {
+      "list": "QCLOUD",
+      "line": 339
+    }
+  },
+  {
+    "type": "domain",
+    "value": "na-siliconvalley.myqcloud.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:na-siliconvalley.myqcloud.com:@!cn",
+    "source": {
+      "list": "QCLOUD",
+      "line": 278
+    }
+  },
+  {
+    "type": "domain",
+    "value": "na-siliconvalley.tencentcos.cn",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:na-siliconvalley.tencentcos.cn:@!cn",
+    "source": {
+      "list": "QCLOUD",
+      "line": 332
+    }
+  },
+  {
+    "type": "domain",
+    "value": "na-siliconvalley.tencentcos.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:na-siliconvalley.tencentcos.com:@!cn",
+    "source": {
+      "list": "QCLOUD",
+      "line": 333
+    }
+  },
+  {
+    "type": "domain",
+    "value": "na-siliconvalley.tencentcos.com.cn",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:na-siliconvalley.tencentcos.com.cn:@!cn",
+    "source": {
+      "list": "QCLOUD",
+      "line": 334
+    }
+  },
+  {
+    "type": "domain",
+    "value": "na-toronto.myqcloud.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:na-toronto.myqcloud.com:@!cn",
+    "source": {
+      "list": "QCLOUD",
+      "line": 280
+    }
+  },
+  {
+    "type": "domain",
+    "value": "na-toronto.tencentcos.cn",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:na-toronto.tencentcos.cn:@!cn",
+    "source": {
+      "list": "QCLOUD",
+      "line": 342
+    }
+  },
+  {
+    "type": "domain",
+    "value": "na-toronto.tencentcos.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:na-toronto.tencentcos.com:@!cn",
+    "source": {
+      "list": "QCLOUD",
+      "line": 343
+    }
+  },
+  {
+    "type": "domain",
+    "value": "na-toronto.tencentcos.com.cn",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:na-toronto.tencentcos.com.cn:@!cn",
+    "source": {
+      "list": "QCLOUD",
+      "line": 344
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nagcloudcs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nagcloudcs.com",
+    "source": {
+      "list": "TENCENT-GAMES",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nextstudios.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nextstudios.com",
+    "source": {
+      "list": "TENCENT-GAMES",
+      "line": 61
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nextworkshop.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nextworkshop.net",
+    "source": {
+      "list": "TENCENT-GAMES",
+      "line": 62
+    }
+  },
+  {
+    "type": "domain",
+    "value": "onexmail.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:onexmail.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 71
+    }
+  },
+  {
+    "type": "domain",
+    "value": "openapp.run",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:openapp.run",
+    "source": {
+      "list": "QCLOUD",
+      "line": 72
+    }
+  },
+  {
+    "type": "domain",
+    "value": "openmidas.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:openmidas.com",
+    "source": {
+      "list": "TENCENT-DEV",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oracle-tencent.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oracle-tencent.cn",
+    "source": {
+      "list": "QCLOUD",
+      "line": 384
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oracle-tencent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oracle-tencent.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 385
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oracle-tencent.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oracle-tencent.com.cn",
+    "source": {
+      "list": "QCLOUD",
+      "line": 386
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oracle-tencent.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oracle-tencent.net",
+    "source": {
+      "list": "QCLOUD",
+      "line": 387
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oracle-tencent.net.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oracle-tencent.net.cn",
+    "source": {
+      "list": "QCLOUD",
+      "line": 388
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ovscdns.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ovscdns.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 73
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ovscdns.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ovscdns.net",
+    "source": {
+      "list": "QCLOUD",
+      "line": 74
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pgdt.gtimg.cn",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:pgdt.gtimg.cn:@ads",
+    "source": {
+      "list": "TENCENT",
+      "line": 133
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pingjs.qq.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:pingjs.qq.com:@ads",
+    "source": {
+      "list": "TENCENT",
+      "line": 134
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pmir.3g.qq.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:pmir.3g.qq.com:@ads",
+    "source": {
+      "list": "TENCENT",
+      "line": 135
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pn1waq.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pn1waq.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 75
+    }
+  },
+  {
+    "type": "domain",
+    "value": "proximabeta.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:proximabeta.com",
+    "source": {
+      "list": "TENCENT-GAMES",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pubghelper.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pubghelper.com",
+    "source": {
+      "list": "TENCENT-GAMES",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pubgno1.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pubgno1.cn",
+    "source": {
+      "list": "TENCENT-GAMES",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pubgtool.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pubgtool.com",
+    "source": {
+      "list": "TENCENT-GAMES",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "push.qq.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:push.qq.com:@ads",
+    "source": {
+      "list": "TENCENT",
+      "line": 136
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qcloud-edumall.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qcloud-edumall.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 76
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qcloud.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qcloud.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 77
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qcloud.la",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qcloud.la",
+    "source": {
+      "list": "QCLOUD",
+      "line": 78
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qcloudapps.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qcloudapps.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 79
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qcloudcdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qcloudcdn.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 80
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qcloudcdntest.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qcloudcdntest.cn",
+    "source": {
+      "list": "QCLOUD",
+      "line": 81
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qcloudclass.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qcloudclass.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 82
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qcloudcos.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qcloudcos.cn",
+    "source": {
+      "list": "QCLOUD",
+      "line": 83
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qcloudcos.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qcloudcos.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 84
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qcloudcos.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qcloudcos.com.cn",
+    "source": {
+      "list": "QCLOUD",
+      "line": 85
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qclouder.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qclouder.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 86
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qcloudgme.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qcloudgme.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 87
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qcloudimg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qcloudimg.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 88
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qcloudipv6.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qcloudipv6.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 89
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qcloudmarket.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qcloudmarket.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 90
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qcloudns.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qcloudns.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 91
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qcloudsmartiot.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qcloudsmartiot.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 92
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qcloudtcic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qcloudtcic.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 93
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qcloudtiw.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qcloudtiw.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 94
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qcloudtrip.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qcloudtrip.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 95
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qcloudtt.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qcloudtt.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 96
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qcloudwaf.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qcloudwaf.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 97
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qdmm.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qdmm.com",
+    "source": {
+      "list": "YUEWEN",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qdwebim.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qdwebim.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 98
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qeodns.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qeodns.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 99
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qeodns.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qeodns.net",
+    "source": {
+      "list": "QCLOUD",
+      "line": 100
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qidian.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qidian.com",
+    "source": {
+      "list": "YUEWEN",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qlivecdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qlivecdn.com",
+    "source": {
+      "list": "TENCENT",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qlogo.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qlogo.cn",
+    "source": {
+      "list": "TENCENT",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qpic.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qpic.cn",
+    "source": {
+      "list": "TENCENT",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qq.cn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qq.cn.com",
+    "source": {
+      "list": "TENCENT",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qq.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qq.com",
+    "source": {
+      "list": "TENCENT",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qq.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qq.com.cn",
+    "source": {
+      "list": "TENCENT",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qq.design",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qq.design",
+    "source": {
+      "list": "TENCENT-DEV",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qq.wang",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qq.wang",
+    "source": {
+      "list": "TENCENT",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qq.xn--fiqs8s",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qq.xn--fiqs8s",
+    "source": {
+      "list": "TENCENT",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qqdata.ab.qq.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:qqdata.ab.qq.com:@ads",
+    "source": {
+      "list": "TENCENT",
+      "line": 137
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qqgameapp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qqgameapp.com",
+    "source": {
+      "list": "TENCENT-GAMES",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qqgamedesign.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qqgamedesign.com",
+    "source": {
+      "list": "TENCENT-DEV",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qqmail.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qqmail.com",
+    "source": {
+      "list": "TENCENT",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qqmra.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qqmra.cn",
+    "source": {
+      "list": "QCLOUD",
+      "line": 101
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qqmra.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qqmra.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 102
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qyunapp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qyunapp.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 103
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qzone.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qzone.com",
+    "source": {
+      "list": "TENCENT",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "readnovel.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:readnovel.com",
+    "source": {
+      "list": "YUEWEN",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "realcybertron.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:realcybertron.com",
+    "source": {
+      "list": "TENCENT-GAMES",
+      "line": 77
+    }
+  },
+  {
+    "type": "domain",
+    "value": "report.qqweb.qq.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:report.qqweb.qq.com:@ads",
+    "source": {
+      "list": "TENCENT",
+      "line": 138
+    }
+  },
+  {
+    "type": "domain",
+    "value": "report.tencentmusic.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:report.tencentmusic.com:@ads",
+    "source": {
+      "list": "TENCENT",
+      "line": 139
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rmonitor.qq.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:rmonitor.qq.com:@ads",
+    "source": {
+      "list": "TENCENT",
+      "line": 140
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rmwxgame.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rmwxgame.com",
+    "source": {
+      "list": "TENCENT-GAMES",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "roblox.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:roblox.cn",
+    "source": {
+      "list": "TENCENT-GAMES",
+      "line": 56
+    }
+  },
+  {
+    "type": "domain",
+    "value": "robloxdev.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:robloxdev.cn",
+    "source": {
+      "list": "TENCENT-GAMES",
+      "line": 58
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rongshuxia.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rongshuxia.com",
+    "source": {
+      "list": "YUEWEN",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rtx.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rtx.com.cn",
+    "source": {
+      "list": "TENCENT",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rumt-sg.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:rumt-sg.com:@!cn",
+    "source": {
+      "list": "QCLOUD",
+      "line": 402
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rumt-us.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:rumt-us.com:@!cn",
+    "source": {
+      "list": "QCLOUD",
+      "line": 403
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rumt-zh.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rumt-zh.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 401
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sa-saopaulo.myqcloud.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:sa-saopaulo.myqcloud.com:@!cn",
+    "source": {
+      "list": "QCLOUD",
+      "line": 281
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sa-saopaulo.tencentcos.cn",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:sa-saopaulo.tencentcos.cn:@!cn",
+    "source": {
+      "list": "QCLOUD",
+      "line": 347
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sa-saopaulo.tencentcos.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:sa-saopaulo.tencentcos.com:@!cn",
+    "source": {
+      "list": "QCLOUD",
+      "line": 348
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sa-saopaulo.tencentcos.com.cn",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:sa-saopaulo.tencentcos.com.cn:@!cn",
+    "source": {
+      "list": "QCLOUD",
+      "line": 349
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sccreator.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sccreator.cn",
+    "source": {
+      "list": "TENCENT-GAMES",
+      "line": 87
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sccreators.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sccreators.cn",
+    "source": {
+      "list": "TENCENT-GAMES",
+      "line": 88
+    }
+  },
+  {
+    "type": "domain",
+    "value": "scescdn.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:scescdn.cn",
+    "source": {
+      "list": "TENCENT-GAMES",
+      "line": 89
+    }
+  },
+  {
+    "type": "domain",
+    "value": "scid.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:scid.cn",
+    "source": {
+      "list": "TENCENT-GAMES",
+      "line": 90
+    }
+  },
+  {
+    "type": "domain",
+    "value": "scsentry.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:scsentry.cn",
+    "source": {
+      "list": "TENCENT-GAMES",
+      "line": 91
+    }
+  },
+  {
+    "type": "domain",
+    "value": "serverlesscloud.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:serverlesscloud.cn",
+    "source": {
+      "list": "QCLOUD",
+      "line": 104
+    }
+  },
+  {
+    "type": "domain",
+    "value": "servicewechat.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:servicewechat.com",
+    "source": {
+      "list": "TENCENT",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sgp.file.myqcloud.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:sgp.file.myqcloud.com:@!cn",
+    "source": {
+      "list": "QCLOUD",
+      "line": 379
+    }
+  },
+  {
+    "type": "domain",
+    "value": "skydweller.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:skydweller.cn",
+    "source": {
+      "list": "TENCENT-GAMES",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "smtcdns.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:smtcdns.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 105
+    }
+  },
+  {
+    "type": "domain",
+    "value": "smtcdns.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:smtcdns.net",
+    "source": {
+      "list": "QCLOUD",
+      "line": 106
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sngmta.qq.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:sngmta.qq.com:@ads",
+    "source": {
+      "list": "TENCENT",
+      "line": 141
+    }
+  },
+  {
+    "type": "domain",
+    "value": "spcdntip.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:spcdntip.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 107
+    }
+  },
+  {
+    "type": "domain",
+    "value": "spcdntipbak.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:spcdntipbak.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 108
+    }
+  },
+  {
+    "type": "domain",
+    "value": "spcloudhw.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:spcloudhw.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 109
+    }
+  },
+  {
+    "type": "domain",
+    "value": "spcloudhw.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:spcloudhw.net",
+    "source": {
+      "list": "QCLOUD",
+      "line": 110
+    }
+  },
+  {
+    "type": "domain",
+    "value": "srmkp.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:srmkp.cn",
+    "source": {
+      "list": "QCLOUD",
+      "line": 111
+    }
+  },
+  {
+    "type": "domain",
+    "value": "starlakelab.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:starlakelab.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 112
+    }
+  },
+  {
+    "type": "domain",
+    "value": "stat.y.qq.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:stat.y.qq.com:@ads",
+    "source": {
+      "list": "TENCENT",
+      "line": 142
+    }
+  },
+  {
+    "type": "domain",
+    "value": "supercellcommunity.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:supercellcommunity.cn",
+    "source": {
+      "list": "TENCENT-GAMES",
+      "line": 92
+    }
+  },
+  {
+    "type": "domain",
+    "value": "supercellsupport.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:supercellsupport.cn",
+    "source": {
+      "list": "TENCENT-GAMES",
+      "line": 93
+    }
+  },
+  {
+    "type": "domain",
+    "value": "syxlgame.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:syxlgame.com",
+    "source": {
+      "list": "TENCENT-GAMES",
+      "line": 37
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tajs.qq.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:tajs.qq.com:@ads",
+    "source": {
+      "list": "TENCENT",
+      "line": 143
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tamaegis.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tamaegis.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 400
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tapd.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tapd.cn",
+    "source": {
+      "list": "QCLOUD",
+      "line": 113
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tcdlive.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tcdlive.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 114
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tcdnhw.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tcdnhw.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 115
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tcdnkcbak.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tcdnkcbak.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 116
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tcdnlive.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tcdnlive.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 117
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tcdnlivebak1.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tcdnlivebak1.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 118
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tcdnlivebak2.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tcdnlivebak2.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 119
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tcdnos.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tcdnos.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 120
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tcdnos.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tcdnos.net",
+    "source": {
+      "list": "QCLOUD",
+      "line": 121
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tcdntip.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tcdntip.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 122
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tcdnvod.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tcdnvod.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 123
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tcdnvodbak.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tcdnvodbak.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 124
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tcfmglobal.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tcfmglobal.com",
+    "source": {
+      "list": "TENCENT-GAMES",
+      "line": 100
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tcloudbase.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tcloudbase.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 125
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tcloudbase.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tcloudbase.net",
+    "source": {
+      "list": "QCLOUD",
+      "line": 126
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tcloudbaseapp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tcloudbaseapp.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 127
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tcloudbi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tcloudbi.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 128
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tclouddrive.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tclouddrive.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 129
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tcloudedu.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tcloudedu.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 130
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tcloudhw.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tcloudhw.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 131
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tcloudhw.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tcloudhw.net",
+    "source": {
+      "list": "QCLOUD",
+      "line": 132
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tcloudscdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tcloudscdn.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 133
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tcloudscdn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tcloudscdn.net",
+    "source": {
+      "list": "QCLOUD",
+      "line": 134
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tcss.qq.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:tcss.qq.com:@ads",
+    "source": {
+      "list": "TENCENT",
+      "line": 144
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tdnsdl1.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tdnsdl1.cn",
+    "source": {
+      "list": "TENCENT",
+      "line": 83
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tdnsdl1.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tdnsdl1.com.cn",
+    "source": {
+      "list": "TENCENT",
+      "line": 84
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tdnsdl2.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tdnsdl2.cn",
+    "source": {
+      "list": "TENCENT",
+      "line": 85
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tdnsdl2.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tdnsdl2.com.cn",
+    "source": {
+      "list": "TENCENT",
+      "line": 86
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tdnsdl3.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tdnsdl3.cn",
+    "source": {
+      "list": "TENCENT",
+      "line": 87
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tdnsdl3.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tdnsdl3.com.cn",
+    "source": {
+      "list": "TENCENT",
+      "line": 88
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tdnsdl4.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tdnsdl4.cn",
+    "source": {
+      "list": "TENCENT",
+      "line": 89
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tdnsdl4.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tdnsdl4.com.cn",
+    "source": {
+      "list": "TENCENT",
+      "line": 90
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tdnsdl5.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tdnsdl5.cn",
+    "source": {
+      "list": "TENCENT",
+      "line": 91
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tdnsdl5.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tdnsdl5.com.cn",
+    "source": {
+      "list": "TENCENT",
+      "line": 92
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tdnsstic1.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tdnsstic1.cn",
+    "source": {
+      "list": "QCLOUD",
+      "line": 135
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tdnsv1.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tdnsv1.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 229
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tdnsv1.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tdnsv1.net",
+    "source": {
+      "list": "QCLOUD",
+      "line": 244
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tdnsv10.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tdnsv10.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 238
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tdnsv10.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tdnsv10.net",
+    "source": {
+      "list": "QCLOUD",
+      "line": 253
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tdnsv11.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tdnsv11.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 239
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tdnsv11.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tdnsv11.net",
+    "source": {
+      "list": "QCLOUD",
+      "line": 254
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tdnsv12.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tdnsv12.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 240
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tdnsv12.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tdnsv12.net",
+    "source": {
+      "list": "QCLOUD",
+      "line": 255
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tdnsv13.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tdnsv13.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 241
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tdnsv13.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tdnsv13.net",
+    "source": {
+      "list": "QCLOUD",
+      "line": 256
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tdnsv14.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tdnsv14.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 242
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tdnsv14.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tdnsv14.net",
+    "source": {
+      "list": "QCLOUD",
+      "line": 257
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tdnsv15.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tdnsv15.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 243
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tdnsv15.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tdnsv15.net",
+    "source": {
+      "list": "QCLOUD",
+      "line": 258
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tdnsv2.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tdnsv2.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 230
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tdnsv2.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tdnsv2.net",
+    "source": {
+      "list": "QCLOUD",
+      "line": 245
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tdnsv3.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tdnsv3.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 231
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tdnsv3.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tdnsv3.net",
+    "source": {
+      "list": "QCLOUD",
+      "line": 246
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tdnsv4.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tdnsv4.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 232
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tdnsv4.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tdnsv4.net",
+    "source": {
+      "list": "QCLOUD",
+      "line": 247
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tdnsv5.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tdnsv5.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 233
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tdnsv5.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tdnsv5.net",
+    "source": {
+      "list": "QCLOUD",
+      "line": 248
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tdnsv6.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tdnsv6.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 234
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tdnsv6.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tdnsv6.net",
+    "source": {
+      "list": "QCLOUD",
+      "line": 249
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tdnsv7.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tdnsv7.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 235
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tdnsv7.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tdnsv7.net",
+    "source": {
+      "list": "QCLOUD",
+      "line": 250
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tdnsv8.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tdnsv8.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 236
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tdnsv8.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tdnsv8.net",
+    "source": {
+      "list": "QCLOUD",
+      "line": 251
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tdnsv9.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tdnsv9.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 237
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tdnsv9.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tdnsv9.net",
+    "source": {
+      "list": "QCLOUD",
+      "line": 252
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tdnsx1.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tdnsx1.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 136
+    }
+  },
+  {
+    "type": "domain",
+    "value": "techo.chat",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:techo.chat",
+    "source": {
+      "list": "QCLOUD",
+      "line": 137
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tefscloud.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tefscloud.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 138
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tefscloud.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tefscloud.net",
+    "source": {
+      "list": "QCLOUD",
+      "line": 139
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tenant-zone-dev.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tenant-zone-dev.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 140
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tencdns.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tencdns.net",
+    "source": {
+      "list": "QCLOUD",
+      "line": 141
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tencent-cloud.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tencent-cloud.cn",
+    "source": {
+      "list": "TENCENT-DEV",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tencent-cloud.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tencent-cloud.com",
+    "source": {
+      "list": "TENCENT-DEV",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tencent-cloud.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tencent-cloud.net",
+    "source": {
+      "list": "QCLOUD",
+      "line": 143
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tencent-gcloud.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tencent-gcloud.com",
+    "source": {
+      "list": "TENCENT-GAMES",
+      "line": 38
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tencent.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tencent.cn",
+    "source": {
+      "list": "TENCENT",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tencent.co.id",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:tencent.co.id:@!cn",
+    "source": {
+      "list": "TENCENT",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tencent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tencent.com",
+    "source": {
+      "list": "TENCENT",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tencent.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tencent.com.cn",
+    "source": {
+      "list": "TENCENT",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tencent.com.hk",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:tencent.com.hk:@!cn",
+    "source": {
+      "list": "TENCENT",
+      "line": 37
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tencent.design",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tencent.design",
+    "source": {
+      "list": "TENCENT-DEV",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tencent.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tencent.net",
+    "source": {
+      "list": "TENCENT",
+      "line": 38
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tencent.net.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tencent.net.cn",
+    "source": {
+      "list": "TENCENT",
+      "line": 39
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tencentapps.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tencentapps.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 144
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tencentbyod.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tencentbyod.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 145
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tencentcdb.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tencentcdb.cn",
+    "source": {
+      "list": "QCLOUD",
+      "line": 146
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tencentcdb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tencentcdb.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 147
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tencentcdb.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tencentcdb.com.cn",
+    "source": {
+      "list": "QCLOUD",
+      "line": 148
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tencentclb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tencentclb.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 149
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tencentcloud-aiot.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tencentcloud-aiot.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 150
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tencentcloud.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tencentcloud.com",
+    "source": {
+      "list": "TENCENT-DEV",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tencentcloudapi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tencentcloudapi.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 151
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tencentcloudclub.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tencentcloudclub.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 152
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tencentcloudcr.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tencentcloudcr.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 153
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tencentcloudmarket.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tencentcloudmarket.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 154
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tencentcloudns.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tencentcloudns.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 155
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tencentcloudsec.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tencentcloudsec.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 156
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tencentcloudses.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tencentcloudses.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 157
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tencentcos.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tencentcos.cn",
+    "source": {
+      "list": "QCLOUD",
+      "line": 158
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tencentcos.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tencentcos.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 159
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tencentcos.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tencentcos.com.cn",
+    "source": {
+      "list": "QCLOUD",
+      "line": 160
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tencentcs.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tencentcs.cn",
+    "source": {
+      "list": "QCLOUD",
+      "line": 161
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tencentcs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tencentcs.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 162
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tencentdayu.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tencentdayu.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 163
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tencentdb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tencentdb.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 164
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tencentdevices.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tencentdevices.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 165
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tencentdigitalassistant.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tencentdigitalassistant.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 166
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tencentdms.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tencentdms.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 167
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tencenteiam.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tencenteiam.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 168
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tencentelasticsearch.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tencentelasticsearch.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 169
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tencentid.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tencentid.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 170
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tencentidentity.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tencentidentity.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 171
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tencentmusic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tencentmusic.com",
+    "source": {
+      "list": "TENCENT",
+      "line": 40
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tencentproxy.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tencentproxy.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 172
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tencentrio.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tencentrio.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 173
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tencentstart.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tencentstart.com",
+    "source": {
+      "list": "TENCENT-GAMES",
+      "line": 39
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tencenttid.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tencenttid.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 174
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tencentwemeet.club",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tencentwemeet.club",
+    "source": {
+      "list": "QCLOUD",
+      "line": 175
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tencentwepark.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tencentwepark.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 176
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tencentyun.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tencentyun.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 177
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tendbcluster.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tendbcluster.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 178
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tendis.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tendis.net",
+    "source": {
+      "list": "QCLOUD",
+      "line": 179
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tenpay.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tenpay.com",
+    "source": {
+      "list": "TENCENT",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "testjrzk.net.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:testjrzk.net.cn",
+    "source": {
+      "list": "QCLOUD",
+      "line": 180
+    }
+  },
+  {
+    "type": "domain",
+    "value": "testmeet.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:testmeet.cn",
+    "source": {
+      "list": "QCLOUD",
+      "line": 181
+    }
+  },
+  {
+    "type": "domain",
+    "value": "testwaf.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:testwaf.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 182
+    }
+  },
+  {
+    "type": "domain",
+    "value": "texasholdemcup.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:texasholdemcup.cn",
+    "source": {
+      "list": "TENCENT-GAMES",
+      "line": 40
+    }
+  },
+  {
+    "type": "domain",
+    "value": "texasholdemcup.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:texasholdemcup.com",
+    "source": {
+      "list": "TENCENT-GAMES",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "texasholdemcup.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:texasholdemcup.net",
+    "source": {
+      "list": "TENCENT-GAMES",
+      "line": 42
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tfogc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tfogc.com",
+    "source": {
+      "list": "TENCENT",
+      "line": 42
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tgovcloud.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tgovcloud.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 183
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tidaas.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tidaas.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 184
+    }
+  },
+  {
+    "type": "domain",
+    "value": "timatrix.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:timatrix.com.cn",
+    "source": {
+      "list": "QCLOUD",
+      "line": 185
+    }
+  },
+  {
+    "type": "domain",
+    "value": "timibase.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:timibase.com",
+    "source": {
+      "list": "TENCENT-GAMES",
+      "line": 43
+    }
+  },
+  {
+    "type": "domain",
+    "value": "timmerse.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:timmerse.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 186
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tingbook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tingbook.com",
+    "source": {
+      "list": "YUEWEN",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tjstats.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tjstats.com",
+    "source": {
+      "list": "TENCENT-DEV",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tlivecdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tlivecdn.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 187
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tlivemcdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tlivemcdn.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 188
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tlivepush.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tlivepush.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 189
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tlivesource.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tlivesource.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 190
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tmead.y.qq.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:tmead.y.qq.com:@ads",
+    "source": {
+      "list": "TENCENT",
+      "line": 145
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tmeadcomm.y.qq.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:tmeadcomm.y.qq.com:@ads",
+    "source": {
+      "list": "TENCENT",
+      "line": 146
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tourismshow.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tourismshow.cn",
+    "source": {
+      "list": "QCLOUD",
+      "line": 191
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tourismuser.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tourismuser.cn",
+    "source": {
+      "list": "QCLOUD",
+      "line": 192
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tpstelemetry.tencent.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:tpstelemetry.tencent.com:@ads",
+    "source": {
+      "list": "TENCENT",
+      "line": 147
+    }
+  },
+  {
+    "type": "domain",
+    "value": "trace.qq.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:trace.qq.com:@ads",
+    "source": {
+      "list": "TENCENT",
+      "line": 148
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tsparkling.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tsparkling.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 193
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tx-exhibition.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tx-exhibition.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 194
+    }
+  },
+  {
+    "type": "domain",
+    "value": "txbyod.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:txbyod.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 195
+    }
+  },
+  {
+    "type": "domain",
+    "value": "txidc.wang",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:txidc.wang",
+    "source": {
+      "list": "QCLOUD",
+      "line": 196
+    }
+  },
+  {
+    "type": "domain",
+    "value": "txlivecdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:txlivecdn.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 197
+    }
+  },
+  {
+    "type": "domain",
+    "value": "txtyxg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:txtyxg.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 198
+    }
+  },
+  {
+    "type": "domain",
+    "value": "txyscdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:txyscdn.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 199
+    }
+  },
+  {
+    "type": "domain",
+    "value": "txyscdn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:txyscdn.net",
+    "source": {
+      "list": "QCLOUD",
+      "line": 200
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ugdtimg.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:ugdtimg.com:@ads",
+    "source": {
+      "list": "TENCENT",
+      "line": 149
+    }
+  },
+  {
+    "type": "domain",
+    "value": "um.run",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:um.run",
+    "source": {
+      "list": "QCLOUD",
+      "line": 395
+    }
+  },
+  {
+    "type": "domain",
+    "value": "uncnn.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:uncnn.cn",
+    "source": {
+      "list": "QCLOUD",
+      "line": 201
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vcloudstc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vcloudstc.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 202
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vcloudstc.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vcloudstc.net",
+    "source": {
+      "list": "QCLOUD",
+      "line": 203
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vcloudvod.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vcloudvod.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 204
+    }
+  },
+  {
+    "type": "domain",
+    "value": "videoxiaoyouxi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:videoxiaoyouxi.com",
+    "source": {
+      "list": "TENCENT-GAMES",
+      "line": 44
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vodtcbk.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vodtcbk.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 205
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vxo7tu.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vxo7tu.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 206
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wcbygame.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wcbygame.com",
+    "source": {
+      "list": "TENCENT-GAMES",
+      "line": 45
+    }
+  },
+  {
+    "type": "domain",
+    "value": "webnovel.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:webnovel.com:@!cn",
+    "source": {
+      "list": "WEBNOVEL",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wechat.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wechat.com",
+    "source": {
+      "list": "TENCENT",
+      "line": 43
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wechatpay.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wechatpay.cn",
+    "source": {
+      "list": "TENCENT",
+      "line": 44
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wegame.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wegame.com",
+    "source": {
+      "list": "TENCENT-GAMES",
+      "line": 78
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wegame.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wegame.com.cn",
+    "source": {
+      "list": "TENCENT-GAMES",
+      "line": 79
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wegamedeveloper.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wegamedeveloper.com",
+    "source": {
+      "list": "TENCENT-DEV",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wegameplus.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wegameplus.com",
+    "source": {
+      "list": "TENCENT-GAMES",
+      "line": 80
+    }
+  },
+  {
+    "type": "domain",
+    "value": "weixinbridge.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:weixinbridge.com",
+    "source": {
+      "list": "TENCENT-DEV",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "weiyun.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:weiyun.com",
+    "source": {
+      "list": "TENCENT",
+      "line": 45
+    }
+  },
+  {
+    "type": "domain",
+    "value": "werepository.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:werepository.com.cn",
+    "source": {
+      "list": "TENCENT-GAMES",
+      "line": 81
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wetv.vip",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:wetv.vip:@!cn",
+    "source": {
+      "list": "TENCENT",
+      "line": 46
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wetvinfo.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:wetvinfo.com:@!cn",
+    "source": {
+      "list": "TENCENT",
+      "line": 47
+    }
+  },
+  {
+    "type": "domain",
+    "value": "weui.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:weui.io",
+    "source": {
+      "list": "TENCENT-DEV",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wework-studio.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wework-studio.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 207
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wit.qq.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:wit.qq.com:@ads",
+    "source": {
+      "list": "TENCENT",
+      "line": 150
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wting.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wting.info",
+    "source": {
+      "list": "YUEWEN",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wxaurl.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wxaurl.cn",
+    "source": {
+      "list": "TENCENT",
+      "line": 48
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wxcloudrun.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wxcloudrun.com",
+    "source": {
+      "list": "TENCENT",
+      "line": 49
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wxgateway.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wxgateway.com",
+    "source": {
+      "list": "TENCENT",
+      "line": 50
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wxlivecdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wxlivecdn.com",
+    "source": {
+      "list": "TENCENT",
+      "line": 51
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--owtw8cc49ajfl.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--owtw8cc49ajfl.cn",
+    "source": {
+      "list": "TENCENT-GAMES",
+      "line": 53
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--r70as2s.xn--fiqs8s",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--r70as2s.xn--fiqs8s",
+    "source": {
+      "list": "TENCENT",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xqymuy.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xqymuy.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 208
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xs.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xs.cn",
+    "source": {
+      "list": "YUEWEN",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xs8.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xs8.cn",
+    "source": {
+      "list": "YUEWEN",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xxsy.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xxsy.net",
+    "source": {
+      "list": "YUEWEN",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ym.run",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ym.run",
+    "source": {
+      "list": "QCLOUD",
+      "line": 396
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yuewen.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yuewen.com",
+    "source": {
+      "list": "YUEWEN",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yufuid.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yufuid.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 209
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yufuid.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yufuid.com.cn",
+    "source": {
+      "list": "QCLOUD",
+      "line": 210
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yufuid.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yufuid.net",
+    "source": {
+      "list": "QCLOUD",
+      "line": 211
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yunjitele.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yunjitele.com",
+    "source": {
+      "list": "QCLOUD",
+      "line": 212
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yxdmgame.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yxdmgame.com",
+    "source": {
+      "list": "TENCENT-GAMES",
+      "line": 46
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yximg.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yximg.cn",
+    "source": {
+      "list": "TENCENT-GAMES",
+      "line": 47
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yxwsgame.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yxwsgame.com",
+    "source": {
+      "list": "TENCENT-GAMES",
+      "line": 48
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yzyxgame.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yzyxgame.com",
+    "source": {
+      "list": "TENCENT-GAMES",
+      "line": 49
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zcjbgame.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zcjbgame.com",
+    "source": {
+      "list": "TENCENT-GAMES",
+      "line": 50
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zhuoyuegame.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zhuoyuegame.com",
+    "source": {
+      "list": "TENCENT-GAMES",
+      "line": 51
+    }
+  },
+  {
+    "type": "full",
+    "value": "wetv.qq.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "full:wetv.qq.com:@!cn",
+    "source": {
+      "list": "TENCENT",
+      "line": 53
+    }
+  }
+]

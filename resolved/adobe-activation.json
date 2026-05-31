@@ -1,0 +1,1520 @@
+[
+  {
+    "type": "full",
+    "value": "3dns-1.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:3dns-1.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 10
+    }
+  },
+  {
+    "type": "full",
+    "value": "3dns-2.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:3dns-2.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 11
+    }
+  },
+  {
+    "type": "full",
+    "value": "3dns-3.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:3dns-3.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 12
+    }
+  },
+  {
+    "type": "full",
+    "value": "3dns-4.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:3dns-4.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 13
+    }
+  },
+  {
+    "type": "full",
+    "value": "3dns-5.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:3dns-5.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 14
+    }
+  },
+  {
+    "type": "full",
+    "value": "3dns.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:3dns.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 15
+    }
+  },
+  {
+    "type": "full",
+    "value": "activate-sea.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:activate-sea.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 16
+    }
+  },
+  {
+    "type": "full",
+    "value": "activate-sjc0.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:activate-sjc0.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 17
+    }
+  },
+  {
+    "type": "full",
+    "value": "activate.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:activate.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 18
+    }
+  },
+  {
+    "type": "full",
+    "value": "activate.wip1.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:activate.wip1.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 19
+    }
+  },
+  {
+    "type": "full",
+    "value": "activate.wip2.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:activate.wip2.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 20
+    }
+  },
+  {
+    "type": "full",
+    "value": "activate.wip3.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:activate.wip3.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 21
+    }
+  },
+  {
+    "type": "full",
+    "value": "activate.wip4.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:activate.wip4.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 22
+    }
+  },
+  {
+    "type": "full",
+    "value": "adobe-dns-1.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:adobe-dns-1.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 23
+    }
+  },
+  {
+    "type": "full",
+    "value": "adobe-dns-2.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:adobe-dns-2.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 24
+    }
+  },
+  {
+    "type": "full",
+    "value": "adobe-dns-3.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:adobe-dns-3.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 25
+    }
+  },
+  {
+    "type": "full",
+    "value": "adobe-dns-4.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:adobe-dns-4.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 26
+    }
+  },
+  {
+    "type": "full",
+    "value": "adobe-dns.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:adobe-dns.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 27
+    }
+  },
+  {
+    "type": "full",
+    "value": "adobeereg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:adobeereg.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 28
+    }
+  },
+  {
+    "type": "full",
+    "value": "crl.versign.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:crl.versign.net",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 29
+    }
+  },
+  {
+    "type": "full",
+    "value": "ereg.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:ereg.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 30
+    }
+  },
+  {
+    "type": "full",
+    "value": "ereg.wip.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:ereg.wip.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 31
+    }
+  },
+  {
+    "type": "full",
+    "value": "ereg.wip1.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:ereg.wip1.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 32
+    }
+  },
+  {
+    "type": "full",
+    "value": "ereg.wip2.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:ereg.wip2.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 33
+    }
+  },
+  {
+    "type": "full",
+    "value": "ereg.wip3.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:ereg.wip3.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 34
+    }
+  },
+  {
+    "type": "full",
+    "value": "ereg.wip4.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:ereg.wip4.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 35
+    }
+  },
+  {
+    "type": "full",
+    "value": "hl2rcv.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:hl2rcv.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 36
+    }
+  },
+  {
+    "type": "full",
+    "value": "hlrcv.stage.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:hlrcv.stage.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 37
+    }
+  },
+  {
+    "type": "full",
+    "value": "lm.licenses.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:lm.licenses.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 38
+    }
+  },
+  {
+    "type": "full",
+    "value": "lmlicenses.wip4.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:lmlicenses.wip4.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 39
+    }
+  },
+  {
+    "type": "full",
+    "value": "na1r.services.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:na1r.services.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 40
+    }
+  },
+  {
+    "type": "full",
+    "value": "ood.opsource.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:ood.opsource.net",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 41
+    }
+  },
+  {
+    "type": "full",
+    "value": "practivate.adobe",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:practivate.adobe",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 42
+    }
+  },
+  {
+    "type": "full",
+    "value": "practivate.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:practivate.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 43
+    }
+  },
+  {
+    "type": "full",
+    "value": "practivate.adobe.ipp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:practivate.adobe.ipp",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 44
+    }
+  },
+  {
+    "type": "full",
+    "value": "practivate.adobe.newoa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:practivate.adobe.newoa",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 45
+    }
+  },
+  {
+    "type": "full",
+    "value": "practivate.adobe.ntp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:practivate.adobe.ntp",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 46
+    }
+  },
+  {
+    "type": "full",
+    "value": "wip.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:wip.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 47
+    }
+  },
+  {
+    "type": "full",
+    "value": "wip1.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:wip1.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 48
+    }
+  },
+  {
+    "type": "full",
+    "value": "wip2.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:wip2.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 49
+    }
+  },
+  {
+    "type": "full",
+    "value": "wip3.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:wip3.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 50
+    }
+  },
+  {
+    "type": "full",
+    "value": "wip4.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:wip4.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 51
+    }
+  },
+  {
+    "type": "full",
+    "value": "wwis-dubc1-vip100.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:wwis-dubc1-vip100.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 52
+    }
+  },
+  {
+    "type": "full",
+    "value": "wwis-dubc1-vip101.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:wwis-dubc1-vip101.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 53
+    }
+  },
+  {
+    "type": "full",
+    "value": "wwis-dubc1-vip102.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:wwis-dubc1-vip102.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 54
+    }
+  },
+  {
+    "type": "full",
+    "value": "wwis-dubc1-vip103.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:wwis-dubc1-vip103.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 55
+    }
+  },
+  {
+    "type": "full",
+    "value": "wwis-dubc1-vip104.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:wwis-dubc1-vip104.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 56
+    }
+  },
+  {
+    "type": "full",
+    "value": "wwis-dubc1-vip105.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:wwis-dubc1-vip105.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 57
+    }
+  },
+  {
+    "type": "full",
+    "value": "wwis-dubc1-vip106.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:wwis-dubc1-vip106.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 58
+    }
+  },
+  {
+    "type": "full",
+    "value": "wwis-dubc1-vip107.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:wwis-dubc1-vip107.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 59
+    }
+  },
+  {
+    "type": "full",
+    "value": "wwis-dubc1-vip108.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:wwis-dubc1-vip108.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 60
+    }
+  },
+  {
+    "type": "full",
+    "value": "wwis-dubc1-vip109.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:wwis-dubc1-vip109.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 61
+    }
+  },
+  {
+    "type": "full",
+    "value": "wwis-dubc1-vip110.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:wwis-dubc1-vip110.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 62
+    }
+  },
+  {
+    "type": "full",
+    "value": "wwis-dubc1-vip111.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:wwis-dubc1-vip111.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 63
+    }
+  },
+  {
+    "type": "full",
+    "value": "wwis-dubc1-vip112.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:wwis-dubc1-vip112.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 64
+    }
+  },
+  {
+    "type": "full",
+    "value": "wwis-dubc1-vip113.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:wwis-dubc1-vip113.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 65
+    }
+  },
+  {
+    "type": "full",
+    "value": "wwis-dubc1-vip114.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:wwis-dubc1-vip114.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 66
+    }
+  },
+  {
+    "type": "full",
+    "value": "wwis-dubc1-vip115.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:wwis-dubc1-vip115.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 67
+    }
+  },
+  {
+    "type": "full",
+    "value": "wwis-dubc1-vip116.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:wwis-dubc1-vip116.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 68
+    }
+  },
+  {
+    "type": "full",
+    "value": "wwis-dubc1-vip117.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:wwis-dubc1-vip117.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 69
+    }
+  },
+  {
+    "type": "full",
+    "value": "wwis-dubc1-vip118.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:wwis-dubc1-vip118.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 70
+    }
+  },
+  {
+    "type": "full",
+    "value": "wwis-dubc1-vip119.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:wwis-dubc1-vip119.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 71
+    }
+  },
+  {
+    "type": "full",
+    "value": "wwis-dubc1-vip120.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:wwis-dubc1-vip120.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 72
+    }
+  },
+  {
+    "type": "full",
+    "value": "wwis-dubc1-vip121.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:wwis-dubc1-vip121.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 73
+    }
+  },
+  {
+    "type": "full",
+    "value": "wwis-dubc1-vip122.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:wwis-dubc1-vip122.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 74
+    }
+  },
+  {
+    "type": "full",
+    "value": "wwis-dubc1-vip123.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:wwis-dubc1-vip123.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 75
+    }
+  },
+  {
+    "type": "full",
+    "value": "wwis-dubc1-vip124.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:wwis-dubc1-vip124.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 76
+    }
+  },
+  {
+    "type": "full",
+    "value": "wwis-dubc1-vip125.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:wwis-dubc1-vip125.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 77
+    }
+  },
+  {
+    "type": "full",
+    "value": "wwis-dubc1-vip30.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:wwis-dubc1-vip30.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 78
+    }
+  },
+  {
+    "type": "full",
+    "value": "wwis-dubc1-vip31.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:wwis-dubc1-vip31.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 79
+    }
+  },
+  {
+    "type": "full",
+    "value": "wwis-dubc1-vip32.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:wwis-dubc1-vip32.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 80
+    }
+  },
+  {
+    "type": "full",
+    "value": "wwis-dubc1-vip33.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:wwis-dubc1-vip33.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 81
+    }
+  },
+  {
+    "type": "full",
+    "value": "wwis-dubc1-vip34.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:wwis-dubc1-vip34.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 82
+    }
+  },
+  {
+    "type": "full",
+    "value": "wwis-dubc1-vip35.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:wwis-dubc1-vip35.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 83
+    }
+  },
+  {
+    "type": "full",
+    "value": "wwis-dubc1-vip36.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:wwis-dubc1-vip36.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 84
+    }
+  },
+  {
+    "type": "full",
+    "value": "wwis-dubc1-vip37.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:wwis-dubc1-vip37.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 85
+    }
+  },
+  {
+    "type": "full",
+    "value": "wwis-dubc1-vip38.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:wwis-dubc1-vip38.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 86
+    }
+  },
+  {
+    "type": "full",
+    "value": "wwis-dubc1-vip39.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:wwis-dubc1-vip39.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 87
+    }
+  },
+  {
+    "type": "full",
+    "value": "wwis-dubc1-vip40.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:wwis-dubc1-vip40.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 88
+    }
+  },
+  {
+    "type": "full",
+    "value": "wwis-dubc1-vip41.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:wwis-dubc1-vip41.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 89
+    }
+  },
+  {
+    "type": "full",
+    "value": "wwis-dubc1-vip42.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:wwis-dubc1-vip42.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 90
+    }
+  },
+  {
+    "type": "full",
+    "value": "wwis-dubc1-vip43.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:wwis-dubc1-vip43.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 91
+    }
+  },
+  {
+    "type": "full",
+    "value": "wwis-dubc1-vip44.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:wwis-dubc1-vip44.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 92
+    }
+  },
+  {
+    "type": "full",
+    "value": "wwis-dubc1-vip45.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:wwis-dubc1-vip45.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 93
+    }
+  },
+  {
+    "type": "full",
+    "value": "wwis-dubc1-vip46.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:wwis-dubc1-vip46.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 94
+    }
+  },
+  {
+    "type": "full",
+    "value": "wwis-dubc1-vip47.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:wwis-dubc1-vip47.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 95
+    }
+  },
+  {
+    "type": "full",
+    "value": "wwis-dubc1-vip48.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:wwis-dubc1-vip48.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 96
+    }
+  },
+  {
+    "type": "full",
+    "value": "wwis-dubc1-vip49.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:wwis-dubc1-vip49.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 97
+    }
+  },
+  {
+    "type": "full",
+    "value": "wwis-dubc1-vip50.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:wwis-dubc1-vip50.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 98
+    }
+  },
+  {
+    "type": "full",
+    "value": "wwis-dubc1-vip51.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:wwis-dubc1-vip51.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 99
+    }
+  },
+  {
+    "type": "full",
+    "value": "wwis-dubc1-vip52.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:wwis-dubc1-vip52.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 100
+    }
+  },
+  {
+    "type": "full",
+    "value": "wwis-dubc1-vip53.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:wwis-dubc1-vip53.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 101
+    }
+  },
+  {
+    "type": "full",
+    "value": "wwis-dubc1-vip54.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:wwis-dubc1-vip54.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 102
+    }
+  },
+  {
+    "type": "full",
+    "value": "wwis-dubc1-vip55.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:wwis-dubc1-vip55.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 103
+    }
+  },
+  {
+    "type": "full",
+    "value": "wwis-dubc1-vip56.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:wwis-dubc1-vip56.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 104
+    }
+  },
+  {
+    "type": "full",
+    "value": "wwis-dubc1-vip57.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:wwis-dubc1-vip57.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 105
+    }
+  },
+  {
+    "type": "full",
+    "value": "wwis-dubc1-vip58.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:wwis-dubc1-vip58.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 106
+    }
+  },
+  {
+    "type": "full",
+    "value": "wwis-dubc1-vip59.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:wwis-dubc1-vip59.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 107
+    }
+  },
+  {
+    "type": "full",
+    "value": "wwis-dubc1-vip60.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:wwis-dubc1-vip60.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 108
+    }
+  },
+  {
+    "type": "full",
+    "value": "wwis-dubc1-vip61.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:wwis-dubc1-vip61.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 109
+    }
+  },
+  {
+    "type": "full",
+    "value": "wwis-dubc1-vip62.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:wwis-dubc1-vip62.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 110
+    }
+  },
+  {
+    "type": "full",
+    "value": "wwis-dubc1-vip63.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:wwis-dubc1-vip63.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 111
+    }
+  },
+  {
+    "type": "full",
+    "value": "wwis-dubc1-vip64.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:wwis-dubc1-vip64.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 112
+    }
+  },
+  {
+    "type": "full",
+    "value": "wwis-dubc1-vip65.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:wwis-dubc1-vip65.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 113
+    }
+  },
+  {
+    "type": "full",
+    "value": "wwis-dubc1-vip66.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:wwis-dubc1-vip66.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 114
+    }
+  },
+  {
+    "type": "full",
+    "value": "wwis-dubc1-vip67.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:wwis-dubc1-vip67.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 115
+    }
+  },
+  {
+    "type": "full",
+    "value": "wwis-dubc1-vip68.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:wwis-dubc1-vip68.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 116
+    }
+  },
+  {
+    "type": "full",
+    "value": "wwis-dubc1-vip69.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:wwis-dubc1-vip69.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 117
+    }
+  },
+  {
+    "type": "full",
+    "value": "wwis-dubc1-vip70.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:wwis-dubc1-vip70.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 118
+    }
+  },
+  {
+    "type": "full",
+    "value": "wwis-dubc1-vip71.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:wwis-dubc1-vip71.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 119
+    }
+  },
+  {
+    "type": "full",
+    "value": "wwis-dubc1-vip72.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:wwis-dubc1-vip72.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 120
+    }
+  },
+  {
+    "type": "full",
+    "value": "wwis-dubc1-vip73.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:wwis-dubc1-vip73.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 121
+    }
+  },
+  {
+    "type": "full",
+    "value": "wwis-dubc1-vip74.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:wwis-dubc1-vip74.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 122
+    }
+  },
+  {
+    "type": "full",
+    "value": "wwis-dubc1-vip75.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:wwis-dubc1-vip75.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 123
+    }
+  },
+  {
+    "type": "full",
+    "value": "wwis-dubc1-vip76.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:wwis-dubc1-vip76.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 124
+    }
+  },
+  {
+    "type": "full",
+    "value": "wwis-dubc1-vip77.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:wwis-dubc1-vip77.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 125
+    }
+  },
+  {
+    "type": "full",
+    "value": "wwis-dubc1-vip78.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:wwis-dubc1-vip78.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 126
+    }
+  },
+  {
+    "type": "full",
+    "value": "wwis-dubc1-vip79.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:wwis-dubc1-vip79.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 127
+    }
+  },
+  {
+    "type": "full",
+    "value": "wwis-dubc1-vip80.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:wwis-dubc1-vip80.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 128
+    }
+  },
+  {
+    "type": "full",
+    "value": "wwis-dubc1-vip81.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:wwis-dubc1-vip81.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 129
+    }
+  },
+  {
+    "type": "full",
+    "value": "wwis-dubc1-vip82.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:wwis-dubc1-vip82.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 130
+    }
+  },
+  {
+    "type": "full",
+    "value": "wwis-dubc1-vip83.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:wwis-dubc1-vip83.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 131
+    }
+  },
+  {
+    "type": "full",
+    "value": "wwis-dubc1-vip84.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:wwis-dubc1-vip84.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 132
+    }
+  },
+  {
+    "type": "full",
+    "value": "wwis-dubc1-vip85.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:wwis-dubc1-vip85.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 133
+    }
+  },
+  {
+    "type": "full",
+    "value": "wwis-dubc1-vip86.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:wwis-dubc1-vip86.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 134
+    }
+  },
+  {
+    "type": "full",
+    "value": "wwis-dubc1-vip87.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:wwis-dubc1-vip87.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 135
+    }
+  },
+  {
+    "type": "full",
+    "value": "wwis-dubc1-vip88.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:wwis-dubc1-vip88.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 136
+    }
+  },
+  {
+    "type": "full",
+    "value": "wwis-dubc1-vip89.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:wwis-dubc1-vip89.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 137
+    }
+  },
+  {
+    "type": "full",
+    "value": "wwis-dubc1-vip90.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:wwis-dubc1-vip90.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 138
+    }
+  },
+  {
+    "type": "full",
+    "value": "wwis-dubc1-vip91.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:wwis-dubc1-vip91.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 139
+    }
+  },
+  {
+    "type": "full",
+    "value": "wwis-dubc1-vip92.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:wwis-dubc1-vip92.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 140
+    }
+  },
+  {
+    "type": "full",
+    "value": "wwis-dubc1-vip93.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:wwis-dubc1-vip93.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 141
+    }
+  },
+  {
+    "type": "full",
+    "value": "wwis-dubc1-vip94.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:wwis-dubc1-vip94.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 142
+    }
+  },
+  {
+    "type": "full",
+    "value": "wwis-dubc1-vip95.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:wwis-dubc1-vip95.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 143
+    }
+  },
+  {
+    "type": "full",
+    "value": "wwis-dubc1-vip96.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:wwis-dubc1-vip96.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 144
+    }
+  },
+  {
+    "type": "full",
+    "value": "wwis-dubc1-vip97.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:wwis-dubc1-vip97.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 145
+    }
+  },
+  {
+    "type": "full",
+    "value": "wwis-dubc1-vip98.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:wwis-dubc1-vip98.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 146
+    }
+  },
+  {
+    "type": "full",
+    "value": "wwis-dubc1-vip99.adobe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:wwis-dubc1-vip99.adobe.com",
+    "source": {
+      "list": "ADOBE-ACTIVATION",
+      "line": 147
+    }
+  }
+]

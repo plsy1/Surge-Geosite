@@ -1,0 +1,233 @@
+[
+  {
+    "type": "domain",
+    "value": "ibkr.ca",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ibkr.ca",
+    "source": {
+      "list": "IBKR",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ibkr.co.in",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ibkr.co.in",
+    "source": {
+      "list": "IBKR",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ibkr.co.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ibkr.co.uk",
+    "source": {
+      "list": "IBKR",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ibkr.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ibkr.com",
+    "source": {
+      "list": "IBKR",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ibkr.com.au",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ibkr.com.au",
+    "source": {
+      "list": "IBKR",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ibkr.com.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ibkr.com.hk",
+    "source": {
+      "list": "IBKR",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ibkr.com.sg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ibkr.com.sg",
+    "source": {
+      "list": "IBKR",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ibkr.eu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ibkr.eu",
+    "source": {
+      "list": "IBKR",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ibkr.ie",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ibkr.ie",
+    "source": {
+      "list": "IBKR",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ibkrguides.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ibkrguides.com",
+    "source": {
+      "list": "IBKR",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ibllc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ibllc.com",
+    "source": {
+      "list": "IBKR",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "interactivebrokers.ca",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:interactivebrokers.ca",
+    "source": {
+      "list": "IBKR",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "interactivebrokers.co.in",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:interactivebrokers.co.in",
+    "source": {
+      "list": "IBKR",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "interactivebrokers.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:interactivebrokers.co.jp",
+    "source": {
+      "list": "IBKR",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "interactivebrokers.co.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:interactivebrokers.co.uk",
+    "source": {
+      "list": "IBKR",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "interactivebrokers.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:interactivebrokers.com",
+    "source": {
+      "list": "IBKR",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "interactivebrokers.com.au",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:interactivebrokers.com.au",
+    "source": {
+      "list": "IBKR",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "interactivebrokers.com.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:interactivebrokers.com.hk",
+    "source": {
+      "list": "IBKR",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "interactivebrokers.com.sg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:interactivebrokers.com.sg",
+    "source": {
+      "list": "IBKR",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "interactivebrokers.eu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:interactivebrokers.eu",
+    "source": {
+      "list": "IBKR",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "interactivebrokers.ie",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:interactivebrokers.ie",
+    "source": {
+      "list": "IBKR",
+      "line": 21
+    }
+  }
+]

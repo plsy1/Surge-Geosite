@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "cdncl.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdncl.net",
+    "source": {
+      "list": "COWLEVEL",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cowlevel.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cowlevel.net",
+    "source": {
+      "list": "COWLEVEL",
+      "line": 1
+    }
+  }
+]

@@ -1,0 +1,5451 @@
+[
+  {
+    "type": "domain",
+    "value": "dl.playstation.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dl.playstation.net",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 556
+    }
+  },
+  {
+    "type": "domain",
+    "value": "egdownload.fastly-edge.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:egdownload.fastly-edge.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 39
+    }
+  },
+  {
+    "type": "full",
+    "value": "akamai.cdn.steampipe.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:akamai.cdn.steampipe.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 541
+    }
+  },
+  {
+    "type": "full",
+    "value": "alibaba.cdn.steampipe.steamcontent.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:alibaba.cdn.steampipe.steamcontent.com:@cn",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 123
+    }
+  },
+  {
+    "type": "full",
+    "value": "ares.secure.dyn.riotcdn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:ares.secure.dyn.riotcdn.net",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 13
+    }
+  },
+  {
+    "type": "full",
+    "value": "assets1.xboxlive.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:assets1.xboxlive.cn:@cn",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 81
+    }
+  },
+  {
+    "type": "full",
+    "value": "assets1.xboxlive.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:assets1.xboxlive.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 89
+    }
+  },
+  {
+    "type": "full",
+    "value": "assets2.xboxlive.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:assets2.xboxlive.cn:@cn",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 82
+    }
+  },
+  {
+    "type": "full",
+    "value": "assets2.xboxlive.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:assets2.xboxlive.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 90
+    }
+  },
+  {
+    "type": "full",
+    "value": "bacon.secure.dyn.riotcdn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:bacon.secure.dyn.riotcdn.net",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 14
+    }
+  },
+  {
+    "type": "full",
+    "value": "blizzard.gcdn.cloudn.co.kr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:blizzard.gcdn.cloudn.co.kr",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 48
+    }
+  },
+  {
+    "type": "full",
+    "value": "blzddist1-a.akamaihd.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:blzddist1-a.akamaihd.net",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 51
+    }
+  },
+  {
+    "type": "full",
+    "value": "blzddistkr1-a.akamaihd.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:blzddistkr1-a.akamaihd.net",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 52
+    }
+  },
+  {
+    "type": "full",
+    "value": "blzdist-d3.necdn.leihuo.netease.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:blzdist-d3.necdn.leihuo.netease.com:@cn",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 67
+    }
+  },
+  {
+    "type": "full",
+    "value": "blzdist-di.necdn.leihuo.netease.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:blzdist-di.necdn.leihuo.netease.com:@cn",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 65
+    }
+  },
+  {
+    "type": "full",
+    "value": "blzdist-hs.necdn.leihuo.netease.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:blzdist-hs.necdn.leihuo.netease.com:@cn",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 64
+    }
+  },
+  {
+    "type": "full",
+    "value": "blzdist-ow.necdn.leihuo.netease.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:blzdist-ow.necdn.leihuo.netease.com:@cn",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 66
+    }
+  },
+  {
+    "type": "full",
+    "value": "blzdist-phx.necdn.leihuo.netease.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:blzdist-phx.necdn.leihuo.netease.com:@cn",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 62
+    }
+  },
+  {
+    "type": "full",
+    "value": "blzdist-wow.necdn.leihuo.netease.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:blzdist-wow.necdn.leihuo.netease.com:@cn",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 63
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache1-ams1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache1-ams1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 166
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache1-atl1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache1-atl1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 167
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache1-atl3.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache1-atl3.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 168
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache1-bom1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache1-bom1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 169
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache1-bom2.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache1-bom2.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 170
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache1-dfw1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache1-dfw1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 171
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache1-dxb1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache1-dxb1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 522
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache1-eze1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache1-eze1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 172
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache1-fra1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache1-fra1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 173
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache1-fra2.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache1-fra2.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 174
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache1-gru1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache1-gru1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 175
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache1-hkg1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache1-hkg1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 176
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache1-iad1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache1-iad1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 177
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache1-jnb1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache1-jnb1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 178
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache1-lax1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache1-lax1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 179
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache1-lhr1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache1-lhr1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 180
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache1-lim1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache1-lim1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 520
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache1-maa1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache1-maa1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 181
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache1-maa2.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache1-maa2.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 182
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache1-mad1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache1-mad1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 183
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache1-man1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache1-man1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 465
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache1-okc1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache1-okc1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 506
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache1-ord1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache1-ord1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 184
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache1-par1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache1-par1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 185
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache1-scl1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache1-scl1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 186
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache1-sea1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache1-sea1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 187
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache1-seo1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache1-seo1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 188
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache1-sgp1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache1-sgp1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 189
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache1-sto1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache1-sto1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 190
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache1-sto2.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache1-sto2.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 191
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache1-syd1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache1-syd1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 192
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache1-tyo1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache1-tyo1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 488
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache1-tyo2.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache1-tyo2.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 490
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache1-tyo3.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache1-tyo3.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 193
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache1-vie1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache1-vie1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 194
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache1-waw1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache1-waw1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 195
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache10-ams1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache10-ams1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 495
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache10-atl1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache10-atl1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 449
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache10-atl3.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache10-atl3.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 132
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache10-fra1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache10-fra1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 133
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache10-fra2.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache10-fra2.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 134
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache10-gru1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache10-gru1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 524
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache10-iad1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache10-iad1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 135
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache10-lax1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache10-lax1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 136
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache10-lhr1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache10-lhr1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 137
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache10-ord1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache10-ord1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 138
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache10-sea1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache10-sea1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 468
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache10-seo1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache10-seo1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 139
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache10-sgp1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache10-sgp1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 140
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache10-sto1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache10-sto1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 454
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache10-sto2.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache10-sto2.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 519
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache10-tyo3.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache10-tyo3.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 141
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache10-vie1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache10-vie1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 515
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache11-ams1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache11-ams1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 496
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache11-atl1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache11-atl1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 450
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache11-fra1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache11-fra1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 142
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache11-fra2.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache11-fra2.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 143
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache11-iad1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache11-iad1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 144
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache11-lax1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache11-lax1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 373
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache11-lhr1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache11-lhr1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 145
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache11-ord1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache11-ord1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 455
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache11-sea1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache11-sea1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 469
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache11-sgp1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache11-sgp1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 504
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache11-tyo3.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache11-tyo3.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 146
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache11-vie1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache11-vie1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 516
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache12-ams1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache12-ams1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 497
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache12-atl1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache12-atl1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 525
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache12-fra1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache12-fra1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 147
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache12-fra2.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache12-fra2.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 148
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache12-iad1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache12-iad1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 149
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache12-lax1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache12-lax1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 374
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache12-lhr1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache12-lhr1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 150
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache12-ord1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache12-ord1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 456
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache12-sea1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache12-sea1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 470
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache12-sgp1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache12-sgp1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 505
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache12-tyo3.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache12-tyo3.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 151
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache12-vie1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache12-vie1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 517
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache13-ams1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache13-ams1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 498
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache13-atl1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache13-atl1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 526
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache13-fra1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache13-fra1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 152
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache13-fra2.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache13-fra2.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 153
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache13-iad1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache13-iad1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 154
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache13-lax1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache13-lax1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 375
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache13-lhr1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache13-lhr1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 155
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache13-ord1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache13-ord1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 457
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache14-ams1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache14-ams1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 499
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache14-fra1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache14-fra1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 156
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache14-fra2.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache14-fra2.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 157
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache14-iad1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache14-iad1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 158
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache14-lax1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache14-lax1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 376
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache14-lhr1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache14-lhr1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 159
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache14-ord1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache14-ord1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 458
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache15-ams1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache15-ams1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 500
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache15-fra1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache15-fra1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 396
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache15-fra2.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache15-fra2.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 160
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache15-iad1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache15-iad1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 161
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache15-lax1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache15-lax1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 377
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache15-lhr1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache15-lhr1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 162
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache15-ord1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache15-ord1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 459
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache16-ams1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache16-ams1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 501
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache16-fra1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache16-fra1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 397
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache16-fra2.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache16-fra2.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 163
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache16-iad1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache16-iad1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 164
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache16-lax1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache16-lax1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 378
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache16-lhr1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache16-lhr1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 165
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache16-ord1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache16-ord1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 460
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache17-ams1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache17-ams1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 502
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache17-fra1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache17-fra1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 527
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache17-iad1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache17-iad1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 384
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache17-lax1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache17-lax1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 379
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache17-ord1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache17-ord1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 461
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache18-ams1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache18-ams1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 503
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache18-fra1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache18-fra1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 528
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache18-iad1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache18-iad1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 385
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache18-lax1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache18-lax1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 380
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache18-ord1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache18-ord1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 462
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache19-fra1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache19-fra1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 529
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache19-iad1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache19-iad1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 386
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache19-lax1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache19-lax1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 381
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache19-lhr1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache19-lhr1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 471
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache19-ord1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache19-ord1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 463
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache2-ams1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache2-ams1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 196
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache2-atl1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache2-atl1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 197
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache2-atl3.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache2-atl3.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 198
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache2-bom2.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache2-bom2.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 199
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache2-dfw1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache2-dfw1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 200
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache2-dxb1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache2-dxb1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 523
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache2-eze1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache2-eze1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 201
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache2-fra1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache2-fra1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 202
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache2-fra2.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache2-fra2.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 203
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache2-gru1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache2-gru1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 204
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache2-hkg1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache2-hkg1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 205
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache2-iad1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache2-iad1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 206
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache2-jnb1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache2-jnb1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 207
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache2-lax1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache2-lax1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 208
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache2-lhr1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache2-lhr1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 209
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache2-lim1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache2-lim1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 521
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache2-maa2.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache2-maa2.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 210
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache2-mad1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache2-mad1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 211
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache2-man1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache2-man1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 466
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache2-okc1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache2-okc1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 507
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache2-ord1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache2-ord1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 212
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache2-par1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache2-par1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 213
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache2-scl1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache2-scl1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 214
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache2-sea1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache2-sea1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 215
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache2-seo1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache2-seo1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 216
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache2-sgp1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache2-sgp1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 217
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache2-sto1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache2-sto1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 218
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache2-sto2.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache2-sto2.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 219
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache2-syd1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache2-syd1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 220
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache2-tyo1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache2-tyo1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 489
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache2-tyo2.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache2-tyo2.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 491
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache2-tyo3.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache2-tyo3.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 221
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache2-vie1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache2-vie1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 222
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache2-waw1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache2-waw1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 223
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache20-fra1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache20-fra1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 530
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache20-iad1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache20-iad1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 387
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache20-lax1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache20-lax1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 382
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache20-lhr1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache20-lhr1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 472
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache20-ord1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache20-ord1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 464
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache21-fra1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache21-fra1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 398
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache21-iad1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache21-iad1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 388
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache21-lax1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache21-lax1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 383
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache21-lhr1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache21-lhr1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 473
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache22-fra1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache22-fra1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 399
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache22-iad1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache22-iad1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 389
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache22-lhr1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache22-lhr1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 474
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache23-fra1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache23-fra1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 400
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache23-iad1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache23-iad1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 390
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache23-lhr1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache23-lhr1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 475
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache24-fra1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache24-fra1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 401
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache24-iad1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache24-iad1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 391
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache24-lhr1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache24-lhr1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 476
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache25-fra1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache25-fra1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 402
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache25-iad1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache25-iad1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 392
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache25-lhr1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache25-lhr1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 477
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache26-fra1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache26-fra1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 403
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache26-iad1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache26-iad1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 393
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache26-lhr1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache26-lhr1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 478
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache27-fra1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache27-fra1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 404
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache27-iad1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache27-iad1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 394
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache27-lhr1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache27-lhr1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 479
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache28-fra1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache28-fra1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 405
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache28-iad1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache28-iad1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 395
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache28-lhr1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache28-lhr1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 480
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache29-fra1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache29-fra1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 406
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache29-lhr1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache29-lhr1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 481
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache3-ams1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache3-ams1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 224
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache3-atl1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache3-atl1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 225
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache3-atl3.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache3-atl3.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 226
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache3-dfw1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache3-dfw1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 227
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache3-dxb1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache3-dxb1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 228
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache3-eze1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache3-eze1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 229
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache3-fra1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache3-fra1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 230
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache3-fra2.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache3-fra2.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 231
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache3-gru1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache3-gru1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 232
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache3-hkg1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache3-hkg1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 233
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache3-iad1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache3-iad1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 234
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache3-jnb1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache3-jnb1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 235
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache3-lax1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache3-lax1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 236
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache3-lhr1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache3-lhr1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 237
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache3-lim1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache3-lim1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 238
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache3-mad1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache3-mad1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 239
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache3-okc1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache3-okc1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 508
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache3-ord1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache3-ord1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 240
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache3-par1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache3-par1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 241
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache3-scl1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache3-scl1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 242
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache3-sea1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache3-sea1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 243
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache3-seo1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache3-seo1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 244
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache3-sgp1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache3-sgp1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 245
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache3-sto1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache3-sto1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 246
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache3-sto2.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache3-sto2.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 247
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache3-syd1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache3-syd1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 248
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache3-tyo1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache3-tyo1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 531
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache3-tyo2.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache3-tyo2.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 492
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache3-tyo3.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache3-tyo3.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 249
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache3-vie1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache3-vie1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 250
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache3-waw1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache3-waw1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 251
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache30-fra1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache30-fra1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 407
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache30-lhr1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache30-lhr1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 482
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache31-fra1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache31-fra1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 408
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache31-lhr1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache31-lhr1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 483
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache32-fra1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache32-fra1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 409
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache32-lhr1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache32-lhr1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 484
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache33-fra1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache33-fra1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 410
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache33-lhr1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache33-lhr1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 485
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache34-fra1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache34-fra1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 411
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache34-lhr1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache34-lhr1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 486
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache35-fra1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache35-fra1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 412
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache35-lhr1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache35-lhr1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 487
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache36-fra1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache36-fra1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 413
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache37-fra1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache37-fra1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 414
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache38-fra1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache38-fra1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 415
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache39-fra1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache39-fra1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 416
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache4-ams1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache4-ams1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 252
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache4-atl1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache4-atl1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 253
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache4-atl3.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache4-atl3.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 254
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache4-dfw1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache4-dfw1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 255
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache4-dxb1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache4-dxb1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 256
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache4-eze1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache4-eze1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 257
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache4-fra1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache4-fra1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 258
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache4-fra2.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache4-fra2.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 259
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache4-gru1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache4-gru1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 260
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache4-hkg1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache4-hkg1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 261
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache4-iad1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache4-iad1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 262
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache4-jnb1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache4-jnb1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 263
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache4-lax1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache4-lax1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 264
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache4-lhr1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache4-lhr1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 265
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache4-lim1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache4-lim1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 266
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache4-mad1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache4-mad1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 267
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache4-okc1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache4-okc1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 509
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache4-ord1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache4-ord1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 268
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache4-par1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache4-par1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 269
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache4-scl1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache4-scl1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 270
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache4-sea1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache4-sea1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 271
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache4-seo1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache4-seo1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 272
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache4-sgp1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache4-sgp1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 273
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache4-sto1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache4-sto1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 274
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache4-sto2.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache4-sto2.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 275
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache4-syd1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache4-syd1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 276
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache4-tyo1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache4-tyo1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 532
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache4-tyo2.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache4-tyo2.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 493
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache4-tyo3.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache4-tyo3.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 277
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache4-vie1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache4-vie1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 278
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache4-waw1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache4-waw1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 279
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache40-fra1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache40-fra1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 417
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache41-fra1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache41-fra1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 418
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache42-fra1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache42-fra1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 419
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache43-fra1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache43-fra1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 420
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache44-fra1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache44-fra1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 421
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache45-fra1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache45-fra1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 422
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache46-fra1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache46-fra1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 423
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache47-fra1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache47-fra1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 424
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache48-fra1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache48-fra1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 425
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache49-fra1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache49-fra1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 426
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache5-ams1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache5-ams1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 280
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache5-atl1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache5-atl1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 281
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache5-atl3.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache5-atl3.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 282
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache5-dfw1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache5-dfw1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 283
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache5-fra1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache5-fra1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 284
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache5-fra2.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache5-fra2.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 285
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache5-gru1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache5-gru1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 286
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache5-hkg1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache5-hkg1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 287
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache5-iad1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache5-iad1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 288
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache5-lax1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache5-lax1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 289
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache5-lhr1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache5-lhr1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 290
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache5-mad1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache5-mad1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 291
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache5-okc1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache5-okc1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 510
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache5-ord1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache5-ord1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 292
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache5-par1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache5-par1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 293
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache5-sea1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache5-sea1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 294
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache5-seo1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache5-seo1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 295
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache5-sgp1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache5-sgp1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 296
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache5-sto1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache5-sto1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 297
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache5-sto2.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache5-sto2.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 298
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache5-syd1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache5-syd1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 299
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache5-tyo1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache5-tyo1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 533
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache5-tyo3.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache5-tyo3.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 300
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache5-vie1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache5-vie1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 301
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache5-waw1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache5-waw1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 302
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache50-fra1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache50-fra1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 427
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache51-fra1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache51-fra1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 428
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache52-fra1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache52-fra1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 429
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache53-fra1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache53-fra1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 430
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache54-fra1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache54-fra1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 431
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache55-fra1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache55-fra1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 432
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache56-fra1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache56-fra1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 433
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache57-fra1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache57-fra1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 434
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache58-fra1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache58-fra1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 435
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache59-fra1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache59-fra1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 436
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache6-ams1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache6-ams1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 303
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache6-atl1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache6-atl1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 304
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache6-atl3.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache6-atl3.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 305
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache6-dfw1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache6-dfw1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 306
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache6-fra1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache6-fra1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 307
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache6-fra2.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache6-fra2.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 308
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache6-gru1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache6-gru1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 309
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache6-hkg1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache6-hkg1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 310
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache6-iad1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache6-iad1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 311
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache6-lax1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache6-lax1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 312
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache6-lhr1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache6-lhr1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 313
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache6-mad1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache6-mad1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 314
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache6-okc1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache6-okc1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 511
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache6-ord1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache6-ord1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 315
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache6-par1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache6-par1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 316
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache6-sea1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache6-sea1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 317
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache6-seo1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache6-seo1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 318
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache6-sgp1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache6-sgp1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 319
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache6-sto1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache6-sto1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 320
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache6-sto2.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache6-sto2.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 321
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache6-syd1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache6-syd1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 322
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache6-tyo1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache6-tyo1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 534
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache6-tyo3.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache6-tyo3.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 323
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache6-vie1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache6-vie1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 324
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache6-waw1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache6-waw1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 325
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache61-fra1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache61-fra1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 437
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache62-fra1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache62-fra1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 438
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache63-fra1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache63-fra1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 439
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache64-fra1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache64-fra1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 440
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache65-fra1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache65-fra1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 441
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache66-fra1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache66-fra1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 442
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache67-fra1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache67-fra1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 443
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache68-fra1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache68-fra1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 444
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache69-fra1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache69-fra1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 445
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache7-ams1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache7-ams1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 326
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache7-atl1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache7-atl1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 446
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache7-atl3.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache7-atl3.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 327
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache7-dfw1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache7-dfw1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 328
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache7-fra1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache7-fra1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 329
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache7-fra2.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache7-fra2.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 330
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache7-gru1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache7-gru1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 331
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache7-hkg1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache7-hkg1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 332
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache7-iad1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache7-iad1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 333
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache7-lax1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache7-lax1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 334
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache7-lhr1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache7-lhr1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 335
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache7-okc1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache7-okc1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 512
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache7-ord1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache7-ord1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 336
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache7-par1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache7-par1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 337
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache7-seo1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache7-seo1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 338
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache7-sgp1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache7-sgp1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 339
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache7-sto1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache7-sto1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 451
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache7-sto2.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache7-sto2.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 340
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache7-tyo3.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache7-tyo3.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 341
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache7-vie1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache7-vie1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 342
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache7-waw1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache7-waw1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 343
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache8-ams1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache8-ams1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 344
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache8-atl1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache8-atl1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 447
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache8-atl3.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache8-atl3.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 345
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache8-dfw1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache8-dfw1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 346
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache8-fra1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache8-fra1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 347
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache8-fra2.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache8-fra2.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 348
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache8-gru1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache8-gru1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 349
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache8-hkg1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache8-hkg1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 350
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache8-iad1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache8-iad1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 351
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache8-lax1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache8-lax1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 352
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache8-lhr1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache8-lhr1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 353
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache8-okc1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache8-okc1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 513
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache8-ord1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache8-ord1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 354
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache8-par1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache8-par1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 355
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache8-sea1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache8-sea1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 467
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache8-seo1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache8-seo1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 356
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache8-sgp1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache8-sgp1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 357
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache8-sto1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache8-sto1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 452
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache8-sto2.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache8-sto2.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 358
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache8-tyo3.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache8-tyo3.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 359
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache8-vie1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache8-vie1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 360
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache8-waw1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache8-waw1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 361
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache9-ams1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache9-ams1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 494
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache9-atl1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache9-atl1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 448
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache9-atl3.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache9-atl3.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 362
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache9-fra1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache9-fra1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 363
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache9-fra2.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache9-fra2.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 364
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache9-gru1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache9-gru1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 535
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache9-hkg1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache9-hkg1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 365
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache9-iad1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache9-iad1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 366
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache9-lax1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache9-lax1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 367
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache9-lhr1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache9-lhr1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 368
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache9-ord1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache9-ord1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 369
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache9-seo1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache9-seo1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 370
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache9-sgp1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache9-sgp1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 371
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache9-sto1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache9-sto1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 453
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache9-sto2.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache9-sto2.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 518
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache9-tyo3.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache9-tyo3.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 372
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache9-vie1.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache9-vie1.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 514
+    }
+  },
+  {
+    "type": "full",
+    "value": "cdn-ali.content.steamchina.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:cdn-ali.content.steamchina.com:@cn",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 120
+    }
+  },
+  {
+    "type": "full",
+    "value": "cdn-qc.content.steamchina.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:cdn-qc.content.steamchina.com:@cn",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 129
+    }
+  },
+  {
+    "type": "full",
+    "value": "cdn-ws.content.steamchina.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:cdn-ws.content.steamchina.com:@cn",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 126
+    }
+  },
+  {
+    "type": "full",
+    "value": "cloudflare.epicgamescdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cloudflare.epicgamescdn.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 42
+    }
+  },
+  {
+    "type": "full",
+    "value": "content.cdp.bethesda.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:content.cdp.bethesda.net",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 3
+    }
+  },
+  {
+    "type": "full",
+    "value": "dl.delivery.mp.microsoft.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:dl.delivery.mp.microsoft.com:@cn",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 83
+    }
+  },
+  {
+    "type": "full",
+    "value": "dl.steam.clngaa.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:dl.steam.clngaa.com:@cn",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 111
+    }
+  },
+  {
+    "type": "full",
+    "value": "download.cdp.bethesda.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:download.cdp.bethesda.net",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 2
+    }
+  },
+  {
+    "type": "full",
+    "value": "download.epicgames.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:download.epicgames.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 29
+    }
+  },
+  {
+    "type": "full",
+    "value": "download2.epicgames.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:download2.epicgames.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 30
+    }
+  },
+  {
+    "type": "full",
+    "value": "download3.epicgames.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:download3.epicgames.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 31
+    }
+  },
+  {
+    "type": "full",
+    "value": "download4.epicgames.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:download4.epicgames.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 32
+    }
+  },
+  {
+    "type": "full",
+    "value": "dyn.riotcdn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:dyn.riotcdn.net",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 18
+    }
+  },
+  {
+    "type": "full",
+    "value": "edge.steam-dns.top.comcast.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:edge.steam-dns.top.comcast.net",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 552
+    }
+  },
+  {
+    "type": "full",
+    "value": "epicgames-download1-1251447533.file.myqcloud.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:epicgames-download1-1251447533.file.myqcloud.com:@cn",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 45
+    }
+  },
+  {
+    "type": "full",
+    "value": "epicgames-download1.akamaized.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:epicgames-download1.akamaized.net",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 35
+    }
+  },
+  {
+    "type": "full",
+    "value": "eu.cdn.blizzard.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:eu.cdn.blizzard.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 59
+    }
+  },
+  {
+    "type": "full",
+    "value": "fastly-download.epicgames.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:fastly-download.epicgames.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 38
+    }
+  },
+  {
+    "type": "full",
+    "value": "fastly.cdn.steampipe.steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:fastly.cdn.steampipe.steamcontent.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 544
+    }
+  },
+  {
+    "type": "full",
+    "value": "galaxy-promos.gog.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:galaxy-promos.gog.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 77
+    }
+  },
+  {
+    "type": "full",
+    "value": "gamedownloads-rockstargames-com.akamaized.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:gamedownloads-rockstargames-com.akamaized.net",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 26
+    }
+  },
+  {
+    "type": "full",
+    "value": "global.dyn.riotcdn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:global.dyn.riotcdn.net",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 20
+    }
+  },
+  {
+    "type": "full",
+    "value": "gog-cdn-fastly-cp77.gog.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:gog-cdn-fastly-cp77.gog.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 73
+    }
+  },
+  {
+    "type": "full",
+    "value": "gog-cdn-fastly.gog.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:gog-cdn-fastly.gog.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 74
+    }
+  },
+  {
+    "type": "full",
+    "value": "gog-cdn.akamaized.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:gog-cdn.akamaized.net",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 70
+    }
+  },
+  {
+    "type": "full",
+    "value": "kr.cdn.blizzard.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:kr.cdn.blizzard.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 57
+    }
+  },
+  {
+    "type": "full",
+    "value": "ks-foundation.dyn.riotcdn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:ks-foundation.dyn.riotcdn.net",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 22
+    }
+  },
+  {
+    "type": "full",
+    "value": "ks-foundation.secure.dyn.riotcdn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:ks-foundation.secure.dyn.riotcdn.net",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 8
+    }
+  },
+  {
+    "type": "full",
+    "value": "level3.blizzard.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:level3.blizzard.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 53
+    }
+  },
+  {
+    "type": "full",
+    "value": "level3.ssl.blizzard.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:level3.ssl.blizzard.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 54
+    }
+  },
+  {
+    "type": "full",
+    "value": "lion.secure.dyn.riotcdn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:lion.secure.dyn.riotcdn.net",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 6
+    }
+  },
+  {
+    "type": "full",
+    "value": "lol.dyn.riotcdn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:lol.dyn.riotcdn.net",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 17
+    }
+  },
+  {
+    "type": "full",
+    "value": "lol.secure.dyn.riotcdn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:lol.secure.dyn.riotcdn.net",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 7
+    }
+  },
+  {
+    "type": "full",
+    "value": "lv.queniujq.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:lv.queniujq.cn:@cn",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 122
+    }
+  },
+  {
+    "type": "full",
+    "value": "marketing-sections.gog.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:marketing-sections.gog.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 78
+    }
+  },
+  {
+    "type": "full",
+    "value": "mock-game.dyn.riotcdn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:mock-game.dyn.riotcdn.net",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 21
+    }
+  },
+  {
+    "type": "full",
+    "value": "mock-game.secure.dyn.riotcdn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:mock-game.secure.dyn.riotcdn.net",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 10
+    }
+  },
+  {
+    "type": "full",
+    "value": "origin-a.akamaihd.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:origin-a.akamaihd.net",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 105
+    }
+  },
+  {
+    "type": "full",
+    "value": "prod.cloudflare.cdn.ea.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:prod.cloudflare.cdn.ea.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 108
+    }
+  },
+  {
+    "type": "full",
+    "value": "recommendations-api.gog.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:recommendations-api.gog.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 75
+    }
+  },
+  {
+    "type": "full",
+    "value": "riot-client.dyn.riotcdn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:riot-client.dyn.riotcdn.net",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 23
+    }
+  },
+  {
+    "type": "full",
+    "value": "riot-client.secure.dyn.riotcdn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:riot-client.secure.dyn.riotcdn.net",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 9
+    }
+  },
+  {
+    "type": "full",
+    "value": "ritoplus.secure.dyn.riotcdn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:ritoplus.secure.dyn.riotcdn.net",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 15
+    }
+  },
+  {
+    "type": "full",
+    "value": "sections.gog.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:sections.gog.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 76
+    }
+  },
+  {
+    "type": "full",
+    "value": "st-bak.viv.wanwang.space",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:st-bak.viv.wanwang.space:@cn",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 117
+    }
+  },
+  {
+    "type": "full",
+    "value": "st.dl.bscstorage.net",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:st.dl.bscstorage.net:@cn",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 115
+    }
+  },
+  {
+    "type": "full",
+    "value": "st.dl.eccdnx.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:st.dl.eccdnx.com:@cn",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 114
+    }
+  },
+  {
+    "type": "full",
+    "value": "steam.eca.qtlglb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:steam.eca.qtlglb.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 547
+    }
+  },
+  {
+    "type": "full",
+    "value": "steam.naeu.qtlglb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:steam.naeu.qtlglb.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 548
+    }
+  },
+  {
+    "type": "full",
+    "value": "steam.ru.qtlglb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:steam.ru.qtlglb.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 549
+    }
+  },
+  {
+    "type": "full",
+    "value": "steampipe-kr.akamaized.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:steampipe-kr.akamaized.net",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 539
+    }
+  },
+  {
+    "type": "full",
+    "value": "steampipe-partner.akamaized.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:steampipe-partner.akamaized.net",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 540
+    }
+  },
+  {
+    "type": "full",
+    "value": "steampipe.akamaized.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:steampipe.akamaized.net",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 538
+    }
+  },
+  {
+    "type": "full",
+    "value": "tlu.dl.delivery.mp.microsoft.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:tlu.dl.delivery.mp.microsoft.com:@cn",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 84
+    }
+  },
+  {
+    "type": "full",
+    "value": "trts.baishancdnx.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:trts.baishancdnx.cn:@cn",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 116
+    }
+  },
+  {
+    "type": "full",
+    "value": "ubisoftconnect.cdn.ubi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:ubisoftconnect.cdn.ubi.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 95
+    }
+  },
+  {
+    "type": "full",
+    "value": "ubisoftconnect.eo-edgefunctions7.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:ubisoftconnect.eo-edgefunctions7.com:@cn",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 98
+    }
+  },
+  {
+    "type": "full",
+    "value": "uplaypc-s-ubisoft-ww.cdn.ubi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:uplaypc-s-ubisoft-ww.cdn.ubi.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 94
+    }
+  },
+  {
+    "type": "full",
+    "value": "uplaypc-s-ubisoft.cdn.ubi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:uplaypc-s-ubisoft.cdn.ubi.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 93
+    }
+  },
+  {
+    "type": "full",
+    "value": "uplaypc-s-ubisoft.cdn.ubionline.com.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:uplaypc-s-ubisoft.cdn.ubionline.com.cn:@cn",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 102
+    }
+  },
+  {
+    "type": "full",
+    "value": "us.cdn.blizzard.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:us.cdn.blizzard.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 58
+    }
+  },
+  {
+    "type": "full",
+    "value": "valorant.dyn.riotcdn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:valorant.dyn.riotcdn.net",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 19
+    }
+  },
+  {
+    "type": "full",
+    "value": "valorant.secure.dyn.riotcdn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:valorant.secure.dyn.riotcdn.net",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 11
+    }
+  },
+  {
+    "type": "full",
+    "value": "wildrift.dyn.riotcdn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:wildrift.dyn.riotcdn.net",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 16
+    }
+  },
+  {
+    "type": "full",
+    "value": "wildrift.secure.dyn.riotcdn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:wildrift.secure.dyn.riotcdn.net",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 12
+    }
+  },
+  {
+    "type": "full",
+    "value": "xvcf1.xboxlive.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:xvcf1.xboxlive.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 87
+    }
+  },
+  {
+    "type": "full",
+    "value": "xvcf2.xboxlive.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:xvcf2.xboxlive.com",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 88
+    }
+  },
+  {
+    "type": "full",
+    "value": "xz.pphimalayanrt.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:xz.pphimalayanrt.com:@cn",
+    "source": {
+      "list": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+      "line": 121
+    }
+  }
+]

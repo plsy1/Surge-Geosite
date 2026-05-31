@@ -1,0 +1,134 @@
+[
+  {
+    "type": "domain",
+    "value": "ckb.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ckb.me",
+    "source": {
+      "list": "OTPBANK",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dskbank.bg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dskbank.bg",
+    "source": {
+      "list": "OTPBANK",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ipotekabank.uz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ipotekabank.uz",
+    "source": {
+      "list": "OTPBANK",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mobiasbanca.md",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mobiasbanca.md",
+    "source": {
+      "list": "OTPBANK",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "otpbank.al",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:otpbank.al",
+    "source": {
+      "list": "OTPBANK",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "otpbank.com.ua",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:otpbank.com.ua",
+    "source": {
+      "list": "OTPBANK",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "otpbank.hu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:otpbank.hu",
+    "source": {
+      "list": "OTPBANK",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "otpbank.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:otpbank.ru",
+    "source": {
+      "list": "OTPBANK",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "otpbanka.hr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:otpbanka.hr",
+    "source": {
+      "list": "OTPBANK",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "otpbanka.rs",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:otpbanka.rs",
+    "source": {
+      "list": "OTPBANK",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "otpbanka.si",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:otpbanka.si",
+    "source": {
+      "list": "OTPBANK",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "otpgroup.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:otpgroup.info",
+    "source": {
+      "list": "OTPBANK",
+      "line": 13
+    }
+  }
+]

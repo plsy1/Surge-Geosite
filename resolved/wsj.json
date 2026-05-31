@@ -1,0 +1,145 @@
+[
+  {
+    "type": "domain",
+    "value": "careerjournal.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:careerjournal.com",
+    "source": {
+      "list": "WSJ",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "collegejournal.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:collegejournal.com",
+    "source": {
+      "list": "WSJ",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "getwsj.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:getwsj.com",
+    "source": {
+      "list": "WSJ",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "opinionjournal.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:opinionjournal.com",
+    "source": {
+      "list": "WSJ",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "realestatejournal.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:realestatejournal.com",
+    "source": {
+      "list": "WSJ",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "startupjournal.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:startupjournal.com",
+    "source": {
+      "list": "WSJ",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wsj.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wsj.com",
+    "source": {
+      "list": "WSJ",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wsj.jobs",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wsj.jobs",
+    "source": {
+      "list": "WSJ",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wsj.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wsj.net",
+    "source": {
+      "list": "WSJ",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wsjmediakit.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wsjmediakit.com",
+    "source": {
+      "list": "WSJ",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wsjplus.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wsjplus.com",
+    "source": {
+      "list": "WSJ",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wsjshop.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wsjshop.com",
+    "source": {
+      "list": "WSJ",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wsjwine.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wsjwine.com",
+    "source": {
+      "list": "WSJ",
+      "line": 13
+    }
+  }
+]

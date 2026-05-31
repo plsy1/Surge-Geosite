@@ -1,0 +1,3984 @@
+[
+  {
+    "type": "domain",
+    "value": "metered.live",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:metered.live",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 1
+    }
+  },
+  {
+    "type": "full",
+    "value": "iphone-stun.strato-iphone.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:iphone-stun.strato-iphone.de",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 2
+    }
+  },
+  {
+    "type": "full",
+    "value": "numb.viagenie.ca",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:numb.viagenie.ca",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 3
+    }
+  },
+  {
+    "type": "full",
+    "value": "relay.webwormhole.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:relay.webwormhole.io",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 4
+    }
+  },
+  {
+    "type": "full",
+    "value": "s1.taraba.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:s1.taraba.net",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 5
+    }
+  },
+  {
+    "type": "full",
+    "value": "s1.voipstation.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:s1.voipstation.jp",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 6
+    }
+  },
+  {
+    "type": "full",
+    "value": "s2.taraba.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:s2.taraba.net",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 7
+    }
+  },
+  {
+    "type": "full",
+    "value": "s2.voipstation.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:s2.voipstation.jp",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 8
+    }
+  },
+  {
+    "type": "full",
+    "value": "staticauth.openrelay.metered.ca",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:staticauth.openrelay.metered.ca",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 9
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.12connect.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.12connect.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 10
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.12voip.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.12voip.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 11
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.1cbit.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.1cbit.ru",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 12
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.1und1.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.1und1.de",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 13
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.2talk.co.nz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.2talk.co.nz",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 14
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.2talk.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.2talk.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 15
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.3clogic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.3clogic.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 16
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.3cx.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.3cx.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 17
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.3deluxe.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.3deluxe.de",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 18
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.3wayint.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.3wayint.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 19
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.a-mm.tv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.a-mm.tv",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 20
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.aa.net.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.aa.net.uk",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 21
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.acrobits.cz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.acrobits.cz",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 22
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.acronis.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.acronis.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 23
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.actionvoip.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.actionvoip.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 24
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.advfn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.advfn.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 25
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.aeta-audio.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.aeta-audio.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 26
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.aeta.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.aeta.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 27
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.allflac.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.allflac.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 28
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.alltel.com.au",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.alltel.com.au",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 29
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.alpirsbacher.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.alpirsbacher.de",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 30
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.altar.com.pl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.altar.com.pl",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 31
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.annatel.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.annatel.net",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 32
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.antisip.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.antisip.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 33
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.arbuz.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.arbuz.ru",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 34
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.atagverwarming.nl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.atagverwarming.nl",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 35
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.avigora.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.avigora.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 36
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.avigora.fr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.avigora.fr",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 37
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.awa-shima.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.awa-shima.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 38
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.awt.be",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.awt.be",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 39
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.axialys.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.axialys.net",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 40
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.b2b2c.ca",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.b2b2c.ca",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 41
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.bahnhof.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.bahnhof.net",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 42
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.baltmannsweiler.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.baltmannsweiler.de",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 43
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.barracuda.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.barracuda.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 44
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.bcs2005.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.bcs2005.net",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 45
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.bethesda.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.bethesda.net",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 46
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.bitburger.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.bitburger.de",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 47
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.bluesip.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.bluesip.net",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 48
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.bmwgs.cz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.bmwgs.cz",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 49
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.botonakis.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.botonakis.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 50
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.bridesbay.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.bridesbay.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 51
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.budgetphone.nl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.budgetphone.nl",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 52
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.budgetsip.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.budgetsip.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 53
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.business-isp.nl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.business-isp.nl",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 54
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.cablenet-as.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.cablenet-as.net",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 55
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.callromania.ro",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.callromania.ro",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 56
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.callwithus.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.callwithus.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 57
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.cbsys.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.cbsys.net",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 58
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.cellmail.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.cellmail.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 59
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.chathelp.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.chathelp.ru",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 60
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.cheapvoip.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.cheapvoip.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 61
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.ciktel.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.ciktel.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 62
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.cloopen.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.cloopen.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 63
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.colouredlines.com.au",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.colouredlines.com.au",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 64
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.comfi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.comfi.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 65
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.commpeak.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.commpeak.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 66
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.comtube.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.comtube.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 67
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.comtube.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.comtube.ru",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 68
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.cope.es",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.cope.es",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 69
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.counterpath.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.counterpath.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 70
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.counterpath.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.counterpath.net",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 71
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.cryptonit.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.cryptonit.net",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 72
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.darioflaccovio.it",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.darioflaccovio.it",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 73
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.datamanagement.it",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.datamanagement.it",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 74
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.dcalling.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.dcalling.de",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 75
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.decanet.fr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.decanet.fr",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 76
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.demos.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.demos.ru",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 77
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.develz.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.develz.org",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 78
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.diallog.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.diallog.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 79
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.dingaling.ca",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.dingaling.ca",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 80
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.doublerobotics.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.doublerobotics.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 81
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.drogon.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.drogon.net",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 82
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.duocom.es",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.duocom.es",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 83
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.dus.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.dus.net",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 84
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.e-fon.ch",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.e-fon.ch",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 85
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.easybell.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.easybell.de",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 86
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.easycall.pl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.easycall.pl",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 87
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.easyvoip.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.easyvoip.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 88
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.efficace-factory.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.efficace-factory.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 89
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.einsundeins.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.einsundeins.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 90
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.einsundeins.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.einsundeins.de",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 91
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.ekiga.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.ekiga.net",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 92
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.engineeredarts.co.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.engineeredarts.co.uk",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 93
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.eol.co.nz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.eol.co.nz",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 94
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.epygi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.epygi.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 95
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.etoilediese.fr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.etoilediese.fr",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 96
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.eyeball.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.eyeball.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 97
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.f.haeder.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.f.haeder.net",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 98
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.faktortel.com.au",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.faktortel.com.au",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 99
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.files.fm",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.files.fm",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 100
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.finsterwalder.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.finsterwalder.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 101
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.fitauto.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.fitauto.ru",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 102
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.flashdance.cx",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.flashdance.cx",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 103
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.fmo.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.fmo.de",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 104
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.framasoft.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.framasoft.org",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 105
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.freecall.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.freecall.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 106
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.freeswitch.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.freeswitch.org",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 107
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.freevoipdeal.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.freevoipdeal.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 108
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.frozenmountain.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.frozenmountain.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 109
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.fuzemeeting.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.fuzemeeting.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 110
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.fwdnet.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.fwdnet.net",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 111
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.galeriemagnet.at",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.galeriemagnet.at",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 112
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.geesthacht.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.geesthacht.de",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 113
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.genymotion.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.genymotion.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 114
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.gmx.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.gmx.de",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 115
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.gmx.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.gmx.net",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 116
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.godatenow.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.godatenow.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 117
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.gradwell.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.gradwell.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 118
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.graftlab.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.graftlab.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 119
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.grazertrinkwasseringefahr.at",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.grazertrinkwasseringefahr.at",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 120
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.halonet.pl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.halonet.pl",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 121
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.healthtap.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.healthtap.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 122
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.heeds.eu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.heeds.eu",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 123
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.hellonanu.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.hellonanu.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 124
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.hoiio.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.hoiio.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 125
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.hosteurope.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.hosteurope.de",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 126
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.hot-chilli.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.hot-chilli.net",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 127
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.ideasip.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.ideasip.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 128
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.imesh.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.imesh.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 129
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.imp.ch",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.imp.ch",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 130
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.infra.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.infra.net",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 131
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.internetcalls.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.internetcalls.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 132
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.intervoip.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.intervoip.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 133
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.ipcomms.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.ipcomms.net",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 134
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.ipfire.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.ipfire.org",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 135
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.ippi.fr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.ippi.fr",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 136
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.ipshka.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.ipshka.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 137
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.iptel.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.iptel.org",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 138
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.irian.at",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.irian.at",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 139
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.it1.hr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.it1.hr",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 140
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.ivao.aero",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.ivao.aero",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 141
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.jappix.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.jappix.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 142
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.jumblo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.jumblo.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 143
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.justvoip.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.justvoip.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 144
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.kanet.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.kanet.ru",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 145
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.kanojo.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.kanojo.de",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 146
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.kaseya.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.kaseya.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 147
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.kiwilink.co.nz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.kiwilink.co.nz",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 148
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.kundenserver.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.kundenserver.de",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 149
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.l.google.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.l.google.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 150
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.lebendigefluesse.at",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.lebendigefluesse.at",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 151
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.linea7.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.linea7.net",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 152
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.linphone.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.linphone.org",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 153
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.linuxtrent.it",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.linuxtrent.it",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 154
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.liveo.fr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.liveo.fr",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 155
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.lleida.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.lleida.net",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 156
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.lovense.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.lovense.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 157
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.lowratevoip.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.lowratevoip.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 158
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.lugosoft.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.lugosoft.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 159
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.lundimatin.fr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.lundimatin.fr",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 160
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.m-online.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.m-online.net",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 161
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.magnet.ie",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.magnet.ie",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 162
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.manle.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.manle.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 163
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.meetwife.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.meetwife.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 164
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.mgn.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.mgn.ru",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 165
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.mit.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.mit.de",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 166
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.mitake.com.tw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.mitake.com.tw",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 167
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.miwifi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.miwifi.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 168
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.mixvoip.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.mixvoip.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 169
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.modulus.gr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.modulus.gr",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 170
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.moonlight-stream.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.moonlight-stream.org",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 171
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.mozcom.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.mozcom.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 172
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.myspeciality.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.myspeciality.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 173
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.myvoiptraffic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.myvoiptraffic.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 174
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.mywatson.it",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.mywatson.it",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 175
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.nanocosmos.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.nanocosmos.de",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 176
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.nas.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.nas.net",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 177
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.ncic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.ncic.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 178
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.neotel.co.za",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.neotel.co.za",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 179
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.netappel.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.netappel.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 180
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.netappel.fr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.netappel.fr",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 181
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.netgsm.com.tr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.netgsm.com.tr",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 182
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.nextcloud.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.nextcloud.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 183
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.nfon.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.nfon.net",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 184
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.noblogs.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.noblogs.org",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 185
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.noc.ams-ix.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.noc.ams-ix.net",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 186
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.node4.co.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.node4.co.uk",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 187
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.nonoh.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.nonoh.net",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 188
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.nottingham.ac.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.nottingham.ac.uk",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 189
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.nova.is",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.nova.is",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 190
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.nventure.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.nventure.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 191
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.on.net.mk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.on.net.mk",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 192
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.oncloud7.ch",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.oncloud7.ch",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 193
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.ooma.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.ooma.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 194
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.ooonet.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.ooonet.ru",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 195
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.oriontelekom.rs",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.oriontelekom.rs",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 196
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.outland-net.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.outland-net.de",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 197
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.ozekiphone.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.ozekiphone.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 198
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.patlive.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.patlive.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 199
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.peethultra.be",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.peethultra.be",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 200
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.personal-voip.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.personal-voip.de",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 201
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.petcube.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.petcube.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 202
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.phone.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.phone.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 203
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.phoneserve.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.phoneserve.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 204
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.pjsip.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.pjsip.org",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 205
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.poetamatusel.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.poetamatusel.org",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 206
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.poivy.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.poivy.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 207
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.powerpbx.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.powerpbx.org",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 208
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.powervoip.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.powervoip.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 209
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.ppdi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.ppdi.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 210
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.prizee.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.prizee.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 211
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.pure-ip.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.pure-ip.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 212
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.qq.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.qq.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 213
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.qvod.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.qvod.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 214
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.rackco.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.rackco.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 215
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.radiojar.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.radiojar.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 216
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.rapidnet.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.rapidnet.de",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 217
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.rb-net.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.rb-net.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 218
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.refint.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.refint.net",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 219
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.remote-learner.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.remote-learner.net",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 220
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.ringostat.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.ringostat.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 221
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.rixtelecom.se",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.rixtelecom.se",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 222
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.rockenstein.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.rockenstein.de",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 223
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.rolmail.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.rolmail.net",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 224
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.romaaeterna.nl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.romaaeterna.nl",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 225
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.romancecompass.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.romancecompass.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 226
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.root-1.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.root-1.de",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 227
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.rounds.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.rounds.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 228
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.ru-brides.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.ru-brides.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 229
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.rynga.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.rynga.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 230
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.samsungsmartcam.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.samsungsmartcam.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 231
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.schlund.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.schlund.de",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 232
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.schulinformatik.at",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.schulinformatik.at",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 233
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.services.mozilla.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.services.mozilla.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 234
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.sigmavoip.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.sigmavoip.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 235
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.signalwire.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.signalwire.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 236
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.sip.us",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.sip.us",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 237
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.sipdiscount.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.sipdiscount.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 238
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.siplogin.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.siplogin.de",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 239
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.sipnet.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.sipnet.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 240
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.sipnet.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.sipnet.net",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 241
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.sipnet.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.sipnet.ru",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 242
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.siportal.it",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.siportal.it",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 243
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.sippeer.dk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.sippeer.dk",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 244
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.sipthor.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.sipthor.net",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 245
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.siptraffic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.siptraffic.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 246
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.siptrunk.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.siptrunk.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 247
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.sipus",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.sipus",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 248
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.skydrone.aero",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.skydrone.aero",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 249
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.skylink.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.skylink.ru",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 250
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.sma.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.sma.de",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 251
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.smartvoip.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.smartvoip.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 252
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.smsdiscount.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.smsdiscount.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 253
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.snafu.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.snafu.de",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 254
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.softjoys.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.softjoys.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 255
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.solcon.nl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.solcon.nl",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 256
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.solnet.ch",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.solnet.ch",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 257
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.sonetel.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.sonetel.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 258
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.sonetel.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.sonetel.net",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 259
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.sovtest.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.sovtest.ru",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 260
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.speedy.com.ar",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.speedy.com.ar",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 261
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.spokn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.spokn.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 262
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.spreed.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.spreed.me",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 263
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.srce.hr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.srce.hr",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 264
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.ssl7.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.ssl7.net",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 265
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.stochastix.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.stochastix.de",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 266
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.streamnow.ch",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.streamnow.ch",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 267
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.stunprotocol.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.stunprotocol.org",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 268
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.stunprotocol.prg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.stunprotocol.prg",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 269
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.symform.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.symform.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 270
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.symplicity.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.symplicity.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 271
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.sysadminman.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.sysadminman.net",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 272
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.t-online.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.t-online.de",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 273
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.tagan.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.tagan.ru",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 274
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.tatneft.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.tatneft.ru",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 275
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.teachercreated.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.teachercreated.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 276
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.technosens.fr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.technosens.fr",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 277
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.tel.lu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.tel.lu",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 278
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.telbo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.telbo.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 279
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.telefacil.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.telefacil.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 280
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.telnyx.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.telnyx.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 281
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.telviva.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.telviva.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 282
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.thinkrosystem.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.thinkrosystem.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 283
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.threema.ch",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.threema.ch",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 284
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.tis-dialog.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.tis-dialog.ru",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 285
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.tng.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.tng.de",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 286
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.ttmath.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.ttmath.org",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 287
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.tula.nu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.tula.nu",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 288
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.twt.it",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.twt.it",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 289
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.u-blox.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.u-blox.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 290
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.uabrides.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.uabrides.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 291
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.ucallweconn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.ucallweconn.net",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 292
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.ucsb.edu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.ucsb.edu",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 293
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.ucw.cz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.ucw.cz",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 294
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.ukh.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.ukh.de",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 295
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.uls.co.za",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.uls.co.za",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 296
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.unseen.is",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.unseen.is",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 297
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.usfamily.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.usfamily.net",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 298
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.valorant.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.valorant.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 299
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.vavadating.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.vavadating.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 300
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.veoh.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.veoh.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 301
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.verbo.be",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.verbo.be",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 302
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.vidyo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.vidyo.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 303
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.vipgroup.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.vipgroup.net",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 304
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.virtual-call.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.virtual-call.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 305
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.viva.gr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.viva.gr",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 306
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.vivox.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.vivox.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 307
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.vline.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.vline.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 308
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.vo.lu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.vo.lu",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 309
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.vodafone.ro",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.vodafone.ro",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 310
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.voicetrading.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.voicetrading.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 311
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.voip.aebc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.voip.aebc.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 312
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.voip.blackberry.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.voip.blackberry.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 313
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.voip.eutelia.it",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.voip.eutelia.it",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 314
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.voiparound.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.voiparound.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 315
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.voipblast.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.voipblast.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 316
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.voipbuster.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.voipbuster.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 317
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.voipbusterpro.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.voipbusterpro.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 318
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.voipcheap.co.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.voipcheap.co.uk",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 319
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.voipcheap.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.voipcheap.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 320
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.voipfibre.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.voipfibre.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 321
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.voipgain.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.voipgain.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 322
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.voipgate.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.voipgate.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 323
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.voipia.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.voipia.net",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 324
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.voipinfocenter.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.voipinfocenter.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 325
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.voipplanet.nl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.voipplanet.nl",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 326
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.voippro.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.voippro.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 327
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.voipraider.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.voipraider.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 328
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.voipstunt.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.voipstunt.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 329
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.voiptia.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.voiptia.net",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 330
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.voipwise.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.voipwise.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 331
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.voipzoom.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.voipzoom.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 332
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.vomessen.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.vomessen.de",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 333
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.vopium.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.vopium.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 334
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.voxgratia.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.voxgratia.org",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 335
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.voxox.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.voxox.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 336
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.voys.nl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.voys.nl",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 337
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.voztele.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.voztele.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 338
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.voztovoice.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.voztovoice.org",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 339
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.vyke.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.vyke.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 340
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.webcalldirect.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.webcalldirect.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 341
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.whoi.edu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.whoi.edu",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 342
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.wifirst.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.wifirst.net",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 343
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.wwdl.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.wwdl.net",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 344
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.xs4all.nl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.xs4all.nl",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 345
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.xten.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.xten.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 346
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.xtratelecom.es",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.xtratelecom.es",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 347
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.yesdates.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.yesdates.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 348
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.yesss.at",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.yesss.at",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 349
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.zadarma.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.zadarma.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 350
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.zadv.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.zadv.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 351
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.zentauron.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.zentauron.de",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 352
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.zepter.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.zepter.ru",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 353
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun.zoiper.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun.zoiper.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 354
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun01.sipphone.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun01.sipphone.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 355
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun1.faktortel.com.au",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun1.faktortel.com.au",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 356
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun1.l.google.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun1.l.google.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 357
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun1.voiceeclipse.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun1.voiceeclipse.net",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 358
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun2.l.google.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun2.l.google.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 359
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun3.l.google.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun3.l.google.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 360
+    }
+  },
+  {
+    "type": "full",
+    "value": "stun4.l.google.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stun4.l.google.com",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 361
+    }
+  },
+  {
+    "type": "full",
+    "value": "stunserver.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:stunserver.org",
+    "source": {
+      "list": "CATEGORY-STUN",
+      "line": 362
+    }
+  }
+]

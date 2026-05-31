@@ -1,0 +1,46 @@
+[
+  {
+    "type": "domain",
+    "value": "36dianping.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:36dianping.com",
+    "source": {
+      "list": "36KR",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "36kr.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:36kr.com",
+    "source": {
+      "list": "36KR",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "36krcdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:36krcdn.com",
+    "source": {
+      "list": "36KR",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "36krcnd.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:36krcnd.com",
+    "source": {
+      "list": "36KR",
+      "line": 4
+    }
+  }
+]

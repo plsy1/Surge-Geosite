@@ -1,0 +1,897 @@
+[
+  {
+    "type": "domain",
+    "value": "acjs.aliyun.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:acjs.aliyun.com:@ads",
+    "source": {
+      "list": "ALIYUN",
+      "line": 72
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adash-emas.cn-hangzhou.aliyuncs.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:adash-emas.cn-hangzhou.aliyuncs.com:@ads",
+    "source": {
+      "list": "ALIYUN",
+      "line": 73
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adash.man.aliyuncs.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:adash.man.aliyuncs.com:@ads",
+    "source": {
+      "list": "ALIYUN",
+      "line": 74
+    }
+  },
+  {
+    "type": "domain",
+    "value": "alibabadns.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:alibabadns.com",
+    "source": {
+      "list": "ALIYUN",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "alicdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:alicdn.com",
+    "source": {
+      "list": "ALIYUN",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "alicloudapi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:alicloudapi.com",
+    "source": {
+      "list": "ALIYUN",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "alidayu.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:alidayu.com",
+    "source": {
+      "list": "ALIYUN",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "alidns.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:alidns.com",
+    "source": {
+      "list": "ALIYUN",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aligfwaf.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aligfwaf.com",
+    "source": {
+      "list": "ALIYUN",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "alikunlun.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:alikunlun.com",
+    "source": {
+      "list": "ALIYUN",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "alikunlun.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:alikunlun.net",
+    "source": {
+      "list": "ALIYUN",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "alimama.alicdn.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:alimama.alicdn.com:@ads",
+    "source": {
+      "list": "ALIYUN",
+      "line": 75
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aliyun-inc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aliyun-inc.com",
+    "source": {
+      "list": "ALIYUN",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aliyun-iot-share.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aliyun-iot-share.com",
+    "source": {
+      "list": "ALIYUN",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aliyun.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aliyun.com",
+    "source": {
+      "list": "ALIYUN",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aliyuncdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aliyuncdn.com",
+    "source": {
+      "list": "ALIYUN",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aliyuncdn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aliyuncdn.net",
+    "source": {
+      "list": "ALIYUN",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aliyunfile.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aliyunfile.com",
+    "source": {
+      "list": "ALIYUN",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aliyunpds.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aliyunpds.com",
+    "source": {
+      "list": "ALIYUN",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "atanx.alicdn.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:atanx.alicdn.com:@ads",
+    "source": {
+      "list": "ALIYUN",
+      "line": 76
+    }
+  },
+  {
+    "type": "domain",
+    "value": "atanx2.alicdn.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:atanx2.alicdn.com:@ads",
+    "source": {
+      "list": "ALIYUN",
+      "line": 77
+    }
+  },
+  {
+    "type": "domain",
+    "value": "baichuan-sdk.alicdn.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:baichuan-sdk.alicdn.com:@ads",
+    "source": {
+      "list": "ALIYUN",
+      "line": 78
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdngslb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdngslb.com",
+    "source": {
+      "list": "ALIYUN",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fcapp.run",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fcapp.run",
+    "source": {
+      "list": "ALIYUN",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hichina.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hichina.com",
+    "source": {
+      "list": "ALIYUN",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ica-alliance.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ica-alliance.org",
+    "source": {
+      "list": "ALIYUN",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kunlunaq.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kunlunaq.com",
+    "source": {
+      "list": "ALIYUN",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kunlunar.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kunlunar.com",
+    "source": {
+      "list": "ALIYUN",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kunlunca.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kunlunca.com",
+    "source": {
+      "list": "ALIYUN",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kunluncan.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kunluncan.com",
+    "source": {
+      "list": "ALIYUN",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kunlunea.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kunlunea.com",
+    "source": {
+      "list": "ALIYUN",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kunlungem.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kunlungem.com",
+    "source": {
+      "list": "ALIYUN",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kunlungr.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kunlungr.com",
+    "source": {
+      "list": "ALIYUN",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kunlunhuf.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kunlunhuf.com",
+    "source": {
+      "list": "ALIYUN",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kunlunle.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kunlunle.com",
+    "source": {
+      "list": "ALIYUN",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kunlunli.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kunlunli.com",
+    "source": {
+      "list": "ALIYUN",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kunlunno.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kunlunno.com",
+    "source": {
+      "list": "ALIYUN",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kunlunpi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kunlunpi.com",
+    "source": {
+      "list": "ALIYUN",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kunlunra.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kunlunra.com",
+    "source": {
+      "list": "ALIYUN",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kunlunsa.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kunlunsa.com",
+    "source": {
+      "list": "ALIYUN",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kunlunsc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kunlunsc.com",
+    "source": {
+      "list": "ALIYUN",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kunlunsl.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kunlunsl.com",
+    "source": {
+      "list": "ALIYUN",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kunlunso.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kunlunso.com",
+    "source": {
+      "list": "ALIYUN",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kunlunta.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kunlunta.com",
+    "source": {
+      "list": "ALIYUN",
+      "line": 37
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kunlunvi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kunlunvi.com",
+    "source": {
+      "list": "ALIYUN",
+      "line": 38
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kunlunwe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kunlunwe.com",
+    "source": {
+      "list": "ALIYUN",
+      "line": 39
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mxhichina.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mxhichina.com",
+    "source": {
+      "list": "ALIYUN",
+      "line": 40
+    }
+  },
+  {
+    "type": "domain",
+    "value": "myalicdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:myalicdn.com",
+    "source": {
+      "list": "ALIYUN",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nbsdk-baichuan.alicdn.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:nbsdk-baichuan.alicdn.com:@ads",
+    "source": {
+      "list": "ALIYUN",
+      "line": 79
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oss-ap-northeast-1.aliyuncs.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:oss-ap-northeast-1.aliyuncs.com:@!cn",
+    "source": {
+      "list": "ALIYUN",
+      "line": 43
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oss-ap-northeast-2.aliyuncs.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:oss-ap-northeast-2.aliyuncs.com:@!cn",
+    "source": {
+      "list": "ALIYUN",
+      "line": 44
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oss-ap-south-1.aliyuncs.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:oss-ap-south-1.aliyuncs.com:@!cn",
+    "source": {
+      "list": "ALIYUN",
+      "line": 45
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oss-ap-southeast-1.aliyuncs.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:oss-ap-southeast-1.aliyuncs.com:@!cn",
+    "source": {
+      "list": "ALIYUN",
+      "line": 46
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oss-ap-southeast-2.aliyuncs.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:oss-ap-southeast-2.aliyuncs.com:@!cn",
+    "source": {
+      "list": "ALIYUN",
+      "line": 47
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oss-ap-southeast-3.aliyuncs.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:oss-ap-southeast-3.aliyuncs.com:@!cn",
+    "source": {
+      "list": "ALIYUN",
+      "line": 48
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oss-ap-southeast-5.aliyuncs.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:oss-ap-southeast-5.aliyuncs.com:@!cn",
+    "source": {
+      "list": "ALIYUN",
+      "line": 49
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oss-ap-southeast-6.aliyuncs.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:oss-ap-southeast-6.aliyuncs.com:@!cn",
+    "source": {
+      "list": "ALIYUN",
+      "line": 50
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oss-ap-southeast-7.aliyuncs.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:oss-ap-southeast-7.aliyuncs.com:@!cn",
+    "source": {
+      "list": "ALIYUN",
+      "line": 51
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oss-cn-beijing.aliyuncs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oss-cn-beijing.aliyuncs.com",
+    "source": {
+      "list": "ALIYUN",
+      "line": 52
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oss-cn-chengdu.aliyuncs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oss-cn-chengdu.aliyuncs.com",
+    "source": {
+      "list": "ALIYUN",
+      "line": 53
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oss-cn-guangzhou.aliyuncs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oss-cn-guangzhou.aliyuncs.com",
+    "source": {
+      "list": "ALIYUN",
+      "line": 54
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oss-cn-hangzhou.aliyuncs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oss-cn-hangzhou.aliyuncs.com",
+    "source": {
+      "list": "ALIYUN",
+      "line": 55
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oss-cn-heyuan.aliyuncs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oss-cn-heyuan.aliyuncs.com",
+    "source": {
+      "list": "ALIYUN",
+      "line": 56
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oss-cn-hongkong.aliyuncs.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:oss-cn-hongkong.aliyuncs.com:@!cn",
+    "source": {
+      "list": "ALIYUN",
+      "line": 57
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oss-cn-huhehaote.aliyuncs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oss-cn-huhehaote.aliyuncs.com",
+    "source": {
+      "list": "ALIYUN",
+      "line": 58
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oss-cn-nanjing.aliyuncs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oss-cn-nanjing.aliyuncs.com",
+    "source": {
+      "list": "ALIYUN",
+      "line": 59
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oss-cn-qingdao.aliyuncs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oss-cn-qingdao.aliyuncs.com",
+    "source": {
+      "list": "ALIYUN",
+      "line": 60
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oss-cn-shanghai.aliyuncs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oss-cn-shanghai.aliyuncs.com",
+    "source": {
+      "list": "ALIYUN",
+      "line": 61
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oss-cn-shenzhen.aliyuncs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oss-cn-shenzhen.aliyuncs.com",
+    "source": {
+      "list": "ALIYUN",
+      "line": 62
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oss-cn-wulanchabu.aliyuncs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oss-cn-wulanchabu.aliyuncs.com",
+    "source": {
+      "list": "ALIYUN",
+      "line": 63
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oss-cn-zhangjiakou.aliyuncs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oss-cn-zhangjiakou.aliyuncs.com",
+    "source": {
+      "list": "ALIYUN",
+      "line": 64
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oss-eu-central-1.aliyuncs.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:oss-eu-central-1.aliyuncs.com:@!cn",
+    "source": {
+      "list": "ALIYUN",
+      "line": 65
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oss-eu-west-1.aliyuncs.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:oss-eu-west-1.aliyuncs.com:@!cn",
+    "source": {
+      "list": "ALIYUN",
+      "line": 66
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oss-me-east-1.aliyuncs.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:oss-me-east-1.aliyuncs.com:@!cn",
+    "source": {
+      "list": "ALIYUN",
+      "line": 67
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oss-us-east-1.aliyuncs.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:oss-us-east-1.aliyuncs.com:@!cn",
+    "source": {
+      "list": "ALIYUN",
+      "line": 68
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oss-us-west-1.aliyuncs.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:oss-us-west-1.aliyuncs.com:@!cn",
+    "source": {
+      "list": "ALIYUN",
+      "line": 69
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tce.alicdn.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:tce.alicdn.com:@ads",
+    "source": {
+      "list": "ALIYUN",
+      "line": 80
+    }
+  }
+]

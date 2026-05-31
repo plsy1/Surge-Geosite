@@ -1,0 +1,101 @@
+[
+  {
+    "type": "domain",
+    "value": "agkn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:agkn.com",
+    "source": {
+      "list": "TALKATONE",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cohere.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cohere.com",
+    "source": {
+      "list": "TALKATONE",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "inmobi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:inmobi.com",
+    "source": {
+      "list": "TALKATONE",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ip-api.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ip-api.com",
+    "source": {
+      "list": "TALKATONE",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kochava.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kochava.com",
+    "source": {
+      "list": "TALKATONE",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mobilefuse.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mobilefuse.com",
+    "source": {
+      "list": "TALKATONE",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "talkatone.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:talkatone.com",
+    "source": {
+      "list": "TALKATONE",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tktn.at",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tktn.at",
+    "source": {
+      "list": "TALKATONE",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tktn.be",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tktn.be",
+    "source": {
+      "list": "TALKATONE",
+      "line": 11
+    }
+  }
+]

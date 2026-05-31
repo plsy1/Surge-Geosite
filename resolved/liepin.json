@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "liepin.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:liepin.com",
+    "source": {
+      "list": "LIEPIN",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lietou-static.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lietou-static.com",
+    "source": {
+      "list": "LIEPIN",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lietou.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lietou.com",
+    "source": {
+      "list": "LIEPIN",
+      "line": 2
+    }
+  }
+]

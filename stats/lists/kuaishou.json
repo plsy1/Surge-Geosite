@@ -1,0 +1,59 @@
+{
+  "name": "KUAISHOU",
+  "source": {
+    "domain": 22,
+    "full": 2,
+    "keyword": 0,
+    "regexp": 0,
+    "include": 0,
+    "affiliations": 0,
+    "attributes": 7
+  },
+  "resolved": {
+    "rules": 24,
+    "domain": 22,
+    "full": 2,
+    "keyword": 0,
+    "regexp": 0
+  },
+  "filters": {
+    "attrs": {
+      "ads": 7
+    }
+  },
+  "modes": {
+    "strict": {
+      "rules": 24,
+      "bytes": 633,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "balanced": {
+      "rules": 24,
+      "bytes": 633,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "full": {
+      "rules": 24,
+      "bytes": 633,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    }
+  }
+}

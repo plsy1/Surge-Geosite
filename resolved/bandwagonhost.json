@@ -1,0 +1,79 @@
+[
+  {
+    "type": "domain",
+    "value": "bandwagonhost.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bandwagonhost.com",
+    "source": {
+      "list": "BANDWAGONHOST",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bwh1.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bwh1.net",
+    "source": {
+      "list": "BANDWAGONHOST",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bwh8.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bwh8.net",
+    "source": {
+      "list": "BANDWAGONHOST",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bwh81.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bwh81.net",
+    "source": {
+      "list": "BANDWAGONHOST",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bwh88.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bwh88.net",
+    "source": {
+      "list": "BANDWAGONHOST",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bwh89.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bwh89.net",
+    "source": {
+      "list": "BANDWAGONHOST",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bwhstatus.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bwhstatus.com",
+    "source": {
+      "list": "BANDWAGONHOST",
+      "line": 7
+    }
+  }
+]

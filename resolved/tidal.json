@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "tidal.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tidal.com",
+    "source": {
+      "list": "TIDAL",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tidalhifi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tidalhifi.com",
+    "source": {
+      "list": "TIDAL",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wimpmusic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wimpmusic.com",
+    "source": {
+      "list": "TIDAL",
+      "line": 3
+    }
+  }
+]

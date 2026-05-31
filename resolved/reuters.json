@@ -1,0 +1,46 @@
+[
+  {
+    "type": "domain",
+    "value": "reut.rs",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:reut.rs",
+    "source": {
+      "list": "REUTERS",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "reuters.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:reuters.com",
+    "source": {
+      "list": "REUTERS",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "reuters.tv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:reuters.tv",
+    "source": {
+      "list": "REUTERS",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "reutersmedia.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:reutersmedia.net",
+    "source": {
+      "list": "REUTERS",
+      "line": 4
+    }
+  }
+]

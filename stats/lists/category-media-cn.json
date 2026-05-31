@@ -1,0 +1,59 @@
+{
+  "name": "CATEGORY-MEDIA-CN",
+  "source": {
+    "domain": 162,
+    "full": 1,
+    "keyword": 0,
+    "regexp": 0,
+    "include": 13,
+    "affiliations": 0,
+    "attributes": 0
+  },
+  "resolved": {
+    "rules": 328,
+    "domain": 327,
+    "full": 1,
+    "keyword": 0,
+    "regexp": 0
+  },
+  "filters": {
+    "attrs": {
+      "ads": 25
+    }
+  },
+  "modes": {
+    "strict": {
+      "rules": 328,
+      "bytes": 8809,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "balanced": {
+      "rules": 328,
+      "bytes": 8809,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "full": {
+      "rules": 328,
+      "bytes": 8809,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    }
+  }
+}

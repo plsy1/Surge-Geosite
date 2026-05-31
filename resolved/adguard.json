@@ -1,0 +1,200 @@
+[
+  {
+    "type": "domain",
+    "value": "adguard-dns.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:adguard-dns.com",
+    "source": {
+      "list": "ADGUARD",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adguard-dns.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:adguard-dns.io",
+    "source": {
+      "list": "ADGUARD",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adguard-mail.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:adguard-mail.com",
+    "source": {
+      "list": "ADGUARD",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adguard-vpn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:adguard-vpn.com",
+    "source": {
+      "list": "ADGUARD",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adguard-vpn.online",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:adguard-vpn.online",
+    "source": {
+      "list": "ADGUARD",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adguard.app",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:adguard.app",
+    "source": {
+      "list": "ADGUARD",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adguard.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:adguard.com",
+    "source": {
+      "list": "ADGUARD",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adguard.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:adguard.info",
+    "source": {
+      "list": "ADGUARD",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adguard.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:adguard.io",
+    "source": {
+      "list": "ADGUARD",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adguard.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:adguard.org",
+    "source": {
+      "list": "ADGUARD",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adguardaccount.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:adguardaccount.com",
+    "source": {
+      "list": "ADGUARD",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adguardcdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:adguardcdn.com",
+    "source": {
+      "list": "ADGUARD",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adguardvpn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:adguardvpn.com",
+    "source": {
+      "list": "ADGUARD",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adtidy.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:adtidy.net",
+    "source": {
+      "list": "ADGUARD",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adtidy.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:adtidy.org",
+    "source": {
+      "list": "ADGUARD",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "agrd.eu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:agrd.eu",
+    "source": {
+      "list": "ADGUARD",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "agrd.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:agrd.io",
+    "source": {
+      "list": "ADGUARD",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mask.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mask.me",
+    "source": {
+      "list": "ADGUARD",
+      "line": 19
+    }
+  }
+]

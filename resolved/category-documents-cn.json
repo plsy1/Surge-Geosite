@@ -1,0 +1,244 @@
+[
+  {
+    "type": "domain",
+    "value": "1ppt.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:1ppt.com",
+    "source": {
+      "list": "CATEGORY-DOCUMENTS-CN",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "360doc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:360doc.com",
+    "source": {
+      "list": "CATEGORY-DOCUMENTS-CN",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "51pptmoban.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:51pptmoban.com",
+    "source": {
+      "list": "CATEGORY-DOCUMENTS-CN",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "51wendang.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:51wendang.com",
+    "source": {
+      "list": "CATEGORY-DOCUMENTS-CN",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "52ppt.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:52ppt.com",
+    "source": {
+      "list": "CATEGORY-DOCUMENTS-CN",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "badou.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:badou.com",
+    "source": {
+      "list": "CATEGORY-DOCUMENTS-CN",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "book118.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:book118.com",
+    "source": {
+      "list": "CATEGORY-DOCUMENTS-CN",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "daodoc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:daodoc.com",
+    "source": {
+      "list": "CATEGORY-DOCUMENTS-CN",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "doc88.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:doc88.com",
+    "source": {
+      "list": "CATEGORY-DOCUMENTS-CN",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "docin.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:docin.com",
+    "source": {
+      "list": "CATEGORY-DOCUMENTS-CN",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "douding.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:douding.cn",
+    "source": {
+      "list": "CATEGORY-DOCUMENTS-CN",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "goldhoe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:goldhoe.com",
+    "source": {
+      "list": "CATEGORY-DOCUMENTS-CN",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "haohaodoc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:haohaodoc.com",
+    "source": {
+      "list": "CATEGORY-DOCUMENTS-CN",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jinchutou.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jinchutou.com",
+    "source": {
+      "list": "CATEGORY-DOCUMENTS-CN",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lazyer.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lazyer.net",
+    "source": {
+      "list": "CATEGORY-DOCUMENTS-CN",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "renrendoc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:renrendoc.com",
+    "source": {
+      "list": "CATEGORY-DOCUMENTS-CN",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "safewk.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:safewk.com",
+    "source": {
+      "list": "CATEGORY-DOCUMENTS-CN",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "taodocs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:taodocs.com",
+    "source": {
+      "list": "CATEGORY-DOCUMENTS-CN",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wenkeju.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wenkeju.com",
+    "source": {
+      "list": "CATEGORY-DOCUMENTS-CN",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wenkub.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wenkub.com",
+    "source": {
+      "list": "CATEGORY-DOCUMENTS-CN",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ypppt.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ypppt.com",
+    "source": {
+      "list": "CATEGORY-DOCUMENTS-CN",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zhijidoc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zhijidoc.com",
+    "source": {
+      "list": "CATEGORY-DOCUMENTS-CN",
+      "line": 22
+    }
+  }
+]

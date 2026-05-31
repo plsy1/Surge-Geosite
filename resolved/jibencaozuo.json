@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "jbcz.tv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jbcz.tv",
+    "source": {
+      "list": "JIBENCAOZUO",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jibencaozuo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jibencaozuo.com",
+    "source": {
+      "list": "JIBENCAOZUO",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "media.paperclipclub.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:media.paperclipclub.net",
+    "source": {
+      "list": "JIBENCAOZUO",
+      "line": 3
+    }
+  }
+]

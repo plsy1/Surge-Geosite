@@ -1,0 +1,57 @@
+{
+  "name": "CATEGORY-ANTICENSORSHIP",
+  "source": {
+    "domain": 46,
+    "full": 0,
+    "keyword": 0,
+    "regexp": 0,
+    "include": 12,
+    "affiliations": 0,
+    "attributes": 0
+  },
+  "resolved": {
+    "rules": 95,
+    "domain": 95,
+    "full": 0,
+    "keyword": 0,
+    "regexp": 0
+  },
+  "filters": {
+    "attrs": {}
+  },
+  "modes": {
+    "strict": {
+      "rules": 95,
+      "bytes": 2679,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "balanced": {
+      "rules": 95,
+      "bytes": 2679,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "full": {
+      "rules": 95,
+      "bytes": 2679,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    }
+  }
+}

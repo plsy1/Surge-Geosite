@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "c-t.work",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:c-t.work",
+    "source": {
+      "list": "COWTRANSFER",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cowcs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cowcs.com",
+    "source": {
+      "list": "COWTRANSFER",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cowtransfer.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cowtransfer.com",
+    "source": {
+      "list": "COWTRANSFER",
+      "line": 6
+    }
+  }
+]

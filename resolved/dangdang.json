@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "dangdang.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dangdang.com",
+    "source": {
+      "list": "DANGDANG",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ddimg.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ddimg.cn",
+    "source": {
+      "list": "DANGDANG",
+      "line": 2
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "deezer.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:deezer.com",
+    "source": {
+      "list": "DEEZER",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dzcdn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dzcdn.net",
+    "source": {
+      "list": "DEEZER",
+      "line": 2
+    }
+  }
+]

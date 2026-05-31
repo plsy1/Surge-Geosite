@@ -1,0 +1,626 @@
+[
+  {
+    "type": "domain",
+    "value": "client-update.queniuqe.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:client-update.queniuqe.com:@cn",
+    "source": {
+      "list": "STEAM",
+      "line": 65
+    }
+  },
+  {
+    "type": "domain",
+    "value": "csgo.wmsj.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:csgo.wmsj.cn:@cn",
+    "source": {
+      "list": "STEAM",
+      "line": 60
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dl.steam.clngaa.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:dl.steam.clngaa.com:@cn",
+    "source": {
+      "list": "STEAM",
+      "line": 68
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dota2.wmsj.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:dota2.wmsj.cn:@cn",
+    "source": {
+      "list": "STEAM",
+      "line": 61
+    }
+  },
+  {
+    "type": "domain",
+    "value": "edge.steam-dns.top.comcast.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:edge.steam-dns.top.comcast.net",
+    "source": {
+      "list": "STEAM",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gstore.val.manlaxy.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:gstore.val.manlaxy.com:@cn",
+    "source": {
+      "list": "STEAM",
+      "line": 88
+    }
+  },
+  {
+    "type": "domain",
+    "value": "playartifact.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:playartifact.com",
+    "source": {
+      "list": "STEAM",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "s.team",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:s.team",
+    "source": {
+      "list": "STEAM",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "st.dl.bscstorage.net",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:st.dl.bscstorage.net:@cn",
+    "source": {
+      "list": "STEAM",
+      "line": 71
+    }
+  },
+  {
+    "type": "domain",
+    "value": "st.dl.eccdnx.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:st.dl.eccdnx.com:@cn",
+    "source": {
+      "list": "STEAM",
+      "line": 72
+    }
+  },
+  {
+    "type": "domain",
+    "value": "st.dl.pinyuncloud.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:st.dl.pinyuncloud.com:@cn",
+    "source": {
+      "list": "STEAM",
+      "line": 73
+    }
+  },
+  {
+    "type": "domain",
+    "value": "steam-api.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:steam-api.com",
+    "source": {
+      "list": "STEAM",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "steam-chat.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:steam-chat.com",
+    "source": {
+      "list": "STEAM",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "steam.apac.qtlglb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:steam.apac.qtlglb.com",
+    "source": {
+      "list": "STEAM",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "steam.cdn.on.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:steam.cdn.on.net",
+    "source": {
+      "list": "STEAM",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "steam.cdn.orcon.net.nz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:steam.cdn.orcon.net.nz",
+    "source": {
+      "list": "STEAM",
+      "line": 37
+    }
+  },
+  {
+    "type": "domain",
+    "value": "steam.cdn.slingshot.co.nz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:steam.cdn.slingshot.co.nz",
+    "source": {
+      "list": "STEAM",
+      "line": 38
+    }
+  },
+  {
+    "type": "domain",
+    "value": "steam.cdn.webra.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:steam.cdn.webra.ru",
+    "source": {
+      "list": "STEAM",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "steam.eca.qtlglb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:steam.eca.qtlglb.com",
+    "source": {
+      "list": "STEAM",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "steam.naeu.qtlglb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:steam.naeu.qtlglb.com",
+    "source": {
+      "list": "STEAM",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "steam.ru.qtlglb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:steam.ru.qtlglb.com",
+    "source": {
+      "list": "STEAM",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "steam.tv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:steam.tv",
+    "source": {
+      "list": "STEAM",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "steamchina.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:steamchina.com:@cn",
+    "source": {
+      "list": "STEAM",
+      "line": 85
+    }
+  },
+  {
+    "type": "domain",
+    "value": "steamcommunity.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:steamcommunity.com",
+    "source": {
+      "list": "STEAM",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "steamcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:steamcontent.com",
+    "source": {
+      "list": "STEAM",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "steamdeck.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:steamdeck.com",
+    "source": {
+      "list": "STEAM",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "steamgames.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:steamgames.com",
+    "source": {
+      "list": "STEAM",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "steampowered.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:steampowered.com",
+    "source": {
+      "list": "STEAM",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "steampowered.com.8686c.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:steampowered.com.8686c.com:@cn",
+    "source": {
+      "list": "STEAM",
+      "line": 76
+    }
+  },
+  {
+    "type": "domain",
+    "value": "steamserver.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:steamserver.net",
+    "source": {
+      "list": "STEAM",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "steamstatic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:steamstatic.com",
+    "source": {
+      "list": "STEAM",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "steamstatic.com.8686c.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:steamstatic.com.8686c.com:@cn",
+    "source": {
+      "list": "STEAM",
+      "line": 77
+    }
+  },
+  {
+    "type": "domain",
+    "value": "steamusercontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:steamusercontent.com",
+    "source": {
+      "list": "STEAM",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "underlords.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:underlords.com",
+    "source": {
+      "list": "STEAM",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "valvesoftware.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:valvesoftware.com",
+    "source": {
+      "list": "STEAM",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wmsjsteam.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:wmsjsteam.com:@cn",
+    "source": {
+      "list": "STEAM",
+      "line": 62
+    }
+  },
+  {
+    "type": "full",
+    "value": "a4e8s8k3.map2.ssl.hwcdn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:a4e8s8k3.map2.ssl.hwcdn.net",
+    "source": {
+      "list": "STEAM",
+      "line": 30
+    }
+  },
+  {
+    "type": "full",
+    "value": "alibaba.cdn.steampipe.steamcontent.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:alibaba.cdn.steampipe.steamcontent.com:@cn",
+    "source": {
+      "list": "STEAM",
+      "line": 80
+    }
+  },
+  {
+    "type": "full",
+    "value": "f3b7q2p3.ssl.hwcdn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:f3b7q2p3.ssl.hwcdn.net",
+    "source": {
+      "list": "STEAM",
+      "line": 31
+    }
+  },
+  {
+    "type": "full",
+    "value": "lv.queniujq.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:lv.queniujq.cn:@cn",
+    "source": {
+      "list": "STEAM",
+      "line": 81
+    }
+  },
+  {
+    "type": "full",
+    "value": "steambroadcast.akamaized.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:steambroadcast.akamaized.net",
+    "source": {
+      "list": "STEAM",
+      "line": 44
+    }
+  },
+  {
+    "type": "full",
+    "value": "steamcdn-a.akamaihd.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:steamcdn-a.akamaihd.net",
+    "source": {
+      "list": "STEAM",
+      "line": 45
+    }
+  },
+  {
+    "type": "full",
+    "value": "steamcloudsweden.blob.core.windows.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:steamcloudsweden.blob.core.windows.net",
+    "source": {
+      "list": "STEAM",
+      "line": 57
+    }
+  },
+  {
+    "type": "full",
+    "value": "steamcommunity-a.akamaihd.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:steamcommunity-a.akamaihd.net",
+    "source": {
+      "list": "STEAM",
+      "line": 46
+    }
+  },
+  {
+    "type": "full",
+    "value": "steamcommunity-a.akamaihd.net.edgesuite.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:steamcommunity-a.akamaihd.net.edgesuite.net",
+    "source": {
+      "list": "STEAM",
+      "line": 21
+    }
+  },
+  {
+    "type": "full",
+    "value": "steammobile.akamaized.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:steammobile.akamaized.net",
+    "source": {
+      "list": "STEAM",
+      "line": 47
+    }
+  },
+  {
+    "type": "full",
+    "value": "steampipe-kr.akamaized.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:steampipe-kr.akamaized.net",
+    "source": {
+      "list": "STEAM",
+      "line": 48
+    }
+  },
+  {
+    "type": "full",
+    "value": "steampipe-partner.akamaized.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:steampipe-partner.akamaized.net",
+    "source": {
+      "list": "STEAM",
+      "line": 49
+    }
+  },
+  {
+    "type": "full",
+    "value": "steampipe.akamaized.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:steampipe.akamaized.net",
+    "source": {
+      "list": "STEAM",
+      "line": 50
+    }
+  },
+  {
+    "type": "full",
+    "value": "steamstore-a.akamaihd.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:steamstore-a.akamaihd.net",
+    "source": {
+      "list": "STEAM",
+      "line": 51
+    }
+  },
+  {
+    "type": "full",
+    "value": "steamusercontent-a.akamaihd.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:steamusercontent-a.akamaihd.net",
+    "source": {
+      "list": "STEAM",
+      "line": 52
+    }
+  },
+  {
+    "type": "full",
+    "value": "steamuserimages-a.akamaihd.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:steamuserimages-a.akamaihd.net",
+    "source": {
+      "list": "STEAM",
+      "line": 53
+    }
+  },
+  {
+    "type": "full",
+    "value": "steamvideo-a.akamaihd.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:steamvideo-a.akamaihd.net",
+    "source": {
+      "list": "STEAM",
+      "line": 54
+    }
+  },
+  {
+    "type": "full",
+    "value": "xz.pphimalayanrt.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:xz.pphimalayanrt.com:@cn",
+    "source": {
+      "list": "STEAM",
+      "line": 82
+    }
+  }
+]

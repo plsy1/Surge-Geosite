@@ -1,0 +1,57 @@
+[
+  {
+    "type": "domain",
+    "value": "gate.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gate.io",
+    "source": {
+      "list": "GATEIO",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gatedata.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gatedata.org",
+    "source": {
+      "list": "GATEIO",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gateimg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gateimg.com",
+    "source": {
+      "list": "GATEIO",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gateio.live",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gateio.live",
+    "source": {
+      "list": "GATEIO",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gateio.services",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gateio.services",
+    "source": {
+      "list": "GATEIO",
+      "line": 6
+    }
+  }
+]

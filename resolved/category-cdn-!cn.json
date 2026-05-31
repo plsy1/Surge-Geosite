@@ -1,0 +1,2196 @@
+[
+  {
+    "type": "domain",
+    "value": "accdn.com.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:accdn.com.cn:@cn",
+    "source": {
+      "list": "AKAMAI",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ak1.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ak1.net",
+    "source": {
+      "list": "AKAMAI",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aka-ai.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aka-ai.com",
+    "source": {
+      "list": "AKAMAI",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aka-ai.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aka-ai.net",
+    "source": {
+      "list": "AKAMAI",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akacrypto.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akacrypto.net",
+    "source": {
+      "list": "AKAMAI",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akadeem.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akadeem.net",
+    "source": {
+      "list": "AKAMAI",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akadns.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akadns.com",
+    "source": {
+      "list": "AKAMAI",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akadns.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akadns.net",
+    "source": {
+      "list": "AKAMAI",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akadns6.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akadns6.net",
+    "source": {
+      "list": "AKAMAI",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akadns88.net",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:akadns88.net:@cn",
+    "source": {
+      "list": "AKAMAI",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akadns99.net",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:akadns99.net:@cn",
+    "source": {
+      "list": "AKAMAI",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akaeai.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akaeai.com",
+    "source": {
+      "list": "AKAMAI",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akafms.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akafms.net",
+    "source": {
+      "list": "AKAMAI",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akagtm.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akagtm.org",
+    "source": {
+      "list": "AKAMAI",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akahost.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akahost.net",
+    "source": {
+      "list": "AKAMAI",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akaint.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akaint.net",
+    "source": {
+      "list": "AKAMAI",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akam.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akam.net",
+    "source": {
+      "list": "AKAMAI",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akamaa.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akamaa.com",
+    "source": {
+      "list": "AKAMAI",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akamah.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akamah.com",
+    "source": {
+      "list": "AKAMAI",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akamai-access.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akamai-access.com",
+    "source": {
+      "list": "AKAMAI",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akamai-access.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akamai-access.net",
+    "source": {
+      "list": "AKAMAI",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akamai-cdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akamai-cdn.com",
+    "source": {
+      "list": "AKAMAI",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akamai-platform-internal.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akamai-platform-internal.net",
+    "source": {
+      "list": "AKAMAI",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akamai-platform-staging.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akamai-platform-staging.com",
+    "source": {
+      "list": "AKAMAI",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akamai-platform.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akamai-platform.net",
+    "source": {
+      "list": "AKAMAI",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akamai-regression.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akamai-regression.net",
+    "source": {
+      "list": "AKAMAI",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akamai-staging.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akamai-staging.net",
+    "source": {
+      "list": "AKAMAI",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akamai-sucks.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akamai-sucks.net",
+    "source": {
+      "list": "AKAMAI",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akamai-thailand.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akamai-thailand.com",
+    "source": {
+      "list": "AKAMAI",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akamai-thailand.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akamai-thailand.net",
+    "source": {
+      "list": "AKAMAI",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akamai-trials.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akamai-trials.com",
+    "source": {
+      "list": "AKAMAI",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akamai.co.kr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akamai.co.kr",
+    "source": {
+      "list": "AKAMAI",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akamai.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:akamai.com:@cn",
+    "source": {
+      "list": "AKAMAI",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akamai.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akamai.net",
+    "source": {
+      "list": "AKAMAI",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akamaiedge.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akamaiedge.net",
+    "source": {
+      "list": "AKAMAI",
+      "line": 37
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akamaientrypoint.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akamaientrypoint.net",
+    "source": {
+      "list": "AKAMAI",
+      "line": 38
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akamaietpcnctest.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akamaietpcnctest.com",
+    "source": {
+      "list": "AKAMAI",
+      "line": 39
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akamaietpcompromisedcnctest.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akamaietpcompromisedcnctest.com",
+    "source": {
+      "list": "AKAMAI",
+      "line": 40
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akamaietpcompromisedmalwaretest.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akamaietpcompromisedmalwaretest.com",
+    "source": {
+      "list": "AKAMAI",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akamaietpmalwaretest.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akamaietpmalwaretest.com",
+    "source": {
+      "list": "AKAMAI",
+      "line": 42
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akamaietpphishingtest.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akamaietpphishingtest.com",
+    "source": {
+      "list": "AKAMAI",
+      "line": 43
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akamaihd-staging.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akamaihd-staging.net",
+    "source": {
+      "list": "AKAMAI",
+      "line": 44
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akamaihd.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akamaihd.com",
+    "source": {
+      "list": "AKAMAI",
+      "line": 45
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akamaihd.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akamaihd.net",
+    "source": {
+      "list": "AKAMAI",
+      "line": 46
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akamaimagicmath.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akamaimagicmath.net",
+    "source": {
+      "list": "AKAMAI",
+      "line": 47
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akamainewzealand.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akamainewzealand.com",
+    "source": {
+      "list": "AKAMAI",
+      "line": 48
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akamaiphillipines.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akamaiphillipines.com",
+    "source": {
+      "list": "AKAMAI",
+      "line": 49
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akamaiphillipines.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akamaiphillipines.net",
+    "source": {
+      "list": "AKAMAI",
+      "line": 50
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akamaisingapore.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akamaisingapore.net",
+    "source": {
+      "list": "AKAMAI",
+      "line": 55
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akamaistream.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akamaistream.net",
+    "source": {
+      "list": "AKAMAI",
+      "line": 56
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akamaitech.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akamaitech.com",
+    "source": {
+      "list": "AKAMAI",
+      "line": 51
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akamaitech.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akamaitech.net",
+    "source": {
+      "list": "AKAMAI",
+      "line": 52
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akamaitechnologies.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akamaitechnologies.com",
+    "source": {
+      "list": "AKAMAI",
+      "line": 53
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akamaitechnologies.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akamaitechnologies.net",
+    "source": {
+      "list": "AKAMAI",
+      "line": 54
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akamaized-staging.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akamaized-staging.net",
+    "source": {
+      "list": "AKAMAI",
+      "line": 57
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akamaized.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akamaized.net",
+    "source": {
+      "list": "AKAMAI",
+      "line": 58
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akamaizercentral.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akamaizercentral.com",
+    "source": {
+      "list": "AKAMAI",
+      "line": 59
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akamak.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akamak.com",
+    "source": {
+      "list": "AKAMAI",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akamam.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akamam.com",
+    "source": {
+      "list": "AKAMAI",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akamci.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akamci.com",
+    "source": {
+      "list": "AKAMAI",
+      "line": 60
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akami.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akami.com",
+    "source": {
+      "list": "AKAMAI",
+      "line": 61
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akami.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akami.net",
+    "source": {
+      "list": "AKAMAI",
+      "line": 62
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akamii.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akamii.com",
+    "source": {
+      "list": "AKAMAI",
+      "line": 63
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akamqi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akamqi.com",
+    "source": {
+      "list": "AKAMAI",
+      "line": 64
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akastream.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akastream.com",
+    "source": {
+      "list": "AKAMAI",
+      "line": 65
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akastream.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akastream.net",
+    "source": {
+      "list": "AKAMAI",
+      "line": 66
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akatns.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akatns.net",
+    "source": {
+      "list": "AKAMAI",
+      "line": 67
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akcdn.com.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:akcdn.com.cn:@cn",
+    "source": {
+      "list": "AKAMAI",
+      "line": 68
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akstat.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akstat.io",
+    "source": {
+      "list": "AKAMAI",
+      "line": 69
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aptdn.net",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:aptdn.net:@cn",
+    "source": {
+      "list": "AKAMAI",
+      "line": 70
+    }
+  },
+  {
+    "type": "domain",
+    "value": "argotunnel.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:argotunnel.com",
+    "source": {
+      "list": "CLOUDFLARE",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "b-cdn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:b-cdn.net",
+    "source": {
+      "list": "CATEGORY-CDN-!CN",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "browser.run",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:browser.run",
+    "source": {
+      "list": "CLOUDFLARE",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bunny.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bunny.net",
+    "source": {
+      "list": "CATEGORY-CDN-!CN",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bunnycdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bunnycdn.com",
+    "source": {
+      "list": "CATEGORY-CDN-!CN",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdn77.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdn77.com",
+    "source": {
+      "list": "CDN77",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdn77.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdn77.org",
+    "source": {
+      "list": "CDN77",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnjs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnjs.com",
+    "source": {
+      "list": "CATEGORY-CDN-!CN",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cf-china.info",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:cf-china.info:@cn",
+    "source": {
+      "list": "CLOUDFLARE-CN",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cf-ipfs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cf-ipfs.com",
+    "source": {
+      "list": "CLOUDFLARE-IPFS",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cf-ns.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:cf-ns.com:@cn",
+    "source": {
+      "list": "CLOUDFLARE-CN",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cf-ns.net",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:cf-ns.net:@cn",
+    "source": {
+      "list": "CLOUDFLARE-CN",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cf-ns.site",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:cf-ns.site:@cn",
+    "source": {
+      "list": "CLOUDFLARE-CN",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cf-ns.tech",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:cf-ns.tech:@cn",
+    "source": {
+      "list": "CLOUDFLARE-CN",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cfargotunnel.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cfargotunnel.com",
+    "source": {
+      "list": "CLOUDFLARE",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cfdata.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cfdata.org",
+    "source": {
+      "list": "CLOUDFLARE",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cfl.re",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cfl.re",
+    "source": {
+      "list": "CLOUDFLARE",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cftest5.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:cftest5.cn:@cn",
+    "source": {
+      "list": "CLOUDFLARE-CN",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cftest6.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:cftest6.cn:@cn",
+    "source": {
+      "list": "CLOUDFLARE-CN",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cftest7.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:cftest7.com:@cn",
+    "source": {
+      "list": "CLOUDFLARE-CN",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cftest8.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:cftest8.com:@cn",
+    "source": {
+      "list": "CLOUDFLARE-CN",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudflare-cn.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:cloudflare-cn.com:@cn",
+    "source": {
+      "list": "CLOUDFLARE-CN",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudflare-dns.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudflare-dns.com",
+    "source": {
+      "list": "CLOUDFLARE",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudflare-ech.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudflare-ech.com",
+    "source": {
+      "list": "CLOUDFLARE",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudflare-esni.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudflare-esni.com",
+    "source": {
+      "list": "CLOUDFLARE",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudflare-gateway.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudflare-gateway.com",
+    "source": {
+      "list": "CLOUDFLARE",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudflare-ipfs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudflare-ipfs.com",
+    "source": {
+      "list": "CLOUDFLARE-IPFS",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudflare-quic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudflare-quic.com",
+    "source": {
+      "list": "CLOUDFLARE",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudflare-terms-of-service-abuse.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudflare-terms-of-service-abuse.com",
+    "source": {
+      "list": "CLOUDFLARE",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudflare.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudflare.com",
+    "source": {
+      "list": "CLOUDFLARE",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudflare.dev",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudflare.dev",
+    "source": {
+      "list": "CLOUDFLARE",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudflare.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudflare.net",
+    "source": {
+      "list": "CLOUDFLARE",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudflare.tv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudflare.tv",
+    "source": {
+      "list": "CLOUDFLARE",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudflareaccess.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudflareaccess.com",
+    "source": {
+      "list": "CLOUDFLARE",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudflareanycast.net",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:cloudflareanycast.net:@cn",
+    "source": {
+      "list": "CLOUDFLARE-CN",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudflareapps.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudflareapps.com",
+    "source": {
+      "list": "CLOUDFLARE",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudflarebolt.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudflarebolt.com",
+    "source": {
+      "list": "CLOUDFLARE",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudflarebrowser.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudflarebrowser.com",
+    "source": {
+      "list": "CLOUDFLARE",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudflarechallenge.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudflarechallenge.com",
+    "source": {
+      "list": "CLOUDFLARE",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudflarechina.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:cloudflarechina.cn:@cn",
+    "source": {
+      "list": "CLOUDFLARE-CN",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudflareclient.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudflareclient.com",
+    "source": {
+      "list": "CLOUDFLARE",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudflarecn.net",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:cloudflarecn.net:@cn",
+    "source": {
+      "list": "CLOUDFLARE-CN",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudflarecp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudflarecp.com",
+    "source": {
+      "list": "CLOUDFLARE",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudflareglobal.net",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:cloudflareglobal.net:@cn",
+    "source": {
+      "list": "CLOUDFLARE-CN",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudflareinsights-cn.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:cloudflareinsights-cn.com:@cn",
+    "source": {
+      "list": "CLOUDFLARE-CN",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudflareinsights.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudflareinsights.com",
+    "source": {
+      "list": "CLOUDFLARE",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudflareok.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudflareok.com",
+    "source": {
+      "list": "CLOUDFLARE",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudflarepartners.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudflarepartners.com",
+    "source": {
+      "list": "CLOUDFLARE",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudflareperf.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:cloudflareperf.com:@cn",
+    "source": {
+      "list": "CLOUDFLARE-CN",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudflareportal.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudflareportal.com",
+    "source": {
+      "list": "CLOUDFLARE",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudflarepreview.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudflarepreview.com",
+    "source": {
+      "list": "CLOUDFLARE",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudflareprod.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:cloudflareprod.com:@cn",
+    "source": {
+      "list": "CLOUDFLARE-CN",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudflareregistrar.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudflareregistrar.com",
+    "source": {
+      "list": "CLOUDFLARE",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudflareresearch.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudflareresearch.com",
+    "source": {
+      "list": "CLOUDFLARE",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudflareresolve.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudflareresolve.com",
+    "source": {
+      "list": "CLOUDFLARE",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudflaressl.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudflaressl.com",
+    "source": {
+      "list": "CLOUDFLARE",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudflarestaging.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:cloudflarestaging.com:@cn",
+    "source": {
+      "list": "CLOUDFLARE-CN",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudflarestatus.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudflarestatus.com",
+    "source": {
+      "list": "CLOUDFLARE",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudflarestorage.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudflarestorage.com",
+    "source": {
+      "list": "CLOUDFLARE",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudflarestoragegw.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:cloudflarestoragegw.com:@cn",
+    "source": {
+      "list": "CLOUDFLARE-CN",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudflarestream.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudflarestream.com",
+    "source": {
+      "list": "CLOUDFLARE",
+      "line": 37
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudflaresupport.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudflaresupport.com",
+    "source": {
+      "list": "CLOUDFLARE",
+      "line": 38
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudflaretest.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudflaretest.com",
+    "source": {
+      "list": "CLOUDFLARE",
+      "line": 39
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudflarewarp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudflarewarp.com",
+    "source": {
+      "list": "CLOUDFLARE",
+      "line": 40
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudflareworkers.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudflareworkers.com",
+    "source": {
+      "list": "CLOUDFLARE",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "delvenetworks.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:delvenetworks.com",
+    "source": {
+      "list": "LIMELIGHT",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "edgekey.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:edgekey.net",
+    "source": {
+      "list": "AKAMAI",
+      "line": 71
+    }
+  },
+  {
+    "type": "domain",
+    "value": "edgekey88.net",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:edgekey88.net:@cn",
+    "source": {
+      "list": "AKAMAI",
+      "line": 72
+    }
+  },
+  {
+    "type": "domain",
+    "value": "edgesuite.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:edgesuite.net",
+    "source": {
+      "list": "AKAMAI",
+      "line": 73
+    }
+  },
+  {
+    "type": "domain",
+    "value": "encryptedsni.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:encryptedsni.com",
+    "source": {
+      "list": "CLOUDFLARE",
+      "line": 42
+    }
+  },
+  {
+    "type": "domain",
+    "value": "esm.run",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:esm.run",
+    "source": {
+      "list": "JSDELIVR",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "esm.sh",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:esm.sh",
+    "source": {
+      "list": "CATEGORY-CDN-!CN",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "every1dns.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:every1dns.net",
+    "source": {
+      "list": "CLOUDFLARE",
+      "line": 43
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fastly-edge.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fastly-edge.com",
+    "source": {
+      "list": "FASTLY",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fastly-terrarium.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fastly-terrarium.com",
+    "source": {
+      "list": "FASTLY",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fastly.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fastly.com",
+    "source": {
+      "list": "FASTLY",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fastly.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fastly.io",
+    "source": {
+      "list": "FASTLY",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fastly.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fastly.net",
+    "source": {
+      "list": "FASTLY",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fastlylabs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fastlylabs.com",
+    "source": {
+      "list": "FASTLY",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fastlylb.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fastlylb.net",
+    "source": {
+      "list": "FASTLY",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "foundationdns.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:foundationdns.com",
+    "source": {
+      "list": "CLOUDFLARE",
+      "line": 44
+    }
+  },
+  {
+    "type": "domain",
+    "value": "foundationdns.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:foundationdns.net",
+    "source": {
+      "list": "CLOUDFLARE",
+      "line": 45
+    }
+  },
+  {
+    "type": "domain",
+    "value": "foundationdns.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:foundationdns.org",
+    "source": {
+      "list": "CLOUDFLARE",
+      "line": 46
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gcdn.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gcdn.co",
+    "source": {
+      "list": "CATEGORY-CDN-!CN",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gcore.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gcore.com",
+    "source": {
+      "list": "CATEGORY-CDN-!CN",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gcore.pro",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gcore.pro",
+    "source": {
+      "list": "CATEGORY-CDN-!CN",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "iamakamai.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:iamakamai.com",
+    "source": {
+      "list": "AKAMAI",
+      "line": 74
+    }
+  },
+  {
+    "type": "domain",
+    "value": "iamakamai.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:iamakamai.net",
+    "source": {
+      "list": "AKAMAI",
+      "line": 75
+    }
+  },
+  {
+    "type": "domain",
+    "value": "imagedelivery.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:imagedelivery.net",
+    "source": {
+      "list": "CLOUDFLARE",
+      "line": 47
+    }
+  },
+  {
+    "type": "domain",
+    "value": "imgix.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:imgix.com",
+    "source": {
+      "list": "IMGIX",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "imgix.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:imgix.net",
+    "source": {
+      "list": "IMGIX",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "isbgpsafeyet.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:isbgpsafeyet.com",
+    "source": {
+      "list": "CLOUDFLARE",
+      "line": 48
+    }
+  },
+  {
+    "type": "domain",
+    "value": "janrain.biz",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:janrain.biz:@cn",
+    "source": {
+      "list": "AKAMAI",
+      "line": 76
+    }
+  },
+  {
+    "type": "domain",
+    "value": "janrainservices.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:janrainservices.com:@cn",
+    "source": {
+      "list": "AKAMAI",
+      "line": 77
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jsdelivr.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jsdelivr.com",
+    "source": {
+      "list": "JSDELIVR",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jsdelivr.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jsdelivr.net",
+    "source": {
+      "list": "JSDELIVR",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "limelight.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:limelight.com",
+    "source": {
+      "list": "LIMELIGHT",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lldns.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lldns.net",
+    "source": {
+      "list": "LIMELIGHT",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "llnw-trials.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:llnw-trials.com",
+    "source": {
+      "list": "LIMELIGHT",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "llnw.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:llnw.com",
+    "source": {
+      "list": "LIMELIGHT",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "llnw.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:llnw.net",
+    "source": {
+      "list": "LIMELIGHT",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "llnwd.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:llnwd.net",
+    "source": {
+      "list": "LIMELIGHT",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "llnwi.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:llnwi.net",
+    "source": {
+      "list": "LIMELIGHT",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "one.one.one",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:one.one.one",
+    "source": {
+      "list": "CLOUDFLARE",
+      "line": 49
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pacloudflare.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pacloudflare.com",
+    "source": {
+      "list": "CLOUDFLARE",
+      "line": 50
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pagecdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pagecdn.com",
+    "source": {
+      "list": "PAGECDN",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pagecdn.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pagecdn.io",
+    "source": {
+      "list": "PAGECDN",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pages.dev",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pages.dev",
+    "source": {
+      "list": "CLOUDFLARE",
+      "line": 51
+    }
+  },
+  {
+    "type": "domain",
+    "value": "quantil.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:quantil.com",
+    "source": {
+      "list": "QUANTIL",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "r2.dev",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:r2.dev",
+    "source": {
+      "list": "CLOUDFLARE",
+      "line": 52
+    }
+  },
+  {
+    "type": "domain",
+    "value": "skycdn.com.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:skycdn.com.cn:@cn",
+    "source": {
+      "list": "AKAMAI",
+      "line": 78
+    }
+  },
+  {
+    "type": "domain",
+    "value": "soasta-dswb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:soasta-dswb.com",
+    "source": {
+      "list": "AKAMAI",
+      "line": 79
+    }
+  },
+  {
+    "type": "domain",
+    "value": "srtcdn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:srtcdn.net",
+    "source": {
+      "list": "AKAMAI",
+      "line": 80
+    }
+  },
+  {
+    "type": "domain",
+    "value": "stackpath.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:stackpath.com",
+    "source": {
+      "list": "STACKPATH",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "stackpath.dev",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:stackpath.dev",
+    "source": {
+      "list": "STACKPATH",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tl88.net",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:tl88.net:@cn",
+    "source": {
+      "list": "AKAMAI",
+      "line": 81
+    }
+  },
+  {
+    "type": "domain",
+    "value": "trycloudflare.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:trycloudflare.com",
+    "source": {
+      "list": "CLOUDFLARE",
+      "line": 53
+    }
+  },
+  {
+    "type": "domain",
+    "value": "videodelivery.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:videodelivery.net",
+    "source": {
+      "list": "CLOUDFLARE",
+      "line": 54
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vrcdn.cloud",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vrcdn.cloud",
+    "source": {
+      "list": "VRCDN",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vrcdn.live",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vrcdn.live",
+    "source": {
+      "list": "VRCDN",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vrcdn.video",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vrcdn.video",
+    "source": {
+      "list": "VRCDN",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "warp.plus",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:warp.plus",
+    "source": {
+      "list": "CLOUDFLARE",
+      "line": 55
+    }
+  },
+  {
+    "type": "domain",
+    "value": "workers.dev",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:workers.dev",
+    "source": {
+      "list": "CLOUDFLARE",
+      "line": 56
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zencdn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zencdn.net",
+    "source": {
+      "list": "FASTLY",
+      "line": 10
+    }
+  }
+]

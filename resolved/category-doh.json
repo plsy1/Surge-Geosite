@@ -1,0 +1,1333 @@
+[
+  {
+    "type": "domain",
+    "value": "cloudflare-dns.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudflare-dns.com",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 43
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nextdns.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nextdns.io",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 112
+    }
+  },
+  {
+    "type": "domain",
+    "value": "opendns.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:opendns.com",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 35
+    }
+  },
+  {
+    "type": "full",
+    "value": "ada.openbld.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:ada.openbld.net",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 116
+    }
+  },
+  {
+    "type": "full",
+    "value": "adblock.dns.mullvad.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:adblock.dns.mullvad.net",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 101
+    }
+  },
+  {
+    "type": "full",
+    "value": "all.dns.mullvad.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:all.dns.mullvad.net",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 109
+    }
+  },
+  {
+    "type": "full",
+    "value": "antivirus.bebasid.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:antivirus.bebasid.com",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 27
+    }
+  },
+  {
+    "type": "full",
+    "value": "au-syd.doh.sb",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:au-syd.doh.sb",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 72
+    }
+  },
+  {
+    "type": "full",
+    "value": "base.dns.mullvad.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:base.dns.mullvad.net",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 103
+    }
+  },
+  {
+    "type": "full",
+    "value": "basic.rethinkdns.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:basic.rethinkdns.com",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 140
+    }
+  },
+  {
+    "type": "full",
+    "value": "ca-yyz.doh.sb",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:ca-yyz.doh.sb",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 80
+    }
+  },
+  {
+    "type": "full",
+    "value": "child-noads.joindns4.eu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:child-noads.joindns4.eu",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 190
+    }
+  },
+  {
+    "type": "full",
+    "value": "child.joindns4.eu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:child.joindns4.eu",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 186
+    }
+  },
+  {
+    "type": "full",
+    "value": "common.dot.dns.yandex.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:common.dot.dns.yandex.net",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 229
+    }
+  },
+  {
+    "type": "full",
+    "value": "dandelionsprout.asuscomm.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:dandelionsprout.asuscomm.com",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 253
+    }
+  },
+  {
+    "type": "full",
+    "value": "de-ber.doh.sb",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:de-ber.doh.sb",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 81
+    }
+  },
+  {
+    "type": "full",
+    "value": "de-dus.doh.sb",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:de-dus.doh.sb",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 64
+    }
+  },
+  {
+    "type": "full",
+    "value": "de-fra.doh.sb",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:de-fra.doh.sb",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 65
+    }
+  },
+  {
+    "type": "full",
+    "value": "dns-doh.dnsforfamily.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:dns-doh.dnsforfamily.com",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 180
+    }
+  },
+  {
+    "type": "full",
+    "value": "dns.adguard-dns.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:dns.adguard-dns.com",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 8
+    }
+  },
+  {
+    "type": "full",
+    "value": "dns.adguard.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:dns.adguard.com",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 7
+    }
+  },
+  {
+    "type": "full",
+    "value": "dns.alidns.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:dns.alidns.com",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 15
+    }
+  },
+  {
+    "type": "full",
+    "value": "dns.arapurayil.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:dns.arapurayil.com",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 250
+    }
+  },
+  {
+    "type": "full",
+    "value": "dns.bebasid.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:dns.bebasid.com",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 25
+    }
+  },
+  {
+    "type": "full",
+    "value": "dns.caliph.dev",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:dns.caliph.dev",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 21
+    }
+  },
+  {
+    "type": "full",
+    "value": "dns.cfiec.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:dns.cfiec.net",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 32
+    }
+  },
+  {
+    "type": "full",
+    "value": "dns.cloudflare.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:dns.cloudflare.com",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 42
+    }
+  },
+  {
+    "type": "full",
+    "value": "dns.comss.one",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:dns.comss.one",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 168
+    }
+  },
+  {
+    "type": "full",
+    "value": "dns.de.futuredns.eu.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:dns.de.futuredns.eu.org",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 54
+    }
+  },
+  {
+    "type": "full",
+    "value": "dns.decloudus.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:dns.decloudus.com",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 49
+    }
+  },
+  {
+    "type": "full",
+    "value": "dns.digitale-gesellschaft.ch",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:dns.digitale-gesellschaft.ch",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 177
+    }
+  },
+  {
+    "type": "full",
+    "value": "dns.dnswarden.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:dns.dnswarden.com",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 259
+    }
+  },
+  {
+    "type": "full",
+    "value": "dns.google",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:dns.google",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 92
+    }
+  },
+  {
+    "type": "full",
+    "value": "dns.jupitrdns.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:dns.jupitrdns.com",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 201
+    }
+  },
+  {
+    "type": "full",
+    "value": "dns.marbledfennec.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:dns.marbledfennec.net",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 271
+    }
+  },
+  {
+    "type": "full",
+    "value": "dns.mullvad.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:dns.mullvad.net",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 99
+    }
+  },
+  {
+    "type": "full",
+    "value": "dns.oszx.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:dns.oszx.co",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 274
+    }
+  },
+  {
+    "type": "full",
+    "value": "dns.pub",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:dns.pub",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 85
+    }
+  },
+  {
+    "type": "full",
+    "value": "dns.pumplex.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:dns.pumplex.com",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 277
+    }
+  },
+  {
+    "type": "full",
+    "value": "dns.quad9.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:dns.quad9.net",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 122
+    }
+  },
+  {
+    "type": "full",
+    "value": "dns.rabbitdns.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:dns.rabbitdns.org",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 132
+    }
+  },
+  {
+    "type": "full",
+    "value": "dns.sb",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:dns.sb",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 62
+    }
+  },
+  {
+    "type": "full",
+    "value": "dns.seia.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:dns.seia.io",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 223
+    }
+  },
+  {
+    "type": "full",
+    "value": "dns.shaw.ca",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:dns.shaw.ca",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 236
+    }
+  },
+  {
+    "type": "full",
+    "value": "dns.surfsharkdns.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:dns.surfsharkdns.com",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 146
+    }
+  },
+  {
+    "type": "full",
+    "value": "dns.switch.ch",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:dns.switch.ch",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 213
+    }
+  },
+  {
+    "type": "full",
+    "value": "dns.twnic.tw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:dns.twnic.tw",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 216
+    }
+  },
+  {
+    "type": "full",
+    "value": "dns.us.futuredns.eu.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:dns.us.futuredns.eu.org",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 56
+    }
+  },
+  {
+    "type": "full",
+    "value": "dns10.quad9.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:dns10.quad9.net",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 124
+    }
+  },
+  {
+    "type": "full",
+    "value": "dns11.quad9.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:dns11.quad9.net",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 125
+    }
+  },
+  {
+    "type": "full",
+    "value": "dnsforge.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:dnsforge.de",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 256
+    }
+  },
+  {
+    "type": "full",
+    "value": "dnsguard.pub",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:dnsguard.pub",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 300
+    }
+  },
+  {
+    "type": "full",
+    "value": "doh-pure.onedns.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:doh-pure.onedns.net",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 208
+    }
+  },
+  {
+    "type": "full",
+    "value": "doh.18bit.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:doh.18bit.cn",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 303
+    }
+  },
+  {
+    "type": "full",
+    "value": "doh.360.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:doh.360.cn",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 143
+    }
+  },
+  {
+    "type": "full",
+    "value": "doh.applied-privacy.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:doh.applied-privacy.net",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 157
+    }
+  },
+  {
+    "type": "full",
+    "value": "doh.cleanbrowsing.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:doh.cleanbrowsing.org",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 38
+    }
+  },
+  {
+    "type": "full",
+    "value": "doh.dns.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:doh.dns.apple.com",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 18
+    }
+  },
+  {
+    "type": "full",
+    "value": "doh.dns.sb",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:doh.dns.sb",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 60
+    }
+  },
+  {
+    "type": "full",
+    "value": "doh.ffmuc.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:doh.ffmuc.net",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 262
+    }
+  },
+  {
+    "type": "full",
+    "value": "doh.la.ahadns.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:doh.la.ahadns.net",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 247
+    }
+  },
+  {
+    "type": "full",
+    "value": "doh.libredns.gr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:doh.libredns.gr",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 204
+    }
+  },
+  {
+    "type": "full",
+    "value": "doh.nl.ahadns.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:doh.nl.ahadns.net",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 245
+    }
+  },
+  {
+    "type": "full",
+    "value": "doh.onedns.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:doh.onedns.net",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 210
+    }
+  },
+  {
+    "type": "full",
+    "value": "doh.pub",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:doh.pub",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 84
+    }
+  },
+  {
+    "type": "full",
+    "value": "doh.qis.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:doh.qis.io",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 128
+    }
+  },
+  {
+    "type": "full",
+    "value": "doh.sb",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:doh.sb",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 61
+    }
+  },
+  {
+    "type": "full",
+    "value": "doh.tiar.app",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:doh.tiar.app",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 282
+    }
+  },
+  {
+    "type": "full",
+    "value": "doh.tiarap.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:doh.tiarap.org",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 281
+    }
+  },
+  {
+    "type": "full",
+    "value": "doh.xfinity.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:doh.xfinity.com",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 239
+    }
+  },
+  {
+    "type": "full",
+    "value": "ee-tll.doh.sb",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:ee-tll.doh.sb",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 68
+    }
+  },
+  {
+    "type": "full",
+    "value": "extended.dns.mullvad.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:extended.dns.mullvad.net",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 105
+    }
+  },
+  {
+    "type": "full",
+    "value": "family.adguard-dns.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:family.adguard-dns.com",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 10
+    }
+  },
+  {
+    "type": "full",
+    "value": "family.canadianshield.cira.ca",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:family.canadianshield.cira.ca",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 165
+    }
+  },
+  {
+    "type": "full",
+    "value": "family.dns.mullvad.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:family.dns.mullvad.net",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 107
+    }
+  },
+  {
+    "type": "full",
+    "value": "family.dot.dns.yandex.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:family.dot.dns.yandex.net",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 233
+    }
+  },
+  {
+    "type": "full",
+    "value": "family.rabbitdns.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:family.rabbitdns.org",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 136
+    }
+  },
+  {
+    "type": "full",
+    "value": "frd4wvnobp.cloudflare-gateway.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:frd4wvnobp.cloudflare-gateway.com",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 297
+    }
+  },
+  {
+    "type": "full",
+    "value": "freedns.controld.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:freedns.controld.com",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 46
+    }
+  },
+  {
+    "type": "full",
+    "value": "futuredns.eu.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:futuredns.eu.org",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 52
+    }
+  },
+  {
+    "type": "full",
+    "value": "hk-hkg.doh.sb",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:hk-hkg.doh.sb",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 71
+    }
+  },
+  {
+    "type": "full",
+    "value": "ibksturm.synology.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:ibksturm.synology.me",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 265
+    }
+  },
+  {
+    "type": "full",
+    "value": "in-blr.doh.sb",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:in-blr.doh.sb",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 76
+    }
+  },
+  {
+    "type": "full",
+    "value": "internetsehat.bebasid.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:internetsehat.bebasid.com",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 29
+    }
+  },
+  {
+    "type": "full",
+    "value": "jp-kix.doh.sb",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:jp-kix.doh.sb",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 69
+    }
+  },
+  {
+    "type": "full",
+    "value": "jp-nrt.doh.sb",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:jp-nrt.doh.sb",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 70
+    }
+  },
+  {
+    "type": "full",
+    "value": "jp.tiar.app",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:jp.tiar.app",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 285
+    }
+  },
+  {
+    "type": "full",
+    "value": "jp.tiarap.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:jp.tiarap.org",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 284
+    }
+  },
+  {
+    "type": "full",
+    "value": "kaitain.restena.lu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:kaitain.restena.lu",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 195
+    }
+  },
+  {
+    "type": "full",
+    "value": "kids.ns.nwps.fi",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:kids.ns.nwps.fi",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 294
+    }
+  },
+  {
+    "type": "full",
+    "value": "kr-sel.doh.sb",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:kr-sel.doh.sb",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 78
+    }
+  },
+  {
+    "type": "full",
+    "value": "nl-ams.doh.sb",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:nl-ams.doh.sb",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 66
+    }
+  },
+  {
+    "type": "full",
+    "value": "noads.joindns4.eu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:noads.joindns4.eu",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 188
+    }
+  },
+  {
+    "type": "full",
+    "value": "odvr.nic.cz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:odvr.nic.cz",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 174
+    }
+  },
+  {
+    "type": "full",
+    "value": "one.one.one.one",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:one.one.one.one",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 41
+    }
+  },
+  {
+    "type": "full",
+    "value": "ordns.he.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:ordns.he.net",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 95
+    }
+  },
+  {
+    "type": "full",
+    "value": "private.canadianshield.cira.ca",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:private.canadianshield.cira.ca",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 161
+    }
+  },
+  {
+    "type": "full",
+    "value": "protected.canadianshield.cira.ca",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:protected.canadianshield.cira.ca",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 163
+    }
+  },
+  {
+    "type": "full",
+    "value": "protective.joindns4.eu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:protective.joindns4.eu",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 184
+    }
+  },
+  {
+    "type": "full",
+    "value": "public.dns.iij.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:public.dns.iij.jp",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 198
+    }
+  },
+  {
+    "type": "full",
+    "value": "public.ns.nwps.fi",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:public.ns.nwps.fi",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 292
+    }
+  },
+  {
+    "type": "full",
+    "value": "resolver-eu.lelux.fi",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:resolver-eu.lelux.fi",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 268
+    }
+  },
+  {
+    "type": "full",
+    "value": "resolver.dnsprivacy.org.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:resolver.dnsprivacy.org.uk",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 219
+    }
+  },
+  {
+    "type": "full",
+    "value": "ric.openbld.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:ric.openbld.net",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 118
+    }
+  },
+  {
+    "type": "full",
+    "value": "router.comss.one",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:router.comss.one",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 171
+    }
+  },
+  {
+    "type": "full",
+    "value": "ru-mow.doh.sb",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:ru-mow.doh.sb",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 79
+    }
+  },
+  {
+    "type": "full",
+    "value": "rx.techomespace.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:rx.techomespace.com",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 288
+    }
+  },
+  {
+    "type": "full",
+    "value": "safe.dot.dns.yandex.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:safe.dot.dns.yandex.net",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 231
+    }
+  },
+  {
+    "type": "full",
+    "value": "secondary.dns.seia.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:secondary.dns.seia.io",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 225
+    }
+  },
+  {
+    "type": "full",
+    "value": "security.rabbitdns.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:security.rabbitdns.org",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 134
+    }
+  },
+  {
+    "type": "full",
+    "value": "sg-sin.doh.sb",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:sg-sin.doh.sb",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 77
+    }
+  },
+  {
+    "type": "full",
+    "value": "sm2.doh.pub",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:sm2.doh.pub",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 86
+    }
+  },
+  {
+    "type": "full",
+    "value": "uk-lon.doh.sb",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:uk-lon.doh.sb",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 67
+    }
+  },
+  {
+    "type": "full",
+    "value": "unfiltered.adguard-dns.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:unfiltered.adguard-dns.com",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 12
+    }
+  },
+  {
+    "type": "full",
+    "value": "unfiltered.joindns4.eu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:unfiltered.joindns4.eu",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 192
+    }
+  },
+  {
+    "type": "full",
+    "value": "us-chi.doh.sb",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:us-chi.doh.sb",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 73
+    }
+  },
+  {
+    "type": "full",
+    "value": "us-nyc.doh.sb",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:us-nyc.doh.sb",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 74
+    }
+  },
+  {
+    "type": "full",
+    "value": "us-sjc.doh.sb",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:us-sjc.doh.sb",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 75
+    }
+  },
+  {
+    "type": "full",
+    "value": "v.recipes",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:v.recipes",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 149
+    }
+  },
+  {
+    "type": "full",
+    "value": "wikimedia-dns.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:wikimedia-dns.org",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 152
+    }
+  },
+  {
+    "type": "full",
+    "value": "zero.dns0.eu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:zero.dns0.eu",
+    "source": {
+      "list": "CATEGORY-DOH",
+      "line": 89
+    }
+  }
+]

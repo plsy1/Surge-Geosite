@@ -1,0 +1,72 @@
+[
+  {
+    "type": "domain",
+    "value": "ads.uc.cn",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:ads.uc.cn:@ads",
+    "source": {
+      "list": "UC",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adslot.uc.cn",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:adslot.uc.cn:@ads",
+    "source": {
+      "list": "UC",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "uc.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:uc.cn",
+    "source": {
+      "list": "UC",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "uc123.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:uc123.com",
+    "source": {
+      "list": "UC",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ucweb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ucweb.com",
+    "source": {
+      "list": "UC",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "uczzd.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:uczzd.cn",
+    "source": {
+      "list": "UC",
+      "line": 4
+    }
+  }
+]

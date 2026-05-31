@@ -1,0 +1,79 @@
+[
+  {
+    "type": "domain",
+    "value": "anthropic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:anthropic.com",
+    "source": {
+      "list": "ANTHROPIC",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "clau.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:clau.de",
+    "source": {
+      "list": "ANTHROPIC",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "claude.ai",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:claude.ai",
+    "source": {
+      "list": "ANTHROPIC",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "claude.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:claude.com",
+    "source": {
+      "list": "ANTHROPIC",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "claudemcpclient.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:claudemcpclient.com",
+    "source": {
+      "list": "ANTHROPIC",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "claudeusercontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:claudeusercontent.com",
+    "source": {
+      "list": "ANTHROPIC",
+      "line": 6
+    }
+  },
+  {
+    "type": "full",
+    "value": "servd-anthropic-website.b-cdn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:servd-anthropic-website.b-cdn.net",
+    "source": {
+      "list": "ANTHROPIC",
+      "line": 9
+    }
+  }
+]

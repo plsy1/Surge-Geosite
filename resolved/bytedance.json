@@ -1,0 +1,8202 @@
+[
+  {
+    "type": "domain",
+    "value": "365yg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:365yg.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 317
+    }
+  },
+  {
+    "type": "domain",
+    "value": "99uri.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:99uri.cn",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "99uri.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:99uri.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "activity-dy.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:activity-dy.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "activity-zhendingtech.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:activity-zhendingtech.com",
+    "source": {
+      "list": "FQNOVEL",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "activity01.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:activity01.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "activity02.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:activity02.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "activity03.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:activity03.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "activity04.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:activity04.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "activity05.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:activity05.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "activitybyte.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:activitybyte.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ad.toutiao.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:ad.toutiao.com:@ads",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 363
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aigc-cloud.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aigc-cloud.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ali-api-test.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ali-api-test.net",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ali-gtm-01.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ali-gtm-01.net",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ali-gtm-pressure.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ali-gtm-pressure.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ali-restore.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ali-restore.net",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amemv.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:amemv.com",
+    "source": {
+      "list": "DOUYIN",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "analytics.tiktok.com",
+    "attrs": [
+      "!cn",
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:analytics.tiktok.com:@!cn,@ads",
+    "source": {
+      "list": "TIKTOK",
+      "line": 40
+    }
+  },
+  {
+    "type": "domain",
+    "value": "anycross.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:anycross.com",
+    "source": {
+      "list": "FEISHU",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "api-building.fun",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:api-building.fun",
+    "source": {
+      "list": "DOUBAO",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "arco.design",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:arco.design",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "awemeughun.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:awemeughun.com",
+    "source": {
+      "list": "DOUYIN",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "baike.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:baike.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 306
+    }
+  },
+  {
+    "type": "domain",
+    "value": "baikevod.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:baikevod.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "baseopendev.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:baseopendev.com",
+    "source": {
+      "list": "LARK",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bdactivity.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bdactivity.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bdegnine.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bdegnine.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bdgslb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bdgslb.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bdispatch.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bdispatch.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bdispatch.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bdispatch.net",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bdns-api-test.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bdns-api-test.net",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bdns-boe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bdns-boe.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bdns-boe.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bdns-boe.net",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bdns-gtm-01.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bdns-gtm-01.net",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bdns-gtm-pressure.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bdns-gtm-pressure.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bdns-restore.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bdns-restore.net",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bdns-test.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bdns-test.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bdns-test.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bdns-test.net",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 37
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bdppe.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bdppe.net",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 38
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bds.snssdk.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:bds.snssdk.com:@ads",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 364
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bdsagslb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bdsagslb.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 39
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bdsagslbtest.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bdsagslbtest.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 40
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bdxiguaimg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bdxiguaimg.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 287
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bdxigualive.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bdxigualive.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 288
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bdxiguastatic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bdxiguastatic.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 289
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bdxiguavod.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bdxiguavod.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 290
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bdzjdsagslb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bdzjdsagslb.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "betaband.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:betaband.net",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 42
+    }
+  },
+  {
+    "type": "domain",
+    "value": "betadance.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:betadance.net",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 43
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bfcdnbf.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bfcdnbf.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 44
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bfcdnrd.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bfcdnrd.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 45
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bfcdnsc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bfcdnsc.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 46
+    }
+  },
+  {
+    "type": "domain",
+    "value": "blmpb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:blmpb.com",
+    "source": {
+      "list": "FEISHU",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bplslb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bplslb.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bpltm.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bpltm.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "building.fun",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:building.fun",
+    "source": {
+      "list": "DOUBAO",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "butterfly-static.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:butterfly-static.cn",
+    "source": {
+      "list": "DOUBAO",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "butterflyai.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:butterflyai.cn",
+    "source": {
+      "list": "DOUBAO",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bvfcdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bvfcdn.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 47
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bx0byte.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bx0byte.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 48
+    }
+  },
+  {
+    "type": "domain",
+    "value": "byte-dns.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:byte-dns.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "byte-dns.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:byte-dns.net",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "byte-edge.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:byte-edge.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 49
+    }
+  },
+  {
+    "type": "domain",
+    "value": "byte-edgeworker.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:byte-edgeworker.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 50
+    }
+  },
+  {
+    "type": "domain",
+    "value": "byte-gslb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:byte-gslb.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 51
+    }
+  },
+  {
+    "type": "domain",
+    "value": "byte-test.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:byte-test.cn",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 52
+    }
+  },
+  {
+    "type": "domain",
+    "value": "byte-test.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:byte-test.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 53
+    }
+  },
+  {
+    "type": "domain",
+    "value": "byte-test.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:byte-test.net",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 54
+    }
+  },
+  {
+    "type": "domain",
+    "value": "byte00.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:byte00.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 55
+    }
+  },
+  {
+    "type": "domain",
+    "value": "byte00.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:byte00.net",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 56
+    }
+  },
+  {
+    "type": "domain",
+    "value": "byte000.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:byte000.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 57
+    }
+  },
+  {
+    "type": "domain",
+    "value": "byte008.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:byte008.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 58
+    }
+  },
+  {
+    "type": "domain",
+    "value": "byte7bw.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:byte7bw.net",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 59
+    }
+  },
+  {
+    "type": "domain",
+    "value": "byteac.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:byteac.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 60
+    }
+  },
+  {
+    "type": "domain",
+    "value": "byteacct.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:byteacct.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 61
+    }
+  },
+  {
+    "type": "domain",
+    "value": "byteacctimg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:byteacctimg.com",
+    "source": {
+      "list": "DOUYIN",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "byteactivity.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:byteactivity.com",
+    "source": {
+      "list": "DOUYIN",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "byteactivity11.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:byteactivity11.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 64
+    }
+  },
+  {
+    "type": "domain",
+    "value": "byteactivity12.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:byteactivity12.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 65
+    }
+  },
+  {
+    "type": "domain",
+    "value": "byteactivity13.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:byteactivity13.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 66
+    }
+  },
+  {
+    "type": "domain",
+    "value": "byteactivity14.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:byteactivity14.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 67
+    }
+  },
+  {
+    "type": "domain",
+    "value": "byteactivity15.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:byteactivity15.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 68
+    }
+  },
+  {
+    "type": "domain",
+    "value": "byteactivity16.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:byteactivity16.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 69
+    }
+  },
+  {
+    "type": "domain",
+    "value": "byteadverts.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:byteadverts.com:@ads",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 365
+    }
+  },
+  {
+    "type": "domain",
+    "value": "byteapi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:byteapi.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 70
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bytecdn.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bytecdn.cn",
+    "source": {
+      "list": "DOUYIN",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bytecdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bytecdn.com",
+    "source": {
+      "list": "DOUYIN",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bytecdn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bytecdn.net",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 73
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bytecdntp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bytecdntp.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 74
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bytecimg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bytecimg.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 75
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bytecloud.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bytecloud.com",
+    "source": {
+      "list": "LARK",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "byted-dast.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:byted-dast.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 76
+    }
+  },
+  {
+    "type": "domain",
+    "value": "byted-edu.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:byted-edu.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 77
+    }
+  },
+  {
+    "type": "domain",
+    "value": "byted-static.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:byted-static.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 78
+    }
+  },
+  {
+    "type": "domain",
+    "value": "byted-ug.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:byted-ug.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 79
+    }
+  },
+  {
+    "type": "domain",
+    "value": "byted.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:byted.org",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 80
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bytedance-boe.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bytedance-boe.net",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 81
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bytedance.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bytedance.cn",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 82
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bytedance.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bytedance.com",
+    "source": {
+      "list": "DOUYIN",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bytedance.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bytedance.net",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 84
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bytedance.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bytedance.org",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 85
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bytedanceapi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bytedanceapi.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 86
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bytedancehermestest.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bytedancehermestest.com",
+    "source": {
+      "list": "FEISHU",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bytedapm.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:bytedapm.com:@!cn",
+    "source": {
+      "list": "TIKTOK",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bytedcdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bytedcdn.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 87
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bytedeliver.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bytedeliver.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 88
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bytedgames.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bytedgames.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 89
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bytedns.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bytedns.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 90
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bytedns.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bytedns.net",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 91
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bytedns1.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bytedns1.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 92
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bytedns2.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bytedns2.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 93
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bytedns3.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bytedns3.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 94
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bytedns4.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bytedns4.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 95
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bytedns5.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bytedns5.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 96
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bytedns6.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bytedns6.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 97
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bytedns7.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bytedns7.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 98
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bytednsdoc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bytednsdoc.com",
+    "source": {
+      "list": "DOUYIN",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bytedsocial.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bytedsocial.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 100
+    }
+  },
+  {
+    "type": "domain",
+    "value": "byteeffecttos.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:byteeffecttos.com",
+    "source": {
+      "list": "DOUYIN",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bytefae.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bytefae.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 101
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bytefast.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bytefast.net",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 102
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bytefcdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bytefcdn.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 103
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bytefcdnrd.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bytefcdnrd.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 104
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bytegecko.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bytegecko.com",
+    "source": {
+      "list": "DOUYIN",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bytegeckoext.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bytegeckoext.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 106
+    }
+  },
+  {
+    "type": "domain",
+    "value": "byteglb.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:byteglb.com:@!cn",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 107
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bytegoofy.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bytegoofy.com",
+    "source": {
+      "list": "DOUYIN",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bytegqpo.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bytegqpo.net",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 109
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bytegrowth.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bytegrowth.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 110
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bytegslb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bytegslb.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 111
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bytehouse.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bytehouse.cn",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bytehwm.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bytehwm.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 112
+    }
+  },
+  {
+    "type": "domain",
+    "value": "byteics.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:byteics.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 113
+    }
+  },
+  {
+    "type": "domain",
+    "value": "byteics.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:byteics.net",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 114
+    }
+  },
+  {
+    "type": "domain",
+    "value": "byteimg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:byteimg.com",
+    "source": {
+      "list": "DOUYIN",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "byteimgc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:byteimgc.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 116
+    }
+  },
+  {
+    "type": "domain",
+    "value": "byteinspire.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:byteinspire.cn",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "byteinspire.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:byteinspire.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "byteintl.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:byteintl.net",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 117
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bytelb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bytelb.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 118
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bytelb.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bytelb.net",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 119
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bytelb000.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bytelb000.net",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 120
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bytemaimg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bytemaimg.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 121
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bytemastatic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bytemastatic.com",
+    "source": {
+      "list": "DOUYIN",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bytemedi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bytemedi.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 123
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bytenewst.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bytenewst.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 124
+    }
+  },
+  {
+    "type": "domain",
+    "value": "byteoc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:byteoc.com",
+    "source": {
+      "list": "LARK",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "byteorg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:byteorg.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 125
+    }
+  },
+  {
+    "type": "domain",
+    "value": "byteorge.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:byteorge.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 126
+    }
+  },
+  {
+    "type": "domain",
+    "value": "byteoversea.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:byteoversea.com:@!cn",
+    "source": {
+      "list": "TIKTOK",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "byteoversea.net",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:byteoversea.net:@!cn",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 128
+    }
+  },
+  {
+    "type": "domain",
+    "value": "byteq5k.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:byteq5k.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 129
+    }
+  },
+  {
+    "type": "domain",
+    "value": "byteq8u.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:byteq8u.net",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 130
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bytescm.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bytescm.com",
+    "source": {
+      "list": "DOUYIN",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bytesslb.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bytesslb.net",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 132
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bytetcc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bytetcc.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 133
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bytetech.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bytetech.info",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 134
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bytetos.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bytetos.com",
+    "source": {
+      "list": "DOUYIN",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bytetraffic.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bytetraffic.net",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 136
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bytetstatic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bytetstatic.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 137
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bytetstatic.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bytetstatic.net",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 138
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bytevalk.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bytevalk.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 139
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bytevcloudapi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bytevcloudapi.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 140
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bytevcloudvod.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bytevcloudvod.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 141
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bytevdn-boe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bytevdn-boe.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bytevdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bytevdn.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bytewebservice.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bytewebservice.com",
+    "source": {
+      "list": "LARK",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bytexns.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bytexns.cn",
+    "source": {
+      "list": "LARK",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bytexns.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bytexns.com",
+    "source": {
+      "list": "LARK",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bytexns.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bytexns.net",
+    "source": {
+      "list": "LARK",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bytexopen.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bytexopen.com",
+    "source": {
+      "list": "LARK",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bytexservice.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bytexservice.com",
+    "source": {
+      "list": "LARK",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cache4ever.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cache4ever.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cache666.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cache666.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnbuild.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnbuild.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 143
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnbuild.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnbuild.net",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 144
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdndns1.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdndns1.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 145
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdndns2.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdndns2.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 146
+    }
+  },
+  {
+    "type": "domain",
+    "value": "changdunovel.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:changdunovel.com",
+    "source": {
+      "list": "FQNOVEL",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cici.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:cici.com:@!cn",
+    "source": {
+      "list": "DOLA",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ciciai.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:ciciai.com:@!cn",
+    "source": {
+      "list": "DOLA",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ciciaicdn.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:ciciaicdn.com:@!cn",
+    "source": {
+      "list": "DOLA",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudendpoint.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudendpoint.cn",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "coze-dns-01.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:coze-dns-01.com",
+    "source": {
+      "list": "DOUBAO",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "coze.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:coze.cn",
+    "source": {
+      "list": "DOUBAO",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "coze.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:coze.com:@!cn",
+    "source": {
+      "list": "BYTEDANCE-AI-!CN",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "coze.email",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:coze.email",
+    "source": {
+      "list": "DOUBAO",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "coze.site",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:coze.site",
+    "source": {
+      "list": "DOUBAO",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cozeapp.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cozeapp.net",
+    "source": {
+      "list": "DOUBAO",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cozebaas.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cozebaas.cn",
+    "source": {
+      "list": "DOUBAO",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cozebuild.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cozebuild.com",
+    "source": {
+      "list": "DOUBAO",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cozecdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cozecdn.com",
+    "source": {
+      "list": "DOUBAO",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cozedeploy.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cozedeploy.com",
+    "source": {
+      "list": "DOUBAO",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cozefn.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cozefn.cn",
+    "source": {
+      "list": "DOUBAO",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cozeide.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cozeide.cn",
+    "source": {
+      "list": "DOUBAO",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cozesdk.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cozesdk.com",
+    "source": {
+      "list": "DOUBAO",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cozetest.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cozetest.cn",
+    "source": {
+      "list": "DOUBAO",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cozetest2.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cozetest2.cn",
+    "source": {
+      "list": "DOUBAO",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cozetest3.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cozetest3.cn",
+    "source": {
+      "list": "DOUBAO",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ctobsnssdk.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:ctobsnssdk.com:@ads",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 366
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dbbuilding.fun",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dbbuilding.fun",
+    "source": {
+      "list": "DOUBAO",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dcarapi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dcarapi.com",
+    "source": {
+      "list": "DONGCHEDI",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dcarimg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dcarimg.com",
+    "source": {
+      "list": "DONGCHEDI",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dcarlive.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dcarlive.com",
+    "source": {
+      "list": "DONGCHEDI",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dcarstatic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dcarstatic.com",
+    "source": {
+      "list": "DONGCHEDI",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dcarvod.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dcarvod.com",
+    "source": {
+      "list": "DONGCHEDI",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dcdapp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dcdapp.com",
+    "source": {
+      "list": "DONGCHEDI",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dig.bdurl.net",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:dig.bdurl.net:@ads",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 367
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dola.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:dola.com:@!cn",
+    "source": {
+      "list": "DOLA",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dongchedi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dongchedi.com",
+    "source": {
+      "list": "DONGCHEDI",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dongchediapp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dongchediapp.com",
+    "source": {
+      "list": "DONGCHEDI",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "doubao-dev.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:doubao-dev.com",
+    "source": {
+      "list": "DOUBAO",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "doubao.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:doubao.com",
+    "source": {
+      "list": "DOUBAO",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "doubaocdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:doubaocdn.com",
+    "source": {
+      "list": "DOUBAO",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "doubo03.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:doubo03.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 147
+    }
+  },
+  {
+    "type": "domain",
+    "value": "doudou.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:doudou.com",
+    "source": {
+      "list": "TRAE",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "douyin.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:douyin.com",
+    "source": {
+      "list": "DOUYIN",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "douyincdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:douyincdn.com",
+    "source": {
+      "list": "DOUYIN",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "douyincloud.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:douyincloud.net",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "douyincloud.run",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:douyincloud.run",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "douyinec.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:douyinec.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 338
+    }
+  },
+  {
+    "type": "domain",
+    "value": "douyinpic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:douyinpic.com",
+    "source": {
+      "list": "DOUYIN",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "douyinstatic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:douyinstatic.com",
+    "source": {
+      "list": "DOUYIN",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "douyinvod.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:douyinvod.com",
+    "source": {
+      "list": "DOUYIN",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "draftstatic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:draftstatic.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 148
+    }
+  },
+  {
+    "type": "domain",
+    "value": "druid.vip",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:druid.vip",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 149
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dycloud.run",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dycloud.run",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dycloudbk.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dycloudbk.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ecombdapi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ecombdapi.com",
+    "source": {
+      "list": "DOUYIN",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ecombdimg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ecombdimg.com",
+    "source": {
+      "list": "DOUYIN",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ecombdstatic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ecombdstatic.com",
+    "source": {
+      "list": "DOUYIN",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "emr-volces.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:emr-volces.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "extlog.snssdk.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:extlog.snssdk.com:@ads",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 368
+    }
+  },
+  {
+    "type": "domain",
+    "value": "faceu.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:faceu.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 344
+    }
+  },
+  {
+    "type": "domain",
+    "value": "falconsending.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:falconsending.com",
+    "source": {
+      "list": "FEISHU",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fanqiecopyright.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fanqiecopyright.com",
+    "source": {
+      "list": "FQNOVEL",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fanqienovel.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fanqienovel.com",
+    "source": {
+      "list": "FQNOVEL",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fanqieopen.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fanqieopen.com",
+    "source": {
+      "list": "FQNOVEL",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fanqieopenpic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fanqieopenpic.com",
+    "source": {
+      "list": "FQNOVEL",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fanqieopenstatic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fanqieopenstatic.com",
+    "source": {
+      "list": "FQNOVEL",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fanqieopenvod.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fanqieopenvod.com",
+    "source": {
+      "list": "FQNOVEL",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fanqiesdk.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fanqiesdk.com",
+    "source": {
+      "list": "FQNOVEL",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fanqiesdkpic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fanqiesdkpic.com",
+    "source": {
+      "list": "FQNOVEL",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fanqiesdkstatic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fanqiesdkstatic.com",
+    "source": {
+      "list": "FQNOVEL",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fanqiesdkvod.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fanqiesdkvod.com",
+    "source": {
+      "list": "FQNOVEL",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fedlearner.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fedlearner.net",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 150
+    }
+  },
+  {
+    "type": "domain",
+    "value": "feelgood.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:feelgood.cn",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 151
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fei-shu.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fei-shu.cn",
+    "source": {
+      "list": "FEISHU",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "feilian.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:feilian.cn",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "feishu-3rd-party-services.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:feishu-3rd-party-services.com",
+    "source": {
+      "list": "FEISHU",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "feishu-boe.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:feishu-boe.net",
+    "source": {
+      "list": "FEISHU",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "feishu-customer.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:feishu-customer.cn",
+    "source": {
+      "list": "FEISHU",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "feishu-pre.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:feishu-pre.cn",
+    "source": {
+      "list": "FEISHU",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "feishu-pre.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:feishu-pre.net",
+    "source": {
+      "list": "FEISHU",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "feishu-psc.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:feishu-psc.cn",
+    "source": {
+      "list": "FEISHU",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "feishu-staging.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:feishu-staging.cn",
+    "source": {
+      "list": "FEISHU",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "feishu.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:feishu.cn",
+    "source": {
+      "list": "FEISHU",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "feishu.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:feishu.net",
+    "source": {
+      "list": "FEISHU",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "feishuapp-cdn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:feishuapp-cdn.net",
+    "source": {
+      "list": "FEISHU",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "feishuapp.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:feishuapp.cn",
+    "source": {
+      "list": "FEISHU",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "feishuapp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:feishuapp.com",
+    "source": {
+      "list": "FEISHU",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "feishucdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:feishucdn.com",
+    "source": {
+      "list": "FEISHU",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "feishudoc.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:feishudoc.cn",
+    "source": {
+      "list": "FEISHU",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "feishudoc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:feishudoc.com",
+    "source": {
+      "list": "FEISHU",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "feishuhuiyi.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:feishuhuiyi.cn",
+    "source": {
+      "list": "FEISHU",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "feishuhuiyi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:feishuhuiyi.com",
+    "source": {
+      "list": "FEISHU",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "feishuimg-boe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:feishuimg-boe.com",
+    "source": {
+      "list": "FEISHU",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "feishuimg-pre.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:feishuimg-pre.com",
+    "source": {
+      "list": "FEISHU",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "feishuimg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:feishuimg.com",
+    "source": {
+      "list": "FEISHU",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "feishukacdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:feishukacdn.com",
+    "source": {
+      "list": "FEISHU",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "feishumeetings.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:feishumeetings.cn",
+    "source": {
+      "list": "FEISHU",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "feishumeetings.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:feishumeetings.com",
+    "source": {
+      "list": "FEISHU",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "feishuoffice.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:feishuoffice.cn",
+    "source": {
+      "list": "FEISHU",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "feishuoffice.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:feishuoffice.com",
+    "source": {
+      "list": "FEISHU",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "feishuopenplatformrecord.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:feishuopenplatformrecord.com",
+    "source": {
+      "list": "FEISHU",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "feishupkg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:feishupkg.com",
+    "source": {
+      "list": "FEISHU",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "feishustatus.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:feishustatus.cn",
+    "source": {
+      "list": "FEISHU",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "feishuvc.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:feishuvc.cn",
+    "source": {
+      "list": "FEISHU",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "feishuvc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:feishuvc.com",
+    "source": {
+      "list": "FEISHU",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fqnovel-op.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fqnovel-op.com",
+    "source": {
+      "list": "FQNOVEL",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fqnovel.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fqnovel.com",
+    "source": {
+      "list": "FQNOVEL",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fqnovelim.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fqnovelim.com",
+    "source": {
+      "list": "FQNOVEL",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fqnovelop.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fqnovelop.com",
+    "source": {
+      "list": "FQNOVEL",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fqnovelpic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fqnovelpic.com",
+    "source": {
+      "list": "FQNOVEL",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fqnovelstatic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fqnovelstatic.com",
+    "source": {
+      "list": "FQNOVEL",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fqnovelvod.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fqnovelvod.com",
+    "source": {
+      "list": "FQNOVEL",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fqopenplatform.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fqopenplatform.com",
+    "source": {
+      "list": "FQNOVEL",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gcloudcache.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gcloudcache.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 152
+    }
+  },
+  {
+    "type": "domain",
+    "value": "getfeishu.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:getfeishu.cn",
+    "source": {
+      "list": "FEISHU",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "getfeishu.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:getfeishu.com",
+    "source": {
+      "list": "FEISHU",
+      "line": 37
+    }
+  },
+  {
+    "type": "domain",
+    "value": "getsays.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:getsays.cn",
+    "source": {
+      "list": "FEISHU",
+      "line": 38
+    }
+  },
+  {
+    "type": "domain",
+    "value": "getsays.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:getsays.com",
+    "source": {
+      "list": "FEISHU",
+      "line": 39
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gogokid.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gogokid.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 321
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gogokid.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gogokid.com.cn",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 320
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gslbdns.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gslbdns.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 153
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gslbdns.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gslbdns.net",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 154
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hapierxia.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hapierxia.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 324
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hapipixia.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hapipixia.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 325
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hapiyixia.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hapiyixia.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 326
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hi-butterfly.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hi-butterfly.cn",
+    "source": {
+      "list": "DOUBAO",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "huaxiong.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:huaxiong.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 155
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hypercachenet.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hypercachenet.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 156
+    }
+  },
+  {
+    "type": "domain",
+    "value": "i.snssdk.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:i.snssdk.com:@ads",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 369
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ibdxiguaimg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ibdxiguaimg.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 291
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ibdxigualive.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ibdxigualive.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 292
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ibdxiguastatic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ibdxiguastatic.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 293
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ibdxiguavod.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ibdxiguavod.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 294
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ibytedapm.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ibytedapm.com",
+    "source": {
+      "list": "DOUYIN",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ibytedtos.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:ibytedtos.com:@!cn",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 158
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ibyteimg.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:ibyteimg.com:@!cn",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 159
+    }
+  },
+  {
+    "type": "domain",
+    "value": "iccvlog.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:iccvlog.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icphoto.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icphoto.cn",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 160
+    }
+  },
+  {
+    "type": "domain",
+    "value": "idouyinvod.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:idouyinvod.com",
+    "source": {
+      "list": "DOUYIN",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ifeilian.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ifeilian.cn",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ifeilian.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ifeilian.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ihaohaoxuexi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ihaohaoxuexi.com",
+    "source": {
+      "list": "FQNOVEL",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "iluckysf.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:iluckysf.net",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 161
+    }
+  },
+  {
+    "type": "domain",
+    "value": "inspirecloud.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:inspirecloud.cn",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "inspirecloud.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:inspirecloud.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "instreet.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:instreet.com",
+    "source": {
+      "list": "DOUBAO",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "isealsuite.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:isealsuite.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "itmanager.club",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:itmanager.club",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 162
+    }
+  },
+  {
+    "type": "domain",
+    "value": "itoutiaoliving.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:itoutiaoliving.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 163
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ivolces.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ivolces.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ixgvideo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ixgvideo.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 295
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ixigua.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ixigua.com",
+    "source": {
+      "list": "DOUYIN",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ixiguavideo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ixiguavideo.com",
+    "source": {
+      "list": "DOUYIN",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jianying.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jianying.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 164
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jinritemai.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jinritemai.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 341
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jokecommunity.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jokecommunity.cn",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 165
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jokecommunity.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jokecommunity.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 166
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jokecommunity.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jokecommunity.net",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 167
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jstti.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jstti.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 168
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jtamac.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jtamac.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 169
+    }
+  },
+  {
+    "type": "domain",
+    "value": "juejin.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:juejin.cn",
+    "source": {
+      "list": "JUEJIN",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "juejin.im",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:juejin.im",
+    "source": {
+      "list": "JUEJIN",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kfcbest.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kfcbest.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kuailepipixia.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kuailepipixia.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 327
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kych5.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kych5.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lackvc.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lackvc.cn",
+    "source": {
+      "list": "FEISHU",
+      "line": 40
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lark-passport-qa-sg.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lark-passport-qa-sg.net",
+    "source": {
+      "list": "LARK-GLOBAL",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lark.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lark.cn",
+    "source": {
+      "list": "LARK-GLOBAL",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "larkcloud.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:larkcloud.com",
+    "source": {
+      "list": "LARK-GLOBAL",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "larkcloud.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:larkcloud.net",
+    "source": {
+      "list": "LARK-GLOBAL",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "larkfn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:larkfn.com",
+    "source": {
+      "list": "LARK-GLOBAL",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "larkmeetings.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:larkmeetings.cn",
+    "source": {
+      "list": "LARK-GLOBAL",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "larkmeetings.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:larkmeetings.com",
+    "source": {
+      "list": "LARK-GLOBAL",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "larkoffice.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:larkoffice.com",
+    "source": {
+      "list": "LARK-GLOBAL",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "larkofficeapp-boe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:larkofficeapp-boe.com",
+    "source": {
+      "list": "LARK-GLOBAL",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "larkofficeapp-pre.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:larkofficeapp-pre.com",
+    "source": {
+      "list": "LARK-GLOBAL",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "larkofficeapp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:larkofficeapp.com",
+    "source": {
+      "list": "LARK-GLOBAL",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "larkofficeboe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:larkofficeboe.com",
+    "source": {
+      "list": "LARK-GLOBAL",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "larkofficecdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:larkofficecdn.com",
+    "source": {
+      "list": "LARK-GLOBAL",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "larkofficeimg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:larkofficeimg.com",
+    "source": {
+      "list": "LARK-GLOBAL",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "larkofficepkg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:larkofficepkg.com",
+    "source": {
+      "list": "LARK-GLOBAL",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "larkofficepre.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:larkofficepre.com",
+    "source": {
+      "list": "LARK-GLOBAL",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "larkrooms.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:larkrooms.cn",
+    "source": {
+      "list": "LARK-GLOBAL",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "larkrooms.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:larkrooms.com",
+    "source": {
+      "list": "LARK-GLOBAL",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "larksuite-pre.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:larksuite-pre.com",
+    "source": {
+      "list": "LARK-GLOBAL",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "larksuite.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:larksuite.com",
+    "source": {
+      "list": "LARK-GLOBAL",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "larksuite.com.ttdns1.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:larksuite.com.ttdns1.com",
+    "source": {
+      "list": "LARK-GLOBAL",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "larksuite.com.ttdns2.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:larksuite.com.ttdns2.com",
+    "source": {
+      "list": "LARK-GLOBAL",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "larksuitecdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:larksuitecdn.com",
+    "source": {
+      "list": "LARK-GLOBAL",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "larksuiteimg-boe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:larksuiteimg-boe.com",
+    "source": {
+      "list": "LARK-GLOBAL",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "larksuiteimg-pre.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:larksuiteimg-pre.com",
+    "source": {
+      "list": "LARK-GLOBAL",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "larksuiteimg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:larksuiteimg.com",
+    "source": {
+      "list": "LARK-GLOBAL",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "larkvc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:larkvc.com",
+    "source": {
+      "list": "LARK-GLOBAL",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "livecdnstatic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:livecdnstatic.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 170
+    }
+  },
+  {
+    "type": "domain",
+    "value": "local-ip.online",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:local-ip.online",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 171
+    }
+  },
+  {
+    "type": "domain",
+    "value": "log.zijieapi.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:log.zijieapi.com:@ads",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 370
+    }
+  },
+  {
+    "type": "domain",
+    "value": "luckysf.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:luckysf.net",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 172
+    }
+  },
+  {
+    "type": "domain",
+    "value": "maoxiangai.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:maoxiangai.com",
+    "source": {
+      "list": "DOUBAO",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "marscode.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:marscode.cn",
+    "source": {
+      "list": "TRAE",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "marscode.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:marscode.com:@!cn",
+    "source": {
+      "list": "BYTEDANCE-AI-!CN",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "marscode.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:marscode.com.cn",
+    "source": {
+      "list": "TRAE",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mcbaas.work",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mcbaas.work",
+    "source": {
+      "list": "TRAE",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mcdemo.show",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mcdemo.show",
+    "source": {
+      "list": "TRAE",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mchost.guru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mchost.guru",
+    "source": {
+      "list": "TRAE",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mcprev.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mcprev.cn",
+    "source": {
+      "list": "TRAE",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mcs.snssdk.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:mcs.snssdk.com:@ads",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 371
+    }
+  },
+  {
+    "type": "domain",
+    "value": "meegobeta.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:meegobeta.com",
+    "source": {
+      "list": "LARK",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "modernjs.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:modernjs.cn",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 173
+    }
+  },
+  {
+    "type": "domain",
+    "value": "multilingual-volc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:multilingual-volc.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "muscdn.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:muscdn.com:@!cn",
+    "source": {
+      "list": "TIKTOK",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "musical.ly",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:musical.ly:@!cn",
+    "source": {
+      "list": "TIKTOK",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "muyewx.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:muyewx.com",
+    "source": {
+      "list": "FQNOVEL",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "myimis.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:myimis.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 174
+    }
+  },
+  {
+    "type": "domain",
+    "value": "myparallelstory.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:myparallelstory.com",
+    "source": {
+      "list": "DOUBAO",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ndcpp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ndcpp.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 175
+    }
+  },
+  {
+    "type": "domain",
+    "value": "neihancommunity.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:neihancommunity.cn",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 176
+    }
+  },
+  {
+    "type": "domain",
+    "value": "neihancommunity.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:neihancommunity.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 177
+    }
+  },
+  {
+    "type": "domain",
+    "value": "neihancommunity.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:neihancommunity.net",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 178
+    }
+  },
+  {
+    "type": "domain",
+    "value": "neyetwatcher.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:neyetwatcher.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 179
+    }
+  },
+  {
+    "type": "domain",
+    "value": "novelfm.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:novelfm.com",
+    "source": {
+      "list": "FQNOVEL",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "novelfmpic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:novelfmpic.com",
+    "source": {
+      "list": "FQNOVEL",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "novelfmstatic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:novelfmstatic.com",
+    "source": {
+      "list": "FQNOVEL",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "novelfmvod.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:novelfmvod.com",
+    "source": {
+      "list": "FQNOVEL",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "obriccloud.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:obriccloud.com",
+    "source": {
+      "list": "DOUBAO",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "obricclouddw.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:obricclouddw.com",
+    "source": {
+      "list": "DOUBAO",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oceancloudapi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oceancloudapi.com",
+    "source": {
+      "list": "DOUBAO",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "okr.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:okr.cn",
+    "source": {
+      "list": "LARK",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "okr.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:okr.com",
+    "source": {
+      "list": "LARK",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "okr.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:okr.com.cn",
+    "source": {
+      "list": "LARK",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oortgslb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oortgslb.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 180
+    }
+  },
+  {
+    "type": "domain",
+    "value": "openbcs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:openbcs.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 181
+    }
+  },
+  {
+    "type": "domain",
+    "value": "openve.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:openve.cn",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 182
+    }
+  },
+  {
+    "type": "domain",
+    "value": "originalimg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:originalimg.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 183
+    }
+  },
+  {
+    "type": "domain",
+    "value": "originalstatic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:originalstatic.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 184
+    }
+  },
+  {
+    "type": "domain",
+    "value": "originalvod.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:originalvod.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 185
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pacmantwo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pacmantwo.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 186
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pangolin-dsp-toutiao-b.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:pangolin-dsp-toutiao-b.com:@ads",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 372
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pangolin-dsp-toutiao.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:pangolin-dsp-toutiao.com:@ads",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 373
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pangolin-hl.snssdk.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:pangolin-hl.snssdk.com:@ads",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 374
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pangolin-lf.snssdk.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:pangolin-lf.snssdk.com:@ads",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 375
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pangolin-lq.snssdk.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:pangolin-lq.snssdk.com:@ads",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 376
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pangolin-sdk-toutiao-b.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:pangolin-sdk-toutiao-b.com:@ads",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 377
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pangolin-sdk-toutiao.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:pangolin-sdk-toutiao.com:@ads",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 378
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pangolin-sdk-toutiao1.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:pangolin-sdk-toutiao1.com:@ads",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 379
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pangolin.snssdk.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:pangolin.snssdk.com:@ads",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 380
+    }
+  },
+  {
+    "type": "domain",
+    "value": "panplayable-toutiao-b.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:panplayable-toutiao-b.com:@ads",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 381
+    }
+  },
+  {
+    "type": "domain",
+    "value": "panplayable-toutiao.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:panplayable-toutiao.com:@ads",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 382
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pglstatp-sdk-toutiao.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:pglstatp-sdk-toutiao.com:@ads",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 383
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pglstatp-snssdk-toutiao.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:pglstatp-snssdk-toutiao.com:@ads",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 384
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pglstatp-toutiao-b.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:pglstatp-toutiao-b.com:@ads",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 385
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pglstatp-toutiao.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:pglstatp-toutiao.com:@ads",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 386
+    }
+  },
+  {
+    "type": "domain",
+    "value": "picpic-ai.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:picpic-ai.cn",
+    "source": {
+      "list": "DOUBAO",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pipix.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pipix.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 328
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pipixiaha.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pipixiaha.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 329
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pixeldance.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pixeldance.com",
+    "source": {
+      "list": "DOUBAO",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "piyipiba.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:piyipiba.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 330
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ppxhhh.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ppxhhh.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 331
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ppximg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ppximg.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 332
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ppxstatic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ppxstatic.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 333
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ppxvod.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ppxvod.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 334
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pstatp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pstatp.com",
+    "source": {
+      "list": "DOUYIN",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qingfuwu.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qingfuwu.cn",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qingfuwu.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qingfuwu.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qingfuwuapi.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qingfuwuapi.cn",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qingfuwucdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qingfuwucdn.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qingfuwucdn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qingfuwucdn.net",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 188
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qualitycloud.top",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qualitycloud.top",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 189
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qznovel.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qznovel.com",
+    "source": {
+      "list": "FQNOVEL",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qznovelpic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qznovelpic.com",
+    "source": {
+      "list": "FQNOVEL",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qznovelstatic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qznovelstatic.com",
+    "source": {
+      "list": "FQNOVEL",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qznovelvod.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qznovelvod.com",
+    "source": {
+      "list": "FQNOVEL",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rsproxy.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rsproxy.cn",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 350
+    }
+  },
+  {
+    "type": "domain",
+    "value": "samasty.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:samasty.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 190
+    }
+  },
+  {
+    "type": "domain",
+    "value": "searchstatic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:searchstatic.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 191
+    }
+  },
+  {
+    "type": "domain",
+    "value": "searchtoutiaolive.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:searchtoutiaolive.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 192
+    }
+  },
+  {
+    "type": "domain",
+    "value": "securityfeishu.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:securityfeishu.cn",
+    "source": {
+      "list": "FEISHU",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "securityfs.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:securityfs.cn",
+    "source": {
+      "list": "FEISHU",
+      "line": 42
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sf3-ttcdn-tos.pstatp.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:sf3-ttcdn-tos.pstatp.com:@ads",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 387
+    }
+  },
+  {
+    "type": "domain",
+    "value": "shidianguji.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:shidianguji.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 193
+    }
+  },
+  {
+    "type": "domain",
+    "value": "shoppingads.cn",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:shoppingads.cn:@ads",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 388
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sinf-test.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sinf-test.net",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 194
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sinf.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sinf.net",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 195
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sinflb.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sinflb.net",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 196
+    }
+  },
+  {
+    "type": "domain",
+    "value": "slbauto.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:slbauto.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sms18.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sms18.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "snssdk.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:snssdk.com",
+    "source": {
+      "list": "DOUYIN",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "statusfeishu.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:statusfeishu.cn",
+    "source": {
+      "list": "FEISHU",
+      "line": 43
+    }
+  },
+  {
+    "type": "domain",
+    "value": "statuslarkoffice.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:statuslarkoffice.com",
+    "source": {
+      "list": "LARK-GLOBAL",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tcwqqdy.guru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tcwqqdy.guru",
+    "source": {
+      "list": "TRAE",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tekkenthree.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tekkenthree.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 198
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tetrisone.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tetrisone.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 199
+    }
+  },
+  {
+    "type": "domain",
+    "value": "thelarkcloud.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:thelarkcloud.com",
+    "source": {
+      "list": "LARK-GLOBAL",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tiapi.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tiapi.cn",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 200
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tiapi.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tiapi.net",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 201
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tik-tokapi.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:tik-tokapi.com:@!cn",
+    "source": {
+      "list": "TIKTOK",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tiktok-minis.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:tiktok-minis.com:@!cn",
+    "source": {
+      "list": "TIKTOK",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tiktok-row.net",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:tiktok-row.net:@!cn",
+    "source": {
+      "list": "TIKTOK",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tiktok.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:tiktok.com:@!cn",
+    "source": {
+      "list": "TIKTOK",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tiktokcdn-eu.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:tiktokcdn-eu.com:@!cn",
+    "source": {
+      "list": "TIKTOK",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tiktokcdn-us.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:tiktokcdn-us.com:@!cn",
+    "source": {
+      "list": "TIKTOK",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tiktokcdn-us.com.edgesuite.net",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:tiktokcdn-us.com.edgesuite.net:@!cn",
+    "source": {
+      "list": "TIKTOK",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tiktokcdn.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:tiktokcdn.com:@!cn",
+    "source": {
+      "list": "TIKTOK",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tiktokcdn.com.akamaized.net",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:tiktokcdn.com.akamaized.net:@!cn",
+    "source": {
+      "list": "TIKTOK",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tiktokcdn.com.edgesuite.net",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:tiktokcdn.com.edgesuite.net:@!cn",
+    "source": {
+      "list": "TIKTOK",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tiktokd.net",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:tiktokd.net:@!cn",
+    "source": {
+      "list": "TIKTOK",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tiktokd.org",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:tiktokd.org:@!cn",
+    "source": {
+      "list": "TIKTOK",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tiktokeu-cdn.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:tiktokeu-cdn.com:@!cn",
+    "source": {
+      "list": "TIKTOK",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tiktokglobalshopv.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:tiktokglobalshopv.com:@!cn",
+    "source": {
+      "list": "TIKTOK",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tiktokminis.us",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:tiktokminis.us:@!cn",
+    "source": {
+      "list": "TIKTOK",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tiktokrow-cdn.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:tiktokrow-cdn.com:@!cn",
+    "source": {
+      "list": "TIKTOK",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tiktokv.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:tiktokv.com:@!cn",
+    "source": {
+      "list": "TIKTOK",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tiktokv.com.edgekey.net",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:tiktokv.com.edgekey.net:@!cn",
+    "source": {
+      "list": "TIKTOK",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tiktokv.com.edgesuite.net",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:tiktokv.com.edgesuite.net:@!cn",
+    "source": {
+      "list": "TIKTOK",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tiktokv.eu",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:tiktokv.eu:@!cn",
+    "source": {
+      "list": "TIKTOK",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tiktokv.us",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:tiktokv.us:@!cn",
+    "source": {
+      "list": "TIKTOK",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tiktokw.eu",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:tiktokw.eu:@!cn",
+    "source": {
+      "list": "TIKTOK",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tiktokw.us",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:tiktokw.us:@!cn",
+    "source": {
+      "list": "TIKTOK",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tlbapm.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tlbapm.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 202
+    }
+  },
+  {
+    "type": "domain",
+    "value": "toscdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:toscdn.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 203
+    }
+  },
+  {
+    "type": "domain",
+    "value": "toutiao.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:toutiao.com",
+    "source": {
+      "list": "DOUYIN",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "toutiao11.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:toutiao11.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 204
+    }
+  },
+  {
+    "type": "domain",
+    "value": "toutiao12.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:toutiao12.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 205
+    }
+  },
+  {
+    "type": "domain",
+    "value": "toutiao13.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:toutiao13.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 206
+    }
+  },
+  {
+    "type": "domain",
+    "value": "toutiao14.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:toutiao14.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 207
+    }
+  },
+  {
+    "type": "domain",
+    "value": "toutiao15.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:toutiao15.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 208
+    }
+  },
+  {
+    "type": "domain",
+    "value": "toutiaoapi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:toutiaoapi.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 273
+    }
+  },
+  {
+    "type": "domain",
+    "value": "toutiaocdn.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:toutiaocdn.cn",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 209
+    }
+  },
+  {
+    "type": "domain",
+    "value": "toutiaocdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:toutiaocdn.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 274
+    }
+  },
+  {
+    "type": "domain",
+    "value": "toutiaocdn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:toutiaocdn.net",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 210
+    }
+  },
+  {
+    "type": "domain",
+    "value": "toutiaocloud.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:toutiaocloud.cn",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 211
+    }
+  },
+  {
+    "type": "domain",
+    "value": "toutiaocloud.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:toutiaocloud.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 275
+    }
+  },
+  {
+    "type": "domain",
+    "value": "toutiaocloud.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:toutiaocloud.net",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 276
+    }
+  },
+  {
+    "type": "domain",
+    "value": "toutiaohao.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:toutiaohao.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 277
+    }
+  },
+  {
+    "type": "domain",
+    "value": "toutiaohao.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:toutiaohao.net",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 278
+    }
+  },
+  {
+    "type": "domain",
+    "value": "toutiaoimg.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:toutiaoimg.cn",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 279
+    }
+  },
+  {
+    "type": "domain",
+    "value": "toutiaoimg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:toutiaoimg.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 280
+    }
+  },
+  {
+    "type": "domain",
+    "value": "toutiaoimg.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:toutiaoimg.net",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 281
+    }
+  },
+  {
+    "type": "domain",
+    "value": "toutiaojisu.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:toutiaojisu.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 212
+    }
+  },
+  {
+    "type": "domain",
+    "value": "toutiaolite.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:toutiaolite.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 213
+    }
+  },
+  {
+    "type": "domain",
+    "value": "toutiaolite1.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:toutiaolite1.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 214
+    }
+  },
+  {
+    "type": "domain",
+    "value": "toutiaolite2.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:toutiaolite2.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 215
+    }
+  },
+  {
+    "type": "domain",
+    "value": "toutiaoliving.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:toutiaoliving.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 216
+    }
+  },
+  {
+    "type": "domain",
+    "value": "toutiaopage.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:toutiaopage.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 282
+    }
+  },
+  {
+    "type": "domain",
+    "value": "toutiaopan.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:toutiaopan.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 38
+    }
+  },
+  {
+    "type": "domain",
+    "value": "toutiaopanapi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:toutiaopanapi.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 37
+    }
+  },
+  {
+    "type": "domain",
+    "value": "toutiaopic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:toutiaopic.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 217
+    }
+  },
+  {
+    "type": "domain",
+    "value": "toutiaostatic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:toutiaostatic.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 283
+    }
+  },
+  {
+    "type": "domain",
+    "value": "toutiaovod.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:toutiaovod.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 284
+    }
+  },
+  {
+    "type": "domain",
+    "value": "toutiaowap.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:toutiaowap.cn",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 218
+    }
+  },
+  {
+    "type": "domain",
+    "value": "toutiaowap.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:toutiaowap.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 219
+    }
+  },
+  {
+    "type": "domain",
+    "value": "toutiaowap.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:toutiaowap.net",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 220
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tr-test-ali.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tr-test-ali.net",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 221
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tr-test.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tr-test.net",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 222
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tr-testboe.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tr-testboe.net",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 223
+    }
+  },
+  {
+    "type": "domain",
+    "value": "trae.ai",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:trae.ai:@!cn",
+    "source": {
+      "list": "BYTEDANCE-AI-!CN",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "trae.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:trae.cn",
+    "source": {
+      "list": "TRAE",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "trae.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:trae.com.cn",
+    "source": {
+      "list": "TRAE",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "trae.guru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:trae.guru",
+    "source": {
+      "list": "TRAE",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ttbyte.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ttbyte.cn",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 224
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ttbyte.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ttbyte.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 225
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ttbyte.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ttbyte.net",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 226
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ttcdn-us.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:ttcdn-us.com:@!cn",
+    "source": {
+      "list": "TIKTOK",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ttgslb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ttgslb.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 39
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ttgtm.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ttgtm.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 40
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ttjisu.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ttjisu.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 227
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ttlivecdn.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:ttlivecdn.com:@!cn",
+    "source": {
+      "list": "TIKTOK",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ttoverseaus.net",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:ttoverseaus.net:@!cn",
+    "source": {
+      "list": "TIKTOK",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ttwebview.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ttwebview.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 228
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ttwstatic.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:ttwstatic.com:@!cn",
+    "source": {
+      "list": "TIKTOK",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ugshare-img.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ugshare-img.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 229
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ulikecam.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ulikecam.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 347
+    }
+  },
+  {
+    "type": "domain",
+    "value": "umeng.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:umeng.com",
+    "source": {
+      "list": "DOUYIN",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vcloud-byte.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vcloud-byte.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 230
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vcloudapi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vcloudapi.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 231
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ve-imcloud.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ve-imcloud.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 53
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ve-trafficroute.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ve-trafficroute.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 59
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ve-trafficroute.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ve-trafficroute.net",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 60
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vecdnlb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vecdnlb.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vecloudgame.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vecloudgame.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 42
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vedcdnlb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vedcdnlb.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 43
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vedsalb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vedsalb.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 44
+    }
+  },
+  {
+    "type": "domain",
+    "value": "veefdev.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:veefdev.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 45
+    }
+  },
+  {
+    "type": "domain",
+    "value": "veew-alb-cn1.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:veew-alb-cn1.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 46
+    }
+  },
+  {
+    "type": "domain",
+    "value": "veew-alb-cn2.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:veew-alb-cn2.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 47
+    }
+  },
+  {
+    "type": "domain",
+    "value": "veew-alb-ts.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:veew-alb-ts.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 48
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vegalb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vegalb.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 49
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vegslb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vegslb.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 50
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vegtm.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vegtm.net",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 51
+    }
+  },
+  {
+    "type": "domain",
+    "value": "veicplive.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:veicplive.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 52
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vemarsdev.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vemarsdev.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 54
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vemarsstatic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vemarsstatic.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 55
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vemarsweb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vemarsweb.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 56
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vertciot.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vertciot.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 57
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vestack-beta.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vestack-beta.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 232
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vestack-cicd.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vestack-cicd.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 233
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vestack-preview.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vestack-preview.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 234
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vestack-sandbox.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vestack-sandbox.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 235
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vestack.cloud",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vestack.cloud",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 58
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vfcdnrd.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vfcdnrd.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 236
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volc-dns.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volc-dns.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 78
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volc-dns.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volc-dns.net",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 80
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volc-dns.pub",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volc-dns.pub",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 81
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volc-embed.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volc-embed.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 87
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcadocean.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcadocean.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 61
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcadvc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcadvc.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 62
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcalb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcalb.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 63
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcanicengine.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcanicengine.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 237
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcautovod.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcautovod.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 64
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcbiz.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcbiz.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 65
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcca.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcca.cn",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 66
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcca.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcca.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 67
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcca.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcca.net",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 68
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volccdn.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volccdn.cn",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 71
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volccdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volccdn.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 72
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volccdn1.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volccdn1.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 69
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volccdn2.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volccdn2.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 70
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcddos.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcddos.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 74
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcddos001.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcddos001.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 73
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcdem.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcdem.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 75
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcdlspace.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcdlspace.cn",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 76
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcdn.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 77
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcdns-test.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcdns-test.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 238
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcdns-test.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcdns-test.net",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 239
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcdns.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcdns.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 79
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcdns.pub",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcdns.pub",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 82
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volceapi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volceapi.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 83
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volceapplog.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volceapplog.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 84
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcecr.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcecr.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 85
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcecw.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcecw.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 86
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcenginapi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcenginapi.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 88
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcengine-dns.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcengine-dns.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 93
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcengine-dns.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcengine-dns.net",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 95
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcengine.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcengine.cn",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 91
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcengine.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcengine.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 92
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcengine.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcengine.net",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 97
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcenginealb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcenginealb.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 89
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcengineapi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcengineapi.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 90
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcenginedns.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcenginedns.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 94
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcenginedns.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcenginedns.net",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 96
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcenginepaas.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcenginepaas.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 98
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volces.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volces.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 99
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcfake.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcfake.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 100
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcfcdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcfcdn.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 102
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcfcdnbyte.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcfcdnbyte.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 101
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcfcdndvs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcfcdndvs.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 103
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcfcdndvs1.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcfcdndvs1.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 104
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcfcdnplus.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcfcdnplus.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 105
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcfcdnrd.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcfcdnrd.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 106
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcfcdnsc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcfcdnsc.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 107
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcfxgjrtm.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcfxgjrtm.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 108
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcgroup.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcgroup.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 109
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcgslb-mlt.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcgslb-mlt.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 110
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcgslb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcgslb.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 111
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcgtm.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcgtm.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 112
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volciad.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volciad.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 113
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcimagex.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcimagex.cn",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 114
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcimagex.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcimagex.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 115
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcimagex.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcimagex.net",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 116
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcimagextest.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcimagextest.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 117
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcmagicpage.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcmagicpage.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 118
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcmcdn1.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcmcdn1.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 119
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcmcdn2.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcmcdn2.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 120
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcmcdn3.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcmcdn3.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 121
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcmcdn4.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcmcdn4.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 122
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcmgs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcmgs.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 123
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcmusecdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcmusecdn.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 124
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcocic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcocic.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 125
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcopjrtm.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcopjrtm.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 126
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcpartner.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcpartner.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 127
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcpartner.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcpartner.net",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 128
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcsirius.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcsirius.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 130
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcsiriusbd.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcsiriusbd.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 129
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcspaceeduc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcspaceeduc.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 131
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volctracer.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volctracer.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 132
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volctrack.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volctrack.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 133
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volctraffic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volctraffic.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 134
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volctranscdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volctranscdn.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 135
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcvideo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcvideo.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 136
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcvideos.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcvideos.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 137
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcvms.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcvms.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 138
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcvod.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcvod.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 139
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcwaf.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcwaf.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 141
+    }
+  },
+  {
+    "type": "domain",
+    "value": "volcwaf001.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:volcwaf001.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 140
+    }
+  },
+  {
+    "type": "domain",
+    "value": "voleai.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:voleai.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 240
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vscenevideo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vscenevideo.com",
+    "source": {
+      "list": "LARK",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "writingo-editor.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:writingo-editor.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 142
+    }
+  },
+  {
+    "type": "domain",
+    "value": "writingo.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:writingo.net",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 143
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wtturl.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wtturl.cn",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 241
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wukong.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wukong.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 309
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wukongwenda.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wukongwenda.cn",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 310
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wukongwenda.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wukongwenda.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 311
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xiaoxiaapi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xiaoxiaapi.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 335
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xiguaapp.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xiguaapp.cn",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 298
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xiguaapp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xiguaapp.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 299
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xiguashipin.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xiguashipin.cn",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 300
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xiguashipin.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xiguashipin.net",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 301
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xiguavideo.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xiguavideo.cn",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 302
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xiguavideo.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xiguavideo.net",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 303
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xitu.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xitu.io",
+    "source": {
+      "list": "JUEJIN",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xsgtvacct.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xsgtvacct.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 242
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xycdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xycdn.com",
+    "source": {
+      "list": "DOUYIN",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yoma.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yoma.cn",
+    "source": {
+      "list": "TRAE",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ytxptd.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ytxptd.cn",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 144
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ytxptz.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ytxptz.cn",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 145
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zebracdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zebracdn.com",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 146
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zijieapi.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zijieapi.cn",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 243
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zijieapi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zijieapi.com",
+    "source": {
+      "list": "DOUYIN",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zijieapi.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zijieapi.net",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 245
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zijiecdn.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zijiecdn.cn",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 246
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zijiecdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zijiecdn.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 247
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zijiecdn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zijiecdn.net",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 248
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zijiedj.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zijiedj.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 249
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zijieimg.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zijieimg.cn",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 250
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zijieimg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zijieimg.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 251
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zijieimg.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zijieimg.net",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 252
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zijietiaodong.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zijietiaodong.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 253
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zijieurl.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zijieurl.cn",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 254
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zijieurl.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zijieurl.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 255
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zijieurl.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zijieurl.net",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 256
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zijiewap.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zijiewap.cn",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 257
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zijiewap.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zijiewap.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 258
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zijiewap.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zijiewap.net",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 259
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zilrms.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zilrms.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 260
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ziyrta.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ziyrta.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 261
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zjbyte.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zjbyte.cn",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 262
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zjbyte.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zjbyte.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 263
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zjbyte.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zjbyte.net",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 264
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zjcdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zjcdn.com",
+    "source": {
+      "list": "DOUYIN",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zjfcdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zjfcdn.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 266
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zjgslb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zjgslb.com",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 267
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zjytxd.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zjytxd.cn",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 147
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zjytxp.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zjytxp.cn",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 148
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zvip.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zvip.cn",
+    "source": {
+      "list": "VOLCENGINE",
+      "line": 149
+    }
+  },
+  {
+    "type": "full",
+    "value": "ads3-normal-hl.zijieapi.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:ads3-normal-hl.zijieapi.com:@ads",
+    "source": {
+      "list": "FQNOVEL",
+      "line": 36
+    }
+  },
+  {
+    "type": "full",
+    "value": "ads3-normal.zijieapi.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:ads3-normal.zijieapi.com:@ads",
+    "source": {
+      "list": "FQNOVEL",
+      "line": 37
+    }
+  },
+  {
+    "type": "full",
+    "value": "ads5-normal-hl.zijieapi.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:ads5-normal-hl.zijieapi.com:@ads",
+    "source": {
+      "list": "FQNOVEL",
+      "line": 38
+    }
+  },
+  {
+    "type": "full",
+    "value": "ads5-normal.zijieapi.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:ads5-normal.zijieapi.com:@ads",
+    "source": {
+      "list": "FQNOVEL",
+      "line": 39
+    }
+  },
+  {
+    "type": "full",
+    "value": "bytedance.map.fastly.net",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "full:bytedance.map.fastly.net:@!cn",
+    "source": {
+      "list": "BYTEDANCE",
+      "line": 269
+    }
+  },
+  {
+    "type": "full",
+    "value": "log3-applog-hl.fqnovel.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:log3-applog-hl.fqnovel.com:@ads",
+    "source": {
+      "list": "FQNOVEL",
+      "line": 40
+    }
+  },
+  {
+    "type": "full",
+    "value": "log3-applog.fqnovel.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:log3-applog.fqnovel.com:@ads",
+    "source": {
+      "list": "FQNOVEL",
+      "line": 41
+    }
+  },
+  {
+    "type": "full",
+    "value": "log5-applog-hl.fqnovel.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:log5-applog-hl.fqnovel.com:@ads",
+    "source": {
+      "list": "FQNOVEL",
+      "line": 42
+    }
+  },
+  {
+    "type": "full",
+    "value": "log5-applog.fqnovel.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:log5-applog.fqnovel.com:@ads",
+    "source": {
+      "list": "FQNOVEL",
+      "line": 43
+    }
+  },
+  {
+    "type": "full",
+    "value": "p16-tiktokcdn-com.akamaized.net",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "full:p16-tiktokcdn-com.akamaized.net:@!cn",
+    "source": {
+      "list": "TIKTOK",
+      "line": 33
+    }
+  },
+  {
+    "type": "full",
+    "value": "p3-ad-sign.byteimg.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:p3-ad-sign.byteimg.com:@ads",
+    "source": {
+      "list": "FQNOVEL",
+      "line": 44
+    }
+  },
+  {
+    "type": "full",
+    "value": "p6-ad-sign.byteimg.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:p6-ad-sign.byteimg.com:@ads",
+    "source": {
+      "list": "FQNOVEL",
+      "line": 45
+    }
+  },
+  {
+    "type": "full",
+    "value": "p9-ad-sign.byteimg.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:p9-ad-sign.byteimg.com:@ads",
+    "source": {
+      "list": "FQNOVEL",
+      "line": 46
+    }
+  },
+  {
+    "type": "full",
+    "value": "roovza-launches.appsflyersdk.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "full:roovza-launches.appsflyersdk.com:@!cn",
+    "source": {
+      "list": "TIKTOK",
+      "line": 34
+    }
+  },
+  {
+    "type": "full",
+    "value": "roovza.inapps.appsflyersdk.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "full:roovza.inapps.appsflyersdk.com:@!cn",
+    "source": {
+      "list": "TIKTOK",
+      "line": 35
+    }
+  },
+  {
+    "type": "full",
+    "value": "roovza.launches.appsflyersdk.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "full:roovza.launches.appsflyersdk.com:@!cn",
+    "source": {
+      "list": "TIKTOK",
+      "line": 36
+    }
+  },
+  {
+    "type": "full",
+    "value": "roovza.skadsdk.appsflyersdk.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "full:roovza.skadsdk.appsflyersdk.com:@!cn",
+    "source": {
+      "list": "TIKTOK",
+      "line": 37
+    }
+  },
+  {
+    "type": "full",
+    "value": "rtlog3-applog-hl.fqnovel.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:rtlog3-applog-hl.fqnovel.com:@ads",
+    "source": {
+      "list": "FQNOVEL",
+      "line": 47
+    }
+  },
+  {
+    "type": "full",
+    "value": "rtlog3-applog.fqnovel.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:rtlog3-applog.fqnovel.com:@ads",
+    "source": {
+      "list": "FQNOVEL",
+      "line": 48
+    }
+  },
+  {
+    "type": "full",
+    "value": "rtlog5-applog-hl.fqnovel.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:rtlog5-applog-hl.fqnovel.com:@ads",
+    "source": {
+      "list": "FQNOVEL",
+      "line": 49
+    }
+  },
+  {
+    "type": "full",
+    "value": "rtlog5-applog.fqnovel.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:rtlog5-applog.fqnovel.com:@ads",
+    "source": {
+      "list": "FQNOVEL",
+      "line": 50
+    }
+  }
+]

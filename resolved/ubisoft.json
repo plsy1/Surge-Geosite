@@ -1,0 +1,356 @@
+[
+  {
+    "type": "domain",
+    "value": "ubi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ubi.com",
+    "source": {
+      "list": "UBISOFT",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ubisoft.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ubisoft.com",
+    "source": {
+      "list": "UBISOFT",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ubisoftconnect.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ubisoftconnect.com",
+    "source": {
+      "list": "UBISOFT",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "uplay.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:uplay.com",
+    "source": {
+      "list": "UBISOFT",
+      "line": 6
+    }
+  },
+  {
+    "type": "full",
+    "value": "ubisoft-orbit-savegames.s3.amazonaws.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:ubisoft-orbit-savegames.s3.amazonaws.com",
+    "source": {
+      "list": "UBISOFT",
+      "line": 8
+    }
+  },
+  {
+    "type": "full",
+    "value": "ubisoft-uplay-savegames.s3.amazonaws.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:ubisoft-uplay-savegames.s3.amazonaws.com",
+    "source": {
+      "list": "UBISOFT",
+      "line": 7
+    }
+  },
+  {
+    "type": "full",
+    "value": "ubisoft.siteintercept.qualtrics.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:ubisoft.siteintercept.qualtrics.com",
+    "source": {
+      "list": "UBISOFT",
+      "line": 33
+    }
+  },
+  {
+    "type": "full",
+    "value": "ubistatic1-a.akamaihd.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:ubistatic1-a.akamaihd.net",
+    "source": {
+      "list": "UBISOFT",
+      "line": 9
+    }
+  },
+  {
+    "type": "full",
+    "value": "ubistatic10-a.akamaihd.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:ubistatic10-a.akamaihd.net",
+    "source": {
+      "list": "UBISOFT",
+      "line": 18
+    }
+  },
+  {
+    "type": "full",
+    "value": "ubistatic11-a.akamaihd.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:ubistatic11-a.akamaihd.net",
+    "source": {
+      "list": "UBISOFT",
+      "line": 19
+    }
+  },
+  {
+    "type": "full",
+    "value": "ubistatic12-a.akamaihd.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:ubistatic12-a.akamaihd.net",
+    "source": {
+      "list": "UBISOFT",
+      "line": 20
+    }
+  },
+  {
+    "type": "full",
+    "value": "ubistatic13-a.akamaihd.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:ubistatic13-a.akamaihd.net",
+    "source": {
+      "list": "UBISOFT",
+      "line": 21
+    }
+  },
+  {
+    "type": "full",
+    "value": "ubistatic14-a.akamaihd.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:ubistatic14-a.akamaihd.net",
+    "source": {
+      "list": "UBISOFT",
+      "line": 22
+    }
+  },
+  {
+    "type": "full",
+    "value": "ubistatic15-a.akamaihd.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:ubistatic15-a.akamaihd.net",
+    "source": {
+      "list": "UBISOFT",
+      "line": 23
+    }
+  },
+  {
+    "type": "full",
+    "value": "ubistatic16-a.akamaihd.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:ubistatic16-a.akamaihd.net",
+    "source": {
+      "list": "UBISOFT",
+      "line": 24
+    }
+  },
+  {
+    "type": "full",
+    "value": "ubistatic17-a.akamaihd.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:ubistatic17-a.akamaihd.net",
+    "source": {
+      "list": "UBISOFT",
+      "line": 25
+    }
+  },
+  {
+    "type": "full",
+    "value": "ubistatic18-a.akamaihd.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:ubistatic18-a.akamaihd.net",
+    "source": {
+      "list": "UBISOFT",
+      "line": 26
+    }
+  },
+  {
+    "type": "full",
+    "value": "ubistatic19-a.akamaihd.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:ubistatic19-a.akamaihd.net",
+    "source": {
+      "list": "UBISOFT",
+      "line": 27
+    }
+  },
+  {
+    "type": "full",
+    "value": "ubistatic2-a.akamaihd.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:ubistatic2-a.akamaihd.net",
+    "source": {
+      "list": "UBISOFT",
+      "line": 10
+    }
+  },
+  {
+    "type": "full",
+    "value": "ubistatic20-a.akamaihd.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:ubistatic20-a.akamaihd.net",
+    "source": {
+      "list": "UBISOFT",
+      "line": 28
+    }
+  },
+  {
+    "type": "full",
+    "value": "ubistatic21-a.akamaihd.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:ubistatic21-a.akamaihd.net",
+    "source": {
+      "list": "UBISOFT",
+      "line": 29
+    }
+  },
+  {
+    "type": "full",
+    "value": "ubistatic22-a.akamaihd.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:ubistatic22-a.akamaihd.net",
+    "source": {
+      "list": "UBISOFT",
+      "line": 30
+    }
+  },
+  {
+    "type": "full",
+    "value": "ubistatic23-a.akamaihd.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:ubistatic23-a.akamaihd.net",
+    "source": {
+      "list": "UBISOFT",
+      "line": 31
+    }
+  },
+  {
+    "type": "full",
+    "value": "ubistatic24-a.akamaihd.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:ubistatic24-a.akamaihd.net",
+    "source": {
+      "list": "UBISOFT",
+      "line": 32
+    }
+  },
+  {
+    "type": "full",
+    "value": "ubistatic3-a.akamaihd.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:ubistatic3-a.akamaihd.net",
+    "source": {
+      "list": "UBISOFT",
+      "line": 11
+    }
+  },
+  {
+    "type": "full",
+    "value": "ubistatic4-a.akamaihd.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:ubistatic4-a.akamaihd.net",
+    "source": {
+      "list": "UBISOFT",
+      "line": 12
+    }
+  },
+  {
+    "type": "full",
+    "value": "ubistatic5-a.akamaihd.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:ubistatic5-a.akamaihd.net",
+    "source": {
+      "list": "UBISOFT",
+      "line": 13
+    }
+  },
+  {
+    "type": "full",
+    "value": "ubistatic6-a.akamaihd.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:ubistatic6-a.akamaihd.net",
+    "source": {
+      "list": "UBISOFT",
+      "line": 14
+    }
+  },
+  {
+    "type": "full",
+    "value": "ubistatic7-a.akamaihd.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:ubistatic7-a.akamaihd.net",
+    "source": {
+      "list": "UBISOFT",
+      "line": 15
+    }
+  },
+  {
+    "type": "full",
+    "value": "ubistatic8-a.akamaihd.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:ubistatic8-a.akamaihd.net",
+    "source": {
+      "list": "UBISOFT",
+      "line": 16
+    }
+  },
+  {
+    "type": "full",
+    "value": "ubistatic9-a.akamaihd.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:ubistatic9-a.akamaihd.net",
+    "source": {
+      "list": "UBISOFT",
+      "line": 17
+    }
+  },
+  {
+    "type": "full",
+    "value": "uplaypc-s-ubisoft.cdn.ubi.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:uplaypc-s-ubisoft.cdn.ubi.com:@cn",
+    "source": {
+      "list": "UBISOFT",
+      "line": 34
+    }
+  }
+]

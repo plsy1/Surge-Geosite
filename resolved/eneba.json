@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "eneba.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:eneba.com",
+    "source": {
+      "list": "ENEBA",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "eneba.games",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:eneba.games",
+    "source": {
+      "list": "ENEBA",
+      "line": 2
+    }
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "type": "domain",
+    "value": "biji.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:biji.com",
+    "source": {
+      "list": "DEDAO",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ddmogo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ddmogo.com",
+    "source": {
+      "list": "DEDAO",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "igetget.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:igetget.cn",
+    "source": {
+      "list": "DEDAO",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "igetget.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:igetget.com",
+    "source": {
+      "list": "DEDAO",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "luojilab.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:luojilab.com",
+    "source": {
+      "list": "DEDAO",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mogoo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mogoo.com",
+    "source": {
+      "list": "DEDAO",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sao.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sao.cn",
+    "source": {
+      "list": "DEDAO",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "saolife.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:saolife.com",
+    "source": {
+      "list": "DEDAO",
+      "line": 9
+    }
+  }
+]

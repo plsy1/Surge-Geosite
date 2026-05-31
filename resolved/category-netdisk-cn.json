@@ -1,0 +1,981 @@
+[
+  {
+    "type": "domain",
+    "value": "115.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:115.com",
+    "source": {
+      "list": "115",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "115cdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:115cdn.com",
+    "source": {
+      "list": "115",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "115cdn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:115cdn.net",
+    "source": {
+      "list": "115",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "115cloud.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:115cloud.cn",
+    "source": {
+      "list": "115",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "115cloud.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:115cloud.com",
+    "source": {
+      "list": "115",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "115cloud.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:115cloud.net",
+    "source": {
+      "list": "115",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "115img.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:115img.com",
+    "source": {
+      "list": "115",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "115meta.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:115meta.com",
+    "source": {
+      "list": "115",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "115vod.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:115vod.com",
+    "source": {
+      "list": "115",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "116cd.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:116cd.cn",
+    "source": {
+      "list": "115",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "116cd.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:116cd.com",
+    "source": {
+      "list": "115",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "116cd.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:116cd.net",
+    "source": {
+      "list": "115",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "123245.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:123245.com",
+    "source": {
+      "list": "CATEGORY-NETDISK-CN",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "123254.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:123254.com",
+    "source": {
+      "list": "CATEGORY-NETDISK-CN",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "123278.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:123278.com",
+    "source": {
+      "list": "CATEGORY-NETDISK-CN",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "123294.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:123294.com",
+    "source": {
+      "list": "CATEGORY-NETDISK-CN",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "123624.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:123624.com",
+    "source": {
+      "list": "CATEGORY-NETDISK-CN",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "123641.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:123641.com",
+    "source": {
+      "list": "CATEGORY-NETDISK-CN",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "123842.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:123842.com",
+    "source": {
+      "list": "CATEGORY-NETDISK-CN",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "123860.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:123860.com",
+    "source": {
+      "list": "CATEGORY-NETDISK-CN",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "123912.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:123912.com",
+    "source": {
+      "list": "CATEGORY-NETDISK-CN",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "123952.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:123952.com",
+    "source": {
+      "list": "CATEGORY-NETDISK-CN",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "123957.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:123957.com",
+    "source": {
+      "list": "CATEGORY-NETDISK-CN",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "123pan.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:123pan.cn",
+    "source": {
+      "list": "CATEGORY-NETDISK-CN",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "123pan.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:123pan.com",
+    "source": {
+      "list": "CATEGORY-NETDISK-CN",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "123panpay.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:123panpay.com",
+    "source": {
+      "list": "CATEGORY-NETDISK-CN",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "alicloudccp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:alicloudccp.com",
+    "source": {
+      "list": "ALIYUN-DRIVE",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "alipan.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:alipan.com",
+    "source": {
+      "list": "ALIYUN-DRIVE",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aliyundrive.cloud",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aliyundrive.cloud",
+    "source": {
+      "list": "ALIYUN-DRIVE",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aliyundrive.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aliyundrive.com",
+    "source": {
+      "list": "ALIYUN-DRIVE",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aliyundrive.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aliyundrive.net",
+    "source": {
+      "list": "ALIYUN-DRIVE",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "anxia.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:anxia.com",
+    "source": {
+      "list": "115",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "baidupan.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:baidupan.com",
+    "source": {
+      "list": "LANZOU",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "c-t.work",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:c-t.work",
+    "source": {
+      "list": "COWTRANSFER",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloud.189.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloud.189.cn",
+    "source": {
+      "list": "CATEGORY-NETDISK-CN",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cowcs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cowcs.com",
+    "source": {
+      "list": "COWTRANSFER",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cowtransfer.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cowtransfer.com",
+    "source": {
+      "list": "COWTRANSFER",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ctfile.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ctfile.com",
+    "source": {
+      "list": "CATEGORY-NETDISK-CN",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "feimaoyun.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:feimaoyun.com",
+    "source": {
+      "list": "CATEGORY-NETDISK-CN",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "filez.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:filez.com",
+    "source": {
+      "list": "CATEGORY-NETDISK-CN",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "guangyapan.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:guangyapan.com",
+    "source": {
+      "list": "CATEGORY-NETDISK-CN",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ilanzou.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ilanzou.com",
+    "source": {
+      "list": "LANZOU",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jianguoyun.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jianguoyun.com",
+    "source": {
+      "list": "CATEGORY-NETDISK-CN",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lanosso.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lanosso.com",
+    "source": {
+      "list": "LANZOU",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lanrar.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lanrar.com",
+    "source": {
+      "list": "LANZOU",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lanzou.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lanzou.com",
+    "source": {
+      "list": "LANZOU",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lanzoub.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lanzoub.com",
+    "source": {
+      "list": "LANZOU",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lanzouc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lanzouc.com",
+    "source": {
+      "list": "LANZOU",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lanzoue.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lanzoue.com",
+    "source": {
+      "list": "LANZOU",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lanzouf.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lanzouf.com",
+    "source": {
+      "list": "LANZOU",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lanzoug.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lanzoug.com",
+    "source": {
+      "list": "LANZOU",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lanzouh.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lanzouh.com",
+    "source": {
+      "list": "LANZOU",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lanzoui.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lanzoui.com",
+    "source": {
+      "list": "LANZOU",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lanzouj.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lanzouj.com",
+    "source": {
+      "list": "LANZOU",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lanzouk.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lanzouk.com",
+    "source": {
+      "list": "LANZOU",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lanzoul.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lanzoul.com",
+    "source": {
+      "list": "LANZOU",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lanzoum.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lanzoum.com",
+    "source": {
+      "list": "LANZOU",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lanzouo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lanzouo.com",
+    "source": {
+      "list": "LANZOU",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lanzoup.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lanzoup.com",
+    "source": {
+      "list": "LANZOU",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lanzouq.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lanzouq.com",
+    "source": {
+      "list": "LANZOU",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lanzous.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lanzous.com",
+    "source": {
+      "list": "LANZOU",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lanzout.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lanzout.com",
+    "source": {
+      "list": "LANZOU",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lanzouu.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lanzouu.com",
+    "source": {
+      "list": "LANZOU",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lanzouv.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lanzouv.com",
+    "source": {
+      "list": "LANZOU",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lanzouw.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lanzouw.com",
+    "source": {
+      "list": "LANZOU",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lanzoux.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lanzoux.com",
+    "source": {
+      "list": "LANZOU",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lanzouy.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lanzouy.com",
+    "source": {
+      "list": "LANZOU",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lanzov.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lanzov.com",
+    "source": {
+      "list": "LANZOU",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pan.baidu.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pan.baidu.com",
+    "source": {
+      "list": "CATEGORY-NETDISK-CN",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pan.quark.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pan.quark.cn",
+    "source": {
+      "list": "CATEGORY-NETDISK-CN",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pan.xunlei.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pan.xunlei.com",
+    "source": {
+      "list": "CATEGORY-NETDISK-CN",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sq.cc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sq.cc",
+    "source": {
+      "list": "115",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "weiyun.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:weiyun.com",
+    "source": {
+      "list": "CATEGORY-NETDISK-CN",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wenshushu.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wenshushu.cn",
+    "source": {
+      "list": "WENSHUSHU",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wenshushu.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wenshushu.com",
+    "source": {
+      "list": "WENSHUSHU",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wenxiaozhan.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wenxiaozhan.cn",
+    "source": {
+      "list": "WENSHUSHU",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wenxiaozhan.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wenxiaozhan.com",
+    "source": {
+      "list": "WENSHUSHU",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wenxiaozhan.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wenxiaozhan.net",
+    "source": {
+      "list": "WENSHUSHU",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "woozooo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:woozooo.com",
+    "source": {
+      "list": "LANZOU",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wss.cc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wss.cc",
+    "source": {
+      "list": "WENSHUSHU",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wss.email",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wss.email",
+    "source": {
+      "list": "WENSHUSHU",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wss.ink",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wss.ink",
+    "source": {
+      "list": "WENSHUSHU",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wss.pet",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wss.pet",
+    "source": {
+      "list": "WENSHUSHU",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wss.show",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wss.show",
+    "source": {
+      "list": "WENSHUSHU",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wss.zone",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wss.zone",
+    "source": {
+      "list": "WENSHUSHU",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wss1.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wss1.cn",
+    "source": {
+      "list": "WENSHUSHU",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yun.139.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yun.139.com",
+    "source": {
+      "list": "CATEGORY-NETDISK-CN",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yunpan.aliyun.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yunpan.aliyun.com",
+    "source": {
+      "list": "ALIYUN-DRIVE",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yunpan.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yunpan.com",
+    "source": {
+      "list": "CATEGORY-NETDISK-CN",
+      "line": 34
+    }
+  }
+]

@@ -1,0 +1,510 @@
+[
+  {
+    "type": "domain",
+    "value": "1024terabox.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:1024terabox.com",
+    "source": {
+      "list": "TERABOX",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "1drv.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:1drv.com",
+    "source": {
+      "list": "ONEDRIVE",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "1drv.ms",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:1drv.ms",
+    "source": {
+      "list": "ONEDRIVE",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bestclouddrive.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bestclouddrive.com",
+    "source": {
+      "list": "TERABOX",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db.tt",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db.tt",
+    "source": {
+      "list": "DROPBOX",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dropbox-dns.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dropbox-dns.com",
+    "source": {
+      "list": "DROPBOX",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dropbox.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dropbox.com",
+    "source": {
+      "list": "DROPBOX",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dropbox.tech",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dropbox.tech",
+    "source": {
+      "list": "DROPBOX",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dropboxapi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dropboxapi.com",
+    "source": {
+      "list": "DROPBOX",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dropboxbusiness.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dropboxbusiness.com",
+    "source": {
+      "list": "DROPBOX",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dropboxcaptcha.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dropboxcaptcha.com",
+    "source": {
+      "list": "DROPBOX",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dropboxforum.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dropboxforum.com",
+    "source": {
+      "list": "DROPBOX",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dropboxforums.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dropboxforums.com",
+    "source": {
+      "list": "DROPBOX",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dropboxinsiders.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dropboxinsiders.com",
+    "source": {
+      "list": "DROPBOX",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dropboxmail.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dropboxmail.com",
+    "source": {
+      "list": "DROPBOX",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dropboxpartners.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dropboxpartners.com",
+    "source": {
+      "list": "DROPBOX",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dropboxstatic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dropboxstatic.com",
+    "source": {
+      "list": "DROPBOX",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dropboxusercontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dropboxusercontent.com",
+    "source": {
+      "list": "DROPBOX",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "freeterabox.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:freeterabox.com",
+    "source": {
+      "list": "TERABOX",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "getdropbox.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:getdropbox.com",
+    "source": {
+      "list": "DROPBOX",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "livefilestore.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:livefilestore.com",
+    "source": {
+      "list": "ONEDRIVE",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mega.co.nz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mega.co.nz",
+    "source": {
+      "list": "MEGA",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mega.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mega.io",
+    "source": {
+      "list": "MEGA",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mega.nz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mega.nz",
+    "source": {
+      "list": "MEGA",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mypikpak.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mypikpak.com",
+    "source": {
+      "list": "PIKPAK",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mypikpak.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mypikpak.net",
+    "source": {
+      "list": "PIKPAK",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nephobox.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nephobox.com",
+    "source": {
+      "list": "TERABOX",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "onedrive.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:onedrive.co",
+    "source": {
+      "list": "ONEDRIVE",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "onedrive.co.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:onedrive.co.uk",
+    "source": {
+      "list": "ONEDRIVE",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "onedrive.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:onedrive.com",
+    "source": {
+      "list": "ONEDRIVE",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "onedrive.eu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:onedrive.eu",
+    "source": {
+      "list": "ONEDRIVE",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "onedrive.live.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:onedrive.live.com",
+    "source": {
+      "list": "ONEDRIVE",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "onedrive.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:onedrive.net",
+    "source": {
+      "list": "ONEDRIVE",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "onedrive.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:onedrive.org",
+    "source": {
+      "list": "ONEDRIVE",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pickpackapp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pickpackapp.com",
+    "source": {
+      "list": "PIKPAK",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pikpak.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pikpak.io",
+    "source": {
+      "list": "PIKPAK",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pikpak.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pikpak.me",
+    "source": {
+      "list": "PIKPAK",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pikpakdrive.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pikpakdrive.com",
+    "source": {
+      "list": "PIKPAK",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "storage.live.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:storage.live.com",
+    "source": {
+      "list": "ONEDRIVE",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "terabox.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:terabox.com",
+    "source": {
+      "list": "TERABOX",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "terabox1024.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:terabox1024.com",
+    "source": {
+      "list": "TERABOX",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "teraboxcdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:teraboxcdn.com",
+    "source": {
+      "list": "TERABOX",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "userdrive.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:userdrive.org",
+    "source": {
+      "list": "USERSDRIVE",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "usersdrive.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:usersdrive.com",
+    "source": {
+      "list": "USERSDRIVE",
+      "line": 5
+    }
+  },
+  {
+    "type": "full",
+    "value": "o4504926511693824.ingest.sentry.io",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:o4504926511693824.ingest.sentry.io:@ads",
+    "source": {
+      "list": "PIKPAK",
+      "line": 9
+    }
+  },
+  {
+    "type": "full",
+    "value": "paper-attachments.s3.amazonaws.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:paper-attachments.s3.amazonaws.com",
+    "source": {
+      "list": "DROPBOX",
+      "line": 19
+    }
+  }
+]

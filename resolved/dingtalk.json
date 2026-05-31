@@ -1,0 +1,112 @@
+[
+  {
+    "type": "domain",
+    "value": "ddurl.to",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ddurl.to",
+    "source": {
+      "list": "DINGTALK",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dingding.xin",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dingding.xin",
+    "source": {
+      "list": "DINGTALK",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dingtalk.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dingtalk.cn",
+    "source": {
+      "list": "DINGTALK",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dingtalk.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dingtalk.com",
+    "source": {
+      "list": "DINGTALK",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dingtalk.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dingtalk.net",
+    "source": {
+      "list": "DINGTALK",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dingtalkapps.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dingtalkapps.com",
+    "source": {
+      "list": "DINGTALK",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dingtalkcloud.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dingtalkcloud.com",
+    "source": {
+      "list": "DINGTALK",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "laiwang.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:laiwang.com",
+    "source": {
+      "list": "DINGTALK",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lwurl.to",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lwurl.to",
+    "source": {
+      "list": "DINGTALK",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ztna-dingtalk.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ztna-dingtalk.com",
+    "source": {
+      "list": "DINGTALK",
+      "line": 10
+    }
+  }
+]

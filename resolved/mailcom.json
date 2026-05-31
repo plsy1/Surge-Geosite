@@ -1,0 +1,46 @@
+[
+  {
+    "type": "domain",
+    "value": "mail.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mail.com",
+    "source": {
+      "list": "MAILCOM",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ui-portal.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ui-portal.de",
+    "source": {
+      "list": "MAILCOM",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "uicdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:uicdn.com",
+    "source": {
+      "list": "MAILCOM",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "uimserv.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:uimserv.net",
+    "source": {
+      "list": "MAILCOM",
+      "line": 5
+    }
+  }
+]

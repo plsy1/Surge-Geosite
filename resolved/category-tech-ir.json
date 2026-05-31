@@ -1,0 +1,486 @@
+[
+  {
+    "type": "domain",
+    "value": "abrha.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:abrha.net",
+    "source": {
+      "list": "CATEGORY-TECH-IR",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "afranet.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:afranet.com",
+    "source": {
+      "list": "CATEGORY-TECH-IR",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "arvancloud.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:arvancloud.com",
+    "source": {
+      "list": "CATEGORY-TECH-IR",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "arvancloud.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:arvancloud.ir",
+    "source": {
+      "list": "CATEGORY-TECH-IR",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "arzex.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:arzex.io",
+    "source": {
+      "list": "CATEGORY-TECH-IR",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "asiatech.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:asiatech.ir",
+    "source": {
+      "list": "CATEGORY-TECH-IR",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cafebazaar.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cafebazaar.ir",
+    "source": {
+      "list": "CATEGORY-TECH-IR",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cafebazaar.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cafebazaar.org",
+    "source": {
+      "list": "CATEGORY-TECH-IR",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "datisnetwork.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:datisnetwork.com",
+    "source": {
+      "list": "CATEGORY-TECH-IR",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "download.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:download.ir",
+    "source": {
+      "list": "CATEGORY-TECH-IR",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "downloadly.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:downloadly.ir",
+    "source": {
+      "list": "CATEGORY-TECH-IR",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "farsroid.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:farsroid.com",
+    "source": {
+      "list": "CATEGORY-TECH-IR",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hiweb.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hiweb.ir",
+    "source": {
+      "list": "CATEGORY-TECH-IR",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ipnumberia.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ipnumberia.com",
+    "source": {
+      "list": "CATEGORY-TECH-IR",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "irancell.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:irancell.ir",
+    "source": {
+      "list": "CATEGORY-TECH-IR",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "iranmobile.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:iranmobile.org",
+    "source": {
+      "list": "CATEGORY-TECH-IR",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "iranserver.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:iranserver.com",
+    "source": {
+      "list": "CATEGORY-TECH-IR",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mci.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mci.ir",
+    "source": {
+      "list": "CATEGORY-TECH-IR",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mihanwebhost.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mihanwebhost.com",
+    "source": {
+      "list": "CATEGORY-TECH-IR",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mobinnet.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mobinnet.ir",
+    "source": {
+      "list": "CATEGORY-TECH-IR",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "myket.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:myket.ir",
+    "source": {
+      "list": "CATEGORY-TECH-IR",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "neshanmap.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:neshanmap.ir",
+    "source": {
+      "list": "CATEGORY-TECH-IR",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "p30download.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:p30download.com",
+    "source": {
+      "list": "CATEGORY-TECH-IR",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "p30download.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:p30download.ir",
+    "source": {
+      "list": "CATEGORY-TECH-IR",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "parsonline.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:parsonline.com",
+    "source": {
+      "list": "CATEGORY-TECH-IR",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "parspack.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:parspack.com",
+    "source": {
+      "list": "CATEGORY-TECH-IR",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "picofile.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:picofile.com",
+    "source": {
+      "list": "CATEGORY-TECH-IR",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pishgaman.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pishgaman.net",
+    "source": {
+      "list": "CATEGORY-TECH-IR",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rightel.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rightel.ir",
+    "source": {
+      "list": "CATEGORY-TECH-IR",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sarmayex.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sarmayex.com",
+    "source": {
+      "list": "CATEGORY-TECH-IR",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sarzamindownload.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sarzamindownload.com",
+    "source": {
+      "list": "CATEGORY-TECH-IR",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "shatel.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:shatel.ir",
+    "source": {
+      "list": "CATEGORY-TECH-IR",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "skyroom.online",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:skyroom.online",
+    "source": {
+      "list": "CATEGORY-TECH-IR",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "smshooshmand.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:smshooshmand.com",
+    "source": {
+      "list": "CATEGORY-TECH-IR",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "soft98.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:soft98.ir",
+    "source": {
+      "list": "CATEGORY-TECH-IR",
+      "line": 37
+    }
+  },
+  {
+    "type": "domain",
+    "value": "softgozar.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:softgozar.com",
+    "source": {
+      "list": "CATEGORY-TECH-IR",
+      "line": 38
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sotoon.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sotoon.ir",
+    "source": {
+      "list": "CATEGORY-TECH-IR",
+      "line": 39
+    }
+  },
+  {
+    "type": "domain",
+    "value": "taliya.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:taliya.ir",
+    "source": {
+      "list": "CATEGORY-TECH-IR",
+      "line": 40
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tci.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tci.ir",
+    "source": {
+      "list": "CATEGORY-TECH-IR",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "uplod.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:uplod.ir",
+    "source": {
+      "list": "CATEGORY-TECH-IR",
+      "line": 42
+    }
+  },
+  {
+    "type": "domain",
+    "value": "uupload.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:uupload.ir",
+    "source": {
+      "list": "CATEGORY-TECH-IR",
+      "line": 43
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yasdl.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yasdl.com",
+    "source": {
+      "list": "CATEGORY-TECH-IR",
+      "line": 44
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zhaket.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zhaket.com",
+    "source": {
+      "list": "CATEGORY-TECH-IR",
+      "line": 45
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zoomit.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zoomit.ir",
+    "source": {
+      "list": "CATEGORY-TECH-IR",
+      "line": 46
+    }
+  }
+]

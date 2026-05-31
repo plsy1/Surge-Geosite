@@ -1,0 +1,330 @@
+[
+  {
+    "type": "domain",
+    "value": "ad.api.3g.youku.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:ad.api.3g.youku.com:@ads",
+    "source": {
+      "list": "YOUKU",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ad.api.mobile.youku.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:ad.api.mobile.youku.com:@ads",
+    "source": {
+      "list": "YOUKU",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ad.mobile.youku.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:ad.mobile.youku.com:@ads",
+    "source": {
+      "list": "YOUKU",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adashx.ut.youku.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:adashx.ut.youku.com:@ads",
+    "source": {
+      "list": "YOUKU",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "atm.youku.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:atm.youku.com:@ads",
+    "source": {
+      "list": "YOUKU",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "e.stat.ykimg.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:e.stat.ykimg.com:@ads",
+    "source": {
+      "list": "YOUKU",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ems.youku.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:ems.youku.com:@ads",
+    "source": {
+      "list": "YOUKU",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "guanggaoad.youku.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:guanggaoad.youku.com:@ads",
+    "source": {
+      "list": "YOUKU",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "h-adashx.ut.youku.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:h-adashx.ut.youku.com:@ads",
+    "source": {
+      "list": "YOUKU",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kumiao.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kumiao.com",
+    "source": {
+      "list": "YOUKU",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lstat.youku.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:lstat.youku.com:@ads",
+    "source": {
+      "list": "YOUKU",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mmstat.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mmstat.com",
+    "source": {
+      "list": "YOUKU",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mobilemsg.youku.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:mobilemsg.youku.com:@ads",
+    "source": {
+      "list": "YOUKU",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "msg.youku.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:msg.youku.com:@ads",
+    "source": {
+      "list": "YOUKU",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "p-log.ykimg.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:p-log.ykimg.com:@ads",
+    "source": {
+      "list": "YOUKU",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "passport-log.youku.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:passport-log.youku.com:@ads",
+    "source": {
+      "list": "YOUKU",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pl.youku.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:pl.youku.com:@ads",
+    "source": {
+      "list": "YOUKU",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "s-adashx.ut.youku.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:s-adashx.ut.youku.com:@ads",
+    "source": {
+      "list": "YOUKU",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "soku.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:soku.com",
+    "source": {
+      "list": "YOUKU",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "stat.youku.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:stat.youku.com:@ads",
+    "source": {
+      "list": "YOUKU",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "statis.api.3g.youku.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:statis.api.3g.youku.com:@ads",
+    "source": {
+      "list": "YOUKU",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "v6-adashx.ut.youku.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:v6-adashx.ut.youku.com:@ads",
+    "source": {
+      "list": "YOUKU",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yk-ssp.ad.youku.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:yk-ssp.ad.youku.com:@ads",
+    "source": {
+      "list": "YOUKU",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ykad-data.youku.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:ykad-data.youku.com:@ads",
+    "source": {
+      "list": "YOUKU",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ykimg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ykimg.com",
+    "source": {
+      "list": "YOUKU",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youku.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youku.com",
+    "source": {
+      "list": "YOUKU",
+      "line": 4
+    }
+  }
+]

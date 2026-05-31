@@ -1,0 +1,57 @@
+[
+  {
+    "type": "domain",
+    "value": "metart.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:metart.com",
+    "source": {
+      "list": "METART",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "metartnetwork.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:metartnetwork.com",
+    "source": {
+      "list": "METART",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "metcams.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:metcams.com",
+    "source": {
+      "list": "METART",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "naiadsystems.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:naiadsystems.com",
+    "source": {
+      "list": "METART",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nsimg.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nsimg.net",
+    "source": {
+      "list": "METART",
+      "line": 5
+    }
+  }
+]

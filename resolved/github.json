@@ -1,0 +1,657 @@
+[
+  {
+    "type": "domain",
+    "value": "atom.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:atom.io",
+    "source": {
+      "list": "GITHUB",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "collector.github.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:collector.github.com:@ads",
+    "source": {
+      "list": "GITHUB",
+      "line": 62
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dependabot.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dependabot.com",
+    "source": {
+      "list": "GITHUB",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gh.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gh.io",
+    "source": {
+      "list": "GITHUB",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ghcr.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ghcr.io",
+    "source": {
+      "list": "GITHUB",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "git.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:git.io",
+    "source": {
+      "list": "GITHUB",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "github.ai",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:github.ai",
+    "source": {
+      "list": "GITHUB",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "github.blog",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:github.blog",
+    "source": {
+      "list": "GITHUB",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "github.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:github.com",
+    "source": {
+      "list": "GITHUB",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "github.community",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:github.community",
+    "source": {
+      "list": "GITHUB",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "github.dev",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:github.dev",
+    "source": {
+      "list": "GITHUB",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "github.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:github.io",
+    "source": {
+      "list": "GITHUB",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "githubapp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:githubapp.com",
+    "source": {
+      "list": "GITHUB",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "githubassets.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:githubassets.com",
+    "source": {
+      "list": "GITHUB",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "githubcopilot.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:githubcopilot.com",
+    "source": {
+      "list": "GITHUB-COPILOT",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "githubhackathon.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:githubhackathon.com",
+    "source": {
+      "list": "GITHUB",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "githubnext.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:githubnext.com",
+    "source": {
+      "list": "GITHUB",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "githubpreview.dev",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:githubpreview.dev",
+    "source": {
+      "list": "GITHUB",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "githubstatus.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:githubstatus.com",
+    "source": {
+      "list": "GITHUB",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "githubuniverse.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:githubuniverse.com",
+    "source": {
+      "list": "GITHUB",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "githubusercontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:githubusercontent.com",
+    "source": {
+      "list": "GITHUB",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "myoctocat.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:myoctocat.com",
+    "source": {
+      "list": "GITHUB",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "npm.community",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:npm.community",
+    "source": {
+      "list": "NPMJS",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "npmjs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:npmjs.com",
+    "source": {
+      "list": "NPMJS",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "npmjs.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:npmjs.org",
+    "source": {
+      "list": "NPMJS",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "octocaptcha.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:octocaptcha.com",
+    "source": {
+      "list": "GITHUB",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "opensource.guide",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:opensource.guide",
+    "source": {
+      "list": "GITHUB",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "repo.new",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:repo.new",
+    "source": {
+      "list": "GITHUB",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "thegithubshop.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:thegithubshop.com",
+    "source": {
+      "list": "GITHUB",
+      "line": 27
+    }
+  },
+  {
+    "type": "full",
+    "value": "copilot-telemetry-service.githubusercontent.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:copilot-telemetry-service.githubusercontent.com:@ads",
+    "source": {
+      "list": "GITHUB-COPILOT",
+      "line": 10
+    }
+  },
+  {
+    "type": "full",
+    "value": "copilot-telemetry.githubusercontent.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:copilot-telemetry.githubusercontent.com:@ads",
+    "source": {
+      "list": "GITHUB-COPILOT",
+      "line": 11
+    }
+  },
+  {
+    "type": "full",
+    "value": "copilotprodattachments.blob.core.windows.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:copilotprodattachments.blob.core.windows.net",
+    "source": {
+      "list": "GITHUB-COPILOT",
+      "line": 7
+    }
+  },
+  {
+    "type": "full",
+    "value": "github-api.arkoselabs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:github-api.arkoselabs.com",
+    "source": {
+      "list": "GITHUB",
+      "line": 29
+    }
+  },
+  {
+    "type": "full",
+    "value": "github-cloud.s3.amazonaws.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:github-cloud.s3.amazonaws.com",
+    "source": {
+      "list": "GITHUB",
+      "line": 32
+    }
+  },
+  {
+    "type": "full",
+    "value": "github-production-release-asset-2e65be.s3.amazonaws.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:github-production-release-asset-2e65be.s3.amazonaws.com",
+    "source": {
+      "list": "GITHUB",
+      "line": 33
+    }
+  },
+  {
+    "type": "full",
+    "value": "github-production-repository-file-5c1aeb.s3.amazonaws.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:github-production-repository-file-5c1aeb.s3.amazonaws.com",
+    "source": {
+      "list": "GITHUB",
+      "line": 34
+    }
+  },
+  {
+    "type": "full",
+    "value": "github-production-repository-image-32fea6.s3.amazonaws.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:github-production-repository-image-32fea6.s3.amazonaws.com",
+    "source": {
+      "list": "GITHUB",
+      "line": 35
+    }
+  },
+  {
+    "type": "full",
+    "value": "github-production-upload-manifest-file-7fdce7.s3.amazonaws.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:github-production-upload-manifest-file-7fdce7.s3.amazonaws.com",
+    "source": {
+      "list": "GITHUB",
+      "line": 36
+    }
+  },
+  {
+    "type": "full",
+    "value": "github-production-user-asset-6210df.s3.amazonaws.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:github-production-user-asset-6210df.s3.amazonaws.com",
+    "source": {
+      "list": "GITHUB",
+      "line": 37
+    }
+  },
+  {
+    "type": "full",
+    "value": "productionresultssa0.blob.core.windows.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:productionresultssa0.blob.core.windows.net",
+    "source": {
+      "list": "GITHUB",
+      "line": 40
+    }
+  },
+  {
+    "type": "full",
+    "value": "productionresultssa1.blob.core.windows.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:productionresultssa1.blob.core.windows.net",
+    "source": {
+      "list": "GITHUB",
+      "line": 41
+    }
+  },
+  {
+    "type": "full",
+    "value": "productionresultssa10.blob.core.windows.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:productionresultssa10.blob.core.windows.net",
+    "source": {
+      "list": "GITHUB",
+      "line": 50
+    }
+  },
+  {
+    "type": "full",
+    "value": "productionresultssa11.blob.core.windows.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:productionresultssa11.blob.core.windows.net",
+    "source": {
+      "list": "GITHUB",
+      "line": 51
+    }
+  },
+  {
+    "type": "full",
+    "value": "productionresultssa12.blob.core.windows.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:productionresultssa12.blob.core.windows.net",
+    "source": {
+      "list": "GITHUB",
+      "line": 52
+    }
+  },
+  {
+    "type": "full",
+    "value": "productionresultssa13.blob.core.windows.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:productionresultssa13.blob.core.windows.net",
+    "source": {
+      "list": "GITHUB",
+      "line": 53
+    }
+  },
+  {
+    "type": "full",
+    "value": "productionresultssa14.blob.core.windows.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:productionresultssa14.blob.core.windows.net",
+    "source": {
+      "list": "GITHUB",
+      "line": 54
+    }
+  },
+  {
+    "type": "full",
+    "value": "productionresultssa15.blob.core.windows.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:productionresultssa15.blob.core.windows.net",
+    "source": {
+      "list": "GITHUB",
+      "line": 55
+    }
+  },
+  {
+    "type": "full",
+    "value": "productionresultssa16.blob.core.windows.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:productionresultssa16.blob.core.windows.net",
+    "source": {
+      "list": "GITHUB",
+      "line": 56
+    }
+  },
+  {
+    "type": "full",
+    "value": "productionresultssa17.blob.core.windows.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:productionresultssa17.blob.core.windows.net",
+    "source": {
+      "list": "GITHUB",
+      "line": 57
+    }
+  },
+  {
+    "type": "full",
+    "value": "productionresultssa18.blob.core.windows.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:productionresultssa18.blob.core.windows.net",
+    "source": {
+      "list": "GITHUB",
+      "line": 58
+    }
+  },
+  {
+    "type": "full",
+    "value": "productionresultssa19.blob.core.windows.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:productionresultssa19.blob.core.windows.net",
+    "source": {
+      "list": "GITHUB",
+      "line": 59
+    }
+  },
+  {
+    "type": "full",
+    "value": "productionresultssa2.blob.core.windows.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:productionresultssa2.blob.core.windows.net",
+    "source": {
+      "list": "GITHUB",
+      "line": 42
+    }
+  },
+  {
+    "type": "full",
+    "value": "productionresultssa3.blob.core.windows.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:productionresultssa3.blob.core.windows.net",
+    "source": {
+      "list": "GITHUB",
+      "line": 43
+    }
+  },
+  {
+    "type": "full",
+    "value": "productionresultssa4.blob.core.windows.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:productionresultssa4.blob.core.windows.net",
+    "source": {
+      "list": "GITHUB",
+      "line": 44
+    }
+  },
+  {
+    "type": "full",
+    "value": "productionresultssa5.blob.core.windows.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:productionresultssa5.blob.core.windows.net",
+    "source": {
+      "list": "GITHUB",
+      "line": 45
+    }
+  },
+  {
+    "type": "full",
+    "value": "productionresultssa6.blob.core.windows.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:productionresultssa6.blob.core.windows.net",
+    "source": {
+      "list": "GITHUB",
+      "line": 46
+    }
+  },
+  {
+    "type": "full",
+    "value": "productionresultssa7.blob.core.windows.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:productionresultssa7.blob.core.windows.net",
+    "source": {
+      "list": "GITHUB",
+      "line": 47
+    }
+  },
+  {
+    "type": "full",
+    "value": "productionresultssa8.blob.core.windows.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:productionresultssa8.blob.core.windows.net",
+    "source": {
+      "list": "GITHUB",
+      "line": 48
+    }
+  },
+  {
+    "type": "full",
+    "value": "productionresultssa9.blob.core.windows.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:productionresultssa9.blob.core.windows.net",
+    "source": {
+      "list": "GITHUB",
+      "line": 49
+    }
+  }
+]

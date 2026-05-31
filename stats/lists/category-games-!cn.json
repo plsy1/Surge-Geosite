@@ -1,0 +1,115 @@
+{
+  "name": "CATEGORY-GAMES-!CN",
+  "source": {
+    "domain": 33,
+    "full": 0,
+    "keyword": 0,
+    "regexp": 0,
+    "include": 45,
+    "affiliations": 0,
+    "attributes": 0
+  },
+  "resolved": {
+    "rules": 824,
+    "domain": 723,
+    "full": 95,
+    "keyword": 0,
+    "regexp": 6
+  },
+  "filters": {
+    "attrs": {
+      "cn": 46,
+      "ads": 1
+    }
+  },
+  "modes": {
+    "strict": {
+      "rules": 818,
+      "bytes": 24775,
+      "regex": {
+        "total": 6,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 6
+      },
+      "unsupported": [
+        {
+          "pattern": "^cdn-akamai-.+\\.gog-services\\.com$",
+          "source": {
+            "list": "GOG",
+            "line": 10
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "^cdn\\d-epicgames-\\d+\\.file\\.myqcloud\\.com$",
+          "source": {
+            "list": "EPICGAMES",
+            "line": 31
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "^epicgames-download\\d-\\d+\\.file\\.myqcloud\\.com$",
+          "source": {
+            "list": "EPICGAMES",
+            "line": 33
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "^epicgames-download\\d\\.akamaized\\.net$",
+          "source": {
+            "list": "EPICGAMES",
+            "line": 32
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "^gog-cdn-.+\\.footprint\\.net$",
+          "source": {
+            "list": "GOG",
+            "line": 11
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "^images(-\\d)?\\.gog-statics\\.com$",
+          "source": {
+            "list": "GOG",
+            "line": 12
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        }
+      ]
+    },
+    "balanced": {
+      "rules": 824,
+      "bytes": 25060,
+      "regex": {
+        "total": 6,
+        "lossless": 0,
+        "widened": 6,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "full": {
+      "rules": 824,
+      "bytes": 25060,
+      "regex": {
+        "total": 6,
+        "lossless": 0,
+        "widened": 6,
+        "unsupported": 0
+      },
+      "unsupported": []
+    }
+  }
+}

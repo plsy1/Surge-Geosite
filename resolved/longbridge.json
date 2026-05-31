@@ -1,0 +1,112 @@
+[
+  {
+    "type": "domain",
+    "value": "lbctrl.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lbctrl.com",
+    "source": {
+      "list": "LONGBRIDGE",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lbkrs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lbkrs.com",
+    "source": {
+      "list": "LONGBRIDGE",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "longbridge.cloud",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:longbridge.cloud",
+    "source": {
+      "list": "LONGBRIDGE",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "longbridge.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:longbridge.com",
+    "source": {
+      "list": "LONGBRIDGE",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "longbridge.global",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:longbridge.global",
+    "source": {
+      "list": "LONGBRIDGE",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "longbridge.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:longbridge.hk",
+    "source": {
+      "list": "LONGBRIDGE",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "longbridge.sg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:longbridge.sg",
+    "source": {
+      "list": "LONGBRIDGE",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "longbridgeapp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:longbridgeapp.com",
+    "source": {
+      "list": "LONGBRIDGE",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "longportapp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:longportapp.com",
+    "source": {
+      "list": "LONGBRIDGE",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wbrks.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wbrks.com",
+    "source": {
+      "list": "LONGBRIDGE",
+      "line": 12
+    }
+  }
+]

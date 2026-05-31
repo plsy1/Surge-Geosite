@@ -1,0 +1,57 @@
+[
+  {
+    "type": "domain",
+    "value": "tilda.cc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tilda.cc",
+    "source": {
+      "list": "TILDA",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tilda.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tilda.ru",
+    "source": {
+      "list": "TILDA",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tilda.ws",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tilda.ws",
+    "source": {
+      "list": "TILDA",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tildaapi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tildaapi.com",
+    "source": {
+      "list": "TILDA",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tildacdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tildacdn.com",
+    "source": {
+      "list": "TILDA",
+      "line": 5
+    }
+  }
+]

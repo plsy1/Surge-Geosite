@@ -1,0 +1,60 @@
+{
+  "name": "YAHOO",
+  "source": {
+    "domain": 169,
+    "full": 1,
+    "keyword": 0,
+    "regexp": 0,
+    "include": 1,
+    "affiliations": 0,
+    "attributes": 5
+  },
+  "resolved": {
+    "rules": 175,
+    "domain": 174,
+    "full": 1,
+    "keyword": 0,
+    "regexp": 0
+  },
+  "filters": {
+    "attrs": {
+      "ads": 3,
+      "cn": 2
+    }
+  },
+  "modes": {
+    "strict": {
+      "rules": 175,
+      "bytes": 4358,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "balanced": {
+      "rules": 175,
+      "bytes": 4358,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "full": {
+      "rules": 175,
+      "bytes": 4358,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    }
+  }
+}

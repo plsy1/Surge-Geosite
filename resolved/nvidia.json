@@ -1,0 +1,703 @@
+[
+  {
+    "type": "domain",
+    "value": "geforce.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:geforce.cn:@cn",
+    "source": {
+      "list": "NVIDIA",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "geforce.co.kr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:geforce.co.kr",
+    "source": {
+      "list": "NVIDIA",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "geforce.co.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:geforce.co.uk",
+    "source": {
+      "list": "NVIDIA",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "geforce.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:geforce.com",
+    "source": {
+      "list": "NVIDIA",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "geforce.com.tw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:geforce.com.tw",
+    "source": {
+      "list": "NVIDIA",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gputechconf.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:gputechconf.cn:@cn",
+    "source": {
+      "list": "NVIDIA",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gputechconf.co.kr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gputechconf.co.kr",
+    "source": {
+      "list": "NVIDIA",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gputechconf.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gputechconf.com",
+    "source": {
+      "list": "NVIDIA",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gputechconf.com.au",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gputechconf.com.au",
+    "source": {
+      "list": "NVIDIA",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gputechconf.com.tw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gputechconf.com.tw",
+    "source": {
+      "list": "NVIDIA",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gputechconf.eu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gputechconf.eu",
+    "source": {
+      "list": "NVIDIA",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gputechconf.in",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gputechconf.in",
+    "source": {
+      "list": "NVIDIA",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gputechconf.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gputechconf.jp",
+    "source": {
+      "list": "NVIDIA",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nvidia.asia",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nvidia.asia",
+    "source": {
+      "list": "NVIDIA",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nvidia.at",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nvidia.at",
+    "source": {
+      "list": "NVIDIA",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nvidia.be",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nvidia.be",
+    "source": {
+      "list": "NVIDIA",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nvidia.ch",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nvidia.ch",
+    "source": {
+      "list": "NVIDIA",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nvidia.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:nvidia.cn:@cn",
+    "source": {
+      "list": "NVIDIA",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nvidia.co.at",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nvidia.co.at",
+    "source": {
+      "list": "NVIDIA",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nvidia.co.in",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nvidia.co.in",
+    "source": {
+      "list": "NVIDIA",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nvidia.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nvidia.co.jp",
+    "source": {
+      "list": "NVIDIA",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nvidia.co.kr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nvidia.co.kr",
+    "source": {
+      "list": "NVIDIA",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nvidia.co.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nvidia.co.uk",
+    "source": {
+      "list": "NVIDIA",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nvidia.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nvidia.com",
+    "source": {
+      "list": "NVIDIA",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nvidia.com.au",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nvidia.com.au",
+    "source": {
+      "list": "NVIDIA",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nvidia.com.br",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nvidia.com.br",
+    "source": {
+      "list": "NVIDIA",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nvidia.com.mx",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nvidia.com.mx",
+    "source": {
+      "list": "NVIDIA",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nvidia.com.pe",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nvidia.com.pe",
+    "source": {
+      "list": "NVIDIA",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nvidia.com.pl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nvidia.com.pl",
+    "source": {
+      "list": "NVIDIA",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nvidia.com.tr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nvidia.com.tr",
+    "source": {
+      "list": "NVIDIA",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nvidia.com.tw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nvidia.com.tw",
+    "source": {
+      "list": "NVIDIA",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nvidia.com.ua",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nvidia.com.ua",
+    "source": {
+      "list": "NVIDIA",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nvidia.com.ve",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nvidia.com.ve",
+    "source": {
+      "list": "NVIDIA",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nvidia.cz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nvidia.cz",
+    "source": {
+      "list": "NVIDIA",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nvidia.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nvidia.de",
+    "source": {
+      "list": "NVIDIA",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nvidia.dk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nvidia.dk",
+    "source": {
+      "list": "NVIDIA",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nvidia.es",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nvidia.es",
+    "source": {
+      "list": "NVIDIA",
+      "line": 37
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nvidia.eu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nvidia.eu",
+    "source": {
+      "list": "NVIDIA",
+      "line": 38
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nvidia.fi",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nvidia.fi",
+    "source": {
+      "list": "NVIDIA",
+      "line": 39
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nvidia.fr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nvidia.fr",
+    "source": {
+      "list": "NVIDIA",
+      "line": 40
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nvidia.in",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nvidia.in",
+    "source": {
+      "list": "NVIDIA",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nvidia.it",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nvidia.it",
+    "source": {
+      "list": "NVIDIA",
+      "line": 42
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nvidia.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nvidia.jp",
+    "source": {
+      "list": "NVIDIA",
+      "line": 43
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nvidia.lu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nvidia.lu",
+    "source": {
+      "list": "NVIDIA",
+      "line": 44
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nvidia.mx",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nvidia.mx",
+    "source": {
+      "list": "NVIDIA",
+      "line": 45
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nvidia.nl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nvidia.nl",
+    "source": {
+      "list": "NVIDIA",
+      "line": 46
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nvidia.no",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nvidia.no",
+    "source": {
+      "list": "NVIDIA",
+      "line": 47
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nvidia.pl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nvidia.pl",
+    "source": {
+      "list": "NVIDIA",
+      "line": 48
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nvidia.ro",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nvidia.ro",
+    "source": {
+      "list": "NVIDIA",
+      "line": 49
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nvidia.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nvidia.ru",
+    "source": {
+      "list": "NVIDIA",
+      "line": 50
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nvidia.se",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nvidia.se",
+    "source": {
+      "list": "NVIDIA",
+      "line": 51
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nvidia.tw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nvidia.tw",
+    "source": {
+      "list": "NVIDIA",
+      "line": 52
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nvidiaforhp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nvidiaforhp.com",
+    "source": {
+      "list": "NVIDIA",
+      "line": 53
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nvidiagrid.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nvidiagrid.net",
+    "source": {
+      "list": "NVIDIA",
+      "line": 54
+    }
+  },
+  {
+    "type": "domain",
+    "value": "shotwithgeforce.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:shotwithgeforce.com",
+    "source": {
+      "list": "NVIDIA",
+      "line": 55
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tegrazone.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tegrazone.co",
+    "source": {
+      "list": "NVIDIA",
+      "line": 56
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tegrazone.co.kr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tegrazone.co.kr",
+    "source": {
+      "list": "NVIDIA",
+      "line": 57
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tegrazone.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tegrazone.com",
+    "source": {
+      "list": "NVIDIA",
+      "line": 58
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tegrazone.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tegrazone.jp",
+    "source": {
+      "list": "NVIDIA",
+      "line": 59
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tegrazone.kr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tegrazone.kr",
+    "source": {
+      "list": "NVIDIA",
+      "line": 60
+    }
+  },
+  {
+    "type": "full",
+    "value": "cn.download.nvidia.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:cn.download.nvidia.com:@cn",
+    "source": {
+      "list": "NVIDIA",
+      "line": 66
+    }
+  },
+  {
+    "type": "full",
+    "value": "nvidia.custhelp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:nvidia.custhelp.com",
+    "source": {
+      "list": "NVIDIA",
+      "line": 62
+    }
+  },
+  {
+    "type": "full",
+    "value": "nvidia.tt.omtrdc.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:nvidia.tt.omtrdc.net",
+    "source": {
+      "list": "NVIDIA",
+      "line": 63
+    }
+  }
+]

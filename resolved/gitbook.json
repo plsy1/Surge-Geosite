@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "gitbook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gitbook.com",
+    "source": {
+      "list": "GITBOOK",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gitbook.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gitbook.io",
+    "source": {
+      "list": "GITBOOK",
+      "line": 2
+    }
+  }
+]

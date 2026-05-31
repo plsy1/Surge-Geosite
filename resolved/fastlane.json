@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "fastlane.ci",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fastlane.ci",
+    "source": {
+      "list": "FASTLANE",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fastlane.tools",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fastlane.tools",
+    "source": {
+      "list": "FASTLANE",
+      "line": 2
+    }
+  }
+]

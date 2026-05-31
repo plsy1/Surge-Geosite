@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "haveibeenpwned.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:haveibeenpwned.com",
+    "source": {
+      "list": "HAVEIBEENPWNED",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pwnedpasswords.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pwnedpasswords.com",
+    "source": {
+      "list": "HAVEIBEENPWNED",
+      "line": 2
+    }
+  }
+]

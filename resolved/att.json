@@ -1,0 +1,1469 @@
+[
+  {
+    "type": "domain",
+    "value": "accbusiness.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:accbusiness.com",
+    "source": {
+      "list": "ATT",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "atandt.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:atandt.com",
+    "source": {
+      "list": "ATT",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "att-bundles.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:att-bundles.com",
+    "source": {
+      "list": "ATT",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "att-idns.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:att-idns.net",
+    "source": {
+      "list": "ATT",
+      "line": 69
+    }
+  },
+  {
+    "type": "domain",
+    "value": "att-japan.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:att-japan.com",
+    "source": {
+      "list": "ATT",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "att-mail.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:att-mail.com",
+    "source": {
+      "list": "ATT",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "att-promotions.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:att-promotions.com",
+    "source": {
+      "list": "ATT",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "att-rsvp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:att-rsvp.com",
+    "source": {
+      "list": "ATT",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "att.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:att.cn:@cn",
+    "source": {
+      "list": "ATT",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "att.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:att.com",
+    "source": {
+      "list": "ATT",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "att.jobs",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:att.jobs",
+    "source": {
+      "list": "ATT",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "att.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:att.net",
+    "source": {
+      "list": "ATT",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "att.tv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:att.tv",
+    "source": {
+      "list": "ATT",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "attalascom.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:attalascom.com",
+    "source": {
+      "list": "ATT",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "attbelieves.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:attbelieves.com",
+    "source": {
+      "list": "ATT",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "attbusiness.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:attbusiness.net",
+    "source": {
+      "list": "ATT",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "attcenter.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:attcenter.com",
+    "source": {
+      "list": "ATT",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "attcollaborate.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:attcollaborate.com",
+    "source": {
+      "list": "ATT",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "attcorp.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:attcorp.cn:@cn",
+    "source": {
+      "list": "ATT",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "attdns.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:attdns.com",
+    "source": {
+      "list": "ATT",
+      "line": 70
+    }
+  },
+  {
+    "type": "domain",
+    "value": "attdns.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:attdns.net",
+    "source": {
+      "list": "ATT",
+      "line": 71
+    }
+  },
+  {
+    "type": "domain",
+    "value": "attexperts.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:attexperts.com",
+    "source": {
+      "list": "ATT",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "attglobal.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:attglobal.net",
+    "source": {
+      "list": "ATT",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "attinnovationspace.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:attinnovationspace.com",
+    "source": {
+      "list": "ATT",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "attinternetservice.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:attinternetservice.com",
+    "source": {
+      "list": "ATT",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "attjoy.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:attjoy.com",
+    "source": {
+      "list": "ATT",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "attnetclient.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:attnetclient.com",
+    "source": {
+      "list": "ATT",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "attonlineoffers.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:attonlineoffers.com",
+    "source": {
+      "list": "ATT",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "attproxy.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:attproxy.com",
+    "source": {
+      "list": "ATT",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "attpublicpolicy.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:attpublicpolicy.com",
+    "source": {
+      "list": "ATT",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "attpurchasing.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:attpurchasing.com",
+    "source": {
+      "list": "ATT",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "attsavings.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:attsavings.com",
+    "source": {
+      "list": "ATT",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "attspecial.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:attspecial.com",
+    "source": {
+      "list": "ATT",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "attssl.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:attssl.com",
+    "source": {
+      "list": "ATT",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "attstadium.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:attstadium.com",
+    "source": {
+      "list": "ATT",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "attsuppliers.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:attsuppliers.com",
+    "source": {
+      "list": "ATT",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "atttvnow.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:atttvnow.com",
+    "source": {
+      "list": "ATT",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "attuverseoffers.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:attuverseoffers.com",
+    "source": {
+      "list": "ATT",
+      "line": 37
+    }
+  },
+  {
+    "type": "domain",
+    "value": "attuverseonline.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:attuverseonline.com",
+    "source": {
+      "list": "ATT",
+      "line": 38
+    }
+  },
+  {
+    "type": "domain",
+    "value": "attvoip.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:attvoip.com",
+    "source": {
+      "list": "ATT",
+      "line": 39
+    }
+  },
+  {
+    "type": "domain",
+    "value": "attwifi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:attwifi.com",
+    "source": {
+      "list": "ATT",
+      "line": 40
+    }
+  },
+  {
+    "type": "domain",
+    "value": "attwirelessinternet.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:attwirelessinternet.com",
+    "source": {
+      "list": "ATT",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "attwirelessonline.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:attwirelessonline.com",
+    "source": {
+      "list": "ATT",
+      "line": 42
+    }
+  },
+  {
+    "type": "domain",
+    "value": "attwirelesssolutions.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:attwirelesssolutions.com",
+    "source": {
+      "list": "ATT",
+      "line": 43
+    }
+  },
+  {
+    "type": "domain",
+    "value": "audiencenetwork.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:audiencenetwork.com",
+    "source": {
+      "list": "ATT",
+      "line": 75
+    }
+  },
+  {
+    "type": "domain",
+    "value": "audiencenetwork.tv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:audiencenetwork.tv",
+    "source": {
+      "list": "ATT",
+      "line": 76
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bellsouth.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bellsouth.net",
+    "source": {
+      "list": "ATT",
+      "line": 44
+    }
+  },
+  {
+    "type": "domain",
+    "value": "budatt.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:budatt.com",
+    "source": {
+      "list": "ATT",
+      "line": 45
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cabletvdirectv.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cabletvdirectv.com",
+    "source": {
+      "list": "ATT",
+      "line": 77
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cobatt.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cobatt.com",
+    "source": {
+      "list": "ATT",
+      "line": 46
+    }
+  },
+  {
+    "type": "domain",
+    "value": "currently.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:currently.com",
+    "source": {
+      "list": "ATT",
+      "line": 47
+    }
+  },
+  {
+    "type": "domain",
+    "value": "currently.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:currently.net",
+    "source": {
+      "list": "ATT",
+      "line": 48
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dierectv.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dierectv.com",
+    "source": {
+      "list": "ATT",
+      "line": 78
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dirctv.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dirctv.com",
+    "source": {
+      "list": "ATT",
+      "line": 79
+    }
+  },
+  {
+    "type": "domain",
+    "value": "direcpath.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:direcpath.com",
+    "source": {
+      "list": "ATT",
+      "line": 80
+    }
+  },
+  {
+    "type": "domain",
+    "value": "direcpath.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:direcpath.net",
+    "source": {
+      "list": "ATT",
+      "line": 81
+    }
+  },
+  {
+    "type": "domain",
+    "value": "directtv-deals.tv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:directtv-deals.tv",
+    "source": {
+      "list": "ATT",
+      "line": 82
+    }
+  },
+  {
+    "type": "domain",
+    "value": "directtv-dish.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:directtv-dish.com",
+    "source": {
+      "list": "ATT",
+      "line": 83
+    }
+  },
+  {
+    "type": "domain",
+    "value": "directtv.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:directtv.net",
+    "source": {
+      "list": "ATT",
+      "line": 85
+    }
+  },
+  {
+    "type": "domain",
+    "value": "directtvdeals.tv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:directtvdeals.tv",
+    "source": {
+      "list": "ATT",
+      "line": 86
+    }
+  },
+  {
+    "type": "domain",
+    "value": "directtvreviews.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:directtvreviews.com",
+    "source": {
+      "list": "ATT",
+      "line": 87
+    }
+  },
+  {
+    "type": "domain",
+    "value": "directv-4-you.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:directv-4-you.com",
+    "source": {
+      "list": "ATT",
+      "line": 88
+    }
+  },
+  {
+    "type": "domain",
+    "value": "directv-newyork.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:directv-newyork.com",
+    "source": {
+      "list": "ATT",
+      "line": 89
+    }
+  },
+  {
+    "type": "domain",
+    "value": "directv.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:directv.com",
+    "source": {
+      "list": "ATT",
+      "line": 90
+    }
+  },
+  {
+    "type": "domain",
+    "value": "directvadsales.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:directvadsales.com",
+    "source": {
+      "list": "ATT",
+      "line": 91
+    }
+  },
+  {
+    "type": "domain",
+    "value": "directvatlantaga.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:directvatlantaga.com",
+    "source": {
+      "list": "ATT",
+      "line": 92
+    }
+  },
+  {
+    "type": "domain",
+    "value": "directvboston.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:directvboston.com",
+    "source": {
+      "list": "ATT",
+      "line": 93
+    }
+  },
+  {
+    "type": "domain",
+    "value": "directvbundles.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:directvbundles.com",
+    "source": {
+      "list": "ATT",
+      "line": 94
+    }
+  },
+  {
+    "type": "domain",
+    "value": "directvbusiness.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:directvbusiness.com",
+    "source": {
+      "list": "ATT",
+      "line": 95
+    }
+  },
+  {
+    "type": "domain",
+    "value": "directvbusinessmarket.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:directvbusinessmarket.com",
+    "source": {
+      "list": "ATT",
+      "line": 49
+    }
+  },
+  {
+    "type": "domain",
+    "value": "directvcincinnatioh.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:directvcincinnatioh.com",
+    "source": {
+      "list": "ATT",
+      "line": 96
+    }
+  },
+  {
+    "type": "domain",
+    "value": "directvcinema.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:directvcinema.com",
+    "source": {
+      "list": "ATT",
+      "line": 97
+    }
+  },
+  {
+    "type": "domain",
+    "value": "directvconnect.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:directvconnect.com",
+    "source": {
+      "list": "ATT",
+      "line": 98
+    }
+  },
+  {
+    "type": "domain",
+    "value": "directvcookevilletn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:directvcookevilletn.com",
+    "source": {
+      "list": "ATT",
+      "line": 99
+    }
+  },
+  {
+    "type": "domain",
+    "value": "directvcrossvilletn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:directvcrossvilletn.com",
+    "source": {
+      "list": "ATT",
+      "line": 100
+    }
+  },
+  {
+    "type": "domain",
+    "value": "directvdealer.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:directvdealer.com",
+    "source": {
+      "list": "ATT",
+      "line": 101
+    }
+  },
+  {
+    "type": "domain",
+    "value": "directvdeals.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:directvdeals.com",
+    "source": {
+      "list": "ATT",
+      "line": 102
+    }
+  },
+  {
+    "type": "domain",
+    "value": "directvdealsnow.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:directvdealsnow.com",
+    "source": {
+      "list": "ATT",
+      "line": 103
+    }
+  },
+  {
+    "type": "domain",
+    "value": "directvdsl.tv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:directvdsl.tv",
+    "source": {
+      "list": "ATT",
+      "line": 104
+    }
+  },
+  {
+    "type": "domain",
+    "value": "directvforhotels.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:directvforhotels.com",
+    "source": {
+      "list": "ATT",
+      "line": 105
+    }
+  },
+  {
+    "type": "domain",
+    "value": "directvgrandslam.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:directvgrandslam.com",
+    "source": {
+      "list": "ATT",
+      "line": 106
+    }
+  },
+  {
+    "type": "domain",
+    "value": "directvhouston.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:directvhouston.com",
+    "source": {
+      "list": "ATT",
+      "line": 107
+    }
+  },
+  {
+    "type": "domain",
+    "value": "directvinternet.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:directvinternet.com",
+    "source": {
+      "list": "ATT",
+      "line": 108
+    }
+  },
+  {
+    "type": "domain",
+    "value": "directvkentucky.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:directvkentucky.com",
+    "source": {
+      "list": "ATT",
+      "line": 109
+    }
+  },
+  {
+    "type": "domain",
+    "value": "directvlebanontn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:directvlebanontn.com",
+    "source": {
+      "list": "ATT",
+      "line": 110
+    }
+  },
+  {
+    "type": "domain",
+    "value": "directvlosangeles.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:directvlosangeles.com",
+    "source": {
+      "list": "ATT",
+      "line": 111
+    }
+  },
+  {
+    "type": "domain",
+    "value": "directvmetropolisil.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:directvmetropolisil.com",
+    "source": {
+      "list": "ATT",
+      "line": 112
+    }
+  },
+  {
+    "type": "domain",
+    "value": "directvmonitoring.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:directvmonitoring.com",
+    "source": {
+      "list": "ATT",
+      "line": 113
+    }
+  },
+  {
+    "type": "domain",
+    "value": "directvmurfreesborotn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:directvmurfreesborotn.com",
+    "source": {
+      "list": "ATT",
+      "line": 114
+    }
+  },
+  {
+    "type": "domain",
+    "value": "directvnewhampshire.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:directvnewhampshire.com",
+    "source": {
+      "list": "ATT",
+      "line": 115
+    }
+  },
+  {
+    "type": "domain",
+    "value": "directvnow.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:directvnow.com",
+    "source": {
+      "list": "ATT",
+      "line": 116
+    }
+  },
+  {
+    "type": "domain",
+    "value": "directvoffercodes.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:directvoffercodes.com",
+    "source": {
+      "list": "ATT",
+      "line": 117
+    }
+  },
+  {
+    "type": "domain",
+    "value": "directvonline.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:directvonline.com",
+    "source": {
+      "list": "ATT",
+      "line": 118
+    }
+  },
+  {
+    "type": "domain",
+    "value": "directvplans.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:directvplans.com",
+    "source": {
+      "list": "ATT",
+      "line": 119
+    }
+  },
+  {
+    "type": "domain",
+    "value": "directvpomise.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:directvpomise.com",
+    "source": {
+      "list": "ATT",
+      "line": 120
+    }
+  },
+  {
+    "type": "domain",
+    "value": "directvpromise.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:directvpromise.com",
+    "source": {
+      "list": "ATT",
+      "line": 121
+    }
+  },
+  {
+    "type": "domain",
+    "value": "directvpromotions.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:directvpromotions.com",
+    "source": {
+      "list": "ATT",
+      "line": 122
+    }
+  },
+  {
+    "type": "domain",
+    "value": "directvrebate.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:directvrebate.com",
+    "source": {
+      "list": "ATT",
+      "line": 123
+    }
+  },
+  {
+    "type": "domain",
+    "value": "directvrichmond.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:directvrichmond.com",
+    "source": {
+      "list": "ATT",
+      "line": 124
+    }
+  },
+  {
+    "type": "domain",
+    "value": "directvsavings.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:directvsavings.com",
+    "source": {
+      "list": "ATT",
+      "line": 125
+    }
+  },
+  {
+    "type": "domain",
+    "value": "directvsports.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:directvsports.com",
+    "source": {
+      "list": "ATT",
+      "line": 126
+    }
+  },
+  {
+    "type": "domain",
+    "value": "directvsundayticket.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:directvsundayticket.com",
+    "source": {
+      "list": "ATT",
+      "line": 127
+    }
+  },
+  {
+    "type": "domain",
+    "value": "direectv.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:direectv.com",
+    "source": {
+      "list": "ATT",
+      "line": 128
+    }
+  },
+  {
+    "type": "domain",
+    "value": "diretv.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:diretv.com",
+    "source": {
+      "list": "ATT",
+      "line": 129
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dkrecttv.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dkrecttv.com",
+    "source": {
+      "list": "ATT",
+      "line": 84
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dtv2009offers.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dtv2009offers.com",
+    "source": {
+      "list": "ATT",
+      "line": 130
+    }
+  },
+  {
+    "type": "domain",
+    "value": "enterprisepaging.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:enterprisepaging.com",
+    "source": {
+      "list": "ATT",
+      "line": 50
+    }
+  },
+  {
+    "type": "domain",
+    "value": "freedirecttvspecial.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:freedirecttvspecial.com",
+    "source": {
+      "list": "ATT",
+      "line": 131
+    }
+  },
+  {
+    "type": "domain",
+    "value": "getdirect.tv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:getdirect.tv",
+    "source": {
+      "list": "ATT",
+      "line": 132
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hddirectv.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hddirectv.com",
+    "source": {
+      "list": "ATT",
+      "line": 133
+    }
+  },
+  {
+    "type": "domain",
+    "value": "itcanwait.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:itcanwait.com",
+    "source": {
+      "list": "ATT",
+      "line": 51
+    }
+  },
+  {
+    "type": "domain",
+    "value": "le-direct.tv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:le-direct.tv",
+    "source": {
+      "list": "ATT",
+      "line": 134
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mydirectgroove.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mydirectgroove.com",
+    "source": {
+      "list": "ATT",
+      "line": 135
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mydirectvchannels.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mydirectvchannels.com",
+    "source": {
+      "list": "ATT",
+      "line": 136
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mymmode.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mymmode.com",
+    "source": {
+      "list": "ATT",
+      "line": 52
+    }
+  },
+  {
+    "type": "domain",
+    "value": "na-att-idns.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:na-att-idns.net",
+    "source": {
+      "list": "ATT",
+      "line": 72
+    }
+  },
+  {
+    "type": "domain",
+    "value": "naturalvoices.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:naturalvoices.com",
+    "source": {
+      "list": "ATT",
+      "line": 53
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nettyinternet.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nettyinternet.com",
+    "source": {
+      "list": "ATT",
+      "line": 54
+    }
+  },
+  {
+    "type": "domain",
+    "value": "openapiplatform.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:openapiplatform.com",
+    "source": {
+      "list": "ATT",
+      "line": 55
+    }
+  },
+  {
+    "type": "domain",
+    "value": "openapiservice.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:openapiservice.com",
+    "source": {
+      "list": "ATT",
+      "line": 56
+    }
+  },
+  {
+    "type": "domain",
+    "value": "patentgold.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:patentgold.net",
+    "source": {
+      "list": "ATT",
+      "line": 57
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paygonline.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paygonline.com",
+    "source": {
+      "list": "ATT",
+      "line": 58
+    }
+  },
+  {
+    "type": "domain",
+    "value": "raponlinereview.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:raponlinereview.com",
+    "source": {
+      "list": "ATT",
+      "line": 59
+    }
+  },
+  {
+    "type": "domain",
+    "value": "redzonechannel.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:redzonechannel.com",
+    "source": {
+      "list": "ATT",
+      "line": 137
+    }
+  },
+  {
+    "type": "domain",
+    "value": "signalbar.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:signalbar.com",
+    "source": {
+      "list": "ATT",
+      "line": 60
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sundayready.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sundayready.com",
+    "source": {
+      "list": "ATT",
+      "line": 61
+    }
+  },
+  {
+    "type": "domain",
+    "value": "synaptic.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:synaptic.net",
+    "source": {
+      "list": "ATT",
+      "line": 62
+    }
+  },
+  {
+    "type": "domain",
+    "value": "thanksloyalty.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:thanksloyalty.com",
+    "source": {
+      "list": "ATT",
+      "line": 63
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tvpromise.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tvpromise.com",
+    "source": {
+      "list": "ATT",
+      "line": 64
+    }
+  },
+  {
+    "type": "domain",
+    "value": "txdirectv.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:txdirectv.com",
+    "source": {
+      "list": "ATT",
+      "line": 138
+    }
+  },
+  {
+    "type": "domain",
+    "value": "uverse.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:uverse.com",
+    "source": {
+      "list": "ATT",
+      "line": 65
+    }
+  },
+  {
+    "type": "domain",
+    "value": "webhosting.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:webhosting.com",
+    "source": {
+      "list": "ATT",
+      "line": 66
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xandr.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xandr.com",
+    "source": {
+      "list": "ATT",
+      "line": 141
+    }
+  }
+]

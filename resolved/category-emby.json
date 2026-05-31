@@ -1,0 +1,904 @@
+[
+  {
+    "type": "domain",
+    "value": "123456.al",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:123456.al",
+    "source": {
+      "list": "CATEGORY-EMBY",
+      "line": 38
+    }
+  },
+  {
+    "type": "domain",
+    "value": "404.sb",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:404.sb",
+    "source": {
+      "list": "CATEGORY-EMBY",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "4545.cf",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:4545.cf",
+    "source": {
+      "list": "CATEGORY-EMBY",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "blueseacdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:blueseacdn.com",
+    "source": {
+      "list": "CATEGORY-EMBY",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cn-music.mefun.vip",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cn-music.mefun.vip",
+    "source": {
+      "list": "CATEGORY-EMBY",
+      "line": 181
+    }
+  },
+  {
+    "type": "domain",
+    "value": "emby.ml",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:emby.ml",
+    "source": {
+      "list": "CATEGORY-EMBY",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "emby1.69yun69.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:emby1.69yun69.com",
+    "source": {
+      "list": "CATEGORY-EMBY",
+      "line": 187
+    }
+  },
+  {
+    "type": "domain",
+    "value": "embyplus.club",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:embyplus.club",
+    "source": {
+      "list": "CATEGORY-EMBY",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "feverss.cloud",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:feverss.cloud",
+    "source": {
+      "list": "CATEGORY-EMBY",
+      "line": 170
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gfwemby.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gfwemby.org",
+    "source": {
+      "list": "CATEGORY-EMBY",
+      "line": 158
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hongxingyunmovie.vip",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hongxingyunmovie.vip",
+    "source": {
+      "list": "CATEGORY-EMBY",
+      "line": 184
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ju.dog",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ju.dog",
+    "source": {
+      "list": "CATEGORY-EMBY",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "loseremby.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:loseremby.org",
+    "source": {
+      "list": "CATEGORY-EMBY",
+      "line": 161
+    }
+  },
+  {
+    "type": "domain",
+    "value": "media-1.co.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:media-1.co.uk",
+    "source": {
+      "list": "CATEGORY-EMBY",
+      "line": 176
+    }
+  },
+  {
+    "type": "domain",
+    "value": "misakaf.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:misakaf.org",
+    "source": {
+      "list": "CATEGORY-EMBY",
+      "line": 155
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mius.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mius.uk",
+    "source": {
+      "list": "CATEGORY-EMBY",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nebula-emby.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nebula-emby.com",
+    "source": {
+      "list": "CATEGORY-EMBY",
+      "line": 167
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nvidia.rip",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nvidia.rip",
+    "source": {
+      "list": "CATEGORY-EMBY",
+      "line": 173
+    }
+  },
+  {
+    "type": "domain",
+    "value": "plex.direct",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:plex.direct",
+    "source": {
+      "list": "CATEGORY-EMBY",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "poloemby.xyz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:poloemby.xyz",
+    "source": {
+      "list": "CATEGORY-EMBY",
+      "line": 151
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pololine.ml",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pololine.ml",
+    "source": {
+      "list": "CATEGORY-EMBY",
+      "line": 152
+    }
+  },
+  {
+    "type": "domain",
+    "value": "server2.cn2gias.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:server2.cn2gias.uk",
+    "source": {
+      "list": "CATEGORY-EMBY",
+      "line": 193
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sfcj.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sfcj.org",
+    "source": {
+      "list": "CATEGORY-EMBY",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sgtv.ii00.cc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sgtv.ii00.cc",
+    "source": {
+      "list": "CATEGORY-EMBY",
+      "line": 180
+    }
+  },
+  {
+    "type": "domain",
+    "value": "singularity.deja-vu.beauty",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:singularity.deja-vu.beauty",
+    "source": {
+      "list": "CATEGORY-EMBY",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sptv.ii00.cc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sptv.ii00.cc",
+    "source": {
+      "list": "CATEGORY-EMBY",
+      "line": 179
+    }
+  },
+  {
+    "type": "domain",
+    "value": "stream.ntrrr.top",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:stream.ntrrr.top",
+    "source": {
+      "list": "CATEGORY-EMBY",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "stream.synn.cc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:stream.synn.cc",
+    "source": {
+      "list": "CATEGORY-EMBY",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "texon.fans",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:texon.fans",
+    "source": {
+      "list": "CATEGORY-EMBY",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yunti.online",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yunti.online",
+    "source": {
+      "list": "CATEGORY-EMBY",
+      "line": 190
+    }
+  },
+  {
+    "type": "full",
+    "value": "agahk.odysseyplus.site",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:agahk.odysseyplus.site",
+    "source": {
+      "list": "CATEGORY-EMBY",
+      "line": 99
+    }
+  },
+  {
+    "type": "full",
+    "value": "agahk1.jmsooo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:agahk1.jmsooo.com",
+    "source": {
+      "list": "CATEGORY-EMBY",
+      "line": 83
+    }
+  },
+  {
+    "type": "full",
+    "value": "agajp1.jmsooo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:agajp1.jmsooo.com",
+    "source": {
+      "list": "CATEGORY-EMBY",
+      "line": 85
+    }
+  },
+  {
+    "type": "full",
+    "value": "agasg.odysseyplus.site",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:agasg.odysseyplus.site",
+    "source": {
+      "list": "CATEGORY-EMBY",
+      "line": 100
+    }
+  },
+  {
+    "type": "full",
+    "value": "agasg1.jmsooo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:agasg1.jmsooo.com",
+    "source": {
+      "list": "CATEGORY-EMBY",
+      "line": 84
+    }
+  },
+  {
+    "type": "full",
+    "value": "aws.jmsooo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:aws.jmsooo.com",
+    "source": {
+      "list": "CATEGORY-EMBY",
+      "line": 86
+    }
+  },
+  {
+    "type": "full",
+    "value": "az-hk.embyclub.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:az-hk.embyclub.com",
+    "source": {
+      "list": "CATEGORY-EMBY",
+      "line": 138
+    }
+  },
+  {
+    "type": "full",
+    "value": "azsgp.embyclub.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:azsgp.embyclub.com",
+    "source": {
+      "list": "CATEGORY-EMBY",
+      "line": 139
+    }
+  },
+  {
+    "type": "full",
+    "value": "cc.ccemby.tk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cc.ccemby.tk",
+    "source": {
+      "list": "CATEGORY-EMBY",
+      "line": 164
+    }
+  },
+  {
+    "type": "full",
+    "value": "cf.jmsooo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cf.jmsooo.com",
+    "source": {
+      "list": "CATEGORY-EMBY",
+      "line": 123
+    }
+  },
+  {
+    "type": "full",
+    "value": "cf.odysseyplus.site",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cf.odysseyplus.site",
+    "source": {
+      "list": "CATEGORY-EMBY",
+      "line": 98
+    }
+  },
+  {
+    "type": "full",
+    "value": "cf1.jmsooo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cf1.jmsooo.com",
+    "source": {
+      "list": "CATEGORY-EMBY",
+      "line": 89
+    }
+  },
+  {
+    "type": "full",
+    "value": "emby-cf.plusmedia.site",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:emby-cf.plusmedia.site",
+    "source": {
+      "list": "CATEGORY-EMBY",
+      "line": 112
+    }
+  },
+  {
+    "type": "full",
+    "value": "emby-sg.plusmedia.site",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:emby-sg.plusmedia.site",
+    "source": {
+      "list": "CATEGORY-EMBY",
+      "line": 111
+    }
+  },
+  {
+    "type": "full",
+    "value": "emby.aiyowei.ml",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:emby.aiyowei.ml",
+    "source": {
+      "list": "CATEGORY-EMBY",
+      "line": 148
+    }
+  },
+  {
+    "type": "full",
+    "value": "emby.cjpc.cc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:emby.cjpc.cc",
+    "source": {
+      "list": "CATEGORY-EMBY",
+      "line": 47
+    }
+  },
+  {
+    "type": "full",
+    "value": "emby.flowercloud.yt",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:emby.flowercloud.yt",
+    "source": {
+      "list": "CATEGORY-EMBY",
+      "line": 50
+    }
+  },
+  {
+    "type": "full",
+    "value": "emby.immtel.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:emby.immtel.com",
+    "source": {
+      "list": "CATEGORY-EMBY",
+      "line": 95
+    }
+  },
+  {
+    "type": "full",
+    "value": "emby.maying.club",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:emby.maying.club",
+    "source": {
+      "list": "CATEGORY-EMBY",
+      "line": 53
+    }
+  },
+  {
+    "type": "full",
+    "value": "emby.mdss.cloud",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:emby.mdss.cloud",
+    "source": {
+      "list": "CATEGORY-EMBY",
+      "line": 56
+    }
+  },
+  {
+    "type": "full",
+    "value": "emby.nexitally.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:emby.nexitally.com",
+    "source": {
+      "list": "CATEGORY-EMBY",
+      "line": 44
+    }
+  },
+  {
+    "type": "full",
+    "value": "emby.nyancat.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:emby.nyancat.net",
+    "source": {
+      "list": "CATEGORY-EMBY",
+      "line": 68
+    }
+  },
+  {
+    "type": "full",
+    "value": "emby.otakudrive.life",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:emby.otakudrive.life",
+    "source": {
+      "list": "CATEGORY-EMBY",
+      "line": 79
+    }
+  },
+  {
+    "type": "full",
+    "value": "emby.p-p.men",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:emby.p-p.men",
+    "source": {
+      "list": "CATEGORY-EMBY",
+      "line": 145
+    }
+  },
+  {
+    "type": "full",
+    "value": "emby.plusmedia.site",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:emby.plusmedia.site",
+    "source": {
+      "list": "CATEGORY-EMBY",
+      "line": 110
+    }
+  },
+  {
+    "type": "full",
+    "value": "emby.prprcloud.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:emby.prprcloud.com",
+    "source": {
+      "list": "CATEGORY-EMBY",
+      "line": 65
+    }
+  },
+  {
+    "type": "full",
+    "value": "emby.run",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:emby.run",
+    "source": {
+      "list": "CATEGORY-EMBY",
+      "line": 107
+    }
+  },
+  {
+    "type": "full",
+    "value": "emby.wtf",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:emby.wtf",
+    "source": {
+      "list": "CATEGORY-EMBY",
+      "line": 128
+    }
+  },
+  {
+    "type": "full",
+    "value": "emby.xeton.dev",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:emby.xeton.dev",
+    "source": {
+      "list": "CATEGORY-EMBY",
+      "line": 113
+    }
+  },
+  {
+    "type": "full",
+    "value": "emby.ytoo.li",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:emby.ytoo.li",
+    "source": {
+      "list": "CATEGORY-EMBY",
+      "line": 59
+    }
+  },
+  {
+    "type": "full",
+    "value": "emby2.otakudrive.life",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:emby2.otakudrive.life",
+    "source": {
+      "list": "CATEGORY-EMBY",
+      "line": 80
+    }
+  },
+  {
+    "type": "full",
+    "value": "embyclub.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:embyclub.com",
+    "source": {
+      "list": "CATEGORY-EMBY",
+      "line": 137
+    }
+  },
+  {
+    "type": "full",
+    "value": "embyserver.ga",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:embyserver.ga",
+    "source": {
+      "list": "CATEGORY-EMBY",
+      "line": 119
+    }
+  },
+  {
+    "type": "full",
+    "value": "hinet.jmsooo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:hinet.jmsooo.com",
+    "source": {
+      "list": "CATEGORY-EMBY",
+      "line": 88
+    }
+  },
+  {
+    "type": "full",
+    "value": "hk.jmsooo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:hk.jmsooo.com",
+    "source": {
+      "list": "CATEGORY-EMBY",
+      "line": 124
+    }
+  },
+  {
+    "type": "full",
+    "value": "jellyfin.xeton.dev",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:jellyfin.xeton.dev",
+    "source": {
+      "list": "CATEGORY-EMBY",
+      "line": 114
+    }
+  },
+  {
+    "type": "full",
+    "value": "jmsooo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:jmsooo.com",
+    "source": {
+      "list": "CATEGORY-EMBY",
+      "line": 122
+    }
+  },
+  {
+    "type": "full",
+    "value": "line.emby.men",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:line.emby.men",
+    "source": {
+      "list": "CATEGORY-EMBY",
+      "line": 104
+    }
+  },
+  {
+    "type": "full",
+    "value": "movie.xeton.dev",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:movie.xeton.dev",
+    "source": {
+      "list": "CATEGORY-EMBY",
+      "line": 115
+    }
+  },
+  {
+    "type": "full",
+    "value": "ntt1.jmsooo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:ntt1.jmsooo.com",
+    "source": {
+      "list": "CATEGORY-EMBY",
+      "line": 87
+    }
+  },
+  {
+    "type": "full",
+    "value": "play.charontv.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:play.charontv.com",
+    "source": {
+      "list": "CATEGORY-EMBY",
+      "line": 142
+    }
+  },
+  {
+    "type": "full",
+    "value": "plex.llon.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:plex.llon.net",
+    "source": {
+      "list": "CATEGORY-EMBY",
+      "line": 29
+    }
+  },
+  {
+    "type": "full",
+    "value": "pornemby.club",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:pornemby.club",
+    "source": {
+      "list": "CATEGORY-EMBY",
+      "line": 92
+    }
+  },
+  {
+    "type": "full",
+    "value": "pub1.emby.wtf",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:pub1.emby.wtf",
+    "source": {
+      "list": "CATEGORY-EMBY",
+      "line": 132
+    }
+  },
+  {
+    "type": "full",
+    "value": "pub1back.emby.wtf",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:pub1back.emby.wtf",
+    "source": {
+      "list": "CATEGORY-EMBY",
+      "line": 129
+    }
+  },
+  {
+    "type": "full",
+    "value": "pub2.emby.wtf",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:pub2.emby.wtf",
+    "source": {
+      "list": "CATEGORY-EMBY",
+      "line": 133
+    }
+  },
+  {
+    "type": "full",
+    "value": "pub2back.emby.wtf",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:pub2back.emby.wtf",
+    "source": {
+      "list": "CATEGORY-EMBY",
+      "line": 130
+    }
+  },
+  {
+    "type": "full",
+    "value": "pub3.emby.wtf",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:pub3.emby.wtf",
+    "source": {
+      "list": "CATEGORY-EMBY",
+      "line": 134
+    }
+  },
+  {
+    "type": "full",
+    "value": "pub3back.emby.wtf",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:pub3back.emby.wtf",
+    "source": {
+      "list": "CATEGORY-EMBY",
+      "line": 131
+    }
+  },
+  {
+    "type": "full",
+    "value": "ru.odysseyplus.site",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:ru.odysseyplus.site",
+    "source": {
+      "list": "CATEGORY-EMBY",
+      "line": 101
+    }
+  },
+  {
+    "type": "full",
+    "value": "servers.xeton.dev",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:servers.xeton.dev",
+    "source": {
+      "list": "CATEGORY-EMBY",
+      "line": 116
+    }
+  },
+  {
+    "type": "full",
+    "value": "sg.jmsooo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:sg.jmsooo.com",
+    "source": {
+      "list": "CATEGORY-EMBY",
+      "line": 125
+    }
+  }
+]

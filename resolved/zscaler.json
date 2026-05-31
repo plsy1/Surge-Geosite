@@ -1,0 +1,189 @@
+[
+  {
+    "type": "domain",
+    "value": "securecloudtransformation.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:securecloudtransformation.com",
+    "source": {
+      "list": "ZSCALER",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "securitypreview.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:securitypreview.com",
+    "source": {
+      "list": "ZSCALER",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "threatlabz.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:threatlabz.com",
+    "source": {
+      "list": "ZSCALER",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zdxbeta.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zdxbeta.net",
+    "source": {
+      "list": "ZSCALER",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zdxcloud.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zdxcloud.net",
+    "source": {
+      "list": "ZSCALER",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zpagov.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zpagov.net",
+    "source": {
+      "list": "ZSCALER",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zpath.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zpath.com",
+    "source": {
+      "list": "ZSCALER",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zscaler.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zscaler.com",
+    "source": {
+      "list": "ZSCALER",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zscaler.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zscaler.jp",
+    "source": {
+      "list": "ZSCALER",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zscaler.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zscaler.net",
+    "source": {
+      "list": "ZSCALER",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zscalerbeta.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zscalerbeta.net",
+    "source": {
+      "list": "ZSCALER",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zscalergov.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zscalergov.net",
+    "source": {
+      "list": "ZSCALER",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zscalerone.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zscalerone.net",
+    "source": {
+      "list": "ZSCALER",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zscalershift.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zscalershift.com",
+    "source": {
+      "list": "ZSCALER",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zscalerthree.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zscalerthree.net",
+    "source": {
+      "list": "ZSCALER",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zscalertwo.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zscalertwo.net",
+    "source": {
+      "list": "ZSCALER",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zscloud.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zscloud.net",
+    "source": {
+      "list": "ZSCALER",
+      "line": 18
+    }
+  }
+]

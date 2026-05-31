@@ -1,0 +1,103 @@
+[
+  {
+    "type": "domain",
+    "value": "stargazer-games.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:stargazer-games.com",
+    "source": {
+      "list": "YOSTAR",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "stellasora.global",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:stellasora.global",
+    "source": {
+      "list": "YOSTAR",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "stellasora.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:stellasora.jp",
+    "source": {
+      "list": "YOSTAR",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yo-star.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yo-star.com",
+    "source": {
+      "list": "YOSTAR",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yostar-pictures.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yostar-pictures.co.jp",
+    "source": {
+      "list": "YOSTAR",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yostar.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:yostar.cn:@cn",
+    "source": {
+      "list": "YOSTAR",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yostar.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yostar.co.jp",
+    "source": {
+      "list": "YOSTAR",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yostar.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yostar.net",
+    "source": {
+      "list": "YOSTAR",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yostarplat.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yostarplat.com",
+    "source": {
+      "list": "YOSTAR",
+      "line": 6
+    }
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "type": "domain",
+    "value": "jwpcdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jwpcdn.com",
+    "source": {
+      "list": "JWPLAYER",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jwplatform.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jwplatform.com",
+    "source": {
+      "list": "JWPLAYER",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jwplayer.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jwplayer.com",
+    "source": {
+      "list": "JWPLAYER",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jwpltx.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jwpltx.com",
+    "source": {
+      "list": "JWPLAYER",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jwpsrv.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jwpsrv.com",
+    "source": {
+      "list": "JWPLAYER",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "longtailvideo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:longtailvideo.com",
+    "source": {
+      "list": "JWPLAYER",
+      "line": 6
+    }
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "type": "domain",
+    "value": "fastly-edge.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fastly-edge.com",
+    "source": {
+      "list": "FASTLY",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fastly-terrarium.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fastly-terrarium.com",
+    "source": {
+      "list": "FASTLY",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fastly.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fastly.com",
+    "source": {
+      "list": "FASTLY",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fastly.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fastly.io",
+    "source": {
+      "list": "FASTLY",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fastly.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fastly.net",
+    "source": {
+      "list": "FASTLY",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fastlylabs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fastlylabs.com",
+    "source": {
+      "list": "FASTLY",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fastlylb.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fastlylb.net",
+    "source": {
+      "list": "FASTLY",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zencdn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zencdn.net",
+    "source": {
+      "list": "FASTLY",
+      "line": 10
+    }
+  }
+]

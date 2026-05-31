@@ -1,0 +1,70 @@
+[
+  {
+    "type": "domain",
+    "value": "iqoo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:iqoo.com",
+    "source": {
+      "list": "VIVO",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vivo.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vivo.cn",
+    "source": {
+      "list": "VIVO",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vivo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vivo.com",
+    "source": {
+      "list": "VIVO",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vivo.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vivo.com.cn",
+    "source": {
+      "list": "VIVO",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vivoglobal.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:vivoglobal.com:@!cn",
+    "source": {
+      "list": "VIVO",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vvstc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vvstc.com",
+    "source": {
+      "list": "VIVO",
+      "line": 6
+    }
+  }
+]

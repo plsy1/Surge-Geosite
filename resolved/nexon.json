@@ -1,0 +1,46 @@
+[
+  {
+    "type": "domain",
+    "value": "nexon.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nexon.co.jp",
+    "source": {
+      "list": "NEXON",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nexon.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nexon.com",
+    "source": {
+      "list": "NEXON",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nexon.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nexon.io",
+    "source": {
+      "list": "NEXON",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nexoncdn.co.kr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nexoncdn.co.kr",
+    "source": {
+      "list": "NEXON",
+      "line": 4
+    }
+  }
+]

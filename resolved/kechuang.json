@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "kechuang.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kechuang.org",
+    "source": {
+      "list": "KECHUANG",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kexinshe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kexinshe.com",
+    "source": {
+      "list": "KECHUANG",
+      "line": 2
+    }
+  }
+]

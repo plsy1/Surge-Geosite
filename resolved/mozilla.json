@@ -1,0 +1,296 @@
+[
+  {
+    "type": "domain",
+    "value": "bugzilla.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bugzilla.org",
+    "source": {
+      "list": "MOZILLA",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "developer.allizom.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:developer.allizom.org",
+    "source": {
+      "list": "MDN",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "extensionworkshop.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:extensionworkshop.com",
+    "source": {
+      "list": "MOZILLA",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "firefox.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:firefox.com",
+    "source": {
+      "list": "FIREFOX",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "firefoxusercontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:firefoxusercontent.com",
+    "source": {
+      "list": "FIREFOX",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "getpocket.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:getpocket.com",
+    "source": {
+      "list": "MOZILLA",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mdn.allizom.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mdn.allizom.net",
+    "source": {
+      "list": "MDN",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mdn.dev",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mdn.dev",
+    "source": {
+      "list": "MDN",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mdn.mozit.cloud",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mdn.mozit.cloud",
+    "source": {
+      "list": "MDN",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mdnplay.dev",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mdnplay.dev",
+    "source": {
+      "list": "MDN",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mdnyalp.dev",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mdnyalp.dev",
+    "source": {
+      "list": "MDN",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mozgcp.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mozgcp.net",
+    "source": {
+      "list": "MOZILLA",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mozilla.ai",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mozilla.ai",
+    "source": {
+      "list": "MOZILLA",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mozilla.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mozilla.com",
+    "source": {
+      "list": "MOZILLA",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mozilla.community",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mozilla.community",
+    "source": {
+      "list": "MOZILLA",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mozilla.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mozilla.net",
+    "source": {
+      "list": "MOZILLA",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mozilla.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mozilla.org",
+    "source": {
+      "list": "MOZILLA",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mozillafoundation.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mozillafoundation.org",
+    "source": {
+      "list": "MOZILLA",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mzl.la",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mzl.la",
+    "source": {
+      "list": "MOZILLA",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "seamonkey-project.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:seamonkey-project.org",
+    "source": {
+      "list": "MOZILLA",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "thunderbird.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:thunderbird.net",
+    "source": {
+      "list": "MOZILLA",
+      "line": 16
+    }
+  },
+  {
+    "type": "full",
+    "value": "ads-img.mozilla.org",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:ads-img.mozilla.org:@ads",
+    "source": {
+      "list": "MOZILLA",
+      "line": 19
+    }
+  },
+  {
+    "type": "full",
+    "value": "ads.mozilla.org",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:ads.mozilla.org:@ads",
+    "source": {
+      "list": "MOZILLA",
+      "line": 20
+    }
+  },
+  {
+    "type": "full",
+    "value": "incoming-telemetry.thunderbird.net",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:incoming-telemetry.thunderbird.net:@ads",
+    "source": {
+      "list": "MOZILLA",
+      "line": 22
+    }
+  },
+  {
+    "type": "full",
+    "value": "incoming.telemetry.mozilla.org",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:incoming.telemetry.mozilla.org:@ads",
+    "source": {
+      "list": "MOZILLA",
+      "line": 21
+    }
+  },
+  {
+    "type": "full",
+    "value": "mdn.mozillademos.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:mdn.mozillademos.org",
+    "source": {
+      "list": "MDN",
+      "line": 10
+    }
+  }
+]

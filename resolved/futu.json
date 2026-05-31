@@ -1,0 +1,142 @@
+[
+  {
+    "type": "domain",
+    "value": "futuesop.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:futuesop.com:@cn",
+    "source": {
+      "list": "FUTU",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "futufin.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:futufin.com",
+    "source": {
+      "list": "FUTU",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "futuhk.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:futuhk.com",
+    "source": {
+      "list": "FUTU",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "futuhkapp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:futuhkapp.com",
+    "source": {
+      "list": "FUTU",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "futuhn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:futuhn.com",
+    "source": {
+      "list": "FUTU",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "futuholdings.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:futuholdings.com",
+    "source": {
+      "list": "FUTU",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "futuniuniu.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:futuniuniu.com:@cn",
+    "source": {
+      "list": "FUTU",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "futunn.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:futunn.com:@cn",
+    "source": {
+      "list": "FUTU",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "futustatic.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:futustatic.com:@cn",
+    "source": {
+      "list": "FUTU",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "moomoo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:moomoo.com",
+    "source": {
+      "list": "FUTU",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "moomooequity.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:moomooequity.com",
+    "source": {
+      "list": "FUTU",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "moomootrustee.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:moomootrustee.com",
+    "source": {
+      "list": "FUTU",
+      "line": 15
+    }
+  }
+]

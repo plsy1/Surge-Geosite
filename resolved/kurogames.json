@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "aki-game.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aki-game.com",
+    "source": {
+      "list": "KUROGAMES",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kurogames.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kurogames.com",
+    "source": {
+      "list": "KUROGAMES",
+      "line": 1
+    }
+  }
+]

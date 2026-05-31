@@ -1,0 +1,90 @@
+[
+  {
+    "type": "domain",
+    "value": "nico",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nico",
+    "source": {
+      "list": "NICONICO",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nicodic.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nicodic.jp",
+    "source": {
+      "list": "NICONICO",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nicomanga.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nicomanga.jp",
+    "source": {
+      "list": "NICONICO",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "niconico.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:niconico.com",
+    "source": {
+      "list": "NICONICO",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nicoseiga.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nicoseiga.jp",
+    "source": {
+      "list": "NICONICO",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nicovideo.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nicovideo.jp",
+    "source": {
+      "list": "NICONICO",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nimg.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nimg.jp",
+    "source": {
+      "list": "NICONICO",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "simg.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:simg.jp",
+    "source": {
+      "list": "NICONICO",
+      "line": 10
+    }
+  }
+]

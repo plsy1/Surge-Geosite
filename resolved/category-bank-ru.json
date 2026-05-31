@@ -1,0 +1,3375 @@
+[
+  {
+    "type": "domain",
+    "value": "21-school.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:21-school.ru",
+    "source": {
+      "list": "SBER",
+      "line": 59
+    }
+  },
+  {
+    "type": "domain",
+    "value": "2gis.ae",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:2gis.ae",
+    "source": {
+      "list": "2GIS",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "2gis.am",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:2gis.am",
+    "source": {
+      "list": "2GIS",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "2gis.az",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:2gis.az",
+    "source": {
+      "list": "2GIS",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "2gis.by",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:2gis.by",
+    "source": {
+      "list": "2GIS",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "2gis.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:2gis.com",
+    "source": {
+      "list": "2GIS",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "2gis.com.cy",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:2gis.com.cy",
+    "source": {
+      "list": "2GIS",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "2gis.cz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:2gis.cz",
+    "source": {
+      "list": "2GIS",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "2gis.ge",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:2gis.ge",
+    "source": {
+      "list": "2GIS",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "2gis.kg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:2gis.kg",
+    "source": {
+      "list": "2GIS",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "2gis.kz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:2gis.kz",
+    "source": {
+      "list": "2GIS",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "2gis.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:2gis.ru",
+    "source": {
+      "list": "2GIS",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "2gis.tech",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:2gis.tech",
+    "source": {
+      "list": "2GIS",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "2gis.tj",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:2gis.tj",
+    "source": {
+      "list": "2GIS",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "2gis.uz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:2gis.uz",
+    "source": {
+      "list": "2GIS",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "2w.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:2w.ru",
+    "source": {
+      "list": "TBANK-RU",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "4c.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:4c.ru",
+    "source": {
+      "list": "TBANK-RU",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "4epenaxa.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:4epenaxa.com",
+    "source": {
+      "list": "TBANK-RU",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "abr.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:abr.ru",
+    "source": {
+      "list": "CATEGORY-BANK-RU",
+      "line": 56
+    }
+  },
+  {
+    "type": "domain",
+    "value": "absolutbank.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:absolutbank.ru",
+    "source": {
+      "list": "CATEGORY-BANK-RU",
+      "line": 92
+    }
+  },
+  {
+    "type": "domain",
+    "value": "accesspoint.uz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:accesspoint.uz",
+    "source": {
+      "list": "SBER",
+      "line": 114
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ads.sber.ru",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:ads.sber.ru:@ads",
+    "source": {
+      "list": "SBER",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "afisha.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:afisha.ru",
+    "source": {
+      "list": "SBER",
+      "line": 45
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akbars.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akbars.ru",
+    "source": {
+      "list": "CATEGORY-BANK-RU",
+      "line": 93
+    }
+  },
+  {
+    "type": "domain",
+    "value": "alefbank.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:alefbank.com",
+    "source": {
+      "list": "CATEGORY-BANK-RU",
+      "line": 94
+    }
+  },
+  {
+    "type": "domain",
+    "value": "alfa.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:alfa.me",
+    "source": {
+      "list": "CATEGORY-BANK-RU",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "alfabank.oavdo.amc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:alfabank.oavdo.amc",
+    "source": {
+      "list": "CATEGORY-BANK-RU",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "alfabank.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:alfabank.ru",
+    "source": {
+      "list": "CATEGORY-BANK-RU",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "alfabank.st",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:alfabank.st",
+    "source": {
+      "list": "CATEGORY-BANK-RU",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "alfadirect.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:alfadirect.ru",
+    "source": {
+      "list": "CATEGORY-BANK-RU",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ankb.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ankb.ru",
+    "source": {
+      "list": "CATEGORY-BANK-RU",
+      "line": 95
+    }
+  },
+  {
+    "type": "domain",
+    "value": "asia-pay.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:asia-pay.ru",
+    "source": {
+      "list": "CATEGORY-BANK-RU",
+      "line": 96
+    }
+  },
+  {
+    "type": "domain",
+    "value": "atb.su",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:atb.su",
+    "source": {
+      "list": "CATEGORY-BANK-RU",
+      "line": 97
+    }
+  },
+  {
+    "type": "domain",
+    "value": "atomyze.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:atomyze.ru",
+    "source": {
+      "list": "TBANK-RU",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "atomyze.tech",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:atomyze.tech",
+    "source": {
+      "list": "TBANK-RU",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "autokreditbank.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:autokreditbank.ru",
+    "source": {
+      "list": "CATEGORY-BANK-RU",
+      "line": 98
+    }
+  },
+  {
+    "type": "domain",
+    "value": "avangard.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:avangard.ru",
+    "source": {
+      "list": "CATEGORY-BANK-RU",
+      "line": 99
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aversbank.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aversbank.ru",
+    "source": {
+      "list": "CATEGORY-BANK-RU",
+      "line": 100
+    }
+  },
+  {
+    "type": "domain",
+    "value": "babki.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:babki.ru",
+    "source": {
+      "list": "TBANK-RU",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bank-arzamas.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bank-arzamas.ru",
+    "source": {
+      "list": "CATEGORY-BANK-RU",
+      "line": 101
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bank-credit-suisse-moscow.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bank-credit-suisse-moscow.ru",
+    "source": {
+      "list": "CATEGORY-BANK-RU",
+      "line": 102
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bank131.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bank131.com",
+    "source": {
+      "list": "CATEGORY-BANK-RU",
+      "line": 103
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bankermak.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bankermak.ru",
+    "source": {
+      "list": "CATEGORY-BANK-RU",
+      "line": 104
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bankline.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bankline.ru",
+    "source": {
+      "list": "TBANK-RU",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bbr.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bbr.ru",
+    "source": {
+      "list": "CATEGORY-BANK-RU",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bcs-bank.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bcs-bank.ru",
+    "source": {
+      "list": "CATEGORY-BANK-RU",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bcs.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bcs.ru",
+    "source": {
+      "list": "CATEGORY-BANK-RU",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bfa.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bfa.ru",
+    "source": {
+      "list": "CATEGORY-BANK-RU",
+      "line": 105
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bm-bank.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bm-bank.ru",
+    "source": {
+      "list": "CATEGORY-BANK-RU",
+      "line": 106
+    }
+  },
+  {
+    "type": "domain",
+    "value": "booking-tec.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:booking-tec.ru",
+    "source": {
+      "list": "TBANK-RU",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bps-sberbank.by",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bps-sberbank.by",
+    "source": {
+      "list": "SBER",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "broker.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:broker.ru",
+    "source": {
+      "list": "CATEGORY-BANK-RU",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bspb.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bspb.ru",
+    "source": {
+      "list": "CATEGORY-BANK-RU",
+      "line": 107
+    }
+  },
+  {
+    "type": "domain",
+    "value": "capitalt.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:capitalt.ru",
+    "source": {
+      "list": "TBANK-RU",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cardsmobile.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cardsmobile.ru",
+    "source": {
+      "list": "TBANK-RU",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdn-tinkoff.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdn-tinkoff.ru",
+    "source": {
+      "list": "TBANK-RU",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "centraluniversity.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:centraluniversity.ru",
+    "source": {
+      "list": "TBANK-RU",
+      "line": 111
+    }
+  },
+  {
+    "type": "domain",
+    "value": "citydrive.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:citydrive.ru",
+    "source": {
+      "list": "SBER",
+      "line": 48
+    }
+  },
+  {
+    "type": "domain",
+    "value": "clickstream.sberbank.ru",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:clickstream.sberbank.ru:@ads",
+    "source": {
+      "list": "SBER",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloud.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloud.ru",
+    "source": {
+      "list": "SBER",
+      "line": 51
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudru.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudru.cn",
+    "source": {
+      "list": "SBER",
+      "line": 52
+    }
+  },
+  {
+    "type": "domain",
+    "value": "codeseason.by",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:codeseason.by",
+    "source": {
+      "list": "TBANK-RU",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "commerzbank.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:commerzbank.ru",
+    "source": {
+      "list": "CATEGORY-BANK-RU",
+      "line": 108
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cplsb.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cplsb.ru",
+    "source": {
+      "list": "SBER",
+      "line": 105
+    }
+  },
+  {
+    "type": "domain",
+    "value": "credit-zenit.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:credit-zenit.ru",
+    "source": {
+      "list": "CATEGORY-BANK-RU",
+      "line": 87
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cu.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cu.ru",
+    "source": {
+      "list": "TBANK-RU",
+      "line": 112
+    }
+  },
+  {
+    "type": "domain",
+    "value": "custody.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:custody.ru",
+    "source": {
+      "list": "TBANK-RU",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "data-tscbank.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:data-tscbank.ru",
+    "source": {
+      "list": "TBANK-RU",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dbmoscow.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dbmoscow.ru",
+    "source": {
+      "list": "CATEGORY-BANK-RU",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dbo-dengi.online",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dbo-dengi.online",
+    "source": {
+      "list": "CATEGORY-BANK-RU",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "deltacredit.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:deltacredit.ru",
+    "source": {
+      "list": "TBANK-RU",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "depository.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:depository.ru",
+    "source": {
+      "list": "TBANK-RU",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "deutsche-bank.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:deutsche-bank.ru",
+    "source": {
+      "list": "CATEGORY-BANK-RU",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "deutschebank.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:deutschebank.ru",
+    "source": {
+      "list": "CATEGORY-BANK-RU",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dolyame.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dolyame.ru",
+    "source": {
+      "list": "TBANK-RU",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "domrfbank.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:domrfbank.ru",
+    "source": {
+      "list": "CATEGORY-BANK-RU",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "eaptechka.online",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:eaptechka.online",
+    "source": {
+      "list": "SBER",
+      "line": 55
+    }
+  },
+  {
+    "type": "domain",
+    "value": "eapteka.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:eapteka.ru",
+    "source": {
+      "list": "SBER",
+      "line": 56
+    }
+  },
+  {
+    "type": "domain",
+    "value": "electronicsignature.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:electronicsignature.ru",
+    "source": {
+      "list": "TBANK-RU",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "enterly.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:enterly.ru",
+    "source": {
+      "list": "TBANK-RU",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "era-invest.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:era-invest.ru",
+    "source": {
+      "list": "TBANK-RU",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "etna.ai",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:etna.ai",
+    "source": {
+      "list": "TBANK-RU",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "finambank.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:finambank.ru",
+    "source": {
+      "list": "CATEGORY-BANK-RU",
+      "line": 109
+    }
+  },
+  {
+    "type": "domain",
+    "value": "forshtadt.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:forshtadt.ru",
+    "source": {
+      "list": "CATEGORY-BANK-RU",
+      "line": 110
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gainstech.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gainstech.ru",
+    "source": {
+      "list": "TBANK-RU",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gazprombank.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gazprombank.com",
+    "source": {
+      "list": "CATEGORY-BANK-RU",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gazprombank.investments",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gazprombank.investments",
+    "source": {
+      "list": "CATEGORY-BANK-RU",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gazprombank.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gazprombank.ru",
+    "source": {
+      "list": "CATEGORY-BANK-RU",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "getsynapse.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:getsynapse.io",
+    "source": {
+      "list": "SBER",
+      "line": 115
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gid.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gid.ru",
+    "source": {
+      "list": "CATEGORY-BANK-RU",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "giga.chat",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:giga.chat",
+    "source": {
+      "list": "SBER",
+      "line": 71
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gitverse.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gitverse.ru",
+    "source": {
+      "list": "SBER",
+      "line": 74
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gosdolgi.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gosdolgi.ru",
+    "source": {
+      "list": "TBANK-RU",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gpb.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gpb.ru",
+    "source": {
+      "list": "CATEGORY-BANK-RU",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "homecredit.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:homecredit.ru",
+    "source": {
+      "list": "CATEGORY-BANK-RU",
+      "line": 111
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ibamoscow.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ibamoscow.ru",
+    "source": {
+      "list": "CATEGORY-BANK-RU",
+      "line": 112
+    }
+  },
+  {
+    "type": "domain",
+    "value": "id.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:id.ru",
+    "source": {
+      "list": "SBER",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "it-katok.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:it-katok.ru",
+    "source": {
+      "list": "TBANK-RU",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "it-picnic.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:it-picnic.ru",
+    "source": {
+      "list": "TBANK-RU",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "it-piknik.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:it-piknik.ru",
+    "source": {
+      "list": "TBANK-RU",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jfn.su",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jfn.su",
+    "source": {
+      "list": "TBANK-RU",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jira-tcsbank.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jira-tcsbank.ru",
+    "source": {
+      "list": "TBANK-RU",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jivo.chat",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jivo.chat",
+    "source": {
+      "list": "SBER",
+      "line": 77
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jivo.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jivo.ru",
+    "source": {
+      "list": "SBER",
+      "line": 78
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jivochat.co.in",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jivochat.co.in",
+    "source": {
+      "list": "SBER",
+      "line": 79
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jivochat.co.za",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jivochat.co.za",
+    "source": {
+      "list": "SBER",
+      "line": 80
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jivochat.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jivochat.com",
+    "source": {
+      "list": "SBER",
+      "line": 81
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jivochat.com.br",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jivochat.com.br",
+    "source": {
+      "list": "SBER",
+      "line": 82
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jivochat.com.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jivochat.com.co",
+    "source": {
+      "list": "SBER",
+      "line": 83
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jivochat.com.pe",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jivochat.com.pe",
+    "source": {
+      "list": "SBER",
+      "line": 84
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jivochat.com.tr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jivochat.com.tr",
+    "source": {
+      "list": "SBER",
+      "line": 85
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jivochat.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jivochat.de",
+    "source": {
+      "list": "SBER",
+      "line": 86
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jivochat.es",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jivochat.es",
+    "source": {
+      "list": "SBER",
+      "line": 87
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jivochat.ng",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jivochat.ng",
+    "source": {
+      "list": "SBER",
+      "line": 88
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jivochat.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jivochat.ru",
+    "source": {
+      "list": "SBER",
+      "line": 89
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jivosite.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jivosite.com",
+    "source": {
+      "list": "SBER",
+      "line": 90
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jivosite.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jivosite.ru",
+    "source": {
+      "list": "SBER",
+      "line": 91
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jpmorgan.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jpmorgan.ru",
+    "source": {
+      "list": "CATEGORY-BANK-RU",
+      "line": 113
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jump.taxi",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jump.taxi",
+    "source": {
+      "list": "TBANK-RU",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jumpwork.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jumpwork.ru",
+    "source": {
+      "list": "TBANK-RU",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "karmahelp.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:karmahelp.ru",
+    "source": {
+      "list": "TBANK-RU",
+      "line": 37
+    }
+  },
+  {
+    "type": "domain",
+    "value": "karta-banka-rf.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:karta-banka-rf.ru",
+    "source": {
+      "list": "TBANK-RU",
+      "line": 38
+    }
+  },
+  {
+    "type": "domain",
+    "value": "korona.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:korona.com",
+    "source": {
+      "list": "CATEGORY-BANK-RU",
+      "line": 114
+    }
+  },
+  {
+    "type": "domain",
+    "value": "koshelek.app",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:koshelek.app",
+    "source": {
+      "list": "TBANK-RU",
+      "line": 39
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kubankredit.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kubankredit.ru",
+    "source": {
+      "list": "CATEGORY-BANK-RU",
+      "line": 115
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kuper.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kuper.ru",
+    "source": {
+      "list": "SBER",
+      "line": 64
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lifestyle-tec.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lifestyle-tec.ru",
+    "source": {
+      "list": "TBANK-RU",
+      "line": 40
+    }
+  },
+  {
+    "type": "domain",
+    "value": "malotogo.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:malotogo.ru",
+    "source": {
+      "list": "TBANK-RU",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "max-tcs.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:max-tcs.ru",
+    "source": {
+      "list": "TBANK-RU",
+      "line": 42
+    }
+  },
+  {
+    "type": "domain",
+    "value": "megamarket.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:megamarket.ru",
+    "source": {
+      "list": "SBER",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "megamarket.tech",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:megamarket.tech",
+    "source": {
+      "list": "SBER",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mfk-bank.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mfk-bank.ru",
+    "source": {
+      "list": "CATEGORY-BANK-RU",
+      "line": 116
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mfk-t-finance.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mfk-t-finance.ru",
+    "source": {
+      "list": "TBANK-RU",
+      "line": 43
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mhcb.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mhcb.ru",
+    "source": {
+      "list": "CATEGORY-BANK-RU",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mhcbr.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mhcbr.ru",
+    "source": {
+      "list": "CATEGORY-BANK-RU",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mkb.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mkb.ru",
+    "source": {
+      "list": "CATEGORY-BANK-RU",
+      "line": 38
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mtsbank.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mtsbank.ru",
+    "source": {
+      "list": "CATEGORY-BANK-RU",
+      "line": 42
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mtsdengi.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mtsdengi.ru",
+    "source": {
+      "list": "CATEGORY-BANK-RU",
+      "line": 43
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mvs-bank.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mvs-bank.ru",
+    "source": {
+      "list": "CATEGORY-BANK-RU",
+      "line": 117
+    }
+  },
+  {
+    "type": "domain",
+    "value": "my-tbank.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:my-tbank.ru",
+    "source": {
+      "list": "TBANK-RU",
+      "line": 44
+    }
+  },
+  {
+    "type": "domain",
+    "value": "myapelsin.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:myapelsin.ru",
+    "source": {
+      "list": "CATEGORY-BANK-RU",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "neon.click",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:neon.click:@ads",
+    "source": {
+      "list": "SBER",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "noosferabank.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:noosferabank.ru",
+    "source": {
+      "list": "CATEGORY-BANK-RU",
+      "line": 118
+    }
+  },
+  {
+    "type": "domain",
+    "value": "okko.sport",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:okko.sport",
+    "source": {
+      "list": "OKKO",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "okko.tv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:okko.tv",
+    "source": {
+      "list": "OKKO",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "okkoapi.tv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:okkoapi.tv",
+    "source": {
+      "list": "OKKO",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "otello.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:otello.ru",
+    "source": {
+      "list": "SBER",
+      "line": 98
+    }
+  },
+  {
+    "type": "domain",
+    "value": "otpbank.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:otpbank.ru",
+    "source": {
+      "list": "CATEGORY-BANK-RU",
+      "line": 47
+    }
+  },
+  {
+    "type": "domain",
+    "value": "payecom.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:payecom.ru",
+    "source": {
+      "list": "SBER",
+      "line": 94
+    }
+  },
+  {
+    "type": "domain",
+    "value": "payment.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:payment.ru",
+    "source": {
+      "list": "CATEGORY-BANK-RU",
+      "line": 50
+    }
+  },
+  {
+    "type": "domain",
+    "value": "phoenix-ca.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:phoenix-ca.ru",
+    "source": {
+      "list": "TBANK-RU",
+      "line": 45
+    }
+  },
+  {
+    "type": "domain",
+    "value": "platiecom.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:platiecom.ru",
+    "source": {
+      "list": "SBER",
+      "line": 95
+    }
+  },
+  {
+    "type": "domain",
+    "value": "playfamily.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:playfamily.ru",
+    "source": {
+      "list": "OKKO",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pochtabank.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pochtabank.ru",
+    "source": {
+      "list": "CATEGORY-BANK-RU",
+      "line": 80
+    }
+  },
+  {
+    "type": "domain",
+    "value": "primbank.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:primbank.ru",
+    "source": {
+      "list": "CATEGORY-BANK-RU",
+      "line": 119
+    }
+  },
+  {
+    "type": "domain",
+    "value": "private-banking.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:private-banking.ru",
+    "source": {
+      "list": "TBANK-RU",
+      "line": 46
+    }
+  },
+  {
+    "type": "domain",
+    "value": "prodcontest.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:prodcontest.com",
+    "source": {
+      "list": "TBANK-RU",
+      "line": 113
+    }
+  },
+  {
+    "type": "domain",
+    "value": "prvbank.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:prvbank.ru",
+    "source": {
+      "list": "CATEGORY-BANK-RU",
+      "line": 120
+    }
+  },
+  {
+    "type": "domain",
+    "value": "psb-ocenka.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:psb-ocenka.ru",
+    "source": {
+      "list": "CATEGORY-BANK-RU",
+      "line": 51
+    }
+  },
+  {
+    "type": "domain",
+    "value": "psb.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:psb.ru",
+    "source": {
+      "list": "CATEGORY-BANK-RU",
+      "line": 52
+    }
+  },
+  {
+    "type": "domain",
+    "value": "psbank.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:psbank.ru",
+    "source": {
+      "list": "CATEGORY-BANK-RU",
+      "line": 53
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pskb.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pskb.ru",
+    "source": {
+      "list": "CATEGORY-BANK-RU",
+      "line": 121
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pvubank.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pvubank.com",
+    "source": {
+      "list": "CATEGORY-BANK-RU",
+      "line": 122
+    }
+  },
+  {
+    "type": "domain",
+    "value": "raiffeisen-media.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:raiffeisen-media.ru",
+    "source": {
+      "list": "CATEGORY-BANK-RU",
+      "line": 60
+    }
+  },
+  {
+    "type": "domain",
+    "value": "raiffeisen.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:raiffeisen.ru",
+    "source": {
+      "list": "CATEGORY-BANK-RU",
+      "line": 61
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rbcollect.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rbcollect.ru",
+    "source": {
+      "list": "TBANK-RU",
+      "line": 47
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rbcredit.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rbcredit.ru",
+    "source": {
+      "list": "TBANK-RU",
+      "line": 48
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rencapbank.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rencapbank.ru",
+    "source": {
+      "list": "CATEGORY-BANK-RU",
+      "line": 123
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rencredit.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rencredit.ru",
+    "source": {
+      "list": "CATEGORY-BANK-RU",
+      "line": 124
+    }
+  },
+  {
+    "type": "domain",
+    "value": "restnproducts.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:restnproducts.ru",
+    "source": {
+      "list": "SBER",
+      "line": 65
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rf-sim-mobile.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rf-sim-mobile.ru",
+    "source": {
+      "list": "TBANK-RU",
+      "line": 49
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rncoluminis.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rncoluminis.ru",
+    "source": {
+      "list": "CATEGORY-BANK-RU",
+      "line": 125
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rosbank-auto.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rosbank-auto.ru",
+    "source": {
+      "list": "TBANK-RU",
+      "line": 50
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rosbank-capital.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rosbank-capital.ru",
+    "source": {
+      "list": "TBANK-RU",
+      "line": 51
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rosbank-credit.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rosbank-credit.com",
+    "source": {
+      "list": "TBANK-RU",
+      "line": 52
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rosbank-dom.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rosbank-dom.ru",
+    "source": {
+      "list": "TBANK-RU",
+      "line": 53
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rosbank-leasing.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rosbank-leasing.ru",
+    "source": {
+      "list": "TBANK-RU",
+      "line": 54
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rosbank.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rosbank.ru",
+    "source": {
+      "list": "TBANK-RU",
+      "line": 55
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rshb.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rshb.ru",
+    "source": {
+      "list": "CATEGORY-BANK-RU",
+      "line": 64
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ru.ccb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ru.ccb.com",
+    "source": {
+      "list": "CATEGORY-BANK-RU",
+      "line": 126
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rusfinance.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rusfinance.ru",
+    "source": {
+      "list": "TBANK-RU",
+      "line": 56
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rusfinancebank.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rusfinancebank.ru",
+    "source": {
+      "list": "TBANK-RU",
+      "line": 57
+    }
+  },
+  {
+    "type": "domain",
+    "value": "safeliner.tech",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:safeliner.tech",
+    "source": {
+      "list": "TBANK-RU",
+      "line": 58
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sage-observability.tech",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sage-observability.tech",
+    "source": {
+      "list": "TBANK-RU",
+      "line": 59
+    }
+  },
+  {
+    "type": "domain",
+    "value": "samokat.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:samokat.ru",
+    "source": {
+      "list": "SBER",
+      "line": 68
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sber-bank.by",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sber-bank.by",
+    "source": {
+      "list": "SBER",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sber.pro",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sber.pro",
+    "source": {
+      "list": "SBER",
+      "line": 101
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sber.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sber.ru",
+    "source": {
+      "list": "SBER",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sberauto.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sberauto.com",
+    "source": {
+      "list": "SBER",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sberbank-insurance.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sberbank-insurance.ru",
+    "source": {
+      "list": "SBER",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sberbank.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sberbank.com",
+    "source": {
+      "list": "SBER",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sberbank.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sberbank.ru",
+    "source": {
+      "list": "SBER",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sberbankaktivno.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sberbankaktivno.ru",
+    "source": {
+      "list": "SBER",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sberbankins.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sberbankins.ru",
+    "source": {
+      "list": "SBER",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sbercloud.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sbercloud.ru",
+    "source": {
+      "list": "SBER",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sbercloud.tech",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sbercloud.tech",
+    "source": {
+      "list": "SBER",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sberdevices.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sberdevices.ru",
+    "source": {
+      "list": "SBER",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sberdisk.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sberdisk.ru",
+    "source": {
+      "list": "SBER",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sberfactoring.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sberfactoring.ru",
+    "source": {
+      "list": "SBER",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sberhealth.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sberhealth.ru",
+    "source": {
+      "list": "SBER",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sberindex.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sberindex.ru",
+    "source": {
+      "list": "SBER",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sberleasing.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sberleasing.ru",
+    "source": {
+      "list": "SBER",
+      "line": 37
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sberlogistics.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sberlogistics.ru",
+    "source": {
+      "list": "SBER",
+      "line": 38
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sbermarketing.ru",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:sbermarketing.ru:@ads",
+    "source": {
+      "list": "SBER",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sbermegamarket.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sbermegamarket.ru",
+    "source": {
+      "list": "SBER",
+      "line": 39
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sbermobile.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sbermobile.ru",
+    "source": {
+      "list": "SBER",
+      "line": 40
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sberpb.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sberpb.ru",
+    "source": {
+      "list": "SBER",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sberspasibo.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sberspasibo.ru",
+    "source": {
+      "list": "SBER",
+      "line": 106
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sbertech.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sbertech.ru",
+    "source": {
+      "list": "SBER",
+      "line": 116
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sbertroika.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sbertroika.ru",
+    "source": {
+      "list": "SBER",
+      "line": 42
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sbibankllc.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sbibankllc.ru",
+    "source": {
+      "list": "CATEGORY-BANK-RU",
+      "line": 127
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sbrf.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sbrf.ru",
+    "source": {
+      "list": "SBER",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "seb.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:seb.ru",
+    "source": {
+      "list": "CATEGORY-BANK-RU",
+      "line": 128
+    }
+  },
+  {
+    "type": "domain",
+    "value": "selkombank.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:selkombank.ru",
+    "source": {
+      "list": "CATEGORY-BANK-RU",
+      "line": 129
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sgcheck.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sgcheck.ru",
+    "source": {
+      "list": "TBANK-RU",
+      "line": 60
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sinara.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sinara.ru",
+    "source": {
+      "list": "CATEGORY-BANK-RU",
+      "line": 130
+    }
+  },
+  {
+    "type": "domain",
+    "value": "slavbank.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:slavbank.ru",
+    "source": {
+      "list": "CATEGORY-BANK-RU",
+      "line": 131
+    }
+  },
+  {
+    "type": "domain",
+    "value": "smbcr-bank.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:smbcr-bank.ru",
+    "source": {
+      "list": "CATEGORY-BANK-RU",
+      "line": 132
+    }
+  },
+  {
+    "type": "domain",
+    "value": "solid.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:solid.ru",
+    "source": {
+      "list": "CATEGORY-BANK-RU",
+      "line": 133
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sovcombank.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sovcombank.ru",
+    "source": {
+      "list": "CATEGORY-BANK-RU",
+      "line": 70
+    }
+  },
+  {
+    "type": "domain",
+    "value": "spasibo.digital",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:spasibo.digital",
+    "source": {
+      "list": "SBER",
+      "line": 107
+    }
+  },
+  {
+    "type": "domain",
+    "value": "spasibo.market",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:spasibo.market",
+    "source": {
+      "list": "SBER",
+      "line": 108
+    }
+  },
+  {
+    "type": "domain",
+    "value": "spasibobonus.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:spasibobonus.ru",
+    "source": {
+      "list": "SBER",
+      "line": 109
+    }
+  },
+  {
+    "type": "domain",
+    "value": "spasibosb.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:spasibosb.ru",
+    "source": {
+      "list": "SBER",
+      "line": 110
+    }
+  },
+  {
+    "type": "domain",
+    "value": "spasibosberbank.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:spasibosberbank.ru",
+    "source": {
+      "list": "SBER",
+      "line": 111
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ssb.msk.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ssb.msk.ru",
+    "source": {
+      "list": "CATEGORY-BANK-RU",
+      "line": 134
+    }
+  },
+  {
+    "type": "domain",
+    "value": "t-access.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:t-access.ru",
+    "source": {
+      "list": "TBANK-RU",
+      "line": 61
+    }
+  },
+  {
+    "type": "domain",
+    "value": "t-bank-app.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:t-bank-app.ru",
+    "source": {
+      "list": "TBANK-RU",
+      "line": 62
+    }
+  },
+  {
+    "type": "domain",
+    "value": "t-bank-app.su",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:t-bank-app.su",
+    "source": {
+      "list": "TBANK-RU",
+      "line": 63
+    }
+  },
+  {
+    "type": "domain",
+    "value": "t-bank.by",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:t-bank.by",
+    "source": {
+      "list": "TBANK-RU",
+      "line": 64
+    }
+  },
+  {
+    "type": "domain",
+    "value": "t-calls.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:t-calls.ru",
+    "source": {
+      "list": "TBANK-RU",
+      "line": 65
+    }
+  },
+  {
+    "type": "domain",
+    "value": "t-capital-funds.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:t-capital-funds.ru",
+    "source": {
+      "list": "TBANK-RU",
+      "line": 66
+    }
+  },
+  {
+    "type": "domain",
+    "value": "t-cpa.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:t-cpa.ru",
+    "source": {
+      "list": "TBANK-RU",
+      "line": 67
+    }
+  },
+  {
+    "type": "domain",
+    "value": "t-dengi.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:t-dengi.ru",
+    "source": {
+      "list": "TBANK-RU",
+      "line": 68
+    }
+  },
+  {
+    "type": "domain",
+    "value": "t-finance.group",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:t-finance.group",
+    "source": {
+      "list": "TBANK-RU",
+      "line": 69
+    }
+  },
+  {
+    "type": "domain",
+    "value": "t-finance.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:t-finance.ru",
+    "source": {
+      "list": "TBANK-RU",
+      "line": 70
+    }
+  },
+  {
+    "type": "domain",
+    "value": "t-human.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:t-human.ru",
+    "source": {
+      "list": "TBANK-RU",
+      "line": 71
+    }
+  },
+  {
+    "type": "domain",
+    "value": "t-investlab.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:t-investlab.ru",
+    "source": {
+      "list": "TBANK-RU",
+      "line": 72
+    }
+  },
+  {
+    "type": "domain",
+    "value": "t-j.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:t-j.ru",
+    "source": {
+      "list": "TBANK-RU",
+      "line": 73
+    }
+  },
+  {
+    "type": "domain",
+    "value": "t-ofp.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:t-ofp.ru",
+    "source": {
+      "list": "TBANK-RU",
+      "line": 74
+    }
+  },
+  {
+    "type": "domain",
+    "value": "t-pulse.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:t-pulse.ru",
+    "source": {
+      "list": "TBANK-RU",
+      "line": 75
+    }
+  },
+  {
+    "type": "domain",
+    "value": "t-static.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:t-static.ru",
+    "source": {
+      "list": "TBANK-RU",
+      "line": 76
+    }
+  },
+  {
+    "type": "domain",
+    "value": "t-stekovka.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:t-stekovka.ru",
+    "source": {
+      "list": "TBANK-RU",
+      "line": 77
+    }
+  },
+  {
+    "type": "domain",
+    "value": "t-tech.dev",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:t-tech.dev",
+    "source": {
+      "list": "TBANK-RU",
+      "line": 78
+    }
+  },
+  {
+    "type": "domain",
+    "value": "t-tech.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:t-tech.ru",
+    "source": {
+      "list": "TBANK-RU",
+      "line": 79
+    }
+  },
+  {
+    "type": "domain",
+    "value": "t-tech.team",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:t-tech.team",
+    "source": {
+      "list": "TBANK-RU",
+      "line": 80
+    }
+  },
+  {
+    "type": "domain",
+    "value": "t-technologies.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:t-technologies.ru",
+    "source": {
+      "list": "TBANK-RU",
+      "line": 81
+    }
+  },
+  {
+    "type": "domain",
+    "value": "t-tolk.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:t-tolk.ru",
+    "source": {
+      "list": "TBANK-RU",
+      "line": 82
+    }
+  },
+  {
+    "type": "domain",
+    "value": "t.finance",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:t.finance",
+    "source": {
+      "list": "TBANK-RU",
+      "line": 83
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tagbank.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tagbank.ru",
+    "source": {
+      "list": "CATEGORY-BANK-RU",
+      "line": 135
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tatsotsbank.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tatsotsbank.ru",
+    "source": {
+      "list": "CATEGORY-BANK-RU",
+      "line": 136
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tb-esim.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tb-esim.ru",
+    "source": {
+      "list": "TBANK-RU",
+      "line": 84
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tbank-online.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tbank-online.com",
+    "source": {
+      "list": "TBANK-RU",
+      "line": 85
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tbank.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tbank.ru",
+    "source": {
+      "list": "TBANK-RU",
+      "line": 86
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tconf.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tconf.ru",
+    "source": {
+      "list": "TBANK-RU",
+      "line": 87
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tcsbank.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tcsbank.ru",
+    "source": {
+      "list": "TBANK-RU",
+      "line": 88
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tdev.by",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tdev.by",
+    "source": {
+      "list": "TBANK-RU",
+      "line": 89
+    }
+  },
+  {
+    "type": "domain",
+    "value": "time-messenger.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:time-messenger.ru",
+    "source": {
+      "list": "TBANK-RU",
+      "line": 90
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tinkoff-edu.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tinkoff-edu.ru",
+    "source": {
+      "list": "TBANK-RU",
+      "line": 114
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tinkoff-group.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tinkoff-group.com",
+    "source": {
+      "list": "TBANK-RU",
+      "line": 91
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tinkoff.ai",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tinkoff.ai",
+    "source": {
+      "list": "TBANK-RU",
+      "line": 92
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tinkoff.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tinkoff.ru",
+    "source": {
+      "list": "TBANK-RU",
+      "line": 93
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tinkoffcapital.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tinkoffcapital.ru",
+    "source": {
+      "list": "TBANK-RU",
+      "line": 94
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tinkoffinsurance.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tinkoffinsurance.ru",
+    "source": {
+      "list": "TBANK-RU",
+      "line": 95
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tinkoffinsurancefuture.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tinkoffinsurancefuture.ru",
+    "source": {
+      "list": "TBANK-RU",
+      "line": 96
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tinkoffjournal.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tinkoffjournal.ru",
+    "source": {
+      "list": "TBANK-RU",
+      "line": 97
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tinkoffmobile.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tinkoffmobile.com",
+    "source": {
+      "list": "TBANK-RU",
+      "line": 98
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tinsurance.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tinsurance.ru",
+    "source": {
+      "list": "TBANK-RU",
+      "line": 99
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tinsurancefuture.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tinsurancefuture.ru",
+    "source": {
+      "list": "TBANK-RU",
+      "line": 100
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tkbbank.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tkbbank.ru",
+    "source": {
+      "list": "CATEGORY-BANK-RU",
+      "line": 137
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tmiaf.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tmiaf.ru",
+    "source": {
+      "list": "TBANK-RU",
+      "line": 101
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tochka-tech.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tochka-tech.com",
+    "source": {
+      "list": "CATEGORY-BANK-RU",
+      "line": 76
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tochka.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tochka.com",
+    "source": {
+      "list": "CATEGORY-BANK-RU",
+      "line": 77
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tpension.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tpension.ru",
+    "source": {
+      "list": "TBANK-RU",
+      "line": 102
+    }
+  },
+  {
+    "type": "domain",
+    "value": "travel-tec.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:travel-tec.ru",
+    "source": {
+      "list": "TBANK-RU",
+      "line": 103
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ubs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ubs.com",
+    "source": {
+      "list": "CATEGORY-BANK-RU",
+      "line": 138
+    }
+  },
+  {
+    "type": "domain",
+    "value": "unidraw.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:unidraw.io",
+    "source": {
+      "list": "TBANK-RU",
+      "line": 104
+    }
+  },
+  {
+    "type": "domain",
+    "value": "uralsib.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:uralsib.ru",
+    "source": {
+      "list": "CATEGORY-BANK-RU",
+      "line": 139
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vlb100.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vlb100.ru",
+    "source": {
+      "list": "CATEGORY-BANK-RU",
+      "line": 140
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vtb-direct.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vtb-direct.com",
+    "source": {
+      "list": "CATEGORY-BANK-RU",
+      "line": 81
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vtb-grants.fut.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vtb-grants.fut.ru",
+    "source": {
+      "list": "CATEGORY-BANK-RU",
+      "line": 82
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vtb.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vtb.ru",
+    "source": {
+      "list": "CATEGORY-BANK-RU",
+      "line": 83
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vtbglobalperspectives.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vtbglobalperspectives.com",
+    "source": {
+      "list": "CATEGORY-BANK-RU",
+      "line": 84
+    }
+  },
+  {
+    "type": "domain",
+    "value": "westernunion.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:westernunion.ru",
+    "source": {
+      "list": "CATEGORY-BANK-RU",
+      "line": 141
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn----7sbhmncai5a0arm7c1e.xn--p1ai",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn----7sbhmncai5a0arm7c1e.xn--p1ai",
+    "source": {
+      "list": "TBANK-RU",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn----8sbkfzespdwig.xn--p1ai",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn----8sbkfzespdwig.xn--p1ai",
+    "source": {
+      "list": "TBANK-RU",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn----8sbwjbxyd.xn--p1ai",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn----8sbwjbxyd.xn--p1ai",
+    "source": {
+      "list": "TBANK-RU",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--90aifd0az.shop",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--90aifd0az.shop",
+    "source": {
+      "list": "TBANK-RU",
+      "line": 105
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--90aifd0azb.xn--p1acf",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--90aifd0azb.xn--p1acf",
+    "source": {
+      "list": "TBANK-RU",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--b1aechhj6bof8g5a.site",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--b1aechhj6bof8g5a.site",
+    "source": {
+      "list": "TBANK-RU",
+      "line": 106
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--d1abkf4ap.fun",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--d1abkf4ap.fun",
+    "source": {
+      "list": "TBANK-RU",
+      "line": 107
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--d1aqf.xn--p1ai",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--d1aqf.xn--p1ai",
+    "source": {
+      "list": "CATEGORY-BANK-RU",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--h1ao.site",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--h1ao.site",
+    "source": {
+      "list": "TBANK-RU",
+      "line": 108
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yoobusiness.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yoobusiness.ru",
+    "source": {
+      "list": "CATEGORY-BANK-RU",
+      "line": 142
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zenit-card.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zenit-card.ru",
+    "source": {
+      "list": "CATEGORY-BANK-RU",
+      "line": 88
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zenit.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zenit.ru",
+    "source": {
+      "list": "CATEGORY-BANK-RU",
+      "line": 89
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ziraatbank.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ziraatbank.ru",
+    "source": {
+      "list": "CATEGORY-BANK-RU",
+      "line": 143
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zvuk-b2b.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zvuk-b2b.com",
+    "source": {
+      "list": "SBER",
+      "line": 119
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zvuk.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zvuk.com",
+    "source": {
+      "list": "SBER",
+      "line": 120
+    }
+  },
+  {
+    "type": "full",
+    "value": "error-tracking.megamarket.tech",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:error-tracking.megamarket.tech:@ads",
+    "source": {
+      "list": "SBER",
+      "line": 16
+    }
+  },
+  {
+    "type": "full",
+    "value": "metrics.21-school.ru",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:metrics.21-school.ru:@ads",
+    "source": {
+      "list": "SBER",
+      "line": 17
+    }
+  },
+  {
+    "type": "full",
+    "value": "sberpro.vedomosti.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:sberpro.vedomosti.ru",
+    "source": {
+      "list": "SBER",
+      "line": 102
+    }
+  },
+  {
+    "type": "full",
+    "value": "sentry.sberauto.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:sentry.sberauto.com:@ads",
+    "source": {
+      "list": "SBER",
+      "line": 18
+    }
+  },
+  {
+    "type": "full",
+    "value": "tracing-http.megamarket.tech",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:tracing-http.megamarket.tech:@ads",
+    "source": {
+      "list": "SBER",
+      "line": 19
+    }
+  },
+  {
+    "type": "full",
+    "value": "visor.sberbank.ru",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:visor.sberbank.ru:@ads",
+    "source": {
+      "list": "SBER",
+      "line": 20
+    }
+  }
+]

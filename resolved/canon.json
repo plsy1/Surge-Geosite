@@ -1,0 +1,787 @@
+[
+  {
+    "type": "domain",
+    "value": "c-ij.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:c-ij.com",
+    "source": {
+      "list": "CANON",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "canon",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:canon",
+    "source": {
+      "list": "CANON",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "canon-cee.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:canon-cee.com",
+    "source": {
+      "list": "CANON",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "canon-cmos-sensors.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:canon-cmos-sensors.com",
+    "source": {
+      "list": "CANON",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "canon-cna.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:canon-cna.com",
+    "source": {
+      "list": "CANON",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "canon-ebm.com.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:canon-ebm.com.hk",
+    "source": {
+      "list": "CANON",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "canon-emea.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:canon-emea.com",
+    "source": {
+      "list": "CANON",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "canon-emirates.ae",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:canon-emirates.ae",
+    "source": {
+      "list": "CANON",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "canon-europa.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:canon-europa.com",
+    "source": {
+      "list": "CANON",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "canon-europe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:canon-europe.com",
+    "source": {
+      "list": "CANON",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "canon-me.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:canon-me.com",
+    "source": {
+      "list": "CANON",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "canon-ois.qa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:canon-ois.qa",
+    "source": {
+      "list": "CANON",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "canon-se.com.tw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:canon-se.com.tw",
+    "source": {
+      "list": "CANON",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "canon.am",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:canon.am",
+    "source": {
+      "list": "CANON",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "canon.at",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:canon.at",
+    "source": {
+      "list": "CANON",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "canon.az",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:canon.az",
+    "source": {
+      "list": "CANON",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "canon.ba",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:canon.ba",
+    "source": {
+      "list": "CANON",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "canon.be",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:canon.be",
+    "source": {
+      "list": "CANON",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "canon.bg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:canon.bg",
+    "source": {
+      "list": "CANON",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "canon.ca",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:canon.ca",
+    "source": {
+      "list": "CANON",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "canon.ch",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:canon.ch",
+    "source": {
+      "list": "CANON",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "canon.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:canon.cn:@cn",
+    "source": {
+      "list": "CANON",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "canon.co.il",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:canon.co.il",
+    "source": {
+      "list": "CANON",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "canon.co.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:canon.co.uk",
+    "source": {
+      "list": "CANON",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "canon.co.za",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:canon.co.za",
+    "source": {
+      "list": "CANON",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "canon.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:canon.com",
+    "source": {
+      "list": "CANON",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "canon.com.al",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:canon.com.al",
+    "source": {
+      "list": "CANON",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "canon.com.au",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:canon.com.au",
+    "source": {
+      "list": "CANON",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "canon.com.by",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:canon.com.by",
+    "source": {
+      "list": "CANON",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "canon.com.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:canon.com.cn:@cn",
+    "source": {
+      "list": "CANON",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "canon.com.cy",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:canon.com.cy",
+    "source": {
+      "list": "CANON",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "canon.com.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:canon.com.hk",
+    "source": {
+      "list": "CANON",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "canon.com.mk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:canon.com.mk",
+    "source": {
+      "list": "CANON",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "canon.com.mt",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:canon.com.mt",
+    "source": {
+      "list": "CANON",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "canon.com.my",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:canon.com.my",
+    "source": {
+      "list": "CANON",
+      "line": 37
+    }
+  },
+  {
+    "type": "domain",
+    "value": "canon.com.tr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:canon.com.tr",
+    "source": {
+      "list": "CANON",
+      "line": 38
+    }
+  },
+  {
+    "type": "domain",
+    "value": "canon.com.tw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:canon.com.tw",
+    "source": {
+      "list": "CANON",
+      "line": 39
+    }
+  },
+  {
+    "type": "domain",
+    "value": "canon.cz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:canon.cz",
+    "source": {
+      "list": "CANON",
+      "line": 40
+    }
+  },
+  {
+    "type": "domain",
+    "value": "canon.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:canon.de",
+    "source": {
+      "list": "CANON",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "canon.dk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:canon.dk",
+    "source": {
+      "list": "CANON",
+      "line": 42
+    }
+  },
+  {
+    "type": "domain",
+    "value": "canon.ee",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:canon.ee",
+    "source": {
+      "list": "CANON",
+      "line": 43
+    }
+  },
+  {
+    "type": "domain",
+    "value": "canon.es",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:canon.es",
+    "source": {
+      "list": "CANON",
+      "line": 44
+    }
+  },
+  {
+    "type": "domain",
+    "value": "canon.fi",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:canon.fi",
+    "source": {
+      "list": "CANON",
+      "line": 45
+    }
+  },
+  {
+    "type": "domain",
+    "value": "canon.fr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:canon.fr",
+    "source": {
+      "list": "CANON",
+      "line": 46
+    }
+  },
+  {
+    "type": "domain",
+    "value": "canon.ge",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:canon.ge",
+    "source": {
+      "list": "CANON",
+      "line": 47
+    }
+  },
+  {
+    "type": "domain",
+    "value": "canon.gr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:canon.gr",
+    "source": {
+      "list": "CANON",
+      "line": 48
+    }
+  },
+  {
+    "type": "domain",
+    "value": "canon.hr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:canon.hr",
+    "source": {
+      "list": "CANON",
+      "line": 49
+    }
+  },
+  {
+    "type": "domain",
+    "value": "canon.hu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:canon.hu",
+    "source": {
+      "list": "CANON",
+      "line": 50
+    }
+  },
+  {
+    "type": "domain",
+    "value": "canon.ie",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:canon.ie",
+    "source": {
+      "list": "CANON",
+      "line": 51
+    }
+  },
+  {
+    "type": "domain",
+    "value": "canon.it",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:canon.it",
+    "source": {
+      "list": "CANON",
+      "line": 52
+    }
+  },
+  {
+    "type": "domain",
+    "value": "canon.kz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:canon.kz",
+    "source": {
+      "list": "CANON",
+      "line": 53
+    }
+  },
+  {
+    "type": "domain",
+    "value": "canon.lt",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:canon.lt",
+    "source": {
+      "list": "CANON",
+      "line": 54
+    }
+  },
+  {
+    "type": "domain",
+    "value": "canon.lu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:canon.lu",
+    "source": {
+      "list": "CANON",
+      "line": 55
+    }
+  },
+  {
+    "type": "domain",
+    "value": "canon.lv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:canon.lv",
+    "source": {
+      "list": "CANON",
+      "line": 56
+    }
+  },
+  {
+    "type": "domain",
+    "value": "canon.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:canon.me",
+    "source": {
+      "list": "CANON",
+      "line": 57
+    }
+  },
+  {
+    "type": "domain",
+    "value": "canon.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:canon.net",
+    "source": {
+      "list": "CANON",
+      "line": 58
+    }
+  },
+  {
+    "type": "domain",
+    "value": "canon.nl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:canon.nl",
+    "source": {
+      "list": "CANON",
+      "line": 59
+    }
+  },
+  {
+    "type": "domain",
+    "value": "canon.no",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:canon.no",
+    "source": {
+      "list": "CANON",
+      "line": 60
+    }
+  },
+  {
+    "type": "domain",
+    "value": "canon.pl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:canon.pl",
+    "source": {
+      "list": "CANON",
+      "line": 61
+    }
+  },
+  {
+    "type": "domain",
+    "value": "canon.pt",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:canon.pt",
+    "source": {
+      "list": "CANON",
+      "line": 62
+    }
+  },
+  {
+    "type": "domain",
+    "value": "canon.ro",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:canon.ro",
+    "source": {
+      "list": "CANON",
+      "line": 63
+    }
+  },
+  {
+    "type": "domain",
+    "value": "canon.rs",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:canon.rs",
+    "source": {
+      "list": "CANON",
+      "line": 64
+    }
+  },
+  {
+    "type": "domain",
+    "value": "canon.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:canon.ru",
+    "source": {
+      "list": "CANON",
+      "line": 65
+    }
+  },
+  {
+    "type": "domain",
+    "value": "canon.se",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:canon.se",
+    "source": {
+      "list": "CANON",
+      "line": 66
+    }
+  },
+  {
+    "type": "domain",
+    "value": "canon.si",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:canon.si",
+    "source": {
+      "list": "CANON",
+      "line": 67
+    }
+  },
+  {
+    "type": "domain",
+    "value": "canon.sk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:canon.sk",
+    "source": {
+      "list": "CANON",
+      "line": 68
+    }
+  },
+  {
+    "type": "domain",
+    "value": "canon.tj",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:canon.tj",
+    "source": {
+      "list": "CANON",
+      "line": 69
+    }
+  },
+  {
+    "type": "domain",
+    "value": "canon.ua",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:canon.ua",
+    "source": {
+      "list": "CANON",
+      "line": 70
+    }
+  },
+  {
+    "type": "domain",
+    "value": "canon.uz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:canon.uz",
+    "source": {
+      "list": "CANON",
+      "line": 71
+    }
+  },
+  {
+    "type": "domain",
+    "value": "canonfoundation.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:canonfoundation.org",
+    "source": {
+      "list": "CANON",
+      "line": 72
+    }
+  },
+  {
+    "type": "domain",
+    "value": "canonproprinters.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:canonproprinters.com",
+    "source": {
+      "list": "CANON",
+      "line": 73
+    }
+  }
+]

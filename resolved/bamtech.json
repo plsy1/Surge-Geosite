@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "bamgrid.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bamgrid.com",
+    "source": {
+      "list": "BAMTECH",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dmed.technology",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dmed.technology",
+    "source": {
+      "list": "BAMTECH",
+      "line": 2
+    }
+  }
+]

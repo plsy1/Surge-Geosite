@@ -1,0 +1,59 @@
+{
+  "name": "CATEGORY-BANK-RU",
+  "source": {
+    "domain": 98,
+    "full": 0,
+    "keyword": 0,
+    "regexp": 0,
+    "include": 2,
+    "affiliations": 0,
+    "attributes": 0
+  },
+  "resolved": {
+    "rules": 305,
+    "domain": 299,
+    "full": 6,
+    "keyword": 0,
+    "regexp": 0
+  },
+  "filters": {
+    "attrs": {
+      "ads": 9
+    }
+  },
+  "modes": {
+    "strict": {
+      "rules": 305,
+      "bytes": 8312,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "balanced": {
+      "rules": 305,
+      "bytes": 8312,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "full": {
+      "rules": 305,
+      "bytes": 8312,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    }
+  }
+}

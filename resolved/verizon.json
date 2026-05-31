@@ -1,0 +1,2102 @@
+[
+  {
+    "type": "domain",
+    "value": "ads.yahoo.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:ads.yahoo.com:@ads",
+    "source": {
+      "list": "YAHOO",
+      "line": 177
+    }
+  },
+  {
+    "type": "domain",
+    "value": "flic.kr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:flic.kr",
+    "source": {
+      "list": "FLICKR",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "flickr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:flickr",
+    "source": {
+      "list": "FLICKR",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "flickr.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:flickr.com",
+    "source": {
+      "list": "FLICKR",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "flickr.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:flickr.net",
+    "source": {
+      "list": "FLICKR",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gemini.yahoo.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:gemini.yahoo.com:@ads",
+    "source": {
+      "list": "YAHOO",
+      "line": 178
+    }
+  },
+  {
+    "type": "domain",
+    "value": "maktoob.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:maktoob.com",
+    "source": {
+      "list": "YAHOO",
+      "line": 157
+    }
+  },
+  {
+    "type": "domain",
+    "value": "myguide.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:myguide.hk",
+    "source": {
+      "list": "YAHOO",
+      "line": 158
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oath.cloud",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oath.cloud",
+    "source": {
+      "list": "VERIZON",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oath.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oath.com",
+    "source": {
+      "list": "VERIZON",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ouroath.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ouroath.com",
+    "source": {
+      "list": "VERIZON",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "static-verizon.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:static-verizon.com",
+    "source": {
+      "list": "VERIZON",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "staticflickr.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:staticflickr.com",
+    "source": {
+      "list": "FLICKR",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "techcrunch.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:techcrunch.com",
+    "source": {
+      "list": "YAHOO",
+      "line": 159
+    }
+  },
+  {
+    "type": "domain",
+    "value": "uplynk.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:uplynk.com",
+    "source": {
+      "list": "VERIZON",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "verizon.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:verizon.com",
+    "source": {
+      "list": "VERIZON",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "verizon.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:verizon.net",
+    "source": {
+      "list": "VERIZON",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "verizonbusinessfios.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:verizonbusinessfios.com",
+    "source": {
+      "list": "VERIZON",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "verizondigitalmedia.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:verizondigitalmedia.com",
+    "source": {
+      "list": "VERIZON",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "verizonenterprise.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:verizonenterprise.com",
+    "source": {
+      "list": "VERIZON",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "verizonfios.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:verizonfios.com",
+    "source": {
+      "list": "VERIZON",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "verizonmedia.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:verizonmedia.com",
+    "source": {
+      "list": "VERIZON",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "verizonwireless.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:verizonwireless.com",
+    "source": {
+      "list": "VERIZON",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vzw.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vzw.com",
+    "source": {
+      "list": "VERIZON",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xo.com",
+    "source": {
+      "list": "VERIZON",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo",
+    "source": {
+      "list": "YAHOO",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo-news.com.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo-news.com.hk",
+    "source": {
+      "list": "YAHOO",
+      "line": 160
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.ae",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.ae",
+    "source": {
+      "list": "YAHOO",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.am",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.am",
+    "source": {
+      "list": "YAHOO",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.as",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.as",
+    "source": {
+      "list": "YAHOO",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.at",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.at",
+    "source": {
+      "list": "YAHOO",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.az",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.az",
+    "source": {
+      "list": "YAHOO",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.ba",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.ba",
+    "source": {
+      "list": "YAHOO",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.be",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.be",
+    "source": {
+      "list": "YAHOO",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.bg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.bg",
+    "source": {
+      "list": "YAHOO",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.bi",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.bi",
+    "source": {
+      "list": "YAHOO",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.bs",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.bs",
+    "source": {
+      "list": "YAHOO",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.bt",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.bt",
+    "source": {
+      "list": "YAHOO",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.by",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.by",
+    "source": {
+      "list": "YAHOO",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.ca",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.ca",
+    "source": {
+      "list": "YAHOO",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.cat",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.cat",
+    "source": {
+      "list": "YAHOO",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.cd",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.cd",
+    "source": {
+      "list": "YAHOO",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.cg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.cg",
+    "source": {
+      "list": "YAHOO",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.ch",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.ch",
+    "source": {
+      "list": "YAHOO",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.cl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.cl",
+    "source": {
+      "list": "YAHOO",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.cm",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.cm",
+    "source": {
+      "list": "YAHOO",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:yahoo.cn:@cn",
+    "source": {
+      "list": "YAHOO",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.co.ao",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.co.ao",
+    "source": {
+      "list": "YAHOO",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.co.bw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.co.bw",
+    "source": {
+      "list": "YAHOO",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.co.ck",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.co.ck",
+    "source": {
+      "list": "YAHOO",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.co.cr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.co.cr",
+    "source": {
+      "list": "YAHOO",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.co.id",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.co.id",
+    "source": {
+      "list": "YAHOO",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.co.il",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.co.il",
+    "source": {
+      "list": "YAHOO",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.co.in",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.co.in",
+    "source": {
+      "list": "YAHOO",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.co.jp",
+    "source": {
+      "list": "YAHOO",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.co.kr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.co.kr",
+    "source": {
+      "list": "YAHOO",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.co.mz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.co.mz",
+    "source": {
+      "list": "YAHOO",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.co.nz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.co.nz",
+    "source": {
+      "list": "YAHOO",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.co.th",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.co.th",
+    "source": {
+      "list": "YAHOO",
+      "line": 37
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.co.tz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.co.tz",
+    "source": {
+      "list": "YAHOO",
+      "line": 38
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.co.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.co.uk",
+    "source": {
+      "list": "YAHOO",
+      "line": 39
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.co.uz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.co.uz",
+    "source": {
+      "list": "YAHOO",
+      "line": 40
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.co.ve",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.co.ve",
+    "source": {
+      "list": "YAHOO",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.co.vi",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.co.vi",
+    "source": {
+      "list": "YAHOO",
+      "line": 42
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.co.za",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.co.za",
+    "source": {
+      "list": "YAHOO",
+      "line": 43
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.com",
+    "source": {
+      "list": "YAHOO",
+      "line": 44
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.com.af",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.com.af",
+    "source": {
+      "list": "YAHOO",
+      "line": 45
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.com.ag",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.com.ag",
+    "source": {
+      "list": "YAHOO",
+      "line": 46
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.com.ai",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.com.ai",
+    "source": {
+      "list": "YAHOO",
+      "line": 47
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.com.ar",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.com.ar",
+    "source": {
+      "list": "YAHOO",
+      "line": 48
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.com.au",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.com.au",
+    "source": {
+      "list": "YAHOO",
+      "line": 49
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.com.bd",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.com.bd",
+    "source": {
+      "list": "YAHOO",
+      "line": 50
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.com.bo",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.com.bo",
+    "source": {
+      "list": "YAHOO",
+      "line": 51
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.com.br",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.com.br",
+    "source": {
+      "list": "YAHOO",
+      "line": 52
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.com.bz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.com.bz",
+    "source": {
+      "list": "YAHOO",
+      "line": 53
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.com.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:yahoo.com.cn:@cn",
+    "source": {
+      "list": "YAHOO",
+      "line": 54
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.com.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.com.co",
+    "source": {
+      "list": "YAHOO",
+      "line": 55
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.com.do",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.com.do",
+    "source": {
+      "list": "YAHOO",
+      "line": 56
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.com.ec",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.com.ec",
+    "source": {
+      "list": "YAHOO",
+      "line": 57
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.com.eg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.com.eg",
+    "source": {
+      "list": "YAHOO",
+      "line": 58
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.com.es",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.com.es",
+    "source": {
+      "list": "YAHOO",
+      "line": 59
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.com.fj",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.com.fj",
+    "source": {
+      "list": "YAHOO",
+      "line": 60
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.com.gi",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.com.gi",
+    "source": {
+      "list": "YAHOO",
+      "line": 61
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.com.gt",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.com.gt",
+    "source": {
+      "list": "YAHOO",
+      "line": 62
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.com.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.com.hk",
+    "source": {
+      "list": "YAHOO",
+      "line": 63
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.com.kw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.com.kw",
+    "source": {
+      "list": "YAHOO",
+      "line": 64
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.com.lb",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.com.lb",
+    "source": {
+      "list": "YAHOO",
+      "line": 65
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.com.ly",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.com.ly",
+    "source": {
+      "list": "YAHOO",
+      "line": 66
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.com.mt",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.com.mt",
+    "source": {
+      "list": "YAHOO",
+      "line": 67
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.com.mx",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.com.mx",
+    "source": {
+      "list": "YAHOO",
+      "line": 68
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.com.my",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.com.my",
+    "source": {
+      "list": "YAHOO",
+      "line": 69
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.com.na",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.com.na",
+    "source": {
+      "list": "YAHOO",
+      "line": 70
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.com.nf",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.com.nf",
+    "source": {
+      "list": "YAHOO",
+      "line": 71
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.com.om",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.com.om",
+    "source": {
+      "list": "YAHOO",
+      "line": 72
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.com.pa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.com.pa",
+    "source": {
+      "list": "YAHOO",
+      "line": 73
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.com.pe",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.com.pe",
+    "source": {
+      "list": "YAHOO",
+      "line": 74
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.com.ph",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.com.ph",
+    "source": {
+      "list": "YAHOO",
+      "line": 75
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.com.pk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.com.pk",
+    "source": {
+      "list": "YAHOO",
+      "line": 76
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.com.pr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.com.pr",
+    "source": {
+      "list": "YAHOO",
+      "line": 77
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.com.py",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.com.py",
+    "source": {
+      "list": "YAHOO",
+      "line": 78
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.com.sa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.com.sa",
+    "source": {
+      "list": "YAHOO",
+      "line": 79
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.com.sb",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.com.sb",
+    "source": {
+      "list": "YAHOO",
+      "line": 80
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.com.sg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.com.sg",
+    "source": {
+      "list": "YAHOO",
+      "line": 81
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.com.sv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.com.sv",
+    "source": {
+      "list": "YAHOO",
+      "line": 82
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.com.tj",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.com.tj",
+    "source": {
+      "list": "YAHOO",
+      "line": 83
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.com.tr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.com.tr",
+    "source": {
+      "list": "YAHOO",
+      "line": 84
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.com.tw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.com.tw",
+    "source": {
+      "list": "YAHOO",
+      "line": 85
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.com.ua",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.com.ua",
+    "source": {
+      "list": "YAHOO",
+      "line": 86
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.com.uy",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.com.uy",
+    "source": {
+      "list": "YAHOO",
+      "line": 87
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.com.vc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.com.vc",
+    "source": {
+      "list": "YAHOO",
+      "line": 88
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.com.vn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.com.vn",
+    "source": {
+      "list": "YAHOO",
+      "line": 89
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.cz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.cz",
+    "source": {
+      "list": "YAHOO",
+      "line": 90
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.de",
+    "source": {
+      "list": "YAHOO",
+      "line": 91
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.dj",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.dj",
+    "source": {
+      "list": "YAHOO",
+      "line": 92
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.dk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.dk",
+    "source": {
+      "list": "YAHOO",
+      "line": 93
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.dm",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.dm",
+    "source": {
+      "list": "YAHOO",
+      "line": 94
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.ee",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.ee",
+    "source": {
+      "list": "YAHOO",
+      "line": 95
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.es",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.es",
+    "source": {
+      "list": "YAHOO",
+      "line": 96
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.fi",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.fi",
+    "source": {
+      "list": "YAHOO",
+      "line": 97
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.fm",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.fm",
+    "source": {
+      "list": "YAHOO",
+      "line": 98
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.fr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.fr",
+    "source": {
+      "list": "YAHOO",
+      "line": 99
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.ge",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.ge",
+    "source": {
+      "list": "YAHOO",
+      "line": 100
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.gg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.gg",
+    "source": {
+      "list": "YAHOO",
+      "line": 101
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.gl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.gl",
+    "source": {
+      "list": "YAHOO",
+      "line": 102
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.gm",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.gm",
+    "source": {
+      "list": "YAHOO",
+      "line": 103
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.gp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.gp",
+    "source": {
+      "list": "YAHOO",
+      "line": 104
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.gr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.gr",
+    "source": {
+      "list": "YAHOO",
+      "line": 105
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.gy",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.gy",
+    "source": {
+      "list": "YAHOO",
+      "line": 106
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.hk",
+    "source": {
+      "list": "YAHOO",
+      "line": 107
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.hr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.hr",
+    "source": {
+      "list": "YAHOO",
+      "line": 108
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.hu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.hu",
+    "source": {
+      "list": "YAHOO",
+      "line": 109
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.ie",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.ie",
+    "source": {
+      "list": "YAHOO",
+      "line": 110
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.im",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.im",
+    "source": {
+      "list": "YAHOO",
+      "line": 111
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.in",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.in",
+    "source": {
+      "list": "YAHOO",
+      "line": 112
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.is",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.is",
+    "source": {
+      "list": "YAHOO",
+      "line": 113
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.it",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.it",
+    "source": {
+      "list": "YAHOO",
+      "line": 114
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.je",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.je",
+    "source": {
+      "list": "YAHOO",
+      "line": 115
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.jo",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.jo",
+    "source": {
+      "list": "YAHOO",
+      "line": 116
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.la",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.la",
+    "source": {
+      "list": "YAHOO",
+      "line": 117
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.lt",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.lt",
+    "source": {
+      "list": "YAHOO",
+      "line": 118
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.lu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.lu",
+    "source": {
+      "list": "YAHOO",
+      "line": 119
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.lv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.lv",
+    "source": {
+      "list": "YAHOO",
+      "line": 120
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.md",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.md",
+    "source": {
+      "list": "YAHOO",
+      "line": 121
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.me",
+    "source": {
+      "list": "YAHOO",
+      "line": 122
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.mk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.mk",
+    "source": {
+      "list": "YAHOO",
+      "line": 123
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.mw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.mw",
+    "source": {
+      "list": "YAHOO",
+      "line": 124
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.mx",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.mx",
+    "source": {
+      "list": "YAHOO",
+      "line": 125
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.net",
+    "source": {
+      "list": "YAHOO",
+      "line": 126
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.nl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.nl",
+    "source": {
+      "list": "YAHOO",
+      "line": 127
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.no",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.no",
+    "source": {
+      "list": "YAHOO",
+      "line": 128
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.nu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.nu",
+    "source": {
+      "list": "YAHOO",
+      "line": 129
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.ph",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.ph",
+    "source": {
+      "list": "YAHOO",
+      "line": 130
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.pl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.pl",
+    "source": {
+      "list": "YAHOO",
+      "line": 131
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.pn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.pn",
+    "source": {
+      "list": "YAHOO",
+      "line": 132
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.ps",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.ps",
+    "source": {
+      "list": "YAHOO",
+      "line": 133
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.pt",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.pt",
+    "source": {
+      "list": "YAHOO",
+      "line": 134
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.ro",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.ro",
+    "source": {
+      "list": "YAHOO",
+      "line": 135
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.ru",
+    "source": {
+      "list": "YAHOO",
+      "line": 136
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.rw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.rw",
+    "source": {
+      "list": "YAHOO",
+      "line": 137
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.se",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.se",
+    "source": {
+      "list": "YAHOO",
+      "line": 138
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.sg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.sg",
+    "source": {
+      "list": "YAHOO",
+      "line": 139
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.sh",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.sh",
+    "source": {
+      "list": "YAHOO",
+      "line": 140
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.si",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.si",
+    "source": {
+      "list": "YAHOO",
+      "line": 141
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.sk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.sk",
+    "source": {
+      "list": "YAHOO",
+      "line": 142
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.sm",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.sm",
+    "source": {
+      "list": "YAHOO",
+      "line": 143
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.sn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.sn",
+    "source": {
+      "list": "YAHOO",
+      "line": 144
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.so",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.so",
+    "source": {
+      "list": "YAHOO",
+      "line": 145
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.sr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.sr",
+    "source": {
+      "list": "YAHOO",
+      "line": 146
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.st",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.st",
+    "source": {
+      "list": "YAHOO",
+      "line": 147
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.tg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.tg",
+    "source": {
+      "list": "YAHOO",
+      "line": 148
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.tk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.tk",
+    "source": {
+      "list": "YAHOO",
+      "line": 149
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.tl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.tl",
+    "source": {
+      "list": "YAHOO",
+      "line": 150
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.tm",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.tm",
+    "source": {
+      "list": "YAHOO",
+      "line": 151
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.tn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.tn",
+    "source": {
+      "list": "YAHOO",
+      "line": 152
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.vg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.vg",
+    "source": {
+      "list": "YAHOO",
+      "line": 153
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoo.ws",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoo.ws",
+    "source": {
+      "list": "YAHOO",
+      "line": 154
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahooapis.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahooapis.com",
+    "source": {
+      "list": "YAHOO",
+      "line": 161
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoodns.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoodns.net",
+    "source": {
+      "list": "YAHOO",
+      "line": 162
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoofinance.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoofinance.com",
+    "source": {
+      "list": "YAHOO",
+      "line": 163
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoohealth.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoohealth.com",
+    "source": {
+      "list": "YAHOO",
+      "line": 164
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoomusic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoomusic.com",
+    "source": {
+      "list": "YAHOO",
+      "line": 165
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoosandbox.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoosandbox.com",
+    "source": {
+      "list": "YAHOO",
+      "line": 166
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yahoosportsbook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yahoosportsbook.com",
+    "source": {
+      "list": "YAHOO",
+      "line": 167
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yho.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yho.com",
+    "source": {
+      "list": "YAHOO",
+      "line": 168
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yimg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yimg.com",
+    "source": {
+      "list": "YAHOO",
+      "line": 169
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yimg.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yimg.jp",
+    "source": {
+      "list": "YAHOO",
+      "line": 170
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ymail.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ymail.com",
+    "source": {
+      "list": "YAHOO",
+      "line": 171
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ysm.yahoo.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:ysm.yahoo.com:@ads",
+    "source": {
+      "list": "YAHOO",
+      "line": 179
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yusercontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yusercontent.com",
+    "source": {
+      "list": "YAHOO",
+      "line": 172
+    }
+  },
+  {
+    "type": "full",
+    "value": "cdn.js7k.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cdn.js7k.com",
+    "source": {
+      "list": "YAHOO",
+      "line": 174
+    }
+  }
+]

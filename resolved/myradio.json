@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "myradio.com.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:myradio.com.hk",
+    "source": {
+      "list": "MYRADIO",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "myradio.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:myradio.hk",
+    "source": {
+      "list": "MYRADIO",
+      "line": 1
+    }
+  }
+]

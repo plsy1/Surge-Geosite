@@ -1,0 +1,567 @@
+[
+  {
+    "type": "domain",
+    "value": "126.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:126.com",
+    "source": {
+      "list": "NETEASE",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "126.link",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:126.link",
+    "source": {
+      "list": "NETEASE",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "126.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:126.net",
+    "source": {
+      "list": "NETEASE",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "127.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:127.com",
+    "source": {
+      "list": "NETEASE",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "127.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:127.net",
+    "source": {
+      "list": "NETEASE",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "163.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:163.com",
+    "source": {
+      "list": "NETEASE",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "163cn.tv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:163cn.tv",
+    "source": {
+      "list": "NETEASE",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "163industry.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:163industry.com",
+    "source": {
+      "list": "NETEASE",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "163jiasu.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:163jiasu.com",
+    "source": {
+      "list": "NETEASE",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "163mail.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:163mail.com",
+    "source": {
+      "list": "NETEASE",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "163qiyukf.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:163qiyukf.com",
+    "source": {
+      "list": "NETEASE",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "163yun.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:163yun.com",
+    "source": {
+      "list": "NETEASE",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "166.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:166.com",
+    "source": {
+      "list": "NETEASE",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "166.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:166.net",
+    "source": {
+      "list": "NETEASE",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "188.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:188.com",
+    "source": {
+      "list": "NETEASE",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "321fenx.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:321fenx.com",
+    "source": {
+      "list": "NETEASE",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "a.youdao.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:a.youdao.com:@ads",
+    "source": {
+      "list": "NETEASE",
+      "line": 40
+    }
+  },
+  {
+    "type": "domain",
+    "value": "admusicpic.music.126.net",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:admusicpic.music.126.net:@ads",
+    "source": {
+      "list": "NETEASE",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ads.music.126.net",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:ads.music.126.net:@ads",
+    "source": {
+      "list": "NETEASE",
+      "line": 42
+    }
+  },
+  {
+    "type": "domain",
+    "value": "analytics.163.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:analytics.163.com:@ads",
+    "source": {
+      "list": "NETEASE",
+      "line": 43
+    }
+  },
+  {
+    "type": "domain",
+    "value": "crash.163.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:crash.163.com:@ads",
+    "source": {
+      "list": "NETEASE",
+      "line": 44
+    }
+  },
+  {
+    "type": "domain",
+    "value": "crashlytics.163.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:crashlytics.163.com:@ads",
+    "source": {
+      "list": "NETEASE",
+      "line": 45
+    }
+  },
+  {
+    "type": "domain",
+    "value": "easebar.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:easebar.com:@!cn",
+    "source": {
+      "list": "NETEASE",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "g.163.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:g.163.com:@ads",
+    "source": {
+      "list": "NETEASE",
+      "line": 46
+    }
+  },
+  {
+    "type": "domain",
+    "value": "haowu.link",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:haowu.link",
+    "source": {
+      "list": "NETEASE",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "iadmat.nosdn.127.net",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:iadmat.nosdn.127.net:@ads",
+    "source": {
+      "list": "NETEASE",
+      "line": 47
+    }
+  },
+  {
+    "type": "domain",
+    "value": "iadmatapk.nosdn.127.net",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:iadmatapk.nosdn.127.net:@ads",
+    "source": {
+      "list": "NETEASE",
+      "line": 48
+    }
+  },
+  {
+    "type": "domain",
+    "value": "iadmusicmat.music.126.net",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:iadmusicmat.music.126.net:@ads",
+    "source": {
+      "list": "NETEASE",
+      "line": 49
+    }
+  },
+  {
+    "type": "domain",
+    "value": "iadmusicmatvideo.music.126.net",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:iadmusicmatvideo.music.126.net:@ads",
+    "source": {
+      "list": "NETEASE",
+      "line": 50
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icourse163.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icourse163.org",
+    "source": {
+      "list": "NETEASE",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lf126.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lf126.net",
+    "source": {
+      "list": "NETEASE",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lf127.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lf127.net",
+    "source": {
+      "list": "NETEASE",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lofter.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lofter.com",
+    "source": {
+      "list": "NETEASE",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nease.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nease.net",
+    "source": {
+      "list": "NETEASE",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "netease-inc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:netease-inc.com",
+    "source": {
+      "list": "NETEASE",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "netease.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:netease.com",
+    "source": {
+      "list": "NETEASE",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "netease.im",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:netease.im",
+    "source": {
+      "list": "NETEASE",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "netstatic.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:netstatic.net",
+    "source": {
+      "list": "NETEASE",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qiyukf.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qiyukf.com",
+    "source": {
+      "list": "NETEASE",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qiyukf.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qiyukf.net",
+    "source": {
+      "list": "NETEASE",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qiyukf.net.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qiyukf.net.cn",
+    "source": {
+      "list": "NETEASE",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sentry.music.163.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:sentry.music.163.com:@ads",
+    "source": {
+      "list": "NETEASE",
+      "line": 51
+    }
+  },
+  {
+    "type": "domain",
+    "value": "static163.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:static163.net",
+    "source": {
+      "list": "NETEASE",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ydstatic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ydstatic.com",
+    "source": {
+      "list": "NETEASE",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yeah.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yeah.net",
+    "source": {
+      "list": "NETEASE",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youdao.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youdao.com",
+    "source": {
+      "list": "NETEASE",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yunxindns.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yunxindns.com",
+    "source": {
+      "list": "NETEASE",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yunxinfw.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yunxinfw.com",
+    "source": {
+      "list": "NETEASE",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zhuanzfx.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zhuanzfx.com",
+    "source": {
+      "list": "NETEASE",
+      "line": 37
+    }
+  }
+]

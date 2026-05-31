@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "nginx.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nginx.com",
+    "source": {
+      "list": "NGINX",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nginx.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nginx.org",
+    "source": {
+      "list": "NGINX",
+      "line": 2
+    }
+  }
+]

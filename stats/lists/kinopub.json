@@ -1,0 +1,67 @@
+{
+  "name": "KINOPUB",
+  "source": {
+    "domain": 11,
+    "full": 0,
+    "keyword": 0,
+    "regexp": 1,
+    "include": 0,
+    "affiliations": 0,
+    "attributes": 0
+  },
+  "resolved": {
+    "rules": 12,
+    "domain": 11,
+    "full": 0,
+    "keyword": 0,
+    "regexp": 1
+  },
+  "filters": {
+    "attrs": {}
+  },
+  "modes": {
+    "strict": {
+      "rules": 11,
+      "bytes": 289,
+      "regex": {
+        "total": 1,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 1
+      },
+      "unsupported": [
+        {
+          "pattern": "(\\w+)-static-[0-9]+\\.cdntogo\\.net$",
+          "source": {
+            "list": "KINOPUB",
+            "line": 17
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        }
+      ]
+    },
+    "balanced": {
+      "rules": 12,
+      "bytes": 328,
+      "regex": {
+        "total": 1,
+        "lossless": 0,
+        "widened": 1,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "full": {
+      "rules": 12,
+      "bytes": 328,
+      "regex": {
+        "total": 1,
+        "lossless": 0,
+        "widened": 1,
+        "unsupported": 0
+      },
+      "unsupported": []
+    }
+  }
+}

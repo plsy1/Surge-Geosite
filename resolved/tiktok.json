@@ -1,0 +1,484 @@
+[
+  {
+    "type": "domain",
+    "value": "analytics.tiktok.com",
+    "attrs": [
+      "!cn",
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:analytics.tiktok.com:@!cn,@ads",
+    "source": {
+      "list": "TIKTOK",
+      "line": 40
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bytedapm.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:bytedapm.com:@!cn",
+    "source": {
+      "list": "TIKTOK",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "byteoversea.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:byteoversea.com:@!cn",
+    "source": {
+      "list": "TIKTOK",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "muscdn.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:muscdn.com:@!cn",
+    "source": {
+      "list": "TIKTOK",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "musical.ly",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:musical.ly:@!cn",
+    "source": {
+      "list": "TIKTOK",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tik-tokapi.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:tik-tokapi.com:@!cn",
+    "source": {
+      "list": "TIKTOK",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tiktok-minis.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:tiktok-minis.com:@!cn",
+    "source": {
+      "list": "TIKTOK",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tiktok-row.net",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:tiktok-row.net:@!cn",
+    "source": {
+      "list": "TIKTOK",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tiktok.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:tiktok.com:@!cn",
+    "source": {
+      "list": "TIKTOK",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tiktokcdn-eu.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:tiktokcdn-eu.com:@!cn",
+    "source": {
+      "list": "TIKTOK",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tiktokcdn-us.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:tiktokcdn-us.com:@!cn",
+    "source": {
+      "list": "TIKTOK",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tiktokcdn-us.com.edgesuite.net",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:tiktokcdn-us.com.edgesuite.net:@!cn",
+    "source": {
+      "list": "TIKTOK",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tiktokcdn.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:tiktokcdn.com:@!cn",
+    "source": {
+      "list": "TIKTOK",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tiktokcdn.com.akamaized.net",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:tiktokcdn.com.akamaized.net:@!cn",
+    "source": {
+      "list": "TIKTOK",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tiktokcdn.com.edgesuite.net",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:tiktokcdn.com.edgesuite.net:@!cn",
+    "source": {
+      "list": "TIKTOK",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tiktokd.net",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:tiktokd.net:@!cn",
+    "source": {
+      "list": "TIKTOK",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tiktokd.org",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:tiktokd.org:@!cn",
+    "source": {
+      "list": "TIKTOK",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tiktokeu-cdn.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:tiktokeu-cdn.com:@!cn",
+    "source": {
+      "list": "TIKTOK",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tiktokglobalshopv.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:tiktokglobalshopv.com:@!cn",
+    "source": {
+      "list": "TIKTOK",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tiktokminis.us",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:tiktokminis.us:@!cn",
+    "source": {
+      "list": "TIKTOK",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tiktokrow-cdn.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:tiktokrow-cdn.com:@!cn",
+    "source": {
+      "list": "TIKTOK",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tiktokv.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:tiktokv.com:@!cn",
+    "source": {
+      "list": "TIKTOK",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tiktokv.com.edgekey.net",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:tiktokv.com.edgekey.net:@!cn",
+    "source": {
+      "list": "TIKTOK",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tiktokv.com.edgesuite.net",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:tiktokv.com.edgesuite.net:@!cn",
+    "source": {
+      "list": "TIKTOK",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tiktokv.eu",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:tiktokv.eu:@!cn",
+    "source": {
+      "list": "TIKTOK",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tiktokv.us",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:tiktokv.us:@!cn",
+    "source": {
+      "list": "TIKTOK",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tiktokw.eu",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:tiktokw.eu:@!cn",
+    "source": {
+      "list": "TIKTOK",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tiktokw.us",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:tiktokw.us:@!cn",
+    "source": {
+      "list": "TIKTOK",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ttcdn-us.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:ttcdn-us.com:@!cn",
+    "source": {
+      "list": "TIKTOK",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ttlivecdn.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:ttlivecdn.com:@!cn",
+    "source": {
+      "list": "TIKTOK",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ttoverseaus.net",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:ttoverseaus.net:@!cn",
+    "source": {
+      "list": "TIKTOK",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ttwstatic.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:ttwstatic.com:@!cn",
+    "source": {
+      "list": "TIKTOK",
+      "line": 26
+    }
+  },
+  {
+    "type": "full",
+    "value": "p16-tiktokcdn-com.akamaized.net",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "full:p16-tiktokcdn-com.akamaized.net:@!cn",
+    "source": {
+      "list": "TIKTOK",
+      "line": 33
+    }
+  },
+  {
+    "type": "full",
+    "value": "roovza-launches.appsflyersdk.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "full:roovza-launches.appsflyersdk.com:@!cn",
+    "source": {
+      "list": "TIKTOK",
+      "line": 34
+    }
+  },
+  {
+    "type": "full",
+    "value": "roovza.inapps.appsflyersdk.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "full:roovza.inapps.appsflyersdk.com:@!cn",
+    "source": {
+      "list": "TIKTOK",
+      "line": 35
+    }
+  },
+  {
+    "type": "full",
+    "value": "roovza.launches.appsflyersdk.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "full:roovza.launches.appsflyersdk.com:@!cn",
+    "source": {
+      "list": "TIKTOK",
+      "line": 36
+    }
+  },
+  {
+    "type": "full",
+    "value": "roovza.skadsdk.appsflyersdk.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "full:roovza.skadsdk.appsflyersdk.com:@!cn",
+    "source": {
+      "list": "TIKTOK",
+      "line": 37
+    }
+  }
+]

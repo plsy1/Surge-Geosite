@@ -1,0 +1,145 @@
+[
+  {
+    "type": "domain",
+    "value": "chuokoron.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:chuokoron.jp",
+    "source": {
+      "list": "YOMIURI",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fujinkoron.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fujinkoron.jp",
+    "source": {
+      "list": "YOMIURI",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hochi.news",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hochi.news",
+    "source": {
+      "list": "YOMIURI",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ryokoyomiuri.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ryokoyomiuri.co.jp",
+    "source": {
+      "list": "YOMIURI",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "the-japan-news.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:the-japan-news.com",
+    "source": {
+      "list": "YOMIURI",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ync.ne.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ync.ne.jp",
+    "source": {
+      "list": "YOMIURI",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yomikyo.or.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yomikyo.or.jp",
+    "source": {
+      "list": "YOMIURI",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yomilogi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yomilogi.com",
+    "source": {
+      "list": "YOMIURI",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yomiuri-johkai.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yomiuri-johkai.co.jp",
+    "source": {
+      "list": "YOMIURI",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yomiuri-ryokou.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yomiuri-ryokou.co.jp",
+    "source": {
+      "list": "YOMIURI",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yomiuri-shimbun.pressreader.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yomiuri-shimbun.pressreader.com",
+    "source": {
+      "list": "YOMIURI",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yomiuri-systec.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yomiuri-systec.co.jp",
+    "source": {
+      "list": "YOMIURI",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yomiuri.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yomiuri.co.jp",
+    "source": {
+      "list": "YOMIURI",
+      "line": 14
+    }
+  }
+]

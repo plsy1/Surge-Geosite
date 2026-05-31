@@ -1,0 +1,74 @@
+[
+  {
+    "type": "domain",
+    "value": "myqnapcloud.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:myqnapcloud.cn:@cn",
+    "source": {
+      "list": "QNAP",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "myqnapcloud.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:myqnapcloud.com",
+    "source": {
+      "list": "QNAP",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qlink.to",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qlink.to",
+    "source": {
+      "list": "QNAP",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qlinkto.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:qlinkto.cn:@cn",
+    "source": {
+      "list": "QNAP",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qnap.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qnap.com",
+    "source": {
+      "list": "QNAP",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qnap.com.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:qnap.com.cn:@cn",
+    "source": {
+      "list": "QNAP",
+      "line": 9
+    }
+  }
+]

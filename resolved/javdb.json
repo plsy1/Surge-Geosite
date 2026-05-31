@@ -1,0 +1,57 @@
+[
+  {
+    "type": "domain",
+    "value": "jav.app",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jav.app",
+    "source": {
+      "list": "JAVDB",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "javdb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:javdb.com",
+    "source": {
+      "list": "JAVDB",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jdbimgs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jdbimgs.com",
+    "source": {
+      "list": "JAVDB",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jdbstatic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jdbstatic.com",
+    "source": {
+      "list": "JAVDB",
+      "line": 4
+    }
+  },
+  {
+    "type": "regexp",
+    "value": "javdb\\d+\\.com$",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "regexp:javdb\\d+\\.com$",
+    "source": {
+      "list": "JAVDB",
+      "line": 6
+    }
+  }
+]

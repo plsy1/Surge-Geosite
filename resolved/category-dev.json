@@ -1,0 +1,6425 @@
+[
+  {
+    "type": "domain",
+    "value": "01.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:01.org",
+    "source": {
+      "list": "INTEL-DEV",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "accountkit.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:accountkit.com",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "acpica.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:acpica.com",
+    "source": {
+      "list": "INTEL-DEV",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adaptivecards.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:adaptivecards.io",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adventofcode.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:adventofcode.com",
+    "source": {
+      "list": "CATEGORY-DEV",
+      "line": 61
+    }
+  },
+  {
+    "type": "domain",
+    "value": "alpinelinux.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:alpinelinux.org",
+    "source": {
+      "list": "CATEGORY-DEV",
+      "line": 62
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amp.dev",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:amp.dev",
+    "source": {
+      "list": "AMP",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ampproject.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ampproject.com",
+    "source": {
+      "list": "AMP",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ampproject.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ampproject.net",
+    "source": {
+      "list": "AMP",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ampproject.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ampproject.org",
+    "source": {
+      "list": "AMP",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "anaconda.cloud",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:anaconda.cloud",
+    "source": {
+      "list": "ANACONDA",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "anaconda.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:anaconda.com",
+    "source": {
+      "list": "ANACONDA",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "anaconda.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:anaconda.org",
+    "source": {
+      "list": "ANACONDA",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "android",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:android",
+    "source": {
+      "list": "ANDROID",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "android.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:android.com",
+    "source": {
+      "list": "ANDROID",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "androidify.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:androidify.com",
+    "source": {
+      "list": "ANDROID",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "apache.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:apache.org",
+    "source": {
+      "list": "CATEGORY-DEV",
+      "line": 63
+    }
+  },
+  {
+    "type": "domain",
+    "value": "api-extractor.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:api-extractor.com",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "apisof.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:apisof.net",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "appcenter.ms",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:appcenter.ms",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "apple-cloudkit.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:apple-cloudkit.com",
+    "source": {
+      "list": "APPLE-DEV",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "apple-mapkit.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:apple-mapkit.com",
+    "source": {
+      "list": "APPLE-DEV",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "appleswift.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:appleswift.com",
+    "source": {
+      "list": "SWIFT",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "archlinux.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:archlinux.de",
+    "source": {
+      "list": "ARCHLINUX",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "archlinux.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:archlinux.org",
+    "source": {
+      "list": "ARCHLINUX",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "archlinux.page",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:archlinux.page",
+    "source": {
+      "list": "ARCHLINUX",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "archlinuxarm.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:archlinuxarm.org",
+    "source": {
+      "list": "ARCHLINUX",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "archlinuxcn.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:archlinuxcn.org",
+    "source": {
+      "list": "ARCHLINUX",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "artixlinux.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:artixlinux.org",
+    "source": {
+      "list": "CATEGORY-DEV",
+      "line": 64
+    }
+  },
+  {
+    "type": "domain",
+    "value": "askubuntu.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:askubuntu.com",
+    "source": {
+      "list": "STACKEXCHANGE",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "atom.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:atom.io",
+    "source": {
+      "list": "GITHUB",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "atscaleconference.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:atscaleconference.com",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "azurecr.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:azurecr.io",
+    "source": {
+      "list": "CATEGORY-CONTAINER",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "badgen.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:badgen.net",
+    "source": {
+      "list": "CATEGORY-DEV",
+      "line": 66
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bintray.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bintray.com",
+    "source": {
+      "list": "JFROG",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bitvise.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bitvise.com",
+    "source": {
+      "list": "CATEGORY-DEV",
+      "line": 67
+    }
+  },
+  {
+    "type": "domain",
+    "value": "blazor.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:blazor.net",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "blogoverflow.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:blogoverflow.com",
+    "source": {
+      "list": "STACKEXCHANGE",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bootstrapcdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bootstrapcdn.com",
+    "source": {
+      "list": "BOOTSTRAP",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "botframework.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:botframework.com",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "botorch.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:botorch.org",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "braventures.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:braventures.com",
+    "source": {
+      "list": "BRAVEUX",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "braveux.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:braveux.com",
+    "source": {
+      "list": "BRAVEUX",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "brew.sh",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:brew.sh",
+    "source": {
+      "list": "HOMEBREW",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "buck.build",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:buck.build",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "buckbuild.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:buckbuild.com",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "calendarserver.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:calendarserver.org",
+    "source": {
+      "list": "APPLE-DEV",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "canonical.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:canonical.com",
+    "source": {
+      "list": "CANONICAL",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "carekit.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:carekit.org",
+    "source": {
+      "list": "APPLE-DEV",
+      "line": 39
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdn.jetbrains.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:cdn.jetbrains.com:@cn",
+    "source": {
+      "list": "JETBRAINS",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "centos.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:centos.org",
+    "source": {
+      "list": "CATEGORY-DEV",
+      "line": 68
+    }
+  },
+  {
+    "type": "domain",
+    "value": "chocolatey.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:chocolatey.org",
+    "source": {
+      "list": "CATEGORY-DEV",
+      "line": 69
+    }
+  },
+  {
+    "type": "domain",
+    "value": "clearlinux.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:clearlinux.org",
+    "source": {
+      "list": "INTEL-DEV",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "clojure.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:clojure.org",
+    "source": {
+      "list": "CATEGORY-DEV",
+      "line": 70
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cnpmjs.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cnpmjs.org",
+    "source": {
+      "list": "CATEGORY-DEV",
+      "line": 71
+    }
+  },
+  {
+    "type": "domain",
+    "value": "codeberg.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:codeberg.org",
+    "source": {
+      "list": "CODEBERG",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "codeberg.page",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:codeberg.page",
+    "source": {
+      "list": "CODEBERG",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "codeforaliving.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:codeforaliving.io",
+    "source": {
+      "list": "STACKEXCHANGE",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "codethemicrobit.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:codethemicrobit.com",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "collector.github.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:collector.github.com:@ads",
+    "source": {
+      "list": "GITHUB",
+      "line": 62
+    }
+  },
+  {
+    "type": "domain",
+    "value": "compass.is",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:compass.is",
+    "source": {
+      "list": "BRAVEUX",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "componentkit.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:componentkit.org",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "compose-spec.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:compose-spec.io",
+    "source": {
+      "list": "DOCKER",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "conda.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:conda.io",
+    "source": {
+      "list": "ANACONDA",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "consul.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:consul.io",
+    "source": {
+      "list": "HASHICORP",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cpan.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cpan.org",
+    "source": {
+      "list": "PERL",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "crates.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:crates.io",
+    "source": {
+      "list": "RUST",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cups.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cups.org",
+    "source": {
+      "list": "APPLE-DEV",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cve.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cve.org",
+    "source": {
+      "list": "CATEGORY-DEV",
+      "line": 72
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cygwin.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cygwin.com",
+    "source": {
+      "list": "CATEGORY-DEV",
+      "line": 73
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cython.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cython.org",
+    "source": {
+      "list": "CATEGORY-DEV",
+      "line": 74
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dart.dev",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dart.dev",
+    "source": {
+      "list": "DART",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dartlang.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dartlang.org",
+    "source": {
+      "list": "DART",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dartpad.dev",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dartpad.dev",
+    "source": {
+      "list": "DART",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "datalore.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:datalore.io",
+    "source": {
+      "list": "JETBRAINS",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "debian.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:debian.org",
+    "source": {
+      "list": "DEBIAN",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "deno.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:deno.com",
+    "source": {
+      "list": "CATEGORY-DEV",
+      "line": 75
+    }
+  },
+  {
+    "type": "domain",
+    "value": "deno.land",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:deno.land",
+    "source": {
+      "list": "CATEGORY-DEV",
+      "line": 76
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dependabot.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dependabot.com",
+    "source": {
+      "list": "GITHUB",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dev.to",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dev.to",
+    "source": {
+      "list": "CATEGORY-DEV",
+      "line": 77
+    }
+  },
+  {
+    "type": "domain",
+    "value": "developer.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:developer.apple.com",
+    "source": {
+      "list": "APPLE-DEV",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "developerservices2.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:developerservices2.apple.com",
+    "source": {
+      "list": "APPLE-DEV",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "devimages-cdn.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:devimages-cdn.apple.com",
+    "source": {
+      "list": "APPLE-DEV",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "devopsassessment.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:devopsassessment.net",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "devstreaming-cdn.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:devstreaming-cdn.apple.com",
+    "source": {
+      "list": "APPLE-DEV",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "docker.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:docker.com",
+    "source": {
+      "list": "DOCKER",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "docker.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:docker.io",
+    "source": {
+      "list": "DOCKER",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dockerstatic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dockerstatic.com",
+    "source": {
+      "list": "DOCKER",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "docs.rs",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:docs.rs",
+    "source": {
+      "list": "RUST",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dot.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dot.net",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dotdeb.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dotdeb.org",
+    "source": {
+      "list": "DEBIAN",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "download-cdn.jetbrains.com.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:download-cdn.jetbrains.com.cn:@cn",
+    "source": {
+      "list": "JETBRAINS",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "draftjs.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:draftjs.org",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ecr.aws",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ecr.aws",
+    "source": {
+      "list": "CATEGORY-CONTAINER",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "electronjs.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:electronjs.org",
+    "source": {
+      "list": "ELECTRON",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "elementary.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:elementary.io",
+    "source": {
+      "list": "CATEGORY-DEV",
+      "line": 78
+    }
+  },
+  {
+    "type": "domain",
+    "value": "elixir-lang.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:elixir-lang.org",
+    "source": {
+      "list": "CATEGORY-DEV",
+      "line": 79
+    }
+  },
+  {
+    "type": "domain",
+    "value": "elrepo.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:elrepo.org",
+    "source": {
+      "list": "CATEGORY-DEV",
+      "line": 80
+    }
+  },
+  {
+    "type": "domain",
+    "value": "embed.ly",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:embed.ly",
+    "source": {
+      "list": "EMBEDLY",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "embedly.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:embedly.com",
+    "source": {
+      "list": "EMBEDLY",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "erlang.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:erlang.org",
+    "source": {
+      "list": "CATEGORY-DEV",
+      "line": 81
+    }
+  },
+  {
+    "type": "domain",
+    "value": "f8.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:f8.com",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebookappcenter.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebookappcenter.info",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebookappcenter.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebookappcenter.net",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebookappcenter.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebookappcenter.org",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebookconnect.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebookconnect.com",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebookdevelopergarage.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebookdevelopergarage.com",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "faciometrics.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:faciometrics.com",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fastlane.ci",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fastlane.ci",
+    "source": {
+      "list": "FASTLANE",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fastlane.tools",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fastlane.tools",
+    "source": {
+      "list": "FASTLANE",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fasttext.cc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fasttext.cc",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fbf8.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fbf8.com",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fbinfer.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fbinfer.com",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fblitho.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fblitho.com",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fbredex.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fbredex.com",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fbrell.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fbrell.com",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fedoraforum.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fedoraforum.org",
+    "source": {
+      "list": "FEDORA",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fedorainfracloud.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fedorainfracloud.org",
+    "source": {
+      "list": "FEDORA",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fedoramagazine.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fedoramagazine.org",
+    "source": {
+      "list": "FEDORA",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fedorapeople.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fedorapeople.org",
+    "source": {
+      "list": "FEDORA",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fedoraproject.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fedoraproject.org",
+    "source": {
+      "list": "FEDORA",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ffmpeg.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ffmpeg.org",
+    "source": {
+      "list": "CATEGORY-DEV",
+      "line": 82
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fightforux.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fightforux.com",
+    "source": {
+      "list": "BRAVEUX",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "firebase.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:firebase.com",
+    "source": {
+      "list": "FIREBASE",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "firebase.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:firebase.io",
+    "source": {
+      "list": "FIREBASE",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "firebaseapp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:firebaseapp.com",
+    "source": {
+      "list": "FIREBASE",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "firebaseio.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:firebaseio.com",
+    "source": {
+      "list": "FIREBASE",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "flathub.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:flathub.org",
+    "source": {
+      "list": "FLATPAK",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "flatpak.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:flatpak.org",
+    "source": {
+      "list": "FLATPAK",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "flow.dev",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:flow.dev",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "flow.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:flow.org",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "flowtype.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:flowtype.org",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "flutter.dev",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:flutter.dev",
+    "source": {
+      "list": "FLUTTER",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "flutterapp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:flutterapp.com",
+    "source": {
+      "list": "FLUTTER",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fontawesome.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fontawesome.com",
+    "source": {
+      "list": "FONTAWESOME",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fortawesome.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fortawesome.com",
+    "source": {
+      "list": "FONTAWESOME",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "forthebadge.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:forthebadge.com",
+    "source": {
+      "list": "BRAVEUX",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "foundationdb.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:foundationdb.org",
+    "source": {
+      "list": "APPLE-DEV",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "framer.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:framer.com",
+    "source": {
+      "list": "FRAMER",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "framer.website",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:framer.website",
+    "source": {
+      "list": "FRAMER",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "framercanvas.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:framercanvas.com",
+    "source": {
+      "list": "FRAMER",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "framerstatic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:framerstatic.com",
+    "source": {
+      "list": "FRAMER",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "framerusercontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:framerusercontent.com",
+    "source": {
+      "list": "FRAMER",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "freebsd.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:freebsd.org",
+    "source": {
+      "list": "CATEGORY-DEV",
+      "line": 83
+    }
+  },
+  {
+    "type": "domain",
+    "value": "frescolib.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:frescolib.org",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fury.blog",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fury.blog",
+    "source": {
+      "list": "GEMFURY",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fury.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fury.co",
+    "source": {
+      "list": "GEMFURY",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fury.dev",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fury.dev",
+    "source": {
+      "list": "GEMFURY",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fury.help",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fury.help",
+    "source": {
+      "list": "GEMFURY",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fury.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fury.io",
+    "source": {
+      "list": "GEMFURY",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gamesstack.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gamesstack.com",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gcr.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gcr.io",
+    "source": {
+      "list": "CATEGORY-CONTAINER",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gemfury.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gemfury.com",
+    "source": {
+      "list": "GEMFURY",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gentoo.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gentoo.org",
+    "source": {
+      "list": "CATEGORY-DEV",
+      "line": 84
+    }
+  },
+  {
+    "type": "domain",
+    "value": "getbootstrap.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:getbootstrap.com",
+    "source": {
+      "list": "BOOTSTRAP",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "getcomposer.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:getcomposer.org",
+    "source": {
+      "list": "CATEGORY-DEV",
+      "line": 85
+    }
+  },
+  {
+    "type": "domain",
+    "value": "getfedora.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:getfedora.org",
+    "source": {
+      "list": "FEDORA",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "getzola.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:getzola.org",
+    "source": {
+      "list": "CATEGORY-DEV",
+      "line": 86
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gh.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gh.io",
+    "source": {
+      "list": "GITHUB",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ghcr.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ghcr.io",
+    "source": {
+      "list": "GITHUB",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "git-scm.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:git-scm.com",
+    "source": {
+      "list": "CATEGORY-DEV",
+      "line": 87
+    }
+  },
+  {
+    "type": "domain",
+    "value": "git.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:git.io",
+    "source": {
+      "list": "GITHUB",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gitbook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gitbook.com",
+    "source": {
+      "list": "GITBOOK",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gitbook.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gitbook.io",
+    "source": {
+      "list": "GITBOOK",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "github.ai",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:github.ai",
+    "source": {
+      "list": "GITHUB",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "github.blog",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:github.blog",
+    "source": {
+      "list": "GITHUB",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "github.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:github.com",
+    "source": {
+      "list": "GITHUB",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "github.community",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:github.community",
+    "source": {
+      "list": "GITHUB",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "github.dev",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:github.dev",
+    "source": {
+      "list": "GITHUB",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "github.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:github.io",
+    "source": {
+      "list": "GITHUB",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "github1s.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:github1s.com",
+    "source": {
+      "list": "GITHUB1S",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "githubapp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:githubapp.com",
+    "source": {
+      "list": "GITHUB",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "githubassets.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:githubassets.com",
+    "source": {
+      "list": "GITHUB",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "githubcopilot.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:githubcopilot.com",
+    "source": {
+      "list": "GITHUB-COPILOT",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "githubhackathon.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:githubhackathon.com",
+    "source": {
+      "list": "GITHUB",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "githubnext.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:githubnext.com",
+    "source": {
+      "list": "GITHUB",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "githubpreview.dev",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:githubpreview.dev",
+    "source": {
+      "list": "GITHUB",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "githubstatus.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:githubstatus.com",
+    "source": {
+      "list": "GITHUB",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "githubuniverse.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:githubuniverse.com",
+    "source": {
+      "list": "GITHUB",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "githubusercontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:githubusercontent.com",
+    "source": {
+      "list": "GITHUB",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gitlab-static.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gitlab-static.net",
+    "source": {
+      "list": "GITLAB",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gitlab.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gitlab.com",
+    "source": {
+      "list": "GITLAB",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gitlab.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gitlab.io",
+    "source": {
+      "list": "GITLAB",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gitlab.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gitlab.net",
+    "source": {
+      "list": "GITLAB",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gnome.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gnome.org",
+    "source": {
+      "list": "CATEGORY-DEV",
+      "line": 88
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gnu.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gnu.org",
+    "source": {
+      "list": "CATEGORY-DEV",
+      "line": 89
+    }
+  },
+  {
+    "type": "domain",
+    "value": "go-lang.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:go-lang.com",
+    "source": {
+      "list": "GOLANG",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "go-lang.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:go-lang.net",
+    "source": {
+      "list": "GOLANG",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "go-lang.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:go-lang.org",
+    "source": {
+      "list": "GOLANG",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "go.dev",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:go.dev",
+    "source": {
+      "list": "GOLANG",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "godbolt.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:godbolt.org",
+    "source": {
+      "list": "CATEGORY-DEV",
+      "line": 90
+    }
+  },
+  {
+    "type": "domain",
+    "value": "godoc.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:godoc.org",
+    "source": {
+      "list": "GOLANG",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "golang.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:golang.com",
+    "source": {
+      "list": "GOLANG",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "golang.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:golang.net",
+    "source": {
+      "list": "GOLANG",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "golang.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:golang.org",
+    "source": {
+      "list": "GOLANG",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "graphengine.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:graphengine.io",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "grazie.ai",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:grazie.ai",
+    "source": {
+      "list": "JETBRAINS-AI",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "greenend.org.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:greenend.org.uk",
+    "source": {
+      "list": "CATEGORY-DEV",
+      "line": 91
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hacklang.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hacklang.org",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hashicorp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hashicorp.com",
+    "source": {
+      "list": "HASHICORP",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "haskell.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:haskell.org",
+    "source": {
+      "list": "HASKELL",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "haskellstack.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:haskellstack.org",
+    "source": {
+      "list": "HASKELL",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hex.pm",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hex.pm",
+    "source": {
+      "list": "CATEGORY-DEV",
+      "line": 92
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hexdocs.pm",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hexdocs.pm",
+    "source": {
+      "list": "CATEGORY-DEV",
+      "line": 93
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hhvm.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hhvm.com",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hyperscan.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hyperscan.io",
+    "source": {
+      "list": "INTEL-DEV",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "iads.unity3d.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:iads.unity3d.com:@ads",
+    "source": {
+      "list": "UNITY",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "imageglass.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:imageglass.org",
+    "source": {
+      "list": "CATEGORY-DEV",
+      "line": 94
+    }
+  },
+  {
+    "type": "domain",
+    "value": "insiderdevtour.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:insiderdevtour.com",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intellij.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intellij.com",
+    "source": {
+      "list": "JETBRAINS",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intellij.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intellij.net",
+    "source": {
+      "list": "JETBRAINS",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intellij.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intellij.org",
+    "source": {
+      "list": "JETBRAINS",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intellinuxgraphics.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intellinuxgraphics.com",
+    "source": {
+      "list": "INTEL-DEV",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intellinuxgraphics.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intellinuxgraphics.net",
+    "source": {
+      "list": "INTEL-DEV",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ius.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ius.io",
+    "source": {
+      "list": "CATEGORY-DEV",
+      "line": 95
+    }
+  },
+  {
+    "type": "domain",
+    "value": "java",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:java",
+    "source": {
+      "list": "JAVA",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "java.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:java.com",
+    "source": {
+      "list": "JAVA",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "java.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:java.net",
+    "source": {
+      "list": "JAVA",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jb.gg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jb.gg",
+    "source": {
+      "list": "JETBRAINS",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jenkins.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jenkins.io",
+    "source": {
+      "list": "CATEGORY-DEV",
+      "line": 96
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jetbrains.ai",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jetbrains.ai",
+    "source": {
+      "list": "JETBRAINS-AI",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jetbrains.cloud",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jetbrains.cloud",
+    "source": {
+      "list": "JETBRAINS",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jetbrains.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jetbrains.com",
+    "source": {
+      "list": "JETBRAINS",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jetbrains.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jetbrains.net",
+    "source": {
+      "list": "JETBRAINS",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jetbrains.space",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jetbrains.space",
+    "source": {
+      "list": "JETBRAINS",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jetbrains.team",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jetbrains.team",
+    "source": {
+      "list": "JETBRAINS",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jfrog.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jfrog.com",
+    "source": {
+      "list": "JFROG",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jfrog.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jfrog.org",
+    "source": {
+      "list": "JFROG",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jquery.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jquery.com",
+    "source": {
+      "list": "JQUERY",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jquerymobile.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jquerymobile.com",
+    "source": {
+      "list": "JQUERY",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jqueryui.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jqueryui.com",
+    "source": {
+      "list": "JQUERY",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "js.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:js.org",
+    "source": {
+      "list": "CATEGORY-DEV",
+      "line": 97
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jupyter.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jupyter.org",
+    "source": {
+      "list": "CATEGORY-DEV",
+      "line": 98
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jwt.ms",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jwt.ms",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "k8s.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:k8s.io",
+    "source": {
+      "list": "KUBERNETES",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kali.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kali.org",
+    "source": {
+      "list": "CATEGORY-DEV",
+      "line": 99
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kde.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kde.org",
+    "source": {
+      "list": "CATEGORY-DEV",
+      "line": 100
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kernel.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kernel.org",
+    "source": {
+      "list": "KERNEL",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kotlinlang.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kotlinlang.org",
+    "source": {
+      "list": "JETBRAINS",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kubernetes.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kubernetes.io",
+    "source": {
+      "list": "KUBERNETES",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "launchpad.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:launchpad.net",
+    "source": {
+      "list": "LAUNCHPAD",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "launchpadcontent.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:launchpadcontent.net",
+    "source": {
+      "list": "LAUNCHPAD",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "launchpadlibrarian.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:launchpadlibrarian.com",
+    "source": {
+      "list": "LAUNCHPAD",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "launchpadlibrarian.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:launchpadlibrarian.net",
+    "source": {
+      "list": "LAUNCHPAD",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "launchpadlibrarian.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:launchpadlibrarian.org",
+    "source": {
+      "list": "LAUNCHPAD",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lede-project.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lede-project.org",
+    "source": {
+      "list": "OPENWRT",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lfai.foundation",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lfai.foundation",
+    "source": {
+      "list": "THELINUXFOUNDATION",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "linux.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:linux.org",
+    "source": {
+      "list": "LINUX",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "linuxfoundation.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:linuxfoundation.org",
+    "source": {
+      "list": "THELINUXFOUNDATION",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "linuxfromscratch.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:linuxfromscratch.org",
+    "source": {
+      "list": "CATEGORY-DEV",
+      "line": 101
+    }
+  },
+  {
+    "type": "domain",
+    "value": "linuxmint.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:linuxmint.com",
+    "source": {
+      "list": "CATEGORY-DEV",
+      "line": 102
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lua.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lua.org",
+    "source": {
+      "list": "CATEGORY-DEV",
+      "line": 103
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lxqt-project.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lxqt-project.org",
+    "source": {
+      "list": "CATEGORY-DEV",
+      "line": 104
+    }
+  },
+  {
+    "type": "domain",
+    "value": "macosforge.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:macosforge.org",
+    "source": {
+      "list": "APPLE-DEV",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "macports.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:macports.org",
+    "source": {
+      "list": "CATEGORY-DEV",
+      "line": 105
+    }
+  },
+  {
+    "type": "domain",
+    "value": "macruby.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:macruby.com",
+    "source": {
+      "list": "APPLE-DEV",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "macruby.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:macruby.net",
+    "source": {
+      "list": "APPLE-DEV",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "macruby.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:macruby.org",
+    "source": {
+      "list": "APPLE-DEV",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "makeitopen.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:makeitopen.com",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mariadb.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mariadb.org",
+    "source": {
+      "list": "CATEGORY-DEV",
+      "line": 106
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mate-desktop.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mate-desktop.org",
+    "source": {
+      "list": "CATEGORY-DEV",
+      "line": 107
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mathoverflow.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mathoverflow.net",
+    "source": {
+      "list": "STACKEXCHANGE",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mcr.microsoft.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mcr.microsoft.com",
+    "source": {
+      "list": "CATEGORY-CONTAINER",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mcrouter.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mcrouter.net",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mcrouter.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mcrouter.org",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "messengerdevelopers.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:messengerdevelopers.com",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "metacpan.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:metacpan.org",
+    "source": {
+      "list": "PERL",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microbit.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microbit.org",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoftadc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoftadc.com",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoftgamestack.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoftgamestack.com",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoftiotinsiderlabs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoftiotinsiderlabs.com",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoftreactor.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:microsoftreactor.cn:@cn",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoftreactor.com.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:microsoftreactor.com.cn:@cn",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoftreactor.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoftreactor.info",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoftreactor.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoftreactor.net",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoftreactor.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoftreactor.org",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoftsilverlight.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoftsilverlight.com",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoftsilverlight.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoftsilverlight.net",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoftsilverlight.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoftsilverlight.org",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microsoftsqlserver.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:microsoftsqlserver.com",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mingw.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mingw.org",
+    "source": {
+      "list": "CATEGORY-DEV",
+      "line": 108
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mmdnn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mmdnn.com",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mobatek.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mobatek.net",
+    "source": {
+      "list": "CATEGORY-DEV",
+      "line": 109
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mochajs.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mochajs.org",
+    "source": {
+      "list": "MOCHA",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "modperl.pl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:modperl.pl",
+    "source": {
+      "list": "PERL",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mongodb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mongodb.com",
+    "source": {
+      "list": "MONGODB",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mongodb.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mongodb.org",
+    "source": {
+      "list": "MONGODB",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mono-project.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mono-project.com",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mpv.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mpv.io",
+    "source": {
+      "list": "CATEGORY-DEV",
+      "line": 110
+    }
+  },
+  {
+    "type": "domain",
+    "value": "msdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:msdn.com",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "msinnovationchallenge.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:msinnovationchallenge.com",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mspairlift.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mspairlift.com",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "msropendata.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:msropendata.com",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "myoctocat.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:myoctocat.com",
+    "source": {
+      "list": "GITHUB",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mysql.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mysql.com",
+    "source": {
+      "list": "CATEGORY-DEV",
+      "line": 111
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mystrikingly.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mystrikingly.com",
+    "source": {
+      "list": "STRIKINGLY",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "neovim.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:neovim.io",
+    "source": {
+      "list": "CATEGORY-DEV",
+      "line": 112
+    }
+  },
+  {
+    "type": "domain",
+    "value": "netfilter.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:netfilter.org",
+    "source": {
+      "list": "CATEGORY-DEV",
+      "line": 113
+    }
+  },
+  {
+    "type": "domain",
+    "value": "newpipe.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:newpipe.net",
+    "source": {
+      "list": "CATEGORY-DEV",
+      "line": 114
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nftables.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nftables.org",
+    "source": {
+      "list": "CATEGORY-DEV",
+      "line": 115
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nginx.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nginx.com",
+    "source": {
+      "list": "NGINX",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nginx.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nginx.org",
+    "source": {
+      "list": "NGINX",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nixos.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nixos.org",
+    "source": {
+      "list": "CATEGORY-DEV",
+      "line": 116
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nodejs.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nodejs.org",
+    "source": {
+      "list": "NODEJS",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nodesource.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nodesource.com",
+    "source": {
+      "list": "CATEGORY-DEV",
+      "line": 117
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nomadproject.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nomadproject.io",
+    "source": {
+      "list": "HASHICORP",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "notepad-plus-plus.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:notepad-plus-plus.org",
+    "source": {
+      "list": "CATEGORY-DEV",
+      "line": 118
+    }
+  },
+  {
+    "type": "domain",
+    "value": "npm.community",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:npm.community",
+    "source": {
+      "list": "NPMJS",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "npmjs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:npmjs.com",
+    "source": {
+      "list": "NPMJS",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "npmjs.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:npmjs.org",
+    "source": {
+      "list": "NPMJS",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nuget.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nuget.org",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nugettest.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nugettest.org",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "octocaptcha.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:octocaptcha.com",
+    "source": {
+      "list": "GITHUB",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ogp.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ogp.me",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oneapi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oneapi.com",
+    "source": {
+      "list": "INTEL-DEV",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oneapi.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oneapi.io",
+    "source": {
+      "list": "INTEL-DEV",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "opencas.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:opencas.io",
+    "source": {
+      "list": "INTEL-DEV",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "opendroneid.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:opendroneid.org",
+    "source": {
+      "list": "INTEL-DEV",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "opengraphprotocol.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:opengraphprotocol.com",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "opengraphprotocol.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:opengraphprotocol.org",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "openjsf.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:openjsf.org",
+    "source": {
+      "list": "OPENJSFOUNDATION",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "openresty.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:openresty.org",
+    "source": {
+      "list": "CATEGORY-DEV",
+      "line": 119
+    }
+  },
+  {
+    "type": "domain",
+    "value": "opensource.guide",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:opensource.guide",
+    "source": {
+      "list": "GITHUB",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "openssl.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:openssl.org",
+    "source": {
+      "list": "CATEGORY-DEV",
+      "line": 120
+    }
+  },
+  {
+    "type": "domain",
+    "value": "opensuse.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:opensuse.org",
+    "source": {
+      "list": "CATEGORY-DEV",
+      "line": 121
+    }
+  },
+  {
+    "type": "domain",
+    "value": "opentranslatorstothings.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:opentranslatorstothings.org",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "openvino.ai",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:openvino.ai",
+    "source": {
+      "list": "INTEL-DEV",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "openvinotoolkit.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:openvinotoolkit.org",
+    "source": {
+      "list": "INTEL-DEV",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "openwrt.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:openwrt.org",
+    "source": {
+      "list": "OPENWRT",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "osdn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:osdn.net",
+    "source": {
+      "list": "CATEGORY-DEV",
+      "line": 122
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ospray.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ospray.net",
+    "source": {
+      "list": "INTEL-DEV",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ospray.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ospray.org",
+    "source": {
+      "list": "INTEL-DEV",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "packagecloud.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:packagecloud.io",
+    "source": {
+      "list": "CATEGORY-DEV",
+      "line": 123
+    }
+  },
+  {
+    "type": "domain",
+    "value": "packagist.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:packagist.org",
+    "source": {
+      "list": "CATEGORY-DEV",
+      "line": 124
+    }
+  },
+  {
+    "type": "domain",
+    "value": "packer.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:packer.io",
+    "source": {
+      "list": "HASHICORP",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "parse.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:parse.com",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pcre.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pcre.org",
+    "source": {
+      "list": "CATEGORY-DEV",
+      "line": 125
+    }
+  },
+  {
+    "type": "domain",
+    "value": "perl.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:perl.org",
+    "source": {
+      "list": "PERL",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "phantomjs.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:phantomjs.org",
+    "source": {
+      "list": "CATEGORY-DEV",
+      "line": 126
+    }
+  },
+  {
+    "type": "domain",
+    "value": "php.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:php.net",
+    "source": {
+      "list": "CATEGORY-DEV",
+      "line": 127
+    }
+  },
+  {
+    "type": "domain",
+    "value": "piwheels.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:piwheels.org",
+    "source": {
+      "list": "CATEGORY-DEV",
+      "line": 128
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pkgbuild.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pkgbuild.com",
+    "source": {
+      "list": "ARCHLINUX",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "plasma-mobile.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:plasma-mobile.org",
+    "source": {
+      "list": "CATEGORY-DEV",
+      "line": 129
+    }
+  },
+  {
+    "type": "domain",
+    "value": "playerjs.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:playerjs.io",
+    "source": {
+      "list": "EMBEDLY",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "playgrounds-cdn.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:playgrounds-cdn.apple.com",
+    "source": {
+      "list": "APPLE-DEV",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "polymer-project.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:polymer-project.org",
+    "source": {
+      "list": "POLYMER",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "polymerproject.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:polymerproject.org",
+    "source": {
+      "list": "POLYMER",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "poshtestgallery.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:poshtestgallery.com",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "postgresql.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:postgresql.org",
+    "source": {
+      "list": "CATEGORY-DEV",
+      "line": 130
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pub.dev",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pub.dev",
+    "source": {
+      "list": "FLUTTER",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "putty.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:putty.org",
+    "source": {
+      "list": "CATEGORY-DEV",
+      "line": 131
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pwabuilder.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pwabuilder.com",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 37
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pycon.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pycon.org",
+    "source": {
+      "list": "PYTHON",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pypa.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pypa.io",
+    "source": {
+      "list": "PYTHON",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pypi.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pypi.io",
+    "source": {
+      "list": "PYTHON",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pypi.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pypi.org",
+    "source": {
+      "list": "PYTHON",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pyrobot.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pyrobot.org",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "python.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:python.org",
+    "source": {
+      "list": "PYTHON",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pythonhosted.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pythonhosted.org",
+    "source": {
+      "list": "PYTHON",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qt-project.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qt-project.org",
+    "source": {
+      "list": "QT",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qt.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qt.io",
+    "source": {
+      "list": "QT",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "quay.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:quay.io",
+    "source": {
+      "list": "CATEGORY-CONTAINER",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "r-project.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:r-project.org",
+    "source": {
+      "list": "CATEGORY-DEV",
+      "line": 132
+    }
+  },
+  {
+    "type": "domain",
+    "value": "raspberrypi.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:raspberrypi.org",
+    "source": {
+      "list": "CATEGORY-DEV",
+      "line": 133
+    }
+  },
+  {
+    "type": "domain",
+    "value": "raspbian.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:raspbian.org",
+    "source": {
+      "list": "CATEGORY-DEV",
+      "line": 134
+    }
+  },
+  {
+    "type": "domain",
+    "value": "react.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:react.com",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "reactjs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:reactjs.com",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 37
+    }
+  },
+  {
+    "type": "domain",
+    "value": "reactjs.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:reactjs.org",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 38
+    }
+  },
+  {
+    "type": "domain",
+    "value": "reactorms.com.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:reactorms.com.cn:@cn",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 38
+    }
+  },
+  {
+    "type": "domain",
+    "value": "readthedocs-hosted.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:readthedocs-hosted.com",
+    "source": {
+      "list": "READTHEDOCS",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "readthedocs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:readthedocs.com",
+    "source": {
+      "list": "READTHEDOCS",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "readthedocs.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:readthedocs.io",
+    "source": {
+      "list": "READTHEDOCS",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "readthedocs.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:readthedocs.org",
+    "source": {
+      "list": "READTHEDOCS",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "recoiljs.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:recoiljs.org",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 39
+    }
+  },
+  {
+    "type": "domain",
+    "value": "redhat.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:redhat.com",
+    "source": {
+      "list": "REDHAT",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "redhat.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:redhat.org",
+    "source": {
+      "list": "REDHAT",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "redis.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:redis.io",
+    "source": {
+      "list": "REDIS",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "redislabs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:redislabs.com",
+    "source": {
+      "list": "REDIS",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "regex101.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:regex101.com",
+    "source": {
+      "list": "CATEGORY-DEV",
+      "line": 135
+    }
+  },
+  {
+    "type": "domain",
+    "value": "remirepo.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:remirepo.net",
+    "source": {
+      "list": "CATEGORY-DEV",
+      "line": 136
+    }
+  },
+  {
+    "type": "domain",
+    "value": "renderingtoolkit.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:renderingtoolkit.org",
+    "source": {
+      "list": "INTEL-DEV",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "repo.new",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:repo.new",
+    "source": {
+      "list": "GITHUB",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "researchandcare.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:researchandcare.org",
+    "source": {
+      "list": "APPLE-DEV",
+      "line": 40
+    }
+  },
+  {
+    "type": "domain",
+    "value": "researchkit.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:researchkit.cn:@cn",
+    "source": {
+      "list": "APPLE-DEV",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "researchkit.com.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:researchkit.com.cn:@cn",
+    "source": {
+      "list": "APPLE-DEV",
+      "line": 42
+    }
+  },
+  {
+    "type": "domain",
+    "value": "researchkit.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:researchkit.hk",
+    "source": {
+      "list": "APPLE-DEV",
+      "line": 43
+    }
+  },
+  {
+    "type": "domain",
+    "value": "researchkit.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:researchkit.net",
+    "source": {
+      "list": "APPLE-DEV",
+      "line": 44
+    }
+  },
+  {
+    "type": "domain",
+    "value": "researchkit.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:researchkit.org",
+    "source": {
+      "list": "APPLE-DEV",
+      "line": 45
+    }
+  },
+  {
+    "type": "domain",
+    "value": "researchkit.tv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:researchkit.tv",
+    "source": {
+      "list": "APPLE-DEV",
+      "line": 46
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rocksdb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rocksdb.com",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 40
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rocksdb.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rocksdb.net",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rocksdb.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rocksdb.org",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 42
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rpmfusion.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rpmfusion.org",
+    "source": {
+      "list": "CATEGORY-DEV",
+      "line": 137
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ruby-lang.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ruby-lang.org",
+    "source": {
+      "list": "RUBY",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rubygems.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rubygems.org",
+    "source": {
+      "list": "RUBY",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rust-lang.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rust-lang.org",
+    "source": {
+      "list": "RUST",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rustup.rs",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rustup.rs",
+    "source": {
+      "list": "RUST",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sankie.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sankie.net",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 39
+    }
+  },
+  {
+    "type": "domain",
+    "value": "scala-lang.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:scala-lang.org",
+    "source": {
+      "list": "SCALA",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "scala-sbt.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:scala-sbt.org",
+    "source": {
+      "list": "SCALA",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "scientificlinux.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:scientificlinux.org",
+    "source": {
+      "list": "CATEGORY-DEV",
+      "line": 138
+    }
+  },
+  {
+    "type": "domain",
+    "value": "scoop.sh",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:scoop.sh",
+    "source": {
+      "list": "CATEGORY-DEV",
+      "line": 139
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sentry-cdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sentry-cdn.com",
+    "source": {
+      "list": "SENTRY",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sentry.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sentry.io",
+    "source": {
+      "list": "SENTRY",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "serverfault.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:serverfault.com",
+    "source": {
+      "list": "STACKEXCHANGE",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "servicetalk.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:servicetalk.io",
+    "source": {
+      "list": "APPLE-DEV",
+      "line": 49
+    }
+  },
+  {
+    "type": "domain",
+    "value": "shellcheck.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:shellcheck.net",
+    "source": {
+      "list": "CATEGORY-DEV",
+      "line": 140
+    }
+  },
+  {
+    "type": "domain",
+    "value": "shields.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:shields.io",
+    "source": {
+      "list": "CATEGORY-DEV",
+      "line": 141
+    }
+  },
+  {
+    "type": "domain",
+    "value": "snap-telemetry.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:snap-telemetry.io",
+    "source": {
+      "list": "INTEL-DEV",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "snapcraft.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:snapcraft.io",
+    "source": {
+      "list": "SNAPCRAFT",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "snapstore.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:snapstore.io",
+    "source": {
+      "list": "SNAPCRAFT",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sourcegraph.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sourcegraph.com",
+    "source": {
+      "list": "GITHUB1S",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sourcehut.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sourcehut.org",
+    "source": {
+      "list": "SOURCEHUT",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sqlite.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sqlite.org",
+    "source": {
+      "list": "CATEGORY-DEV",
+      "line": 142
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sqlserveronlinux.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sqlserveronlinux.com",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 40
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sr.ht",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sr.ht",
+    "source": {
+      "list": "SOURCEHUT",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sstatic.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sstatic.net",
+    "source": {
+      "list": "STACKEXCHANGE",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "stackage.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:stackage.org",
+    "source": {
+      "list": "HASKELL",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "stackapps.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:stackapps.com",
+    "source": {
+      "list": "STACKEXCHANGE",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "stackauth.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:stackauth.com",
+    "source": {
+      "list": "STACKEXCHANGE",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "stackexchange.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:stackexchange.com",
+    "source": {
+      "list": "STACKEXCHANGE",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "stackmod.blog",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:stackmod.blog",
+    "source": {
+      "list": "STACKEXCHANGE",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "stackoverflow.blog",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:stackoverflow.blog",
+    "source": {
+      "list": "STACKEXCHANGE",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "stackoverflow.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:stackoverflow.co",
+    "source": {
+      "list": "STACKEXCHANGE",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "stackoverflow.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:stackoverflow.com",
+    "source": {
+      "list": "STACKEXCHANGE",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "stackoverflow.email",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:stackoverflow.email",
+    "source": {
+      "list": "STACKEXCHANGE",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "stackoverflow.help",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:stackoverflow.help",
+    "source": {
+      "list": "STACKEXCHANGE",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "stackoverflow.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:stackoverflow.net",
+    "source": {
+      "list": "STACKEXCHANGE",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "stackoverflowbusiness.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:stackoverflowbusiness.com",
+    "source": {
+      "list": "STACKEXCHANGE",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "stackoverflowcareers.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:stackoverflowcareers.com",
+    "source": {
+      "list": "STACKEXCHANGE",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "stackoverflowjobs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:stackoverflowjobs.com",
+    "source": {
+      "list": "STACKEXCHANGE",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "stackoverflowsolutions.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:stackoverflowsolutions.com",
+    "source": {
+      "list": "STACKEXCHANGE",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "stackoverflowteams.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:stackoverflowteams.com",
+    "source": {
+      "list": "STACKEXCHANGE",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "stacksnippets.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:stacksnippets.net",
+    "source": {
+      "list": "STACKEXCHANGE",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "stockagainstphotography.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:stockagainstphotography.com",
+    "source": {
+      "list": "BRAVEUX",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "strikingly.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:strikingly.com",
+    "source": {
+      "list": "STRIKINGLY",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "strikinglycdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:strikinglycdn.com",
+    "source": {
+      "list": "STRIKINGLY",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sublimetext.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sublimetext.com",
+    "source": {
+      "list": "CATEGORY-DEV",
+      "line": 143
+    }
+  },
+  {
+    "type": "domain",
+    "value": "superuser.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:superuser.com",
+    "source": {
+      "list": "STACKEXCHANGE",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "swift.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:swift.org",
+    "source": {
+      "list": "SWIFT",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "swiftui.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:swiftui.cn:@cn",
+    "source": {
+      "list": "SWIFT",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "swiftui.com.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:swiftui.com.cn:@cn",
+    "source": {
+      "list": "SWIFT",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "system76.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:system76.com",
+    "source": {
+      "list": "CATEGORY-DEV",
+      "line": 144
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tampermonkey.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tampermonkey.net",
+    "source": {
+      "list": "CATEGORY-DEV",
+      "line": 145
+    }
+  },
+  {
+    "type": "domain",
+    "value": "termius.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:termius.com",
+    "source": {
+      "list": "CATEGORY-DEV",
+      "line": 146
+    }
+  },
+  {
+    "type": "domain",
+    "value": "termux.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:termux.com",
+    "source": {
+      "list": "TERMUX",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "termux.dev",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:termux.dev",
+    "source": {
+      "list": "TERMUX",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "termux.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:termux.org",
+    "source": {
+      "list": "TERMUX",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "terraform.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:terraform.io",
+    "source": {
+      "list": "HASHICORP",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tex-talk.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tex-talk.net",
+    "source": {
+      "list": "STACKEXCHANGE",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "thegithubshop.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:thegithubshop.com",
+    "source": {
+      "list": "GITHUB",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "thesffblog.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:thesffblog.com",
+    "source": {
+      "list": "STACKEXCHANGE",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tilda.cc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tilda.cc",
+    "source": {
+      "list": "TILDA",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tilda.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tilda.ru",
+    "source": {
+      "list": "TILDA",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tilda.ws",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tilda.ws",
+    "source": {
+      "list": "TILDA",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tildaapi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tildaapi.com",
+    "source": {
+      "list": "TILDA",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tildacdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tildacdn.com",
+    "source": {
+      "list": "TILDA",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "timelinestoryteller.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:timelinestoryteller.com",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "timestamp.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:timestamp.apple.com",
+    "source": {
+      "list": "APPLE-DEV",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "topcoder.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:topcoder.com",
+    "source": {
+      "list": "CATEGORY-DEV",
+      "line": 147
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ubuntu-touch.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ubuntu-touch.io",
+    "source": {
+      "list": "UBUNTU",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ubuntu.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ubuntu.com",
+    "source": {
+      "list": "UBUNTU",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ubuntu.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ubuntu.net",
+    "source": {
+      "list": "UBUNTU",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ubuntuforums.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ubuntuforums.org",
+    "source": {
+      "list": "UBUNTU",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "unity.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:unity.com",
+    "source": {
+      "list": "UNITY",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "unity3d.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:unity3d.com",
+    "source": {
+      "list": "UNITY",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "unityads.unity3d.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:unityads.unity3d.com:@ads",
+    "source": {
+      "list": "UNITY",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "universalscalablefirmware.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:universalscalablefirmware.org",
+    "source": {
+      "list": "INTEL-DEV",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "unpkg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:unpkg.com",
+    "source": {
+      "list": "CATEGORY-DEV",
+      "line": 148
+    }
+  },
+  {
+    "type": "domain",
+    "value": "uwpcommunitytoolkit.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:uwpcommunitytoolkit.com",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 42
+    }
+  },
+  {
+    "type": "domain",
+    "value": "v8.dev",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:v8.dev",
+    "source": {
+      "list": "V8",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "v8project.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:v8project.org",
+    "source": {
+      "list": "V8",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vagrantcloud.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vagrantcloud.com",
+    "source": {
+      "list": "HASHICORP",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vagrantup.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vagrantup.com",
+    "source": {
+      "list": "HASHICORP",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vaultproject.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vaultproject.io",
+    "source": {
+      "list": "HASHICORP",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vfsforgit.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vfsforgit.com",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 49
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vfsforgit.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vfsforgit.org",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 50
+    }
+  },
+  {
+    "type": "domain",
+    "value": "videojs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:videojs.com",
+    "source": {
+      "list": "CATEGORY-DEV",
+      "line": 149
+    }
+  },
+  {
+    "type": "domain",
+    "value": "videolan.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:videolan.org",
+    "source": {
+      "list": "CATEGORY-DEV",
+      "line": 150
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vim.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vim.org",
+    "source": {
+      "list": "CATEGORY-DEV",
+      "line": 151
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visualstudio-staging.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visualstudio-staging.com",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 43
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visualstudio.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visualstudio.co",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 45
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visualstudio.co.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visualstudio.co.uk",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 46
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visualstudio.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visualstudio.com",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 44
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visualstudio.eu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visualstudio.eu",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 47
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visualstudio.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visualstudio.net",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 48
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vsassets.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vsassets.io",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 51
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vscode-cdn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vscode-cdn.net",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 53
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vscode-unpkg.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vscode-unpkg.net",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 54
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vscode.dev",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vscode.dev",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 52
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wapm.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wapm.io",
+    "source": {
+      "list": "CATEGORY-DEV",
+      "line": 152
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wasmer.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wasmer.io",
+    "source": {
+      "list": "CATEGORY-DEV",
+      "line": 153
+    }
+  },
+  {
+    "type": "domain",
+    "value": "webflow.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:webflow.com",
+    "source": {
+      "list": "CATEGORY-DEV",
+      "line": 154
+    }
+  },
+  {
+    "type": "domain",
+    "value": "webkit.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:webkit.org",
+    "source": {
+      "list": "APPLE-DEV",
+      "line": 52
+    }
+  },
+  {
+    "type": "domain",
+    "value": "webkitgtk.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:webkitgtk.org",
+    "source": {
+      "list": "APPLE-DEV",
+      "line": 53
+    }
+  },
+  {
+    "type": "domain",
+    "value": "weblate.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:weblate.org",
+    "source": {
+      "list": "CATEGORY-DEV",
+      "line": 155
+    }
+  },
+  {
+    "type": "domain",
+    "value": "webobjects.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:webobjects.com",
+    "source": {
+      "list": "APPLE-DEV",
+      "line": 57
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wireshark.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wireshark.org",
+    "source": {
+      "list": "CATEGORY-DEV",
+      "line": 156
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wpewebkit.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wpewebkit.org",
+    "source": {
+      "list": "APPLE-DEV",
+      "line": 54
+    }
+  },
+  {
+    "type": "domain",
+    "value": "x.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:x.org",
+    "source": {
+      "list": "CATEGORY-DEV",
+      "line": 157
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xamarin.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xamarin.com",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 55
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xfce.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xfce.org",
+    "source": {
+      "list": "CATEGORY-DEV",
+      "line": 158
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xposed.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xposed.info",
+    "source": {
+      "list": "CATEGORY-DEV",
+      "line": 159
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yarnpkg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yarnpkg.com",
+    "source": {
+      "list": "CATEGORY-DEV",
+      "line": 160
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yogalayout.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yogalayout.com",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 43
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtrack.cloud",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtrack.cloud",
+    "source": {
+      "list": "JETBRAINS",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ziglang.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ziglang.org",
+    "source": {
+      "list": "CATEGORY-DEV",
+      "line": 161
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zsh.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zsh.org",
+    "source": {
+      "list": "CATEGORY-DEV",
+      "line": 162
+    }
+  },
+  {
+    "type": "full",
+    "value": "amp.akamaized.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:amp.akamaized.net",
+    "source": {
+      "list": "AMP",
+      "line": 8
+    }
+  },
+  {
+    "type": "full",
+    "value": "android.googlesource.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:android.googlesource.com",
+    "source": {
+      "list": "ANDROID",
+      "line": 7
+    }
+  },
+  {
+    "type": "full",
+    "value": "appleworldwidedeveloper.hb-api.omtrdc.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:appleworldwidedeveloper.hb-api.omtrdc.net",
+    "source": {
+      "list": "APPLE-DEV",
+      "line": 59
+    }
+  },
+  {
+    "type": "full",
+    "value": "appleworldwidedeveloper.sc.omtrdc.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:appleworldwidedeveloper.sc.omtrdc.net",
+    "source": {
+      "list": "APPLE-DEV",
+      "line": 60
+    }
+  },
+  {
+    "type": "full",
+    "value": "az764295.vo.msecnd.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:az764295.vo.msecnd.net",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 57
+    }
+  },
+  {
+    "type": "full",
+    "value": "bingsettingssearch.trafficmanager.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:bingsettingssearch.trafficmanager.net",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 58
+    }
+  },
+  {
+    "type": "full",
+    "value": "cdn.ampproject.org",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:cdn.ampproject.org:@cn",
+    "source": {
+      "list": "AMP",
+      "line": 6
+    }
+  },
+  {
+    "type": "full",
+    "value": "copilot-telemetry-service.githubusercontent.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:copilot-telemetry-service.githubusercontent.com:@ads",
+    "source": {
+      "list": "GITHUB-COPILOT",
+      "line": 10
+    }
+  },
+  {
+    "type": "full",
+    "value": "copilot-telemetry.githubusercontent.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:copilot-telemetry.githubusercontent.com:@ads",
+    "source": {
+      "list": "GITHUB-COPILOT",
+      "line": 11
+    }
+  },
+  {
+    "type": "full",
+    "value": "copilotprodattachments.blob.core.windows.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:copilotprodattachments.blob.core.windows.net",
+    "source": {
+      "list": "GITHUB-COPILOT",
+      "line": 7
+    }
+  },
+  {
+    "type": "full",
+    "value": "d29vzk4ow07wi7.cloudfront.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:d29vzk4ow07wi7.cloudfront.net",
+    "source": {
+      "list": "JFROG",
+      "line": 5
+    }
+  },
+  {
+    "type": "full",
+    "value": "default.exp-tas.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:default.exp-tas.com",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 59
+    }
+  },
+  {
+    "type": "full",
+    "value": "developer.microsoft.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:developer.microsoft.com",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 60
+    }
+  },
+  {
+    "type": "full",
+    "value": "developers.facebook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:developers.facebook.com",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 45
+    }
+  },
+  {
+    "type": "full",
+    "value": "docker-images-prod.6aa30f8b08e16409b46e0173d6de2f56.r2.cloudflarestorage.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:docker-images-prod.6aa30f8b08e16409b46e0173d6de2f56.r2.cloudflarestorage.com",
+    "source": {
+      "list": "DOCKER",
+      "line": 6
+    }
+  },
+  {
+    "type": "full",
+    "value": "docker-pinata-support.s3.amazonaws.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:docker-pinata-support.s3.amazonaws.com",
+    "source": {
+      "list": "DOCKER",
+      "line": 7
+    }
+  },
+  {
+    "type": "full",
+    "value": "download.visualstudio.microsoft.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:download.visualstudio.microsoft.com",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 61
+    }
+  },
+  {
+    "type": "full",
+    "value": "dtlgalleryint.cloudapp.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:dtlgalleryint.cloudapp.net",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 62
+    }
+  },
+  {
+    "type": "full",
+    "value": "firebase-settings.crashlytics.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:firebase-settings.crashlytics.com:@cn",
+    "source": {
+      "list": "FIREBASE",
+      "line": 6
+    }
+  },
+  {
+    "type": "full",
+    "value": "firebase.google.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:firebase.google.com",
+    "source": {
+      "list": "FIREBASE",
+      "line": 7
+    }
+  },
+  {
+    "type": "full",
+    "value": "firebase.googleapis.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:firebase.googleapis.com",
+    "source": {
+      "list": "FIREBASE",
+      "line": 8
+    }
+  },
+  {
+    "type": "full",
+    "value": "firebaseappcheck.googleapis.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:firebaseappcheck.googleapis.com",
+    "source": {
+      "list": "FIREBASE",
+      "line": 9
+    }
+  },
+  {
+    "type": "full",
+    "value": "firebasedynamiclinks-ipv4.googleapis.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:firebasedynamiclinks-ipv4.googleapis.com",
+    "source": {
+      "list": "FIREBASE",
+      "line": 10
+    }
+  },
+  {
+    "type": "full",
+    "value": "firebasedynamiclinks-ipv6.googleapis.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:firebasedynamiclinks-ipv6.googleapis.com",
+    "source": {
+      "list": "FIREBASE",
+      "line": 11
+    }
+  },
+  {
+    "type": "full",
+    "value": "firebasedynamiclinks.googleapis.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:firebasedynamiclinks.googleapis.com",
+    "source": {
+      "list": "FIREBASE",
+      "line": 12
+    }
+  },
+  {
+    "type": "full",
+    "value": "firebaseinappmessaging.googleapis.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:firebaseinappmessaging.googleapis.com",
+    "source": {
+      "list": "FIREBASE",
+      "line": 13
+    }
+  },
+  {
+    "type": "full",
+    "value": "firebaseinstallations.googleapis.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:firebaseinstallations.googleapis.com",
+    "source": {
+      "list": "FIREBASE",
+      "line": 14
+    }
+  },
+  {
+    "type": "full",
+    "value": "firebaselogging-pa.googleapis.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:firebaselogging-pa.googleapis.com",
+    "source": {
+      "list": "FIREBASE",
+      "line": 15
+    }
+  },
+  {
+    "type": "full",
+    "value": "firebaselogging.googleapis.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:firebaselogging.googleapis.com",
+    "source": {
+      "list": "FIREBASE",
+      "line": 16
+    }
+  },
+  {
+    "type": "full",
+    "value": "firebaseperusertopics-pa.googleapis.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:firebaseperusertopics-pa.googleapis.com",
+    "source": {
+      "list": "FIREBASE",
+      "line": 17
+    }
+  },
+  {
+    "type": "full",
+    "value": "firebaseremoteconfig.googleapis.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:firebaseremoteconfig.googleapis.com",
+    "source": {
+      "list": "FIREBASE",
+      "line": 18
+    }
+  },
+  {
+    "type": "full",
+    "value": "github-api.arkoselabs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:github-api.arkoselabs.com",
+    "source": {
+      "list": "GITHUB",
+      "line": 29
+    }
+  },
+  {
+    "type": "full",
+    "value": "github-cloud.s3.amazonaws.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:github-cloud.s3.amazonaws.com",
+    "source": {
+      "list": "GITHUB",
+      "line": 32
+    }
+  },
+  {
+    "type": "full",
+    "value": "github-production-release-asset-2e65be.s3.amazonaws.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:github-production-release-asset-2e65be.s3.amazonaws.com",
+    "source": {
+      "list": "GITHUB",
+      "line": 33
+    }
+  },
+  {
+    "type": "full",
+    "value": "github-production-repository-file-5c1aeb.s3.amazonaws.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:github-production-repository-file-5c1aeb.s3.amazonaws.com",
+    "source": {
+      "list": "GITHUB",
+      "line": 34
+    }
+  },
+  {
+    "type": "full",
+    "value": "github-production-repository-image-32fea6.s3.amazonaws.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:github-production-repository-image-32fea6.s3.amazonaws.com",
+    "source": {
+      "list": "GITHUB",
+      "line": 35
+    }
+  },
+  {
+    "type": "full",
+    "value": "github-production-upload-manifest-file-7fdce7.s3.amazonaws.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:github-production-upload-manifest-file-7fdce7.s3.amazonaws.com",
+    "source": {
+      "list": "GITHUB",
+      "line": 36
+    }
+  },
+  {
+    "type": "full",
+    "value": "github-production-user-asset-6210df.s3.amazonaws.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:github-production-user-asset-6210df.s3.amazonaws.com",
+    "source": {
+      "list": "GITHUB",
+      "line": 37
+    }
+  },
+  {
+    "type": "full",
+    "value": "gitlab-assets.oss-cn-hongkong.aliyuncs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:gitlab-assets.oss-cn-hongkong.aliyuncs.com",
+    "source": {
+      "list": "GITLAB",
+      "line": 6
+    }
+  },
+  {
+    "type": "full",
+    "value": "notary-submissions-prod.s3-accelerate.amazonaws.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:notary-submissions-prod.s3-accelerate.amazonaws.com",
+    "source": {
+      "list": "APPLE-DEV",
+      "line": 18
+    }
+  },
+  {
+    "type": "full",
+    "value": "notary-submissions-prod.s3.us-west-2.amazonaws.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:notary-submissions-prod.s3.us-west-2.amazonaws.com",
+    "source": {
+      "list": "APPLE-DEV",
+      "line": 19
+    }
+  },
+  {
+    "type": "full",
+    "value": "p-events-delivery.akamaized.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:p-events-delivery.akamaized.net",
+    "source": {
+      "list": "APPLE-DEV",
+      "line": 61
+    }
+  },
+  {
+    "type": "full",
+    "value": "packages.microsoft.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:packages.microsoft.com",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 63
+    }
+  },
+  {
+    "type": "full",
+    "value": "poshtestgallery.cloudapp.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:poshtestgallery.cloudapp.net",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 64
+    }
+  },
+  {
+    "type": "full",
+    "value": "productionresultssa0.blob.core.windows.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:productionresultssa0.blob.core.windows.net",
+    "source": {
+      "list": "GITHUB",
+      "line": 40
+    }
+  },
+  {
+    "type": "full",
+    "value": "productionresultssa1.blob.core.windows.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:productionresultssa1.blob.core.windows.net",
+    "source": {
+      "list": "GITHUB",
+      "line": 41
+    }
+  },
+  {
+    "type": "full",
+    "value": "productionresultssa10.blob.core.windows.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:productionresultssa10.blob.core.windows.net",
+    "source": {
+      "list": "GITHUB",
+      "line": 50
+    }
+  },
+  {
+    "type": "full",
+    "value": "productionresultssa11.blob.core.windows.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:productionresultssa11.blob.core.windows.net",
+    "source": {
+      "list": "GITHUB",
+      "line": 51
+    }
+  },
+  {
+    "type": "full",
+    "value": "productionresultssa12.blob.core.windows.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:productionresultssa12.blob.core.windows.net",
+    "source": {
+      "list": "GITHUB",
+      "line": 52
+    }
+  },
+  {
+    "type": "full",
+    "value": "productionresultssa13.blob.core.windows.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:productionresultssa13.blob.core.windows.net",
+    "source": {
+      "list": "GITHUB",
+      "line": 53
+    }
+  },
+  {
+    "type": "full",
+    "value": "productionresultssa14.blob.core.windows.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:productionresultssa14.blob.core.windows.net",
+    "source": {
+      "list": "GITHUB",
+      "line": 54
+    }
+  },
+  {
+    "type": "full",
+    "value": "productionresultssa15.blob.core.windows.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:productionresultssa15.blob.core.windows.net",
+    "source": {
+      "list": "GITHUB",
+      "line": 55
+    }
+  },
+  {
+    "type": "full",
+    "value": "productionresultssa16.blob.core.windows.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:productionresultssa16.blob.core.windows.net",
+    "source": {
+      "list": "GITHUB",
+      "line": 56
+    }
+  },
+  {
+    "type": "full",
+    "value": "productionresultssa17.blob.core.windows.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:productionresultssa17.blob.core.windows.net",
+    "source": {
+      "list": "GITHUB",
+      "line": 57
+    }
+  },
+  {
+    "type": "full",
+    "value": "productionresultssa18.blob.core.windows.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:productionresultssa18.blob.core.windows.net",
+    "source": {
+      "list": "GITHUB",
+      "line": 58
+    }
+  },
+  {
+    "type": "full",
+    "value": "productionresultssa19.blob.core.windows.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:productionresultssa19.blob.core.windows.net",
+    "source": {
+      "list": "GITHUB",
+      "line": 59
+    }
+  },
+  {
+    "type": "full",
+    "value": "productionresultssa2.blob.core.windows.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:productionresultssa2.blob.core.windows.net",
+    "source": {
+      "list": "GITHUB",
+      "line": 42
+    }
+  },
+  {
+    "type": "full",
+    "value": "productionresultssa3.blob.core.windows.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:productionresultssa3.blob.core.windows.net",
+    "source": {
+      "list": "GITHUB",
+      "line": 43
+    }
+  },
+  {
+    "type": "full",
+    "value": "productionresultssa4.blob.core.windows.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:productionresultssa4.blob.core.windows.net",
+    "source": {
+      "list": "GITHUB",
+      "line": 44
+    }
+  },
+  {
+    "type": "full",
+    "value": "productionresultssa5.blob.core.windows.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:productionresultssa5.blob.core.windows.net",
+    "source": {
+      "list": "GITHUB",
+      "line": 45
+    }
+  },
+  {
+    "type": "full",
+    "value": "productionresultssa6.blob.core.windows.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:productionresultssa6.blob.core.windows.net",
+    "source": {
+      "list": "GITHUB",
+      "line": 46
+    }
+  },
+  {
+    "type": "full",
+    "value": "productionresultssa7.blob.core.windows.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:productionresultssa7.blob.core.windows.net",
+    "source": {
+      "list": "GITHUB",
+      "line": 47
+    }
+  },
+  {
+    "type": "full",
+    "value": "productionresultssa8.blob.core.windows.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:productionresultssa8.blob.core.windows.net",
+    "source": {
+      "list": "GITHUB",
+      "line": 48
+    }
+  },
+  {
+    "type": "full",
+    "value": "productionresultssa9.blob.core.windows.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:productionresultssa9.blob.core.windows.net",
+    "source": {
+      "list": "GITHUB",
+      "line": 49
+    }
+  },
+  {
+    "type": "full",
+    "value": "psg-int-centralus.cloudapp.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:psg-int-centralus.cloudapp.net",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 65
+    }
+  },
+  {
+    "type": "full",
+    "value": "psg-int-eastus.cloudapp.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:psg-int-eastus.cloudapp.net",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 66
+    }
+  },
+  {
+    "type": "full",
+    "value": "rink.hockeyapp.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:rink.hockeyapp.net",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 67
+    }
+  },
+  {
+    "type": "full",
+    "value": "vscode-sync-insiders.trafficmanager.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:vscode-sync-insiders.trafficmanager.net",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 68
+    }
+  },
+  {
+    "type": "full",
+    "value": "vscode-sync.trafficmanager.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:vscode-sync.trafficmanager.net",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 69
+    }
+  },
+  {
+    "type": "full",
+    "value": "vscode.blob.core.windows.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:vscode.blob.core.windows.net",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 70
+    }
+  },
+  {
+    "type": "full",
+    "value": "vscode.search.windows.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:vscode.search.windows.net",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 71
+    }
+  },
+  {
+    "type": "full",
+    "value": "vsmarketplacebadge.apphb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:vsmarketplacebadge.apphb.com",
+    "source": {
+      "list": "MICROSOFT-DEV",
+      "line": 72
+    }
+  },
+  {
+    "type": "regexp",
+    "value": ".+\\.dkr\\.ecr\\.[^\\.]+\\.amazonaws\\.com$",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "regexp:.+\\.dkr\\.ecr\\.[^\\.]+\\.amazonaws\\.com$",
+    "source": {
+      "list": "CATEGORY-CONTAINER",
+      "line": 12
+    }
+  }
+]

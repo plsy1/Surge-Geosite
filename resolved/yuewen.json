@@ -1,0 +1,147 @@
+[
+  {
+    "type": "domain",
+    "value": "hongxiu.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hongxiu.com",
+    "source": {
+      "list": "YUEWEN",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lrts.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lrts.me",
+    "source": {
+      "list": "YUEWEN",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qdmm.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qdmm.com",
+    "source": {
+      "list": "YUEWEN",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qidian.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qidian.com",
+    "source": {
+      "list": "YUEWEN",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "readnovel.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:readnovel.com",
+    "source": {
+      "list": "YUEWEN",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rongshuxia.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rongshuxia.com",
+    "source": {
+      "list": "YUEWEN",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tingbook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tingbook.com",
+    "source": {
+      "list": "YUEWEN",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "webnovel.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:webnovel.com:@!cn",
+    "source": {
+      "list": "WEBNOVEL",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wting.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wting.info",
+    "source": {
+      "list": "YUEWEN",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xs.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xs.cn",
+    "source": {
+      "list": "YUEWEN",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xs8.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xs8.cn",
+    "source": {
+      "list": "YUEWEN",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xxsy.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xxsy.net",
+    "source": {
+      "list": "YUEWEN",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yuewen.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yuewen.com",
+    "source": {
+      "list": "YUEWEN",
+      "line": 14
+    }
+  }
+]

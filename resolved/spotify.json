@@ -1,0 +1,294 @@
+[
+  {
+    "type": "domain",
+    "value": "byspotify.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:byspotify.com",
+    "source": {
+      "list": "SPOTIFY",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pscdn.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pscdn.co",
+    "source": {
+      "list": "SPOTIFY",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "scdn.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:scdn.co",
+    "source": {
+      "list": "SPOTIFY",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "spoti.fi",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:spoti.fi",
+    "source": {
+      "list": "SPOTIFY",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "spotify-everywhere.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:spotify-everywhere.com",
+    "source": {
+      "list": "SPOTIFY",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "spotify.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:spotify.com",
+    "source": {
+      "list": "SPOTIFY",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "spotify.design",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:spotify.design",
+    "source": {
+      "list": "SPOTIFY",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "spotify.link",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:spotify.link",
+    "source": {
+      "list": "SPOTIFY",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "spotifycdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:spotifycdn.com",
+    "source": {
+      "list": "SPOTIFY",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "spotifycdn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:spotifycdn.net",
+    "source": {
+      "list": "SPOTIFY",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "spotifycharts.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:spotifycharts.com",
+    "source": {
+      "list": "SPOTIFY",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "spotifycodes.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:spotifycodes.com",
+    "source": {
+      "list": "SPOTIFY",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "spotifyforbrands.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:spotifyforbrands.com",
+    "source": {
+      "list": "SPOTIFY",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "spotifyjobs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:spotifyjobs.com",
+    "source": {
+      "list": "SPOTIFY",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tospotify.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tospotify.com",
+    "source": {
+      "list": "SPOTIFY",
+      "line": 15
+    }
+  },
+  {
+    "type": "full",
+    "value": "adeventtracker.spotify.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:adeventtracker.spotify.com:@ads",
+    "source": {
+      "list": "SPOTIFY",
+      "line": 27
+    }
+  },
+  {
+    "type": "full",
+    "value": "adstudio-assets.scdn.co",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:adstudio-assets.scdn.co:@ads",
+    "source": {
+      "list": "SPOTIFY",
+      "line": 28
+    }
+  },
+  {
+    "type": "full",
+    "value": "audio-ak-spotify-com.akamaized.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:audio-ak-spotify-com.akamaized.net",
+    "source": {
+      "list": "SPOTIFY",
+      "line": 17
+    }
+  },
+  {
+    "type": "full",
+    "value": "audio4-ak-spotify-com.akamaized.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:audio4-ak-spotify-com.akamaized.net",
+    "source": {
+      "list": "SPOTIFY",
+      "line": 18
+    }
+  },
+  {
+    "type": "full",
+    "value": "bloodhound.spotify.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:bloodhound.spotify.com:@ads",
+    "source": {
+      "list": "SPOTIFY",
+      "line": 29
+    }
+  },
+  {
+    "type": "full",
+    "value": "cdn-spotify-experiments.conductrics.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cdn-spotify-experiments.conductrics.com",
+    "source": {
+      "list": "SPOTIFY",
+      "line": 19
+    }
+  },
+  {
+    "type": "full",
+    "value": "heads-ak-spotify-com.akamaized.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:heads-ak-spotify-com.akamaized.net",
+    "source": {
+      "list": "SPOTIFY",
+      "line": 20
+    }
+  },
+  {
+    "type": "full",
+    "value": "heads4-ak-spotify-com.akamaized.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:heads4-ak-spotify-com.akamaized.net",
+    "source": {
+      "list": "SPOTIFY",
+      "line": 21
+    }
+  },
+  {
+    "type": "full",
+    "value": "spotify.com.edgesuite.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:spotify.com.edgesuite.net",
+    "source": {
+      "list": "SPOTIFY",
+      "line": 22
+    }
+  },
+  {
+    "type": "full",
+    "value": "spotify.map.fastly.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:spotify.map.fastly.net",
+    "source": {
+      "list": "SPOTIFY",
+      "line": 23
+    }
+  },
+  {
+    "type": "full",
+    "value": "spotify.map.fastlylb.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:spotify.map.fastlylb.net",
+    "source": {
+      "list": "SPOTIFY",
+      "line": 24
+    }
+  }
+]

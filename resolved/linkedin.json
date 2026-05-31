@@ -1,0 +1,138 @@
+[
+  {
+    "type": "domain",
+    "value": "bizographics.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bizographics.com",
+    "source": {
+      "list": "LINKEDIN",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "l-0005.dc-msedge.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:l-0005.dc-msedge.net",
+    "source": {
+      "list": "LINKEDIN",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "l-0005.l-msedge.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:l-0005.l-msedge.net",
+    "source": {
+      "list": "LINKEDIN",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "licdn.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:licdn.cn:@cn",
+    "source": {
+      "list": "LINKEDIN",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "licdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:licdn.com",
+    "source": {
+      "list": "LINKEDIN",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "linkedin.at",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:linkedin.at",
+    "source": {
+      "list": "LINKEDIN",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "linkedin.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:linkedin.cn:@cn",
+    "source": {
+      "list": "LINKEDIN",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "linkedin.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:linkedin.com",
+    "source": {
+      "list": "LINKEDIN",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lnkd.in",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lnkd.in",
+    "source": {
+      "list": "LINKEDIN",
+      "line": 7
+    }
+  },
+  {
+    "type": "full",
+    "value": "e122475.dscg.akamaiedge.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:e122475.dscg.akamaiedge.net",
+    "source": {
+      "list": "LINKEDIN",
+      "line": 13
+    }
+  },
+  {
+    "type": "full",
+    "value": "licdn.cn.cdn20.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:licdn.cn.cdn20.com",
+    "source": {
+      "list": "LINKEDIN",
+      "line": 14
+    }
+  },
+  {
+    "type": "full",
+    "value": "linkedin.sc.omtrdc.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:linkedin.sc.omtrdc.net",
+    "source": {
+      "list": "LINKEDIN",
+      "line": 15
+    }
+  }
+]

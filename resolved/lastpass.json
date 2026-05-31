@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "lastpass.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lastpass.com",
+    "source": {
+      "list": "LASTPASS",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lastpass.eu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lastpass.eu",
+    "source": {
+      "list": "LASTPASS",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lputil.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lputil.com",
+    "source": {
+      "list": "LASTPASS",
+      "line": 3
+    }
+  }
+]

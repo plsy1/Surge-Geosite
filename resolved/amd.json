@@ -1,0 +1,59 @@
+[
+  {
+    "type": "domain",
+    "value": "amd.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:amd.com",
+    "source": {
+      "list": "AMD",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amd.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:amd.com.cn",
+    "source": {
+      "list": "AMD",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amdfanstore.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:amdfanstore.com",
+    "source": {
+      "list": "AMD",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "radeon.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:radeon.com",
+    "source": {
+      "list": "AMD",
+      "line": 4
+    }
+  },
+  {
+    "type": "full",
+    "value": "www.amd.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:www.amd.com:@cn",
+    "source": {
+      "list": "AMD",
+      "line": 6
+    }
+  }
+]

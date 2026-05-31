@@ -1,0 +1,60 @@
+{
+  "name": "MICROSOFT",
+  "source": {
+    "domain": 287,
+    "full": 37,
+    "keyword": 0,
+    "regexp": 0,
+    "include": 8,
+    "affiliations": 0,
+    "attributes": 71
+  },
+  "resolved": {
+    "rules": 672,
+    "domain": 620,
+    "full": 52,
+    "keyword": 0,
+    "regexp": 0
+  },
+  "filters": {
+    "attrs": {
+      "cn": 169,
+      "ads": 10
+    }
+  },
+  "modes": {
+    "strict": {
+      "rules": 672,
+      "bytes": 20592,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "balanced": {
+      "rules": 672,
+      "bytes": 20592,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "full": {
+      "rules": 672,
+      "bytes": 20592,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    }
+  }
+}

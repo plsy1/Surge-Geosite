@@ -1,0 +1,46 @@
+[
+  {
+    "type": "domain",
+    "value": "sojump.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sojump.com",
+    "source": {
+      "list": "WJX",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wjx.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wjx.cn",
+    "source": {
+      "list": "WJX",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wjx.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wjx.com",
+    "source": {
+      "list": "WJX",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wjx.top",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wjx.top",
+    "source": {
+      "list": "WJX",
+      "line": 4
+    }
+  }
+]

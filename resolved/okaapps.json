@@ -1,0 +1,26 @@
+[
+  {
+    "type": "domain",
+    "value": "okaapps.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:okaapps.com",
+    "source": {
+      "list": "OKAAPPS",
+      "line": 1
+    }
+  },
+  {
+    "type": "regexp",
+    "value": "^(.+\\.)*zh\\.okaapps\\.com$",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "regexp:^(.+\\.)*zh\\.okaapps\\.com$:@cn",
+    "source": {
+      "list": "OKAAPPS",
+      "line": 4
+    }
+  }
+]

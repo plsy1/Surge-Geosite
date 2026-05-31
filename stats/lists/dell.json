@@ -1,0 +1,59 @@
+{
+  "name": "DELL",
+  "source": {
+    "domain": 209,
+    "full": 27,
+    "keyword": 0,
+    "regexp": 0,
+    "include": 0,
+    "affiliations": 0,
+    "attributes": 33
+  },
+  "resolved": {
+    "rules": 236,
+    "domain": 209,
+    "full": 27,
+    "keyword": 0,
+    "regexp": 0
+  },
+  "filters": {
+    "attrs": {
+      "cn": 33
+    }
+  },
+  "modes": {
+    "strict": {
+      "rules": 236,
+      "bytes": 6054,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "balanced": {
+      "rules": 236,
+      "bytes": 6054,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "full": {
+      "rules": 236,
+      "bytes": 6054,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    }
+  }
+}

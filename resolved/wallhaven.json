@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "wallhaven.cc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wallhaven.cc",
+    "source": {
+      "list": "WALLHAVEN",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "whvn.cc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:whvn.cc",
+    "source": {
+      "list": "WALLHAVEN",
+      "line": 2
+    }
+  }
+]

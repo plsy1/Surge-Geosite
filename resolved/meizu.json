@@ -1,0 +1,68 @@
+[
+  {
+    "type": "domain",
+    "value": "flyme.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:flyme.cn",
+    "source": {
+      "list": "MEIZU",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "flyme.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:flyme.com",
+    "source": {
+      "list": "MEIZU",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "flymeauto.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:flymeauto.com",
+    "source": {
+      "list": "MEIZU",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "meizu.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:meizu.cn",
+    "source": {
+      "list": "MEIZU",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "meizu.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:meizu.com",
+    "source": {
+      "list": "MEIZU",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mzres.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mzres.com",
+    "source": {
+      "list": "MEIZU",
+      "line": 6
+    }
+  }
+]
