@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "localbitcoins.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:localbitcoins.com",
+    "source": {
+      "list": "LOCALBITCOINS",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "localbitcoinschain.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:localbitcoinschain.com",
+    "source": {
+      "list": "LOCALBITCOINS",
+      "line": 2
+    }
+  }
+]

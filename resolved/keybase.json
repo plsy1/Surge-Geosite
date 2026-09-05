@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "keybase.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:keybase.io",
+    "source": {
+      "list": "KEYBASE",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "keybaseapi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:keybaseapi.com",
+    "source": {
+      "list": "KEYBASE",
+      "line": 2
+    }
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "type": "domain",
+    "value": "extendfirefox.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:extendfirefox.com",
+    "source": {
+      "list": "FIREFOX",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "firefox.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:firefox.com",
+    "source": {
+      "list": "FIREFOX",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "firefox.hu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:firefox.hu",
+    "source": {
+      "list": "FIREFOX",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "firefoxtweetmachine.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:firefoxtweetmachine.com",
+    "source": {
+      "list": "FIREFOX",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "firefoxusercontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:firefoxusercontent.com",
+    "source": {
+      "list": "FIREFOX",
+      "line": 5
+    }
+  },
+  {
+    "type": "full",
+    "value": "mozilla-ohttp.fastly-edge.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:mozilla-ohttp.fastly-edge.com",
+    "source": {
+      "list": "FIREFOX",
+      "line": 7
+    }
+  },
+  {
+    "type": "full",
+    "value": "mozilla.map.fastly.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:mozilla.map.fastly.net",
+    "source": {
+      "list": "FIREFOX",
+      "line": 8
+    }
+  }
+]

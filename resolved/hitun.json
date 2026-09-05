@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "hitun.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hitun.io",
+    "source": {
+      "list": "HITUN",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--90wwvt03e.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--90wwvt03e.com",
+    "source": {
+      "list": "HITUN",
+      "line": 2
+    }
+  }
+]

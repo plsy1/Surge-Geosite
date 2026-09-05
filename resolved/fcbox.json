@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "fcbox.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fcbox.com",
+    "source": {
+      "list": "FCBOX",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fcboxmall.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fcboxmall.com",
+    "source": {
+      "list": "FCBOX",
+      "line": 3
+    }
+  }
+]

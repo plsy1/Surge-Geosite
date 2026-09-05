@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "easy-jtag.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:easy-jtag.com",
+    "source": {
+      "list": "Z3X-TEAM",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "z3x-team.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:z3x-team.com",
+    "source": {
+      "list": "Z3X-TEAM",
+      "line": 2
+    }
+  }
+]

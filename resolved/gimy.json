@@ -1,0 +1,46 @@
+[
+  {
+    "type": "domain",
+    "value": "gimy.cc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gimy.cc",
+    "source": {
+      "list": "GIMY",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gimy.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gimy.co",
+    "source": {
+      "list": "GIMY",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gimy.to",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gimy.to",
+    "source": {
+      "list": "GIMY",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gimy.tv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gimy.tv",
+    "source": {
+      "list": "GIMY",
+      "line": 4
+    }
+  }
+]

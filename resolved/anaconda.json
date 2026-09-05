@@ -1,0 +1,46 @@
+[
+  {
+    "type": "domain",
+    "value": "anaconda.cloud",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:anaconda.cloud",
+    "source": {
+      "list": "ANACONDA",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "anaconda.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:anaconda.com",
+    "source": {
+      "list": "ANACONDA",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "anaconda.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:anaconda.org",
+    "source": {
+      "list": "ANACONDA",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "conda.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:conda.io",
+    "source": {
+      "list": "ANACONDA",
+      "line": 4
+    }
+  }
+]

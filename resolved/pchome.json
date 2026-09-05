@@ -1,0 +1,134 @@
+[
+  {
+    "type": "domain",
+    "value": "ecimg.tw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ecimg.tw",
+    "source": {
+      "list": "PCHOME",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pchome.com.tw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pchome.com.tw",
+    "source": {
+      "list": "PCHOME",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pchomeec.tw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pchomeec.tw",
+    "source": {
+      "list": "PCHOME",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pchomeonline.com.tw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pchomeonline.com.tw",
+    "source": {
+      "list": "PCHOME",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pchomepay.com.tw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pchomepay.com.tw",
+    "source": {
+      "list": "PCHOME",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pcloud.tw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pcloud.tw",
+    "source": {
+      "list": "PCHOME",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pcstore.com.tw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pcstore.com.tw",
+    "source": {
+      "list": "PCHOME",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "piapp.com.tw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:piapp.com.tw",
+    "source": {
+      "list": "PCHOME",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rakuya.com.tw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rakuya.com.tw",
+    "source": {
+      "list": "PCHOME",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tagapie.com.tw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tagapie.com.tw",
+    "source": {
+      "list": "PCHOME",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "toget.com.tw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:toget.com.tw",
+    "source": {
+      "list": "PCHOME",
+      "line": 11
+    }
+  },
+  {
+    "type": "full",
+    "value": "ecapi-pchome.cdn.hinet.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:ecapi-pchome.cdn.hinet.net",
+    "source": {
+      "list": "PCHOME",
+      "line": 13
+    }
+  }
+]

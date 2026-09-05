@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "dmm.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dmm.co.jp",
+    "source": {
+      "list": "DMM-PORN",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dmmrex.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dmmrex.com",
+    "source": {
+      "list": "DMM-PORN",
+      "line": 2
+    }
+  }
+]

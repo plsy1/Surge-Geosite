@@ -1,0 +1,57 @@
+[
+  {
+    "type": "domain",
+    "value": "buypass-ssl.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:buypass-ssl.com",
+    "source": {
+      "list": "BUYPASS",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "buypass.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:buypass.com",
+    "source": {
+      "list": "BUYPASS",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "buypass.no",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:buypass.no",
+    "source": {
+      "list": "BUYPASS",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "buypass.se",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:buypass.se",
+    "source": {
+      "list": "BUYPASS",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "minid.no",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:minid.no",
+    "source": {
+      "list": "BUYPASS",
+      "line": 5
+    }
+  }
+]

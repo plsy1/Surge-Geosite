@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "moonvy.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:moonvy.com",
+    "source": {
+      "list": "MOONVY",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "moonvy.cool",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:moonvy.cool",
+    "source": {
+      "list": "MOONVY",
+      "line": 3
+    }
+  }
+]

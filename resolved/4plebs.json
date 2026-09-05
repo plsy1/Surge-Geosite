@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "4pcdn.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:4pcdn.org",
+    "source": {
+      "list": "4PLEBS",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "4plebs.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:4plebs.org",
+    "source": {
+      "list": "4PLEBS",
+      "line": 2
+    }
+  }
+]

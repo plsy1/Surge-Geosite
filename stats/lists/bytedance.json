@@ -1,0 +1,60 @@
+{
+  "name": "BYTEDANCE",
+  "source": {
+    "domain": 364,
+    "full": 1,
+    "keyword": 0,
+    "regexp": 0,
+    "include": 10,
+    "affiliations": 0,
+    "attributes": 36
+  },
+  "resolved": {
+    "rules": 883,
+    "domain": 862,
+    "full": 21,
+    "keyword": 0,
+    "regexp": 0
+  },
+  "filters": {
+    "attrs": {
+      "ads": 44,
+      "!cn": 50
+    }
+  },
+  "modes": {
+    "strict": {
+      "rules": 883,
+      "bytes": 25475,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "balanced": {
+      "rules": 883,
+      "bytes": 25475,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "full": {
+      "rules": 883,
+      "bytes": 25475,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    }
+  }
+}

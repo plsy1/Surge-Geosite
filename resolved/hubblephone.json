@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "hubblephone.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hubblephone.com",
+    "source": {
+      "list": "HUBBLEPHONE",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tsi.ai",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tsi.ai",
+    "source": {
+      "list": "HUBBLEPHONE",
+      "line": 2
+    }
+  }
+]

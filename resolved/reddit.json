@@ -1,0 +1,134 @@
+[
+  {
+    "type": "domain",
+    "value": "redd.it",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:redd.it",
+    "source": {
+      "list": "REDDIT",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "reddit.app.link",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:reddit.app.link",
+    "source": {
+      "list": "REDDIT",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "reddit.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:reddit.com",
+    "source": {
+      "list": "REDDIT",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "reddit.map.fastly.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:reddit.map.fastly.net",
+    "source": {
+      "list": "REDDIT",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "redditblog.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:redditblog.com",
+    "source": {
+      "list": "REDDIT",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "reddithelp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:reddithelp.com",
+    "source": {
+      "list": "REDDIT",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "redditinc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:redditinc.com",
+    "source": {
+      "list": "REDDIT",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "redditmail.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:redditmail.com",
+    "source": {
+      "list": "REDDIT",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "redditmedia.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:redditmedia.com",
+    "source": {
+      "list": "REDDIT",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "redditspace.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:redditspace.com",
+    "source": {
+      "list": "REDDIT",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "redditstatic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:redditstatic.com",
+    "source": {
+      "list": "REDDIT",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "redditstatus.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:redditstatus.com",
+    "source": {
+      "list": "REDDIT",
+      "line": 11
+    }
+  }
+]

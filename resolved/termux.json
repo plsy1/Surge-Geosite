@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "termux.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:termux.com",
+    "source": {
+      "list": "TERMUX",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "termux.dev",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:termux.dev",
+    "source": {
+      "list": "TERMUX",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "termux.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:termux.org",
+    "source": {
+      "list": "TERMUX",
+      "line": 3
+    }
+  }
+]

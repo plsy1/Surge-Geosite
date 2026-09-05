@@ -1,0 +1,57 @@
+{
+  "name": "CATEGORY-BROWSER-!CN",
+  "source": {
+    "domain": 24,
+    "full": 0,
+    "keyword": 0,
+    "regexp": 0,
+    "include": 4,
+    "affiliations": 0,
+    "attributes": 0
+  },
+  "resolved": {
+    "rules": 35,
+    "domain": 33,
+    "full": 2,
+    "keyword": 0,
+    "regexp": 0
+  },
+  "filters": {
+    "attrs": {}
+  },
+  "modes": {
+    "strict": {
+      "rules": 35,
+      "bytes": 1005,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "balanced": {
+      "rules": 35,
+      "bytes": 1005,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "full": {
+      "rules": 35,
+      "bytes": 1005,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    }
+  }
+}

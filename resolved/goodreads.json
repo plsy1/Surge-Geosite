@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "goodreads.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:goodreads.com",
+    "source": {
+      "list": "GOODREADS",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gr-assets.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gr-assets.com",
+    "source": {
+      "list": "GOODREADS",
+      "line": 2
+    }
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "type": "domain",
+    "value": "myvodafone.com.au",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:myvodafone.com.au",
+    "source": {
+      "list": "VODAFONE",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "myvodafone.com.ws",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:myvodafone.com.ws",
+    "source": {
+      "list": "VODAFONE",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vodafone.co.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vodafone.co.uk",
+    "source": {
+      "list": "VODAFONE",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vodafone.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vodafone.com",
+    "source": {
+      "list": "VODAFONE",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vodafone.com.au",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vodafone.com.au",
+    "source": {
+      "list": "VODAFONE",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vodafone.com.tr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vodafone.com.tr",
+    "source": {
+      "list": "VODAFONE",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vodafone.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vodafone.de",
+    "source": {
+      "list": "VODAFONE",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vodafone.it",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vodafone.it",
+    "source": {
+      "list": "VODAFONE",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vodafone.nl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vodafone.nl",
+    "source": {
+      "list": "VODAFONE",
+      "line": 9
+    }
+  }
+]

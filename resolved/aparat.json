@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "aparat.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aparat.com",
+    "source": {
+      "list": "APARAT",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aparatkids.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aparatkids.com",
+    "source": {
+      "list": "APARAT",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aparatsport.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aparatsport.com",
+    "source": {
+      "list": "APARAT",
+      "line": 3
+    }
+  }
+]

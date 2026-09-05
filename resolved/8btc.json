@@ -1,0 +1,57 @@
+[
+  {
+    "type": "domain",
+    "value": "8btc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:8btc.com",
+    "source": {
+      "list": "8BTC",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bystack.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bystack.com",
+    "source": {
+      "list": "8BTC",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "chainnode.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:chainnode.com",
+    "source": {
+      "list": "8BTC",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "matpool.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:matpool.com",
+    "source": {
+      "list": "8BTC",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "matpool.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:matpool.net",
+    "source": {
+      "list": "8BTC",
+      "line": 5
+    }
+  }
+]

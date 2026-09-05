@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "dengguobi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dengguobi.com",
+    "source": {
+      "list": "KUAIYIKEJI",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "houyicaiji.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:houyicaiji.com",
+    "source": {
+      "list": "KUAIYIKEJI",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jinglingbiaozhu.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jinglingbiaozhu.com",
+    "source": {
+      "list": "KUAIYIKEJI",
+      "line": 3
+    }
+  }
+]

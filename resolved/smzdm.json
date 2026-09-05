@@ -1,0 +1,46 @@
+[
+  {
+    "type": "domain",
+    "value": "smzdm.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:smzdm.com",
+    "source": {
+      "list": "SMZDM",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "smzdmimg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:smzdmimg.com",
+    "source": {
+      "list": "SMZDM",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zdmimg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zdmimg.com",
+    "source": {
+      "list": "SMZDM",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zhidemai.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zhidemai.com",
+    "source": {
+      "list": "SMZDM",
+      "line": 4
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "itch.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:itch.io",
+    "source": {
+      "list": "ITCHIO",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "itch.zone",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:itch.zone",
+    "source": {
+      "list": "ITCHIO",
+      "line": 2
+    }
+  }
+]

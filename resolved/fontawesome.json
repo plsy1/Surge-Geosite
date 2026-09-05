@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "fontawesome.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fontawesome.com",
+    "source": {
+      "list": "FONTAWESOME",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fortawesome.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fortawesome.com",
+    "source": {
+      "list": "FONTAWESOME",
+      "line": 2
+    }
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "gitee.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gitee.com",
+    "source": {
+      "list": "GITEE",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gitee.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gitee.io",
+    "source": {
+      "list": "GITEE",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oschina.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oschina.net",
+    "source": {
+      "list": "OSCHINA",
+      "line": 3
+    }
+  }
+]

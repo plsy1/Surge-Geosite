@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "bangumi.tv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bangumi.tv",
+    "source": {
+      "list": "BANGUMI",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bgm.tv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bgm.tv",
+    "source": {
+      "list": "BANGUMI",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "chii.in",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:chii.in",
+    "source": {
+      "list": "BANGUMI",
+      "line": 3
+    }
+  }
+]

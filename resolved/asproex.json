@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "asproex.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:asproex.com",
+    "source": {
+      "list": "ASPROEX",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "asproexapi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:asproexapi.com",
+    "source": {
+      "list": "ASPROEX",
+      "line": 2
+    }
+  }
+]

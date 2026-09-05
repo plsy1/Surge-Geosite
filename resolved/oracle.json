@@ -1,0 +1,211 @@
+[
+  {
+    "type": "domain",
+    "value": "addthis.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:addthis.com",
+    "source": {
+      "list": "ADDTHIS",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "addthiscdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:addthiscdn.com",
+    "source": {
+      "list": "ADDTHIS",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "addthisedge.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:addthisedge.com",
+    "source": {
+      "list": "ADDTHIS",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ateam-oracle.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ateam-oracle.com",
+    "source": {
+      "list": "ORACLE",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bronto.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bronto.com",
+    "source": {
+      "list": "ORACLE",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "covid19-rx.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:covid19-rx.org",
+    "source": {
+      "list": "ORACLE",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "covid19rx.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:covid19rx.org",
+    "source": {
+      "list": "ORACLE",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "custhelp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:custhelp.com",
+    "source": {
+      "list": "ORACLE",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "java",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:java",
+    "source": {
+      "list": "JAVA",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "java.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:java.com",
+    "source": {
+      "list": "JAVA",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "java.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:java.net",
+    "source": {
+      "list": "JAVA",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oracle",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oracle",
+    "source": {
+      "list": "ORACLE",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oracle.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oracle.com",
+    "source": {
+      "list": "ORACLE",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oraclecloud.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oraclecloud.com",
+    "source": {
+      "list": "ORACLE",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oraclefoundation.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oraclefoundation.org",
+    "source": {
+      "list": "ORACLE",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oracleimg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oracleimg.com",
+    "source": {
+      "list": "ORACLE",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oracleinfinity.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oracleinfinity.io",
+    "source": {
+      "list": "ORACLE",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sun.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sun.com",
+    "source": {
+      "list": "ORACLE",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "virtualbox.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:virtualbox.org",
+    "source": {
+      "list": "ORACLE",
+      "line": 18
+    }
+  }
+]

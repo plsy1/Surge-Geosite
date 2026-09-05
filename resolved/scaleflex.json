@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "cloudimage.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudimage.io",
+    "source": {
+      "list": "SCALEFLEX",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudimg.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudimg.io",
+    "source": {
+      "list": "SCALEFLEX",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "scaleflex.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:scaleflex.com",
+    "source": {
+      "list": "SCALEFLEX",
+      "line": 1
+    }
+  }
+]

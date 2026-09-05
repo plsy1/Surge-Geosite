@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "drbl.in",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:drbl.in",
+    "source": {
+      "list": "DRIBBBLE",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dribbble.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dribbble.com",
+    "source": {
+      "list": "DRIBBBLE",
+      "line": 2
+    }
+  }
+]

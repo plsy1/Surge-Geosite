@@ -1,0 +1,59 @@
+{
+  "name": "XBOX",
+  "source": {
+    "domain": 25,
+    "full": 0,
+    "keyword": 0,
+    "regexp": 0,
+    "include": 4,
+    "affiliations": 0,
+    "attributes": 1
+  },
+  "resolved": {
+    "rules": 45,
+    "domain": 43,
+    "full": 2,
+    "keyword": 0,
+    "regexp": 0
+  },
+  "filters": {
+    "attrs": {
+      "cn": 1
+    }
+  },
+  "modes": {
+    "strict": {
+      "rules": 45,
+      "bytes": 1296,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "balanced": {
+      "rules": 45,
+      "bytes": 1296,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "full": {
+      "rules": 45,
+      "bytes": 1296,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    }
+  }
+}

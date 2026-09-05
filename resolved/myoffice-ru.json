@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "myoffice.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:myoffice.ru",
+    "source": {
+      "list": "MYOFFICE-RU",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "myoffice.team",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:myoffice.team",
+    "source": {
+      "list": "MYOFFICE-RU",
+      "line": 2
+    }
+  }
+]

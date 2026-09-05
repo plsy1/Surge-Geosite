@@ -1,0 +1,574 @@
+[
+  {
+    "type": "domain",
+    "value": "pin.it",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pin.it",
+    "source": {
+      "list": "PINTEREST",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pinimg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pinimg.com",
+    "source": {
+      "list": "PINTEREST",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pinimg.com.cdn.cloudflare.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pinimg.com.cdn.cloudflare.net",
+    "source": {
+      "list": "PINTEREST",
+      "line": 53
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pinterest.at",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pinterest.at",
+    "source": {
+      "list": "PINTEREST",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pinterest.be",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pinterest.be",
+    "source": {
+      "list": "PINTEREST",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pinterest.ca",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pinterest.ca",
+    "source": {
+      "list": "PINTEREST",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pinterest.ch",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pinterest.ch",
+    "source": {
+      "list": "PINTEREST",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pinterest.cl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pinterest.cl",
+    "source": {
+      "list": "PINTEREST",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pinterest.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pinterest.co",
+    "source": {
+      "list": "PINTEREST",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pinterest.co.at",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pinterest.co.at",
+    "source": {
+      "list": "PINTEREST",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pinterest.co.in",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pinterest.co.in",
+    "source": {
+      "list": "PINTEREST",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pinterest.co.kr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pinterest.co.kr",
+    "source": {
+      "list": "PINTEREST",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pinterest.co.nz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pinterest.co.nz",
+    "source": {
+      "list": "PINTEREST",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pinterest.co.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pinterest.co.uk",
+    "source": {
+      "list": "PINTEREST",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pinterest.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pinterest.com",
+    "source": {
+      "list": "PINTEREST",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pinterest.com.au",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pinterest.com.au",
+    "source": {
+      "list": "PINTEREST",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pinterest.com.bo",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pinterest.com.bo",
+    "source": {
+      "list": "PINTEREST",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pinterest.com.ec",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pinterest.com.ec",
+    "source": {
+      "list": "PINTEREST",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pinterest.com.mx",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pinterest.com.mx",
+    "source": {
+      "list": "PINTEREST",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pinterest.com.pe",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pinterest.com.pe",
+    "source": {
+      "list": "PINTEREST",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pinterest.com.py",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pinterest.com.py",
+    "source": {
+      "list": "PINTEREST",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pinterest.com.uy",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pinterest.com.uy",
+    "source": {
+      "list": "PINTEREST",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pinterest.com.vn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pinterest.com.vn",
+    "source": {
+      "list": "PINTEREST",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pinterest.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pinterest.de",
+    "source": {
+      "list": "PINTEREST",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pinterest.dk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pinterest.dk",
+    "source": {
+      "list": "PINTEREST",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pinterest.ec",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pinterest.ec",
+    "source": {
+      "list": "PINTEREST",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pinterest.engineering",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pinterest.engineering",
+    "source": {
+      "list": "PINTEREST",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pinterest.es",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pinterest.es",
+    "source": {
+      "list": "PINTEREST",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pinterest.fr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pinterest.fr",
+    "source": {
+      "list": "PINTEREST",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pinterest.hu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pinterest.hu",
+    "source": {
+      "list": "PINTEREST",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pinterest.id",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pinterest.id",
+    "source": {
+      "list": "PINTEREST",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pinterest.ie",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pinterest.ie",
+    "source": {
+      "list": "PINTEREST",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pinterest.in",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pinterest.in",
+    "source": {
+      "list": "PINTEREST",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pinterest.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pinterest.info",
+    "source": {
+      "list": "PINTEREST",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pinterest.it",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pinterest.it",
+    "source": {
+      "list": "PINTEREST",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pinterest.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pinterest.jp",
+    "source": {
+      "list": "PINTEREST",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pinterest.kr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pinterest.kr",
+    "source": {
+      "list": "PINTEREST",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pinterest.map.fastly.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pinterest.map.fastly.net",
+    "source": {
+      "list": "PINTEREST",
+      "line": 54
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pinterest.mx",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pinterest.mx",
+    "source": {
+      "list": "PINTEREST",
+      "line": 37
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pinterest.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pinterest.net",
+    "source": {
+      "list": "PINTEREST",
+      "line": 38
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pinterest.nl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pinterest.nl",
+    "source": {
+      "list": "PINTEREST",
+      "line": 39
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pinterest.nz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pinterest.nz",
+    "source": {
+      "list": "PINTEREST",
+      "line": 40
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pinterest.pe",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pinterest.pe",
+    "source": {
+      "list": "PINTEREST",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pinterest.ph",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pinterest.ph",
+    "source": {
+      "list": "PINTEREST",
+      "line": 42
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pinterest.pt",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pinterest.pt",
+    "source": {
+      "list": "PINTEREST",
+      "line": 43
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pinterest.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pinterest.ru",
+    "source": {
+      "list": "PINTEREST",
+      "line": 44
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pinterest.se",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pinterest.se",
+    "source": {
+      "list": "PINTEREST",
+      "line": 45
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pinterest.th",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pinterest.th",
+    "source": {
+      "list": "PINTEREST",
+      "line": 46
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pinterest.tw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pinterest.tw",
+    "source": {
+      "list": "PINTEREST",
+      "line": 47
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pinterest.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pinterest.uk",
+    "source": {
+      "list": "PINTEREST",
+      "line": 48
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pinterest.vn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pinterest.vn",
+    "source": {
+      "list": "PINTEREST",
+      "line": 49
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pinterestmail.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pinterestmail.com",
+    "source": {
+      "list": "PINTEREST",
+      "line": 50
+    }
+  }
+]

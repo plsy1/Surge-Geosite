@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "miaomiaoz.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:miaomiaoz.com",
+    "source": {
+      "list": "MIAOMIAOZHE",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "miaomiaozhe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:miaomiaozhe.com",
+    "source": {
+      "list": "MIAOMIAOZHE",
+      "line": 2
+    }
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "type": "domain",
+    "value": "hbabit.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hbabit.com",
+    "source": {
+      "list": "HUOBI",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hbfile.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hbfile.net",
+    "source": {
+      "list": "HUOBI",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "htx.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:htx.com",
+    "source": {
+      "list": "HUOBI",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "huobi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:huobi.com",
+    "source": {
+      "list": "HUOBI",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "huobi.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:huobi.me",
+    "source": {
+      "list": "HUOBI",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "huobi.pro",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:huobi.pro",
+    "source": {
+      "list": "HUOBI",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "huobi.sc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:huobi.sc",
+    "source": {
+      "list": "HUOBI",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "huobiasia.vip",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:huobiasia.vip",
+    "source": {
+      "list": "HUOBI",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "huobigroup.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:huobigroup.com",
+    "source": {
+      "list": "HUOBI",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "huobitoken.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:huobitoken.com",
+    "source": {
+      "list": "HUOBI",
+      "line": 10
+    }
+  }
+]

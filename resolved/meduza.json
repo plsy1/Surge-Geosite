@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "meduza-flutter.firebaseapp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:meduza-flutter.firebaseapp.com",
+    "source": {
+      "list": "MEDUZA",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "meduza.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:meduza.io",
+    "source": {
+      "list": "MEDUZA",
+      "line": 1
+    }
+  }
+]

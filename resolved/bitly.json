@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "bit.ly",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bit.ly",
+    "source": {
+      "list": "BITLY",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bitly.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bitly.com",
+    "source": {
+      "list": "BITLY",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bitly.is",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bitly.is",
+    "source": {
+      "list": "BITLY",
+      "line": 3
+    }
+  }
+]

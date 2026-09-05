@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "hongen.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hongen.com",
+    "source": {
+      "list": "IHUMAN",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ihuman.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ihuman.com",
+    "source": {
+      "list": "IHUMAN",
+      "line": 2
+    }
+  }
+]

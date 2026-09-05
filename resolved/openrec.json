@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "openrec.tv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:openrec.tv",
+    "source": {
+      "list": "OPENREC",
+      "line": 2
+    }
+  },
+  {
+    "type": "full",
+    "value": "dqd0jw5gvbchn.cloudfront.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:dqd0jw5gvbchn.cloudfront.net",
+    "source": {
+      "list": "OPENREC",
+      "line": 1
+    }
+  }
+]

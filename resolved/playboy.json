@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "playboy.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:playboy.com",
+    "source": {
+      "list": "PLAYBOY",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "playboy.com.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:playboy.com.uk",
+    "source": {
+      "list": "PLAYBOY",
+      "line": 2
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "pagecdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pagecdn.com",
+    "source": {
+      "list": "PAGECDN",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pagecdn.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pagecdn.io",
+    "source": {
+      "list": "PAGECDN",
+      "line": 2
+    }
+  }
+]

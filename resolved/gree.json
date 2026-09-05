@@ -1,0 +1,79 @@
+[
+  {
+    "type": "domain",
+    "value": "gree.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gree.cn",
+    "source": {
+      "list": "GREE",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gree.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gree.com",
+    "source": {
+      "list": "GREE",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gree.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gree.com.cn",
+    "source": {
+      "list": "GREE",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "greeyun.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:greeyun.com",
+    "source": {
+      "list": "GREE",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kinghomechina.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kinghomechina.com",
+    "source": {
+      "list": "GREE",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tosot.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tosot.com.cn",
+    "source": {
+      "list": "GREE",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zhlyen.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zhlyen.com",
+    "source": {
+      "list": "GREE",
+      "line": 8
+    }
+  }
+]

@@ -1,0 +1,149 @@
+[
+  {
+    "type": "domain",
+    "value": "graph.whatsapp.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:graph.whatsapp.com:@ads",
+    "source": {
+      "list": "WHATSAPP",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "graph.whatsapp.net",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:graph.whatsapp.net:@ads",
+    "source": {
+      "list": "WHATSAPP",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wa.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wa.me",
+    "source": {
+      "list": "WHATSAPP",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "whatsapp-plus.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:whatsapp-plus.info",
+    "source": {
+      "list": "WHATSAPP",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "whatsapp-plus.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:whatsapp-plus.me",
+    "source": {
+      "list": "WHATSAPP",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "whatsapp-plus.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:whatsapp-plus.net",
+    "source": {
+      "list": "WHATSAPP",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "whatsapp.cc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:whatsapp.cc",
+    "source": {
+      "list": "WHATSAPP",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "whatsapp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:whatsapp.com",
+    "source": {
+      "list": "WHATSAPP",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "whatsapp.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:whatsapp.info",
+    "source": {
+      "list": "WHATSAPP",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "whatsapp.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:whatsapp.net",
+    "source": {
+      "list": "WHATSAPP",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "whatsapp.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:whatsapp.org",
+    "source": {
+      "list": "WHATSAPP",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "whatsapp.tv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:whatsapp.tv",
+    "source": {
+      "list": "WHATSAPP",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "whatsappbrand.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:whatsappbrand.com",
+    "source": {
+      "list": "WHATSAPP",
+      "line": 11
+    }
+  }
+]

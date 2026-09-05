@@ -1,0 +1,46 @@
+[
+  {
+    "type": "domain",
+    "value": "cursor-cdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cursor-cdn.com",
+    "source": {
+      "list": "CURSOR",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cursor.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cursor.com",
+    "source": {
+      "list": "CURSOR",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cursor.sh",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cursor.sh",
+    "source": {
+      "list": "CURSOR",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cursorapi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cursorapi.com",
+    "source": {
+      "list": "CURSOR",
+      "line": 4
+    }
+  }
+]

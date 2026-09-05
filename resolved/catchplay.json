@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "catchplay.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:catchplay.com",
+    "source": {
+      "list": "CATCHPLAY",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tra-ww000-cp.akamaized.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tra-ww000-cp.akamaized.net",
+    "source": {
+      "list": "CATCHPLAY",
+      "line": 2
+    }
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "type": "domain",
+    "value": "plex.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:plex.com",
+    "source": {
+      "list": "PLEX",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "plex.services",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:plex.services",
+    "source": {
+      "list": "PLEX",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "plex.tv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:plex.tv",
+    "source": {
+      "list": "PLEX",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "plexapp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:plexapp.com",
+    "source": {
+      "list": "PLEX",
+      "line": 6
+    }
+  }
+]

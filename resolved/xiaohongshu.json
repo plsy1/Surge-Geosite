@@ -1,0 +1,129 @@
+[
+  {
+    "type": "domain",
+    "value": "askdiandian.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:askdiandian.com",
+    "source": {
+      "list": "ASKDIANDIAN",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "diandianlife.top",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:diandianlife.top",
+    "source": {
+      "list": "ASKDIANDIAN",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "redelight.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:redelight.cn",
+    "source": {
+      "list": "XIAOHONGSHU",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rednote.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:rednote.com:@!cn",
+    "source": {
+      "list": "XIAOHONGSHU",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rednote.com.my",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:rednote.com.my:@!cn",
+    "source": {
+      "list": "XIAOHONGSHU",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rednotecdn.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:rednotecdn.com:@!cn",
+    "source": {
+      "list": "XIAOHONGSHU",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xhscdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xhscdn.com",
+    "source": {
+      "list": "XIAOHONGSHU",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xhscdn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xhscdn.net",
+    "source": {
+      "list": "XIAOHONGSHU",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xhslink.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xhslink.com",
+    "source": {
+      "list": "XIAOHONGSHU",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xhsrcdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xhsrcdn.com",
+    "source": {
+      "list": "XIAOHONGSHU",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xiaohongshu.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xiaohongshu.com",
+    "source": {
+      "list": "XIAOHONGSHU",
+      "line": 11
+    }
+  }
+]

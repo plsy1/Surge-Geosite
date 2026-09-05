@@ -1,0 +1,156 @@
+[
+  {
+    "type": "domain",
+    "value": "dns.pub",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dns.pub",
+    "source": {
+      "list": "DNSPOD",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dnsapi.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dnsapi.cn",
+    "source": {
+      "list": "DNSPOD",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dnspod.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dnspod.cn",
+    "source": {
+      "list": "DNSPOD",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dnspod.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dnspod.com",
+    "source": {
+      "list": "DNSPOD",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dnspod.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dnspod.com.cn",
+    "source": {
+      "list": "DNSPOD",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dnspod.mobi",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dnspod.mobi",
+    "source": {
+      "list": "DNSPOD",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dnspod.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dnspod.net",
+    "source": {
+      "list": "DNSPOD",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dnspod.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dnspod.org",
+    "source": {
+      "list": "DNSPOD",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dnsv2.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dnsv2.com",
+    "source": {
+      "list": "DNSPOD",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dnsv3.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dnsv3.com",
+    "source": {
+      "list": "DNSPOD",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dnsv4.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dnsv4.com",
+    "source": {
+      "list": "DNSPOD",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dnsv5.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dnsv5.com",
+    "source": {
+      "list": "DNSPOD",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "doh.pub",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:doh.pub",
+    "source": {
+      "list": "DNSPOD",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dot.pub",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dot.pub",
+    "source": {
+      "list": "DNSPOD",
+      "line": 14
+    }
+  }
+]

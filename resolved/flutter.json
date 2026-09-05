@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "flutter.dev",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:flutter.dev",
+    "source": {
+      "list": "FLUTTER",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "flutterapp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:flutterapp.com",
+    "source": {
+      "list": "FLUTTER",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pub.dev",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pub.dev",
+    "source": {
+      "list": "FLUTTER",
+      "line": 3
+    }
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "type": "domain",
+    "value": "b3log.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:b3log.org",
+    "source": {
+      "list": "B3LOG",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "b3logfile.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:b3logfile.com",
+    "source": {
+      "list": "B3LOG",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hacpai.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hacpai.com",
+    "source": {
+      "list": "B3LOG",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ld246.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ld246.com",
+    "source": {
+      "list": "B3LOG",
+      "line": 5
+    }
+  }
+]

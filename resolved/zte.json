@@ -1,0 +1,79 @@
+[
+  {
+    "type": "domain",
+    "value": "nubia.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nubia.cn",
+    "source": {
+      "list": "ZTE",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nubia.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nubia.com",
+    "source": {
+      "list": "ZTE",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "redmagic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:redmagic.com",
+    "source": {
+      "list": "ZTE",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zte.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zte.com.cn",
+    "source": {
+      "list": "ZTE",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ztedevices.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ztedevices.com",
+    "source": {
+      "list": "ZTE",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ztemall.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ztemall.com",
+    "source": {
+      "list": "ZTE",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ztems.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ztems.com",
+    "source": {
+      "list": "ZTE",
+      "line": 7
+    }
+  }
+]

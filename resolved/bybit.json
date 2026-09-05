@@ -1,0 +1,178 @@
+[
+  {
+    "type": "domain",
+    "value": "byabcde.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:byabcde.com",
+    "source": {
+      "list": "BYBIT",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "byapis.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:byapis.com",
+    "source": {
+      "list": "BYBIT",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "byapps.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:byapps.net",
+    "source": {
+      "list": "BYBIT",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bybdc6.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bybdc6.com",
+    "source": {
+      "list": "BYBIT",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bybit-global.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bybit-global.com",
+    "source": {
+      "list": "BYBIT",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bybit.biz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bybit.biz",
+    "source": {
+      "list": "BYBIT",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bybit.cloud",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bybit.cloud",
+    "source": {
+      "list": "BYBIT",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bybit.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bybit.com",
+    "source": {
+      "list": "BYBIT",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bybitglobal.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bybitglobal.com",
+    "source": {
+      "list": "BYBIT",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bycbe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bycbe.com",
+    "source": {
+      "list": "BYBIT",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bycsi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bycsi.com",
+    "source": {
+      "list": "BYBIT",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "byd3c3.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:byd3c3.com",
+    "source": {
+      "list": "BYBIT",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bymj.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bymj.io",
+    "source": {
+      "list": "BYBIT",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bytick.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bytick.com",
+    "source": {
+      "list": "BYBIT",
+      "line": 3
+    }
+  },
+  {
+    "type": "full",
+    "value": "bybit-exchange.github.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:bybit-exchange.github.io",
+    "source": {
+      "list": "BYBIT",
+      "line": 16
+    }
+  },
+  {
+    "type": "full",
+    "value": "bybit.ada.support",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:bybit.ada.support",
+    "source": {
+      "list": "BYBIT",
+      "line": 17
+    }
+  }
+]

@@ -1,0 +1,88 @@
+{
+  "name": "CATEGORY-GAMES-!CN",
+  "source": {
+    "domain": 33,
+    "full": 0,
+    "keyword": 0,
+    "regexp": 0,
+    "include": 46,
+    "affiliations": 0,
+    "attributes": 0
+  },
+  "resolved": {
+    "rules": 860,
+    "domain": 764,
+    "full": 93,
+    "keyword": 0,
+    "regexp": 3
+  },
+  "filters": {
+    "attrs": {
+      "cn": 37,
+      "ads": 2
+    }
+  },
+  "modes": {
+    "strict": {
+      "rules": 857,
+      "bytes": 25985,
+      "regex": {
+        "total": 3,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 3
+      },
+      "unsupported": [
+        {
+          "pattern": "^cdn\\d-epicgames-\\d+\\.file\\.myqcloud\\.com$",
+          "source": {
+            "list": "EPICGAMES",
+            "line": 32
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "^epicgames-download\\d-\\d+\\.file\\.myqcloud\\.com$",
+          "source": {
+            "list": "EPICGAMES",
+            "line": 34
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "^epicgames-download\\d\\.akamaized\\.net$",
+          "source": {
+            "list": "EPICGAMES",
+            "line": 33
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        }
+      ]
+    },
+    "balanced": {
+      "rules": 860,
+      "bytes": 26142,
+      "regex": {
+        "total": 3,
+        "lossless": 0,
+        "widened": 3,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "full": {
+      "rules": 860,
+      "bytes": 26142,
+      "regex": {
+        "total": 3,
+        "lossless": 0,
+        "widened": 3,
+        "unsupported": 0
+      },
+      "unsupported": []
+    }
+  }
+}

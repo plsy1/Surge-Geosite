@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "mdhcdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mdhcdn.com",
+    "source": {
+      "list": "MYDIRTYHOBBY",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mydirtyhobby.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mydirtyhobby.com",
+    "source": {
+      "list": "MYDIRTYHOBBY",
+      "line": 1
+    }
+  }
+]

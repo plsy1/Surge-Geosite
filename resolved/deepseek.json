@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "deepseek.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:deepseek.com",
+    "source": {
+      "list": "DEEPSEEK",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "deepseeksvc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:deepseeksvc.com",
+    "source": {
+      "list": "DEEPSEEK",
+      "line": 2
+    }
+  }
+]

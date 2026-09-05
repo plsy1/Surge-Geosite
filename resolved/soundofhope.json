@@ -1,0 +1,90 @@
+[
+  {
+    "type": "domain",
+    "value": "bayvoice.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bayvoice.net",
+    "source": {
+      "list": "SOUNDOFHOPE",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ozvoice.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ozvoice.org",
+    "source": {
+      "list": "SOUNDOFHOPE",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sohcradio.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sohcradio.com",
+    "source": {
+      "list": "SOUNDOFHOPE",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sohfrance.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sohfrance.org",
+    "source": {
+      "list": "SOUNDOFHOPE",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "soundofhope.eu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:soundofhope.eu",
+    "source": {
+      "list": "SOUNDOFHOPE",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "soundofhope.kr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:soundofhope.kr",
+    "source": {
+      "list": "SOUNDOFHOPE",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "soundofhope.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:soundofhope.org",
+    "source": {
+      "list": "SOUNDOFHOPE",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wanokokorosoh.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wanokokorosoh.com",
+    "source": {
+      "list": "SOUNDOFHOPE",
+      "line": 8
+    }
+  }
+]

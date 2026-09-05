@@ -1,0 +1,46 @@
+[
+  {
+    "type": "domain",
+    "value": "devcon.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:devcon.org",
+    "source": {
+      "list": "ETHEREUM",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ethereum.foundation",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ethereum.foundation",
+    "source": {
+      "list": "ETHEREUM",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ethereum.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ethereum.org",
+    "source": {
+      "list": "ETHEREUM",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "etherscan.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:etherscan.io",
+    "source": {
+      "list": "ETHEREUM",
+      "line": 4
+    }
+  }
+]

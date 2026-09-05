@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "udemy.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:udemy.com",
+    "source": {
+      "list": "UDEMY",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "udemycdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:udemycdn.com",
+    "source": {
+      "list": "UDEMY",
+      "line": 2
+    }
+  }
+]

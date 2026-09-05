@@ -1,0 +1,46 @@
+[
+  {
+    "type": "domain",
+    "value": "mikrotik.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mikrotik.com",
+    "source": {
+      "list": "MIKROTIK",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mt.lv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mt.lv",
+    "source": {
+      "list": "MIKROTIK",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mynetname.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mynetname.net",
+    "source": {
+      "list": "MIKROTIK",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "routerboard.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:routerboard.com",
+    "source": {
+      "list": "MIKROTIK",
+      "line": 4
+    }
+  }
+]

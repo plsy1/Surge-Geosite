@@ -1,0 +1,90 @@
+[
+  {
+    "type": "domain",
+    "value": "hkbu.edu.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hkbu.edu.hk",
+    "source": {
+      "list": "HKBU",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hkbu.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hkbu.hk",
+    "source": {
+      "list": "HKBU",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--fiqs8s1bxp3anr7a.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--fiqs8s1bxp3anr7a.hk",
+    "source": {
+      "list": "HKBU",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--fiqs8s1bxp3anr7a.xn--j6w193g",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--fiqs8s1bxp3anr7a.xn--j6w193g",
+    "source": {
+      "list": "HKBU",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--gdt08a.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--gdt08a.hk",
+    "source": {
+      "list": "HKBU",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--gdt08a.xn--j6w193g",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--gdt08a.xn--j6w193g",
+    "source": {
+      "list": "HKBU",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--pssu7cv61ahw8aq79bztd.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--pssu7cv61ahw8aq79bztd.hk",
+    "source": {
+      "list": "HKBU",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--pssu7cv61ahw8aq79bztd.xn--j6w193g",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--pssu7cv61ahw8aq79bztd.xn--j6w193g",
+    "source": {
+      "list": "HKBU",
+      "line": 11
+    }
+  }
+]

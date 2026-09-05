@@ -1,0 +1,200 @@
+[
+  {
+    "type": "domain",
+    "value": "mediawiki.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mediawiki.org",
+    "source": {
+      "list": "WIKIMEDIA",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "toolforge.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:toolforge.org",
+    "source": {
+      "list": "WIKIMEDIA",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "w.wiki",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:w.wiki",
+    "source": {
+      "list": "WIKIMEDIA",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wikibooks.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wikibooks.org",
+    "source": {
+      "list": "WIKIMEDIA",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wikidata.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wikidata.org",
+    "source": {
+      "list": "WIKIMEDIA",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wikimedia.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wikimedia.org",
+    "source": {
+      "list": "WIKIMEDIA",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wikimediacloud.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wikimediacloud.org",
+    "source": {
+      "list": "WIKIMEDIA",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wikimediafoundation.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wikimediafoundation.org",
+    "source": {
+      "list": "WIKIMEDIA",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wikinews.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wikinews.org",
+    "source": {
+      "list": "WIKIMEDIA",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wikipedia.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wikipedia.org",
+    "source": {
+      "list": "WIKIMEDIA",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wikiquote.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wikiquote.org",
+    "source": {
+      "list": "WIKIMEDIA",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wikisource.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wikisource.org",
+    "source": {
+      "list": "WIKIMEDIA",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wikiversity.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wikiversity.org",
+    "source": {
+      "list": "WIKIMEDIA",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wikivoyage.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wikivoyage.org",
+    "source": {
+      "list": "WIKIMEDIA",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wiktionary.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wiktionary.org",
+    "source": {
+      "list": "WIKIMEDIA",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wmcloud.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wmcloud.org",
+    "source": {
+      "list": "WIKIMEDIA",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wmflabs.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wmflabs.org",
+    "source": {
+      "list": "WIKIMEDIA",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wmfusercontent.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wmfusercontent.org",
+    "source": {
+      "list": "WIKIMEDIA",
+      "line": 13
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "johren.games",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:johren.games",
+    "source": {
+      "list": "JOHREN",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "johren.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:johren.net",
+    "source": {
+      "list": "JOHREN",
+      "line": 2
+    }
+  }
+]

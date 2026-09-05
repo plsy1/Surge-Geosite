@@ -1,0 +1,90 @@
+[
+  {
+    "type": "domain",
+    "value": "annas-archive.gd",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:annas-archive.gd",
+    "source": {
+      "list": "ANNAS-ARCHIVE",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "annas-archive.gl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:annas-archive.gl",
+    "source": {
+      "list": "ANNAS-ARCHIVE",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "annas-archive.in",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:annas-archive.in",
+    "source": {
+      "list": "ANNAS-ARCHIVE",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "annas-archive.li",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:annas-archive.li",
+    "source": {
+      "list": "ANNAS-ARCHIVE",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "annas-archive.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:annas-archive.org",
+    "source": {
+      "list": "ANNAS-ARCHIVE",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "annas-archive.pk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:annas-archive.pk",
+    "source": {
+      "list": "ANNAS-ARCHIVE",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "annas-archive.pm",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:annas-archive.pm",
+    "source": {
+      "list": "ANNAS-ARCHIVE",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "annas-archive.se",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:annas-archive.se",
+    "source": {
+      "list": "ANNAS-ARCHIVE",
+      "line": 8
+    }
+  }
+]

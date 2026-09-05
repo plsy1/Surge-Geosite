@@ -1,0 +1,57 @@
+[
+  {
+    "type": "domain",
+    "value": "bahamut.akamaized.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bahamut.akamaized.net",
+    "source": {
+      "list": "BAHAMUT",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bahamut.com.tw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bahamut.com.tw",
+    "source": {
+      "list": "BAHAMUT",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gamer.com.tw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gamer.com.tw",
+    "source": {
+      "list": "BAHAMUT",
+      "line": 3
+    }
+  },
+  {
+    "type": "full",
+    "value": "gamer-cds.cdn.hinet.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:gamer-cds.cdn.hinet.net",
+    "source": {
+      "list": "BAHAMUT",
+      "line": 6
+    }
+  },
+  {
+    "type": "full",
+    "value": "gamer2-cds.cdn.hinet.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:gamer2-cds.cdn.hinet.net",
+    "source": {
+      "list": "BAHAMUT",
+      "line": 5
+    }
+  }
+]

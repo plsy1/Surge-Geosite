@@ -1,0 +1,820 @@
+[
+  {
+    "type": "domain",
+    "value": "achat-followers-instagram.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:achat-followers-instagram.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "acheter-followers-instagram.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:acheter-followers-instagram.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "acheterdesfollowersinstagram.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:acheterdesfollowersinstagram.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "acheterfollowersinstagram.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:acheterfollowersinstagram.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bookstagram.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bookstagram.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "carstagram.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:carstagram.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdninstagram.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdninstagram.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "chickstagram.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:chickstagram.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "graph-fallback.instagram.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:graph-fallback.instagram.com:@ads",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 76
+    }
+  },
+  {
+    "type": "domain",
+    "value": "graph.instagram.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:graph.instagram.com:@ads",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 75
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ig.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ig.me",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "igcdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:igcdn.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "igsonar.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:igsonar.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "igtv.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:igtv.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "imstagram.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:imstagram.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "imtagram.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:imtagram.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "instaadder.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:instaadder.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "instachecker.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:instachecker.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "instafallow.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:instafallow.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "instafollower.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:instafollower.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "instagainer.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:instagainer.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "instagda.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:instagda.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "instagify.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:instagify.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "instagmania.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:instagmania.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "instagor.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:instagor.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "instagram-brand.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:instagram-brand.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "instagram-engineering.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:instagram-engineering.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "instagram-help.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:instagram-help.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "instagram-press.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:instagram-press.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "instagram-press.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:instagram-press.net",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "instagram.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:instagram.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "instagramci.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:instagramci.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "instagramcn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:instagramcn.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "instagramdi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:instagramdi.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "instagramhashtags.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:instagramhashtags.net",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "instagramhilecim.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:instagramhilecim.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "instagramhilesi.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:instagramhilesi.org",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "instagramium.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:instagramium.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "instagramizlenme.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:instagramizlenme.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 37
+    }
+  },
+  {
+    "type": "domain",
+    "value": "instagramkusu.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:instagramkusu.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 38
+    }
+  },
+  {
+    "type": "domain",
+    "value": "instagramlogin.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:instagramlogin.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 39
+    }
+  },
+  {
+    "type": "domain",
+    "value": "instagramm.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:instagramm.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 40
+    }
+  },
+  {
+    "type": "domain",
+    "value": "instagramn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:instagramn.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "instagrampartners.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:instagrampartners.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 42
+    }
+  },
+  {
+    "type": "domain",
+    "value": "instagramphoto.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:instagramphoto.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 43
+    }
+  },
+  {
+    "type": "domain",
+    "value": "instagramq.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:instagramq.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 44
+    }
+  },
+  {
+    "type": "domain",
+    "value": "instagramsepeti.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:instagramsepeti.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 45
+    }
+  },
+  {
+    "type": "domain",
+    "value": "instagramtakipcisatinal.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:instagramtakipcisatinal.net",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 46
+    }
+  },
+  {
+    "type": "domain",
+    "value": "instagramtakiphilesi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:instagramtakiphilesi.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 47
+    }
+  },
+  {
+    "type": "domain",
+    "value": "instagramtips.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:instagramtips.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 48
+    }
+  },
+  {
+    "type": "domain",
+    "value": "instagramtr.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:instagramtr.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 49
+    }
+  },
+  {
+    "type": "domain",
+    "value": "instagran.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:instagran.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 50
+    }
+  },
+  {
+    "type": "domain",
+    "value": "instagranm.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:instagranm.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 51
+    }
+  },
+  {
+    "type": "domain",
+    "value": "instagrem.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:instagrem.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 52
+    }
+  },
+  {
+    "type": "domain",
+    "value": "instagrm.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:instagrm.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 53
+    }
+  },
+  {
+    "type": "domain",
+    "value": "instagtram.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:instagtram.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 54
+    }
+  },
+  {
+    "type": "domain",
+    "value": "instagy.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:instagy.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 55
+    }
+  },
+  {
+    "type": "domain",
+    "value": "instamgram.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:instamgram.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 56
+    }
+  },
+  {
+    "type": "domain",
+    "value": "instangram.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:instangram.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 57
+    }
+  },
+  {
+    "type": "domain",
+    "value": "instanttelegram.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:instanttelegram.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 58
+    }
+  },
+  {
+    "type": "domain",
+    "value": "instaplayer.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:instaplayer.net",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 59
+    }
+  },
+  {
+    "type": "domain",
+    "value": "instastyle.tv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:instastyle.tv",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 60
+    }
+  },
+  {
+    "type": "domain",
+    "value": "instgram.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:instgram.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 61
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intagram.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intagram.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 62
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intagrm.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intagrm.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 63
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intgram.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intgram.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 64
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kingstagram.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kingstagram.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 65
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lnstagram-help.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lnstagram-help.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 66
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oninstagram.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oninstagram.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 68
+    }
+  },
+  {
+    "type": "domain",
+    "value": "online-instagram.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:online-instagram.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 69
+    }
+  },
+  {
+    "type": "domain",
+    "value": "onlineinstagram.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:onlineinstagram.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 70
+    }
+  },
+  {
+    "type": "domain",
+    "value": "theinstagramhack.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:theinstagramhack.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 67
+    }
+  },
+  {
+    "type": "domain",
+    "value": "web-instagram.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:web-instagram.net",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 71
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wwwinstagram.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wwwinstagram.com",
+    "source": {
+      "list": "INSTAGRAM",
+      "line": 72
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "nutaku.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nutaku.com",
+    "source": {
+      "list": "NUTAKU",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nutaku.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nutaku.net",
+    "source": {
+      "list": "NUTAKU",
+      "line": 2
+    }
+  }
+]

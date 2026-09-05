@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "oskelly.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oskelly.co",
+    "source": {
+      "list": "OSKELLY",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oskelly.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oskelly.ru",
+    "source": {
+      "list": "OSKELLY",
+      "line": 2
+    }
+  }
+]

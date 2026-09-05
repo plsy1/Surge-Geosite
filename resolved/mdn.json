@@ -1,0 +1,101 @@
+[
+  {
+    "type": "domain",
+    "value": "developer.allizom.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:developer.allizom.org",
+    "source": {
+      "list": "MDN",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "developer.mozilla.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:developer.mozilla.org",
+    "source": {
+      "list": "MDN",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mdn.allizom.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mdn.allizom.net",
+    "source": {
+      "list": "MDN",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mdn.dev",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mdn.dev",
+    "source": {
+      "list": "MDN",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mdn.mozilla.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mdn.mozilla.net",
+    "source": {
+      "list": "MDN",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mdn.mozit.cloud",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mdn.mozit.cloud",
+    "source": {
+      "list": "MDN",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mdnplay.dev",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mdnplay.dev",
+    "source": {
+      "list": "MDN",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mdnyalp.dev",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mdnyalp.dev",
+    "source": {
+      "list": "MDN",
+      "line": 8
+    }
+  },
+  {
+    "type": "full",
+    "value": "mdn.mozillademos.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:mdn.mozillademos.org",
+    "source": {
+      "list": "MDN",
+      "line": 10
+    }
+  }
+]

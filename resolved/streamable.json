@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "embed-cdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:embed-cdn.com",
+    "source": {
+      "list": "STREAMABLE",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "streamable.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:streamable.com",
+    "source": {
+      "list": "STREAMABLE",
+      "line": 2
+    }
+  }
+]

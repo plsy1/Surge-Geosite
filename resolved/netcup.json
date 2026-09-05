@@ -1,0 +1,266 @@
+[
+  {
+    "type": "domain",
+    "value": "bestsrv.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bestsrv.de",
+    "source": {
+      "list": "NETCUP",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "customercontrolpanel.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:customercontrolpanel.de",
+    "source": {
+      "list": "NETCUP",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dnsserver1.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dnsserver1.de",
+    "source": {
+      "list": "NETCUP",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dnsserver2.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dnsserver2.de",
+    "source": {
+      "list": "NETCUP",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "goodsrv.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:goodsrv.de",
+    "source": {
+      "list": "NETCUP",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "happysrv.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:happysrv.de",
+    "source": {
+      "list": "NETCUP",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hotsrv.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hotsrv.de",
+    "source": {
+      "list": "NETCUP",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "luckysrv.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:luckysrv.de",
+    "source": {
+      "list": "NETCUP",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "megasrv.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:megasrv.de",
+    "source": {
+      "list": "NETCUP",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "netcup-news.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:netcup-news.de",
+    "source": {
+      "list": "NETCUP",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "netcup-sonderangebote.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:netcup-sonderangebote.de",
+    "source": {
+      "list": "NETCUP",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "netcup-wiki.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:netcup-wiki.de",
+    "source": {
+      "list": "NETCUP",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "netcup.cafe",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:netcup.cafe",
+    "source": {
+      "list": "NETCUP",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "netcup.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:netcup.com",
+    "source": {
+      "list": "NETCUP",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "netcup.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:netcup.de",
+    "source": {
+      "list": "NETCUP",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "netcup.eu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:netcup.eu",
+    "source": {
+      "list": "NETCUP",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "netcup.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:netcup.net",
+    "source": {
+      "list": "NETCUP",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nicesrv.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nicesrv.de",
+    "source": {
+      "list": "NETCUP",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "powersrv.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:powersrv.de",
+    "source": {
+      "list": "NETCUP",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "quicksrv.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:quicksrv.de",
+    "source": {
+      "list": "NETCUP",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "servercontrolpanel.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:servercontrolpanel.de",
+    "source": {
+      "list": "NETCUP",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "supersrv.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:supersrv.de",
+    "source": {
+      "list": "NETCUP",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ultrasrv.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ultrasrv.de",
+    "source": {
+      "list": "NETCUP",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yourvserver.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yourvserver.net",
+    "source": {
+      "list": "NETCUP",
+      "line": 24
+    }
+  }
+]

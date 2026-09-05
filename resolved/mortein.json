@@ -1,0 +1,125 @@
+[
+  {
+    "type": "domain",
+    "value": "mortein.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:mortein.cn:@cn",
+    "source": {
+      "list": "MORTEIN",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mortein.co.in",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mortein.co.in",
+    "source": {
+      "list": "MORTEIN",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mortein.co.nz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mortein.co.nz",
+    "source": {
+      "list": "MORTEIN",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mortein.co.za",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mortein.co.za",
+    "source": {
+      "list": "MORTEIN",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mortein.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mortein.com",
+    "source": {
+      "list": "MORTEIN",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mortein.com.au",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mortein.com.au",
+    "source": {
+      "list": "MORTEIN",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mortein.com.br",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mortein.com.br",
+    "source": {
+      "list": "MORTEIN",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mortein.com.ng",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mortein.com.ng",
+    "source": {
+      "list": "MORTEIN",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mortein.com.pk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mortein.com.pk",
+    "source": {
+      "list": "MORTEIN",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "morteincam.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:morteincam.com",
+    "source": {
+      "list": "MORTEIN",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pifpafarabia.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pifpafarabia.com",
+    "source": {
+      "list": "MORTEIN",
+      "line": 11
+    }
+  }
+]

@@ -1,0 +1,59 @@
+{
+  "name": "MOZILLA",
+  "source": {
+    "domain": 56,
+    "full": 4,
+    "keyword": 0,
+    "regexp": 0,
+    "include": 2,
+    "affiliations": 0,
+    "attributes": 4
+  },
+  "resolved": {
+    "rules": 70,
+    "domain": 64,
+    "full": 6,
+    "keyword": 0,
+    "regexp": 0
+  },
+  "filters": {
+    "attrs": {
+      "ads": 4
+    }
+  },
+  "modes": {
+    "strict": {
+      "rules": 70,
+      "bytes": 2059,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "balanced": {
+      "rules": 70,
+      "bytes": 2059,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "full": {
+      "rules": 70,
+      "bytes": 2059,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    }
+  }
+}

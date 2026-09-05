@@ -1,0 +1,148 @@
+[
+  {
+    "type": "domain",
+    "value": "anker-in.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:anker-in.com:@!cn",
+    "source": {
+      "list": "ANKER",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "anker.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:anker.com:@!cn",
+    "source": {
+      "list": "ANKER",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "anker.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:anker.com.cn",
+    "source": {
+      "list": "ANKER",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ankersolix.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:ankersolix.com:@!cn",
+    "source": {
+      "list": "ANKER",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ankerwork.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ankerwork.cn",
+    "source": {
+      "list": "ANKER",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "eufy.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:eufy.com:@!cn",
+    "source": {
+      "list": "ANKER",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "eufycn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:eufycn.com",
+    "source": {
+      "list": "ANKER",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "eufylife.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:eufylife.com:@!cn",
+    "source": {
+      "list": "ANKER",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "eufymake.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:eufymake.com:@!cn",
+    "source": {
+      "list": "ANKER",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "eufymake.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:eufymake.com.cn",
+    "source": {
+      "list": "ANKER",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "soundcore.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:soundcore.com:@!cn",
+    "source": {
+      "list": "ANKER",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "soundcore.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:soundcore.com.cn",
+    "source": {
+      "list": "ANKER",
+      "line": 12
+    }
+  }
+]

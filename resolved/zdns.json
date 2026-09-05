@@ -1,0 +1,134 @@
+[
+  {
+    "type": "domain",
+    "value": "zcmbc.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zcmbc.com.cn",
+    "source": {
+      "list": "ZDNS",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zdns.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zdns.cn",
+    "source": {
+      "list": "ZDNS",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zdns.net.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zdns.net.cn",
+    "source": {
+      "list": "ZDNS",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zdns.org.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zdns.org.cn",
+    "source": {
+      "list": "ZDNS",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zdnscloud.biz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zdnscloud.biz",
+    "source": {
+      "list": "ZDNS",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zdnscloud.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zdnscloud.cn",
+    "source": {
+      "list": "ZDNS",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zdnscloud.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zdnscloud.com",
+    "source": {
+      "list": "ZDNS",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zdnscloud.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zdnscloud.com.cn",
+    "source": {
+      "list": "ZDNS",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zdnscloud.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zdnscloud.info",
+    "source": {
+      "list": "ZDNS",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zdnscloud.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zdnscloud.net",
+    "source": {
+      "list": "ZDNS",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zdnscloud.net.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zdnscloud.net.cn",
+    "source": {
+      "list": "ZDNS",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zdnscloud.org.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zdnscloud.org.cn",
+    "source": {
+      "list": "ZDNS",
+      "line": 12
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "moxing.mobi",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:moxing.mobi",
+    "source": {
+      "list": "MOXING",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "moxing.news",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:moxing.news",
+    "source": {
+      "list": "MOXING",
+      "line": 2
+    }
+  }
+]

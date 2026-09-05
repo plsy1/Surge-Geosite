@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "chndoi.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:chndoi.org",
+    "source": {
+      "list": "CNKI",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cnki.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cnki.com.cn",
+    "source": {
+      "list": "CNKI",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cnki.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cnki.net",
+    "source": {
+      "list": "CNKI",
+      "line": 2
+    }
+  }
+]

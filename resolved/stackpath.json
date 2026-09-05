@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "stackpath.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:stackpath.com",
+    "source": {
+      "list": "STACKPATH",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "stackpath.dev",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:stackpath.dev",
+    "source": {
+      "list": "STACKPATH",
+      "line": 2
+    }
+  }
+]

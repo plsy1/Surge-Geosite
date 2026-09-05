@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "javwide.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:javwide.com",
+    "source": {
+      "list": "JAVWIDE",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "javwide.tv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:javwide.tv",
+    "source": {
+      "list": "JAVWIDE",
+      "line": 2
+    }
+  }
+]

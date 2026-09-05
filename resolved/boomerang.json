@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "boomerang.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:boomerang.com",
+    "source": {
+      "list": "BOOMERANG",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wbdnbo.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wbdnbo.net",
+    "source": {
+      "list": "BOOMERANG",
+      "line": 2
+    }
+  }
+]

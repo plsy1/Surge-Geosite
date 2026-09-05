@@ -1,0 +1,81 @@
+[
+  {
+    "type": "domain",
+    "value": "ad.api.moji.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:ad.api.moji.com:@ads",
+    "source": {
+      "list": "MOJI",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airnut.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airnut.com",
+    "source": {
+      "list": "MOJI",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "moji.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:moji.com",
+    "source": {
+      "list": "MOJI",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "moji001.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:moji001.com",
+    "source": {
+      "list": "MOJI",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "moji002.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:moji002.com",
+    "source": {
+      "list": "MOJI",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mojicdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mojicdn.com",
+    "source": {
+      "list": "MOJI",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mojichina.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mojichina.com",
+    "source": {
+      "list": "MOJI",
+      "line": 7
+    }
+  }
+]

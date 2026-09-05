@@ -1,0 +1,286 @@
+[
+  {
+    "type": "domain",
+    "value": "amplitude.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:amplitude.com",
+    "source": {
+      "list": "AMPLITUDE",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "api-secure.amplitude.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:api-secure.amplitude.com:@ads",
+    "source": {
+      "list": "AMPLITUDE",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "api-secure.eu.amplitude.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:api-secure.eu.amplitude.com:@ads",
+    "source": {
+      "list": "AMPLITUDE",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "api-sr.amplitude.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:api-sr.amplitude.com:@ads",
+    "source": {
+      "list": "AMPLITUDE",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "api-sr.eu.amplitude.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:api-sr.eu.amplitude.com:@ads",
+    "source": {
+      "list": "AMPLITUDE",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "api.amplitude.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:api.amplitude.com:@ads",
+    "source": {
+      "list": "AMPLITUDE",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "api.eu.amplitude.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:api.eu.amplitude.com:@ads",
+    "source": {
+      "list": "AMPLITUDE",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "api2.amplitude.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:api2.amplitude.com:@ads",
+    "source": {
+      "list": "AMPLITUDE",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "assistant-api.amplitude.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:assistant-api.amplitude.com:@ads",
+    "source": {
+      "list": "AMPLITUDE",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "assistant-api.eu.amplitude.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:assistant-api.eu.amplitude.com:@ads",
+    "source": {
+      "list": "AMPLITUDE",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdn.amplitude.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:cdn.amplitude.com:@ads",
+    "source": {
+      "list": "AMPLITUDE",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdn.eu.amplitude.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:cdn.eu.amplitude.com:@ads",
+    "source": {
+      "list": "AMPLITUDE",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "engagement-static.amplitude.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:engagement-static.amplitude.com:@ads",
+    "source": {
+      "list": "AMPLITUDE",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "engagement-static.eu.amplitude.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:engagement-static.eu.amplitude.com:@ads",
+    "source": {
+      "list": "AMPLITUDE",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gs.amplitude.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:gs.amplitude.com:@ads",
+    "source": {
+      "list": "AMPLITUDE",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gs.eu.amplitude.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:gs.eu.amplitude.com:@ads",
+    "source": {
+      "list": "AMPLITUDE",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lab.amplitude.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:lab.amplitude.com:@ads",
+    "source": {
+      "list": "AMPLITUDE",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lab.eu.amplitude.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:lab.eu.amplitude.com:@ads",
+    "source": {
+      "list": "AMPLITUDE",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "regionconfig.amplitude.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:regionconfig.amplitude.com:@ads",
+    "source": {
+      "list": "AMPLITUDE",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "regionconfig.eu.amplitude.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:regionconfig.eu.amplitude.com:@ads",
+    "source": {
+      "list": "AMPLITUDE",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sr-client-cfg.amplitude.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:sr-client-cfg.amplitude.com:@ads",
+    "source": {
+      "list": "AMPLITUDE",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sr-client-cfg.eu.amplitude.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:sr-client-cfg.eu.amplitude.com:@ads",
+    "source": {
+      "list": "AMPLITUDE",
+      "line": 23
+    }
+  }
+]

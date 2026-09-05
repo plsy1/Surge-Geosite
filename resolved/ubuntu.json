@@ -1,0 +1,46 @@
+[
+  {
+    "type": "domain",
+    "value": "ubuntu-touch.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ubuntu-touch.io",
+    "source": {
+      "list": "UBUNTU",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ubuntu.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ubuntu.com",
+    "source": {
+      "list": "UBUNTU",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ubuntu.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ubuntu.net",
+    "source": {
+      "list": "UBUNTU",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ubuntuforums.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ubuntuforums.org",
+    "source": {
+      "list": "UBUNTU",
+      "line": 3
+    }
+  }
+]

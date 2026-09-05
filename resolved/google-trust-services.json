@@ -1,0 +1,148 @@
+[
+  {
+    "type": "domain",
+    "value": "pki.goog",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pki.goog",
+    "source": {
+      "list": "GOOGLE-TRUST-SERVICES",
+      "line": 1
+    }
+  },
+  {
+    "type": "full",
+    "value": "c.pki.goog",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:c.pki.goog:@cn",
+    "source": {
+      "list": "GOOGLE-TRUST-SERVICES",
+      "line": 5
+    }
+  },
+  {
+    "type": "full",
+    "value": "clients1.google.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:clients1.google.com",
+    "source": {
+      "list": "GOOGLE-TRUST-SERVICES",
+      "line": 14
+    }
+  },
+  {
+    "type": "full",
+    "value": "crl.pki.goog",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:crl.pki.goog:@cn",
+    "source": {
+      "list": "GOOGLE-TRUST-SERVICES",
+      "line": 18
+    }
+  },
+  {
+    "type": "full",
+    "value": "crls.pki.goog",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:crls.pki.goog:@cn",
+    "source": {
+      "list": "GOOGLE-TRUST-SERVICES",
+      "line": 19
+    }
+  },
+  {
+    "type": "full",
+    "value": "i.pki.goog",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:i.pki.goog:@cn",
+    "source": {
+      "list": "GOOGLE-TRUST-SERVICES",
+      "line": 6
+    }
+  },
+  {
+    "type": "full",
+    "value": "o.pki.goog",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:o.pki.goog:@cn",
+    "source": {
+      "list": "GOOGLE-TRUST-SERVICES",
+      "line": 7
+    }
+  },
+  {
+    "type": "full",
+    "value": "ocsp.pki.goog",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:ocsp.pki.goog:@cn",
+    "source": {
+      "list": "GOOGLE-TRUST-SERVICES",
+      "line": 20
+    }
+  },
+  {
+    "type": "full",
+    "value": "pki-goog.l.google.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:pki-goog.l.google.com:@cn",
+    "source": {
+      "list": "GOOGLE-TRUST-SERVICES",
+      "line": 3
+    }
+  },
+  {
+    "type": "full",
+    "value": "pki.google.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:pki.google.com",
+    "source": {
+      "list": "GOOGLE-TRUST-SERVICES",
+      "line": 15
+    }
+  },
+  {
+    "type": "full",
+    "value": "preprod-publicca.googleapis.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:preprod-publicca.googleapis.com",
+    "source": {
+      "list": "GOOGLE-TRUST-SERVICES",
+      "line": 11
+    }
+  },
+  {
+    "type": "full",
+    "value": "publicca.googleapis.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:publicca.googleapis.com",
+    "source": {
+      "list": "GOOGLE-TRUST-SERVICES",
+      "line": 10
+    }
+  }
+]

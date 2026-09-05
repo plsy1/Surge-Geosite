@@ -1,0 +1,101 @@
+[
+  {
+    "type": "domain",
+    "value": "comss.club",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:comss.club",
+    "source": {
+      "list": "COMSSONE",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "comss.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:comss.info",
+    "source": {
+      "list": "COMSSONE",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "comss.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:comss.me",
+    "source": {
+      "list": "COMSSONE",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "comss.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:comss.net",
+    "source": {
+      "list": "COMSSONE",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "comss.news",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:comss.news",
+    "source": {
+      "list": "COMSSONE",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "comss.one",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:comss.one",
+    "source": {
+      "list": "COMSSONE",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "comss.online",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:comss.online",
+    "source": {
+      "list": "COMSSONE",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "comss.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:comss.org",
+    "source": {
+      "list": "COMSSONE",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "comss.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:comss.ru",
+    "source": {
+      "list": "COMSSONE",
+      "line": 9
+    }
+  }
+]

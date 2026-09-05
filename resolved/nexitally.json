@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "nexitally.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nexitally.com",
+    "source": {
+      "list": "NEXITALLY",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nexitallysafe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nexitallysafe.com",
+    "source": {
+      "list": "NEXITALLY",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nexitcore.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nexitcore.com",
+    "source": {
+      "list": "NEXITALLY",
+      "line": 3
+    }
+  }
+]

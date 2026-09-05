@@ -1,0 +1,46 @@
+[
+  {
+    "type": "domain",
+    "value": "ckd.im",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ckd.im",
+    "source": {
+      "list": "KUAIDI100",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kd100.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kd100.com",
+    "source": {
+      "list": "KUAIDI100",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kuaidi100.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kuaidi100.com",
+    "source": {
+      "list": "KUAIDI100",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kuaidilab.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kuaidilab.com",
+    "source": {
+      "list": "KUAIDI100",
+      "line": 4
+    }
+  }
+]

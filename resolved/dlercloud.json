@@ -1,0 +1,46 @@
+[
+  {
+    "type": "domain",
+    "value": "dlercloud.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dlercloud.com",
+    "source": {
+      "list": "DLERCLOUD",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dlercloud.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dlercloud.me",
+    "source": {
+      "list": "DLERCLOUD",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dlercloud.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dlercloud.org",
+    "source": {
+      "list": "DLERCLOUD",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dleris.best",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dleris.best",
+    "source": {
+      "list": "DLERCLOUD",
+      "line": 4
+    }
+  }
+]

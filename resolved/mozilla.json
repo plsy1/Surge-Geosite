@@ -1,0 +1,780 @@
+[
+  {
+    "type": "domain",
+    "value": "allizom.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:allizom.net",
+    "source": {
+      "list": "MOZILLA",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "allizom.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:allizom.org",
+    "source": {
+      "list": "MOZILLA",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bugzilla.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bugzilla.org",
+    "source": {
+      "list": "MOZILLA",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "detodosparatodos.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:detodosparatodos.org",
+    "source": {
+      "list": "MOZILLA",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "discovershiretoko.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:discovershiretoko.org",
+    "source": {
+      "list": "MOZILLA",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ecmascript.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ecmascript.org",
+    "source": {
+      "list": "MOZILLA",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "extendfirefox.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:extendfirefox.com",
+    "source": {
+      "list": "FIREFOX",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "extensionworkshop.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:extensionworkshop.com",
+    "source": {
+      "list": "MOZILLA",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "firefox.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:firefox.com",
+    "source": {
+      "list": "FIREFOX",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "firefox.hu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:firefox.hu",
+    "source": {
+      "list": "FIREFOX",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "firefoxtweetmachine.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:firefoxtweetmachine.com",
+    "source": {
+      "list": "FIREFOX",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "firefoxusercontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:firefoxusercontent.com",
+    "source": {
+      "list": "FIREFOX",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "foxkeh.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:foxkeh.com",
+    "source": {
+      "list": "MOZILLA",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "foxkeh.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:foxkeh.jp",
+    "source": {
+      "list": "MOZILLA",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "getfirebug.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:getfirebug.com",
+    "source": {
+      "list": "MOZILLA",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "getpersonas.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:getpersonas.com",
+    "source": {
+      "list": "MOZILLA",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "getpocket.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:getpocket.com",
+    "source": {
+      "list": "MOZILLA",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hackasaurus.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hackasaurus.org",
+    "source": {
+      "list": "MOZILLA",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "interforest.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:interforest.org",
+    "source": {
+      "list": "MOZILLA",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "itisatrap.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:itisatrap.org",
+    "source": {
+      "list": "MOZILLA",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "learningfreedomandtheweb.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:learningfreedomandtheweb.org",
+    "source": {
+      "list": "MOZILLA",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lizardwrangler.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lizardwrangler.com",
+    "source": {
+      "list": "MOZILLA",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mdn.dev",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mdn.dev",
+    "source": {
+      "list": "MDN",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mdnplay.dev",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mdnplay.dev",
+    "source": {
+      "list": "MDN",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mdnyalp.dev",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mdnyalp.dev",
+    "source": {
+      "list": "MDN",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mecha-mozilla.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mecha-mozilla.org",
+    "source": {
+      "list": "MOZILLA",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mozaws.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mozaws.net",
+    "source": {
+      "list": "MOZILLA",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mozgcp.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mozgcp.net",
+    "source": {
+      "list": "MOZILLA",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mozilla-europe.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mozilla-europe.org",
+    "source": {
+      "list": "MOZILLA",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mozilla-hispano.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mozilla-hispano.org",
+    "source": {
+      "list": "MOZILLA",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mozilla-mexico.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mozilla-mexico.org",
+    "source": {
+      "list": "MOZILLA",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mozilla.ai",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mozilla.ai",
+    "source": {
+      "list": "MOZILLA",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mozilla.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mozilla.com",
+    "source": {
+      "list": "MOZILLA",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mozilla.community",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mozilla.community",
+    "source": {
+      "list": "MOZILLA",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mozilla.cz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mozilla.cz",
+    "source": {
+      "list": "MOZILLA",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mozilla.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mozilla.de",
+    "source": {
+      "list": "MOZILLA",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mozilla.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mozilla.jp",
+    "source": {
+      "list": "MOZILLA",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mozilla.lt",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mozilla.lt",
+    "source": {
+      "list": "MOZILLA",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mozilla.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mozilla.net",
+    "source": {
+      "list": "MOZILLA",
+      "line": 37
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mozilla.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mozilla.org",
+    "source": {
+      "list": "MOZILLA",
+      "line": 38
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mozilla.org.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mozilla.org.uk",
+    "source": {
+      "list": "MOZILLA",
+      "line": 39
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mozilla.pe",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mozilla.pe",
+    "source": {
+      "list": "MOZILLA",
+      "line": 40
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mozilla.pt",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mozilla.pt",
+    "source": {
+      "list": "MOZILLA",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mozilla.ro",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mozilla.ro",
+    "source": {
+      "list": "MOZILLA",
+      "line": 42
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mozillabd.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mozillabd.org",
+    "source": {
+      "list": "MOZILLA",
+      "line": 43
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mozillademos.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mozillademos.org",
+    "source": {
+      "list": "MOZILLA",
+      "line": 44
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mozillafactory.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mozillafactory.org",
+    "source": {
+      "list": "MOZILLA",
+      "line": 45
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mozillafoundation.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mozillafoundation.org",
+    "source": {
+      "list": "MOZILLA",
+      "line": 46
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mozillaignite.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mozillaignite.org",
+    "source": {
+      "list": "MOZILLA",
+      "line": 47
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mozillalabs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mozillalabs.com",
+    "source": {
+      "list": "MOZILLA",
+      "line": 48
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mozillaquebec.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mozillaquebec.org",
+    "source": {
+      "list": "MOZILLA",
+      "line": 49
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mozillazine.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mozillazine.jp",
+    "source": {
+      "list": "MOZILLA",
+      "line": 50
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mozillians.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mozillians.org",
+    "source": {
+      "list": "MOZILLA",
+      "line": 51
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mozit.cloud",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mozit.cloud",
+    "source": {
+      "list": "MOZILLA",
+      "line": 52
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mzl.la",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mzl.la",
+    "source": {
+      "list": "MOZILLA",
+      "line": 53
+    }
+  },
+  {
+    "type": "domain",
+    "value": "onemozilla.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:onemozilla.org",
+    "source": {
+      "list": "MOZILLA",
+      "line": 54
+    }
+  },
+  {
+    "type": "domain",
+    "value": "opentimetable.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:opentimetable.jp",
+    "source": {
+      "list": "MOZILLA",
+      "line": 55
+    }
+  },
+  {
+    "type": "domain",
+    "value": "popcornjs.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:popcornjs.org",
+    "source": {
+      "list": "MOZILLA",
+      "line": 56
+    }
+  },
+  {
+    "type": "domain",
+    "value": "publicsuffix.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:publicsuffix.org",
+    "source": {
+      "list": "MOZILLA",
+      "line": 57
+    }
+  },
+  {
+    "type": "domain",
+    "value": "seamonkey-project.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:seamonkey-project.org",
+    "source": {
+      "list": "MOZILLA",
+      "line": 58
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tb.pro",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tb.pro",
+    "source": {
+      "list": "MOZILLA",
+      "line": 59
+    }
+  },
+  {
+    "type": "domain",
+    "value": "thunderbird.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:thunderbird.net",
+    "source": {
+      "list": "MOZILLA",
+      "line": 60
+    }
+  },
+  {
+    "type": "domain",
+    "value": "thundermail.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:thundermail.com",
+    "source": {
+      "list": "MOZILLA",
+      "line": 61
+    }
+  },
+  {
+    "type": "domain",
+    "value": "webmademovies.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:webmademovies.org",
+    "source": {
+      "list": "MOZILLA",
+      "line": 62
+    }
+  },
+  {
+    "type": "full",
+    "value": "ads-img.mozilla.org",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:ads-img.mozilla.org:@ads",
+    "source": {
+      "list": "MOZILLA",
+      "line": 65
+    }
+  },
+  {
+    "type": "full",
+    "value": "ads.mozilla.org",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:ads.mozilla.org:@ads",
+    "source": {
+      "list": "MOZILLA",
+      "line": 66
+    }
+  },
+  {
+    "type": "full",
+    "value": "incoming-telemetry.thunderbird.net",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:incoming-telemetry.thunderbird.net:@ads",
+    "source": {
+      "list": "MOZILLA",
+      "line": 68
+    }
+  },
+  {
+    "type": "full",
+    "value": "incoming.telemetry.mozilla.org",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:incoming.telemetry.mozilla.org:@ads",
+    "source": {
+      "list": "MOZILLA",
+      "line": 67
+    }
+  },
+  {
+    "type": "full",
+    "value": "mozilla-ohttp.fastly-edge.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:mozilla-ohttp.fastly-edge.com",
+    "source": {
+      "list": "FIREFOX",
+      "line": 7
+    }
+  },
+  {
+    "type": "full",
+    "value": "mozilla.map.fastly.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:mozilla.map.fastly.net",
+    "source": {
+      "list": "FIREFOX",
+      "line": 8
+    }
+  }
+]

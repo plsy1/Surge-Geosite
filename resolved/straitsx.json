@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "straitsx.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:straitsx.com",
+    "source": {
+      "list": "STRAITSX",
+      "line": 1
+    }
+  },
+  {
+    "type": "full",
+    "value": "d3r7nsslvs6aaf.cloudfront.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:d3r7nsslvs6aaf.cloudfront.net",
+    "source": {
+      "list": "STRAITSX",
+      "line": 3
+    }
+  },
+  {
+    "type": "full",
+    "value": "straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com",
+    "source": {
+      "list": "STRAITSX",
+      "line": 4
+    }
+  }
+]

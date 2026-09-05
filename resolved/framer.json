@@ -1,0 +1,57 @@
+[
+  {
+    "type": "domain",
+    "value": "framer.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:framer.com",
+    "source": {
+      "list": "FRAMER",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "framer.website",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:framer.website",
+    "source": {
+      "list": "FRAMER",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "framercanvas.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:framercanvas.com",
+    "source": {
+      "list": "FRAMER",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "framerstatic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:framerstatic.com",
+    "source": {
+      "list": "FRAMER",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "framerusercontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:framerusercontent.com",
+    "source": {
+      "list": "FRAMER",
+      "line": 5
+    }
+  }
+]

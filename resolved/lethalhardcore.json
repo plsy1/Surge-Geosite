@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "lethalhardcore.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lethalhardcore.com",
+    "source": {
+      "list": "LETHALHARDCORE",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lethalhardcorevr.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lethalhardcorevr.com",
+    "source": {
+      "list": "LETHALHARDCORE",
+      "line": 2
+    }
+  }
+]

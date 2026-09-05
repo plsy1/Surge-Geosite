@@ -1,0 +1,57 @@
+[
+  {
+    "type": "domain",
+    "value": "forza.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:forza.net",
+    "source": {
+      "list": "FORZA",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "forzamotorsport.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:forzamotorsport.net",
+    "source": {
+      "list": "FORZA",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "forzaracingchampionship.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:forzaracingchampionship.com",
+    "source": {
+      "list": "FORZA",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "forzarc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:forzarc.com",
+    "source": {
+      "list": "FORZA",
+      "line": 4
+    }
+  },
+  {
+    "type": "full",
+    "value": "prodforza.blob.core.windows.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:prodforza.blob.core.windows.net",
+    "source": {
+      "list": "FORZA",
+      "line": 6
+    }
+  }
+]

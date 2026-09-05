@@ -1,0 +1,60 @@
+{
+  "name": "ALIYUN",
+  "source": {
+    "domain": 88,
+    "full": 0,
+    "keyword": 0,
+    "regexp": 0,
+    "include": 0,
+    "affiliations": 0,
+    "attributes": 26
+  },
+  "resolved": {
+    "rules": 88,
+    "domain": 88,
+    "full": 0,
+    "keyword": 0,
+    "regexp": 0
+  },
+  "filters": {
+    "attrs": {
+      "ads": 9,
+      "!cn": 17
+    }
+  },
+  "modes": {
+    "strict": {
+      "rules": 88,
+      "bytes": 3039,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "balanced": {
+      "rules": 88,
+      "bytes": 3039,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "full": {
+      "rules": 88,
+      "bytes": 3039,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    }
+  }
+}

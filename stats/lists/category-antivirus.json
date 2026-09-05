@@ -1,0 +1,59 @@
+{
+  "name": "CATEGORY-ANTIVIRUS",
+  "source": {
+    "domain": 9,
+    "full": 0,
+    "keyword": 0,
+    "regexp": 0,
+    "include": 5,
+    "affiliations": 0,
+    "attributes": 0
+  },
+  "resolved": {
+    "rules": 166,
+    "domain": 68,
+    "full": 98,
+    "keyword": 0,
+    "regexp": 0
+  },
+  "filters": {
+    "attrs": {
+      "cn": 98
+    }
+  },
+  "modes": {
+    "strict": {
+      "rules": 166,
+      "bytes": 5193,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "balanced": {
+      "rules": 166,
+      "bytes": 5193,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "full": {
+      "rules": 166,
+      "bytes": 5193,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    }
+  }
+}

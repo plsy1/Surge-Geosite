@@ -1,0 +1,123 @@
+[
+  {
+    "type": "domain",
+    "value": "hdrezka-home.tv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hdrezka-home.tv",
+    "source": {
+      "list": "HDREZKA",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hdrezka.ac",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hdrezka.ac",
+    "source": {
+      "list": "HDREZKA",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hdrezka.ag",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hdrezka.ag",
+    "source": {
+      "list": "HDREZKA",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hdrezka.cm",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hdrezka.cm",
+    "source": {
+      "list": "HDREZKA",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hdrezka.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hdrezka.co",
+    "source": {
+      "list": "HDREZKA",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hdrezka.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hdrezka.me",
+    "source": {
+      "list": "HDREZKA",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hdrezka.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hdrezka.org",
+    "source": {
+      "list": "HDREZKA",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hdrezka.site",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hdrezka.site",
+    "source": {
+      "list": "HDREZKA",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hdrzk.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hdrzk.org",
+    "source": {
+      "list": "HDREZKA",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rezka.ag",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rezka.ag",
+    "source": {
+      "list": "HDREZKA",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "stream.voidboost.cc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:stream.voidboost.cc",
+    "source": {
+      "list": "HDREZKA",
+      "line": 15
+    }
+  }
+]

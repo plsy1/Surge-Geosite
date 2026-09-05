@@ -1,0 +1,46 @@
+[
+  {
+    "type": "domain",
+    "value": "collabora.co.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:collabora.co.uk",
+    "source": {
+      "list": "COLLABORA",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "collabora.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:collabora.com",
+    "source": {
+      "list": "COLLABORA",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "collabora.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:collabora.org",
+    "source": {
+      "list": "COLLABORA",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "collaboraoffice.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:collaboraoffice.com",
+    "source": {
+      "list": "COLLABORA",
+      "line": 4
+    }
+  }
+]

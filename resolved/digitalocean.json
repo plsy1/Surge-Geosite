@@ -1,0 +1,68 @@
+[
+  {
+    "type": "domain",
+    "value": "digitalocean-ui.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:digitalocean-ui.com",
+    "source": {
+      "list": "DIGITALOCEAN",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "digitalocean.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:digitalocean.com",
+    "source": {
+      "list": "DIGITALOCEAN",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "digitaloceanspaces.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:digitaloceanspaces.com",
+    "source": {
+      "list": "DIGITALOCEAN",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "do.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:do.co",
+    "source": {
+      "list": "DIGITALOCEAN",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nginxconfig.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nginxconfig.io",
+    "source": {
+      "list": "DIGITALOCEAN",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ondigitalocean.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ondigitalocean.com",
+    "source": {
+      "list": "DIGITALOCEAN",
+      "line": 6
+    }
+  }
+]

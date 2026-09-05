@@ -1,0 +1,90 @@
+[
+  {
+    "type": "domain",
+    "value": "1xhh.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:1xhh.cn",
+    "source": {
+      "list": "XIAOHEIHE",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "accxiaoheihe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:accxiaoheihe.com",
+    "source": {
+      "list": "XIAOHEIHE",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "chat.top",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:chat.top",
+    "source": {
+      "list": "XIAOHEIHE",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "debugmode.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:debugmode.cn",
+    "source": {
+      "list": "XIAOHEIHE",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "max-c.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:max-c.com",
+    "source": {
+      "list": "XIAOHEIHE",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "maxadmin.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:maxadmin.cn",
+    "source": {
+      "list": "XIAOHEIHE",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "maxjia.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:maxjia.com",
+    "source": {
+      "list": "XIAOHEIHE",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xiaoheihe.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xiaoheihe.cn",
+    "source": {
+      "list": "XIAOHEIHE",
+      "line": 11
+    }
+  }
+]

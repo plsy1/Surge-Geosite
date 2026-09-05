@@ -1,0 +1,376 @@
+[
+  {
+    "type": "domain",
+    "value": "3dnews.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:3dnews.ru",
+    "source": {
+      "list": "CATEGORY-TECH-MEDIA-RU",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cnconf.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cnconf.ru",
+    "source": {
+      "list": "CATEGORY-TECH-MEDIA-RU",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cnews.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cnews.ru",
+    "source": {
+      "list": "CATEGORY-TECH-MEDIA-RU",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cnewsforum.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cnewsforum.ru",
+    "source": {
+      "list": "CATEGORY-TECH-MEDIA-RU",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "durovscode.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:durovscode.com",
+    "source": {
+      "list": "CATEGORY-TECH-MEDIA-RU",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ferra.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ferra.ru",
+    "source": {
+      "list": "CATEGORY-TECH-MEDIA-RU",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hacksoft.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hacksoft.ru",
+    "source": {
+      "list": "CATEGORY-TECH-MEDIA-RU",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hardware.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hardware.ru",
+    "source": {
+      "list": "CATEGORY-TECH-MEDIA-RU",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "iguides.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:iguides.ru",
+    "source": {
+      "list": "CATEGORY-TECH-MEDIA-RU",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ixbt.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ixbt.com",
+    "source": {
+      "list": "IXBT",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ixbt.games",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ixbt.games",
+    "source": {
+      "list": "IXBT",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ixbt.market",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ixbt.market",
+    "source": {
+      "list": "IXBT",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ixbt.media",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ixbt.media",
+    "source": {
+      "list": "IXBT",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ixbt.pro",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ixbt.pro",
+    "source": {
+      "list": "IXBT",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ixbt.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ixbt.ru",
+    "source": {
+      "list": "IXBT",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ixbt.shop",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ixbt.shop",
+    "source": {
+      "list": "IXBT",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ixbt.site",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ixbt.site",
+    "source": {
+      "list": "IXBT",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ixbt.video",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ixbt.video",
+    "source": {
+      "list": "IXBT",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kod.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kod.ru",
+    "source": {
+      "list": "CATEGORY-TECH-MEDIA-RU",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ovcl.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ovcl.ru",
+    "source": {
+      "list": "OVERCLOCKERS-RU",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "overclock.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:overclock.ru",
+    "source": {
+      "list": "OVERCLOCKERS-RU",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "overclocker.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:overclocker.ru",
+    "source": {
+      "list": "OVERCLOCKERS-RU",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "overclockers.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:overclockers.ru",
+    "source": {
+      "list": "OVERCLOCKERS-RU",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "overclocking.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:overclocking.ru",
+    "source": {
+      "list": "OVERCLOCKERS-RU",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "overi.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:overi.ru",
+    "source": {
+      "list": "OVERCLOCKERS-RU",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "seclab.lat",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:seclab.lat",
+    "source": {
+      "list": "CATEGORY-TECH-MEDIA-RU",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "securitylab.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:securitylab.ru",
+    "source": {
+      "list": "CATEGORY-TECH-MEDIA-RU",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "servernews.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:servernews.ru",
+    "source": {
+      "list": "CATEGORY-TECH-MEDIA-RU",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--80aglfyfk.xn--p1ai",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--80aglfyfk.xn--p1ai",
+    "source": {
+      "list": "OVERCLOCKERS-RU",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--80aglzei.xn--p1ai",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--80aglzei.xn--p1ai",
+    "source": {
+      "list": "OVERCLOCKERS-RU",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--b1agatafrepfl.xn--p1ai",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--b1agatafrepfl.xn--p1ai",
+    "source": {
+      "list": "OVERCLOCKERS-RU",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--b1agpaeoen.xn--p1ai",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--b1agpaeoen.xn--p1ai",
+    "source": {
+      "list": "OVERCLOCKERS-RU",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--b1agzk.xn--p1ai",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--b1agzk.xn--p1ai",
+    "source": {
+      "list": "OVERCLOCKERS-RU",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--b1agzk9c.xn--p1ai",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--b1agzk9c.xn--p1ai",
+    "source": {
+      "list": "OVERCLOCKERS-RU",
+      "line": 13
+    }
+  }
+]

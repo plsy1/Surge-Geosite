@@ -1,0 +1,123 @@
+[
+  {
+    "type": "domain",
+    "value": "51ssl.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:51ssl.cn",
+    "source": {
+      "list": "TRUSTASIA",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "51ssl.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:51ssl.com",
+    "source": {
+      "list": "TRUSTASIA",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "geossl.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:geossl.cn",
+    "source": {
+      "list": "TRUSTASIA",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "litessl.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:litessl.cn",
+    "source": {
+      "list": "TRUSTASIA",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "litessl.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:litessl.com",
+    "source": {
+      "list": "TRUSTASIA",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "myssl-uri.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:myssl-uri.com",
+    "source": {
+      "list": "TRUSTASIA",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "myssl.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:myssl.com",
+    "source": {
+      "list": "TRUSTASIA",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "trustasia.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:trustasia.cn",
+    "source": {
+      "list": "TRUSTASIA",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "trustasia.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:trustasia.com",
+    "source": {
+      "list": "TRUSTASIA",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "trustasia.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:trustasia.com.cn",
+    "source": {
+      "list": "TRUSTASIA",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "trustasia.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:trustasia.net",
+    "source": {
+      "list": "TRUSTASIA",
+      "line": 12
+    }
+  }
+]

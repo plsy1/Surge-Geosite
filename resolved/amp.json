@@ -1,0 +1,70 @@
+[
+  {
+    "type": "domain",
+    "value": "amp.dev",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:amp.dev",
+    "source": {
+      "list": "AMP",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ampproject.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ampproject.com",
+    "source": {
+      "list": "AMP",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ampproject.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ampproject.net",
+    "source": {
+      "list": "AMP",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ampproject.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ampproject.org",
+    "source": {
+      "list": "AMP",
+      "line": 4
+    }
+  },
+  {
+    "type": "full",
+    "value": "amp.akamaized.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:amp.akamaized.net",
+    "source": {
+      "list": "AMP",
+      "line": 8
+    }
+  },
+  {
+    "type": "full",
+    "value": "cdn.ampproject.org",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:cdn.ampproject.org:@cn",
+    "source": {
+      "list": "AMP",
+      "line": 6
+    }
+  }
+]

@@ -1,0 +1,200 @@
+[
+  {
+    "type": "domain",
+    "value": "huffingtonpost.ca",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:huffingtonpost.ca",
+    "source": {
+      "list": "HUFFPOST",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "huffingtonpost.co.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:huffingtonpost.co.uk",
+    "source": {
+      "list": "HUFFPOST",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "huffingtonpost.co.za",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:huffingtonpost.co.za",
+    "source": {
+      "list": "HUFFPOST",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "huffingtonpost.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:huffingtonpost.com",
+    "source": {
+      "list": "HUFFPOST",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "huffingtonpost.com.au",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:huffingtonpost.com.au",
+    "source": {
+      "list": "HUFFPOST",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "huffingtonpost.com.mx",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:huffingtonpost.com.mx",
+    "source": {
+      "list": "HUFFPOST",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "huffingtonpost.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:huffingtonpost.de",
+    "source": {
+      "list": "HUFFPOST",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "huffingtonpost.es",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:huffingtonpost.es",
+    "source": {
+      "list": "HUFFPOST",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "huffingtonpost.fr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:huffingtonpost.fr",
+    "source": {
+      "list": "HUFFPOST",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "huffingtonpost.gr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:huffingtonpost.gr",
+    "source": {
+      "list": "HUFFPOST",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "huffingtonpost.in",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:huffingtonpost.in",
+    "source": {
+      "list": "HUFFPOST",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "huffingtonpost.it",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:huffingtonpost.it",
+    "source": {
+      "list": "HUFFPOST",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "huffingtonpost.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:huffingtonpost.jp",
+    "source": {
+      "list": "HUFFPOST",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "huffingtonpost.kr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:huffingtonpost.kr",
+    "source": {
+      "list": "HUFFPOST",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "huffpost.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:huffpost.com",
+    "source": {
+      "list": "HUFFPOST",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "huffpostarabi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:huffpostarabi.com",
+    "source": {
+      "list": "HUFFPOST",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "huffpostbrasil.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:huffpostbrasil.com",
+    "source": {
+      "list": "HUFFPOST",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "huffpostmaghreb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:huffpostmaghreb.com",
+    "source": {
+      "list": "HUFFPOST",
+      "line": 18
+    }
+  }
+]

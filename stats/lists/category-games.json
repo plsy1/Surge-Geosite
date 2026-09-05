@@ -1,0 +1,97 @@
+{
+  "name": "CATEGORY-GAMES",
+  "source": {
+    "domain": 0,
+    "full": 0,
+    "keyword": 0,
+    "regexp": 0,
+    "include": 2,
+    "affiliations": 0,
+    "attributes": 0
+  },
+  "resolved": {
+    "rules": 1144,
+    "domain": 1045,
+    "full": 95,
+    "keyword": 0,
+    "regexp": 4
+  },
+  "filters": {
+    "attrs": {
+      "cn": 38,
+      "ads": 4
+    }
+  },
+  "modes": {
+    "strict": {
+      "rules": 1140,
+      "bytes": 33572,
+      "regex": {
+        "total": 4,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 4
+      },
+      "unsupported": [
+        {
+          "pattern": "^.+-mihayo\\.akamaized\\.net$",
+          "source": {
+            "list": "MIHOYO-CN",
+            "line": 31
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "^cdn\\d-epicgames-\\d+\\.file\\.myqcloud\\.com$",
+          "source": {
+            "list": "EPICGAMES",
+            "line": 32
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "^epicgames-download\\d-\\d+\\.file\\.myqcloud\\.com$",
+          "source": {
+            "list": "EPICGAMES",
+            "line": 34
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "^epicgames-download\\d\\.akamaized\\.net$",
+          "source": {
+            "list": "EPICGAMES",
+            "line": 33
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        }
+      ]
+    },
+    "balanced": {
+      "rules": 1144,
+      "bytes": 33769,
+      "regex": {
+        "total": 4,
+        "lossless": 0,
+        "widened": 4,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "full": {
+      "rules": 1144,
+      "bytes": 33769,
+      "regex": {
+        "total": 4,
+        "lossless": 0,
+        "widened": 4,
+        "unsupported": 0
+      },
+      "unsupported": []
+    }
+  }
+}

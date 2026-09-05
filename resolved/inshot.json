@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "inshot.cc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:inshot.cc",
+    "source": {
+      "list": "INSHOT",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "inshot.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:inshot.com",
+    "source": {
+      "list": "INSHOT",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "inshotapp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:inshotapp.com",
+    "source": {
+      "list": "INSHOT",
+      "line": 3
+    }
+  }
+]

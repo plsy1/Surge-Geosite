@@ -1,0 +1,158 @@
+[
+  {
+    "type": "domain",
+    "value": "cdnst.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnst.net",
+    "source": {
+      "list": "OOKLA-SPEEDTEST",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cellmaps.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cellmaps.com",
+    "source": {
+      "list": "OOKLA-SPEEDTEST",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ekahau.cloud",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ekahau.cloud",
+    "source": {
+      "list": "OOKLA-SPEEDTEST",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ekahau.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ekahau.com",
+    "source": {
+      "list": "OOKLA-SPEEDTEST",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ookla-speedtest-central.hgconair.hgc.com.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ookla-speedtest-central.hgconair.hgc.com.hk",
+    "source": {
+      "list": "OOKLA-SPEEDTEST",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ookla.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ookla.com",
+    "source": {
+      "list": "OOKLA-SPEEDTEST",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ooklaserver.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ooklaserver.net",
+    "source": {
+      "list": "OOKLA-SPEEDTEST",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pingtest.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pingtest.net",
+    "source": {
+      "list": "OOKLA-SPEEDTEST",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "speedtest.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:speedtest.co",
+    "source": {
+      "list": "OOKLA-SPEEDTEST",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "speedtest.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:speedtest.net",
+    "source": {
+      "list": "OOKLA-SPEEDTEST",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "speedtestcustom.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:speedtestcustom.com",
+    "source": {
+      "list": "OOKLA-SPEEDTEST",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "webtest.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:webtest.net",
+    "source": {
+      "list": "OOKLA-SPEEDTEST",
+      "line": 11
+    }
+  },
+  {
+    "type": "full",
+    "value": "www.speedtest.net.cdn.cloudflare.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:www.speedtest.net.cdn.cloudflare.net",
+    "source": {
+      "list": "OOKLA-SPEEDTEST",
+      "line": 13
+    }
+  },
+  {
+    "type": "regexp",
+    "value": "^speed\\.(coe|open)\\.ad\\.[a-z]{2,6}\\.prod\\.hosts\\.ooklaserver\\.net$",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "regexp:^speed\\.(coe|open)\\.ad\\.[a-z]{2,6}\\.prod\\.hosts\\.ooklaserver\\.net$:@ads",
+    "source": {
+      "list": "OOKLA-SPEEDTEST",
+      "line": 19
+    }
+  }
+]

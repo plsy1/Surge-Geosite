@@ -1,0 +1,365 @@
+[
+  {
+    "type": "domain",
+    "value": "verisign.asia",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:verisign.asia",
+    "source": {
+      "list": "VERISIGN",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "verisign.biz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:verisign.biz",
+    "source": {
+      "list": "VERISIGN",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "verisign.ch",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:verisign.ch",
+    "source": {
+      "list": "VERISIGN",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "verisign.co.in",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:verisign.co.in",
+    "source": {
+      "list": "VERISIGN",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "verisign.co.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:verisign.co.uk",
+    "source": {
+      "list": "VERISIGN",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "verisign.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:verisign.com",
+    "source": {
+      "list": "VERISIGN",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "verisign.com.au",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:verisign.com.au",
+    "source": {
+      "list": "VERISIGN",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "verisign.com.br",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:verisign.com.br",
+    "source": {
+      "list": "VERISIGN",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "verisign.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:verisign.com.cn",
+    "source": {
+      "list": "VERISIGN",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "verisign.com.es",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:verisign.com.es",
+    "source": {
+      "list": "VERISIGN",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "verisign.com.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:verisign.com.hk",
+    "source": {
+      "list": "VERISIGN",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "verisign.com.sg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:verisign.com.sg",
+    "source": {
+      "list": "VERISIGN",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "verisign.com.tw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:verisign.com.tw",
+    "source": {
+      "list": "VERISIGN",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "verisign.com.vn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:verisign.com.vn",
+    "source": {
+      "list": "VERISIGN",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "verisign.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:verisign.de",
+    "source": {
+      "list": "VERISIGN",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "verisign.dk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:verisign.dk",
+    "source": {
+      "list": "VERISIGN",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "verisign.es",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:verisign.es",
+    "source": {
+      "list": "VERISIGN",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "verisign.fr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:verisign.fr",
+    "source": {
+      "list": "VERISIGN",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "verisign.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:verisign.hk",
+    "source": {
+      "list": "VERISIGN",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "verisign.in",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:verisign.in",
+    "source": {
+      "list": "VERISIGN",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "verisign.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:verisign.info",
+    "source": {
+      "list": "VERISIGN",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "verisign.jobs",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:verisign.jobs",
+    "source": {
+      "list": "VERISIGN",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "verisign.mobi",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:verisign.mobi",
+    "source": {
+      "list": "VERISIGN",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "verisign.name",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:verisign.name",
+    "source": {
+      "list": "VERISIGN",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "verisign.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:verisign.net",
+    "source": {
+      "list": "VERISIGN",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "verisign.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:verisign.org",
+    "source": {
+      "list": "VERISIGN",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "verisign.pro",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:verisign.pro",
+    "source": {
+      "list": "VERISIGN",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "verisign.se",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:verisign.se",
+    "source": {
+      "list": "VERISIGN",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "verisign.sg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:verisign.sg",
+    "source": {
+      "list": "VERISIGN",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "verisign.tw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:verisign.tw",
+    "source": {
+      "list": "VERISIGN",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "verisign.us",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:verisign.us",
+    "source": {
+      "list": "VERISIGN",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "verisign.vn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:verisign.vn",
+    "source": {
+      "list": "VERISIGN",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "verisigninc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:verisigninc.com",
+    "source": {
+      "list": "VERISIGN",
+      "line": 33
+    }
+  }
+]

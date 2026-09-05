@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "cf-ipfs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cf-ipfs.com",
+    "source": {
+      "list": "CLOUDFLARE-IPFS",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudflare-ipfs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudflare-ipfs.com",
+    "source": {
+      "list": "CLOUDFLARE-IPFS",
+      "line": 2
+    }
+  }
+]

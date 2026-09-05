@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "kastatic.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kastatic.org",
+    "source": {
+      "list": "KHANACADEMY",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "khanacademy.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:khanacademy.org",
+    "source": {
+      "list": "KHANACADEMY",
+      "line": 1
+    }
+  }
+]

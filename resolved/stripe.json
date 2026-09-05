@@ -1,0 +1,57 @@
+[
+  {
+    "type": "domain",
+    "value": "link.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:link.com",
+    "source": {
+      "list": "STRIPE",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "stripe-terminal-local-reader.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:stripe-terminal-local-reader.net",
+    "source": {
+      "list": "STRIPE",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "stripe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:stripe.com",
+    "source": {
+      "list": "STRIPE",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "stripe.network",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:stripe.network",
+    "source": {
+      "list": "STRIPE",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "stripecdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:stripecdn.com",
+    "source": {
+      "list": "STRIPE",
+      "line": 5
+    }
+  }
+]

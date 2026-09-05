@@ -1,0 +1,123 @@
+[
+  {
+    "type": "domain",
+    "value": "chinesemooc.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:chinesemooc.org",
+    "source": {
+      "list": "CATEGORY-MOOC-CN",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cnmooc.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cnmooc.org",
+    "source": {
+      "list": "CATEGORY-MOOC-CN",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icourse163.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icourse163.org",
+    "source": {
+      "list": "CATEGORY-MOOC-CN",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icourses.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icourses.cn",
+    "source": {
+      "list": "CATEGORY-MOOC-CN",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icve.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icve.com.cn",
+    "source": {
+      "list": "CATEGORY-MOOC-CN",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mooc.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mooc.cn",
+    "source": {
+      "list": "CATEGORY-MOOC-CN",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "openlearning.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:openlearning.com",
+    "source": {
+      "list": "CATEGORY-MOOC-CN",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pmphmooc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pmphmooc.com",
+    "source": {
+      "list": "CATEGORY-MOOC-CN",
+      "line": 8
+    }
+  },
+  {
+    "type": "full",
+    "value": "moocs.unipus.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:moocs.unipus.cn",
+    "source": {
+      "list": "CATEGORY-MOOC-CN",
+      "line": 10
+    }
+  },
+  {
+    "type": "full",
+    "value": "opencourse.pku.edu.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:opencourse.pku.edu.cn",
+    "source": {
+      "list": "CATEGORY-MOOC-CN",
+      "line": 11
+    }
+  },
+  {
+    "type": "full",
+    "value": "study.163.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:study.163.com",
+    "source": {
+      "list": "CATEGORY-MOOC-CN",
+      "line": 12
+    }
+  }
+]

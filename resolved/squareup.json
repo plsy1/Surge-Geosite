@@ -1,0 +1,134 @@
+[
+  {
+    "type": "domain",
+    "value": "cash.app",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cash.app",
+    "source": {
+      "list": "SQUAREUP",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cashbycashapp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cashbycashapp.com",
+    "source": {
+      "list": "SQUAREUP",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gosq.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gosq.co",
+    "source": {
+      "list": "SQUAREUP",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gosq.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gosq.com",
+    "source": {
+      "list": "SQUAREUP",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "issquaredown.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:issquaredown.com",
+    "source": {
+      "list": "SQUAREUP",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "issquareup.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:issquareup.com",
+    "source": {
+      "list": "SQUAREUP",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mkt.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mkt.com",
+    "source": {
+      "list": "SQUAREUP",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sellercommunity.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sellercommunity.com",
+    "source": {
+      "list": "SQUAREUP",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "squarecapital.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:squarecapital.com",
+    "source": {
+      "list": "SQUAREUP",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "squarecdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:squarecdn.com",
+    "source": {
+      "list": "SQUAREUP",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "squarecloudservices.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:squarecloudservices.com",
+    "source": {
+      "list": "SQUAREUP",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "squareup.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:squareup.com",
+    "source": {
+      "list": "SQUAREUP",
+      "line": 12
+    }
+  }
+]

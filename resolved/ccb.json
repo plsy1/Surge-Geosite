@@ -1,0 +1,182 @@
+[
+  {
+    "type": "domain",
+    "value": "ccb-life.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ccb-life.com.cn",
+    "source": {
+      "list": "CCB",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ccb.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ccb.cn",
+    "source": {
+      "list": "CCB",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ccb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ccb.com",
+    "source": {
+      "list": "CCB",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ccb.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ccb.com.cn",
+    "source": {
+      "list": "CCB",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ccbcos.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ccbcos.com",
+    "source": {
+      "list": "CCB",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ccbfund.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ccbfund.cn",
+    "source": {
+      "list": "CCB",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ccbfund.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ccbfund.com",
+    "source": {
+      "list": "CCB",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ccbfund.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ccbfund.com.cn",
+    "source": {
+      "list": "CCB",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ccbfutures.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ccbfutures.cn",
+    "source": {
+      "list": "CCB",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ccbfutures.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ccbfutures.com",
+    "source": {
+      "list": "CCB",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ccbintl.com.hk",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:ccbintl.com.hk:@!cn",
+    "source": {
+      "list": "CCB",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ccbleasing.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ccbleasing.com",
+    "source": {
+      "list": "CCB",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ccblife-test.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ccblife-test.com.cn",
+    "source": {
+      "list": "CCB",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ccbseoul.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:ccbseoul.com:@!cn",
+    "source": {
+      "list": "CCB",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ccbtrust.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ccbtrust.com.cn",
+    "source": {
+      "list": "CCB",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ccbxt.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ccbxt.com",
+    "source": {
+      "list": "CCB",
+      "line": 16
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "baydn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:baydn.com",
+    "source": {
+      "list": "SHANBAY",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "shanbay.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:shanbay.com",
+    "source": {
+      "list": "SHANBAY",
+      "line": 2
+    }
+  }
+]

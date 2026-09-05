@@ -1,0 +1,125 @@
+[
+  {
+    "type": "domain",
+    "value": "ads-pixiv.net",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:ads-pixiv.net:@ads",
+    "source": {
+      "list": "PIXIV",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "booth.pm",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:booth.pm",
+    "source": {
+      "list": "PIXIV",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fanbox.cc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fanbox.cc",
+    "source": {
+      "list": "PIXIV",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pixiv-recommend.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pixiv-recommend.net",
+    "source": {
+      "list": "PIXIV",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pixiv.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pixiv.co.jp",
+    "source": {
+      "list": "PIXIV",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pixiv.help",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pixiv.help",
+    "source": {
+      "list": "PIXIV",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pixiv.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pixiv.me",
+    "source": {
+      "list": "PIXIV",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pixiv.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pixiv.net",
+    "source": {
+      "list": "PIXIV",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pixiv.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pixiv.org",
+    "source": {
+      "list": "PIXIV",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pixivision.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pixivision.net",
+    "source": {
+      "list": "PIXIV",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pximg.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pximg.net",
+    "source": {
+      "list": "PIXIV",
+      "line": 11
+    }
+  }
+]

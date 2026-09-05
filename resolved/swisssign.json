@@ -1,0 +1,343 @@
+[
+  {
+    "type": "domain",
+    "value": "digital-id.ch",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:digital-id.ch",
+    "source": {
+      "list": "SWISSSIGN",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "digitalid.ch",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:digitalid.ch",
+    "source": {
+      "list": "SWISSSIGN",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "managed-pki.ch",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:managed-pki.ch",
+    "source": {
+      "list": "SWISSSIGN",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "managed-pki.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:managed-pki.de",
+    "source": {
+      "list": "SWISSSIGN",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pki-post.ch",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pki-post.ch",
+    "source": {
+      "list": "SWISSSIGN",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pki-posta.ch",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pki-posta.ch",
+    "source": {
+      "list": "SWISSSIGN",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pki-poste.ch",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pki-poste.ch",
+    "source": {
+      "list": "SWISSSIGN",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "root-signing.ch",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:root-signing.ch",
+    "source": {
+      "list": "SWISSSIGN",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rootsigning.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rootsigning.com",
+    "source": {
+      "list": "SWISSSIGN",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ssl-certificate.ch",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ssl-certificate.ch",
+    "source": {
+      "list": "SWISSSIGN",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "swissid.ch",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:swissid.ch",
+    "source": {
+      "list": "SWISSSIGN",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "swissign.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:swissign.com",
+    "source": {
+      "list": "SWISSSIGN",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "swissign.li",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:swissign.li",
+    "source": {
+      "list": "SWISSSIGN",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "swisssign-group.ch",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:swisssign-group.ch",
+    "source": {
+      "list": "SWISSSIGN",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "swisssign-group.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:swisssign-group.com",
+    "source": {
+      "list": "SWISSSIGN",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "swisssign-group.li",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:swisssign-group.li",
+    "source": {
+      "list": "SWISSSIGN",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "swisssign.ch",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:swisssign.ch",
+    "source": {
+      "list": "SWISSSIGN",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "swisssign.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:swisssign.com",
+    "source": {
+      "list": "SWISSSIGN",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "swisssign.li",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:swisssign.li",
+    "source": {
+      "list": "SWISSSIGN",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "swisssign.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:swisssign.net",
+    "source": {
+      "list": "SWISSSIGN",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "swisssign.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:swisssign.org",
+    "source": {
+      "list": "SWISSSIGN",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "swisssigner.ch",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:swisssigner.ch",
+    "source": {
+      "list": "SWISSSIGN",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "swisssigner.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:swisssigner.com",
+    "source": {
+      "list": "SWISSSIGN",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "swisssigngroup.ch",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:swisssigngroup.ch",
+    "source": {
+      "list": "SWISSSIGN",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "swisssigngroup.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:swisssigngroup.com",
+    "source": {
+      "list": "SWISSSIGN",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "swissstick.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:swissstick.com",
+    "source": {
+      "list": "SWISSSIGN",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "swisstsa.ch",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:swisstsa.ch",
+    "source": {
+      "list": "SWISSSIGN",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "swisstsa.li",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:swisstsa.li",
+    "source": {
+      "list": "SWISSSIGN",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "trustdoc.ch",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:trustdoc.ch",
+    "source": {
+      "list": "SWISSSIGN",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "trustsign.ch",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:trustsign.ch",
+    "source": {
+      "list": "SWISSSIGN",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zert.ch",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zert.ch",
+    "source": {
+      "list": "SWISSSIGN",
+      "line": 31
+    }
+  }
+]

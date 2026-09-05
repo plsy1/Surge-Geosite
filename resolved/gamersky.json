@@ -1,0 +1,78 @@
+[
+  {
+    "type": "domain",
+    "value": "click.gamersky.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:click.gamersky.com:@ads",
+    "source": {
+      "list": "GAMERSKY",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gamersky.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gamersky.com",
+    "source": {
+      "list": "GAMERSKY",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ja.gamersky.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:ja.gamersky.com:@ads",
+    "source": {
+      "list": "GAMERSKY",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ja1.gamersky.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:ja1.gamersky.com:@ads",
+    "source": {
+      "list": "GAMERSKY",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ja2.gamersky.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:ja2.gamersky.com:@ads",
+    "source": {
+      "list": "GAMERSKY",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wmbd.gamersky.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:wmbd.gamersky.com:@ads",
+    "source": {
+      "list": "GAMERSKY",
+      "line": 7
+    }
+  }
+]

@@ -1,0 +1,604 @@
+[
+  {
+    "type": "domain",
+    "value": "adv.vk.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:adv.vk.com:@ads",
+    "source": {
+      "list": "VK",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "analytics.vk.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:analytics.vk.com:@ads",
+    "source": {
+      "list": "VK",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdn-vk.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdn-vk.net",
+    "source": {
+      "list": "VK",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdn-vk.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdn-vk.ru",
+    "source": {
+      "list": "VK",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ms.vk.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:ms.vk.com:@ads",
+    "source": {
+      "list": "VK",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ms.vk.ru",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:ms.vk.ru:@ads",
+    "source": {
+      "list": "VK",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mvk.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mvk.com",
+    "source": {
+      "list": "VK",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "target.vk.ru",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:target.vk.ru:@ads",
+    "source": {
+      "list": "VK",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "userapi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:userapi.com",
+    "source": {
+      "list": "VK",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "userapi.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:userapi.ru",
+    "source": {
+      "list": "VK",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vk-analytics.ru",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:vk-analytics.ru:@ads",
+    "source": {
+      "list": "VK",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vk-cdn.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vk-cdn.me",
+    "source": {
+      "list": "VK",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vk-cdn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vk-cdn.net",
+    "source": {
+      "list": "VK",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vk-portal.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vk-portal.net",
+    "source": {
+      "list": "VK",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vk.cc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vk.cc",
+    "source": {
+      "list": "VK",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vk.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vk.com",
+    "source": {
+      "list": "VK",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vk.design",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vk.design",
+    "source": {
+      "list": "VK",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vk.link",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vk.link",
+    "source": {
+      "list": "VK",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vk.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vk.me",
+    "source": {
+      "list": "VK",
+      "line": 53
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vk.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vk.ru",
+    "source": {
+      "list": "VK",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vkcache.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vkcache.com",
+    "source": {
+      "list": "VK",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vkcdnservice.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vkcdnservice.com",
+    "source": {
+      "list": "VK",
+      "line": 37
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vkcloud-static.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vkcloud-static.ru",
+    "source": {
+      "list": "VK",
+      "line": 38
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vkmessenger.app",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vkmessenger.app",
+    "source": {
+      "list": "VK",
+      "line": 54
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vkmessenger.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vkmessenger.com",
+    "source": {
+      "list": "VK",
+      "line": 55
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vkontakte.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vkontakte.com",
+    "source": {
+      "list": "VK",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vkontakte.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vkontakte.ru",
+    "source": {
+      "list": "VK",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vkpay.app",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vkpay.app",
+    "source": {
+      "list": "VK",
+      "line": 58
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vkpay.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vkpay.com",
+    "source": {
+      "list": "VK",
+      "line": 59
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vkpay.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vkpay.io",
+    "source": {
+      "list": "VK",
+      "line": 60
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vkpay.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vkpay.ru",
+    "source": {
+      "list": "VK",
+      "line": 61
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vktech-static.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vktech-static.ru",
+    "source": {
+      "list": "VK",
+      "line": 39
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vkuser.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vkuser.net",
+    "source": {
+      "list": "VK",
+      "line": 40
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vkuseraudio.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vkuseraudio.com",
+    "source": {
+      "list": "VK",
+      "line": 43
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vkuseraudio.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vkuseraudio.net",
+    "source": {
+      "list": "VK",
+      "line": 44
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vkuseraudio.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vkuseraudio.ru",
+    "source": {
+      "list": "VK",
+      "line": 45
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vkusercdn.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vkusercdn.ru",
+    "source": {
+      "list": "VK",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vkuserlive.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vkuserlive.com",
+    "source": {
+      "list": "VK",
+      "line": 46
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vkuserlive.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vkuserlive.net",
+    "source": {
+      "list": "VK",
+      "line": 47
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vkuserphoto.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vkuserphoto.ru",
+    "source": {
+      "list": "VK",
+      "line": 42
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vkuservideo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vkuservideo.com",
+    "source": {
+      "list": "VK",
+      "line": 48
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vkuservideo.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vkuservideo.net",
+    "source": {
+      "list": "VK",
+      "line": 49
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vkuservideo.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vkuservideo.ru",
+    "source": {
+      "list": "VK",
+      "line": 50
+    }
+  },
+  {
+    "type": "full",
+    "value": "adblogger.vk.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:adblogger.vk.com:@ads",
+    "source": {
+      "list": "VK",
+      "line": 18
+    }
+  },
+  {
+    "type": "full",
+    "value": "adblogger.vk.ru",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:adblogger.vk.ru:@ads",
+    "source": {
+      "list": "VK",
+      "line": 19
+    }
+  },
+  {
+    "type": "full",
+    "value": "ads.vk.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:ads.vk.com:@ads",
+    "source": {
+      "list": "VK",
+      "line": 20
+    }
+  },
+  {
+    "type": "full",
+    "value": "ads.vk.ru",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:ads.vk.ru:@ads",
+    "source": {
+      "list": "VK",
+      "line": 21
+    }
+  },
+  {
+    "type": "full",
+    "value": "adv.vk.ru",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:adv.vk.ru:@ads",
+    "source": {
+      "list": "VK",
+      "line": 22
+    }
+  },
+  {
+    "type": "full",
+    "value": "advk.vk.ru",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:advk.vk.ru:@ads",
+    "source": {
+      "list": "VK",
+      "line": 23
+    }
+  },
+  {
+    "type": "full",
+    "value": "analytics.vk.ru",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:analytics.vk.ru:@ads",
+    "source": {
+      "list": "VK",
+      "line": 24
+    }
+  },
+  {
+    "type": "full",
+    "value": "stats.vk-portal.net",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:stats.vk-portal.net:@ads",
+    "source": {
+      "list": "VK",
+      "line": 25
+    }
+  },
+  {
+    "type": "full",
+    "value": "target.vk.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:target.vk.com:@ads",
+    "source": {
+      "list": "VK",
+      "line": 26
+    }
+  }
+]

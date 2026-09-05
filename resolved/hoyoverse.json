@@ -1,0 +1,103 @@
+[
+  {
+    "type": "domain",
+    "value": "genshinimpact.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:genshinimpact.com",
+    "source": {
+      "list": "HOYOVERSE",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "honkaiimpact3.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:honkaiimpact3.com",
+    "source": {
+      "list": "HOYOVERSE",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "honkaistarrail.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:honkaistarrail.com",
+    "source": {
+      "list": "HOYOVERSE",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hoyo.link",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hoyo.link",
+    "source": {
+      "list": "HOYOVERSE",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hoyolab.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hoyolab.com",
+    "source": {
+      "list": "HOYOVERSE",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hoyoverse.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hoyoverse.com",
+    "source": {
+      "list": "HOYOVERSE",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "log-upload-os.hoyoverse.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:log-upload-os.hoyoverse.com:@ads",
+    "source": {
+      "list": "HOYOVERSE",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "n0vadesktop.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:n0vadesktop.com",
+    "source": {
+      "list": "HOYOVERSE",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zenlesszonezero.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zenlesszonezero.com",
+    "source": {
+      "list": "HOYOVERSE",
+      "line": 23
+    }
+  }
+]

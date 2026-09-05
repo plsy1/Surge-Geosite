@@ -1,0 +1,101 @@
+[
+  {
+    "type": "domain",
+    "value": "androidfilehost.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:androidfilehost.com",
+    "source": {
+      "list": "CATEGORY-MOBILE-REPAIR",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "borneo.world",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:borneo.world",
+    "source": {
+      "list": "BORNEOSCHEMATICS",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "borneoasia.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:borneoasia.com",
+    "source": {
+      "list": "BORNEOSCHEMATICS",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "borneoschematic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:borneoschematic.com",
+    "source": {
+      "list": "BORNEOSCHEMATICS",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bosharso.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bosharso.net",
+    "source": {
+      "list": "BORNEOSCHEMATICS",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "easy-jtag.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:easy-jtag.com",
+    "source": {
+      "list": "Z3X-TEAM",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hostborneo.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hostborneo.org",
+    "source": {
+      "list": "BORNEOSCHEMATICS",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "unlocktool.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:unlocktool.net",
+    "source": {
+      "list": "CATEGORY-MOBILE-REPAIR",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "z3x-team.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:z3x-team.com",
+    "source": {
+      "list": "Z3X-TEAM",
+      "line": 2
+    }
+  }
+]

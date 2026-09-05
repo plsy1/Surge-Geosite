@@ -1,0 +1,46 @@
+[
+  {
+    "type": "domain",
+    "value": "mysxl.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mysxl.cn",
+    "source": {
+      "list": "SXL",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sxl.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sxl.cn",
+    "source": {
+      "list": "SXL",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sxlcdn.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sxlcdn.cn",
+    "source": {
+      "list": "SXL",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sxlcdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sxlcdn.com",
+    "source": {
+      "list": "SXL",
+      "line": 5
+    }
+  }
+]

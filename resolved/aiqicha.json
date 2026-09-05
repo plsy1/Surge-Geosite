@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "aiqicha.baidu.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aiqicha.baidu.com",
+    "source": {
+      "list": "AIQICHA",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aiqicha.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aiqicha.cn",
+    "source": {
+      "list": "AIQICHA",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aiqicha.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aiqicha.com",
+    "source": {
+      "list": "AIQICHA",
+      "line": 3
+    }
+  }
+]

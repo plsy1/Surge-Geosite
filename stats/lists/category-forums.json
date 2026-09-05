@@ -1,0 +1,59 @@
+{
+  "name": "CATEGORY-FORUMS",
+  "source": {
+    "domain": 14,
+    "full": 1,
+    "keyword": 0,
+    "regexp": 0,
+    "include": 22,
+    "affiliations": 0,
+    "attributes": 0
+  },
+  "resolved": {
+    "rules": 109,
+    "domain": 107,
+    "full": 2,
+    "keyword": 0,
+    "regexp": 0
+  },
+  "filters": {
+    "attrs": {
+      "ads": 2
+    }
+  },
+  "modes": {
+    "strict": {
+      "rules": 109,
+      "bytes": 2824,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "balanced": {
+      "rules": 109,
+      "bytes": 2824,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "full": {
+      "rules": 109,
+      "bytes": 2824,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    }
+  }
+}

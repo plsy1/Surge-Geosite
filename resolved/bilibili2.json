@@ -1,0 +1,46 @@
+[
+  {
+    "type": "domain",
+    "value": "bili2.cc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bili2.cc",
+    "source": {
+      "list": "BILIBILI2",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bili888.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bili888.com",
+    "source": {
+      "list": "BILIBILI2",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bili999.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bili999.com",
+    "source": {
+      "list": "BILIBILI2",
+      "line": 5
+    }
+  },
+  {
+    "type": "regexp",
+    "value": "(^|\\.)bilibili3(0[1-9]|1[0-2])\\.xyz$",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "regexp:(^|\\.)bilibili3(0[1-9]|1[0-2])\\.xyz$",
+    "source": {
+      "list": "BILIBILI2",
+      "line": 7
+    }
+  }
+]

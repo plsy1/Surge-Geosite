@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "openweather.co.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:openweather.co.uk",
+    "source": {
+      "list": "OPENWEATHER",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "openweathermap.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:openweathermap.org",
+    "source": {
+      "list": "OPENWEATHER",
+      "line": 2
+    }
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "timeweb.cloud",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:timeweb.cloud",
+    "source": {
+      "list": "TIMEWEB",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "timeweb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:timeweb.com",
+    "source": {
+      "list": "TIMEWEB",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "twcstorage.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:twcstorage.ru",
+    "source": {
+      "list": "TIMEWEB",
+      "line": 3
+    }
+  }
+]

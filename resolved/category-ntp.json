@@ -1,0 +1,1324 @@
+[
+  {
+    "type": "domain",
+    "value": "ats1.e-timing.ne.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ats1.e-timing.ne.jp",
+    "source": {
+      "list": "CATEGORY-NTP-JP",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "clock.isc.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:clock.isc.org",
+    "source": {
+      "list": "CATEGORY-NTP",
+      "line": 85
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cn.pool.ntp.org",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:cn.pool.ntp.org:@cn",
+    "source": {
+      "list": "CATEGORY-NTP-CN",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ntp-os01.ocn.ad.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ntp-os01.ocn.ad.jp",
+    "source": {
+      "list": "CATEGORY-NTP-JP",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ntp-tk01.ocn.ad.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ntp-tk01.ocn.ad.jp",
+    "source": {
+      "list": "CATEGORY-NTP-JP",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ntp-tk02.ocn.ad.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ntp-tk02.ocn.ad.jp",
+    "source": {
+      "list": "CATEGORY-NTP-JP",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ntp.dnsbalance.ring.gr.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ntp.dnsbalance.ring.gr.jp",
+    "source": {
+      "list": "CATEGORY-NTP-JP",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ntp.fiord.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ntp.fiord.ru",
+    "source": {
+      "list": "CATEGORY-NTP",
+      "line": 86
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ntp.jst.mfeed.ad.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ntp.jst.mfeed.ad.jp",
+    "source": {
+      "list": "CATEGORY-NTP-JP",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ntp.nat.ms",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ntp.nat.ms",
+    "source": {
+      "list": "CATEGORY-NTP",
+      "line": 87
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ntp.nc.u-tokyo.ac.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ntp.nc.u-tokyo.ac.jp",
+    "source": {
+      "list": "CATEGORY-NTP-JP",
+      "line": 37
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ntp.neu.edu.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:ntp.neu.edu.cn:@cn",
+    "source": {
+      "list": "CATEGORY-NTP-CN",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ntp.nic.cz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ntp.nic.cz",
+    "source": {
+      "list": "CATEGORY-NTP",
+      "line": 88
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ntp.nict.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ntp.nict.jp",
+    "source": {
+      "list": "CATEGORY-NTP-JP",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ntp.ntsc.ac.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:ntp.ntsc.ac.cn:@cn",
+    "source": {
+      "list": "CATEGORY-NTP-CN",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ntp.org.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:ntp.org.cn:@cn",
+    "source": {
+      "list": "CATEGORY-NTP-CN",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ntp.ring.gr.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ntp.ring.gr.jp",
+    "source": {
+      "list": "CATEGORY-NTP-JP",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ntp.ripe.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ntp.ripe.net",
+    "source": {
+      "list": "CATEGORY-NTP",
+      "line": 89
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ntp.se",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ntp.se",
+    "source": {
+      "list": "CATEGORY-NTP",
+      "line": 90
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ntp.t.ring.gr.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ntp.t.ring.gr.jp",
+    "source": {
+      "list": "CATEGORY-NTP-JP",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ntp.tohoku.ac.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ntp.tohoku.ac.jp",
+    "source": {
+      "list": "CATEGORY-NTP-JP",
+      "line": 40
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ntp.tut.ac.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ntp.tut.ac.jp",
+    "source": {
+      "list": "CATEGORY-NTP-JP",
+      "line": 45
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ntp.ufe.cz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ntp.ufe.cz",
+    "source": {
+      "list": "CATEGORY-NTP",
+      "line": 91
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ntp0.ring.gr.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ntp0.ring.gr.jp",
+    "source": {
+      "list": "CATEGORY-NTP-JP",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ntp1.jst.mfeed.ad.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ntp1.jst.mfeed.ad.jp",
+    "source": {
+      "list": "CATEGORY-NTP-JP",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ntp1.plala.or.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ntp1.plala.or.jp",
+    "source": {
+      "list": "CATEGORY-NTP-JP",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ntp1.ring.gr.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ntp1.ring.gr.jp",
+    "source": {
+      "list": "CATEGORY-NTP-JP",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ntp1.tohoku.ac.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ntp1.tohoku.ac.jp",
+    "source": {
+      "list": "CATEGORY-NTP-JP",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ntp1.v6.mfeed.ad.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ntp1.v6.mfeed.ad.jp",
+    "source": {
+      "list": "CATEGORY-NTP-JP",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ntp1.wakwak.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ntp1.wakwak.com",
+    "source": {
+      "list": "CATEGORY-NTP-JP",
+      "line": 48
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ntp2.jst.mfeed.ad.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ntp2.jst.mfeed.ad.jp",
+    "source": {
+      "list": "CATEGORY-NTP-JP",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ntp2.plala.or.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ntp2.plala.or.jp",
+    "source": {
+      "list": "CATEGORY-NTP-JP",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ntp2.ring.gr.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ntp2.ring.gr.jp",
+    "source": {
+      "list": "CATEGORY-NTP-JP",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ntp2.tohoku.ac.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ntp2.tohoku.ac.jp",
+    "source": {
+      "list": "CATEGORY-NTP-JP",
+      "line": 42
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ntp2.v6.mfeed.ad.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ntp2.v6.mfeed.ad.jp",
+    "source": {
+      "list": "CATEGORY-NTP-JP",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ntp2.wakwak.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ntp2.wakwak.com",
+    "source": {
+      "list": "CATEGORY-NTP-JP",
+      "line": 49
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ntp3.jst.mfeed.ad.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ntp3.jst.mfeed.ad.jp",
+    "source": {
+      "list": "CATEGORY-NTP-JP",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ntp3.v6.mfeed.ad.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ntp3.v6.mfeed.ad.jp",
+    "source": {
+      "list": "CATEGORY-NTP-JP",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pool.ntp.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pool.ntp.org",
+    "source": {
+      "list": "CATEGORY-NTP",
+      "line": 92
+    }
+  },
+  {
+    "type": "domain",
+    "value": "s2csntp.miz.nao.ac.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:s2csntp.miz.nao.ac.jp",
+    "source": {
+      "list": "CATEGORY-NTP-JP",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "time.nrc.ca",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:time.nrc.ca",
+    "source": {
+      "list": "CATEGORY-NTP",
+      "line": 93
+    }
+  },
+  {
+    "type": "full",
+    "value": "izattime.qcomgeo2.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:izattime.qcomgeo2.com:@cn",
+    "source": {
+      "list": "CATEGORY-NTP-CN",
+      "line": 18
+    }
+  },
+  {
+    "type": "full",
+    "value": "ntp-b.nist.gov",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:ntp-b.nist.gov",
+    "source": {
+      "list": "CATEGORY-NTP",
+      "line": 42
+    }
+  },
+  {
+    "type": "full",
+    "value": "ntp-c.colorado.edu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:ntp-c.colorado.edu",
+    "source": {
+      "list": "CATEGORY-NTP",
+      "line": 61
+    }
+  },
+  {
+    "type": "full",
+    "value": "ntp-d.nist.gov",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:ntp-d.nist.gov",
+    "source": {
+      "list": "CATEGORY-NTP",
+      "line": 43
+    }
+  },
+  {
+    "type": "full",
+    "value": "ntp-wwv.nist.gov",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:ntp-wwv.nist.gov",
+    "source": {
+      "list": "CATEGORY-NTP",
+      "line": 44
+    }
+  },
+  {
+    "type": "full",
+    "value": "ntp.aliyun.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:ntp.aliyun.com:@cn",
+    "source": {
+      "list": "CATEGORY-NTP-CN",
+      "line": 3
+    }
+  },
+  {
+    "type": "full",
+    "value": "ntp.tencent.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:ntp.tencent.com:@cn",
+    "source": {
+      "list": "CATEGORY-NTP-CN",
+      "line": 23
+    }
+  },
+  {
+    "type": "full",
+    "value": "ntp.time.nl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:ntp.time.nl",
+    "source": {
+      "list": "CATEGORY-NTP",
+      "line": 79
+    }
+  },
+  {
+    "type": "full",
+    "value": "ntp.ubuntu.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:ntp.ubuntu.com",
+    "source": {
+      "list": "CATEGORY-NTP",
+      "line": 34
+    }
+  },
+  {
+    "type": "full",
+    "value": "ntp0.ntp-servers.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:ntp0.ntp-servers.net",
+    "source": {
+      "list": "CATEGORY-NTP",
+      "line": 69
+    }
+  },
+  {
+    "type": "full",
+    "value": "ntp1.aliyun.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:ntp1.aliyun.com:@cn",
+    "source": {
+      "list": "CATEGORY-NTP-CN",
+      "line": 4
+    }
+  },
+  {
+    "type": "full",
+    "value": "ntp1.ntp-servers.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:ntp1.ntp-servers.net",
+    "source": {
+      "list": "CATEGORY-NTP",
+      "line": 70
+    }
+  },
+  {
+    "type": "full",
+    "value": "ntp1.tencent.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:ntp1.tencent.com:@cn",
+    "source": {
+      "list": "CATEGORY-NTP-CN",
+      "line": 24
+    }
+  },
+  {
+    "type": "full",
+    "value": "ntp1.time.nl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:ntp1.time.nl",
+    "source": {
+      "list": "CATEGORY-NTP",
+      "line": 80
+    }
+  },
+  {
+    "type": "full",
+    "value": "ntp2.aliyun.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:ntp2.aliyun.com:@cn",
+    "source": {
+      "list": "CATEGORY-NTP-CN",
+      "line": 5
+    }
+  },
+  {
+    "type": "full",
+    "value": "ntp2.ntp-servers.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:ntp2.ntp-servers.net",
+    "source": {
+      "list": "CATEGORY-NTP",
+      "line": 71
+    }
+  },
+  {
+    "type": "full",
+    "value": "ntp2.tencent.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:ntp2.tencent.com:@cn",
+    "source": {
+      "list": "CATEGORY-NTP-CN",
+      "line": 25
+    }
+  },
+  {
+    "type": "full",
+    "value": "ntp2.time.nl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:ntp2.time.nl",
+    "source": {
+      "list": "CATEGORY-NTP",
+      "line": 81
+    }
+  },
+  {
+    "type": "full",
+    "value": "ntp3.aliyun.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:ntp3.aliyun.com:@cn",
+    "source": {
+      "list": "CATEGORY-NTP-CN",
+      "line": 6
+    }
+  },
+  {
+    "type": "full",
+    "value": "ntp3.ntp-servers.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:ntp3.ntp-servers.net",
+    "source": {
+      "list": "CATEGORY-NTP",
+      "line": 72
+    }
+  },
+  {
+    "type": "full",
+    "value": "ntp3.tencent.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:ntp3.tencent.com:@cn",
+    "source": {
+      "list": "CATEGORY-NTP-CN",
+      "line": 26
+    }
+  },
+  {
+    "type": "full",
+    "value": "ntp4.aliyun.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:ntp4.aliyun.com:@cn",
+    "source": {
+      "list": "CATEGORY-NTP-CN",
+      "line": 7
+    }
+  },
+  {
+    "type": "full",
+    "value": "ntp4.ntp-servers.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:ntp4.ntp-servers.net",
+    "source": {
+      "list": "CATEGORY-NTP",
+      "line": 73
+    }
+  },
+  {
+    "type": "full",
+    "value": "ntp4.tencent.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:ntp4.tencent.com:@cn",
+    "source": {
+      "list": "CATEGORY-NTP-CN",
+      "line": 27
+    }
+  },
+  {
+    "type": "full",
+    "value": "ntp5.aliyun.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:ntp5.aliyun.com:@cn",
+    "source": {
+      "list": "CATEGORY-NTP-CN",
+      "line": 8
+    }
+  },
+  {
+    "type": "full",
+    "value": "ntp5.ntp-servers.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:ntp5.ntp-servers.net",
+    "source": {
+      "list": "CATEGORY-NTP",
+      "line": 74
+    }
+  },
+  {
+    "type": "full",
+    "value": "ntp5.tencent.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:ntp5.tencent.com:@cn",
+    "source": {
+      "list": "CATEGORY-NTP-CN",
+      "line": 28
+    }
+  },
+  {
+    "type": "full",
+    "value": "ntp6.aliyun.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:ntp6.aliyun.com:@cn",
+    "source": {
+      "list": "CATEGORY-NTP-CN",
+      "line": 9
+    }
+  },
+  {
+    "type": "full",
+    "value": "ntp6.ntp-servers.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:ntp6.ntp-servers.net",
+    "source": {
+      "list": "CATEGORY-NTP",
+      "line": 75
+    }
+  },
+  {
+    "type": "full",
+    "value": "ntp7.aliyun.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:ntp7.aliyun.com:@cn",
+    "source": {
+      "list": "CATEGORY-NTP-CN",
+      "line": 10
+    }
+  },
+  {
+    "type": "full",
+    "value": "ntp7.ntp-servers.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:ntp7.ntp-servers.net",
+    "source": {
+      "list": "CATEGORY-NTP",
+      "line": 76
+    }
+  },
+  {
+    "type": "full",
+    "value": "ntppool1.time.nl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:ntppool1.time.nl",
+    "source": {
+      "list": "CATEGORY-NTP",
+      "line": 82
+    }
+  },
+  {
+    "type": "full",
+    "value": "ntppool2.time.nl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:ntppool2.time.nl",
+    "source": {
+      "list": "CATEGORY-NTP",
+      "line": 83
+    }
+  },
+  {
+    "type": "full",
+    "value": "time-a-b.nist.gov",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:time-a-b.nist.gov",
+    "source": {
+      "list": "CATEGORY-NTP",
+      "line": 51
+    }
+  },
+  {
+    "type": "full",
+    "value": "time-a-g.nist.gov",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:time-a-g.nist.gov",
+    "source": {
+      "list": "CATEGORY-NTP",
+      "line": 46
+    }
+  },
+  {
+    "type": "full",
+    "value": "time-a-wwv.nist.gov",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:time-a-wwv.nist.gov",
+    "source": {
+      "list": "CATEGORY-NTP",
+      "line": 56
+    }
+  },
+  {
+    "type": "full",
+    "value": "time-b-b.nist.gov",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:time-b-b.nist.gov",
+    "source": {
+      "list": "CATEGORY-NTP",
+      "line": 52
+    }
+  },
+  {
+    "type": "full",
+    "value": "time-b-g.nist.gov",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:time-b-g.nist.gov",
+    "source": {
+      "list": "CATEGORY-NTP",
+      "line": 47
+    }
+  },
+  {
+    "type": "full",
+    "value": "time-b-wwv.nist.gov",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:time-b-wwv.nist.gov",
+    "source": {
+      "list": "CATEGORY-NTP",
+      "line": 57
+    }
+  },
+  {
+    "type": "full",
+    "value": "time-c-b.nist.gov",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:time-c-b.nist.gov",
+    "source": {
+      "list": "CATEGORY-NTP",
+      "line": 53
+    }
+  },
+  {
+    "type": "full",
+    "value": "time-c-g.nist.gov",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:time-c-g.nist.gov",
+    "source": {
+      "list": "CATEGORY-NTP",
+      "line": 48
+    }
+  },
+  {
+    "type": "full",
+    "value": "time-c-wwv.nist.gov",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:time-c-wwv.nist.gov",
+    "source": {
+      "list": "CATEGORY-NTP",
+      "line": 58
+    }
+  },
+  {
+    "type": "full",
+    "value": "time-d-b.nist.gov",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:time-d-b.nist.gov",
+    "source": {
+      "list": "CATEGORY-NTP",
+      "line": 54
+    }
+  },
+  {
+    "type": "full",
+    "value": "time-d-g.nist.gov",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:time-d-g.nist.gov",
+    "source": {
+      "list": "CATEGORY-NTP",
+      "line": 49
+    }
+  },
+  {
+    "type": "full",
+    "value": "time-d-wwv.nist.gov",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:time-d-wwv.nist.gov",
+    "source": {
+      "list": "CATEGORY-NTP",
+      "line": 59
+    }
+  },
+  {
+    "type": "full",
+    "value": "time-e-b.nist.gov",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:time-e-b.nist.gov",
+    "source": {
+      "list": "CATEGORY-NTP",
+      "line": 55
+    }
+  },
+  {
+    "type": "full",
+    "value": "time-e-g.nist.gov",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:time-e-g.nist.gov",
+    "source": {
+      "list": "CATEGORY-NTP",
+      "line": 50
+    }
+  },
+  {
+    "type": "full",
+    "value": "time-e-wwv.nist.gov",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:time-e-wwv.nist.gov",
+    "source": {
+      "list": "CATEGORY-NTP",
+      "line": 60
+    }
+  },
+  {
+    "type": "full",
+    "value": "time.amazonaws.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:time.amazonaws.cn:@cn",
+    "source": {
+      "list": "CATEGORY-NTP-CN",
+      "line": 13
+    }
+  },
+  {
+    "type": "full",
+    "value": "time.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:time.apple.com",
+    "source": {
+      "list": "CATEGORY-NTP",
+      "line": 6
+    }
+  },
+  {
+    "type": "full",
+    "value": "time.asia.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:time.asia.apple.com",
+    "source": {
+      "list": "CATEGORY-NTP",
+      "line": 7
+    }
+  },
+  {
+    "type": "full",
+    "value": "time.aws.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:time.aws.com",
+    "source": {
+      "list": "CATEGORY-NTP",
+      "line": 11
+    }
+  },
+  {
+    "type": "full",
+    "value": "time.cloudflare.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:time.cloudflare.com",
+    "source": {
+      "list": "CATEGORY-NTP",
+      "line": 14
+    }
+  },
+  {
+    "type": "full",
+    "value": "time.euro.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:time.euro.apple.com",
+    "source": {
+      "list": "CATEGORY-NTP",
+      "line": 8
+    }
+  },
+  {
+    "type": "full",
+    "value": "time.facebook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:time.facebook.com",
+    "source": {
+      "list": "CATEGORY-NTP",
+      "line": 18
+    }
+  },
+  {
+    "type": "full",
+    "value": "time.google.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:time.google.com",
+    "source": {
+      "list": "CATEGORY-NTP",
+      "line": 27
+    }
+  },
+  {
+    "type": "full",
+    "value": "time.izatcloud.net",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:time.izatcloud.net:@cn",
+    "source": {
+      "list": "CATEGORY-NTP-CN",
+      "line": 16
+    }
+  },
+  {
+    "type": "full",
+    "value": "time.nist.gov",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:time.nist.gov",
+    "source": {
+      "list": "CATEGORY-NTP",
+      "line": 45
+    }
+  },
+  {
+    "type": "full",
+    "value": "time.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:time.windows.com",
+    "source": {
+      "list": "CATEGORY-NTP",
+      "line": 37
+    }
+  },
+  {
+    "type": "full",
+    "value": "time.xtracloud.net",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:time.xtracloud.net:@cn",
+    "source": {
+      "list": "CATEGORY-NTP-CN",
+      "line": 17
+    }
+  },
+  {
+    "type": "full",
+    "value": "time1.facebook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:time1.facebook.com",
+    "source": {
+      "list": "CATEGORY-NTP",
+      "line": 19
+    }
+  },
+  {
+    "type": "full",
+    "value": "time1.google.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:time1.google.com",
+    "source": {
+      "list": "CATEGORY-NTP",
+      "line": 28
+    }
+  },
+  {
+    "type": "full",
+    "value": "time2.facebook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:time2.facebook.com",
+    "source": {
+      "list": "CATEGORY-NTP",
+      "line": 20
+    }
+  },
+  {
+    "type": "full",
+    "value": "time2.google.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:time2.google.com",
+    "source": {
+      "list": "CATEGORY-NTP",
+      "line": 29
+    }
+  },
+  {
+    "type": "full",
+    "value": "time3.facebook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:time3.facebook.com",
+    "source": {
+      "list": "CATEGORY-NTP",
+      "line": 21
+    }
+  },
+  {
+    "type": "full",
+    "value": "time3.google.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:time3.google.com",
+    "source": {
+      "list": "CATEGORY-NTP",
+      "line": 30
+    }
+  },
+  {
+    "type": "full",
+    "value": "time4.facebook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:time4.facebook.com",
+    "source": {
+      "list": "CATEGORY-NTP",
+      "line": 22
+    }
+  },
+  {
+    "type": "full",
+    "value": "time4.google.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:time4.google.com",
+    "source": {
+      "list": "CATEGORY-NTP",
+      "line": 31
+    }
+  },
+  {
+    "type": "full",
+    "value": "time5.facebook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:time5.facebook.com",
+    "source": {
+      "list": "CATEGORY-NTP",
+      "line": 23
+    }
+  },
+  {
+    "type": "full",
+    "value": "ut1-time.colorado.edu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:ut1-time.colorado.edu",
+    "source": {
+      "list": "CATEGORY-NTP",
+      "line": 62
+    }
+  },
+  {
+    "type": "full",
+    "value": "ut1-wwv.nist.gov",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:ut1-wwv.nist.gov",
+    "source": {
+      "list": "CATEGORY-NTP",
+      "line": 41
+    }
+  },
+  {
+    "type": "full",
+    "value": "utcnist.colorado.edu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:utcnist.colorado.edu",
+    "source": {
+      "list": "CATEGORY-NTP",
+      "line": 63
+    }
+  },
+  {
+    "type": "full",
+    "value": "utcnist2.colorado.edu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:utcnist2.colorado.edu",
+    "source": {
+      "list": "CATEGORY-NTP",
+      "line": 64
+    }
+  },
+  {
+    "type": "full",
+    "value": "utcnist3.colorado.edu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:utcnist3.colorado.edu",
+    "source": {
+      "list": "CATEGORY-NTP",
+      "line": 65
+    }
+  },
+  {
+    "type": "full",
+    "value": "xtratime.qcomgeo2.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:xtratime.qcomgeo2.com:@cn",
+    "source": {
+      "list": "CATEGORY-NTP-CN",
+      "line": 19
+    }
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "type": "domain",
+    "value": "jike.city",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jike.city",
+    "source": {
+      "list": "OKJIKE",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jikecdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jikecdn.com",
+    "source": {
+      "list": "OKJIKE",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "okjike.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:okjike.com",
+    "source": {
+      "list": "OKJIKE",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "okjk.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:okjk.co",
+    "source": {
+      "list": "OKJIKE",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ruguoapp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ruguoapp.com",
+    "source": {
+      "list": "OKJIKE",
+      "line": 6
+    }
+  }
+]

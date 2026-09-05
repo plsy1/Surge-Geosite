@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "gendai.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gendai.net",
+    "source": {
+      "list": "NIKKAN-GENDAI",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nikkan-gendai.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nikkan-gendai.com",
+    "source": {
+      "list": "NIKKAN-GENDAI",
+      "line": 2
+    }
+  }
+]

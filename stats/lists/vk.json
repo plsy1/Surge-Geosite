@@ -1,0 +1,59 @@
+{
+  "name": "VK",
+  "source": {
+    "domain": 43,
+    "full": 9,
+    "keyword": 0,
+    "regexp": 0,
+    "include": 0,
+    "affiliations": 0,
+    "attributes": 15
+  },
+  "resolved": {
+    "rules": 52,
+    "domain": 43,
+    "full": 9,
+    "keyword": 0,
+    "regexp": 0
+  },
+  "filters": {
+    "attrs": {
+      "ads": 15
+    }
+  },
+  "modes": {
+    "strict": {
+      "rules": 52,
+      "bytes": 1319,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "balanced": {
+      "rules": 52,
+      "bytes": 1319,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "full": {
+      "rules": 52,
+      "bytes": 1319,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    }
+  }
+}

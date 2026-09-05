@@ -1,0 +1,521 @@
+[
+  {
+    "type": "domain",
+    "value": "o2action.co.kr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:o2action.co.kr",
+    "source": {
+      "list": "VANISH",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "powerofresolve.ca",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:powerofresolve.ca",
+    "source": {
+      "list": "VANISH",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "powerofresolve.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:powerofresolve.com",
+    "source": {
+      "list": "VANISH",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "spraynwash.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:spraynwash.com",
+    "source": {
+      "list": "VANISH",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vanish.at",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vanish.at",
+    "source": {
+      "list": "VANISH",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vanish.be",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vanish.be",
+    "source": {
+      "list": "VANISH",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vanish.ch",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vanish.ch",
+    "source": {
+      "list": "VANISH",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vanish.cl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vanish.cl",
+    "source": {
+      "list": "VANISH",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vanish.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:vanish.cn:@cn",
+    "source": {
+      "list": "VANISH",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vanish.co.id",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vanish.co.id",
+    "source": {
+      "list": "VANISH",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vanish.co.il",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vanish.co.il",
+    "source": {
+      "list": "VANISH",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vanish.co.in",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vanish.co.in",
+    "source": {
+      "list": "VANISH",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vanish.co.nz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vanish.co.nz",
+    "source": {
+      "list": "VANISH",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vanish.co.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vanish.co.uk",
+    "source": {
+      "list": "VANISH",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vanish.co.za",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vanish.co.za",
+    "source": {
+      "list": "VANISH",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vanish.com.ar",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vanish.com.ar",
+    "source": {
+      "list": "VANISH",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vanish.com.br",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vanish.com.br",
+    "source": {
+      "list": "VANISH",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vanish.com.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vanish.com.co",
+    "source": {
+      "list": "VANISH",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vanish.com.hr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vanish.com.hr",
+    "source": {
+      "list": "VANISH",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vanish.com.mx",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vanish.com.mx",
+    "source": {
+      "list": "VANISH",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vanish.com.my",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vanish.com.my",
+    "source": {
+      "list": "VANISH",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vanish.com.pe",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vanish.com.pe",
+    "source": {
+      "list": "VANISH",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vanish.com.sg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vanish.com.sg",
+    "source": {
+      "list": "VANISH",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vanish.com.tr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vanish.com.tr",
+    "source": {
+      "list": "VANISH",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vanish.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vanish.de",
+    "source": {
+      "list": "VANISH",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vanish.dk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vanish.dk",
+    "source": {
+      "list": "VANISH",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vanish.es",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vanish.es",
+    "source": {
+      "list": "VANISH",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vanish.fi",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vanish.fi",
+    "source": {
+      "list": "VANISH",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vanish.fr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vanish.fr",
+    "source": {
+      "list": "VANISH",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vanish.hu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vanish.hu",
+    "source": {
+      "list": "VANISH",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vanish.ie",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vanish.ie",
+    "source": {
+      "list": "VANISH",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vanish.it",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vanish.it",
+    "source": {
+      "list": "VANISH",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vanish.nl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vanish.nl",
+    "source": {
+      "list": "VANISH",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vanish.no",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vanish.no",
+    "source": {
+      "list": "VANISH",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vanish.pl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vanish.pl",
+    "source": {
+      "list": "VANISH",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vanish.pt",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vanish.pt",
+    "source": {
+      "list": "VANISH",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vanish.ro",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vanish.ro",
+    "source": {
+      "list": "VANISH",
+      "line": 37
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vanish.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vanish.ru",
+    "source": {
+      "list": "VANISH",
+      "line": 38
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vanish.se",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vanish.se",
+    "source": {
+      "list": "VANISH",
+      "line": 39
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vanish.si",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vanish.si",
+    "source": {
+      "list": "VANISH",
+      "line": 40
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vanish.sk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vanish.sk",
+    "source": {
+      "list": "VANISH",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vanisharabia.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vanisharabia.com",
+    "source": {
+      "list": "VANISH",
+      "line": 42
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vanishbancaseulook.com.br",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vanishbancaseulook.com.br",
+    "source": {
+      "list": "VANISH",
+      "line": 43
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vanishcentroamerica.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vanishcentroamerica.com",
+    "source": {
+      "list": "VANISH",
+      "line": 44
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vanishinfo.cz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vanishinfo.cz",
+    "source": {
+      "list": "VANISH",
+      "line": 45
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vanishstains.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vanishstains.com",
+    "source": {
+      "list": "VANISH",
+      "line": 46
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vanishstains.com.au",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vanishstains.com.au",
+    "source": {
+      "list": "VANISH",
+      "line": 47
+    }
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "type": "domain",
+    "value": "17173.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:17173.com",
+    "source": {
+      "list": "CHANGYOU",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "17173cdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:17173cdn.com",
+    "source": {
+      "list": "CHANGYOU",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "changyou.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:changyou.com",
+    "source": {
+      "list": "CHANGYOU",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cy.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cy.com",
+    "source": {
+      "list": "CHANGYOU",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "playcool.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:playcool.com",
+    "source": {
+      "list": "CHANGYOU",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yeyou.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yeyou.com",
+    "source": {
+      "list": "CHANGYOU",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yeyoucdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yeyoucdn.com",
+    "source": {
+      "list": "CHANGYOU",
+      "line": 8
+    }
+  }
+]

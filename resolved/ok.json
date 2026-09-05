@@ -1,0 +1,211 @@
+[
+  {
+    "type": "domain",
+    "value": "apiok.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:apiok.ru",
+    "source": {
+      "list": "OK",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "insideok.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:insideok.ru",
+    "source": {
+      "list": "OK",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "odkl.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:odkl.ru",
+    "source": {
+      "list": "OK",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "odnoklasniki.by",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:odnoklasniki.by",
+    "source": {
+      "list": "OK",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "odnoklasniki.ua",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:odnoklasniki.ua",
+    "source": {
+      "list": "OK",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "odnoklassniki.am",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:odnoklassniki.am",
+    "source": {
+      "list": "OK",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "odnoklassniki.by",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:odnoklassniki.by",
+    "source": {
+      "list": "OK",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "odnoklassniki.co.ee",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:odnoklassniki.co.ee",
+    "source": {
+      "list": "OK",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "odnoklassniki.eu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:odnoklassniki.eu",
+    "source": {
+      "list": "OK",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "odnoklassniki.lv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:odnoklassniki.lv",
+    "source": {
+      "list": "OK",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "odnoklassniki.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:odnoklassniki.ru",
+    "source": {
+      "list": "OK",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "odnoklassniki.tj",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:odnoklassniki.tj",
+    "source": {
+      "list": "OK",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ok.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ok.me",
+    "source": {
+      "list": "OK",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ok.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ok.ru",
+    "source": {
+      "list": "OK",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "okcdn.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:okcdn.ru",
+    "source": {
+      "list": "OK",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "okl.lt",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:okl.lt",
+    "source": {
+      "list": "OK",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oktech.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oktech.ru",
+    "source": {
+      "list": "OK",
+      "line": 16
+    }
+  },
+  {
+    "type": "full",
+    "value": "st-ok-pts.cdn-vk.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:st-ok-pts.cdn-vk.ru",
+    "source": {
+      "list": "OK",
+      "line": 20
+    }
+  },
+  {
+    "type": "full",
+    "value": "st-ok.cdn-vk.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:st-ok.cdn-vk.ru",
+    "source": {
+      "list": "OK",
+      "line": 21
+    }
+  }
+]
