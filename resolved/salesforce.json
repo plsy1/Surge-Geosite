@@ -1,0 +1,453 @@
+[
+  {
+    "type": "domain",
+    "value": "appcloud.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:appcloud.com",
+    "source": {
+      "list": "SALESFORCE",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "appexchange.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:appexchange.com",
+    "source": {
+      "list": "SALESFORCE",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "attic.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:attic.io",
+    "source": {
+      "list": "SALESFORCE",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "beyondcore.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:beyondcore.com",
+    "source": {
+      "list": "SALESFORCE",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "buddymedia.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:buddymedia.com",
+    "source": {
+      "list": "SALESFORCE",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "chatter.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:chatter.com",
+    "source": {
+      "list": "SALESFORCE",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudcraze.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudcraze.com",
+    "source": {
+      "list": "SALESFORCE",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cotweet.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cotweet.com",
+    "source": {
+      "list": "SALESFORCE",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "data.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:data.com",
+    "source": {
+      "list": "SALESFORCE",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "demandware.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:demandware.com",
+    "source": {
+      "list": "SALESFORCE",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "desk.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:desk.com",
+    "source": {
+      "list": "SALESFORCE",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "documentforce.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:documentforce.com",
+    "source": {
+      "list": "SALESFORCE",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dreamforce.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dreamforce.com",
+    "source": {
+      "list": "SALESFORCE",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "einstein.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:einstein.com",
+    "source": {
+      "list": "SALESFORCE",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "exacttarget.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:exacttarget.com",
+    "source": {
+      "list": "SALESFORCE",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "force.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:force.com",
+    "source": {
+      "list": "SALESFORCE",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "govforce.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:govforce.com",
+    "source": {
+      "list": "SALESFORCE",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gravitytank.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gravitytank.com",
+    "source": {
+      "list": "SALESFORCE",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "heywire.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:heywire.com",
+    "source": {
+      "list": "SALESFORCE",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "krux.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:krux.com",
+    "source": {
+      "list": "SALESFORCE",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "marketingcloud.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:marketingcloud.com",
+    "source": {
+      "list": "SALESFORCE",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "metamind.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:metamind.io",
+    "source": {
+      "list": "SALESFORCE",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pardot.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pardot.com",
+    "source": {
+      "list": "SALESFORCE",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "quotable.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:quotable.com",
+    "source": {
+      "list": "SALESFORCE",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "radian6.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:radian6.com",
+    "source": {
+      "list": "SALESFORCE",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "relateiq.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:relateiq.com",
+    "source": {
+      "list": "SALESFORCE",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "salesforce-setup.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:salesforce-setup.com",
+    "source": {
+      "list": "SALESFORCE",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "salesforce-sites.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:salesforce-sites.com",
+    "source": {
+      "list": "SALESFORCE",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "salesforce.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:salesforce.com",
+    "source": {
+      "list": "SALESFORCE",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "salesforce.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:salesforce.org",
+    "source": {
+      "list": "SALESFORCE",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "salesforceiq.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:salesforceiq.com",
+    "source": {
+      "list": "SALESFORCE",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "salesforceliveagent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:salesforceliveagent.com",
+    "source": {
+      "list": "SALESFORCE",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "salesforcemarketingcloud.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:salesforcemarketingcloud.com",
+    "source": {
+      "list": "SALESFORCE",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sequence.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sequence.com",
+    "source": {
+      "list": "SALESFORCE",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sfdcstatic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sfdcstatic.com",
+    "source": {
+      "list": "SALESFORCE",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sforce.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sforce.com",
+    "source": {
+      "list": "SALESFORCE",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "site.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:site.com",
+    "source": {
+      "list": "SALESFORCE",
+      "line": 37
+    }
+  },
+  {
+    "type": "domain",
+    "value": "social.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:social.com",
+    "source": {
+      "list": "SALESFORCE",
+      "line": 38
+    }
+  },
+  {
+    "type": "domain",
+    "value": "steelbrick.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:steelbrick.com",
+    "source": {
+      "list": "SALESFORCE",
+      "line": 39
+    }
+  },
+  {
+    "type": "domain",
+    "value": "twinprime.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:twinprime.com",
+    "source": {
+      "list": "SALESFORCE",
+      "line": 40
+    }
+  },
+  {
+    "type": "domain",
+    "value": "weinvoiceit.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:weinvoiceit.com",
+    "source": {
+      "list": "SALESFORCE",
+      "line": 41
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "symantec.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:symantec.com",
+    "source": {
+      "list": "SYMANTEC",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "symantecliveupdate.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:symantecliveupdate.com",
+    "source": {
+      "list": "SYMANTEC",
+      "line": 2
+    }
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "type": "domain",
+    "value": "aorus.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aorus.com",
+    "source": {
+      "list": "GIGABYTE",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aoruszone.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:aoruszone.cn:@cn",
+    "source": {
+      "list": "GIGABYTE",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gigabyte.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:gigabyte.cn:@cn",
+    "source": {
+      "list": "GIGABYTE",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gigabyte.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gigabyte.com",
+    "source": {
+      "list": "GIGABYTE",
+      "line": 4
+    }
+  },
+  {
+    "type": "full",
+    "value": "gigabyte2.azureedge.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:gigabyte2.azureedge.net",
+    "source": {
+      "list": "GIGABYTE",
+      "line": 6
+    }
+  },
+  {
+    "type": "full",
+    "value": "sa78gs.wpc.edgecastcdn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:sa78gs.wpc.edgecastcdn.net",
+    "source": {
+      "list": "GIGABYTE",
+      "line": 7
+    }
+  },
+  {
+    "type": "full",
+    "value": "sni1dcb6gl.wpc.edgecastcdn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:sni1dcb6gl.wpc.edgecastcdn.net",
+    "source": {
+      "list": "GIGABYTE",
+      "line": 8
+    }
+  }
+]

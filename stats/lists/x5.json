@@ -1,0 +1,59 @@
+{
+  "name": "X5",
+  "source": {
+    "domain": 32,
+    "full": 3,
+    "keyword": 0,
+    "regexp": 0,
+    "include": 0,
+    "affiliations": 0,
+    "attributes": 3
+  },
+  "resolved": {
+    "rules": 35,
+    "domain": 32,
+    "full": 3,
+    "keyword": 0,
+    "regexp": 0
+  },
+  "filters": {
+    "attrs": {
+      "ads": 3
+    }
+  },
+  "modes": {
+    "strict": {
+      "rules": 35,
+      "bytes": 826,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "balanced": {
+      "rules": 35,
+      "bytes": 826,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "full": {
+      "rules": 35,
+      "bytes": 826,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    }
+  }
+}

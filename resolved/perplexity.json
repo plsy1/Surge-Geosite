@@ -1,0 +1,57 @@
+[
+  {
+    "type": "domain",
+    "value": "perplexity.ai",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:perplexity.ai",
+    "source": {
+      "list": "PERPLEXITY",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "perplexity.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:perplexity.com",
+    "source": {
+      "list": "PERPLEXITY",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pplx.ai",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pplx.ai",
+    "source": {
+      "list": "PERPLEXITY",
+      "line": 3
+    }
+  },
+  {
+    "type": "full",
+    "value": "ppl-ai-file-upload.s3.amazonaws.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:ppl-ai-file-upload.s3.amazonaws.com",
+    "source": {
+      "list": "PERPLEXITY",
+      "line": 5
+    }
+  },
+  {
+    "type": "full",
+    "value": "pplx-res.cloudinary.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:pplx-res.cloudinary.com",
+    "source": {
+      "list": "PERPLEXITY",
+      "line": 6
+    }
+  }
+]

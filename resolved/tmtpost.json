@@ -1,0 +1,90 @@
+[
+  {
+    "type": "domain",
+    "value": "72whys.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:72whys.com",
+    "source": {
+      "list": "TMTPOST",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "chaindd.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:chaindd.com",
+    "source": {
+      "list": "TMTPOST",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "checkzeit.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:checkzeit.com",
+    "source": {
+      "list": "TMTPOST",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tigeek.net.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tigeek.net.cn",
+    "source": {
+      "list": "TMTPOST",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tivitv.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tivitv.com",
+    "source": {
+      "list": "TMTPOST",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tmtpost.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tmtpost.com",
+    "source": {
+      "list": "TMTPOST",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tmtsmartlife.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tmtsmartlife.com",
+    "source": {
+      "list": "TMTPOST",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tmtsmartrun.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tmtsmartrun.com",
+    "source": {
+      "list": "TMTPOST",
+      "line": 10
+    }
+  }
+]

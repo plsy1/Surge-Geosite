@@ -1,0 +1,57 @@
+[
+  {
+    "type": "domain",
+    "value": "apress.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:apress.com",
+    "source": {
+      "list": "SPRINGER",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "springer.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:springer.com",
+    "source": {
+      "list": "SPRINGER",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "springerlink.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:springerlink.com",
+    "source": {
+      "list": "SPRINGER",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "springernature.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:springernature.com",
+    "source": {
+      "list": "SPRINGER",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wkap.nl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wkap.nl",
+    "source": {
+      "list": "SPRINGER",
+      "line": 5
+    }
+  }
+]

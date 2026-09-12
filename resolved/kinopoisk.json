@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "kinopoisk-ru.clstorage.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kinopoisk-ru.clstorage.net",
+    "source": {
+      "list": "KINOPOISK",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kinopoisk.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kinopoisk.ru",
+    "source": {
+      "list": "KINOPOISK",
+      "line": 1
+    }
+  }
+]

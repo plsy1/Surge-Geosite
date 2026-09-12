@@ -1,0 +1,15 @@
+[
+  {
+    "type": "domain",
+    "value": "webnovel.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:webnovel.com:@!cn",
+    "source": {
+      "list": "WEBNOVEL",
+      "line": 1
+    }
+  }
+]

@@ -1,0 +1,518 @@
+[
+  {
+    "type": "domain",
+    "value": "ak-p.tripcdn.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:ak-p.tripcdn.com:@!cn",
+    "source": {
+      "list": "CTRIP",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ak-s-cw.tripcdn.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:ak-s-cw.tripcdn.com:@!cn",
+    "source": {
+      "list": "CTRIP",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ak-s.tripcdn.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:ak-s.tripcdn.com:@!cn",
+    "source": {
+      "list": "CTRIP",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akatest.tripcdn.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:akatest.tripcdn.com:@!cn",
+    "source": {
+      "list": "CTRIP",
+      "line": 37
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aw-d.tripcdn.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:aw-d.tripcdn.com:@!cn",
+    "source": {
+      "list": "CTRIP",
+      "line": 38
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aw-p.tripcdn.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:aw-p.tripcdn.com:@!cn",
+    "source": {
+      "list": "CTRIP",
+      "line": 39
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aw-s.tripcdn.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:aw-s.tripcdn.com:@!cn",
+    "source": {
+      "list": "CTRIP",
+      "line": 40
+    }
+  },
+  {
+    "type": "domain",
+    "value": "c-ctrip.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:c-ctrip.com",
+    "source": {
+      "list": "CTRIP",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "colinker.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:colinker.com",
+    "source": {
+      "list": "CTRIP",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ctrip.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ctrip.cn",
+    "source": {
+      "list": "CTRIP",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ctrip.co.id",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:ctrip.co.id:@!cn",
+    "source": {
+      "list": "CTRIP",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ctrip.co.kr",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:ctrip.co.kr:@!cn",
+    "source": {
+      "list": "CTRIP",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ctrip.co.th",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:ctrip.co.th:@!cn",
+    "source": {
+      "list": "CTRIP",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ctrip.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ctrip.com",
+    "source": {
+      "list": "CTRIP",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ctrip.com.hk",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:ctrip.com.hk:@!cn",
+    "source": {
+      "list": "CTRIP",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ctrip.my",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:ctrip.my:@!cn",
+    "source": {
+      "list": "CTRIP",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ctrip.sg",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:ctrip.sg:@!cn",
+    "source": {
+      "list": "CTRIP",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ctripbiz.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ctripbiz.com",
+    "source": {
+      "list": "CTRIP",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ctripbuy.hk",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:ctripbuy.hk:@!cn",
+    "source": {
+      "list": "CTRIP",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ctripgslb.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ctripgslb.cn",
+    "source": {
+      "list": "CTRIP",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ctripgslb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ctripgslb.com",
+    "source": {
+      "list": "CTRIP",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ctripgslb.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ctripgslb.com.cn",
+    "source": {
+      "list": "CTRIP",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ctripgslb.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ctripgslb.net",
+    "source": {
+      "list": "CTRIP",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ctripteam.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ctripteam.com",
+    "source": {
+      "list": "CTRIP",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "doticloud.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:doticloud.com",
+    "source": {
+      "list": "CTRIP",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "easytrip.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:easytrip.com",
+    "source": {
+      "list": "CTRIP",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hhtravel.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hhtravel.com",
+    "source": {
+      "list": "CTRIP",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hhtravel.com.tw",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:hhtravel.com.tw:@!cn",
+    "source": {
+      "list": "CTRIP",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "izuchebao.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:izuchebao.com",
+    "source": {
+      "list": "CTRIP",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lvtds.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lvtds.com",
+    "source": {
+      "list": "CTRIP",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qunar.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qunar.com",
+    "source": {
+      "list": "CTRIP",
+      "line": 45
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qunarcdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qunarcdn.com",
+    "source": {
+      "list": "CTRIP",
+      "line": 46
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qunarzz.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qunarzz.com",
+    "source": {
+      "list": "CTRIP",
+      "line": 47
+    }
+  },
+  {
+    "type": "domain",
+    "value": "shuntu.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:shuntu.cn",
+    "source": {
+      "list": "CTRIP",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "skysea.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:skysea.com",
+    "source": {
+      "list": "CTRIP",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "suanya.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:suanya.cn",
+    "source": {
+      "list": "CTRIP",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "suanya.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:suanya.com",
+    "source": {
+      "list": "CTRIP",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tieyou.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tieyou.com",
+    "source": {
+      "list": "CTRIP",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "toptown.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:toptown.cn",
+    "source": {
+      "list": "CTRIP",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "toursbms.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:toursbms.com",
+    "source": {
+      "list": "CTRIP",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "trip.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:trip.com:@!cn",
+    "source": {
+      "list": "CTRIP",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tripcdn.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tripcdn.cn",
+    "source": {
+      "list": "CTRIP",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tripcdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tripcdn.com",
+    "source": {
+      "list": "CTRIP",
+      "line": 42
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vipdlt.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vipdlt.com",
+    "source": {
+      "list": "CTRIP",
+      "line": 32
+    }
+  }
+]

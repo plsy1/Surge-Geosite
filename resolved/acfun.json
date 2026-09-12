@@ -1,0 +1,92 @@
+[
+  {
+    "type": "domain",
+    "value": "ac.fun",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ac.fun",
+    "source": {
+      "list": "ACFUN",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "acfun.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:acfun.cn",
+    "source": {
+      "list": "ACFUN",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "acfun.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:acfun.net",
+    "source": {
+      "list": "ACFUN",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "acfunchina.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:acfunchina.cn",
+    "source": {
+      "list": "ACFUN",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "acfunchina.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:acfunchina.com",
+    "source": {
+      "list": "ACFUN",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "acfunchina.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:acfunchina.net",
+    "source": {
+      "list": "ACFUN",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aixifan.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aixifan.com",
+    "source": {
+      "list": "ACFUN",
+      "line": 9
+    }
+  },
+  {
+    "type": "full",
+    "value": "apilog-web.acfun.cn",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:apilog-web.acfun.cn:@ads",
+    "source": {
+      "list": "ACFUN",
+      "line": 12
+    }
+  }
+]

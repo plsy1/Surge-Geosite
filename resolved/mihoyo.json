@@ -1,0 +1,294 @@
+[
+  {
+    "type": "domain",
+    "value": "benghuai.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:benghuai.com",
+    "source": {
+      "list": "MIHOYO-CN",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bh3.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bh3.com",
+    "source": {
+      "list": "MIHOYO-CN",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bhsr.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bhsr.com",
+    "source": {
+      "list": "MIHOYO-CN",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "genshinimpact.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:genshinimpact.com",
+    "source": {
+      "list": "HOYOVERSE",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "honkaiimpact3.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:honkaiimpact3.com",
+    "source": {
+      "list": "HOYOVERSE",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "honkaistarrail.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:honkaistarrail.com",
+    "source": {
+      "list": "HOYOVERSE",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hoyo.link",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hoyo.link",
+    "source": {
+      "list": "HOYOVERSE",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hoyolab.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hoyolab.com",
+    "source": {
+      "list": "HOYOVERSE",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hoyoverse.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hoyoverse.com",
+    "source": {
+      "list": "HOYOVERSE",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "juequling.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:juequling.com",
+    "source": {
+      "list": "MIHOYO-CN",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "log-upload-os.hoyoverse.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:log-upload-os.hoyoverse.com:@ads",
+    "source": {
+      "list": "HOYOVERSE",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "log-upload.mihoyo.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:log-upload.mihoyo.com:@ads",
+    "source": {
+      "list": "MIHOYO-CN",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mhystatic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mhystatic.com",
+    "source": {
+      "list": "MIHOYO-CN",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mhyurl.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mhyurl.cn",
+    "source": {
+      "list": "MIHOYO-CN",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mihayo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mihayo.com",
+    "source": {
+      "list": "MIHOYO-CN",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mihayou.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mihayou.com",
+    "source": {
+      "list": "MIHOYO-CN",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mihoyo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mihoyo.com",
+    "source": {
+      "list": "MIHOYO-CN",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mihoyocg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mihoyocg.com",
+    "source": {
+      "list": "MIHOYO-CN",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mihoyogift.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mihoyogift.com",
+    "source": {
+      "list": "MIHOYO-CN",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mihoyomall.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mihoyomall.com",
+    "source": {
+      "list": "MIHOYO-CN",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "miyoushe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:miyoushe.com",
+    "source": {
+      "list": "MIHOYO-CN",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "n0vadesktop.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:n0vadesktop.com",
+    "source": {
+      "list": "HOYOVERSE",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "themisweeps.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:themisweeps.com",
+    "source": {
+      "list": "MIHOYO-CN",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yuanshen.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yuanshen.com",
+    "source": {
+      "list": "MIHOYO-CN",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zenlesszonezero.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zenlesszonezero.com",
+    "source": {
+      "list": "HOYOVERSE",
+      "line": 23
+    }
+  },
+  {
+    "type": "regexp",
+    "value": "^.+-mihayo\\.akamaized\\.net$",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "regexp:^.+-mihayo\\.akamaized\\.net$:@cn",
+    "source": {
+      "list": "MIHOYO-CN",
+      "line": 31
+    }
+  }
+]

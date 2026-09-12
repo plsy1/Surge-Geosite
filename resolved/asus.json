@@ -1,0 +1,48 @@
+[
+  {
+    "type": "domain",
+    "value": "asus.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:asus.com",
+    "source": {
+      "list": "ASUS",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "asus.com.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:asus.com.cn:@cn",
+    "source": {
+      "list": "ASUS",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "asuscloud.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:asuscloud.com",
+    "source": {
+      "list": "ASUS",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "asuswebstorage.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:asuswebstorage.com",
+    "source": {
+      "list": "ASUS",
+      "line": 4
+    }
+  }
+]

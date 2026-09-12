@@ -1,0 +1,101 @@
+[
+  {
+    "type": "full",
+    "value": "a.ppy.sh",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:a.ppy.sh",
+    "source": {
+      "list": "OSU",
+      "line": 2
+    }
+  },
+  {
+    "type": "full",
+    "value": "assets.ppy.sh",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:assets.ppy.sh",
+    "source": {
+      "list": "OSU",
+      "line": 3
+    }
+  },
+  {
+    "type": "full",
+    "value": "c.ppy.sh",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:c.ppy.sh",
+    "source": {
+      "list": "OSU",
+      "line": 4
+    }
+  },
+  {
+    "type": "full",
+    "value": "lazer.ppy.sh",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:lazer.ppy.sh",
+    "source": {
+      "list": "OSU",
+      "line": 8
+    }
+  },
+  {
+    "type": "full",
+    "value": "m1.ppy.sh",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:m1.ppy.sh",
+    "source": {
+      "list": "OSU",
+      "line": 6
+    }
+  },
+  {
+    "type": "full",
+    "value": "notify.ppy.sh",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:notify.ppy.sh",
+    "source": {
+      "list": "OSU",
+      "line": 9
+    }
+  },
+  {
+    "type": "full",
+    "value": "osu.ppy.sh",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:osu.ppy.sh",
+    "source": {
+      "list": "OSU",
+      "line": 5
+    }
+  },
+  {
+    "type": "full",
+    "value": "sentry.ppy.sh",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:sentry.ppy.sh",
+    "source": {
+      "list": "OSU",
+      "line": 10
+    }
+  },
+  {
+    "type": "full",
+    "value": "spectator.ppy.sh",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:spectator.ppy.sh",
+    "source": {
+      "list": "OSU",
+      "line": 11
+    }
+  }
+]

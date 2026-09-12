@@ -1,0 +1,310 @@
+[
+  {
+    "type": "domain",
+    "value": "1010.com.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:1010.com.hk",
+    "source": {
+      "list": "HKT",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "esmarthealth.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:esmarthealth.com",
+    "source": {
+      "list": "HKT",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hkcsl.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hkcsl.com",
+    "source": {
+      "list": "HKT",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hkt-enterprise.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hkt-enterprise.com",
+    "source": {
+      "list": "HKT",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hkt-eye.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hkt-eye.com",
+    "source": {
+      "list": "HKT",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hkt.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hkt.com",
+    "source": {
+      "list": "HKT",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hkteducation.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hkteducation.com",
+    "source": {
+      "list": "HKT",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hktpremier.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hktpremier.com",
+    "source": {
+      "list": "HKT",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hktshop.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hktshop.com",
+    "source": {
+      "list": "HKT",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "moov.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:moov.hk",
+    "source": {
+      "list": "PCCW",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "netvigator.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:netvigator.com",
+    "source": {
+      "list": "HKT",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "now-ashare.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:now-ashare.com",
+    "source": {
+      "list": "NOW",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "now-tv.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:now-tv.com",
+    "source": {
+      "list": "NOW",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "now.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:now.com",
+    "source": {
+      "list": "NOW",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "now.com.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:now.com.hk",
+    "source": {
+      "list": "NOW",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nowe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nowe.com",
+    "source": {
+      "list": "NOW",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nowe.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nowe.hk",
+    "source": {
+      "list": "NOW",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pccw.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pccw.com",
+    "source": {
+      "list": "PCCW",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pccwglobal.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pccwglobal.com",
+    "source": {
+      "list": "PCCW",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pccwsolutions.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pccwsolutions.com",
+    "source": {
+      "list": "PCCW",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "theclub.com.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:theclub.com.hk",
+    "source": {
+      "list": "HKT",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "uhub.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:uhub.com",
+    "source": {
+      "list": "HKT",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "viu.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:viu.com",
+    "source": {
+      "list": "VIU",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "viu.tv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:viu.tv",
+    "source": {
+      "list": "VIU",
+      "line": 2
+    }
+  },
+  {
+    "type": "full",
+    "value": "d1k2us671qcoau.cloudfront.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:d1k2us671qcoau.cloudfront.net",
+    "source": {
+      "list": "VIU",
+      "line": 9
+    }
+  },
+  {
+    "type": "full",
+    "value": "d2anahhhmp1ffz.cloudfront.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:d2anahhhmp1ffz.cloudfront.net",
+    "source": {
+      "list": "VIU",
+      "line": 10
+    }
+  },
+  {
+    "type": "full",
+    "value": "dfp6rglgjqszk.cloudfront.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:dfp6rglgjqszk.cloudfront.net",
+    "source": {
+      "list": "VIU",
+      "line": 8
+    }
+  },
+  {
+    "type": "regexp",
+    "value": "^ewcdn[0-9]+\\.nowe\\.com$",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "regexp:^ewcdn[0-9]+\\.nowe\\.com$",
+    "source": {
+      "list": "VIU",
+      "line": 4
+    }
+  }
+]

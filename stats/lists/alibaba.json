@@ -1,0 +1,61 @@
+{
+  "name": "ALIBABA",
+  "source": {
+    "domain": 218,
+    "full": 0,
+    "keyword": 0,
+    "regexp": 0,
+    "include": 13,
+    "affiliations": 0,
+    "attributes": 35
+  },
+  "resolved": {
+    "rules": 462,
+    "domain": 458,
+    "full": 4,
+    "keyword": 0,
+    "regexp": 0
+  },
+  "filters": {
+    "attrs": {
+      "ads": 87,
+      "!cn": 38,
+      "cn": 4
+    }
+  },
+  "modes": {
+    "strict": {
+      "rules": 462,
+      "bytes": 13469,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "balanced": {
+      "rules": 462,
+      "bytes": 13469,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "full": {
+      "rules": 462,
+      "bytes": 13469,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    }
+  }
+}

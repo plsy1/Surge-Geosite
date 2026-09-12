@@ -1,0 +1,265 @@
+[
+  {
+    "type": "domain",
+    "value": "10010.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:10010.com",
+    "source": {
+      "list": "CHINAUNICOM",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "10010.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:10010.com.cn",
+    "source": {
+      "list": "CHINAUNICOM",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "10155.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:10155.com",
+    "source": {
+      "list": "CHINAUNICOM",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "114menhu.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:114menhu.com",
+    "source": {
+      "list": "CHINAUNICOM",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "169ol.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:169ol.com",
+    "source": {
+      "list": "CHINAUNICOM",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "chinaunicom.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:chinaunicom.cn",
+    "source": {
+      "list": "CHINAUNICOM",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "chinaunicom.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:chinaunicom.com",
+    "source": {
+      "list": "CHINAUNICOM",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "chinaunicom.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:chinaunicom.com.cn",
+    "source": {
+      "list": "CHINAUNICOM",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "chinaunicom.com.hk",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:chinaunicom.com.hk:@!cn",
+    "source": {
+      "list": "CHINAUNICOM",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "chinaunicomglobal.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:chinaunicomglobal.com:@!cn",
+    "source": {
+      "list": "CHINAUNICOM",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cuguplus.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:cuguplus.com:@!cn",
+    "source": {
+      "list": "CHINAUNICOM",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cuniq.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:cuniq.com:@!cn",
+    "source": {
+      "list": "CHINAUNICOM",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cuniq.sg",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:cuniq.sg:@!cn",
+    "source": {
+      "list": "CHINAUNICOM",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mychinaunicom.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mychinaunicom.com",
+    "source": {
+      "list": "CHINAUNICOM",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "unicom",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:unicom",
+    "source": {
+      "list": "CHINAUNICOM",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "unicompayment.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:unicompayment.com",
+    "source": {
+      "list": "CHINAUNICOM",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wo.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wo.cn",
+    "source": {
+      "list": "CHINAUNICOM",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wo.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wo.com.cn",
+    "source": {
+      "list": "CHINAUNICOM",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wo116114.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wo116114.com",
+    "source": {
+      "list": "CHINAUNICOM",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wocloud.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wocloud.com.cn",
+    "source": {
+      "list": "CHINAUNICOM",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "woread.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:woread.com.cn",
+    "source": {
+      "list": "CHINAUNICOM",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wosms.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wosms.cn",
+    "source": {
+      "list": "CHINAUNICOM",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--8y0a063a",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--8y0a063a",
+    "source": {
+      "list": "CHINAUNICOM",
+      "line": 5
+    }
+  }
+]

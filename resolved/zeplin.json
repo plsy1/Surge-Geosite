@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "zeplin.dev",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zeplin.dev",
+    "source": {
+      "list": "ZEPLIN",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zeplin.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zeplin.io",
+    "source": {
+      "list": "ZEPLIN",
+      "line": 2
+    }
+  }
+]

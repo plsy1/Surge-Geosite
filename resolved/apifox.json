@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "apifox.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:apifox.cn",
+    "source": {
+      "list": "APIFOX",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "apifox.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:apifox.com",
+    "source": {
+      "list": "APIFOX",
+      "line": 2
+    }
+  }
+]

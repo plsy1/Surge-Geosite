@@ -1,0 +1,46 @@
+[
+  {
+    "type": "domain",
+    "value": "natgeomaps.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:natgeomaps.com",
+    "source": {
+      "list": "NATIONALGEOGRAPHIC",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nationalgeographic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nationalgeographic.com",
+    "source": {
+      "list": "NATIONALGEOGRAPHIC",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nationalgeographicpartners.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nationalgeographicpartners.com",
+    "source": {
+      "list": "NATIONALGEOGRAPHIC",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ngeo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ngeo.com",
+    "source": {
+      "list": "NATIONALGEOGRAPHIC",
+      "line": 4
+    }
+  }
+]

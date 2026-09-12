@@ -1,0 +1,57 @@
+[
+  {
+    "type": "domain",
+    "value": "sinopec-usa.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sinopec-usa.com",
+    "source": {
+      "list": "SINOPEC",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sinopec.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sinopec.com",
+    "source": {
+      "list": "SINOPEC",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sinopecgroup.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sinopecgroup.com",
+    "source": {
+      "list": "SINOPEC",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sinopecnews.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sinopecnews.com.cn",
+    "source": {
+      "list": "SINOPEC",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sinopecsales.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sinopecsales.com",
+    "source": {
+      "list": "SINOPEC",
+      "line": 5
+    }
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "mechrevo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mechrevo.com",
+    "source": {
+      "list": "TONGFANG",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "thtf.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:thtf.com.cn",
+    "source": {
+      "list": "TONGFANG",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tongfangpc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tongfangpc.com",
+    "source": {
+      "list": "TONGFANG",
+      "line": 4
+    }
+  }
+]

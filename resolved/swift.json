@@ -1,0 +1,50 @@
+[
+  {
+    "type": "domain",
+    "value": "appleswift.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:appleswift.com",
+    "source": {
+      "list": "SWIFT",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "swift.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:swift.org",
+    "source": {
+      "list": "SWIFT",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "swiftui.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:swiftui.cn:@cn",
+    "source": {
+      "list": "SWIFT",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "swiftui.com.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:swiftui.com.cn:@cn",
+    "source": {
+      "list": "SWIFT",
+      "line": 4
+    }
+  }
+]

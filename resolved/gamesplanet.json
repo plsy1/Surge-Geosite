@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "gamesplanet.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gamesplanet.com",
+    "source": {
+      "list": "GAMESPLANET",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gametap.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gametap.com",
+    "source": {
+      "list": "GAMESPLANET",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gpstatic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gpstatic.com",
+    "source": {
+      "list": "GAMESPLANET",
+      "line": 4
+    }
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "type": "domain",
+    "value": "enfinitas.com.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:enfinitas.com.cn:@cn",
+    "source": {
+      "list": "MEADJOHNSON",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "meadjohnson.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:meadjohnson.com",
+    "source": {
+      "list": "MEADJOHNSON",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "meadjohnson.com.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:meadjohnson.com.cn:@cn",
+    "source": {
+      "list": "MEADJOHNSON",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "meadjohnson.com.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:meadjohnson.com.hk",
+    "source": {
+      "list": "MEADJOHNSON",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "meadjohnson.com.tw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:meadjohnson.com.tw",
+    "source": {
+      "list": "MEADJOHNSON",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "meadjohnson.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:meadjohnson.net",
+    "source": {
+      "list": "MEADJOHNSON",
+      "line": 6
+    }
+  }
+]

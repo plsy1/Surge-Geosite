@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "mox.moe",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mox.moe",
+    "source": {
+      "list": "VOLMOE",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vol.moe",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vol.moe",
+    "source": {
+      "list": "VOLMOE",
+      "line": 2
+    }
+  }
+]

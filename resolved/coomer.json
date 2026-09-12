@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "coomer.party",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:coomer.party",
+    "source": {
+      "list": "COOMER",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "coomer.st",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:coomer.st",
+    "source": {
+      "list": "COOMER",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "coomer.su",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:coomer.su",
+    "source": {
+      "list": "COOMER",
+      "line": 3
+    }
+  }
+]

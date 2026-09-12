@@ -1,0 +1,59 @@
+{
+  "name": "KONTUR",
+  "source": {
+    "domain": 3,
+    "full": 2,
+    "keyword": 0,
+    "regexp": 0,
+    "include": 0,
+    "affiliations": 0,
+    "attributes": 2
+  },
+  "resolved": {
+    "rules": 5,
+    "domain": 3,
+    "full": 2,
+    "keyword": 0,
+    "regexp": 0
+  },
+  "filters": {
+    "attrs": {
+      "ads": 2
+    }
+  },
+  "modes": {
+    "strict": {
+      "rules": 5,
+      "bytes": 129,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "balanced": {
+      "rules": 5,
+      "bytes": 129,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "full": {
+      "rules": 5,
+      "bytes": 129,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    }
+  }
+}

@@ -1,0 +1,178 @@
+[
+  {
+    "type": "domain",
+    "value": "db.tt",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db.tt",
+    "source": {
+      "list": "DROPBOX",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dropbox-dns.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dropbox-dns.com",
+    "source": {
+      "list": "DROPBOX",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dropbox.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dropbox.com",
+    "source": {
+      "list": "DROPBOX",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dropbox.tech",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dropbox.tech",
+    "source": {
+      "list": "DROPBOX",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dropboxapi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dropboxapi.com",
+    "source": {
+      "list": "DROPBOX",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dropboxbusiness.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dropboxbusiness.com",
+    "source": {
+      "list": "DROPBOX",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dropboxcaptcha.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dropboxcaptcha.com",
+    "source": {
+      "list": "DROPBOX",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dropboxforum.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dropboxforum.com",
+    "source": {
+      "list": "DROPBOX",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dropboxforums.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dropboxforums.com",
+    "source": {
+      "list": "DROPBOX",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dropboxinsiders.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dropboxinsiders.com",
+    "source": {
+      "list": "DROPBOX",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dropboxmail.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dropboxmail.com",
+    "source": {
+      "list": "DROPBOX",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dropboxpartners.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dropboxpartners.com",
+    "source": {
+      "list": "DROPBOX",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dropboxstatic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dropboxstatic.com",
+    "source": {
+      "list": "DROPBOX",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dropboxusercontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dropboxusercontent.com",
+    "source": {
+      "list": "DROPBOX",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "getdropbox.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:getdropbox.com",
+    "source": {
+      "list": "DROPBOX",
+      "line": 17
+    }
+  },
+  {
+    "type": "full",
+    "value": "paper-attachments.s3.amazonaws.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:paper-attachments.s3.amazonaws.com",
+    "source": {
+      "list": "DROPBOX",
+      "line": 19
+    }
+  }
+]

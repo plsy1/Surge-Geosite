@@ -1,0 +1,68 @@
+[
+  {
+    "type": "domain",
+    "value": "beth.games",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:beth.games",
+    "source": {
+      "list": "BETHESDA",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bethesda.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bethesda.net",
+    "source": {
+      "list": "BETHESDA",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bethesdagamestudios.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bethesdagamestudios.com",
+    "source": {
+      "list": "BETHESDA",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bethsoft.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bethsoft.com",
+    "source": {
+      "list": "BETHESDA",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "doom.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:doom.com",
+    "source": {
+      "list": "BETHESDA",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "elderscrolls.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:elderscrolls.com",
+    "source": {
+      "list": "BETHESDA",
+      "line": 10
+    }
+  }
+]

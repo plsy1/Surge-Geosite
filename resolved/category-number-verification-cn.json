@@ -1,0 +1,79 @@
+[
+  {
+    "type": "domain",
+    "value": "cmpassport.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cmpassport.com",
+    "source": {
+      "list": "CATEGORY-NUMBER-VERIFICATION-CN",
+      "line": 7
+    }
+  },
+  {
+    "type": "full",
+    "value": "enrichgw.10010.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:enrichgw.10010.com",
+    "source": {
+      "list": "CATEGORY-NUMBER-VERIFICATION-CN",
+      "line": 12
+    }
+  },
+  {
+    "type": "full",
+    "value": "hap.10010.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:hap.10010.com",
+    "source": {
+      "list": "CATEGORY-NUMBER-VERIFICATION-CN",
+      "line": 13
+    }
+  },
+  {
+    "type": "full",
+    "value": "hs.wosms.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:hs.wosms.cn",
+    "source": {
+      "list": "CATEGORY-NUMBER-VERIFICATION-CN",
+      "line": 11
+    }
+  },
+  {
+    "type": "full",
+    "value": "id6.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:id6.me",
+    "source": {
+      "list": "CATEGORY-NUMBER-VERIFICATION-CN",
+      "line": 4
+    }
+  },
+  {
+    "type": "full",
+    "value": "opencloud.wostore.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:opencloud.wostore.cn",
+    "source": {
+      "list": "CATEGORY-NUMBER-VERIFICATION-CN",
+      "line": 10
+    }
+  },
+  {
+    "type": "regexp",
+    "value": "^nis.+\\.10010\\.com$",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "regexp:^nis.+\\.10010\\.com$",
+    "source": {
+      "list": "CATEGORY-NUMBER-VERIFICATION-CN",
+      "line": 15
+    }
+  }
+]

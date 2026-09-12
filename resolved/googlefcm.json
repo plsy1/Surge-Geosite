@@ -1,0 +1,148 @@
+[
+  {
+    "type": "full",
+    "value": "alt1-mtalk.google.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "full:alt1-mtalk.google.com:@!cn",
+    "source": {
+      "list": "GOOGLEFCM",
+      "line": 1
+    }
+  },
+  {
+    "type": "full",
+    "value": "alt2-mtalk.google.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "full:alt2-mtalk.google.com:@!cn",
+    "source": {
+      "list": "GOOGLEFCM",
+      "line": 2
+    }
+  },
+  {
+    "type": "full",
+    "value": "alt3-mtalk.google.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "full:alt3-mtalk.google.com:@!cn",
+    "source": {
+      "list": "GOOGLEFCM",
+      "line": 3
+    }
+  },
+  {
+    "type": "full",
+    "value": "alt4-mtalk.google.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "full:alt4-mtalk.google.com:@!cn",
+    "source": {
+      "list": "GOOGLEFCM",
+      "line": 4
+    }
+  },
+  {
+    "type": "full",
+    "value": "alt5-mtalk.google.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "full:alt5-mtalk.google.com:@!cn",
+    "source": {
+      "list": "GOOGLEFCM",
+      "line": 5
+    }
+  },
+  {
+    "type": "full",
+    "value": "alt6-mtalk.google.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "full:alt6-mtalk.google.com:@!cn",
+    "source": {
+      "list": "GOOGLEFCM",
+      "line": 6
+    }
+  },
+  {
+    "type": "full",
+    "value": "alt7-mtalk.google.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:alt7-mtalk.google.com",
+    "source": {
+      "list": "GOOGLEFCM",
+      "line": 7
+    }
+  },
+  {
+    "type": "full",
+    "value": "alt8-mtalk.google.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:alt8-mtalk.google.com",
+    "source": {
+      "list": "GOOGLEFCM",
+      "line": 8
+    }
+  },
+  {
+    "type": "full",
+    "value": "mtalk-dev.google.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:mtalk-dev.google.com",
+    "source": {
+      "list": "GOOGLEFCM",
+      "line": 9
+    }
+  },
+  {
+    "type": "full",
+    "value": "mtalk-staging.google.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:mtalk-staging.google.com",
+    "source": {
+      "list": "GOOGLEFCM",
+      "line": 10
+    }
+  },
+  {
+    "type": "full",
+    "value": "mtalk.google.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "full:mtalk.google.com:@!cn",
+    "source": {
+      "list": "GOOGLEFCM",
+      "line": 11
+    }
+  },
+  {
+    "type": "full",
+    "value": "mtalk4.google.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:mtalk4.google.com",
+    "source": {
+      "list": "GOOGLEFCM",
+      "line": 12
+    }
+  }
+]

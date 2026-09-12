@@ -1,0 +1,90 @@
+[
+  {
+    "type": "domain",
+    "value": "myshopify.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:myshopify.com",
+    "source": {
+      "list": "SHOPIFY",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "shop.app",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:shop.app",
+    "source": {
+      "list": "SHOPIFY",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "shopify.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:shopify.com",
+    "source": {
+      "list": "SHOPIFY",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "shopify.dev",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:shopify.dev",
+    "source": {
+      "list": "SHOPIFY",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "shopifycdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:shopifycdn.com",
+    "source": {
+      "list": "SHOPIFY",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "shopifycloud.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:shopifycloud.com",
+    "source": {
+      "list": "SHOPIFY",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "shopifystatus.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:shopifystatus.com",
+    "source": {
+      "list": "SHOPIFY",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "shopifysvc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:shopifysvc.com",
+    "source": {
+      "list": "SHOPIFY",
+      "line": 8
+    }
+  }
+]

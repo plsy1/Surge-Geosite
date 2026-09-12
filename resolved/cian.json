@@ -1,0 +1,79 @@
+[
+  {
+    "type": "domain",
+    "value": "cian.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cian.ru",
+    "source": {
+      "list": "CIAN",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cian.site",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cian.site",
+    "source": {
+      "list": "CIAN",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ciangroup.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ciangroup.ru",
+    "source": {
+      "list": "CIAN",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dmir.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dmir.ru",
+    "source": {
+      "list": "CIAN",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "poudobnee.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:poudobnee.com",
+    "source": {
+      "list": "CIAN",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--80aaafbpzn5blfby1p.xn--p1ai",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--80aaafbpzn5blfby1p.xn--p1ai",
+    "source": {
+      "list": "CIAN",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--80aaeib8abrryx4k.xn--p1ai",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--80aaeib8abrryx4k.xn--p1ai",
+    "source": {
+      "list": "CIAN",
+      "line": 7
+    }
+  }
+]

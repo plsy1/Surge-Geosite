@@ -1,0 +1,81 @@
+[
+  {
+    "type": "domain",
+    "value": "chimeforchange.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:chimeforchange.org",
+    "source": {
+      "list": "GUCCI",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gucci",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gucci",
+    "source": {
+      "list": "GUCCI",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gucci.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:gucci.cn:@cn",
+    "source": {
+      "list": "GUCCI",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gucci.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gucci.com",
+    "source": {
+      "list": "GUCCI",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "guccimuseo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:guccimuseo.com",
+    "source": {
+      "list": "GUCCI",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "guccitimeless.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:guccitimeless.com",
+    "source": {
+      "list": "GUCCI",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "regiongold.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:regiongold.com",
+    "source": {
+      "list": "GUCCI",
+      "line": 9
+    }
+  }
+]

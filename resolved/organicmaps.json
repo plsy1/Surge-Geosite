@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "omaps.app",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:omaps.app",
+    "source": {
+      "list": "ORGANICMAPS",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "organicmaps.app",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:organicmaps.app",
+    "source": {
+      "list": "ORGANICMAPS",
+      "line": 2
+    }
+  }
+]

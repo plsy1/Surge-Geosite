@@ -1,0 +1,79 @@
+[
+  {
+    "type": "domain",
+    "value": "9to5google.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:9to5google.com",
+    "source": {
+      "list": "9TO5",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "9to5mac.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:9to5mac.com",
+    "source": {
+      "list": "9TO5",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "9to5terminal.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:9to5terminal.com",
+    "source": {
+      "list": "9TO5",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "9to5toys.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:9to5toys.com",
+    "source": {
+      "list": "9TO5",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dronedj.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dronedj.com",
+    "source": {
+      "list": "9TO5",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "electrek.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:electrek.co",
+    "source": {
+      "list": "9TO5",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "spaceexplored.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:spaceexplored.com",
+    "source": {
+      "list": "9TO5",
+      "line": 7
+    }
+  }
+]

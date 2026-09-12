@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "imgix.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:imgix.com",
+    "source": {
+      "list": "IMGIX",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "imgix.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:imgix.net",
+    "source": {
+      "list": "IMGIX",
+      "line": 2
+    }
+  }
+]

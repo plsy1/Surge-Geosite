@@ -1,0 +1,57 @@
+[
+  {
+    "type": "domain",
+    "value": "flic.kr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:flic.kr",
+    "source": {
+      "list": "FLICKR",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "flickr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:flickr",
+    "source": {
+      "list": "FLICKR",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "flickr.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:flickr.com",
+    "source": {
+      "list": "FLICKR",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "flickr.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:flickr.net",
+    "source": {
+      "list": "FLICKR",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "staticflickr.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:staticflickr.com",
+    "source": {
+      "list": "FLICKR",
+      "line": 7
+    }
+  }
+]

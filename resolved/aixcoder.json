@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "aixcoder.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aixcoder.com",
+    "source": {
+      "list": "AIXCODER",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nnthink.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nnthink.com",
+    "source": {
+      "list": "AIXCODER",
+      "line": 2
+    }
+  }
+]

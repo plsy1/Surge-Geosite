@@ -1,0 +1,79 @@
+[
+  {
+    "type": "domain",
+    "value": "fontstar.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fontstar.com.cn",
+    "source": {
+      "list": "HANYI",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hanyi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hanyi.com",
+    "source": {
+      "list": "HANYI",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hanyi.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hanyi.com.cn",
+    "source": {
+      "list": "HANYI",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hellofont.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hellofont.cn",
+    "source": {
+      "list": "HANYI",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hellowebfont.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hellowebfont.com",
+    "source": {
+      "list": "HANYI",
+      "line": 9
+    }
+  },
+  {
+    "type": "full",
+    "value": "hellofontpreview.oss-cn-beijing.aliyuncs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:hellofontpreview.oss-cn-beijing.aliyuncs.com",
+    "source": {
+      "list": "HANYI",
+      "line": 11
+    }
+  },
+  {
+    "type": "full",
+    "value": "hellowebfonts.oss-cn-beijing.aliyuncs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:hellowebfonts.oss-cn-beijing.aliyuncs.com",
+    "source": {
+      "list": "HANYI",
+      "line": 12
+    }
+  }
+]

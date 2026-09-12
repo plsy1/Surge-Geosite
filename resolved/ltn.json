@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "ltn.com.tw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ltn.com.tw",
+    "source": {
+      "list": "LTN",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yes123.com.tw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yes123.com.tw",
+    "source": {
+      "list": "LTN",
+      "line": 2
+    }
+  }
+]

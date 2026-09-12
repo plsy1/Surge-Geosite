@@ -1,0 +1,70 @@
+{
+  "name": "CATEGORY-GAMES-CN",
+  "source": {
+    "domain": 50,
+    "full": 2,
+    "keyword": 0,
+    "regexp": 0,
+    "include": 15,
+    "affiliations": 0,
+    "attributes": 2
+  },
+  "resolved": {
+    "rules": 284,
+    "domain": 281,
+    "full": 2,
+    "keyword": 0,
+    "regexp": 1
+  },
+  "filters": {
+    "attrs": {
+      "ads": 2,
+      "cn": 1
+    }
+  },
+  "modes": {
+    "strict": {
+      "rules": 283,
+      "bytes": 7586,
+      "regex": {
+        "total": 1,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 1
+      },
+      "unsupported": [
+        {
+          "pattern": "^.+-mihayo\\.akamaized\\.net$",
+          "source": {
+            "list": "MIHOYO-CN",
+            "line": 31
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        }
+      ]
+    },
+    "balanced": {
+      "rules": 284,
+      "bytes": 7626,
+      "regex": {
+        "total": 1,
+        "lossless": 0,
+        "widened": 1,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "full": {
+      "rules": 284,
+      "bytes": 7626,
+      "regex": {
+        "total": 1,
+        "lossless": 0,
+        "widened": 1,
+        "unsupported": 0
+      },
+      "unsupported": []
+    }
+  }
+}

@@ -1,0 +1,46 @@
+[
+  {
+    "type": "domain",
+    "value": "poi.icu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:poi.icu",
+    "source": {
+      "list": "PROJECTPOI",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "poi6.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:poi6.net",
+    "source": {
+      "list": "PROJECTPOI",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "poihub.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:poihub.com",
+    "source": {
+      "list": "PROJECTPOI",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "project-poi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:project-poi.com",
+    "source": {
+      "list": "PROJECTPOI",
+      "line": 4
+    }
+  }
+]

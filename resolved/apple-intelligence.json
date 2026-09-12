@@ -1,0 +1,57 @@
+[
+  {
+    "type": "full",
+    "value": "apple-relay.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:apple-relay.apple.com",
+    "source": {
+      "list": "APPLE-INTELLIGENCE",
+      "line": 2
+    }
+  },
+  {
+    "type": "full",
+    "value": "apple-relay.cloudflare.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:apple-relay.cloudflare.com",
+    "source": {
+      "list": "APPLE-INTELLIGENCE",
+      "line": 3
+    }
+  },
+  {
+    "type": "full",
+    "value": "apple-relay.fastly-edge.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:apple-relay.fastly-edge.com",
+    "source": {
+      "list": "APPLE-INTELLIGENCE",
+      "line": 4
+    }
+  },
+  {
+    "type": "full",
+    "value": "apple-relay.mask.apple-dns.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:apple-relay.mask.apple-dns.net",
+    "source": {
+      "list": "APPLE-INTELLIGENCE",
+      "line": 5
+    }
+  },
+  {
+    "type": "full",
+    "value": "gspe1-ssl.ls.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:gspe1-ssl.ls.apple.com",
+    "source": {
+      "list": "APPLE-INTELLIGENCE",
+      "line": 12
+    }
+  }
+]

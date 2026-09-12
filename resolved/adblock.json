@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "adblockcdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:adblockcdn.com",
+    "source": {
+      "list": "ADBLOCK",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "getadblock.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:getadblock.com",
+    "source": {
+      "list": "ADBLOCK",
+      "line": 2
+    }
+  }
+]

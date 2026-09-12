@@ -1,0 +1,94 @@
+{
+  "name": "NETFLIX",
+  "source": {
+    "domain": 23,
+    "full": 1,
+    "keyword": 0,
+    "regexp": 4,
+    "include": 0,
+    "affiliations": 0,
+    "attributes": 0
+  },
+  "resolved": {
+    "rules": 28,
+    "domain": 23,
+    "full": 1,
+    "keyword": 0,
+    "regexp": 4
+  },
+  "filters": {
+    "attrs": {}
+  },
+  "modes": {
+    "strict": {
+      "rules": 24,
+      "bytes": 735,
+      "regex": {
+        "total": 4,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 4
+      },
+      "unsupported": [
+        {
+          "pattern": "(^|\\.)apiproxy-device-prod-nlb-.+\\.amazonaws\\.com$",
+          "source": {
+            "list": "NETFLIX",
+            "line": 28
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)apiproxy-website-nlb-prod-.+\\.amazonaws\\.com$",
+          "source": {
+            "list": "NETFLIX",
+            "line": 29
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)dualstack\\.apiproxy-.+\\.amazonaws\\.com$",
+          "source": {
+            "list": "NETFLIX",
+            "line": 30
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "(^|\\.)dualstack\\.ichnaea-web-.+\\.amazonaws\\.com$",
+          "source": {
+            "list": "NETFLIX",
+            "line": 31
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        }
+      ]
+    },
+    "balanced": {
+      "rules": 28,
+      "bytes": 967,
+      "regex": {
+        "total": 4,
+        "lossless": 0,
+        "widened": 4,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "full": {
+      "rules": 28,
+      "bytes": 967,
+      "regex": {
+        "total": 4,
+        "lossless": 0,
+        "widened": 4,
+        "unsupported": 0
+      },
+      "unsupported": []
+    }
+  }
+}

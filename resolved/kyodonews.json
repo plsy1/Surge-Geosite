@@ -1,0 +1,101 @@
+[
+  {
+    "type": "domain",
+    "value": "47gyosei.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:47gyosei.jp",
+    "source": {
+      "list": "KYODONEWS",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "47news.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:47news.jp",
+    "source": {
+      "list": "KYODONEWS",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kyodo-d.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kyodo-d.info",
+    "source": {
+      "list": "KYODONEWS",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kyodo-d.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kyodo-d.jp",
+    "source": {
+      "list": "KYODONEWS",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kyodoimages.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kyodoimages.jp",
+    "source": {
+      "list": "KYODONEWS",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kyodonews.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kyodonews.jp",
+    "source": {
+      "list": "KYODONEWS",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kyodonews.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kyodonews.net",
+    "source": {
+      "list": "KYODONEWS",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "newsmart.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:newsmart.jp",
+    "source": {
+      "list": "KYODONEWS",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nna.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nna.jp",
+    "source": {
+      "list": "KYODONEWS",
+      "line": 9
+    }
+  }
+]

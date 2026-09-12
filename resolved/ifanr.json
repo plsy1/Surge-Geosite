@@ -1,0 +1,79 @@
+[
+  {
+    "type": "domain",
+    "value": "coolbuy.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:coolbuy.com",
+    "source": {
+      "list": "IFANR",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ifanr.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ifanr.cn",
+    "source": {
+      "list": "IFANR",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ifanr.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ifanr.com",
+    "source": {
+      "list": "IFANR",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ifanr.in",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ifanr.in",
+    "source": {
+      "list": "IFANR",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ifanrusercontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ifanrusercontent.com",
+    "source": {
+      "list": "IFANR",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ifanrx.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ifanrx.com",
+    "source": {
+      "list": "IFANR",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "minapp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:minapp.com",
+    "source": {
+      "list": "IFANR",
+      "line": 7
+    }
+  }
+]

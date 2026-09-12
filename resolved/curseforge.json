@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "curseforge.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:curseforge.com",
+    "source": {
+      "list": "CURSEFORGE",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "forgecdn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:forgecdn.net",
+    "source": {
+      "list": "CURSEFORGE",
+      "line": 2
+    }
+  }
+]

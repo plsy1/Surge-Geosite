@@ -1,0 +1,46 @@
+[
+  {
+    "type": "domain",
+    "value": "nxtv.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nxtv.jp",
+    "source": {
+      "list": "UNEXT",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "unext-info.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:unext-info.jp",
+    "source": {
+      "list": "UNEXT",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "unext.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:unext.co.jp",
+    "source": {
+      "list": "UNEXT",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "unext.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:unext.jp",
+    "source": {
+      "list": "UNEXT",
+      "line": 4
+    }
+  }
+]

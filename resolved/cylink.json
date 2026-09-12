@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "cylink.pro",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cylink.pro",
+    "source": {
+      "list": "CYLINK",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cylink0122.icu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cylink0122.icu",
+    "source": {
+      "list": "CYLINK",
+      "line": 2
+    }
+  }
+]

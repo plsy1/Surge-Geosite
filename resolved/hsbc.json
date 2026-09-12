@@ -1,0 +1,530 @@
+[
+  {
+    "type": "domain",
+    "value": "hsbc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hsbc",
+    "source": {
+      "list": "HSBC",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hsbc-alternatives.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hsbc-alternatives.de",
+    "source": {
+      "list": "HSBC",
+      "line": 54
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hsbc-transactionservices.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hsbc-transactionservices.de",
+    "source": {
+      "list": "HSBC",
+      "line": 55
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hsbc-zertifikate.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hsbc-zertifikate.de",
+    "source": {
+      "list": "HSBC",
+      "line": 56
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hsbc.ae",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hsbc.ae",
+    "source": {
+      "list": "HSBC",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hsbc.am",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hsbc.am",
+    "source": {
+      "list": "HSBC",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hsbc.bm",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hsbc.bm",
+    "source": {
+      "list": "HSBC",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hsbc.ca",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hsbc.ca",
+    "source": {
+      "list": "HSBC",
+      "line": 61
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hsbc.co.id",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hsbc.co.id",
+    "source": {
+      "list": "HSBC",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hsbc.co.in",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hsbc.co.in",
+    "source": {
+      "list": "HSBC",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hsbc.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hsbc.co.jp",
+    "source": {
+      "list": "HSBC",
+      "line": 62
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hsbc.co.kr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hsbc.co.kr",
+    "source": {
+      "list": "HSBC",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hsbc.co.mu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hsbc.co.mu",
+    "source": {
+      "list": "HSBC",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hsbc.co.nz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hsbc.co.nz",
+    "source": {
+      "list": "HSBC",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hsbc.co.th",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hsbc.co.th",
+    "source": {
+      "list": "HSBC",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hsbc.co.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hsbc.co.uk",
+    "source": {
+      "list": "HSBC",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hsbc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hsbc.com",
+    "source": {
+      "list": "HSBC",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hsbc.com.ar",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hsbc.com.ar",
+    "source": {
+      "list": "HSBC",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hsbc.com.au",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hsbc.com.au",
+    "source": {
+      "list": "HSBC",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hsbc.com.bd",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hsbc.com.bd",
+    "source": {
+      "list": "HSBC",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hsbc.com.bh",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hsbc.com.bh",
+    "source": {
+      "list": "HSBC",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hsbc.com.br",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hsbc.com.br",
+    "source": {
+      "list": "HSBC",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hsbc.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hsbc.com.cn",
+    "source": {
+      "list": "HSBC-CN",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hsbc.com.eg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hsbc.com.eg",
+    "source": {
+      "list": "HSBC",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hsbc.com.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hsbc.com.hk",
+    "source": {
+      "list": "HSBC",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hsbc.com.mo",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hsbc.com.mo",
+    "source": {
+      "list": "HSBC",
+      "line": 37
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hsbc.com.mt",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hsbc.com.mt",
+    "source": {
+      "list": "HSBC",
+      "line": 38
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hsbc.com.mx",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hsbc.com.mx",
+    "source": {
+      "list": "HSBC",
+      "line": 39
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hsbc.com.my",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hsbc.com.my",
+    "source": {
+      "list": "HSBC",
+      "line": 42
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hsbc.com.ph",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hsbc.com.ph",
+    "source": {
+      "list": "HSBC",
+      "line": 45
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hsbc.com.sg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hsbc.com.sg",
+    "source": {
+      "list": "HSBC",
+      "line": 46
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hsbc.com.tr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hsbc.com.tr",
+    "source": {
+      "list": "HSBC",
+      "line": 47
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hsbc.com.tw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hsbc.com.tw",
+    "source": {
+      "list": "HSBC",
+      "line": 48
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hsbc.com.uy",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hsbc.com.uy",
+    "source": {
+      "list": "HSBC",
+      "line": 49
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hsbc.com.vn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hsbc.com.vn",
+    "source": {
+      "list": "HSBC",
+      "line": 50
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hsbc.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hsbc.de",
+    "source": {
+      "list": "HSBC",
+      "line": 53
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hsbc.fr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hsbc.fr",
+    "source": {
+      "list": "HSBC",
+      "line": 63
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hsbc.lk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hsbc.lk",
+    "source": {
+      "list": "HSBC",
+      "line": 58
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hsbc.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hsbc.net",
+    "source": {
+      "list": "HSBC",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hsbc.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hsbc.uk",
+    "source": {
+      "list": "HSBC",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hsbcamanah.com.my",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hsbcamanah.com.my",
+    "source": {
+      "list": "HSBC",
+      "line": 43
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hsbcinnovationbanking.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hsbcinnovationbanking.com",
+    "source": {
+      "list": "HSBC",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hsbcinsurance.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hsbcinsurance.com.cn",
+    "source": {
+      "list": "HSBC-CN",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hsbcnet.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hsbcnet.com",
+    "source": {
+      "list": "HSBC",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hsbcprivatebank.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hsbcprivatebank.com",
+    "source": {
+      "list": "HSBC",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hsbcqh.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hsbcqh.com.cn",
+    "source": {
+      "list": "HSBC-CN",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hsbctrinkaus.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hsbctrinkaus.de",
+    "source": {
+      "list": "HSBC",
+      "line": 64
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vv1865.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vv1865.com",
+    "source": {
+      "list": "HSBC",
+      "line": 67
+    }
+  }
+]

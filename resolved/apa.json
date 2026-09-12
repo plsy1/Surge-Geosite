@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "apa.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:apa.org",
+    "source": {
+      "list": "APA",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "psyccareers.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:psyccareers.com",
+    "source": {
+      "list": "APA",
+      "line": 2
+    }
+  }
+]

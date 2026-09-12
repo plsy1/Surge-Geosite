@@ -1,0 +1,57 @@
+[
+  {
+    "type": "domain",
+    "value": "gitlab-static.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gitlab-static.net",
+    "source": {
+      "list": "GITLAB",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gitlab.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gitlab.com",
+    "source": {
+      "list": "GITLAB",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gitlab.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gitlab.io",
+    "source": {
+      "list": "GITLAB",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gitlab.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gitlab.net",
+    "source": {
+      "list": "GITLAB",
+      "line": 3
+    }
+  },
+  {
+    "type": "full",
+    "value": "gitlab-assets.oss-cn-hongkong.aliyuncs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:gitlab-assets.oss-cn-hongkong.aliyuncs.com",
+    "source": {
+      "list": "GITLAB",
+      "line": 6
+    }
+  }
+]

@@ -1,0 +1,1341 @@
+[
+  {
+    "type": "domain",
+    "value": "academynetriders.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:academynetriders.com",
+    "source": {
+      "list": "CISCO",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "app-dynamics.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:app-dynamics.com",
+    "source": {
+      "list": "CISCO",
+      "line": 94
+    }
+  },
+  {
+    "type": "domain",
+    "value": "appdynamics.co.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:appdynamics.co.uk",
+    "source": {
+      "list": "CISCO",
+      "line": 95
+    }
+  },
+  {
+    "type": "domain",
+    "value": "appdynamics.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:appdynamics.com",
+    "source": {
+      "list": "CISCO",
+      "line": 96
+    }
+  },
+  {
+    "type": "domain",
+    "value": "appdynamics.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:appdynamics.de",
+    "source": {
+      "list": "CISCO",
+      "line": 97
+    }
+  },
+  {
+    "type": "domain",
+    "value": "appdynamics.fr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:appdynamics.fr",
+    "source": {
+      "list": "CISCO",
+      "line": 98
+    }
+  },
+  {
+    "type": "domain",
+    "value": "appdynamics.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:appdynamics.info",
+    "source": {
+      "list": "CISCO",
+      "line": 99
+    }
+  },
+  {
+    "type": "domain",
+    "value": "appdynamics.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:appdynamics.jp",
+    "source": {
+      "list": "CISCO",
+      "line": 100
+    }
+  },
+  {
+    "type": "domain",
+    "value": "appdynamics.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:appdynamics.org",
+    "source": {
+      "list": "CISCO",
+      "line": 101
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cciernslabs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cciernslabs.com",
+    "source": {
+      "list": "CISCO",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cciesecuritylabs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cciesecuritylabs.com",
+    "source": {
+      "list": "CISCO",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ccievoicelabs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ccievoicelabs.com",
+    "source": {
+      "list": "CISCO",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ccna5.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ccna5.net",
+    "source": {
+      "list": "CISCO",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cisco",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cisco",
+    "source": {
+      "list": "CISCO",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cisco-returns.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cisco-returns.com",
+    "source": {
+      "list": "CISCO",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cisco-warrantyfinder.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cisco-warrantyfinder.com",
+    "source": {
+      "list": "CISCO",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cisco.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:cisco.cn:@cn",
+    "source": {
+      "list": "CISCO",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cisco.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cisco.com",
+    "source": {
+      "list": "CISCO",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cisco.com.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:cisco.com.cn:@cn",
+    "source": {
+      "list": "CISCO",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cisco.mobi",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cisco.mobi",
+    "source": {
+      "list": "CISCO",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ciscoccservice.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ciscoccservice.com",
+    "source": {
+      "list": "CISCO",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ciscoconnectcloud.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ciscoconnectcloud.com",
+    "source": {
+      "list": "CISCO",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ciscoconnectcloud.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ciscoconnectcloud.net",
+    "source": {
+      "list": "CISCO",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ciscoconnectcloud.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ciscoconnectcloud.org",
+    "source": {
+      "list": "CISCO",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ciscocontest.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ciscocontest.com",
+    "source": {
+      "list": "CISCO",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ciscoerate.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ciscoerate.com",
+    "source": {
+      "list": "CISCO",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ciscofax.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ciscofax.com",
+    "source": {
+      "list": "CISCO",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ciscoinvestments.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ciscoinvestments.com",
+    "source": {
+      "list": "CISCO",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ciscojabbervideo.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ciscojabbervideo.net",
+    "source": {
+      "list": "CISCO",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ciscokinetic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ciscokinetic.com",
+    "source": {
+      "list": "CISCO",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ciscoknowledgenetwork.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ciscoknowledgenetwork.com",
+    "source": {
+      "list": "CISCO",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ciscolearningsociety.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ciscolearningsociety.org",
+    "source": {
+      "list": "CISCO",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ciscolearningsystem.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ciscolearningsystem.com",
+    "source": {
+      "list": "CISCO",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ciscolive.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ciscolive.com",
+    "source": {
+      "list": "CISCO",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cisconetapp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cisconetapp.com",
+    "source": {
+      "list": "CISCO",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cisconetspace.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cisconetspace.com",
+    "source": {
+      "list": "CISCO",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cisconetspace.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cisconetspace.info",
+    "source": {
+      "list": "CISCO",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cisconetspace.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cisconetspace.net",
+    "source": {
+      "list": "CISCO",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ciscopartnermarketing.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ciscopartnermarketing.com",
+    "source": {
+      "list": "CISCO",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ciscopowercube.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ciscopowercube.com",
+    "source": {
+      "list": "CISCO",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ciscoprice.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ciscoprice.com",
+    "source": {
+      "list": "CISCO",
+      "line": 37
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ciscoresearch.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ciscoresearch.com",
+    "source": {
+      "list": "CISCO",
+      "line": 38
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ciscosoftware.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ciscosoftware.com",
+    "source": {
+      "list": "CISCO",
+      "line": 39
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ciscospark.ca",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ciscospark.ca",
+    "source": {
+      "list": "CISCO",
+      "line": 40
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ciscospark.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ciscospark.com",
+    "source": {
+      "list": "CISCO",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ciscospark.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ciscospark.jp",
+    "source": {
+      "list": "CISCO",
+      "line": 42
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ciscotaccc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ciscotaccc.com",
+    "source": {
+      "list": "CISCO",
+      "line": 43
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ciscotr.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ciscotr.com",
+    "source": {
+      "list": "CISCO",
+      "line": 44
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ciscoturk.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ciscoturk.net",
+    "source": {
+      "list": "CISCO",
+      "line": 45
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ciscovideo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ciscovideo.com",
+    "source": {
+      "list": "CISCO",
+      "line": 46
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ciscowebseminars.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ciscowebseminars.com",
+    "source": {
+      "list": "CISCO",
+      "line": 47
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudlock.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudlock.com",
+    "source": {
+      "list": "CISCO",
+      "line": 48
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloupia.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloupia.com",
+    "source": {
+      "list": "CISCO",
+      "line": 49
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloupia.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloupia.net",
+    "source": {
+      "list": "CISCO",
+      "line": 50
+    }
+  },
+  {
+    "type": "domain",
+    "value": "connect-in-canada.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:connect-in-canada.com",
+    "source": {
+      "list": "CISCO",
+      "line": 51
+    }
+  },
+  {
+    "type": "domain",
+    "value": "coreoptics.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:coreoptics.net",
+    "source": {
+      "list": "CISCO",
+      "line": 52
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cs.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cs.co",
+    "source": {
+      "list": "CISCO",
+      "line": 53
+    }
+  },
+  {
+    "type": "domain",
+    "value": "devm2m.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:devm2m.com",
+    "source": {
+      "list": "CISCO",
+      "line": 54
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dnaspaces.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dnaspaces.io",
+    "source": {
+      "list": "CISCO",
+      "line": 55
+    }
+  },
+  {
+    "type": "domain",
+    "value": "flipshare.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:flipshare.com",
+    "source": {
+      "list": "CISCO",
+      "line": 56
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gpstheseries.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gpstheseries.com",
+    "source": {
+      "list": "CISCO",
+      "line": 57
+    }
+  },
+  {
+    "type": "domain",
+    "value": "inlethd.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:inlethd.com",
+    "source": {
+      "list": "CISCO",
+      "line": 58
+    }
+  },
+  {
+    "type": "domain",
+    "value": "internetofeverything.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:internetofeverything.com",
+    "source": {
+      "list": "CISCO",
+      "line": 59
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ioe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ioe.com",
+    "source": {
+      "list": "CISCO",
+      "line": 60
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kscisco.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kscisco.com",
+    "source": {
+      "list": "CISCO",
+      "line": 61
+    }
+  },
+  {
+    "type": "domain",
+    "value": "m2m.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:m2m.com",
+    "source": {
+      "list": "CISCO",
+      "line": 62
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mcisco.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mcisco.com",
+    "source": {
+      "list": "CISCO",
+      "line": 63
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mearki.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mearki.com",
+    "source": {
+      "list": "CISCO",
+      "line": 104
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mediafiles-cisco.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mediafiles-cisco.com",
+    "source": {
+      "list": "CISCO",
+      "line": 64
+    }
+  },
+  {
+    "type": "domain",
+    "value": "meraki-go.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:meraki-go.com",
+    "source": {
+      "list": "CISCO",
+      "line": 105
+    }
+  },
+  {
+    "type": "domain",
+    "value": "meraki.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:meraki.hk",
+    "source": {
+      "list": "CISCO",
+      "line": 106
+    }
+  },
+  {
+    "type": "domain",
+    "value": "merakigo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:merakigo.com",
+    "source": {
+      "list": "CISCO",
+      "line": 107
+    }
+  },
+  {
+    "type": "domain",
+    "value": "metacloud.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:metacloud.com",
+    "source": {
+      "list": "CISCO",
+      "line": 65
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mindmeld.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mindmeld.com",
+    "source": {
+      "list": "CISCO",
+      "line": 66
+    }
+  },
+  {
+    "type": "domain",
+    "value": "multiplydiversity.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:multiplydiversity.com",
+    "source": {
+      "list": "CISCO",
+      "line": 67
+    }
+  },
+  {
+    "type": "domain",
+    "value": "myciscobenefits.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:myciscobenefits.com",
+    "source": {
+      "list": "CISCO",
+      "line": 68
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mysdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mysdn.com",
+    "source": {
+      "list": "CISCO",
+      "line": 69
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mysdn.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mysdn.info",
+    "source": {
+      "list": "CISCO",
+      "line": 70
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mysdn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mysdn.net",
+    "source": {
+      "list": "CISCO",
+      "line": 71
+    }
+  },
+  {
+    "type": "domain",
+    "value": "netacad.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:netacad.com",
+    "source": {
+      "list": "CISCO",
+      "line": 72
+    }
+  },
+  {
+    "type": "domain",
+    "value": "netacad.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:netacad.net",
+    "source": {
+      "list": "CISCO",
+      "line": 73
+    }
+  },
+  {
+    "type": "domain",
+    "value": "network-auth.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:network-auth.cn:@cn",
+    "source": {
+      "list": "CISCO",
+      "line": 74
+    }
+  },
+  {
+    "type": "domain",
+    "value": "observable.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:observable.net",
+    "source": {
+      "list": "CISCO",
+      "line": 75
+    }
+  },
+  {
+    "type": "domain",
+    "value": "obsrvbl.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:obsrvbl.com",
+    "source": {
+      "list": "CISCO",
+      "line": 76
+    }
+  },
+  {
+    "type": "domain",
+    "value": "opendns.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:opendns.com",
+    "source": {
+      "list": "CISCO",
+      "line": 118
+    }
+  },
+  {
+    "type": "domain",
+    "value": "parstream.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:parstream.com",
+    "source": {
+      "list": "CISCO",
+      "line": 77
+    }
+  },
+  {
+    "type": "domain",
+    "value": "parstream.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:parstream.net",
+    "source": {
+      "list": "CISCO",
+      "line": 78
+    }
+  },
+  {
+    "type": "domain",
+    "value": "parstream.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:parstream.org",
+    "source": {
+      "list": "CISCO",
+      "line": 79
+    }
+  },
+  {
+    "type": "domain",
+    "value": "services-exchange.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:services-exchange.com",
+    "source": {
+      "list": "CISCO",
+      "line": 80
+    }
+  },
+  {
+    "type": "domain",
+    "value": "splunk.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:splunk.com",
+    "source": {
+      "list": "CISCO",
+      "line": 81
+    }
+  },
+  {
+    "type": "domain",
+    "value": "static-cisco.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:static-cisco.com",
+    "source": {
+      "list": "CISCO",
+      "line": 82
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tail-f.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tail-f.com",
+    "source": {
+      "list": "CISCO",
+      "line": 110
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tailf.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tailf.com",
+    "source": {
+      "list": "CISCO",
+      "line": 111
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tandberg-china.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tandberg-china.com",
+    "source": {
+      "list": "CISCO",
+      "line": 83
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tandberg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tandberg.com",
+    "source": {
+      "list": "CISCO",
+      "line": 84
+    }
+  },
+  {
+    "type": "domain",
+    "value": "umbrella.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:umbrella.com",
+    "source": {
+      "list": "CISCO",
+      "line": 117
+    }
+  },
+  {
+    "type": "domain",
+    "value": "versly.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:versly.com",
+    "source": {
+      "list": "CISCO",
+      "line": 85
+    }
+  },
+  {
+    "type": "domain",
+    "value": "videochampion.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:videochampion.com",
+    "source": {
+      "list": "CISCO",
+      "line": 86
+    }
+  },
+  {
+    "type": "domain",
+    "value": "virtuata.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:virtuata.com",
+    "source": {
+      "list": "CISCO",
+      "line": 87
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wballiance.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wballiance.com",
+    "source": {
+      "list": "CISCO",
+      "line": 88
+    }
+  },
+  {
+    "type": "domain",
+    "value": "webex.ca",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:webex.ca",
+    "source": {
+      "list": "WEBEX",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "webex.co.in",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:webex.co.in",
+    "source": {
+      "list": "WEBEX",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "webex.co.it",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:webex.co.it",
+    "source": {
+      "list": "WEBEX",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "webex.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:webex.co.jp",
+    "source": {
+      "list": "WEBEX",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "webex.co.kr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:webex.co.kr",
+    "source": {
+      "list": "WEBEX",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "webex.co.nz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:webex.co.nz",
+    "source": {
+      "list": "WEBEX",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "webex.co.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:webex.co.uk",
+    "source": {
+      "list": "WEBEX",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "webex.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:webex.com",
+    "source": {
+      "list": "WEBEX",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "webex.com.au",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:webex.com.au",
+    "source": {
+      "list": "WEBEX",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "webex.com.br",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:webex.com.br",
+    "source": {
+      "list": "WEBEX",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "webex.com.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:webex.com.cn:@cn",
+    "source": {
+      "list": "WEBEX",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "webex.com.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:webex.com.hk",
+    "source": {
+      "list": "WEBEX",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "webex.com.mx",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:webex.com.mx",
+    "source": {
+      "list": "WEBEX",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "webex.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:webex.de",
+    "source": {
+      "list": "WEBEX",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "webex.es",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:webex.es",
+    "source": {
+      "list": "WEBEX",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "webex.fr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:webex.fr",
+    "source": {
+      "list": "WEBEX",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "whyiwantciscotelepresence.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:whyiwantciscotelepresence.com",
+    "source": {
+      "list": "CISCO",
+      "line": 89
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wifi-mx.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wifi-mx.com",
+    "source": {
+      "list": "CISCO",
+      "line": 90
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youtubecisco.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youtubecisco.com",
+    "source": {
+      "list": "CISCO",
+      "line": 91
+    }
+  },
+  {
+    "type": "full",
+    "value": "cisco.evergage.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cisco.evergage.com",
+    "source": {
+      "list": "CISCO",
+      "line": 113
+    }
+  },
+  {
+    "type": "full",
+    "value": "ciscolivehls-i.akamaihd.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:ciscolivehls-i.akamaihd.net",
+    "source": {
+      "list": "CISCO",
+      "line": 114
+    }
+  }
+]

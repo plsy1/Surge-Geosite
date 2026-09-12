@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "c4slive.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:c4slive.com",
+    "source": {
+      "list": "CLIPS4SALE",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "clips4sale.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:clips4sale.com",
+    "source": {
+      "list": "CLIPS4SALE",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "videos4sale.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:videos4sale.com",
+    "source": {
+      "list": "CLIPS4SALE",
+      "line": 3
+    }
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "type": "domain",
+    "value": "gen.lib.rus.ec",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gen.lib.rus.ec",
+    "source": {
+      "list": "LIBGEN",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "libgen.fun",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:libgen.fun",
+    "source": {
+      "list": "LIBGEN",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "libgen.is",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:libgen.is",
+    "source": {
+      "list": "LIBGEN",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "libgen.life",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:libgen.life",
+    "source": {
+      "list": "LIBGEN",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "libgen.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:libgen.me",
+    "source": {
+      "list": "LIBGEN",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "libgen.rs",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:libgen.rs",
+    "source": {
+      "list": "LIBGEN",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "libgen.st",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:libgen.st",
+    "source": {
+      "list": "LIBGEN",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "library.lol",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:library.lol",
+    "source": {
+      "list": "LIBGEN",
+      "line": 6
+    }
+  }
+]

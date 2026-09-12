@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "illgames.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:illgames.jp",
+    "source": {
+      "list": "ILLGAMES",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "japan-illgames.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:japan-illgames.com",
+    "source": {
+      "list": "ILLGAMES",
+      "line": 3
+    }
+  }
+]

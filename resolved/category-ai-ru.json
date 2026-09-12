@@ -1,0 +1,134 @@
+[
+  {
+    "type": "domain",
+    "value": "aiesa.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aiesa.ru",
+    "source": {
+      "list": "CATEGORY-AI-RU",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "alice.yandex.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:alice.yandex.net",
+    "source": {
+      "list": "CATEGORY-AI-RU",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "alice.yandex.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:alice.yandex.ru",
+    "source": {
+      "list": "CATEGORY-AI-RU",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "alicepro.yandex.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:alicepro.yandex.ru",
+    "source": {
+      "list": "CATEGORY-AI-RU",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "copymonkey.app",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:copymonkey.app",
+    "source": {
+      "list": "CATEGORY-AI-RU",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gerwin.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gerwin.io",
+    "source": {
+      "list": "CATEGORY-AI-RU",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "giga.chat",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:giga.chat",
+    "source": {
+      "list": "CATEGORY-AI-RU",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gptunnel.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gptunnel.ru",
+    "source": {
+      "list": "CATEGORY-AI-RU",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "polza.ai",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:polza.ai",
+    "source": {
+      "list": "CATEGORY-AI-RU",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "robotext.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:robotext.io",
+    "source": {
+      "list": "CATEGORY-AI-RU",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rugpt.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rugpt.io",
+    "source": {
+      "list": "CATEGORY-AI-RU",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tokenator.top",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tokenator.top",
+    "source": {
+      "list": "CATEGORY-AI-RU",
+      "line": 31
+    }
+  }
+]

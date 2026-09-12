@@ -1,0 +1,68 @@
+[
+  {
+    "type": "domain",
+    "value": "bilibiligame.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bilibiligame.cn",
+    "source": {
+      "list": "BILIBILI-GAME",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bilibiligame.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bilibiligame.co",
+    "source": {
+      "list": "BILIBILI-GAME",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bilibiligame.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bilibiligame.net",
+    "source": {
+      "list": "BILIBILI-GAME",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "biligame.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:biligame.co",
+    "source": {
+      "list": "BILIBILI-GAME",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "biligame.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:biligame.com",
+    "source": {
+      "list": "BILIBILI-GAME",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "biligame.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:biligame.net",
+    "source": {
+      "list": "BILIBILI-GAME",
+      "line": 6
+    }
+  }
+]

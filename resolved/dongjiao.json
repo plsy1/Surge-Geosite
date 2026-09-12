@@ -1,0 +1,46 @@
+[
+  {
+    "type": "domain",
+    "value": "anmo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:anmo.com",
+    "source": {
+      "list": "DONGJIAO",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "djdjapp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:djdjapp.com",
+    "source": {
+      "list": "DONGJIAO",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dongjiao.cc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dongjiao.cc",
+    "source": {
+      "list": "DONGJIAO",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dongjiaoapp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dongjiaoapp.com",
+    "source": {
+      "list": "DONGJIAO",
+      "line": 4
+    }
+  }
+]

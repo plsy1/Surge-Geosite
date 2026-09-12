@@ -1,0 +1,46 @@
+[
+  {
+    "type": "domain",
+    "value": "ic.ac.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ic.ac.uk",
+    "source": {
+      "list": "IMPERIALCOLLEGE",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "imperial.ac.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:imperial.ac.uk",
+    "source": {
+      "list": "IMPERIALCOLLEGE",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "imperialbusiness.school",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:imperialbusiness.school",
+    "source": {
+      "list": "IMPERIALCOLLEGE",
+      "line": 3
+    }
+  },
+  {
+    "type": "full",
+    "value": "imperial.insendi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:imperial.insendi.com",
+    "source": {
+      "list": "IMPERIALCOLLEGE",
+      "line": 5
+    }
+  }
+]

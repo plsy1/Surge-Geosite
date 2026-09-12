@@ -1,0 +1,68 @@
+[
+  {
+    "type": "domain",
+    "value": "91q.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:91q.com",
+    "source": {
+      "list": "TAIHE",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dmhmusic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dmhmusic.com",
+    "source": {
+      "list": "TAIHE",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "showstart.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:showstart.com",
+    "source": {
+      "list": "TAIHE",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "taihe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:taihe.com",
+    "source": {
+      "list": "TAIHE",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "taihemusic.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:taihemusic.cn",
+    "source": {
+      "list": "TAIHE",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "th-music.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:th-music.com",
+    "source": {
+      "list": "TAIHE",
+      "line": 7
+    }
+  }
+]

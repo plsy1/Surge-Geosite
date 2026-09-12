@@ -1,0 +1,59 @@
+{
+  "name": "CATEGORY-CAS",
+  "source": {
+    "domain": 16,
+    "full": 0,
+    "keyword": 0,
+    "regexp": 0,
+    "include": 27,
+    "affiliations": 0,
+    "attributes": 0
+  },
+  "resolved": {
+    "rules": 257,
+    "domain": 230,
+    "full": 27,
+    "keyword": 0,
+    "regexp": 0
+  },
+  "filters": {
+    "attrs": {
+      "cn": 31
+    }
+  },
+  "modes": {
+    "strict": {
+      "rules": 257,
+      "bytes": 7836,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "balanced": {
+      "rules": 257,
+      "bytes": 7836,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "full": {
+      "rules": 257,
+      "bytes": 7836,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    }
+  }
+}

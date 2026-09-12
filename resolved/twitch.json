@@ -1,0 +1,376 @@
+[
+  {
+    "type": "domain",
+    "value": "ext-twitch.tv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ext-twitch.tv",
+    "source": {
+      "list": "TWITCH",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jtvnw.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jtvnw.net",
+    "source": {
+      "list": "TWITCH",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "live-video.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:live-video.net",
+    "source": {
+      "list": "TWITCH",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ttvnw.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ttvnw.net",
+    "source": {
+      "list": "TWITCH",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "twitch.tv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:twitch.tv",
+    "source": {
+      "list": "TWITCH",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "twitchcdn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:twitchcdn.net",
+    "source": {
+      "list": "TWITCH",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "twitchcon.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:twitchcon.com",
+    "source": {
+      "list": "TWITCH",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "twitchsvc.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:twitchsvc.net",
+    "source": {
+      "list": "TWITCH",
+      "line": 8
+    }
+  },
+  {
+    "type": "full",
+    "value": "d1g1f25tn8m2e6.cloudfront.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:d1g1f25tn8m2e6.cloudfront.net",
+    "source": {
+      "list": "TWITCH",
+      "line": 10
+    }
+  },
+  {
+    "type": "full",
+    "value": "d1m7jfoe9zdc1j.cloudfront.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:d1m7jfoe9zdc1j.cloudfront.net",
+    "source": {
+      "list": "TWITCH",
+      "line": 11
+    }
+  },
+  {
+    "type": "full",
+    "value": "d1mhjrowxxagfy.cloudfront.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:d1mhjrowxxagfy.cloudfront.net",
+    "source": {
+      "list": "TWITCH",
+      "line": 12
+    }
+  },
+  {
+    "type": "full",
+    "value": "d1ndex63qxojbr.cloudfront.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:d1ndex63qxojbr.cloudfront.net",
+    "source": {
+      "list": "TWITCH",
+      "line": 13
+    }
+  },
+  {
+    "type": "full",
+    "value": "d1oca24q5dwo6d.cloudfront.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:d1oca24q5dwo6d.cloudfront.net",
+    "source": {
+      "list": "TWITCH",
+      "line": 14
+    }
+  },
+  {
+    "type": "full",
+    "value": "d1w2poirtb3as9.cloudfront.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:d1w2poirtb3as9.cloudfront.net",
+    "source": {
+      "list": "TWITCH",
+      "line": 15
+    }
+  },
+  {
+    "type": "full",
+    "value": "d1xhnb4ptk05mw.cloudfront.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:d1xhnb4ptk05mw.cloudfront.net",
+    "source": {
+      "list": "TWITCH",
+      "line": 16
+    }
+  },
+  {
+    "type": "full",
+    "value": "d1ymi26ma8va5x.cloudfront.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:d1ymi26ma8va5x.cloudfront.net",
+    "source": {
+      "list": "TWITCH",
+      "line": 17
+    }
+  },
+  {
+    "type": "full",
+    "value": "d2aba1wr3818hz.cloudfront.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:d2aba1wr3818hz.cloudfront.net",
+    "source": {
+      "list": "TWITCH",
+      "line": 18
+    }
+  },
+  {
+    "type": "full",
+    "value": "d2dylwb3shzel1.cloudfront.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:d2dylwb3shzel1.cloudfront.net",
+    "source": {
+      "list": "TWITCH",
+      "line": 19
+    }
+  },
+  {
+    "type": "full",
+    "value": "d2e2de1etea730.cloudfront.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:d2e2de1etea730.cloudfront.net",
+    "source": {
+      "list": "TWITCH",
+      "line": 20
+    }
+  },
+  {
+    "type": "full",
+    "value": "d2nvs31859zcd8.cloudfront.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:d2nvs31859zcd8.cloudfront.net",
+    "source": {
+      "list": "TWITCH",
+      "line": 21
+    }
+  },
+  {
+    "type": "full",
+    "value": "d2um2qdswy1tb0.cloudfront.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:d2um2qdswy1tb0.cloudfront.net",
+    "source": {
+      "list": "TWITCH",
+      "line": 22
+    }
+  },
+  {
+    "type": "full",
+    "value": "d2vjef5jvl6bfs.cloudfront.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:d2vjef5jvl6bfs.cloudfront.net",
+    "source": {
+      "list": "TWITCH",
+      "line": 23
+    }
+  },
+  {
+    "type": "full",
+    "value": "d2xmjdvx03ij56.cloudfront.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:d2xmjdvx03ij56.cloudfront.net",
+    "source": {
+      "list": "TWITCH",
+      "line": 24
+    }
+  },
+  {
+    "type": "full",
+    "value": "d36nr0u3xmc4mm.cloudfront.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:d36nr0u3xmc4mm.cloudfront.net",
+    "source": {
+      "list": "TWITCH",
+      "line": 25
+    }
+  },
+  {
+    "type": "full",
+    "value": "d3aqoihi2n8ty8.cloudfront.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:d3aqoihi2n8ty8.cloudfront.net",
+    "source": {
+      "list": "TWITCH",
+      "line": 26
+    }
+  },
+  {
+    "type": "full",
+    "value": "d3c27h4odz752x.cloudfront.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:d3c27h4odz752x.cloudfront.net",
+    "source": {
+      "list": "TWITCH",
+      "line": 27
+    }
+  },
+  {
+    "type": "full",
+    "value": "d3vd9lfkzbru3h.cloudfront.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:d3vd9lfkzbru3h.cloudfront.net",
+    "source": {
+      "list": "TWITCH",
+      "line": 28
+    }
+  },
+  {
+    "type": "full",
+    "value": "d6d4ismr40iw.cloudfront.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:d6d4ismr40iw.cloudfront.net",
+    "source": {
+      "list": "TWITCH",
+      "line": 29
+    }
+  },
+  {
+    "type": "full",
+    "value": "d6tizftlrpuof.cloudfront.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:d6tizftlrpuof.cloudfront.net",
+    "source": {
+      "list": "TWITCH",
+      "line": 30
+    }
+  },
+  {
+    "type": "full",
+    "value": "ddacn6pr5v0tl.cloudfront.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:ddacn6pr5v0tl.cloudfront.net",
+    "source": {
+      "list": "TWITCH",
+      "line": 31
+    }
+  },
+  {
+    "type": "full",
+    "value": "dgeft87wbj63p.cloudfront.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:dgeft87wbj63p.cloudfront.net",
+    "source": {
+      "list": "TWITCH",
+      "line": 32
+    }
+  },
+  {
+    "type": "full",
+    "value": "dqrpb9wgowsf5.cloudfront.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:dqrpb9wgowsf5.cloudfront.net",
+    "source": {
+      "list": "TWITCH",
+      "line": 33
+    }
+  },
+  {
+    "type": "full",
+    "value": "ds0h3roq6wcgc.cloudfront.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:ds0h3roq6wcgc.cloudfront.net",
+    "source": {
+      "list": "TWITCH",
+      "line": 34
+    }
+  },
+  {
+    "type": "full",
+    "value": "dykkng5hnh52u.cloudfront.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:dykkng5hnh52u.cloudfront.net",
+    "source": {
+      "list": "TWITCH",
+      "line": 35
+    }
+  }
+]

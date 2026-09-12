@@ -1,0 +1,67 @@
+{
+  "name": "CATEGORY-NUMBER-VERIFICATION-CN",
+  "source": {
+    "domain": 1,
+    "full": 5,
+    "keyword": 0,
+    "regexp": 1,
+    "include": 0,
+    "affiliations": 0,
+    "attributes": 0
+  },
+  "resolved": {
+    "rules": 7,
+    "domain": 1,
+    "full": 5,
+    "keyword": 0,
+    "regexp": 1
+  },
+  "filters": {
+    "attrs": {}
+  },
+  "modes": {
+    "strict": {
+      "rules": 6,
+      "bytes": 136,
+      "regex": {
+        "total": 1,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 1
+      },
+      "unsupported": [
+        {
+          "pattern": "^nis.+\\.10010\\.com$",
+          "source": {
+            "list": "CATEGORY-NUMBER-VERIFICATION-CN",
+            "line": 15
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        }
+      ]
+    },
+    "balanced": {
+      "rules": 7,
+      "bytes": 168,
+      "regex": {
+        "total": 1,
+        "lossless": 0,
+        "widened": 1,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "full": {
+      "rules": 7,
+      "bytes": 168,
+      "regex": {
+        "total": 1,
+        "lossless": 0,
+        "widened": 1,
+        "unsupported": 0
+      },
+      "unsupported": []
+    }
+  }
+}

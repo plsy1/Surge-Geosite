@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "nypost.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nypost.com",
+    "source": {
+      "list": "NYPOST",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nypost.help",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nypost.help",
+    "source": {
+      "list": "NYPOST",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nypostreprints.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nypostreprints.com",
+    "source": {
+      "list": "NYPOST",
+      "line": 3
+    }
+  }
+]

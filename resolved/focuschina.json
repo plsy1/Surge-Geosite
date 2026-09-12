@@ -1,0 +1,57 @@
+[
+  {
+    "type": "domain",
+    "value": "focuschina.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:focuschina.com",
+    "source": {
+      "list": "FOCUSCHINA",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "made-in-china.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:made-in-china.com",
+    "source": {
+      "list": "FOCUSCHINA",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "micstatic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:micstatic.com",
+    "source": {
+      "list": "FOCUSCHINA",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "trademessenger.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:trademessenger.com",
+    "source": {
+      "list": "FOCUSCHINA",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vemic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vemic.com",
+    "source": {
+      "list": "FOCUSCHINA",
+      "line": 8
+    }
+  }
+]

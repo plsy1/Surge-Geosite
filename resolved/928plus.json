@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "928.plus",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:928.plus",
+    "source": {
+      "list": "928PLUS",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zind.cloud",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zind.cloud",
+    "source": {
+      "list": "928PLUS",
+      "line": 2
+    }
+  }
+]

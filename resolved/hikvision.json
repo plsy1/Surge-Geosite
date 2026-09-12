@@ -1,0 +1,90 @@
+[
+  {
+    "type": "domain",
+    "value": "eziot.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:eziot.com",
+    "source": {
+      "list": "HIKVISION",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ezviz.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ezviz.com",
+    "source": {
+      "list": "HIKVISION",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hik-cloud.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hik-cloud.com",
+    "source": {
+      "list": "HIKVISION",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hik-express.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hik-express.com",
+    "source": {
+      "list": "HIKVISION",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hikiot.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hikiot.com",
+    "source": {
+      "list": "HIKVISION",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hikmall.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hikmall.com",
+    "source": {
+      "list": "HIKVISION",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hikvision.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hikvision.com",
+    "source": {
+      "list": "HIKVISION",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ys7.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ys7.com",
+    "source": {
+      "list": "HIKVISION",
+      "line": 11
+    }
+  }
+]

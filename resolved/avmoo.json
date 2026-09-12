@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "avmoo.click",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:avmoo.click",
+    "source": {
+      "list": "AVMOO",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "avmoo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:avmoo.com",
+    "source": {
+      "list": "AVMOO",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tellme.pw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tellme.pw",
+    "source": {
+      "list": "AVMOO",
+      "line": 3
+    }
+  }
+]

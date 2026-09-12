@@ -1,0 +1,404 @@
+[
+  {
+    "type": "domain",
+    "value": "loveminiso.com.br",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:loveminiso.com.br",
+    "source": {
+      "list": "MINISO",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "miniso-au.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:miniso-au.com",
+    "source": {
+      "list": "MINISO",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "miniso-bh.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:miniso-bh.com",
+    "source": {
+      "list": "MINISO",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "miniso-np.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:miniso-np.com",
+    "source": {
+      "list": "MINISO",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "miniso-nz.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:miniso-nz.com",
+    "source": {
+      "list": "MINISO",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "miniso.by",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:miniso.by",
+    "source": {
+      "list": "MINISO",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "miniso.ca",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:miniso.ca",
+    "source": {
+      "list": "MINISO",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "miniso.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:miniso.cn:@cn",
+    "source": {
+      "list": "MINISO",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "miniso.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:miniso.co",
+    "source": {
+      "list": "MINISO",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "miniso.co.id",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:miniso.co.id",
+    "source": {
+      "list": "MINISO",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "miniso.co.tz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:miniso.co.tz",
+    "source": {
+      "list": "MINISO",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "miniso.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:miniso.com",
+    "source": {
+      "list": "MINISO",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "miniso.com.es",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:miniso.com.es",
+    "source": {
+      "list": "MINISO",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "miniso.com.gr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:miniso.com.gr",
+    "source": {
+      "list": "MINISO",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "miniso.com.mx",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:miniso.com.mx",
+    "source": {
+      "list": "MINISO",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "miniso.com.pl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:miniso.com.pl",
+    "source": {
+      "list": "MINISO",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "miniso.com.py",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:miniso.com.py",
+    "source": {
+      "list": "MINISO",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "miniso.com.tr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:miniso.com.tr",
+    "source": {
+      "list": "MINISO",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "miniso.ge",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:miniso.ge",
+    "source": {
+      "list": "MINISO",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "miniso.ie",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:miniso.ie",
+    "source": {
+      "list": "MINISO",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "miniso.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:miniso.jp",
+    "source": {
+      "list": "MINISO",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "miniso.ma",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:miniso.ma",
+    "source": {
+      "list": "MINISO",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "miniso.my",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:miniso.my",
+    "source": {
+      "list": "MINISO",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "miniso.pe",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:miniso.pe",
+    "source": {
+      "list": "MINISO",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "miniso.pk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:miniso.pk",
+    "source": {
+      "list": "MINISO",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "miniso.ua",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:miniso.ua",
+    "source": {
+      "list": "MINISO",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "miniso.uz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:miniso.uz",
+    "source": {
+      "list": "MINISO",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "minisohome.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:minisohome.cn:@cn",
+    "source": {
+      "list": "MINISO",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "minisoindia.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:minisoindia.com",
+    "source": {
+      "list": "MINISO",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "minisojordan.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:minisojordan.com",
+    "source": {
+      "list": "MINISO",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "minisokorea.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:minisokorea.com",
+    "source": {
+      "list": "MINISO",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "minisolife.co.za",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:minisolife.co.za",
+    "source": {
+      "list": "MINISO",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "minisothailand.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:minisothailand.com",
+    "source": {
+      "list": "MINISO",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "minisovietam.vn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:minisovietam.vn",
+    "source": {
+      "list": "MINISO",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "minsio.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:minsio.cn:@cn",
+    "source": {
+      "list": "MINISO",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "myminiso.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:myminiso.com",
+    "source": {
+      "list": "MINISO",
+      "line": 36
+    }
+  }
+]

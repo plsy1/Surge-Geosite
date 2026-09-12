@@ -1,0 +1,68 @@
+[
+  {
+    "type": "domain",
+    "value": "h-chan.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:h-chan.me",
+    "source": {
+      "list": "HENTAICHEN",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hentai-chan.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hentai-chan.com",
+    "source": {
+      "list": "HENTAICHEN",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hentai-chan.live",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hentai-chan.live",
+    "source": {
+      "list": "HENTAICHEN",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hentaichan.live",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hentaichan.live",
+    "source": {
+      "list": "HENTAICHEN",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hentaichan.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hentaichan.me",
+    "source": {
+      "list": "HENTAICHEN",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "imgschan.xyz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:imgschan.xyz",
+    "source": {
+      "list": "HENTAICHEN",
+      "line": 6
+    }
+  }
+]

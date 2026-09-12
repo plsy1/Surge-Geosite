@@ -1,0 +1,68 @@
+[
+  {
+    "type": "domain",
+    "value": "doure.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:doure.net",
+    "source": {
+      "list": "YUNLAOPO",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kuaipa.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kuaipa.net",
+    "source": {
+      "list": "YUNLAOPO",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "miaopa.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:miaopa.net",
+    "source": {
+      "list": "YUNLAOPO",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yunlaopo.cc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yunlaopo.cc",
+    "source": {
+      "list": "YUNLAOPO",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yunlaopo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yunlaopo.com",
+    "source": {
+      "list": "YUNLAOPO",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yunlaopo.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yunlaopo.net",
+    "source": {
+      "list": "YUNLAOPO",
+      "line": 6
+    }
+  }
+]

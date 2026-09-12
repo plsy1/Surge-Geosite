@@ -1,0 +1,68 @@
+[
+  {
+    "type": "domain",
+    "value": "braventures.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:braventures.com",
+    "source": {
+      "list": "BRAVEUX",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "braveux.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:braveux.com",
+    "source": {
+      "list": "BRAVEUX",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "compass.is",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:compass.is",
+    "source": {
+      "list": "BRAVEUX",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fightforux.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fightforux.com",
+    "source": {
+      "list": "BRAVEUX",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "forthebadge.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:forthebadge.com",
+    "source": {
+      "list": "BRAVEUX",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "stockagainstphotography.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:stockagainstphotography.com",
+    "source": {
+      "list": "BRAVEUX",
+      "line": 14
+    }
+  }
+]

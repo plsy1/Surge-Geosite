@@ -1,0 +1,57 @@
+[
+  {
+    "type": "domain",
+    "value": "9game.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:9game.cn",
+    "source": {
+      "list": "ALIGAMES",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aligames.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aligames.com",
+    "source": {
+      "list": "ALIGAMES",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jiaoyimao.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jiaoyimao.cn",
+    "source": {
+      "list": "ALIGAMES",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jiaoyimao.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jiaoyimao.com",
+    "source": {
+      "list": "ALIGAMES",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lingxigames.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lingxigames.com",
+    "source": {
+      "list": "ALIGAMES",
+      "line": 5
+    }
+  }
+]

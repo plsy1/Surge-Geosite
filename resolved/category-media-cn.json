@@ -1,0 +1,4526 @@
+[
+  {
+    "type": "domain",
+    "value": "0033.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:0033.cn",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 205
+    }
+  },
+  {
+    "type": "domain",
+    "value": "10jqka.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:10jqka.com.cn",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 206
+    }
+  },
+  {
+    "type": "domain",
+    "value": "17173.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:17173.com",
+    "source": {
+      "list": "CHANGYOU",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "17173cdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:17173cdn.com",
+    "source": {
+      "list": "CHANGYOU",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "21jingji.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:21jingji.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "36dianping.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:36dianping.com",
+    "source": {
+      "list": "36KR",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "36kr.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:36kr.com",
+    "source": {
+      "list": "36KR",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "36krcdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:36krcdn.com",
+    "source": {
+      "list": "36KR",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "36krcnd.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:36krcnd.com",
+    "source": {
+      "list": "36KR",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "36linkr.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:36linkr.com",
+    "source": {
+      "list": "36KR",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "3conline.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:3conline.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 331
+    }
+  },
+  {
+    "type": "domain",
+    "value": "3elife.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:3elife.net",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "56.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:56.com",
+    "source": {
+      "list": "SOHU",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "56img.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:56img.com",
+    "source": {
+      "list": "SOHU",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "6655.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:6655.com",
+    "source": {
+      "list": "RUANMEI",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "71shi.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:71shi.net",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "72whys.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:72whys.com",
+    "source": {
+      "list": "TMTPOST",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "81.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:81.cn",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "8531.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:8531.cn",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 407
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ad.cctv.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:ad.cctv.com:@ads",
+    "source": {
+      "list": "CCTV",
+      "line": 46
+    }
+  },
+  {
+    "type": "domain",
+    "value": "admin5.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:admin5.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adnet.sohu.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:adnet.sohu.com:@ads",
+    "source": {
+      "list": "SOHU",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ads.sohu.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:ads.sohu.com:@ads",
+    "source": {
+      "list": "SOHU",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adv-sv-show.focus.cn",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:adv-sv-show.focus.cn:@ads",
+    "source": {
+      "list": "SOHU",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adv-sv-stat.focus.cn",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:adv-sv-stat.focus.cn:@ads",
+    "source": {
+      "list": "SOHU",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adx.36kr.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:adx.36kr.com:@ads",
+    "source": {
+      "list": "36KR",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ahcaijing.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ahcaijing.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ahcjw.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ahcjw.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ahwang.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ahwang.cn",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aiganggu.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aiganggu.com",
+    "source": {
+      "list": "XUEQIU",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "anhuinews.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:anhuinews.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "anhuiyun.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:anhuiyun.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "anzhuo.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:anzhuo.cn",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "assp.sohu.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:assp.sohu.com:@ads",
+    "source": {
+      "list": "SOHU",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bandao.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bandao.cn",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 38
+    }
+  },
+  {
+    "type": "domain",
+    "value": "banyuetan.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:banyuetan.org",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 40
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bbtnews.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bbtnews.com.cn",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 42
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bdu.focus.cn",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:bdu.focus.cn:@ads",
+    "source": {
+      "list": "SOHU",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bianews.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bianews.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 44
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bjd.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bjd.com.cn",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 46
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bjnews.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bjnews.com.cn",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 48
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bkeconomy.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bkeconomy.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 49
+    }
+  },
+  {
+    "type": "domain",
+    "value": "btime.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:btime.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 52
+    }
+  },
+  {
+    "type": "domain",
+    "value": "caijing.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:caijing.com.cn",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 54
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cailianpress.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cailianpress.com",
+    "source": {
+      "list": "JIEMIAN",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "caixin.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:caixin.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 56
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cankaoxiaoxi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cankaoxiaoxi.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 58
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cbinews.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cbinews.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 61
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ccidcom.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ccidcom.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 63
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ccreports.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ccreports.com.cn",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 65
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cctv.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cctv.cn",
+    "source": {
+      "list": "CCTV",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cctv.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cctv.com",
+    "source": {
+      "list": "CCTV",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cctv4g.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cctv4g.com",
+    "source": {
+      "list": "CCTV",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cctvlib.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cctvlib.cn",
+    "source": {
+      "list": "CCTV",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cctvlib.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cctvlib.com.cn",
+    "source": {
+      "list": "CCTV",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cctvlibrary.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cctvlibrary.cn",
+    "source": {
+      "list": "CCTV",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cctvlibrary.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cctvlibrary.com.cn",
+    "source": {
+      "list": "CCTV",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cctvpic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cctvpic.com",
+    "source": {
+      "list": "CCTV",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cctvpro.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cctvpro.cn",
+    "source": {
+      "list": "CCTV",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cctvpro.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cctvpro.com.cn",
+    "source": {
+      "list": "CCTV",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ce.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ce.cn",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 70
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cfgw.net.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cfgw.net.cn",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 72
+    }
+  },
+  {
+    "type": "domain",
+    "value": "chaindd.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:chaindd.com",
+    "source": {
+      "list": "TMTPOST",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "changyou.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:changyou.com",
+    "source": {
+      "list": "CHANGYOU",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cheaa.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cheaa.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 74
+    }
+  },
+  {
+    "type": "domain",
+    "value": "checkzeit.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:checkzeit.com",
+    "source": {
+      "list": "TMTPOST",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "chenshipin.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:chenshipin.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 76
+    }
+  },
+  {
+    "type": "domain",
+    "value": "chinaaet.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:chinaaet.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 79
+    }
+  },
+  {
+    "type": "domain",
+    "value": "chinabyte.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:chinabyte.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 81
+    }
+  },
+  {
+    "type": "domain",
+    "value": "chinadevelopment.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:chinadevelopment.com.cn",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 85
+    }
+  },
+  {
+    "type": "domain",
+    "value": "chinaepg.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:chinaepg.cn",
+    "source": {
+      "list": "CCTV",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "chinalive.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:chinalive.com",
+    "source": {
+      "list": "CCTV",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "chinanews.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:chinanews.com",
+    "source": {
+      "list": "CHINANEWS",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "chinanews.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:chinanews.com.cn",
+    "source": {
+      "list": "CHINANEWS",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "chinaott.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:chinaott.com",
+    "source": {
+      "list": "CCTV",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "chinapp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:chinapp.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 87
+    }
+  },
+  {
+    "type": "domain",
+    "value": "chinaqw.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:chinaqw.com",
+    "source": {
+      "list": "CHINANEWS",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "chinastarmarket.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:chinastarmarket.cn",
+    "source": {
+      "list": "JIEMIAN",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "chuanbaoguancha.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:chuanbaoguancha.cn",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 89
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cih-index.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cih-index.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 93
+    }
+  },
+  {
+    "type": "domain",
+    "value": "citv.net.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:citv.net.cn",
+    "source": {
+      "list": "CCTV",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ckxx.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ckxx.net",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 59
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cls.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cls.cn",
+    "source": {
+      "list": "JIEMIAN",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cnfol.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cnfol.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 95
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cnfolimg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cnfolimg.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 96
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cnhubei.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cnhubei.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 98
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cnms.net.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cnms.net.cn",
+    "source": {
+      "list": "CCTV",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cnr.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cnr.cn",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 101
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cns.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cns.com.cn",
+    "source": {
+      "list": "CHINANEWS",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cnsimg.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cnsimg.net",
+    "source": {
+      "list": "CHINANEWS",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cnstock.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cnstock.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 103
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cntv.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cntv.cn",
+    "source": {
+      "list": "CCTV",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cntv.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cntv.com.cn",
+    "source": {
+      "list": "CCTV",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cntvwb.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cntvwb.cn",
+    "source": {
+      "list": "CCTV",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cnwest.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cnwest.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 105
+    }
+  },
+  {
+    "type": "domain",
+    "value": "coolbuy.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:coolbuy.com",
+    "source": {
+      "list": "IFANR",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cooldock.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cooldock.com",
+    "source": {
+      "list": "RUANMEI",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cqcb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cqcb.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 108
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cqhlw.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cqhlw.cn",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 110
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cqliving.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cqliving.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 111
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cqn.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cqn.com.cn",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 115
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cqnews.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cqnews.net",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 112
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cqsjb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cqsjb.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 113
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cri.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cri.cn",
+    "source": {
+      "list": "CCTV",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cs.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cs.com.cn",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 117
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ctdsb.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ctdsb.net",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 119
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ctoutiao.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ctoutiao.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 122
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cww.net.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cww.net.cn",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 124
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cy.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cy.com",
+    "source": {
+      "list": "CHANGYOU",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cyol.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cyol.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 126
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cyol.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cyol.net",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 127
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cyzone.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cyzone.cn",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 129
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cztv.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cztv.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 131
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cztvcdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cztvcdn.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 132
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cztvcloud.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cztvcloud.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 133
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dahe.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dahe.cn",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 136
+    }
+  },
+  {
+    "type": "domain",
+    "value": "daheapp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:daheapp.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 140
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dahebao.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dahebao.cn",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 141
+    }
+  },
+  {
+    "type": "domain",
+    "value": "danjuanfunds.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:danjuanfunds.com",
+    "source": {
+      "list": "XUEQIU",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dayoo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dayoo.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 143
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dgtle.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dgtle.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 151
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dianzhenkeji.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dianzhenkeji.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 219
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dingxinwen.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dingxinwen.cn",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 137
+    }
+  },
+  {
+    "type": "domain",
+    "value": "donews.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:donews.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 153
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dutenews.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dutenews.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 145
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dzh.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dzh.com.cn",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 147
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dzng.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dzng.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 155
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dzwww.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dzwww.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 156
+    }
+  },
+  {
+    "type": "domain",
+    "value": "eastday.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:eastday.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 158
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ebrun.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ebrun.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 160
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ecns.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ecns.cn",
+    "source": {
+      "list": "CHINANEWS",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "eeo.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:eeo.com.cn",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 162
+    }
+  },
+  {
+    "type": "domain",
+    "value": "egsea.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:egsea.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 164
+    }
+  },
+  {
+    "type": "domain",
+    "value": "evolife.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:evolife.cn",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 167
+    }
+  },
+  {
+    "type": "domain",
+    "value": "expreview.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:expreview.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 169
+    }
+  },
+  {
+    "type": "domain",
+    "value": "feng.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:feng.com",
+    "source": {
+      "list": "WEIPHONE",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fengcx.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fengcx.com",
+    "source": {
+      "list": "PHOENIX",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fengedu.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fengedu.com",
+    "source": {
+      "list": "PHOENIX",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fengimg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fengimg.com",
+    "source": {
+      "list": "WEIPHONE",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fjsen.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fjsen.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 171
+    }
+  },
+  {
+    "type": "domain",
+    "value": "focus-img.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:focus-img.cn",
+    "source": {
+      "list": "SOHU",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "focus.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:focus.cn",
+    "source": {
+      "list": "SOHU",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fpb.sohu.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:fpb.sohu.com:@ads",
+    "source": {
+      "list": "SOHU",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "freebuf.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:freebuf.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 173
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fromgeek.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fromgeek.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 175
+    }
+  },
+  {
+    "type": "domain",
+    "value": "geekbang.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:geekbang.org",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 177
+    }
+  },
+  {
+    "type": "domain",
+    "value": "geekpark.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:geekpark.net",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 180
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gfan.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gfan.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 182
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gjgbdszt.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gjgbdszt.cn",
+    "source": {
+      "list": "CCTV",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gjgbdszt.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gjgbdszt.com.cn",
+    "source": {
+      "list": "CCTV",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gjgbdszt.net.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gjgbdszt.net.cn",
+    "source": {
+      "list": "CCTV",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gmdaily.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gmdaily.cn",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 184
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gmw.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gmw.cn",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 185
+    }
+  },
+  {
+    "type": "domain",
+    "value": "goodq.top",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:goodq.top",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "guancha.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:guancha.cn",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 188
+    }
+  },
+  {
+    "type": "domain",
+    "value": "guangmingdaily.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:guangmingdaily.cn",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 186
+    }
+  },
+  {
+    "type": "domain",
+    "value": "guigu.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:guigu.org",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 190
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gw.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gw.com.cn",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 148
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gxnews.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gxnews.com.cn",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 192
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gxrb.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gxrb.com.cn",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 194
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gxtv.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gxtv.cn",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 196
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gxxmt.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gxxmt.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 197
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gxxw.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gxxw.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 193
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gztv.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gztv.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 200
+    }
+  },
+  {
+    "type": "domain",
+    "value": "haowenti.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:haowenti.net",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "heimadata.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:heimadata.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 202
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hexin.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hexin.cn",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 207
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hexin.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hexin.com.cn",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 208
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hexun.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hexun.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 212
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hndt.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hndt.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 218
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hnol.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hnol.net",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 214
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hntv.tv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hntv.tv",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 217
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hsw.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hsw.cn",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 222
+    }
+  },
+  {
+    "type": "domain",
+    "value": "huanqiu.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:huanqiu.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 225
+    }
+  },
+  {
+    "type": "domain",
+    "value": "huanqiucdn.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:huanqiucdn.cn",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 226
+    }
+  },
+  {
+    "type": "domain",
+    "value": "huashangtop.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:huashangtop.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 221
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hubeidaily.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hubeidaily.net",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 99
+    }
+  },
+  {
+    "type": "domain",
+    "value": "huxiu.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:huxiu.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 228
+    }
+  },
+  {
+    "type": "domain",
+    "value": "huxiucdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:huxiucdn.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 229
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hxnews.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hxnews.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 231
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icntvcdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icntvcdn.com",
+    "source": {
+      "list": "CCTV",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icpcw.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icpcw.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 233
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icswb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icswb.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 235
+    }
+  },
+  {
+    "type": "domain",
+    "value": "idcquan.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:idcquan.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 237
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ifanr.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ifanr.cn",
+    "source": {
+      "list": "IFANR",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ifanr.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ifanr.com",
+    "source": {
+      "list": "IFANR",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ifanr.in",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ifanr.in",
+    "source": {
+      "list": "IFANR",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ifanrusercontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ifanrusercontent.com",
+    "source": {
+      "list": "IFANR",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ifanrx.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ifanrx.com",
+    "source": {
+      "list": "IFANR",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ifeng.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ifeng.com",
+    "source": {
+      "list": "PHOENIX",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ifengimg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ifengimg.com",
+    "source": {
+      "list": "PHOENIX",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ifengweekly.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ifengweekly.com",
+    "source": {
+      "list": "PHOENIX",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "igao7.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:igao7.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 239
+    }
+  },
+  {
+    "type": "domain",
+    "value": "iheima.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:iheima.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 203
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ikanchai.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ikanchai.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 241
+    }
+  },
+  {
+    "type": "domain",
+    "value": "imedao.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:imedao.com",
+    "source": {
+      "list": "XUEQIU",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "imp.go.sohu.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:imp.go.sohu.com:@ads",
+    "source": {
+      "list": "SOHU",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "inewsweek.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:inewsweek.cn",
+    "source": {
+      "list": "CHINANEWS",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "infoq.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:infoq.cn",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 178
+    }
+  },
+  {
+    "type": "domain",
+    "value": "infzm.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:infzm.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 243
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ipanda.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ipanda.cn",
+    "source": {
+      "list": "CCTV",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ipanda.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ipanda.com",
+    "source": {
+      "list": "CCTV",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ipanda.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ipanda.com.cn",
+    "source": {
+      "list": "CCTV",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ipanda.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ipanda.net",
+    "source": {
+      "list": "CCTV",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "iqilu.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:iqilu.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 246
+    }
+  },
+  {
+    "type": "domain",
+    "value": "iresearch.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:iresearch.cn",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 248
+    }
+  },
+  {
+    "type": "domain",
+    "value": "istv.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:istv.cn",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 250
+    }
+  },
+  {
+    "type": "domain",
+    "value": "it168.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:it168.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 252
+    }
+  },
+  {
+    "type": "domain",
+    "value": "itc.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:itc.cn",
+    "source": {
+      "list": "SOHU",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ithome.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ithome.com",
+    "source": {
+      "list": "RUANMEI",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jfdaily.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jfdaily.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 260
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jfdaily.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jfdaily.com.cn",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 261
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jianyuweb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jianyuweb.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 254
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jiemian.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jiemian.com",
+    "source": {
+      "list": "JIEMIAN",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jiemian.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jiemian.com.cn",
+    "source": {
+      "list": "JIEMIAN",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jin10.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jin10.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 258
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jinantimes.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jinantimes.com.cn",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 265
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jingpt.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jingpt.com",
+    "source": {
+      "list": "JIEMIAN",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jiqizhixin.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jiqizhixin.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 267
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jrj.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jrj.com.cn",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 269
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jrjimg.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jrjimg.cn",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 270
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jsbc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jsbc.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 272
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jstv.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jstv.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 273
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jwview.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jwview.com",
+    "source": {
+      "list": "CHINANEWS",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jxnews.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jxnews.com.cn",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 275
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jxpp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jxpp.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 277
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jztvnews.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jztvnews.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 279
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kankanews.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kankanews.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 281
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kankannews.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kankannews.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 282
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kanshangjie.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kanshangjie.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 286
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kf.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kf.cn",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 288
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kjrb.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kjrb.com.cn",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 290
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kksmg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kksmg.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 283
+    }
+  },
+  {
+    "type": "domain",
+    "value": "knewsmart.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:knewsmart.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 293
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kuaizhan.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kuaizhan.com",
+    "source": {
+      "list": "SOHU",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lancdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lancdn.com",
+    "source": {
+      "list": "LANDIAN",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "landian.news",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:landian.news",
+    "source": {
+      "list": "LANDIAN",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "landian.vip",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:landian.vip",
+    "source": {
+      "list": "LANDIAN",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "landian.xyz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:landian.xyz",
+    "source": {
+      "list": "LANDIAN",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "landiannews.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:landiannews.com",
+    "source": {
+      "list": "LANDIAN",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lanjinger.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lanjinger.com",
+    "source": {
+      "list": "JIEMIAN",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lapin365.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lapin365.com",
+    "source": {
+      "list": "RUANMEI",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "latepost.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:latepost.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 295
+    }
+  },
+  {
+    "type": "domain",
+    "value": "leikeji.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:leikeji.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 297
+    }
+  },
+  {
+    "type": "domain",
+    "value": "leiphone.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:leiphone.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 299
+    }
+  },
+  {
+    "type": "domain",
+    "value": "liangtv.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:liangtv.cn",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 198
+    }
+  },
+  {
+    "type": "domain",
+    "value": "livechina.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:livechina.cn",
+    "source": {
+      "list": "CCTV",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "livechina.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:livechina.com",
+    "source": {
+      "list": "CCTV",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "m.aty.sohu.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:m.aty.sohu.com:@ads",
+    "source": {
+      "list": "SOHU",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "miercn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:miercn.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 301
+    }
+  },
+  {
+    "type": "domain",
+    "value": "minapp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:minapp.com",
+    "source": {
+      "list": "IFANR",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mnw.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mnw.cn",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 303
+    }
+  },
+  {
+    "type": "domain",
+    "value": "moer.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:moer.cn",
+    "source": {
+      "list": "JIEMIAN",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mydrivers.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mydrivers.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 305
+    }
+  },
+  {
+    "type": "domain",
+    "value": "myhsw.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:myhsw.cn",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 223
+    }
+  },
+  {
+    "type": "domain",
+    "value": "myzaker.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:myzaker.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 307
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nanyuenews.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nanyuenews.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 309
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nbd.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nbd.com.cn",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 311
+    }
+  },
+  {
+    "type": "domain",
+    "value": "neweekly.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:neweekly.com.cn",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 313
+    }
+  },
+  {
+    "type": "domain",
+    "value": "news.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:news.cn",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 315
+    }
+  },
+  {
+    "type": "domain",
+    "value": "newsimg.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:newsimg.cn",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 316
+    }
+  },
+  {
+    "type": "domain",
+    "value": "newssc.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:newssc.org",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 320
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nfpeople.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nfpeople.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 244
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oeeee.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oeeee.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 322
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ofweek.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ofweek.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 324
+    }
+  },
+  {
+    "type": "domain",
+    "value": "olympicchannelchina.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:olympicchannelchina.cn",
+    "source": {
+      "list": "CCTV",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ottcn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ottcn.com",
+    "source": {
+      "list": "CCTV",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ourjiangsu.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ourjiangsu.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 326
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ourl.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ourl.co",
+    "source": {
+      "list": "LANDIAN",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "p.aty.sohu.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:p.aty.sohu.com:@ads",
+    "source": {
+      "list": "SOHU",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pcauto.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pcauto.com.cn",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 332
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pchome.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pchome.net",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 328
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pchouse.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pchouse.com.cn",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 333
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pchpic.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pchpic.net",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 329
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pconline.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pconline.com.cn",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 334
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pcpop.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pcpop.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 336
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pdnews.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pdnews.cn",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 338
+    }
+  },
+  {
+    "type": "domain",
+    "value": "people.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:people.cn",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 339
+    }
+  },
+  {
+    "type": "domain",
+    "value": "people.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:people.com.cn",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 340
+    }
+  },
+  {
+    "type": "domain",
+    "value": "peopleapp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:peopleapp.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 341
+    }
+  },
+  {
+    "type": "domain",
+    "value": "phoenixcenter.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:phoenixcenter.cn",
+    "source": {
+      "list": "PHOENIX",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pingwest.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pingwest.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 343
+    }
+  },
+  {
+    "type": "domain",
+    "value": "playcool.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:playcool.com",
+    "source": {
+      "list": "CHANGYOU",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pv.hd.sohu.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:pv.hd.sohu.com:@ads",
+    "source": {
+      "list": "SOHU",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pv.sohu.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:pv.sohu.com:@ads",
+    "source": {
+      "list": "SOHU",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qbitai.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qbitai.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 345
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qianlong.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qianlong.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 50
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qianzhan.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qianzhan.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 352
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qiluyidian.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qiluyidian.net",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 347
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qingdaochina.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qingdaochina.org",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 354
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qingdaonews.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qingdaonews.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 350
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ql1d.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ql1d.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 348
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qpb.sohu.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:qpb.sohu.com:@ads",
+    "source": {
+      "list": "SOHU",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qpb1.sohu.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:qpb1.sohu.com:@ads",
+    "source": {
+      "list": "SOHU",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qstheory.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qstheory.cn",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 356
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qzwb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qzwb.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 358
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rednet.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rednet.cn",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 360
+    }
+  },
+  {
+    "type": "domain",
+    "value": "reke.at.sohu.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:reke.at.sohu.com:@ads",
+    "source": {
+      "list": "SOHU",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ruanmei.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ruanmei.com",
+    "source": {
+      "list": "RUANMEI",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "saayaa.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:saayaa.com",
+    "source": {
+      "list": "RUANMEI",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "scdaily.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:scdaily.cn",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 91
+    }
+  },
+  {
+    "type": "domain",
+    "value": "scgchc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:scgchc.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 362
+    }
+  },
+  {
+    "type": "domain",
+    "value": "scol.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:scol.com.cn",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 90
+    }
+  },
+  {
+    "type": "domain",
+    "value": "scsjb.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:scsjb.cn",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 366
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sctv-tf.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sctv-tf.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 363
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sctv.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sctv.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 364
+    }
+  },
+  {
+    "type": "domain",
+    "value": "secrss.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:secrss.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 368
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sfccn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sfccn.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 370
+    }
+  },
+  {
+    "type": "domain",
+    "value": "shangyexinzhi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:shangyexinzhi.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 372
+    }
+  },
+  {
+    "type": "domain",
+    "value": "shedunews.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:shedunews.net",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 374
+    }
+  },
+  {
+    "type": "domain",
+    "value": "shobserver.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:shobserver.cn",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 262
+    }
+  },
+  {
+    "type": "domain",
+    "value": "shobserver.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:shobserver.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 263
+    }
+  },
+  {
+    "type": "domain",
+    "value": "snowballsecurities.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:snowballsecurities.com",
+    "source": {
+      "list": "XUEQIU",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "snxw.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:snxw.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 376
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sohu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sohu",
+    "source": {
+      "list": "SOHU",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sohu.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sohu.com",
+    "source": {
+      "list": "SOHU",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sohucs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sohucs.com",
+    "source": {
+      "list": "SOHU",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "solidot.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:solidot.org",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 378
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sootoo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sootoo.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 380
+    }
+  },
+  {
+    "type": "domain",
+    "value": "southcn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:southcn.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 382
+    }
+  },
+  {
+    "type": "domain",
+    "value": "southmoney.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:southmoney.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 384
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ssajax.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ssajax.cn",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 388
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ssimg.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ssimg.cn",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 389
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sspai.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sspai.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 386
+    }
+  },
+  {
+    "type": "domain",
+    "value": "statickksmg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:statickksmg.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 284
+    }
+  },
+  {
+    "type": "domain",
+    "value": "stcn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:stcn.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 165
+    }
+  },
+  {
+    "type": "domain",
+    "value": "stdaily.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:stdaily.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 291
+    }
+  },
+  {
+    "type": "domain",
+    "value": "stockstar.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:stockstar.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 390
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sxtvs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sxtvs.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 106
+    }
+  },
+  {
+    "type": "domain",
+    "value": "szhk.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:szhk.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 392
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sznews.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sznews.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 394
+    }
+  },
+  {
+    "type": "domain",
+    "value": "szpgm.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:szpgm.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 395
+    }
+  },
+  {
+    "type": "domain",
+    "value": "takungpao.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:takungpao.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 397
+    }
+  },
+  {
+    "type": "domain",
+    "value": "techwalker.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:techwalker.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 401
+    }
+  },
+  {
+    "type": "domain",
+    "value": "techweb.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:techweb.com.cn",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 399
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tfcaijing.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tfcaijing.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 66
+    }
+  },
+  {
+    "type": "domain",
+    "value": "thecover.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:thecover.cn",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 403
+    }
+  },
+  {
+    "type": "domain",
+    "value": "thepaper.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:thepaper.cn",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 405
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ths123.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ths123.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 209
+    }
+  },
+  {
+    "type": "domain",
+    "value": "thsi.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:thsi.cn",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 210
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tianjimedia.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tianjimedia.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 82
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tidenews.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tidenews.com.cn",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 408
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tigeek.net.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tigeek.net.cn",
+    "source": {
+      "list": "TMTPOST",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "time-weekly.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:time-weekly.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 67
+    }
+  },
+  {
+    "type": "domain",
+    "value": "timesmedia.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:timesmedia.com.cn",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 68
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tivitv.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tivitv.com",
+    "source": {
+      "list": "TMTPOST",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tmtpost.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tmtpost.com",
+    "source": {
+      "list": "TMTPOST",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tmtsmartlife.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tmtsmartlife.com",
+    "source": {
+      "list": "TMTPOST",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tmtsmartrun.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tmtsmartrun.com",
+    "source": {
+      "list": "TMTPOST",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "topnews.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:topnews.cn",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 138
+    }
+  },
+  {
+    "type": "domain",
+    "value": "track.sohu.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:track.sohu.com:@ads",
+    "source": {
+      "list": "SOHU",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tvcc.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tvcc.cn",
+    "source": {
+      "list": "CCTV",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tvcc.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tvcc.com.cn",
+    "source": {
+      "list": "CCTV",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vbdata.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vbdata.cn",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 410
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vcbeat.top",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vcbeat.top",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 411
+    }
+  },
+  {
+    "type": "domain",
+    "value": "voc.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:voc.com.cn",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 215
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wallstcn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wallstcn.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 255
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wallstreetcn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wallstreetcn.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 256
+    }
+  },
+  {
+    "type": "domain",
+    "value": "weiphone.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:weiphone.net",
+    "source": {
+      "list": "WEIPHONE",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wfdata.club",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wfdata.club",
+    "source": {
+      "list": "WEIPHONE",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "win7china.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:win7china.com",
+    "source": {
+      "list": "RUANMEI",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "win8china.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:win8china.com",
+    "source": {
+      "list": "RUANMEI",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "workercn.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:workercn.cn",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 413
+    }
+  },
+  {
+    "type": "domain",
+    "value": "woshipm.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:woshipm.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 415
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wsoso.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wsoso.com",
+    "source": {
+      "list": "LANDIAN",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xhby.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xhby.net",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 417
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xilu.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xilu.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 419
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xinhuanet.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xinhuanet.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 317
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xinhuaxmt.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xinhuaxmt.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 318
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xinmeng.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xinmeng.info",
+    "source": {
+      "list": "CHINANEWS",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xinmin.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xinmin.cn",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 421
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xinminweekly.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xinminweekly.com.cn",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 422
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xkb.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xkb.com.cn",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 424
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--fiq53l6wcx3kp9bc7joo6apn8a.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--fiq53l6wcx3kp9bc7joo6apn8a.cn",
+    "source": {
+      "list": "CCTV",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--fiq53l6wcx3kp9bc7joo6apn8a.xn--fiqs8s",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--fiq53l6wcx3kp9bc7joo6apn8a.xn--fiqs8s",
+    "source": {
+      "list": "CCTV",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--fiq53l90et9fpncc7joo6apn8a.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--fiq53l90et9fpncc7joo6apn8a.cn",
+    "source": {
+      "list": "CCTV",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--kprv4ewxfr9cpxcc7joo6apn8a.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--kprv4ewxfr9cpxcc7joo6apn8a.cn",
+    "source": {
+      "list": "CCTV",
+      "line": 37
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--kprv4ewxfr9cpxcc7joo6apn8a.xn--fiqs8s",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--kprv4ewxfr9cpxcc7joo6apn8a.xn--fiqs8s",
+    "source": {
+      "list": "CCTV",
+      "line": 38
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xueqiu.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xueqiu.com",
+    "source": {
+      "list": "XUEQIU",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xuexi.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xuexi.cn",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 426
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xxcb.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xxcb.cn",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 77
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yangshipin.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yangshipin.cn",
+    "source": {
+      "list": "CCTV",
+      "line": 39
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ycwb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ycwb.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 428
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yesky.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yesky.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 83
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yeyou.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yeyou.com",
+    "source": {
+      "list": "CHANGYOU",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yeyoucdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yeyoucdn.com",
+    "source": {
+      "list": "CHANGYOU",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yicai.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yicai.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 430
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ynet.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ynet.cn",
+    "source": {
+      "list": "YNET",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ynet.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ynet.com",
+    "source": {
+      "list": "YNET",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ynet.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ynet.com.cn",
+    "source": {
+      "list": "YNET",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yundzh.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yundzh.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 149
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yunnan.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yunnan.cn",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 432
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yzwb.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yzwb.net",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 434
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zealer.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zealer.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 436
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zggbdszt.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zggbdszt.cn",
+    "source": {
+      "list": "CCTV",
+      "line": 40
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zggbdszt.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zggbdszt.com.cn",
+    "source": {
+      "list": "CCTV",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zggbdszt.net.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zggbdszt.net.cn",
+    "source": {
+      "list": "CCTV",
+      "line": 42
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zgjtb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zgjtb.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 438
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zhichanli.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zhichanli.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 440
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zhiding.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zhiding.cn",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 442
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zjol.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zjol.com.cn",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 444
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zjstv.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zjstv.com",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 134
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zol-img.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zol-img.com.cn",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 446
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zol.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zol.com.cn",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 447
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zqrb.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zqrb.cn",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 449
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zuihuimai.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zuihuimai.com",
+    "source": {
+      "list": "RUANMEI",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zygbdszt.net.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zygbdszt.net.cn",
+    "source": {
+      "list": "CCTV",
+      "line": 43
+    }
+  },
+  {
+    "type": "full",
+    "value": "ctdsb.clouddiffuse.xyz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:ctdsb.clouddiffuse.xyz",
+    "source": {
+      "list": "CATEGORY-MEDIA-CN",
+      "line": 120
+    }
+  }
+]

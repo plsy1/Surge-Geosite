@@ -1,0 +1,101 @@
+[
+  {
+    "type": "domain",
+    "value": "haiwaikan.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:haiwaikan.com",
+    "source": {
+      "list": "OLEVOD",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "iole.tv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:iole.tv",
+    "source": {
+      "list": "OLEVOD",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "olehd.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:olehd.com",
+    "source": {
+      "list": "OLEVOD",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "olelive.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:olelive.com",
+    "source": {
+      "list": "OLEVOD",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "olemovienews.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:olemovienews.com",
+    "source": {
+      "list": "OLEVOD",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "olevod.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:olevod.com",
+    "source": {
+      "list": "OLEVOD",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "olevod.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:olevod.io",
+    "source": {
+      "list": "OLEVOD",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "olevod.tv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:olevod.tv",
+    "source": {
+      "list": "OLEVOD",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "olevodtv.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:olevodtv.com",
+    "source": {
+      "list": "OLEVOD",
+      "line": 8
+    }
+  }
+]

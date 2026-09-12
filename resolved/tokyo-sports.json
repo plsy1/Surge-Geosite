@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "tokyo-sports.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tokyo-sports.co.jp",
+    "source": {
+      "list": "TOKYO-SPORTS",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tospo-keiba.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tospo-keiba.jp",
+    "source": {
+      "list": "TOKYO-SPORTS",
+      "line": 2
+    }
+  }
+]

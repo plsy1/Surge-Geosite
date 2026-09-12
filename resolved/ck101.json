@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "ck101.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ck101.com",
+    "source": {
+      "list": "CK101",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ckcdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ckcdn.com",
+    "source": {
+      "list": "CK101",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ckck.fun",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ckck.fun",
+    "source": {
+      "list": "CK101",
+      "line": 3
+    }
+  }
+]

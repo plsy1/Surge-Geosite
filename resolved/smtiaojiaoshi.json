@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "jhxl.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jhxl.org",
+    "source": {
+      "list": "SMTIAOJIAOSHI",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--sgt856gbjl.cc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--sgt856gbjl.cc",
+    "source": {
+      "list": "SMTIAOJIAOSHI",
+      "line": 2
+    }
+  }
+]

@@ -1,0 +1,67 @@
+{
+  "name": "CATEGORY-CONTAINER",
+  "source": {
+    "domain": 9,
+    "full": 0,
+    "keyword": 0,
+    "regexp": 1,
+    "include": 0,
+    "affiliations": 0,
+    "attributes": 0
+  },
+  "resolved": {
+    "rules": 10,
+    "domain": 9,
+    "full": 0,
+    "keyword": 0,
+    "regexp": 1
+  },
+  "filters": {
+    "attrs": {}
+  },
+  "modes": {
+    "strict": {
+      "rules": 9,
+      "bytes": 231,
+      "regex": {
+        "total": 1,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 1
+      },
+      "unsupported": [
+        {
+          "pattern": ".+\\.dkr\\.ecr\\.[^\\.]+\\.amazonaws\\.com$",
+          "source": {
+            "list": "CATEGORY-CONTAINER",
+            "line": 12
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        }
+      ]
+    },
+    "balanced": {
+      "rules": 10,
+      "bytes": 273,
+      "regex": {
+        "total": 1,
+        "lossless": 0,
+        "widened": 1,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "full": {
+      "rules": 10,
+      "bytes": 273,
+      "regex": {
+        "total": 1,
+        "lossless": 0,
+        "widened": 1,
+        "unsupported": 0
+      },
+      "unsupported": []
+    }
+  }
+}

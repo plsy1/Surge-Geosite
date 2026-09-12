@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "manoto1.tv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:manoto1.tv",
+    "source": {
+      "list": "MANOTO",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "manototv.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:manototv.com",
+    "source": {
+      "list": "MANOTO",
+      "line": 2
+    }
+  }
+]

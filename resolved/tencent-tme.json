@@ -1,0 +1,523 @@
+[
+  {
+    "type": "domain",
+    "value": "97ting.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:97ting.com",
+    "source": {
+      "list": "TENCENT-TME",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ad.tencentmusic.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:ad.tencentmusic.com:@ads",
+    "source": {
+      "list": "TENCENT-TME",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adbehavior.ximalaya.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:adbehavior.ximalaya.com:@ads",
+    "source": {
+      "list": "XIMALAYA",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ads.service.kugou.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:ads.service.kugou.com:@ads",
+    "source": {
+      "list": "KUGOU",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adse.wsa.ximalaya.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:adse.wsa.ximalaya.com:@ads",
+    "source": {
+      "list": "XIMALAYA",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adse.ximalaya.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:adse.ximalaya.com:@ads",
+    "source": {
+      "list": "XIMALAYA",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adserviceretry.kglink.cn",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:adserviceretry.kglink.cn:@ads",
+    "source": {
+      "list": "KUGOU",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adserviceretry.kugou.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:adserviceretry.kugou.com:@ads",
+    "source": {
+      "list": "KUGOU",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adstats.tencentmusic.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:adstats.tencentmusic.com:@ads",
+    "source": {
+      "list": "TENCENT-TME",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fanxingliveshow.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fanxingliveshow.com",
+    "source": {
+      "list": "KUGOU",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kg.qq.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kg.qq.com",
+    "source": {
+      "list": "TENCENT-TME",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kgimg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kgimg.com",
+    "source": {
+      "list": "KUGOU",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kglink.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kglink.cn",
+    "source": {
+      "list": "KUGOU",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "koowo.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:koowo.cn",
+    "source": {
+      "list": "KUWO",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "koowo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:koowo.com",
+    "source": {
+      "list": "KUWO",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ktv.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ktv.com",
+    "source": {
+      "list": "KUGOU",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kugoo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kugoo.com",
+    "source": {
+      "list": "KUGOU",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kugou.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kugou.com",
+    "source": {
+      "list": "KUGOU",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kugou.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kugou.net",
+    "source": {
+      "list": "KUGOU",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kugouaudio.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kugouaudio.com",
+    "source": {
+      "list": "KUGOU",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kugouipv6.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kugouipv6.com",
+    "source": {
+      "list": "KUGOU",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kugoukid.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kugoukid.com",
+    "source": {
+      "list": "KUGOU",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kugouliveshow.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kugouliveshow.com",
+    "source": {
+      "list": "KUGOU",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kugouringtone.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kugouringtone.com",
+    "source": {
+      "list": "KUGOU",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kugousenior.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kugousenior.com",
+    "source": {
+      "list": "KUGOU",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kugoustore.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kugoustore.com",
+    "source": {
+      "list": "KUGOU",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kugouvoice.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kugouvoice.com",
+    "source": {
+      "list": "KUGOU",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kugouyouth.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kugouyouth.com",
+    "source": {
+      "list": "KUGOU",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kuwo.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kuwo.cn",
+    "source": {
+      "list": "KUWO",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lrts.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lrts.me",
+    "source": {
+      "list": "TENCENT-TME",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "monitor.music.qq.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:monitor.music.qq.com:@ads",
+    "source": {
+      "list": "TENCENT-TME",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mting.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mting.info",
+    "source": {
+      "list": "TENCENT-TME",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "music.qq.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:music.qq.com",
+    "source": {
+      "list": "TENCENT-TME",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qqmusic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qqmusic.com",
+    "source": {
+      "list": "TENCENT-TME",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "report.tencentmusic.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:report.tencentmusic.com:@ads",
+    "source": {
+      "list": "TENCENT-TME",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "stat.y.qq.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:stat.y.qq.com:@ads",
+    "source": {
+      "list": "TENCENT-TME",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tencentmusic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tencentmusic.com",
+    "source": {
+      "list": "TENCENT-TME",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tingmall.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tingmall.com",
+    "source": {
+      "list": "TENCENT-TME",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tmead.y.qq.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:tmead.y.qq.com:@ads",
+    "source": {
+      "list": "TENCENT-TME",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tmeadcomm.y.qq.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:tmeadcomm.y.qq.com:@ads",
+    "source": {
+      "list": "TENCENT-TME",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ultimatemusic.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ultimatemusic.cn",
+    "source": {
+      "list": "TENCENT-TME",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wting.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wting.info",
+    "source": {
+      "list": "TENCENT-TME",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ximalaya.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ximalaya.com",
+    "source": {
+      "list": "XIMALAYA",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xmcdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xmcdn.com",
+    "source": {
+      "list": "XIMALAYA",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "y.qq.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:y.qq.com",
+    "source": {
+      "list": "TENCENT-TME",
+      "line": 11
+    }
+  }
+]

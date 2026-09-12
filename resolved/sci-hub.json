@@ -1,0 +1,68 @@
+[
+  {
+    "type": "domain",
+    "value": "sci-hub.ee",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sci-hub.ee",
+    "source": {
+      "list": "SCI-HUB",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sci-hub.it.nf",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sci-hub.it.nf",
+    "source": {
+      "list": "SCI-HUB",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sci-hub.mksa.top",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sci-hub.mksa.top",
+    "source": {
+      "list": "SCI-HUB",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sci-hub.se",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sci-hub.se",
+    "source": {
+      "list": "SCI-HUB",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sci-hub.st",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sci-hub.st",
+    "source": {
+      "list": "SCI-HUB",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sci.hubg.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sci.hubg.org",
+    "source": {
+      "list": "SCI-HUB",
+      "line": 9
+    }
+  }
+]

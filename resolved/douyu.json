@@ -1,0 +1,79 @@
+[
+  {
+    "type": "domain",
+    "value": "douyu.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:douyu.com",
+    "source": {
+      "list": "DOUYU",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "douyu.tv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:douyu.tv",
+    "source": {
+      "list": "DOUYU",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "douyucdn.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:douyucdn.cn",
+    "source": {
+      "list": "DOUYU",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "douyucdn2.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:douyucdn2.cn",
+    "source": {
+      "list": "DOUYU",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "douyuscdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:douyuscdn.com",
+    "source": {
+      "list": "DOUYU",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "douyutv.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:douyutv.com",
+    "source": {
+      "list": "DOUYU",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "edgesrv.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:edgesrv.com",
+    "source": {
+      "list": "DOUYU",
+      "line": 7
+    }
+  }
+]

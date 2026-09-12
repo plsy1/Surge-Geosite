@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "manus.im",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:manus.im",
+    "source": {
+      "list": "MANUS",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "manuscdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:manuscdn.com",
+    "source": {
+      "list": "MANUS",
+      "line": 2
+    }
+  }
+]

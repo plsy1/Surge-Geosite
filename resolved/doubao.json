@@ -1,0 +1,354 @@
+[
+  {
+    "type": "domain",
+    "value": "api-building.fun",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:api-building.fun",
+    "source": {
+      "list": "DOUBAO",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "building.fun",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:building.fun",
+    "source": {
+      "list": "DOUBAO",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "butterfly-static.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:butterfly-static.cn",
+    "source": {
+      "list": "DOUBAO",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "butterflyai.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:butterflyai.cn",
+    "source": {
+      "list": "DOUBAO",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "coze-dns-01.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:coze-dns-01.com",
+    "source": {
+      "list": "DOUBAO",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "coze.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:coze.cn",
+    "source": {
+      "list": "DOUBAO",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "coze.email",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:coze.email",
+    "source": {
+      "list": "DOUBAO",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "coze.site",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:coze.site",
+    "source": {
+      "list": "DOUBAO",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cozeapp.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cozeapp.net",
+    "source": {
+      "list": "DOUBAO",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cozebaas.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cozebaas.cn",
+    "source": {
+      "list": "DOUBAO",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cozebuild.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cozebuild.com",
+    "source": {
+      "list": "DOUBAO",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cozecdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cozecdn.com",
+    "source": {
+      "list": "DOUBAO",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cozedeploy.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cozedeploy.com",
+    "source": {
+      "list": "DOUBAO",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cozefn.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cozefn.cn",
+    "source": {
+      "list": "DOUBAO",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cozeide.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cozeide.cn",
+    "source": {
+      "list": "DOUBAO",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cozesdk.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cozesdk.com",
+    "source": {
+      "list": "DOUBAO",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cozetest.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cozetest.cn",
+    "source": {
+      "list": "DOUBAO",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cozetest2.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cozetest2.cn",
+    "source": {
+      "list": "DOUBAO",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cozetest3.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cozetest3.cn",
+    "source": {
+      "list": "DOUBAO",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dbbuilding.fun",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dbbuilding.fun",
+    "source": {
+      "list": "DOUBAO",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "doubao-dev.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:doubao-dev.com",
+    "source": {
+      "list": "DOUBAO",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "doubao.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:doubao.com",
+    "source": {
+      "list": "DOUBAO",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "doubaocdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:doubaocdn.com",
+    "source": {
+      "list": "DOUBAO",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hi-butterfly.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hi-butterfly.cn",
+    "source": {
+      "list": "DOUBAO",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "instreet.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:instreet.com",
+    "source": {
+      "list": "DOUBAO",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "maoxiangai.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:maoxiangai.com",
+    "source": {
+      "list": "DOUBAO",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "myparallelstory.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:myparallelstory.com",
+    "source": {
+      "list": "DOUBAO",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "obriccloud.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:obriccloud.com",
+    "source": {
+      "list": "DOUBAO",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "obricclouddw.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:obricclouddw.com",
+    "source": {
+      "list": "DOUBAO",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oceancloudapi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oceancloudapi.com",
+    "source": {
+      "list": "DOUBAO",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "picpic-ai.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:picpic-ai.cn",
+    "source": {
+      "list": "DOUBAO",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pixeldance.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pixeldance.com",
+    "source": {
+      "list": "DOUBAO",
+      "line": 33
+    }
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "type": "domain",
+    "value": "ccstatic.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ccstatic.org",
+    "source": {
+      "list": "CREATIVECOMMONS",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "creativecommons.engineering",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:creativecommons.engineering",
+    "source": {
+      "list": "CREATIVECOMMONS",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "creativecommons.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:creativecommons.org",
+    "source": {
+      "list": "CREATIVECOMMONS",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "licensebuttons.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:licensebuttons.net",
+    "source": {
+      "list": "CREATIVECOMMONS",
+      "line": 4
+    }
+  }
+]

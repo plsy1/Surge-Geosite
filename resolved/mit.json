@@ -1,0 +1,46 @@
+[
+  {
+    "type": "domain",
+    "value": "mit",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mit",
+    "source": {
+      "list": "MIT",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mit.edu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mit.edu",
+    "source": {
+      "list": "MIT",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mit.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mit.net",
+    "source": {
+      "list": "MIT",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mitpressjournals.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mitpressjournals.org",
+    "source": {
+      "list": "MIT",
+      "line": 6
+    }
+  }
+]

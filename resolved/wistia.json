@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "embedwistia-a.akamaihd.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:embedwistia-a.akamaihd.net",
+    "source": {
+      "list": "WISTIA",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wistia.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wistia.com",
+    "source": {
+      "list": "WISTIA",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wistia.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wistia.net",
+    "source": {
+      "list": "WISTIA",
+      "line": 4
+    }
+  }
+]

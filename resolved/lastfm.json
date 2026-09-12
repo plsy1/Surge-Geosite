@@ -1,0 +1,46 @@
+[
+  {
+    "type": "domain",
+    "value": "last.fm",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:last.fm",
+    "source": {
+      "list": "LASTFM",
+      "line": 1
+    }
+  },
+  {
+    "type": "full",
+    "value": "lastfm-img.freetls.fastly.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:lastfm-img.freetls.fastly.net",
+    "source": {
+      "list": "LASTFM",
+      "line": 4
+    }
+  },
+  {
+    "type": "full",
+    "value": "lastfm.freetls.fastly.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:lastfm.freetls.fastly.net",
+    "source": {
+      "list": "LASTFM",
+      "line": 3
+    }
+  },
+  {
+    "type": "full",
+    "value": "ws.audioscrobbler.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:ws.audioscrobbler.com",
+    "source": {
+      "list": "LASTFM",
+      "line": 7
+    }
+  }
+]

@@ -1,0 +1,145 @@
+[
+  {
+    "type": "domain",
+    "value": "zoho.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zoho.com",
+    "source": {
+      "list": "ZOHO",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zoho.com.au",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zoho.com.au",
+    "source": {
+      "list": "ZOHO",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zoho.eu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zoho.eu",
+    "source": {
+      "list": "ZOHO",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zoho.in",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zoho.in",
+    "source": {
+      "list": "ZOHO",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zohocdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zohocdn.com",
+    "source": {
+      "list": "ZOHO",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zohomeetups.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zohomeetups.com",
+    "source": {
+      "list": "ZOHO",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zohomerchandise.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zohomerchandise.com",
+    "source": {
+      "list": "ZOHO",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zohopublic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zohopublic.com",
+    "source": {
+      "list": "ZOHO",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zohoschools.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zohoschools.com",
+    "source": {
+      "list": "ZOHO",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zohostatic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zohostatic.com",
+    "source": {
+      "list": "ZOHO",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zohostatic.in",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zohostatic.in",
+    "source": {
+      "list": "ZOHO",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zohouniversity.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zohouniversity.com",
+    "source": {
+      "list": "ZOHO",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zohowebstatic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zohowebstatic.com",
+    "source": {
+      "list": "ZOHO",
+      "line": 13
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "trello.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:trello.com",
+    "source": {
+      "list": "TRELLO",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "trellocdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:trellocdn.com",
+    "source": {
+      "list": "TRELLO",
+      "line": 2
+    }
+  }
+]

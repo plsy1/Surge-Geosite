@@ -1,0 +1,222 @@
+[
+  {
+    "type": "domain",
+    "value": "app",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:app",
+    "source": {
+      "list": "GOOGLE-REGISTRY-TLD",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "boo",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:boo",
+    "source": {
+      "list": "GOOGLE-REGISTRY-TLD",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dad",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dad",
+    "source": {
+      "list": "GOOGLE-REGISTRY-TLD",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "day",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:day",
+    "source": {
+      "list": "GOOGLE-REGISTRY-TLD",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dev",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dev",
+    "source": {
+      "list": "GOOGLE-REGISTRY-TLD",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "esq",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:esq",
+    "source": {
+      "list": "GOOGLE-REGISTRY-TLD",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "foo",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:foo",
+    "source": {
+      "list": "GOOGLE-REGISTRY-TLD",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "how",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:how",
+    "source": {
+      "list": "GOOGLE-REGISTRY-TLD",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ing",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ing",
+    "source": {
+      "list": "GOOGLE-REGISTRY-TLD",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "meme",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:meme",
+    "source": {
+      "list": "GOOGLE-REGISTRY-TLD",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mov",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mov",
+    "source": {
+      "list": "GOOGLE-REGISTRY-TLD",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "new",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:new",
+    "source": {
+      "list": "GOOGLE-REGISTRY-TLD",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nexus",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nexus",
+    "source": {
+      "list": "GOOGLE-REGISTRY-TLD",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "page",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:page",
+    "source": {
+      "list": "GOOGLE-REGISTRY-TLD",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "phd",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:phd",
+    "source": {
+      "list": "GOOGLE-REGISTRY-TLD",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "prof",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:prof",
+    "source": {
+      "list": "GOOGLE-REGISTRY-TLD",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rsvp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rsvp",
+    "source": {
+      "list": "GOOGLE-REGISTRY-TLD",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "soy",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:soy",
+    "source": {
+      "list": "GOOGLE-REGISTRY-TLD",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--q9jyb4c",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--q9jyb4c",
+    "source": {
+      "list": "GOOGLE-REGISTRY-TLD",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zip",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zip",
+    "source": {
+      "list": "GOOGLE-REGISTRY-TLD",
+      "line": 7
+    }
+  }
+]

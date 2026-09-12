@@ -1,0 +1,68 @@
+[
+  {
+    "type": "domain",
+    "value": "pics.ee",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pics.ee",
+    "source": {
+      "list": "PICSEE",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "picsee.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:picsee.co",
+    "source": {
+      "list": "PICSEE",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "picsee.pro",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:picsee.pro",
+    "source": {
+      "list": "PICSEE",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pise.pw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pise.pw",
+    "source": {
+      "list": "PICSEE",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pros.ee",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pros.ee",
+    "source": {
+      "list": "PICSEE",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pse.is",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pse.is",
+    "source": {
+      "list": "PICSEE",
+      "line": 6
+    }
+  }
+]

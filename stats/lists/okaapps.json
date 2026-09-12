@@ -1,0 +1,69 @@
+{
+  "name": "OKAAPPS",
+  "source": {
+    "domain": 1,
+    "full": 0,
+    "keyword": 0,
+    "regexp": 1,
+    "include": 0,
+    "affiliations": 0,
+    "attributes": 1
+  },
+  "resolved": {
+    "rules": 2,
+    "domain": 1,
+    "full": 0,
+    "keyword": 0,
+    "regexp": 1
+  },
+  "filters": {
+    "attrs": {
+      "cn": 1
+    }
+  },
+  "modes": {
+    "strict": {
+      "rules": 1,
+      "bytes": 25,
+      "regex": {
+        "total": 1,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 1
+      },
+      "unsupported": [
+        {
+          "pattern": "^(.+\\.)*zh\\.okaapps\\.com$",
+          "source": {
+            "list": "OKAAPPS",
+            "line": 4
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        }
+      ]
+    },
+    "balanced": {
+      "rules": 2,
+      "bytes": 54,
+      "regex": {
+        "total": 1,
+        "lossless": 0,
+        "widened": 1,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "full": {
+      "rules": 2,
+      "bytes": 54,
+      "regex": {
+        "total": 1,
+        "lossless": 0,
+        "widened": 1,
+        "unsupported": 0
+      },
+      "unsupported": []
+    }
+  }
+}

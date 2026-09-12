@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "pubmatic.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pubmatic.co.jp",
+    "source": {
+      "list": "PUBMATIC",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pubmatic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pubmatic.com",
+    "source": {
+      "list": "PUBMATIC",
+      "line": 3
+    }
+  }
+]
