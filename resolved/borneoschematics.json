@@ -1,0 +1,57 @@
+[
+  {
+    "type": "domain",
+    "value": "borneo.world",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:borneo.world",
+    "source": {
+      "list": "BORNEOSCHEMATICS",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "borneoasia.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:borneoasia.com",
+    "source": {
+      "list": "BORNEOSCHEMATICS",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "borneoschematic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:borneoschematic.com",
+    "source": {
+      "list": "BORNEOSCHEMATICS",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bosharso.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bosharso.net",
+    "source": {
+      "list": "BORNEOSCHEMATICS",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hostborneo.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hostborneo.org",
+    "source": {
+      "list": "BORNEOSCHEMATICS",
+      "line": 5
+    }
+  }
+]

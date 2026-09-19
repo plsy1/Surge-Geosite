@@ -1,0 +1,46 @@
+[
+  {
+    "type": "domain",
+    "value": "account.xiaomi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:account.xiaomi.com",
+    "source": {
+      "list": "XIAOMI-IOT",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cn-ha.mqtt.io.mi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cn-ha.mqtt.io.mi.com",
+    "source": {
+      "list": "XIAOMI-IOT",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ha.api.io.mi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ha.api.io.mi.com",
+    "source": {
+      "list": "XIAOMI-IOT",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "miot-spec.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:miot-spec.org",
+    "source": {
+      "list": "XIAOMI-IOT",
+      "line": 5
+    }
+  }
+]

@@ -1,0 +1,1390 @@
+[
+  {
+    "type": "domain",
+    "value": "100classicbooks.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:100classicbooks.com",
+    "source": {
+      "list": "NINTENDO",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ac-pocketcamp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ac-pocketcamp.com",
+    "source": {
+      "list": "NINTENDO",
+      "line": 66
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amiibo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:amiibo.com",
+    "source": {
+      "list": "NINTENDO",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ayudanintendo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ayudanintendo.com",
+    "source": {
+      "list": "NINTENDO",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bowsersinsidestory.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bowsersinsidestory.com",
+    "source": {
+      "list": "NINTENDO",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dialga.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dialga.com",
+    "source": {
+      "list": "NINTENDO",
+      "line": 78
+    }
+  },
+  {
+    "type": "domain",
+    "value": "diddykongracing.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:diddykongracing.com",
+    "source": {
+      "list": "NINTENDO",
+      "line": 69
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dkr.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dkr.com",
+    "source": {
+      "list": "NINTENDO",
+      "line": 70
+    }
+  },
+  {
+    "type": "domain",
+    "value": "donkeykongcountryreturns.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:donkeykongcountryreturns.com",
+    "source": {
+      "list": "NINTENDO",
+      "line": 71
+    }
+  },
+  {
+    "type": "domain",
+    "value": "drmario-world.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:drmario-world.com",
+    "source": {
+      "list": "NINTENDO",
+      "line": 114
+    }
+  },
+  {
+    "type": "domain",
+    "value": "excitebots.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:excitebots.com",
+    "source": {
+      "list": "NINTENDO",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fire-emblem-heroes.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fire-emblem-heroes.com",
+    "source": {
+      "list": "NINTENDO",
+      "line": 74
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fireemblemawakening.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fireemblemawakening.com",
+    "source": {
+      "list": "NINTENDO",
+      "line": 75
+    }
+  },
+  {
+    "type": "domain",
+    "value": "flipnotestudio.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:flipnotestudio.com",
+    "source": {
+      "list": "NINTENDO",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "giratina.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:giratina.com",
+    "source": {
+      "list": "NINTENDO",
+      "line": 79
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gloryofheracles.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gloryofheracles.com",
+    "source": {
+      "list": "NINTENDO",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hackyourconsole.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hackyourconsole.com",
+    "source": {
+      "list": "NINTENDO",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kirbysepicyarn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kirbysepicyarn.com",
+    "source": {
+      "list": "NINTENDO",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kirbysuperstarultra.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kirbysuperstarultra.com",
+    "source": {
+      "list": "NINTENDO",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kyurem.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kyurem.com",
+    "source": {
+      "list": "NINTENDO",
+      "line": 80
+    }
+  },
+  {
+    "type": "domain",
+    "value": "legendofzelda.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:legendofzelda.cn:@cn",
+    "source": {
+      "list": "NINTENDO",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "legendofzelda.com.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:legendofzelda.com.cn:@cn",
+    "source": {
+      "list": "NINTENDO",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "marioandluigidreamteam.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:marioandluigidreamteam.com",
+    "source": {
+      "list": "NINTENDO",
+      "line": 115
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mariobroswii.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mariobroswii.com",
+    "source": {
+      "list": "NINTENDO",
+      "line": 116
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mariokart.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:mariokart.cn:@cn",
+    "source": {
+      "list": "NINTENDO",
+      "line": 117
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mariokart.com.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:mariokart.com.cn:@cn",
+    "source": {
+      "list": "NINTENDO",
+      "line": 118
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mariokart7.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mariokart7.com",
+    "source": {
+      "list": "NINTENDO",
+      "line": 119
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mariokart8.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mariokart8.com",
+    "source": {
+      "list": "NINTENDO",
+      "line": 120
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mariosupersluggers.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mariosupersluggers.com",
+    "source": {
+      "list": "NINTENDO",
+      "line": 121
+    }
+  },
+  {
+    "type": "domain",
+    "value": "miitomo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:miitomo.com",
+    "source": {
+      "list": "NINTENDO",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "miitomo.com.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:miitomo.com.cn:@cn",
+    "source": {
+      "list": "NINTENDO",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "miiverse.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:miiverse.com",
+    "source": {
+      "list": "NINTENDO",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nentindo.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nentindo.net",
+    "source": {
+      "list": "NINTENDO",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "newsupermariobrosu.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:newsupermariobrosu.com",
+    "source": {
+      "list": "NINTENDO",
+      "line": 122
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nintendo-europe-sales.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nintendo-europe-sales.com",
+    "source": {
+      "list": "NINTENDO",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nintendo-europe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nintendo-europe.com",
+    "source": {
+      "list": "NINTENDO",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nintendo.at",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nintendo.at",
+    "source": {
+      "list": "NINTENDO",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nintendo.be",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nintendo.be",
+    "source": {
+      "list": "NINTENDO",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nintendo.ch",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nintendo.ch",
+    "source": {
+      "list": "NINTENDO",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nintendo.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nintendo.co.jp",
+    "source": {
+      "list": "NINTENDO",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nintendo.co.kr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nintendo.co.kr",
+    "source": {
+      "list": "NINTENDO",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nintendo.co.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nintendo.co.uk",
+    "source": {
+      "list": "NINTENDO",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nintendo.co.za",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nintendo.co.za",
+    "source": {
+      "list": "NINTENDO",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nintendo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nintendo.com",
+    "source": {
+      "list": "NINTENDO",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nintendo.com.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nintendo.com.hk",
+    "source": {
+      "list": "NINTENDO",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nintendo.com.pt",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nintendo.com.pt",
+    "source": {
+      "list": "NINTENDO",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nintendo.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nintendo.de",
+    "source": {
+      "list": "NINTENDO",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nintendo.dk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nintendo.dk",
+    "source": {
+      "list": "NINTENDO",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nintendo.es",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nintendo.es",
+    "source": {
+      "list": "NINTENDO",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nintendo.eu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nintendo.eu",
+    "source": {
+      "list": "NINTENDO",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nintendo.fi",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nintendo.fi",
+    "source": {
+      "list": "NINTENDO",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nintendo.fr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nintendo.fr",
+    "source": {
+      "list": "NINTENDO",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nintendo.it",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nintendo.it",
+    "source": {
+      "list": "NINTENDO",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nintendo.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nintendo.net",
+    "source": {
+      "list": "NINTENDO",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nintendo.nl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nintendo.nl",
+    "source": {
+      "list": "NINTENDO",
+      "line": 37
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nintendo.no",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nintendo.no",
+    "source": {
+      "list": "NINTENDO",
+      "line": 38
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nintendo.pt",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nintendo.pt",
+    "source": {
+      "list": "NINTENDO",
+      "line": 39
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nintendo.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nintendo.ru",
+    "source": {
+      "list": "NINTENDO",
+      "line": 40
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nintendo.se",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nintendo.se",
+    "source": {
+      "list": "NINTENDO",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nintendo.tw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nintendo.tw",
+    "source": {
+      "list": "NINTENDO",
+      "line": 42
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nintendo3ds.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nintendo3ds.com",
+    "source": {
+      "list": "NINTENDO",
+      "line": 43
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nintendodsi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nintendodsi.com",
+    "source": {
+      "list": "NINTENDO",
+      "line": 44
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nintendoeurope.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nintendoeurope.com",
+    "source": {
+      "list": "NINTENDO",
+      "line": 45
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nintendolabo.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:nintendolabo.cn:@cn",
+    "source": {
+      "list": "NINTENDO",
+      "line": 46
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nintendonetwork.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nintendonetwork.net",
+    "source": {
+      "list": "NINTENDO",
+      "line": 47
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nintendonyc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nintendonyc.com",
+    "source": {
+      "list": "NINTENDO",
+      "line": 48
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nintendostore.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nintendostore.com",
+    "source": {
+      "list": "NINTENDO",
+      "line": 49
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nintendoswitch.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:nintendoswitch.cn:@cn",
+    "source": {
+      "list": "NINTENDO",
+      "line": 50
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nintendoswitch.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nintendoswitch.com",
+    "source": {
+      "list": "NINTENDO",
+      "line": 51
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nintendoswitch.com.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:nintendoswitch.com.cn:@cn",
+    "source": {
+      "list": "NINTENDO",
+      "line": 52
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nintendoswitch.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nintendoswitch.net",
+    "source": {
+      "list": "NINTENDO",
+      "line": 53
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nintendoswitchtogether.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nintendoswitchtogether.com",
+    "source": {
+      "list": "NINTENDO",
+      "line": 54
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nintendowii.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nintendowii.com",
+    "source": {
+      "list": "NINTENDO",
+      "line": 131
+    }
+  },
+  {
+    "type": "domain",
+    "value": "personaltrainermath.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:personaltrainermath.com",
+    "source": {
+      "list": "NINTENDO",
+      "line": 55
+    }
+  },
+  {
+    "type": "domain",
+    "value": "playnintendo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:playnintendo.com",
+    "source": {
+      "list": "NINTENDO",
+      "line": 56
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pokedex3d.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pokedex3d.com",
+    "source": {
+      "list": "NINTENDO",
+      "line": 81
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pokemon-moon.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pokemon-moon.com",
+    "source": {
+      "list": "NINTENDO",
+      "line": 82
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pokemon-sun.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pokemon-sun.com",
+    "source": {
+      "list": "NINTENDO",
+      "line": 83
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pokemon-sunmoon.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pokemon-sunmoon.com",
+    "source": {
+      "list": "NINTENDO",
+      "line": 84
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pokemon-unitepgame.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pokemon-unitepgame.com",
+    "source": {
+      "list": "NINTENDO",
+      "line": 85
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pokemon.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pokemon.com",
+    "source": {
+      "list": "NINTENDO",
+      "line": 86
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pokemonbank.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pokemonbank.com",
+    "source": {
+      "list": "NINTENDO",
+      "line": 87
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pokemonblackwhite.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pokemonblackwhite.com",
+    "source": {
+      "list": "NINTENDO",
+      "line": 88
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pokemonbw.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pokemonbw.com",
+    "source": {
+      "list": "NINTENDO",
+      "line": 89
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pokemonchampionships.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pokemonchampionships.com",
+    "source": {
+      "list": "NINTENDO",
+      "line": 90
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pokemongoldsilver.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pokemongoldsilver.com",
+    "source": {
+      "list": "NINTENDO",
+      "line": 91
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pokemonhome.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pokemonhome.com",
+    "source": {
+      "list": "NINTENDO",
+      "line": 92
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pokemonletsgoeevee.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pokemonletsgoeevee.com",
+    "source": {
+      "list": "NINTENDO",
+      "line": 93
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pokemonletsgopikachu.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pokemonletsgopikachu.com",
+    "source": {
+      "list": "NINTENDO",
+      "line": 94
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pokemonmysterydungeon.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pokemonmysterydungeon.com",
+    "source": {
+      "list": "NINTENDO",
+      "line": 95
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pokemonpicross.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pokemonpicross.com",
+    "source": {
+      "list": "NINTENDO",
+      "line": 96
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pokemonplatinum.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pokemonplatinum.com",
+    "source": {
+      "list": "NINTENDO",
+      "line": 97
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pokemonrubysapphire.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pokemonrubysapphire.com",
+    "source": {
+      "list": "NINTENDO",
+      "line": 98
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pokemonsunmoon.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pokemonsunmoon.com",
+    "source": {
+      "list": "NINTENDO",
+      "line": 99
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pokemonswordshield.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pokemonswordshield.com",
+    "source": {
+      "list": "NINTENDO",
+      "line": 100
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pokemonultrasunmoon.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pokemonultrasunmoon.com",
+    "source": {
+      "list": "NINTENDO",
+      "line": 101
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pokemonvgc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pokemonvgc.com",
+    "source": {
+      "list": "NINTENDO",
+      "line": 102
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pokemonwifi.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pokemonwifi.net",
+    "source": {
+      "list": "NINTENDO",
+      "line": 103
+    }
+  },
+  {
+    "type": "domain",
+    "value": "splatoon2tournament.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:splatoon2tournament.com",
+    "source": {
+      "list": "NINTENDO",
+      "line": 108
+    }
+  },
+  {
+    "type": "domain",
+    "value": "starfox.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:starfox.com",
+    "source": {
+      "list": "NINTENDO",
+      "line": 111
+    }
+  },
+  {
+    "type": "domain",
+    "value": "supermario.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:supermario.com",
+    "source": {
+      "list": "NINTENDO",
+      "line": 123
+    }
+  },
+  {
+    "type": "domain",
+    "value": "supermario3dworld.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:supermario3dworld.com",
+    "source": {
+      "list": "NINTENDO",
+      "line": 124
+    }
+  },
+  {
+    "type": "domain",
+    "value": "supermariobros.com.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:supermariobros.com.cn:@cn",
+    "source": {
+      "list": "NINTENDO",
+      "line": 125
+    }
+  },
+  {
+    "type": "domain",
+    "value": "supermariogalaxy.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:supermariogalaxy.com",
+    "source": {
+      "list": "NINTENDO",
+      "line": 126
+    }
+  },
+  {
+    "type": "domain",
+    "value": "supermariorun.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:supermariorun.com",
+    "source": {
+      "list": "NINTENDO",
+      "line": 127
+    }
+  },
+  {
+    "type": "domain",
+    "value": "superpapermario.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:superpapermario.com",
+    "source": {
+      "list": "NINTENDO",
+      "line": 128
+    }
+  },
+  {
+    "type": "domain",
+    "value": "supersmashbros.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:supersmashbros.cn:@cn",
+    "source": {
+      "list": "NINTENDO",
+      "line": 57
+    }
+  },
+  {
+    "type": "domain",
+    "value": "supersmashbros.com.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:supersmashbros.com.cn:@cn",
+    "source": {
+      "list": "NINTENDO",
+      "line": 58
+    }
+  },
+  {
+    "type": "domain",
+    "value": "thelegendarystarfy.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:thelegendarystarfy.com",
+    "source": {
+      "list": "NINTENDO",
+      "line": 59
+    }
+  },
+  {
+    "type": "domain",
+    "value": "thewonderful101.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:thewonderful101.com",
+    "source": {
+      "list": "NINTENDO",
+      "line": 60
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wariolandshakeit.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wariolandshakeit.com",
+    "source": {
+      "list": "NINTENDO",
+      "line": 61
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wariowarediy.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wariowarediy.com",
+    "source": {
+      "list": "NINTENDO",
+      "line": 62
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wii-u.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wii-u.com",
+    "source": {
+      "list": "NINTENDO",
+      "line": 132
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wiifit.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wiifit.com",
+    "source": {
+      "list": "NINTENDO",
+      "line": 133
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wiifitu.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wiifitu.com",
+    "source": {
+      "list": "NINTENDO",
+      "line": 134
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wiipartyu.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wiipartyu.com",
+    "source": {
+      "list": "NINTENDO",
+      "line": 135
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wiisports.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wiisports.com",
+    "source": {
+      "list": "NINTENDO",
+      "line": 136
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wiisportsresort.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wiisportsresort.com",
+    "source": {
+      "list": "NINTENDO",
+      "line": 137
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wiiugamepad.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wiiugamepad.com",
+    "source": {
+      "list": "NINTENDO",
+      "line": 138
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wiivc.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wiivc.net",
+    "source": {
+      "list": "NINTENDO",
+      "line": 139
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xenoblade.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xenoblade.com",
+    "source": {
+      "list": "NINTENDO",
+      "line": 142
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--mts47c3w9b1qr.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:xn--mts47c3w9b1qr.cn:@cn",
+    "source": {
+      "list": "NINTENDO",
+      "line": 104
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--mts47c3w9b1qr.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--mts47c3w9b1qr.net",
+    "source": {
+      "list": "NINTENDO",
+      "line": 105
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yoshisnewisland.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yoshisnewisland.com",
+    "source": {
+      "list": "NINTENDO",
+      "line": 63
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "newegg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:newegg.com",
+    "source": {
+      "list": "NEWEGG",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "neweggimages.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:neweggimages.com",
+    "source": {
+      "list": "NEWEGG",
+      "line": 2
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "debian.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:debian.org",
+    "source": {
+      "list": "DEBIAN",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dotdeb.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dotdeb.org",
+    "source": {
+      "list": "DEBIAN",
+      "line": 2
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "proquest.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:proquest.com",
+    "source": {
+      "list": "PROQUEST",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "serialssolutions.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:serialssolutions.com",
+    "source": {
+      "list": "PROQUEST",
+      "line": 1
+    }
+  }
+]

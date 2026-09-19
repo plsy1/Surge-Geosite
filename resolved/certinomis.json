@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "certinomis.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:certinomis.com",
+    "source": {
+      "list": "CERTINOMIS",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "certinomis.fr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:certinomis.fr",
+    "source": {
+      "list": "CERTINOMIS",
+      "line": 2
+    }
+  }
+]

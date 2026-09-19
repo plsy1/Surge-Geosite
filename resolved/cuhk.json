@@ -1,0 +1,90 @@
+[
+  {
+    "type": "domain",
+    "value": "cuhk.edu.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cuhk.edu.hk",
+    "source": {
+      "list": "CUHK",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cuhk.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cuhk.hk",
+    "source": {
+      "list": "CUHK",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--fiqs8s1byzqyvl.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--fiqs8s1byzqyvl.hk",
+    "source": {
+      "list": "CUHK",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--fiqs8s1byzqyvl.xn--j6w193g",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--fiqs8s1byzqyvl.xn--j6w193g",
+    "source": {
+      "list": "CUHK",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--mxtq18a.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--mxtq18a.hk",
+    "source": {
+      "list": "CUHK",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--mxtq18a.xn--j6w193g",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--mxtq18a.xn--j6w193g",
+    "source": {
+      "list": "CUHK",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--pssu7cv61ahwcb1p2yk.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--pssu7cv61ahwcb1p2yk.hk",
+    "source": {
+      "list": "CUHK",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--pssu7cv61ahwcb1p2yk.xn--j6w193g",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--pssu7cv61ahwcb1p2yk.xn--j6w193g",
+    "source": {
+      "list": "CUHK",
+      "line": 11
+    }
+  }
+]

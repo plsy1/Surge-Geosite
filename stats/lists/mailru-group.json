@@ -1,0 +1,59 @@
+{
+  "name": "MAILRU-GROUP",
+  "source": {
+    "domain": 188,
+    "full": 37,
+    "keyword": 0,
+    "regexp": 0,
+    "include": 3,
+    "affiliations": 0,
+    "attributes": 53
+  },
+  "resolved": {
+    "rules": 298,
+    "domain": 252,
+    "full": 46,
+    "keyword": 0,
+    "regexp": 0
+  },
+  "filters": {
+    "attrs": {
+      "ads": 70
+    }
+  },
+  "modes": {
+    "strict": {
+      "rules": 298,
+      "bytes": 7818,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "balanced": {
+      "rules": 298,
+      "bytes": 7818,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "full": {
+      "rules": 298,
+      "bytes": 7818,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    }
+  }
+}

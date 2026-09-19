@@ -1,0 +1,68 @@
+[
+  {
+    "type": "domain",
+    "value": "cht.com.tw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cht.com.tw",
+    "source": {
+      "list": "HINET",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "chtf.org.tw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:chtf.org.tw",
+    "source": {
+      "list": "HINET",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "emome.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:emome.net",
+    "source": {
+      "list": "HINET",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gtlsca.nat.gov.tw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gtlsca.nat.gov.tw",
+    "source": {
+      "list": "HINET-ECA",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hinet.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hinet.net",
+    "source": {
+      "list": "HINET",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xuite.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xuite.net",
+    "source": {
+      "list": "HINET",
+      "line": 7
+    }
+  }
+]

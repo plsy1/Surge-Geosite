@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "airport-gov-cn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airport-gov-cn.com",
+    "source": {
+      "list": "SSRCLOUD",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cnix-gov-cn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cnix-gov-cn.com",
+    "source": {
+      "list": "SSRCLOUD",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--d4ty0ojsqzfd.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--d4ty0ojsqzfd.com",
+    "source": {
+      "list": "SSRCLOUD",
+      "line": 3
+    }
+  }
+]

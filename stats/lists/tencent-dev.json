@@ -1,0 +1,59 @@
+{
+  "name": "TENCENT-DEV",
+  "source": {
+    "domain": 12,
+    "full": 0,
+    "keyword": 0,
+    "regexp": 0,
+    "include": 2,
+    "affiliations": 0,
+    "attributes": 1
+  },
+  "resolved": {
+    "rules": 15,
+    "domain": 15,
+    "full": 0,
+    "keyword": 0,
+    "regexp": 0
+  },
+  "filters": {
+    "attrs": {
+      "ads": 1
+    }
+  },
+  "modes": {
+    "strict": {
+      "rules": 15,
+      "bytes": 427,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "balanced": {
+      "rules": 15,
+      "bytes": 427,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "full": {
+      "rules": 15,
+      "bytes": 427,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    }
+  }
+}

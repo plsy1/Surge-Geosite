@@ -1,0 +1,90 @@
+[
+  {
+    "type": "domain",
+    "value": "dazn-api.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dazn-api.com",
+    "source": {
+      "list": "DAZN",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dazn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dazn.com",
+    "source": {
+      "list": "DAZN",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dazndn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dazndn.com",
+    "source": {
+      "list": "DAZN",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "daznfeeds.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:daznfeeds.com",
+    "source": {
+      "list": "DAZN",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "daznplayer.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:daznplayer.com",
+    "source": {
+      "list": "DAZN",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "daznservices.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:daznservices.com",
+    "source": {
+      "list": "DAZN",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "indazn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:indazn.com",
+    "source": {
+      "list": "DAZN",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "indaznlab.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:indaznlab.com",
+    "source": {
+      "list": "DAZN",
+      "line": 8
+    }
+  }
+]

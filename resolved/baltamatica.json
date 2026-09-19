@@ -1,0 +1,46 @@
+[
+  {
+    "type": "domain",
+    "value": "baltamatica.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:baltamatica.cn",
+    "source": {
+      "list": "BALTAMATICA",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "baltamatica.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:baltamatica.com",
+    "source": {
+      "list": "BALTAMATICA",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "baltamatica.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:baltamatica.net",
+    "source": {
+      "list": "BALTAMATICA",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "baltamatica.org.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:baltamatica.org.cn",
+    "source": {
+      "list": "BALTAMATICA",
+      "line": 5
+    }
+  }
+]

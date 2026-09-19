@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "liberapay.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:liberapay.com",
+    "source": {
+      "list": "LIBERAPAY",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "liberapay.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:liberapay.org",
+    "source": {
+      "list": "LIBERAPAY",
+      "line": 2
+    }
+  }
+]

@@ -1,0 +1,970 @@
+[
+  {
+    "type": "domain",
+    "value": "anycross.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:anycross.com",
+    "source": {
+      "list": "FEISHU",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "baseopendev.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:baseopendev.com",
+    "source": {
+      "list": "LARK",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "blmpb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:blmpb.com",
+    "source": {
+      "list": "FEISHU",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bytecloud.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bytecloud.com",
+    "source": {
+      "list": "LARK",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bytedancehermestest.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bytedancehermestest.com",
+    "source": {
+      "list": "FEISHU",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "byteoc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:byteoc.com",
+    "source": {
+      "list": "LARK",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bytewebservice.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bytewebservice.com",
+    "source": {
+      "list": "LARK",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bytexns.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bytexns.cn",
+    "source": {
+      "list": "LARK",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bytexns.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bytexns.com",
+    "source": {
+      "list": "LARK",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bytexns.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bytexns.net",
+    "source": {
+      "list": "LARK",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bytexopen.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bytexopen.com",
+    "source": {
+      "list": "LARK",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bytexservice.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bytexservice.com",
+    "source": {
+      "list": "LARK",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "falconsending.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:falconsending.com",
+    "source": {
+      "list": "FEISHU",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fei-shu.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fei-shu.cn",
+    "source": {
+      "list": "FEISHU",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "feishu-3rd-party-services.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:feishu-3rd-party-services.com",
+    "source": {
+      "list": "FEISHU",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "feishu-boe.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:feishu-boe.net",
+    "source": {
+      "list": "FEISHU",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "feishu-customer.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:feishu-customer.cn",
+    "source": {
+      "list": "FEISHU",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "feishu-pre.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:feishu-pre.cn",
+    "source": {
+      "list": "FEISHU",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "feishu-pre.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:feishu-pre.net",
+    "source": {
+      "list": "FEISHU",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "feishu-psc.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:feishu-psc.cn",
+    "source": {
+      "list": "FEISHU",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "feishu-staging.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:feishu-staging.cn",
+    "source": {
+      "list": "FEISHU",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "feishu.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:feishu.cn",
+    "source": {
+      "list": "FEISHU",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "feishu.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:feishu.net",
+    "source": {
+      "list": "FEISHU",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "feishuapp-cdn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:feishuapp-cdn.net",
+    "source": {
+      "list": "FEISHU",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "feishuapp.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:feishuapp.cn",
+    "source": {
+      "list": "FEISHU",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "feishuapp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:feishuapp.com",
+    "source": {
+      "list": "FEISHU",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "feishucdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:feishucdn.com",
+    "source": {
+      "list": "FEISHU",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "feishudoc.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:feishudoc.cn",
+    "source": {
+      "list": "FEISHU",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "feishudoc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:feishudoc.com",
+    "source": {
+      "list": "FEISHU",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "feishuhuiyi.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:feishuhuiyi.cn",
+    "source": {
+      "list": "FEISHU",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "feishuhuiyi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:feishuhuiyi.com",
+    "source": {
+      "list": "FEISHU",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "feishuimg-boe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:feishuimg-boe.com",
+    "source": {
+      "list": "FEISHU",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "feishuimg-pre.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:feishuimg-pre.com",
+    "source": {
+      "list": "FEISHU",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "feishuimg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:feishuimg.com",
+    "source": {
+      "list": "FEISHU",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "feishukacdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:feishukacdn.com",
+    "source": {
+      "list": "FEISHU",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "feishumeetings.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:feishumeetings.cn",
+    "source": {
+      "list": "FEISHU",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "feishumeetings.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:feishumeetings.com",
+    "source": {
+      "list": "FEISHU",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "feishuoffice.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:feishuoffice.cn",
+    "source": {
+      "list": "FEISHU",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "feishuoffice.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:feishuoffice.com",
+    "source": {
+      "list": "FEISHU",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "feishuopenplatformrecord.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:feishuopenplatformrecord.com",
+    "source": {
+      "list": "FEISHU",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "feishupkg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:feishupkg.com",
+    "source": {
+      "list": "FEISHU",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "feishustatus.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:feishustatus.cn",
+    "source": {
+      "list": "FEISHU",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "feishuvc.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:feishuvc.cn",
+    "source": {
+      "list": "FEISHU",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "feishuvc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:feishuvc.com",
+    "source": {
+      "list": "FEISHU",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "frontier-lark-lb-v3.lf.bytelb.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:frontier-lark-lb-v3.lf.bytelb.net",
+    "source": {
+      "list": "LARK-GLOBAL",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "getfeishu.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:getfeishu.cn",
+    "source": {
+      "list": "FEISHU",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "getfeishu.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:getfeishu.com",
+    "source": {
+      "list": "FEISHU",
+      "line": 37
+    }
+  },
+  {
+    "type": "domain",
+    "value": "getsays.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:getsays.cn",
+    "source": {
+      "list": "FEISHU",
+      "line": 38
+    }
+  },
+  {
+    "type": "domain",
+    "value": "getsays.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:getsays.com",
+    "source": {
+      "list": "FEISHU",
+      "line": 39
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lackvc.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lackvc.cn",
+    "source": {
+      "list": "FEISHU",
+      "line": 40
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lark-passport-qa-sg.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lark-passport-qa-sg.net",
+    "source": {
+      "list": "LARK-GLOBAL",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lark.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lark.cn",
+    "source": {
+      "list": "LARK-GLOBAL",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "larkcloud.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:larkcloud.com",
+    "source": {
+      "list": "LARK-GLOBAL",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "larkcloud.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:larkcloud.net",
+    "source": {
+      "list": "LARK-GLOBAL",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "larkfn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:larkfn.com",
+    "source": {
+      "list": "LARK-GLOBAL",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "larkmeetings.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:larkmeetings.cn",
+    "source": {
+      "list": "LARK-GLOBAL",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "larkmeetings.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:larkmeetings.com",
+    "source": {
+      "list": "LARK-GLOBAL",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "larkoffice.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:larkoffice.com",
+    "source": {
+      "list": "LARK-GLOBAL",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "larkoffice.com.bytedns1.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:larkoffice.com.bytedns1.com",
+    "source": {
+      "list": "LARK-GLOBAL",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "larkofficeapp-boe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:larkofficeapp-boe.com",
+    "source": {
+      "list": "LARK-GLOBAL",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "larkofficeapp-pre.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:larkofficeapp-pre.com",
+    "source": {
+      "list": "LARK-GLOBAL",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "larkofficeapp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:larkofficeapp.com",
+    "source": {
+      "list": "LARK-GLOBAL",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "larkofficeboe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:larkofficeboe.com",
+    "source": {
+      "list": "LARK-GLOBAL",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "larkofficecdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:larkofficecdn.com",
+    "source": {
+      "list": "LARK-GLOBAL",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "larkofficeimg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:larkofficeimg.com",
+    "source": {
+      "list": "LARK-GLOBAL",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "larkofficepkg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:larkofficepkg.com",
+    "source": {
+      "list": "LARK-GLOBAL",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "larkofficepre.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:larkofficepre.com",
+    "source": {
+      "list": "LARK-GLOBAL",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "larkrooms.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:larkrooms.cn",
+    "source": {
+      "list": "LARK-GLOBAL",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "larkrooms.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:larkrooms.com",
+    "source": {
+      "list": "LARK-GLOBAL",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "larksuite-pre.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:larksuite-pre.com",
+    "source": {
+      "list": "LARK-GLOBAL",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "larksuite.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:larksuite.com",
+    "source": {
+      "list": "LARK-GLOBAL",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "larksuite.com.ttdns1.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:larksuite.com.ttdns1.com",
+    "source": {
+      "list": "LARK-GLOBAL",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "larksuite.com.ttdns2.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:larksuite.com.ttdns2.com",
+    "source": {
+      "list": "LARK-GLOBAL",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "larksuitecdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:larksuitecdn.com",
+    "source": {
+      "list": "LARK-GLOBAL",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "larksuiteimg-boe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:larksuiteimg-boe.com",
+    "source": {
+      "list": "LARK-GLOBAL",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "larksuiteimg-pre.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:larksuiteimg-pre.com",
+    "source": {
+      "list": "LARK-GLOBAL",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "larksuiteimg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:larksuiteimg.com",
+    "source": {
+      "list": "LARK-GLOBAL",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "larkvc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:larkvc.com",
+    "source": {
+      "list": "LARK-GLOBAL",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "meegobeta.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:meegobeta.com",
+    "source": {
+      "list": "LARK",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "okr.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:okr.cn",
+    "source": {
+      "list": "LARK",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "okr.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:okr.com",
+    "source": {
+      "list": "LARK",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "okr.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:okr.com.cn",
+    "source": {
+      "list": "LARK",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "securityfeishu.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:securityfeishu.cn",
+    "source": {
+      "list": "FEISHU",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "securityfs.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:securityfs.cn",
+    "source": {
+      "list": "FEISHU",
+      "line": 42
+    }
+  },
+  {
+    "type": "domain",
+    "value": "statusfeishu.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:statusfeishu.cn",
+    "source": {
+      "list": "FEISHU",
+      "line": 43
+    }
+  },
+  {
+    "type": "domain",
+    "value": "statuslarkoffice.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:statuslarkoffice.com",
+    "source": {
+      "list": "LARK-GLOBAL",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "thelarkcloud.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:thelarkcloud.com",
+    "source": {
+      "list": "LARK-GLOBAL",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vscenevideo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vscenevideo.com",
+    "source": {
+      "list": "LARK",
+      "line": 19
+    }
+  }
+]

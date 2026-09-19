@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "ixsystems.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ixsystems.com",
+    "source": {
+      "list": "IXSYSTEMS",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "truenas.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:truenas.com",
+    "source": {
+      "list": "IXSYSTEMS",
+      "line": 2
+    }
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "archive-it.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:archive-it.org",
+    "source": {
+      "list": "INTERNET-ARCHIVE",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "archive.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:archive.org",
+    "source": {
+      "list": "INTERNET-ARCHIVE",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "openlibrary.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:openlibrary.org",
+    "source": {
+      "list": "INTERNET-ARCHIVE",
+      "line": 3
+    }
+  }
+]

@@ -1,0 +1,149 @@
+[
+  {
+    "type": "domain",
+    "value": "apexprint.com.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:apexprint.com.hk",
+    "source": {
+      "list": "HKETGROUP",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "eprc.com.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:eprc.com.hk",
+    "source": {
+      "list": "HKETGROUP",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "etbc.com.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:etbc.com.hk",
+    "source": {
+      "list": "HKETGROUP",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "etnet.com.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:etnet.com.cn:@cn",
+    "source": {
+      "list": "HKETGROUP",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "etnet.com.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:etnet.com.hk",
+    "source": {
+      "list": "HKETGROUP",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "etnetchina.com.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:etnetchina.com.cn:@cn",
+    "source": {
+      "list": "HKETGROUP",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "etpress.com.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:etpress.com.hk",
+    "source": {
+      "list": "HKETGROUP",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ettrade.com.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ettrade.com.hk",
+    "source": {
+      "list": "HKETGROUP",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "etwealth.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:etwealth.com",
+    "source": {
+      "list": "HKETGROUP",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hket.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hket.com",
+    "source": {
+      "list": "HKETGROUP",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hketgroup.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hketgroup.com",
+    "source": {
+      "list": "HKETGROUP",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ulifestyle.com.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ulifestyle.com.hk",
+    "source": {
+      "list": "HKETGROUP",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "umagazine.com.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:umagazine.com.hk",
+    "source": {
+      "list": "HKETGROUP",
+      "line": 13
+    }
+  }
+]

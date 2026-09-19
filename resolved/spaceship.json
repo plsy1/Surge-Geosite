@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "spacemail.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:spacemail.com",
+    "source": {
+      "list": "SPACEMAIL",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "spaceship.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:spaceship.com",
+    "source": {
+      "list": "SPACESHIP",
+      "line": 3
+    }
+  }
+]

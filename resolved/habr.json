@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "habr.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:habr.com",
+    "source": {
+      "list": "HABR",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "habrastorage.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:habrastorage.org",
+    "source": {
+      "list": "HABR",
+      "line": 2
+    }
+  }
+]

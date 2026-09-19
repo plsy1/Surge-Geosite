@@ -1,0 +1,57 @@
+{
+  "name": "CATEGORY-IR",
+  "source": {
+    "domain": 34,
+    "full": 0,
+    "keyword": 0,
+    "regexp": 0,
+    "include": 16,
+    "affiliations": 0,
+    "attributes": 0
+  },
+  "resolved": {
+    "rules": 190,
+    "domain": 190,
+    "full": 0,
+    "keyword": 0,
+    "regexp": 0
+  },
+  "filters": {
+    "attrs": {}
+  },
+  "modes": {
+    "strict": {
+      "rules": 190,
+      "bytes": 5270,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "balanced": {
+      "rules": 190,
+      "bytes": 5270,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "full": {
+      "rules": 190,
+      "bytes": 5270,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    }
+  }
+}

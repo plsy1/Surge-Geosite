@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "4cdn.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:4cdn.org",
+    "source": {
+      "list": "4CHAN",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "4chan.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:4chan.org",
+    "source": {
+      "list": "4CHAN",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "4channel.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:4channel.org",
+    "source": {
+      "list": "4CHAN",
+      "line": 3
+    }
+  }
+]

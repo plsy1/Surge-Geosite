@@ -1,0 +1,46 @@
+[
+  {
+    "type": "domain",
+    "value": "themoviedb.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:themoviedb.org",
+    "source": {
+      "list": "TMDB",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tmdb.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tmdb.org",
+    "source": {
+      "list": "TMDB",
+      "line": 2
+    }
+  },
+  {
+    "type": "full",
+    "value": "tmdb-image-prod.b-cdn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:tmdb-image-prod.b-cdn.net",
+    "source": {
+      "list": "TMDB",
+      "line": 4
+    }
+  },
+  {
+    "type": "full",
+    "value": "tmdb-web-image-prod.b-cdn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:tmdb-web-image-prod.b-cdn.net",
+    "source": {
+      "list": "TMDB",
+      "line": 5
+    }
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "agora.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:agora.io",
+    "source": {
+      "list": "AGORA",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "agoraio.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:agoraio.cn",
+    "source": {
+      "list": "AGORA",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "agoralab.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:agoralab.co",
+    "source": {
+      "list": "AGORA",
+      "line": 3
+    }
+  }
+]

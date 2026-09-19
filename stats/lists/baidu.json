@@ -1,0 +1,59 @@
+{
+  "name": "BAIDU",
+  "source": {
+    "domain": 132,
+    "full": 0,
+    "keyword": 0,
+    "regexp": 0,
+    "include": 1,
+    "affiliations": 0,
+    "attributes": 50
+  },
+  "resolved": {
+    "rules": 136,
+    "domain": 136,
+    "full": 0,
+    "keyword": 0,
+    "regexp": 0
+  },
+  "filters": {
+    "attrs": {
+      "ads": 51
+    }
+  },
+  "modes": {
+    "strict": {
+      "rules": 136,
+      "bytes": 3832,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "balanced": {
+      "rules": 136,
+      "bytes": 3832,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "full": {
+      "rules": 136,
+      "bytes": 3832,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    }
+  }
+}

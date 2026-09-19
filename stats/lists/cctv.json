@@ -1,0 +1,59 @@
+{
+  "name": "CCTV",
+  "source": {
+    "domain": 44,
+    "full": 0,
+    "keyword": 0,
+    "regexp": 0,
+    "include": 0,
+    "affiliations": 0,
+    "attributes": 1
+  },
+  "resolved": {
+    "rules": 44,
+    "domain": 44,
+    "full": 0,
+    "keyword": 0,
+    "regexp": 0
+  },
+  "filters": {
+    "attrs": {
+      "ads": 1
+    }
+  },
+  "modes": {
+    "strict": {
+      "rules": 44,
+      "bytes": 1296,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "balanced": {
+      "rules": 44,
+      "bytes": 1296,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "full": {
+      "rules": 44,
+      "bytes": 1296,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    }
+  }
+}

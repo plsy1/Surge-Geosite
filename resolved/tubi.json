@@ -1,0 +1,46 @@
+[
+  {
+    "type": "domain",
+    "value": "tubi.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tubi.io",
+    "source": {
+      "list": "TUBI",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tubi.tv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tubi.tv",
+    "source": {
+      "list": "TUBI",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tubi.video",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tubi.video",
+    "source": {
+      "list": "TUBI",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tubitv.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tubitv.com",
+    "source": {
+      "list": "TUBI",
+      "line": 4
+    }
+  }
+]

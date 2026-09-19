@@ -1,0 +1,79 @@
+[
+  {
+    "type": "domain",
+    "value": "missav.ai",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:missav.ai",
+    "source": {
+      "list": "MISSAV",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "missav.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:missav.com",
+    "source": {
+      "list": "MISSAV",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "missav.live",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:missav.live",
+    "source": {
+      "list": "MISSAV",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "missav.uno",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:missav.uno",
+    "source": {
+      "list": "MISSAV",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "missav.vip",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:missav.vip",
+    "source": {
+      "list": "MISSAV",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "missav.ws",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:missav.ws",
+    "source": {
+      "list": "MISSAV",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "missav123.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:missav123.com",
+    "source": {
+      "list": "MISSAV",
+      "line": 7
+    }
+  }
+]

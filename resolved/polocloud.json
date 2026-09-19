@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "polocloud.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:polocloud.net",
+    "source": {
+      "list": "POLOCLOUD",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "polocloud.xyz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:polocloud.xyz",
+    "source": {
+      "list": "POLOCLOUD",
+      "line": 2
+    }
+  }
+]

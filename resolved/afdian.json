@@ -1,0 +1,46 @@
+[
+  {
+    "type": "domain",
+    "value": "afdian.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:afdian.com",
+    "source": {
+      "list": "AFDIAN",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "afdian.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:afdian.net",
+    "source": {
+      "list": "AFDIAN",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "afdiancdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:afdiancdn.com",
+    "source": {
+      "list": "AFDIAN",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ifdian.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ifdian.net",
+    "source": {
+      "list": "AFDIAN",
+      "line": 4
+    }
+  }
+]

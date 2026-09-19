@@ -1,0 +1,68 @@
+[
+  {
+    "type": "domain",
+    "value": "callersbane.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:callersbane.com",
+    "source": {
+      "list": "MOJANG",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "minecraft-services.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:minecraft-services.net",
+    "source": {
+      "list": "MOJANG",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "minecraft.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:minecraft.net",
+    "source": {
+      "list": "MOJANG",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "minecraftservices.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:minecraftservices.com",
+    "source": {
+      "list": "MOJANG",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "minecraftshop.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:minecraftshop.com",
+    "source": {
+      "list": "MOJANG",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mojang.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mojang.com",
+    "source": {
+      "list": "MOJANG",
+      "line": 6
+    }
+  }
+]

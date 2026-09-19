@@ -1,0 +1,159 @@
+[
+  {
+    "type": "domain",
+    "value": "amplifi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:amplifi.com",
+    "source": {
+      "list": "UBIQUITI",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amplifi.com.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:amplifi.com.cn:@cn",
+    "source": {
+      "list": "UBIQUITI",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "frontrow.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:frontrow.com",
+    "source": {
+      "list": "UBIQUITI",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "frontrow.com.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:frontrow.com.cn:@cn",
+    "source": {
+      "list": "UBIQUITI",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ubncloud.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ubncloud.com",
+    "source": {
+      "list": "UBIQUITI",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ubnt.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:ubnt.com:@cn",
+    "source": {
+      "list": "UBIQUITI",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ubnt.com.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:ubnt.com.cn:@cn",
+    "source": {
+      "list": "UBIQUITI",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ui.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ui.com",
+    "source": {
+      "list": "UBIQUITI",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ui.com.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:ui.com.cn:@cn",
+    "source": {
+      "list": "UBIQUITI",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "uisp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:uisp.com",
+    "source": {
+      "list": "UBIQUITI",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "uum.com.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:uum.com.cn:@cn",
+    "source": {
+      "list": "UBIQUITI",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "uwn.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:uwn.com:@cn",
+    "source": {
+      "list": "UBIQUITI",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wifiman.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wifiman.com",
+    "source": {
+      "list": "UBIQUITI",
+      "line": 13
+    }
+  }
+]

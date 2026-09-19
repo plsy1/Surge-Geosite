@@ -1,0 +1,1742 @@
+[
+  {
+    "type": "domain",
+    "value": "123-hp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:123-hp.com",
+    "source": {
+      "list": "HP",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "123hplaserjet.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:123hplaserjet.com",
+    "source": {
+      "list": "HP",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "8008206616.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:8008206616.com",
+    "source": {
+      "list": "HP",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "as-hp.ca",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:as-hp.ca",
+    "source": {
+      "list": "HP",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "baterias-hp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:baterias-hp.com",
+    "source": {
+      "list": "HP",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "campushp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:campushp.com",
+    "source": {
+      "list": "HP",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "colorprotechnology.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:colorprotechnology.com",
+    "source": {
+      "list": "HP",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "compaq.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:compaq.org",
+    "source": {
+      "list": "HP",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "david-laserscanner.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:david-laserscanner.com",
+    "source": {
+      "list": "HP",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "demoprint.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:demoprint.com",
+    "source": {
+      "list": "HP",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "digitalpack.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:digitalpack.com",
+    "source": {
+      "list": "HP",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "eprintsw.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:eprintsw.com",
+    "source": {
+      "list": "HP",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gaming-notebooks.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gaming-notebooks.com",
+    "source": {
+      "list": "HP",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "getprintersupports.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:getprintersupports.com",
+    "source": {
+      "list": "HP",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hp-imagine.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hp-imagine.com",
+    "source": {
+      "list": "HP",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hp-infolab.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hp-infolab.com",
+    "source": {
+      "list": "HP",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hp-invent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hp-invent.com",
+    "source": {
+      "list": "HP",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hp-invent.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hp-invent.info",
+    "source": {
+      "list": "HP",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hp-mns.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hp-mns.com",
+    "source": {
+      "list": "HP",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hp-printing.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hp-printing.com",
+    "source": {
+      "list": "HP",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hp-webplatform.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hp-webplatform.com",
+    "source": {
+      "list": "HP",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hp-ww.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hp-ww.com",
+    "source": {
+      "list": "HP",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hp.com",
+    "source": {
+      "list": "HP",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hp.company",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hp.company",
+    "source": {
+      "list": "HP",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hp.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hp.io",
+    "source": {
+      "list": "HP",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hp3d.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hp3d.com",
+    "source": {
+      "list": "HP",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hp3dmetals.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hp3dmetals.com",
+    "source": {
+      "list": "HP",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hp3dprinter.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hp3dprinter.com",
+    "source": {
+      "list": "HP",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hp3dsamplepromo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hp3dsamplepromo.com",
+    "source": {
+      "list": "HP",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hpallinoneprinter.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hpallinoneprinter.com",
+    "source": {
+      "list": "HP",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hpapplicationscenter.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hpapplicationscenter.com",
+    "source": {
+      "list": "HP",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hpbestbuy.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hpbestbuy.com",
+    "source": {
+      "list": "HP",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hpbluecarpet.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hpbluecarpet.com",
+    "source": {
+      "list": "HP",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hpbluecarpet.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hpbluecarpet.net",
+    "source": {
+      "list": "HP",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hpbuiltforlearning.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hpbuiltforlearning.com",
+    "source": {
+      "list": "HP",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hpbundle.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hpbundle.com",
+    "source": {
+      "list": "HP",
+      "line": 37
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hpcampus.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hpcampus.com",
+    "source": {
+      "list": "HP",
+      "line": 38
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hpcatridge.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hpcatridge.com",
+    "source": {
+      "list": "HP",
+      "line": 39
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hpccp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hpccp.com",
+    "source": {
+      "list": "HP",
+      "line": 40
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hpceo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hpceo.com",
+    "source": {
+      "list": "HP",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hpcmw.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hpcmw.net",
+    "source": {
+      "list": "HP",
+      "line": 42
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hpcodewarsbcn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hpcodewarsbcn.com",
+    "source": {
+      "list": "HP",
+      "line": 43
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hpcomputers.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hpcomputers.com",
+    "source": {
+      "list": "HP",
+      "line": 44
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hpcomputerservices.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hpcomputerservices.com",
+    "source": {
+      "list": "HP",
+      "line": 45
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hpconnected.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hpconnected.com",
+    "source": {
+      "list": "HP",
+      "line": 46
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hpconnected.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hpconnected.net",
+    "source": {
+      "list": "HP",
+      "line": 47
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hpconnected.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hpconnected.org",
+    "source": {
+      "list": "HP",
+      "line": 48
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hpconnected.us",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hpconnected.us",
+    "source": {
+      "list": "HP",
+      "line": 49
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hpconnectedstage.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hpconnectedstage.com",
+    "source": {
+      "list": "HP",
+      "line": 50
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hpcontinuum.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hpcontinuum.com",
+    "source": {
+      "list": "HP",
+      "line": 51
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hpcpi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hpcpi.com",
+    "source": {
+      "list": "HP",
+      "line": 52
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hpcu.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hpcu.org",
+    "source": {
+      "list": "HP",
+      "line": 53
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hpcustomersupport.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hpcustomersupport.com",
+    "source": {
+      "list": "HP",
+      "line": 54
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hpcustomersupport.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hpcustomersupport.net",
+    "source": {
+      "list": "HP",
+      "line": 55
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hpdaas.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hpdaas.com",
+    "source": {
+      "list": "HP",
+      "line": 56
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hpdesignjetl25500.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hpdesignjetl25500.com",
+    "source": {
+      "list": "HP",
+      "line": 57
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hpdesktopcomputer.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hpdesktopcomputer.com",
+    "source": {
+      "list": "HP",
+      "line": 58
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hpdownloadstore.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hpdownloadstore.com",
+    "source": {
+      "list": "HP",
+      "line": 59
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hpdreamcolor.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hpdreamcolor.com",
+    "source": {
+      "list": "HP",
+      "line": 60
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hpdriver.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hpdriver.com",
+    "source": {
+      "list": "HP",
+      "line": 61
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hpdrivers.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hpdrivers.com",
+    "source": {
+      "list": "HP",
+      "line": 62
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hpdrivers.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hpdrivers.org",
+    "source": {
+      "list": "HP",
+      "line": 63
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hpeclipse.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hpeclipse.com",
+    "source": {
+      "list": "HP",
+      "line": 64
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hpengage.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hpengage.com",
+    "source": {
+      "list": "HP",
+      "line": 65
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hpeprint.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hpeprint.com",
+    "source": {
+      "list": "HP",
+      "line": 66
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hpeprintcenter.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hpeprintcenter.com",
+    "source": {
+      "list": "HP",
+      "line": 67
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hpeurope.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hpeurope.com",
+    "source": {
+      "list": "HP",
+      "line": 68
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hpeventcenter.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hpeventcenter.com",
+    "source": {
+      "list": "HP",
+      "line": 69
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hpfaqs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hpfaqs.com",
+    "source": {
+      "list": "HP",
+      "line": 70
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hpfeedback.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hpfeedback.com",
+    "source": {
+      "list": "HP",
+      "line": 71
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hpgift.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hpgift.com",
+    "source": {
+      "list": "HP",
+      "line": 72
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hpgpas.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hpgpas.com",
+    "source": {
+      "list": "HP",
+      "line": 73
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hpgraphicspartners.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hpgraphicspartners.com",
+    "source": {
+      "list": "HP",
+      "line": 74
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hpiie.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hpiie.org",
+    "source": {
+      "list": "HP",
+      "line": 75
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hpinc.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hpinc.info",
+    "source": {
+      "list": "HP",
+      "line": 76
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hpinc.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hpinc.net",
+    "source": {
+      "list": "HP",
+      "line": 77
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hpindigopress.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hpindigopress.com",
+    "source": {
+      "list": "HP",
+      "line": 78
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hpinkjet.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hpinkjet.com",
+    "source": {
+      "list": "HP",
+      "line": 79
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hpinstantink.ca",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hpinstantink.ca",
+    "source": {
+      "list": "HP",
+      "line": 80
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hpinstantink.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hpinstantink.com",
+    "source": {
+      "list": "HP",
+      "line": 81
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hpkeyboard.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hpkeyboard.com",
+    "source": {
+      "list": "HP",
+      "line": 82
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hplaptop.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hplaptop.com",
+    "source": {
+      "list": "HP",
+      "line": 83
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hplaptopbattery.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hplaptopbattery.com",
+    "source": {
+      "list": "HP",
+      "line": 84
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hplargeformatremote.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hplargeformatremote.com",
+    "source": {
+      "list": "HP",
+      "line": 85
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hplatexknowledgecenter.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hplatexknowledgecenter.com",
+    "source": {
+      "list": "HP",
+      "line": 86
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hplfmedia.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hplfmedia.com",
+    "source": {
+      "list": "HP",
+      "line": 87
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hplip.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hplip.net",
+    "source": {
+      "list": "HP",
+      "line": 88
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hplipopensource.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hplipopensource.com",
+    "source": {
+      "list": "HP",
+      "line": 89
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hpmarketplace.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hpmarketplace.com",
+    "source": {
+      "list": "HP",
+      "line": 90
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hpmemorychips.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hpmemorychips.com",
+    "source": {
+      "list": "HP",
+      "line": 91
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hpmicrcartridge.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hpmicrcartridge.com",
+    "source": {
+      "list": "HP",
+      "line": 92
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hpmini.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hpmini.com",
+    "source": {
+      "list": "HP",
+      "line": 93
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hpmobile.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hpmobile.com",
+    "source": {
+      "list": "HP",
+      "line": 94
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hpofficejetprinter.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hpofficejetprinter.com",
+    "source": {
+      "list": "HP",
+      "line": 95
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hponlinehelp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hponlinehelp.com",
+    "source": {
+      "list": "HP",
+      "line": 96
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hponlineprinting.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hponlineprinting.com",
+    "source": {
+      "list": "HP",
+      "line": 97
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hppage5000.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hppage5000.com",
+    "source": {
+      "list": "HP",
+      "line": 98
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hppavillionlaptop.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hppavillionlaptop.com",
+    "source": {
+      "list": "HP",
+      "line": 99
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hpphotoscanners.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hpphotoscanners.com",
+    "source": {
+      "list": "HP",
+      "line": 100
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hpprinterdrivers.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hpprinterdrivers.com",
+    "source": {
+      "list": "HP",
+      "line": 101
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hpprinterinstalls.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hpprinterinstalls.com",
+    "source": {
+      "list": "HP",
+      "line": 102
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hpprintersupplies.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hpprintersupplies.com",
+    "source": {
+      "list": "HP",
+      "line": 103
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hpsalescentral.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hpsalescentral.com",
+    "source": {
+      "list": "HP",
+      "line": 104
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hpserver.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hpserver.com",
+    "source": {
+      "list": "HP",
+      "line": 105
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hpservices.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hpservices.com",
+    "source": {
+      "list": "HP",
+      "line": 106
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hpshooping.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hpshooping.com",
+    "source": {
+      "list": "HP",
+      "line": 107
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hpshop.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hpshop.com",
+    "source": {
+      "list": "HP",
+      "line": 108
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hpshoping.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hpshoping.com",
+    "source": {
+      "list": "HP",
+      "line": 109
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hpshopping.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hpshopping.hk",
+    "source": {
+      "list": "HP",
+      "line": 110
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hpsignage.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hpsignage.com",
+    "source": {
+      "list": "HP",
+      "line": 111
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hpsmart.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hpsmart.com",
+    "source": {
+      "list": "HP",
+      "line": 112
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hpsmarts.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hpsmarts.com",
+    "source": {
+      "list": "HP",
+      "line": 113
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hpsmartstage.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hpsmartstage.com",
+    "source": {
+      "list": "HP",
+      "line": 114
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hpsmartupdate.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hpsmartupdate.com",
+    "source": {
+      "list": "HP",
+      "line": 115
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hpsoftware.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hpsoftware.com",
+    "source": {
+      "list": "HP",
+      "line": 116
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hpspeaker.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hpspeaker.com",
+    "source": {
+      "list": "HP",
+      "line": 117
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hpsprocket.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hpsprocket.com",
+    "source": {
+      "list": "HP",
+      "line": 118
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hpsso.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hpsso.com",
+    "source": {
+      "list": "HP",
+      "line": 119
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hpstore-china.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hpstore-china.com",
+    "source": {
+      "list": "HP",
+      "line": 120
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hpstore-emea.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hpstore-emea.com",
+    "source": {
+      "list": "HP",
+      "line": 121
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hpstore.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:hpstore.cn:@cn",
+    "source": {
+      "list": "HP",
+      "line": 122
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hpstore.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hpstore.com",
+    "source": {
+      "list": "HP",
+      "line": 123
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hpstorethailand.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hpstorethailand.com",
+    "source": {
+      "list": "HP",
+      "line": 124
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hpsupport.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hpsupport.com",
+    "source": {
+      "list": "HP",
+      "line": 125
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hpsuresupply.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hpsuresupply.com",
+    "source": {
+      "list": "HP",
+      "line": 126
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hptechventures.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hptechventures.com",
+    "source": {
+      "list": "HP",
+      "line": 127
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hpto.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hpto.net",
+    "source": {
+      "list": "HP",
+      "line": 128
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hptouch.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hptouch.com",
+    "source": {
+      "list": "HP",
+      "line": 129
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hptouchpointmanager.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hptouchpointmanager.com",
+    "source": {
+      "list": "HP",
+      "line": 130
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hptrainingcenter.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hptrainingcenter.com",
+    "source": {
+      "list": "HP",
+      "line": 131
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hpuae.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hpuae.com",
+    "source": {
+      "list": "HP",
+      "line": 132
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hpuniversity.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hpuniversity.info",
+    "source": {
+      "list": "HP",
+      "line": 133
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hpusertraining.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hpusertraining.com",
+    "source": {
+      "list": "HP",
+      "line": 134
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hpveer.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hpveer.com",
+    "source": {
+      "list": "HP",
+      "line": 135
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hpvirtualthin.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hpvirtualthin.com",
+    "source": {
+      "list": "HP",
+      "line": 136
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hpwallart.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hpwallart.com",
+    "source": {
+      "list": "HP",
+      "line": 137
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hpwellnesscentral.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hpwellnesscentral.com",
+    "source": {
+      "list": "HP",
+      "line": 138
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hpwsn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hpwsn.com",
+    "source": {
+      "list": "HP",
+      "line": 139
+    }
+  },
+  {
+    "type": "domain",
+    "value": "i-123-hp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:i-123-hp.com",
+    "source": {
+      "list": "HP",
+      "line": 140
+    }
+  },
+  {
+    "type": "domain",
+    "value": "inkchoice.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:inkchoice.com",
+    "source": {
+      "list": "HP",
+      "line": 141
+    }
+  },
+  {
+    "type": "domain",
+    "value": "instantink.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:instantink.com",
+    "source": {
+      "list": "HP",
+      "line": 142
+    }
+  },
+  {
+    "type": "domain",
+    "value": "leavinghpinc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:leavinghpinc.com",
+    "source": {
+      "list": "HP",
+      "line": 143
+    }
+  },
+  {
+    "type": "domain",
+    "value": "life-global.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:life-global.org",
+    "source": {
+      "list": "HP",
+      "line": 144
+    }
+  },
+  {
+    "type": "domain",
+    "value": "myhpsupport.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:myhpsupport.com",
+    "source": {
+      "list": "HP",
+      "line": 145
+    }
+  },
+  {
+    "type": "domain",
+    "value": "printeron.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:printeron.com",
+    "source": {
+      "list": "HP",
+      "line": 146
+    }
+  },
+  {
+    "type": "domain",
+    "value": "printersetupsupport.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:printersetupsupport.com",
+    "source": {
+      "list": "HP",
+      "line": 147
+    }
+  },
+  {
+    "type": "domain",
+    "value": "printspots.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:printspots.com",
+    "source": {
+      "list": "HP",
+      "line": 148
+    }
+  },
+  {
+    "type": "domain",
+    "value": "printspots.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:printspots.net",
+    "source": {
+      "list": "HP",
+      "line": 149
+    }
+  },
+  {
+    "type": "domain",
+    "value": "serviceshp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:serviceshp.com",
+    "source": {
+      "list": "HP",
+      "line": 150
+    }
+  },
+  {
+    "type": "domain",
+    "value": "thecompaqstore.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:thecompaqstore.com",
+    "source": {
+      "list": "HP",
+      "line": 151
+    }
+  },
+  {
+    "type": "domain",
+    "value": "touchsmartpc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:touchsmartpc.com",
+    "source": {
+      "list": "HP",
+      "line": 152
+    }
+  },
+  {
+    "type": "domain",
+    "value": "touchsmartpc.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:touchsmartpc.net",
+    "source": {
+      "list": "HP",
+      "line": 153
+    }
+  },
+  {
+    "type": "domain",
+    "value": "touchsmartpc.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:touchsmartpc.org",
+    "source": {
+      "list": "HP",
+      "line": 154
+    }
+  },
+  {
+    "type": "domain",
+    "value": "workstations.tv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:workstations.tv",
+    "source": {
+      "list": "HP",
+      "line": 155
+    }
+  },
+  {
+    "type": "domain",
+    "value": "www8-hp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:www8-hp.com",
+    "source": {
+      "list": "HP",
+      "line": 156
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--6eup7j.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--6eup7j.com",
+    "source": {
+      "list": "HP",
+      "line": 157
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--6eup7j.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--6eup7j.net",
+    "source": {
+      "list": "HP",
+      "line": 158
+    }
+  },
+  {
+    "type": "full",
+    "value": "hpstore.corpmerchandise.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:hpstore.corpmerchandise.com",
+    "source": {
+      "list": "HP",
+      "line": 160
+    }
+  }
+]

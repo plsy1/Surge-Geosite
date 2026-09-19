@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "sehuatang.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sehuatang.net",
+    "source": {
+      "list": "SEHUATANG",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sehuatang.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sehuatang.org",
+    "source": {
+      "list": "SEHUATANG",
+      "line": 2
+    }
+  }
+]

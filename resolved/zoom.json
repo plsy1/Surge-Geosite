@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "zoom.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zoom.com",
+    "source": {
+      "list": "ZOOM",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zoom.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zoom.com.cn",
+    "source": {
+      "list": "ZOOM",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zoom.us",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zoom.us",
+    "source": {
+      "list": "ZOOM",
+      "line": 3
+    }
+  }
+]

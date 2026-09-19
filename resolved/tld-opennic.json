@@ -1,0 +1,310 @@
+[
+  {
+    "type": "domain",
+    "value": "bazar",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bazar",
+    "source": {
+      "list": "TLD-OPENNIC",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bbs",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bbs",
+    "source": {
+      "list": "TLD-OPENNIC",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "chan",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:chan",
+    "source": {
+      "list": "TLD-OPENNIC",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "coin",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:coin",
+    "source": {
+      "list": "TLD-OPENNIC",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cyb",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cyb",
+    "source": {
+      "list": "TLD-OPENNIC",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dyn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dyn",
+    "source": {
+      "list": "TLD-OPENNIC",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "emc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:emc",
+    "source": {
+      "list": "TLD-OPENNIC",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "epic",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:epic",
+    "source": {
+      "list": "TLD-OPENNIC",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "free",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:free",
+    "source": {
+      "list": "TLD-OPENNIC",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fur",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fur",
+    "source": {
+      "list": "TLD-OPENNIC",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "geek",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:geek",
+    "source": {
+      "list": "TLD-OPENNIC",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gopher",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gopher",
+    "source": {
+      "list": "TLD-OPENNIC",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "indy",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:indy",
+    "source": {
+      "list": "TLD-OPENNIC",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ko",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ko",
+    "source": {
+      "list": "TLD-OPENNIC",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ku",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ku",
+    "source": {
+      "list": "TLD-OPENNIC",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lib",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lib",
+    "source": {
+      "list": "TLD-OPENNIC",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "libre",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:libre",
+    "source": {
+      "list": "TLD-OPENNIC",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "neo",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:neo",
+    "source": {
+      "list": "TLD-OPENNIC",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "null",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:null",
+    "source": {
+      "list": "TLD-OPENNIC",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "o",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:o",
+    "source": {
+      "list": "TLD-OPENNIC",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oss",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oss",
+    "source": {
+      "list": "TLD-OPENNIC",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oz",
+    "source": {
+      "list": "TLD-OPENNIC",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "parody",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:parody",
+    "source": {
+      "list": "TLD-OPENNIC",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pirate",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pirate",
+    "source": {
+      "list": "TLD-OPENNIC",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rm",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rm",
+    "source": {
+      "list": "TLD-OPENNIC",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "te",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:te",
+    "source": {
+      "list": "TLD-OPENNIC",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ti",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ti",
+    "source": {
+      "list": "TLD-OPENNIC",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "uu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:uu",
+    "source": {
+      "list": "TLD-OPENNIC",
+      "line": 28
+    }
+  }
+]

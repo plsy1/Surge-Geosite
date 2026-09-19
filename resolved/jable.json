@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "cdnlab.live",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnlab.live",
+    "source": {
+      "list": "JABLE",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jable.tv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jable.tv",
+    "source": {
+      "list": "JABLE",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mushroomtrack.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mushroomtrack.com",
+    "source": {
+      "list": "JABLE",
+      "line": 3
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "pinkcore.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pinkcore.com",
+    "source": {
+      "list": "PINKCORE",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pinkcore.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pinkcore.net",
+    "source": {
+      "list": "PINKCORE",
+      "line": 2
+    }
+  }
+]

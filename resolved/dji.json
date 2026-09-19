@@ -1,0 +1,112 @@
+[
+  {
+    "type": "domain",
+    "value": "dji.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dji.com",
+    "source": {
+      "list": "DJI",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dji.ink",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dji.ink",
+    "source": {
+      "list": "DJI",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dji.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dji.net",
+    "source": {
+      "list": "DJI",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "djicdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:djicdn.com",
+    "source": {
+      "list": "DJI",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "djigate.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:djigate.com",
+    "source": {
+      "list": "DJI",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "djiits.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:djiits.com",
+    "source": {
+      "list": "DJI",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "djiops.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:djiops.com",
+    "source": {
+      "list": "DJI",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "djiservice.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:djiservice.org",
+    "source": {
+      "list": "DJI",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "robomaster.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:robomaster.com",
+    "source": {
+      "list": "DJI",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "skypixel.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:skypixel.com",
+    "source": {
+      "list": "DJI",
+      "line": 9
+    }
+  }
+]

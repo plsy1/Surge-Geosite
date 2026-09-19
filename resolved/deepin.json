@@ -1,0 +1,171 @@
+[
+  {
+    "type": "domain",
+    "value": "51changxie.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:51changxie.com",
+    "source": {
+      "list": "DEEPIN",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "51jianxie.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:51jianxie.cn",
+    "source": {
+      "list": "DEEPIN",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "91changxie.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:91changxie.com",
+    "source": {
+      "list": "DEEPIN",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "changxie.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:changxie.com",
+    "source": {
+      "list": "DEEPIN",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "chinauos.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:chinauos.com",
+    "source": {
+      "list": "DEEPIN",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "deepin.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:deepin.cn",
+    "source": {
+      "list": "DEEPIN",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "deepin.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:deepin.com",
+    "source": {
+      "list": "DEEPIN",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "deepin.io",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:deepin.io:@!cn",
+    "source": {
+      "list": "DEEPIN",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "deepin.org",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:deepin.org:@!cn",
+    "source": {
+      "list": "DEEPIN",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "deepin.org.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:deepin.org.cn",
+    "source": {
+      "list": "DEEPIN",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "linglong.space",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:linglong.space",
+    "source": {
+      "list": "DEEPIN",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "linyaps.org.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:linyaps.org.cn",
+    "source": {
+      "list": "DEEPIN",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sndu.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sndu.cn",
+    "source": {
+      "list": "DEEPIN",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "uniontech.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:uniontech.cn",
+    "source": {
+      "list": "DEEPIN",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "uniontech.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:uniontech.com",
+    "source": {
+      "list": "DEEPIN",
+      "line": 17
+    }
+  }
+]

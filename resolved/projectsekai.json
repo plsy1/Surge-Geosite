@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "pjsekai.sega.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pjsekai.sega.jp",
+    "source": {
+      "list": "PROJECTSEKAI",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sekai.colorfulpalette.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sekai.colorfulpalette.org",
+    "source": {
+      "list": "PROJECTSEKAI",
+      "line": 1
+    }
+  }
+]

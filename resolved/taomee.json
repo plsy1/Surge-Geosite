@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "61.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:61.com",
+    "source": {
+      "list": "TAOMEE",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "taomee.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:taomee.com",
+    "source": {
+      "list": "TAOMEE",
+      "line": 2
+    }
+  }
+]

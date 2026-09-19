@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "ibb.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ibb.co",
+    "source": {
+      "list": "IMGBB",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "imgbb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:imgbb.com",
+    "source": {
+      "list": "IMGBB",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "simgbb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:simgbb.com",
+    "source": {
+      "list": "IMGBB",
+      "line": 3
+    }
+  }
+]

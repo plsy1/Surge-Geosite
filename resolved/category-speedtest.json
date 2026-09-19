@@ -1,0 +1,876 @@
+[
+  {
+    "type": "domain",
+    "value": "cdnst.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnst.net",
+    "source": {
+      "list": "OOKLA-SPEEDTEST",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cellmaps.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cellmaps.com",
+    "source": {
+      "list": "OOKLA-SPEEDTEST",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cnspeedtest.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:cnspeedtest.cn:@cn",
+    "source": {
+      "list": "CATEGORY-SPEEDTEST",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ekahau.cloud",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ekahau.cloud",
+    "source": {
+      "list": "OOKLA-SPEEDTEST",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ekahau.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ekahau.com",
+    "source": {
+      "list": "OOKLA-SPEEDTEST",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fast.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fast.com",
+    "source": {
+      "list": "CATEGORY-SPEEDTEST",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fastspeedtest.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fastspeedtest.com",
+    "source": {
+      "list": "CATEGORY-SPEEDTEST",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "linkmeter.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:linkmeter.net",
+    "source": {
+      "list": "CATEGORY-SPEEDTEST",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "measurementlab.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:measurementlab.net",
+    "source": {
+      "list": "CATEGORY-SPEEDTEST",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "meter.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:meter.net",
+    "source": {
+      "list": "CATEGORY-SPEEDTEST",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nperf.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nperf.com",
+    "source": {
+      "list": "CATEGORY-SPEEDTEST",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ookla-speedtest-central.hgconair.hgc.com.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ookla-speedtest-central.hgconair.hgc.com.hk",
+    "source": {
+      "list": "OOKLA-SPEEDTEST",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ookla.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ookla.com",
+    "source": {
+      "list": "OOKLA-SPEEDTEST",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ooklaserver.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ooklaserver.net",
+    "source": {
+      "list": "OOKLA-SPEEDTEST",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "open.cachefly.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:open.cachefly.net",
+    "source": {
+      "list": "OPENSPEEDTEST",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "openspeedtest.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:openspeedtest.com",
+    "source": {
+      "list": "OPENSPEEDTEST",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "openspeedtest.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:openspeedtest.ru",
+    "source": {
+      "list": "CATEGORY-SPEEDTEST",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pingtest.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pingtest.net",
+    "source": {
+      "list": "OOKLA-SPEEDTEST",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "speed.cloudflare.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:speed.cloudflare.com",
+    "source": {
+      "list": "CATEGORY-SPEEDTEST",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "speed.dler.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:speed.dler.io",
+    "source": {
+      "list": "CATEGORY-SPEEDTEST",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "speed.ee",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:speed.ee",
+    "source": {
+      "list": "CATEGORY-SPEEDTEST",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "speed.hinet.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:speed.hinet.net",
+    "source": {
+      "list": "CATEGORY-SPEEDTEST",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "speed.nccu.edu.tw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:speed.nccu.edu.tw",
+    "source": {
+      "list": "CATEGORY-SPEEDTEST",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "speed.neu6.edu.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:speed.neu6.edu.cn:@cn",
+    "source": {
+      "list": "CATEGORY-SPEEDTEST",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "speed.nju.edu.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:speed.nju.edu.cn:@cn",
+    "source": {
+      "list": "CATEGORY-SPEEDTEST",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "speed.nuaa.edu.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:speed.nuaa.edu.cn:@cn",
+    "source": {
+      "list": "CATEGORY-SPEEDTEST",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "speed.qlu.edu.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:speed.qlu.edu.cn:@cn",
+    "source": {
+      "list": "CATEGORY-SPEEDTEST",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "speed.ujs.edu.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:speed.ujs.edu.cn:@cn",
+    "source": {
+      "list": "CATEGORY-SPEEDTEST",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "speed2.hinet.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:speed2.hinet.net",
+    "source": {
+      "list": "CATEGORY-SPEEDTEST",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "speed5.ntu.edu.tw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:speed5.ntu.edu.tw",
+    "source": {
+      "list": "CATEGORY-SPEEDTEST",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "speed6.ujs.edu.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:speed6.ujs.edu.cn:@cn",
+    "source": {
+      "list": "CATEGORY-SPEEDTEST",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "speedcheck.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:speedcheck.org",
+    "source": {
+      "list": "CATEGORY-SPEEDTEST",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "speedgeo.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:speedgeo.net",
+    "source": {
+      "list": "CATEGORY-SPEEDTEST",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "speedof.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:speedof.me",
+    "source": {
+      "list": "CATEGORY-SPEEDTEST",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "speedtest.cesnet.cz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:speedtest.cesnet.cz",
+    "source": {
+      "list": "CATEGORY-SPEEDTEST",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "speedtest.ch",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:speedtest.ch",
+    "source": {
+      "list": "CATEGORY-SPEEDTEST",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "speedtest.citylink.pro",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:speedtest.citylink.pro",
+    "source": {
+      "list": "CATEGORY-SPEEDTEST",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "speedtest.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:speedtest.cn:@cn",
+    "source": {
+      "list": "CATEGORY-SPEEDTEST",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "speedtest.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:speedtest.co",
+    "source": {
+      "list": "OOKLA-SPEEDTEST",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "speedtest.co.za",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:speedtest.co.za",
+    "source": {
+      "list": "CATEGORY-SPEEDTEST",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "speedtest.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:speedtest.de",
+    "source": {
+      "list": "CATEGORY-SPEEDTEST",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "speedtest.dno-it.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:speedtest.dno-it.ru",
+    "source": {
+      "list": "CATEGORY-SPEEDTEST",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "speedtest.frontier.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:speedtest.frontier.com",
+    "source": {
+      "list": "CATEGORY-SPEEDTEST",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "speedtest.im",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:speedtest.im",
+    "source": {
+      "list": "CATEGORY-SPEEDTEST",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "speedtest.mail.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:speedtest.mail.ru",
+    "source": {
+      "list": "CATEGORY-SPEEDTEST",
+      "line": 37
+    }
+  },
+  {
+    "type": "domain",
+    "value": "speedtest.mfcyun.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:speedtest.mfcyun.com:@cn",
+    "source": {
+      "list": "CATEGORY-SPEEDTEST",
+      "line": 38
+    }
+  },
+  {
+    "type": "domain",
+    "value": "speedtest.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:speedtest.net",
+    "source": {
+      "list": "OOKLA-SPEEDTEST",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "speedtest.net.in",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:speedtest.net.in",
+    "source": {
+      "list": "CATEGORY-SPEEDTEST",
+      "line": 39
+    }
+  },
+  {
+    "type": "domain",
+    "value": "speedtest.net.ua",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:speedtest.net.ua",
+    "source": {
+      "list": "CATEGORY-SPEEDTEST",
+      "line": 40
+    }
+  },
+  {
+    "type": "domain",
+    "value": "speedtest.net.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:speedtest.net.uk",
+    "source": {
+      "list": "CATEGORY-SPEEDTEST",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "speedtest.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:speedtest.org",
+    "source": {
+      "list": "CATEGORY-SPEEDTEST",
+      "line": 42
+    }
+  },
+  {
+    "type": "domain",
+    "value": "speedtest.rt.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:speedtest.rt.ru",
+    "source": {
+      "list": "CATEGORY-SPEEDTEST",
+      "line": 43
+    }
+  },
+  {
+    "type": "domain",
+    "value": "speedtest.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:speedtest.ru",
+    "source": {
+      "list": "CATEGORY-SPEEDTEST",
+      "line": 44
+    }
+  },
+  {
+    "type": "domain",
+    "value": "speedtest.shaw.ca",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:speedtest.shaw.ca",
+    "source": {
+      "list": "CATEGORY-SPEEDTEST",
+      "line": 45
+    }
+  },
+  {
+    "type": "domain",
+    "value": "speedtest.shu.edu.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:speedtest.shu.edu.cn:@cn",
+    "source": {
+      "list": "CATEGORY-SPEEDTEST",
+      "line": 46
+    }
+  },
+  {
+    "type": "domain",
+    "value": "speedtest.su",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:speedtest.su",
+    "source": {
+      "list": "CATEGORY-SPEEDTEST",
+      "line": 47
+    }
+  },
+  {
+    "type": "domain",
+    "value": "speedtest.uz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:speedtest.uz",
+    "source": {
+      "list": "CATEGORY-SPEEDTEST",
+      "line": 48
+    }
+  },
+  {
+    "type": "domain",
+    "value": "speedtest.volia.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:speedtest.volia.com",
+    "source": {
+      "list": "CATEGORY-SPEEDTEST",
+      "line": 49
+    }
+  },
+  {
+    "type": "domain",
+    "value": "speedtest.xaut.edu.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:speedtest.xaut.edu.cn:@cn",
+    "source": {
+      "list": "CATEGORY-SPEEDTEST",
+      "line": 50
+    }
+  },
+  {
+    "type": "domain",
+    "value": "speedtest.xfinity.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:speedtest.xfinity.com",
+    "source": {
+      "list": "CATEGORY-SPEEDTEST",
+      "line": 51
+    }
+  },
+  {
+    "type": "domain",
+    "value": "speedtest.xyz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:speedtest.xyz",
+    "source": {
+      "list": "CATEGORY-SPEEDTEST",
+      "line": 52
+    }
+  },
+  {
+    "type": "domain",
+    "value": "speedtest24.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:speedtest24.ru",
+    "source": {
+      "list": "CATEGORY-SPEEDTEST",
+      "line": 53
+    }
+  },
+  {
+    "type": "domain",
+    "value": "speedtest6.shu.edu.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:speedtest6.shu.edu.cn:@cn",
+    "source": {
+      "list": "CATEGORY-SPEEDTEST",
+      "line": 54
+    }
+  },
+  {
+    "type": "domain",
+    "value": "speedtestcustom.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:speedtestcustom.com",
+    "source": {
+      "list": "OOKLA-SPEEDTEST",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "test.nju.edu.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:test.nju.edu.cn:@cn",
+    "source": {
+      "list": "CATEGORY-SPEEDTEST",
+      "line": 55
+    }
+  },
+  {
+    "type": "domain",
+    "value": "test.ustc.edu.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:test.ustc.edu.cn:@cn",
+    "source": {
+      "list": "CATEGORY-SPEEDTEST",
+      "line": 56
+    }
+  },
+  {
+    "type": "domain",
+    "value": "test6.nju.edu.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:test6.nju.edu.cn:@cn",
+    "source": {
+      "list": "CATEGORY-SPEEDTEST",
+      "line": 57
+    }
+  },
+  {
+    "type": "domain",
+    "value": "test6.ustc.edu.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:test6.ustc.edu.cn:@cn",
+    "source": {
+      "list": "CATEGORY-SPEEDTEST",
+      "line": 58
+    }
+  },
+  {
+    "type": "domain",
+    "value": "testmy.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:testmy.net",
+    "source": {
+      "list": "CATEGORY-SPEEDTEST",
+      "line": 59
+    }
+  },
+  {
+    "type": "domain",
+    "value": "testmyspeed.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:testmyspeed.com",
+    "source": {
+      "list": "CATEGORY-SPEEDTEST",
+      "line": 60
+    }
+  },
+  {
+    "type": "domain",
+    "value": "testskorosti.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:testskorosti.ru",
+    "source": {
+      "list": "CATEGORY-SPEEDTEST",
+      "line": 61
+    }
+  },
+  {
+    "type": "domain",
+    "value": "webtest.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:webtest.net",
+    "source": {
+      "list": "OOKLA-SPEEDTEST",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xnfz.seu.edu.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:xnfz.seu.edu.cn:@cn",
+    "source": {
+      "list": "CATEGORY-SPEEDTEST",
+      "line": 62
+    }
+  },
+  {
+    "type": "full",
+    "value": "hk-global-bgp.hkg.speedtest.yecaoyun.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "full:hk-global-bgp.hkg.speedtest.yecaoyun.com:@!cn",
+    "source": {
+      "list": "CATEGORY-SPEEDTEST",
+      "line": 64
+    }
+  },
+  {
+    "type": "full",
+    "value": "www.speedtest.net.cdn.cloudflare.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:www.speedtest.net.cdn.cloudflare.net",
+    "source": {
+      "list": "OOKLA-SPEEDTEST",
+      "line": 13
+    }
+  },
+  {
+    "type": "regexp",
+    "value": "^speed\\.(coe|open)\\.ad\\.[a-z]{2,6}\\.prod\\.hosts\\.ooklaserver\\.net$",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "regexp:^speed\\.(coe|open)\\.ad\\.[a-z]{2,6}\\.prod\\.hosts\\.ooklaserver\\.net$:@ads",
+    "source": {
+      "list": "OOKLA-SPEEDTEST",
+      "line": 19
+    }
+  }
+]

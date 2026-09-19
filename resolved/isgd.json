@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "is.gd",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:is.gd",
+    "source": {
+      "list": "ISGD",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "v.gd",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:v.gd",
+    "source": {
+      "list": "ISGD",
+      "line": 2
+    }
+  }
+]

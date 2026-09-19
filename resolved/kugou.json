@@ -1,0 +1,217 @@
+[
+  {
+    "type": "domain",
+    "value": "ads.service.kugou.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:ads.service.kugou.com:@ads",
+    "source": {
+      "list": "KUGOU",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adserviceretry.kglink.cn",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:adserviceretry.kglink.cn:@ads",
+    "source": {
+      "list": "KUGOU",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adserviceretry.kugou.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:adserviceretry.kugou.com:@ads",
+    "source": {
+      "list": "KUGOU",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fanxingliveshow.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fanxingliveshow.com",
+    "source": {
+      "list": "KUGOU",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kgimg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kgimg.com",
+    "source": {
+      "list": "KUGOU",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kglink.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kglink.cn",
+    "source": {
+      "list": "KUGOU",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ktv.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ktv.com",
+    "source": {
+      "list": "KUGOU",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kugoo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kugoo.com",
+    "source": {
+      "list": "KUGOU",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kugou.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kugou.com",
+    "source": {
+      "list": "KUGOU",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kugou.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kugou.net",
+    "source": {
+      "list": "KUGOU",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kugouaudio.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kugouaudio.com",
+    "source": {
+      "list": "KUGOU",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kugouipv6.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kugouipv6.com",
+    "source": {
+      "list": "KUGOU",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kugoukid.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kugoukid.com",
+    "source": {
+      "list": "KUGOU",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kugouliveshow.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kugouliveshow.com",
+    "source": {
+      "list": "KUGOU",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kugouringtone.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kugouringtone.com",
+    "source": {
+      "list": "KUGOU",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kugousenior.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kugousenior.com",
+    "source": {
+      "list": "KUGOU",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kugoustore.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kugoustore.com",
+    "source": {
+      "list": "KUGOU",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kugouvoice.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kugouvoice.com",
+    "source": {
+      "list": "KUGOU",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kugouyouth.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kugouyouth.com",
+    "source": {
+      "list": "KUGOU",
+      "line": 16
+    }
+  }
+]

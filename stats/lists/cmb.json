@@ -1,0 +1,59 @@
+{
+  "name": "CMB",
+  "source": {
+    "domain": 22,
+    "full": 0,
+    "keyword": 0,
+    "regexp": 0,
+    "include": 0,
+    "affiliations": 0,
+    "attributes": 2
+  },
+  "resolved": {
+    "rules": 22,
+    "domain": 22,
+    "full": 0,
+    "keyword": 0,
+    "regexp": 0
+  },
+  "filters": {
+    "attrs": {
+      "!cn": 2
+    }
+  },
+  "modes": {
+    "strict": {
+      "rules": 22,
+      "bytes": 588,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "balanced": {
+      "rules": 22,
+      "bytes": 588,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "full": {
+      "rules": 22,
+      "bytes": 588,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    }
+  }
+}

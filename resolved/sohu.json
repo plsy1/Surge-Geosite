@@ -1,0 +1,386 @@
+[
+  {
+    "type": "domain",
+    "value": "17173.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:17173.com",
+    "source": {
+      "list": "CHANGYOU",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "17173cdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:17173cdn.com",
+    "source": {
+      "list": "CHANGYOU",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "56.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:56.com",
+    "source": {
+      "list": "SOHU",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "56img.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:56img.com",
+    "source": {
+      "list": "SOHU",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adnet.sohu.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:adnet.sohu.com:@ads",
+    "source": {
+      "list": "SOHU",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ads.sohu.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:ads.sohu.com:@ads",
+    "source": {
+      "list": "SOHU",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adv-sv-show.focus.cn",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:adv-sv-show.focus.cn:@ads",
+    "source": {
+      "list": "SOHU",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adv-sv-stat.focus.cn",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:adv-sv-stat.focus.cn:@ads",
+    "source": {
+      "list": "SOHU",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "assp.sohu.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:assp.sohu.com:@ads",
+    "source": {
+      "list": "SOHU",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bdu.focus.cn",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:bdu.focus.cn:@ads",
+    "source": {
+      "list": "SOHU",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "changyou.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:changyou.com",
+    "source": {
+      "list": "CHANGYOU",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cy.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cy.com",
+    "source": {
+      "list": "CHANGYOU",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "focus-img.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:focus-img.cn",
+    "source": {
+      "list": "SOHU",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "focus.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:focus.cn",
+    "source": {
+      "list": "SOHU",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fpb.sohu.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:fpb.sohu.com:@ads",
+    "source": {
+      "list": "SOHU",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "imp.go.sohu.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:imp.go.sohu.com:@ads",
+    "source": {
+      "list": "SOHU",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "itc.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:itc.cn",
+    "source": {
+      "list": "SOHU",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kuaizhan.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kuaizhan.com",
+    "source": {
+      "list": "SOHU",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "m.aty.sohu.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:m.aty.sohu.com:@ads",
+    "source": {
+      "list": "SOHU",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "p.aty.sohu.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:p.aty.sohu.com:@ads",
+    "source": {
+      "list": "SOHU",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "playcool.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:playcool.com",
+    "source": {
+      "list": "CHANGYOU",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pv.hd.sohu.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:pv.hd.sohu.com:@ads",
+    "source": {
+      "list": "SOHU",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pv.sohu.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:pv.sohu.com:@ads",
+    "source": {
+      "list": "SOHU",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qpb.sohu.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:qpb.sohu.com:@ads",
+    "source": {
+      "list": "SOHU",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qpb1.sohu.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:qpb1.sohu.com:@ads",
+    "source": {
+      "list": "SOHU",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "reke.at.sohu.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:reke.at.sohu.com:@ads",
+    "source": {
+      "list": "SOHU",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sohu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sohu",
+    "source": {
+      "list": "SOHU",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sohu.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sohu.com",
+    "source": {
+      "list": "SOHU",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sohucs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sohucs.com",
+    "source": {
+      "list": "SOHU",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "track.sohu.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:track.sohu.com:@ads",
+    "source": {
+      "list": "SOHU",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yeyou.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yeyou.com",
+    "source": {
+      "list": "CHANGYOU",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yeyoucdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yeyoucdn.com",
+    "source": {
+      "list": "CHANGYOU",
+      "line": 8
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "globalvoices.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:globalvoices.org",
+    "source": {
+      "list": "GLOBALVOICES",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "globalvoicesonline.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:globalvoicesonline.org",
+    "source": {
+      "list": "GLOBALVOICES",
+      "line": 2
+    }
+  }
+]

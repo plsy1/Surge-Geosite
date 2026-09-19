@@ -1,0 +1,178 @@
+[
+  {
+    "type": "domain",
+    "value": "greenlakeaas.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:greenlakeaas.com",
+    "source": {
+      "list": "HPE",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "greenlakehybridcloud.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:greenlakehybridcloud.com",
+    "source": {
+      "list": "HPE",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hewlett-packard.asia",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hewlett-packard.asia",
+    "source": {
+      "list": "HPE",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hewlett-packard.ch",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hewlett-packard.ch",
+    "source": {
+      "list": "HPE",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hewlett-packard.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hewlett-packard.co",
+    "source": {
+      "list": "HPE",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hewlett-packard.co.il",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hewlett-packard.co.il",
+    "source": {
+      "list": "HPE",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hewlett-packard.co.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hewlett-packard.co.uk",
+    "source": {
+      "list": "HPE",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hewlett-packard.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hewlett-packard.com.cn",
+    "source": {
+      "list": "HPE",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hewlett-packard.com.mx",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hewlett-packard.com.mx",
+    "source": {
+      "list": "HPE",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hewlett-packard.com.sg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hewlett-packard.com.sg",
+    "source": {
+      "list": "HPE",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hewlett-packard.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hewlett-packard.jp",
+    "source": {
+      "list": "HPE",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hewlett-packard.mobi",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hewlett-packard.mobi",
+    "source": {
+      "list": "HPE",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hewlettpackard.enterprises",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hewlettpackard.enterprises",
+    "source": {
+      "list": "HPE",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hpe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hpe.com",
+    "source": {
+      "list": "HPE",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hpecyber.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hpecyber.com",
+    "source": {
+      "list": "HPE",
+      "line": 16
+    }
+  },
+  {
+    "type": "full",
+    "value": "hpefonts.s3.amazonaws.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:hpefonts.s3.amazonaws.com",
+    "source": {
+      "list": "HPE",
+      "line": 18
+    }
+  }
+]

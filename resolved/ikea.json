@@ -1,0 +1,1055 @@
+[
+  {
+    "type": "domain",
+    "value": "ikea.ae",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ikea.ae",
+    "source": {
+      "list": "IKEA",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ikea.at",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ikea.at",
+    "source": {
+      "list": "IKEA",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ikea.au",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ikea.au",
+    "source": {
+      "list": "IKEA",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ikea.be",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ikea.be",
+    "source": {
+      "list": "IKEA",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ikea.bg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ikea.bg",
+    "source": {
+      "list": "IKEA",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ikea.bh",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ikea.bh",
+    "source": {
+      "list": "IKEA",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ikea.ca",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ikea.ca",
+    "source": {
+      "list": "IKEA",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ikea.ch",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ikea.ch",
+    "source": {
+      "list": "IKEA",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ikea.cl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ikea.cl",
+    "source": {
+      "list": "IKEA",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ikea.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:ikea.cn:@cn",
+    "source": {
+      "list": "IKEA",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ikea.co.at",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ikea.co.at",
+    "source": {
+      "list": "IKEA",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ikea.co.ca",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ikea.co.ca",
+    "source": {
+      "list": "IKEA",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ikea.co.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ikea.co.de",
+    "source": {
+      "list": "IKEA",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ikea.co.id",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ikea.co.id",
+    "source": {
+      "list": "IKEA",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ikea.co.il",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ikea.co.il",
+    "source": {
+      "list": "IKEA",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ikea.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ikea.co.jp",
+    "source": {
+      "list": "IKEA",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ikea.co.kr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ikea.co.kr",
+    "source": {
+      "list": "IKEA",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ikea.co.om",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ikea.co.om",
+    "source": {
+      "list": "IKEA",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ikea.co.ph",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ikea.co.ph",
+    "source": {
+      "list": "IKEA",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ikea.co.pl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ikea.co.pl",
+    "source": {
+      "list": "IKEA",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ikea.co.th",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ikea.co.th",
+    "source": {
+      "list": "IKEA",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ikea.co.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ikea.co.uk",
+    "source": {
+      "list": "IKEA",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ikea.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ikea.com",
+    "source": {
+      "list": "IKEA",
+      "line": 90
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ikea.com.au",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ikea.com.au",
+    "source": {
+      "list": "IKEA",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ikea.com.cy",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ikea.com.cy",
+    "source": {
+      "list": "IKEA",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ikea.com.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ikea.com.de",
+    "source": {
+      "list": "IKEA",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ikea.com.do",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ikea.com.do",
+    "source": {
+      "list": "IKEA",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ikea.com.eg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ikea.com.eg",
+    "source": {
+      "list": "IKEA",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ikea.com.gr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ikea.com.gr",
+    "source": {
+      "list": "IKEA",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ikea.com.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ikea.com.hk",
+    "source": {
+      "list": "IKEA",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ikea.com.in",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ikea.com.in",
+    "source": {
+      "list": "IKEA",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ikea.com.kw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ikea.com.kw",
+    "source": {
+      "list": "IKEA",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ikea.com.lv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ikea.com.lv",
+    "source": {
+      "list": "IKEA",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ikea.com.mx",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ikea.com.mx",
+    "source": {
+      "list": "IKEA",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ikea.com.my",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ikea.com.my",
+    "source": {
+      "list": "IKEA",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ikea.com.om",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ikea.com.om",
+    "source": {
+      "list": "IKEA",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ikea.com.pl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ikea.com.pl",
+    "source": {
+      "list": "IKEA",
+      "line": 37
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ikea.com.pr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ikea.com.pr",
+    "source": {
+      "list": "IKEA",
+      "line": 38
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ikea.com.pt",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ikea.com.pt",
+    "source": {
+      "list": "IKEA",
+      "line": 39
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ikea.com.ro",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ikea.com.ro",
+    "source": {
+      "list": "IKEA",
+      "line": 40
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ikea.com.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ikea.com.ru",
+    "source": {
+      "list": "IKEA",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ikea.com.sa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ikea.com.sa",
+    "source": {
+      "list": "IKEA",
+      "line": 42
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ikea.com.sg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ikea.com.sg",
+    "source": {
+      "list": "IKEA",
+      "line": 43
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ikea.com.tr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ikea.com.tr",
+    "source": {
+      "list": "IKEA",
+      "line": 44
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ikea.com.tw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ikea.com.tw",
+    "source": {
+      "list": "IKEA",
+      "line": 45
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ikea.com.ua",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ikea.com.ua",
+    "source": {
+      "list": "IKEA",
+      "line": 46
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ikea.cz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ikea.cz",
+    "source": {
+      "list": "IKEA",
+      "line": 47
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ikea.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ikea.de",
+    "source": {
+      "list": "IKEA",
+      "line": 48
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ikea.dk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ikea.dk",
+    "source": {
+      "list": "IKEA",
+      "line": 49
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ikea.do",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ikea.do",
+    "source": {
+      "list": "IKEA",
+      "line": 50
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ikea.ee",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ikea.ee",
+    "source": {
+      "list": "IKEA",
+      "line": 51
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ikea.eg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ikea.eg",
+    "source": {
+      "list": "IKEA",
+      "line": 52
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ikea.es",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ikea.es",
+    "source": {
+      "list": "IKEA",
+      "line": 53
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ikea.fi",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ikea.fi",
+    "source": {
+      "list": "IKEA",
+      "line": 54
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ikea.fr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ikea.fr",
+    "source": {
+      "list": "IKEA",
+      "line": 55
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ikea.gr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ikea.gr",
+    "source": {
+      "list": "IKEA",
+      "line": 56
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ikea.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ikea.hk",
+    "source": {
+      "list": "IKEA",
+      "line": 57
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ikea.hr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ikea.hr",
+    "source": {
+      "list": "IKEA",
+      "line": 58
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ikea.hu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ikea.hu",
+    "source": {
+      "list": "IKEA",
+      "line": 59
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ikea.ie",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ikea.ie",
+    "source": {
+      "list": "IKEA",
+      "line": 60
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ikea.in",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ikea.in",
+    "source": {
+      "list": "IKEA",
+      "line": 61
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ikea.is",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ikea.is",
+    "source": {
+      "list": "IKEA",
+      "line": 62
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ikea.it",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ikea.it",
+    "source": {
+      "list": "IKEA",
+      "line": 63
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ikea.jo",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ikea.jo",
+    "source": {
+      "list": "IKEA",
+      "line": 64
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ikea.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ikea.jp",
+    "source": {
+      "list": "IKEA",
+      "line": 65
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ikea.kr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ikea.kr",
+    "source": {
+      "list": "IKEA",
+      "line": 66
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ikea.lt",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ikea.lt",
+    "source": {
+      "list": "IKEA",
+      "line": 67
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ikea.lv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ikea.lv",
+    "source": {
+      "list": "IKEA",
+      "line": 68
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ikea.ma",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ikea.ma",
+    "source": {
+      "list": "IKEA",
+      "line": 69
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ikea.mx",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ikea.mx",
+    "source": {
+      "list": "IKEA",
+      "line": 70
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ikea.my",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ikea.my",
+    "source": {
+      "list": "IKEA",
+      "line": 71
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ikea.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ikea.net",
+    "source": {
+      "list": "IKEA",
+      "line": 91
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ikea.nl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ikea.nl",
+    "source": {
+      "list": "IKEA",
+      "line": 72
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ikea.no",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ikea.no",
+    "source": {
+      "list": "IKEA",
+      "line": 73
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ikea.om",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ikea.om",
+    "source": {
+      "list": "IKEA",
+      "line": 74
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ikea.ph",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ikea.ph",
+    "source": {
+      "list": "IKEA",
+      "line": 75
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ikea.pl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ikea.pl",
+    "source": {
+      "list": "IKEA",
+      "line": 76
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ikea.pr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ikea.pr",
+    "source": {
+      "list": "IKEA",
+      "line": 77
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ikea.pt",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ikea.pt",
+    "source": {
+      "list": "IKEA",
+      "line": 78
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ikea.qa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ikea.qa",
+    "source": {
+      "list": "IKEA",
+      "line": 79
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ikea.ro",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ikea.ro",
+    "source": {
+      "list": "IKEA",
+      "line": 80
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ikea.rs",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ikea.rs",
+    "source": {
+      "list": "IKEA",
+      "line": 81
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ikea.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ikea.ru",
+    "source": {
+      "list": "IKEA",
+      "line": 82
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ikea.sa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ikea.sa",
+    "source": {
+      "list": "IKEA",
+      "line": 83
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ikea.sg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ikea.sg",
+    "source": {
+      "list": "IKEA",
+      "line": 84
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ikea.si",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ikea.si",
+    "source": {
+      "list": "IKEA",
+      "line": 85
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ikea.sk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ikea.sk",
+    "source": {
+      "list": "IKEA",
+      "line": 86
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ikea.ua",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ikea.ua",
+    "source": {
+      "list": "IKEA",
+      "line": 87
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ikea.us",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ikea.us",
+    "source": {
+      "list": "IKEA",
+      "line": 88
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ingka-dt.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:ingka-dt.cn:@cn",
+    "source": {
+      "list": "IKEA",
+      "line": 92
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ingka-internal.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:ingka-internal.cn:@cn",
+    "source": {
+      "list": "IKEA",
+      "line": 93
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ingka-system.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:ingka-system.cn:@cn",
+    "source": {
+      "list": "IKEA",
+      "line": 94
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ingka.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ingka.com",
+    "source": {
+      "list": "IKEA",
+      "line": 95
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ingka.dev",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ingka.dev",
+    "source": {
+      "list": "IKEA",
+      "line": 96
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ingkacentres.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ingkacentres.com",
+    "source": {
+      "list": "IKEA",
+      "line": 97
+    }
+  }
+]

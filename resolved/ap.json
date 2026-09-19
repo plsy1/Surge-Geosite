@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "ap.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ap.org",
+    "source": {
+      "list": "AP",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "apnews.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:apnews.com",
+    "source": {
+      "list": "AP",
+      "line": 2
+    }
+  }
+]

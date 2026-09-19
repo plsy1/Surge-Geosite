@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "5i01.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:5i01.com",
+    "source": {
+      "list": "MOBILE01",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mobile01.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mobile01.com",
+    "source": {
+      "list": "MOBILE01",
+      "line": 2
+    }
+  }
+]

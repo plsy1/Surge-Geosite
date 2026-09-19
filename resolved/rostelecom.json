@@ -1,0 +1,103 @@
+[
+  {
+    "type": "domain",
+    "value": "azbukainterneta.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:azbukainterneta.ru",
+    "source": {
+      "list": "ROSTELECOM",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "more.tv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:more.tv",
+    "source": {
+      "list": "WINK",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "restream-media.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:restream-media.net",
+    "source": {
+      "list": "WINK",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "restream.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:restream.ru",
+    "source": {
+      "list": "WINK",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rostelecom.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rostelecom.ru",
+    "source": {
+      "list": "ROSTELECOM",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rt.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rt.ru",
+    "source": {
+      "list": "ROSTELECOM",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wink.am",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wink.am",
+    "source": {
+      "list": "WINK",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wink.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wink.ru",
+    "source": {
+      "list": "WINK",
+      "line": 5
+    }
+  },
+  {
+    "type": "full",
+    "value": "sentry.iptv.rt.ru",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:sentry.iptv.rt.ru:@ads",
+    "source": {
+      "list": "ROSTELECOM",
+      "line": 8
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "ecert.gov.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ecert.gov.hk",
+    "source": {
+      "list": "HONGKONGPOST",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hongkongpost.gov.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hongkongpost.gov.hk",
+    "source": {
+      "list": "HONGKONGPOST",
+      "line": 1
+    }
+  }
+]

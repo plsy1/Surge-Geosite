@@ -1,0 +1,101 @@
+[
+  {
+    "type": "domain",
+    "value": "driving.co.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:driving.co.uk",
+    "source": {
+      "list": "THETIMES",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mytimesplus.co.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mytimesplus.co.uk",
+    "source": {
+      "list": "THETIMES",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sportswomanoftheyear.co.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sportswomanoftheyear.co.uk",
+    "source": {
+      "list": "THETIMES",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sportswomenoftheyear.co.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sportswomenoftheyear.co.uk",
+    "source": {
+      "list": "THETIMES",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "the-tls.co.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:the-tls.co.uk",
+    "source": {
+      "list": "THETIMES",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "thesundaytimes.co.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:thesundaytimes.co.uk",
+    "source": {
+      "list": "THETIMES",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "thetimes.co.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:thetimes.co.uk",
+    "source": {
+      "list": "THETIMES",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "thetimes.ie",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:thetimes.ie",
+    "source": {
+      "list": "THETIMES",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "timesmembership.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:timesmembership.com",
+    "source": {
+      "list": "THETIMES",
+      "line": 9
+    }
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "type": "domain",
+    "value": "1234567.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:1234567.com.cn",
+    "source": {
+      "list": "EASTMONEY",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "18.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:18.cn",
+    "source": {
+      "list": "EASTMONEY",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "18.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:18.com.cn",
+    "source": {
+      "list": "EASTMONEY",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dfcfw.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dfcfw.com",
+    "source": {
+      "list": "EASTMONEY",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "eastmoney.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:eastmoney.com",
+    "source": {
+      "list": "EASTMONEY",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "eastmoneyfutures.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:eastmoneyfutures.com",
+    "source": {
+      "list": "EASTMONEY",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "emsec.hk",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:emsec.hk:@!cn",
+    "source": {
+      "list": "EASTMONEY",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "guba.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:guba.com.cn",
+    "source": {
+      "list": "EASTMONEY",
+      "line": 8
+    }
+  }
+]

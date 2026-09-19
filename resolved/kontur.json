@@ -1,0 +1,61 @@
+[
+  {
+    "type": "domain",
+    "value": "kontur-inc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kontur-inc.com",
+    "source": {
+      "list": "KONTUR",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kontur.host",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kontur.host",
+    "source": {
+      "list": "KONTUR",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kontur.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kontur.ru",
+    "source": {
+      "list": "KONTUR",
+      "line": 1
+    }
+  },
+  {
+    "type": "full",
+    "value": "metrika.kontur.ru",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:metrika.kontur.ru:@ads",
+    "source": {
+      "list": "KONTUR",
+      "line": 4
+    }
+  },
+  {
+    "type": "full",
+    "value": "sentry.kontur.host",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:sentry.kontur.host:@ads",
+    "source": {
+      "list": "KONTUR",
+      "line": 5
+    }
+  }
+]

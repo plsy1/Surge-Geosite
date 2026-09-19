@@ -1,0 +1,112 @@
+[
+  {
+    "type": "domain",
+    "value": "applecensorship.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:applecensorship.com",
+    "source": {
+      "list": "GREATFIRE",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "freebrowser.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:freebrowser.org",
+    "source": {
+      "list": "GREATFIRE",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "freewechat.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:freewechat.com",
+    "source": {
+      "list": "GREATFIRE",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "freeweibo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:freeweibo.com",
+    "source": {
+      "list": "GREATFIRE",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "freezhihu.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:freezhihu.org",
+    "source": {
+      "list": "GREATFIRE",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "googlecensorship.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:googlecensorship.org",
+    "source": {
+      "list": "GREATFIRE",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "greatfire.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:greatfire.org",
+    "source": {
+      "list": "GREATFIRE",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "greatfirevpn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:greatfirevpn.com",
+    "source": {
+      "list": "GREATFIRE",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pao-pao.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pao-pao.net",
+    "source": {
+      "list": "GREATFIRE",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wikiunblocked.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wikiunblocked.org",
+    "source": {
+      "list": "GREATFIRE",
+      "line": 10
+    }
+  }
+]

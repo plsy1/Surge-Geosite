@@ -1,0 +1,37 @@
+[
+  {
+    "type": "domain",
+    "value": "fflogs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fflogs.com",
+    "source": {
+      "list": "FFLOGS",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rpglogs.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:rpglogs.cn:@cn",
+    "source": {
+      "list": "FFLOGS",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rpglogs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rpglogs.com",
+    "source": {
+      "list": "FFLOGS",
+      "line": 2
+    }
+  }
+]

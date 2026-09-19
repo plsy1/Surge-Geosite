@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "vaptcha.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vaptcha.com",
+    "source": {
+      "list": "VAPTCHA",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vaptcha.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vaptcha.net",
+    "source": {
+      "list": "VAPTCHA",
+      "line": 2
+    }
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "type": "domain",
+    "value": "adjust.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:adjust.com:@ads",
+    "source": {
+      "list": "ADJUST",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adjust.io",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:adjust.io:@ads",
+    "source": {
+      "list": "ADJUST",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adjust.net.in",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:adjust.net.in:@ads",
+    "source": {
+      "list": "ADJUST",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adjust.world",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:adjust.world:@ads",
+    "source": {
+      "list": "ADJUST",
+      "line": 4
+    }
+  }
+]

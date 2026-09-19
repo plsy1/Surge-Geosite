@@ -1,0 +1,26 @@
+[
+  {
+    "type": "domain",
+    "value": "st.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:st.com",
+    "source": {
+      "list": "ST",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "stmicroelectronics.com.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:stmicroelectronics.com.cn:@cn",
+    "source": {
+      "list": "ST",
+      "line": 2
+    }
+  }
+]

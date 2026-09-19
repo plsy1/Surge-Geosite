@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "openkylin.top",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:openkylin.top",
+    "source": {
+      "list": "UBUNTUKYLIN",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ubuntukylin.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ubuntukylin.com",
+    "source": {
+      "list": "UBUNTUKYLIN",
+      "line": 2
+    }
+  }
+]

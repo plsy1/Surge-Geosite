@@ -1,0 +1,90 @@
+[
+  {
+    "type": "domain",
+    "value": "dns.sb",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dns.sb",
+    "source": {
+      "list": "SB",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ip.gs",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ip.gs",
+    "source": {
+      "list": "SB",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ip.sb",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ip.sb",
+    "source": {
+      "list": "SB",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "loli.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:loli.net",
+    "source": {
+      "list": "SB",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sb.sb",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sb.sb",
+    "source": {
+      "list": "SB",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sm.ms",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sm.ms",
+    "source": {
+      "list": "SB",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "u.nu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:u.nu",
+    "source": {
+      "list": "SB",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "www.sb",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:www.sb",
+    "source": {
+      "list": "SB",
+      "line": 8
+    }
+  }
+]

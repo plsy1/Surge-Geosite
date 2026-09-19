@@ -1,0 +1,50 @@
+[
+  {
+    "type": "domain",
+    "value": "dzen.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dzen.ru",
+    "source": {
+      "list": "DZEN",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dzeninfra.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dzeninfra.ru",
+    "source": {
+      "list": "DZEN",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "log.dzen.ru",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:log.dzen.ru:@ads",
+    "source": {
+      "list": "DZEN",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ms.dzen.ru",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:ms.dzen.ru:@ads",
+    "source": {
+      "list": "DZEN",
+      "line": 5
+    }
+  }
+]
