@@ -1,0 +1,57 @@
+[
+  {
+    "type": "domain",
+    "value": "pod-15-sunco-ws.zendesk.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pod-15-sunco-ws.zendesk.com",
+    "source": {
+      "list": "REDOTPAY",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "redotpay.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:redotpay.com",
+    "source": {
+      "list": "REDOTPAY",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "redotpay.zendesk.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:redotpay.zendesk.com",
+    "source": {
+      "list": "REDOTPAY",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rp-static-apne1.s3.ap-northeast-1.amazonaws.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rp-static-apne1.s3.ap-northeast-1.amazonaws.com",
+    "source": {
+      "list": "REDOTPAY",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xhpjc6-cdn-settings.appsflyersdk.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xhpjc6-cdn-settings.appsflyersdk.com",
+    "source": {
+      "list": "REDOTPAY",
+      "line": 4
+    }
+  }
+]

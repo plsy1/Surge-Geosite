@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "ptt.cc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ptt.cc",
+    "source": {
+      "list": "PTT",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ptt2.cc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ptt2.cc",
+    "source": {
+      "list": "PTT",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ptt3.cc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ptt3.cc",
+    "source": {
+      "list": "PTT",
+      "line": 3
+    }
+  }
+]

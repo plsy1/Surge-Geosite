@@ -1,0 +1,81 @@
+[
+  {
+    "type": "domain",
+    "value": "famifun.com.tw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:famifun.com.tw",
+    "source": {
+      "list": "FAMILYMART",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "family.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:family.co.jp",
+    "source": {
+      "list": "FAMILYMART",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "family.com.tw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:family.com.tw",
+    "source": {
+      "list": "FAMILYMART",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "familymart.com.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:familymart.com.cn:@cn",
+    "source": {
+      "list": "FAMILYMART",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "familymart.com.my",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:familymart.com.my",
+    "source": {
+      "list": "FAMILYMART",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "familymart.com.ph",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:familymart.com.ph",
+    "source": {
+      "list": "FAMILYMART",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "famima.vn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:famima.vn",
+    "source": {
+      "list": "FAMILYMART",
+      "line": 7
+    }
+  }
+]

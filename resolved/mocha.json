@@ -1,0 +1,13 @@
+[
+  {
+    "type": "domain",
+    "value": "mochajs.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mochajs.org",
+    "source": {
+      "list": "MOCHA",
+      "line": 1
+    }
+  }
+]

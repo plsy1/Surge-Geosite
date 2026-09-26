@@ -1,0 +1,59 @@
+[
+  {
+    "type": "domain",
+    "value": "panasonic",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:panasonic",
+    "source": {
+      "list": "PANASONIC",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "panasonic.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:panasonic.cn:@cn",
+    "source": {
+      "list": "PANASONIC",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "panasonic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:panasonic.com",
+    "source": {
+      "list": "PANASONIC",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "panasonic.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:panasonic.jp",
+    "source": {
+      "list": "PANASONIC",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "technics.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:technics.com",
+    "source": {
+      "list": "PANASONIC",
+      "line": 7
+    }
+  }
+]

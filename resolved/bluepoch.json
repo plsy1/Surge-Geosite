@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "bluepoch.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bluepoch.com",
+    "source": {
+      "list": "BLUEPOCH",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sl916.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sl916.com",
+    "source": {
+      "list": "BLUEPOCH-GAMES",
+      "line": 2
+    }
+  }
+]

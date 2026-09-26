@@ -1,0 +1,838 @@
+[
+  {
+    "type": "full",
+    "value": "scholar.google.ae",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.ae",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 1
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.at",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.at",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 2
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.be",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.be",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 3
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.bg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.bg",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 4
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.ca",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.ca",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 5
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.cat",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.cat",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 6
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.ch",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.ch",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 7
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.cl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.cl",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 8
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.cn",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 9
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.co.cr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.co.cr",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 10
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.co.id",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.co.id",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 11
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.co.il",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.co.il",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 12
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.co.in",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.co.in",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 13
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.co.jp",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 14
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.co.kr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.co.kr",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 15
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.co.nz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.co.nz",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 16
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.co.th",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.co.th",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 17
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.co.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.co.uk",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 18
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.co.ve",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.co.ve",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 19
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.co.za",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.co.za",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 20
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.com",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 21
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.com.ar",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.com.ar",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 22
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.com.au",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.com.au",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 23
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.com.bo",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.com.bo",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 24
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.com.br",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.com.br",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 25
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.com.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.com.co",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 26
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.com.cu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.com.cu",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 27
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.com.do",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.com.do",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 28
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.com.ec",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.com.ec",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 29
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.com.eg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.com.eg",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 30
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.com.gt",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.com.gt",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 31
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.com.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.com.hk",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 32
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.com.ly",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.com.ly",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 33
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.com.mx",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.com.mx",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 34
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.com.my",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.com.my",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 35
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.com.ni",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.com.ni",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 36
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.com.pa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.com.pa",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 37
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.com.pe",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.com.pe",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 38
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.com.ph",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.com.ph",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 39
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.com.pk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.com.pk",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 40
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.com.pr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.com.pr",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 41
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.com.py",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.com.py",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 42
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.com.sg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.com.sg",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 43
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.com.sv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.com.sv",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 44
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.com.tr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.com.tr",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 45
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.com.tw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.com.tw",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 46
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.com.ua",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.com.ua",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 47
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.com.uy",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.com.uy",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 48
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.com.vn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.com.vn",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 49
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.cz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.cz",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 50
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.de",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 51
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.dk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.dk",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 52
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.es",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.es",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 53
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.fi",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.fi",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 54
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.fr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.fr",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 55
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.gr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.gr",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 56
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.hn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.hn",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 57
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.hr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.hr",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 58
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.hu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.hu",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 59
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.is",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.is",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 60
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.it",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.it",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 61
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.li",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.li",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 62
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.lt",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.lt",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 63
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.lu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.lu",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 64
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.lv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.lv",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 65
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.nl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.nl",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 66
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.no",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.no",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 67
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.pl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.pl",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 68
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.pt",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.pt",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 69
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.ro",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.ro",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 70
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.ru",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 71
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.se",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.se",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 72
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.si",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.si",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 73
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.google.sk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.google.sk",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 74
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.googleusercontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.googleusercontent.com",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 75
+    }
+  },
+  {
+    "type": "full",
+    "value": "scholar.l.google.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:scholar.l.google.com",
+    "source": {
+      "list": "GOOGLE-SCHOLAR",
+      "line": 76
+    }
+  }
+]

@@ -1,0 +1,596 @@
+[
+  {
+    "type": "domain",
+    "value": "apimkt.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:apimkt.net",
+    "source": {
+      "list": "UCLOUD",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdndo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdndo.com",
+    "source": {
+      "list": "UCLOUD",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "clk1.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:clk1.cn",
+    "source": {
+      "list": "UCLOUD",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "clk1.top",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:clk1.top",
+    "source": {
+      "list": "UCLOUD",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ecloud-gdu.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ecloud-gdu.com",
+    "source": {
+      "list": "UCLOUD",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fshark.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fshark.cn",
+    "source": {
+      "list": "UCLOUD",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "globalrdp.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:globalrdp.cn",
+    "source": {
+      "list": "UCLOUD",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "globalssh.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:globalssh.cn",
+    "source": {
+      "list": "UCLOUD",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "iprdp.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:iprdp.net",
+    "source": {
+      "list": "UCLOUD",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ipssh.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ipssh.net",
+    "source": {
+      "list": "UCLOUD",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "me1.ltd",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:me1.ltd",
+    "source": {
+      "list": "UCLOUD",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "slk1.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:slk1.net",
+    "source": {
+      "list": "UCLOUD",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "u-cdn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:u-cdn.net",
+    "source": {
+      "list": "UCLOUD",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ucgslb.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ucgslb.cn",
+    "source": {
+      "list": "UCLOUD",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ucgslb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ucgslb.com",
+    "source": {
+      "list": "UCLOUD",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ucgslb.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ucgslb.info",
+    "source": {
+      "list": "UCLOUD",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ucgslb.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ucgslb.net",
+    "source": {
+      "list": "UCLOUD",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ucgslb.top",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ucgslb.top",
+    "source": {
+      "list": "UCLOUD",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ucloud-edm.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ucloud-edm.com",
+    "source": {
+      "list": "UCLOUD",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ucloud.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ucloud.cn",
+    "source": {
+      "list": "UCLOUD",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ucloud.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ucloud.com.cn",
+    "source": {
+      "list": "UCLOUD",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ucloud365.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ucloud365.com",
+    "source": {
+      "list": "UCLOUD",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ucloudadmin.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ucloudadmin.com",
+    "source": {
+      "list": "UCLOUD",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ucloudapi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ucloudapi.com",
+    "source": {
+      "list": "UCLOUD",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ucloudgda.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ucloudgda.com",
+    "source": {
+      "list": "UCLOUD",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ucloudnaming.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ucloudnaming.cn",
+    "source": {
+      "list": "UCLOUD",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ucloudnaming.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ucloudnaming.com",
+    "source": {
+      "list": "UCLOUD",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ucloudnaming.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ucloudnaming.info",
+    "source": {
+      "list": "UCLOUD",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ucloudnaming.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ucloudnaming.net",
+    "source": {
+      "list": "UCLOUD",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ucloudoss.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ucloudoss.com",
+    "source": {
+      "list": "UCLOUD",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ucloudstack.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ucloudstack.cn",
+    "source": {
+      "list": "UCLOUD",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ucloudstack.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ucloudstack.com",
+    "source": {
+      "list": "UCLOUD",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ucloudstack.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ucloudstack.net",
+    "source": {
+      "list": "UCLOUD",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ucloudstor.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ucloudstor.com",
+    "source": {
+      "list": "UCLOUD",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ucloudufile.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ucloudufile.com",
+    "source": {
+      "list": "UCLOUD",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ucnaming.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ucnaming.cn",
+    "source": {
+      "list": "UCLOUD",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ucnaming.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ucnaming.com",
+    "source": {
+      "list": "UCLOUD",
+      "line": 37
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ucnaming.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ucnaming.info",
+    "source": {
+      "list": "UCLOUD",
+      "line": 38
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ucnaming.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ucnaming.net",
+    "source": {
+      "list": "UCLOUD",
+      "line": 39
+    }
+  },
+  {
+    "type": "domain",
+    "value": "uewaf.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:uewaf.com",
+    "source": {
+      "list": "UCLOUD",
+      "line": 40
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ufileos.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ufileos.com",
+    "source": {
+      "list": "UCLOUD",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ugslb.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ugslb.cn",
+    "source": {
+      "list": "UCLOUD",
+      "line": 42
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ugslb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ugslb.com",
+    "source": {
+      "list": "UCLOUD",
+      "line": 43
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ugslb.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ugslb.info",
+    "source": {
+      "list": "UCLOUD",
+      "line": 44
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ugslb.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ugslb.net",
+    "source": {
+      "list": "UCLOUD",
+      "line": 45
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ugslb.top",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ugslb.top",
+    "source": {
+      "list": "UCLOUD",
+      "line": 46
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ugslb2.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ugslb2.net",
+    "source": {
+      "list": "UCLOUD",
+      "line": 47
+    }
+  },
+  {
+    "type": "domain",
+    "value": "uhasadmin.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:uhasadmin.com",
+    "source": {
+      "list": "UCLOUD",
+      "line": 48
+    }
+  },
+  {
+    "type": "domain",
+    "value": "unaming.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:unaming.cn",
+    "source": {
+      "list": "UCLOUD",
+      "line": 49
+    }
+  },
+  {
+    "type": "domain",
+    "value": "unaming.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:unaming.info",
+    "source": {
+      "list": "UCLOUD",
+      "line": 50
+    }
+  },
+  {
+    "type": "domain",
+    "value": "unaming.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:unaming.net",
+    "source": {
+      "list": "UCLOUD",
+      "line": 51
+    }
+  },
+  {
+    "type": "domain",
+    "value": "urtc.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:urtc.com.cn",
+    "source": {
+      "list": "UCLOUD",
+      "line": 52
+    }
+  },
+  {
+    "type": "domain",
+    "value": "uslk.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:uslk.net",
+    "source": {
+      "list": "UCLOUD",
+      "line": 53
+    }
+  },
+  {
+    "type": "domain",
+    "value": "uucl.vip",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:uucl.vip",
+    "source": {
+      "list": "UCLOUD",
+      "line": 54
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "rmbl.ws",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rmbl.ws",
+    "source": {
+      "list": "RUMBLE",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rumble.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rumble.com",
+    "source": {
+      "list": "RUMBLE",
+      "line": 2
+    }
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "type": "domain",
+    "value": "hku.edu.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hku.edu.hk",
+    "source": {
+      "list": "HKU",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hku.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hku.hk",
+    "source": {
+      "list": "HKU",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--pssu7cv61af44b.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--pssu7cv61af44b.hk",
+    "source": {
+      "list": "HKU",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--pssu7cv61af44b.xn--j6w193g",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--pssu7cv61af44b.xn--j6w193g",
+    "source": {
+      "list": "HKU",
+      "line": 8
+    }
+  }
+]

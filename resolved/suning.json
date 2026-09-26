@@ -1,0 +1,68 @@
+[
+  {
+    "type": "domain",
+    "value": "cnsuning.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cnsuning.com",
+    "source": {
+      "list": "SUNING",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "suning.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:suning.cn",
+    "source": {
+      "list": "SUNING",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "suning.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:suning.com",
+    "source": {
+      "list": "SUNING",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "suningcloud.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:suningcloud.com",
+    "source": {
+      "list": "SUNING",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "suningestate.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:suningestate.com",
+    "source": {
+      "list": "SUNING",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "suningholdings.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:suningholdings.com",
+    "source": {
+      "list": "SUNING",
+      "line": 6
+    }
+  }
+]

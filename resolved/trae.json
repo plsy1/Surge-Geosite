@@ -1,0 +1,134 @@
+[
+  {
+    "type": "domain",
+    "value": "doudou.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:doudou.com",
+    "source": {
+      "list": "TRAE",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "marscode.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:marscode.cn",
+    "source": {
+      "list": "TRAE",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "marscode.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:marscode.com.cn",
+    "source": {
+      "list": "TRAE",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mcbaas.work",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mcbaas.work",
+    "source": {
+      "list": "TRAE",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mcdemo.show",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mcdemo.show",
+    "source": {
+      "list": "TRAE",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mchost.guru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mchost.guru",
+    "source": {
+      "list": "TRAE",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mcprev.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mcprev.cn",
+    "source": {
+      "list": "TRAE",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tcwqqdy.guru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tcwqqdy.guru",
+    "source": {
+      "list": "TRAE",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "trae.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:trae.cn",
+    "source": {
+      "list": "TRAE",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "trae.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:trae.com.cn",
+    "source": {
+      "list": "TRAE",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "trae.guru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:trae.guru",
+    "source": {
+      "list": "TRAE",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yoma.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yoma.cn",
+    "source": {
+      "list": "TRAE",
+      "line": 14
+    }
+  }
+]

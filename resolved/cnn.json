@@ -1,0 +1,101 @@
+[
+  {
+    "type": "domain",
+    "value": "cnn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cnn.com",
+    "source": {
+      "list": "CNN",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cnn.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cnn.io",
+    "source": {
+      "list": "CNN",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cnn.it",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cnn.it",
+    "source": {
+      "list": "CNN",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cnnarabic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cnnarabic.com",
+    "source": {
+      "list": "CNN",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cnnlabs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cnnlabs.com",
+    "source": {
+      "list": "CNN",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cnnmoney.ch",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cnnmoney.ch",
+    "source": {
+      "list": "CNN",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cnnmoney.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cnnmoney.com",
+    "source": {
+      "list": "CNN",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cnnmoneystream.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cnnmoneystream.com",
+    "source": {
+      "list": "CNN",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cnnpolitics.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cnnpolitics.com",
+    "source": {
+      "list": "CNN",
+      "line": 9
+    }
+  }
+]

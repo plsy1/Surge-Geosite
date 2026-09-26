@@ -1,0 +1,259 @@
+[
+  {
+    "type": "domain",
+    "value": "aiv-cdn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aiv-cdn.net",
+    "source": {
+      "list": "PRIMEVIDEO",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amazonprimevideo.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:amazonprimevideo.cn:@cn",
+    "source": {
+      "list": "PRIMEVIDEO",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amazonprimevideo.com.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:amazonprimevideo.com.cn:@cn",
+    "source": {
+      "list": "PRIMEVIDEO",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amazonprimevideos.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:amazonprimevideos.com",
+    "source": {
+      "list": "PRIMEVIDEO",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amazonvideo.cc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:amazonvideo.cc",
+    "source": {
+      "list": "PRIMEVIDEO",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amazonvideo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:amazonvideo.com",
+    "source": {
+      "list": "PRIMEVIDEO",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "prime-video.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:prime-video.com",
+    "source": {
+      "list": "PRIMEVIDEO",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "primevideo.cc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:primevideo.cc",
+    "source": {
+      "list": "PRIMEVIDEO",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "primevideo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:primevideo.com",
+    "source": {
+      "list": "PRIMEVIDEO",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "primevideo.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:primevideo.info",
+    "source": {
+      "list": "PRIMEVIDEO",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "primevideo.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:primevideo.org",
+    "source": {
+      "list": "PRIMEVIDEO",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "primevideo.tv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:primevideo.tv",
+    "source": {
+      "list": "PRIMEVIDEO",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "prod.service.minerva.devices.a2z.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:prod.service.minerva.devices.a2z.com",
+    "source": {
+      "list": "PRIMEVIDEO",
+      "line": 26
+    }
+  },
+  {
+    "type": "full",
+    "value": "d1v5ir2lpwr8os.cloudfront.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:d1v5ir2lpwr8os.cloudfront.net",
+    "source": {
+      "list": "PRIMEVIDEO",
+      "line": 3
+    }
+  },
+  {
+    "type": "full",
+    "value": "d22qjgkvxw22r6.cloudfront.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:d22qjgkvxw22r6.cloudfront.net",
+    "source": {
+      "list": "PRIMEVIDEO",
+      "line": 4
+    }
+  },
+  {
+    "type": "full",
+    "value": "d25xi40x97liuc.cloudfront.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:d25xi40x97liuc.cloudfront.net",
+    "source": {
+      "list": "PRIMEVIDEO",
+      "line": 5
+    }
+  },
+  {
+    "type": "full",
+    "value": "d27xxe7juh1us6.cloudfront.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:d27xxe7juh1us6.cloudfront.net",
+    "source": {
+      "list": "PRIMEVIDEO",
+      "line": 6
+    }
+  },
+  {
+    "type": "full",
+    "value": "dmqdd6hw24ucf.cloudfront.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:dmqdd6hw24ucf.cloudfront.net",
+    "source": {
+      "list": "PRIMEVIDEO",
+      "line": 7
+    }
+  },
+  {
+    "type": "full",
+    "value": "images-eu.ssl-images-amazon.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:images-eu.ssl-images-amazon.com",
+    "source": {
+      "list": "PRIMEVIDEO",
+      "line": 8
+    }
+  },
+  {
+    "type": "full",
+    "value": "images-fe.ssl-images-amazon.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:images-fe.ssl-images-amazon.com",
+    "source": {
+      "list": "PRIMEVIDEO",
+      "line": 10
+    }
+  },
+  {
+    "type": "full",
+    "value": "images-na.ssl-images-amazon.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:images-na.ssl-images-amazon.com",
+    "source": {
+      "list": "PRIMEVIDEO",
+      "line": 9
+    }
+  },
+  {
+    "type": "full",
+    "value": "msh.amazon.co.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:msh.amazon.co.uk",
+    "source": {
+      "list": "PRIMEVIDEO",
+      "line": 11
+    }
+  },
+  {
+    "type": "full",
+    "value": "static.siege-amazon.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:static.siege-amazon.com",
+    "source": {
+      "list": "PRIMEVIDEO",
+      "line": 12
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "myfonts.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:myfonts.com",
+    "source": {
+      "list": "MYFONTS",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "myfonts.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:myfonts.net",
+    "source": {
+      "list": "MYFONTS",
+      "line": 2
+    }
+  }
+]

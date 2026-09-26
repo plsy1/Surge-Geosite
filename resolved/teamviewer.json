@@ -1,0 +1,59 @@
+[
+  {
+    "type": "domain",
+    "value": "teamviewer.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:teamviewer.cn:@cn",
+    "source": {
+      "list": "TEAMVIEWER",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "teamviewer.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:teamviewer.com",
+    "source": {
+      "list": "TEAMVIEWER",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "teamviewer.us",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:teamviewer.us",
+    "source": {
+      "list": "TEAMVIEWER",
+      "line": 3
+    }
+  },
+  {
+    "type": "full",
+    "value": "client-teamviewer-com.trafficmanager.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:client-teamviewer-com.trafficmanager.net",
+    "source": {
+      "list": "TEAMVIEWER",
+      "line": 5
+    }
+  },
+  {
+    "type": "full",
+    "value": "teamviewer.com.cdn.cloudflare.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:teamviewer.com.cdn.cloudflare.net",
+    "source": {
+      "list": "TEAMVIEWER",
+      "line": 6
+    }
+  }
+]

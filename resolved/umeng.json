@@ -1,0 +1,398 @@
+[
+  {
+    "type": "domain",
+    "value": "aaid.umeng.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:aaid.umeng.com:@ads",
+    "source": {
+      "list": "UMENG",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "alog.umeng.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:alog.umeng.com:@ads",
+    "source": {
+      "list": "UMENG",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "alog.umengcloud.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:alog.umengcloud.com:@ads",
+    "source": {
+      "list": "UMENG",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "alogs.umeng.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:alogs.umeng.com:@ads",
+    "source": {
+      "list": "UMENG",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "alogus.umeng.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:alogus.umeng.com:@ads",
+    "source": {
+      "list": "UMENG",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ar.umeng.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:ar.umeng.com:@ads",
+    "source": {
+      "list": "UMENG",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aspect-upush.umeng.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:aspect-upush.umeng.com:@ads",
+    "source": {
+      "list": "UMENG",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "audid.umeng.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:audid.umeng.com:@ads",
+    "source": {
+      "list": "UMENG",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ccs.umeng.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:ccs.umeng.com:@ads",
+    "source": {
+      "list": "UMENG",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cnlogs.umeng.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:cnlogs.umeng.com:@ads",
+    "source": {
+      "list": "UMENG",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cnlogs.umengcloud.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:cnlogs.umengcloud.com:@ads",
+    "source": {
+      "list": "UMENG",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cnzz.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cnzz.com",
+    "source": {
+      "list": "UMENG",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "log.umtrack.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:log.umtrack.com:@ads",
+    "source": {
+      "list": "UMENG",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mobmore.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mobmore.com",
+    "source": {
+      "list": "UMENG",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "new-aaid.umeng.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:new-aaid.umeng.com:@ads",
+    "source": {
+      "list": "UMENG",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "new-aaid.umeng.com.gds.alibabadns.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:new-aaid.umeng.com.gds.alibabadns.com:@ads",
+    "source": {
+      "list": "UMENG",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oc.umeng.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:oc.umeng.com:@ads",
+    "source": {
+      "list": "UMENG",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "plbslog.umeng.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:plbslog.umeng.com:@ads",
+    "source": {
+      "list": "UMENG",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "puata.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:puata.info",
+    "source": {
+      "list": "UMENG",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "resolve.umeng.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:resolve.umeng.com:@ads",
+    "source": {
+      "list": "UMENG",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "shujupie.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:shujupie.com",
+    "source": {
+      "list": "UMENG",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ulogs.umeng.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:ulogs.umeng.com:@ads",
+    "source": {
+      "list": "UMENG",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ulogs.umengcloud.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:ulogs.umengcloud.com:@ads",
+    "source": {
+      "list": "UMENG",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "umeng.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:umeng.com",
+    "source": {
+      "list": "UMENG",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "umengcloud.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:umengcloud.com",
+    "source": {
+      "list": "UMENG",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "umsns.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:umsns.com",
+    "source": {
+      "list": "UMENG",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "umtrack.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:umtrack.com",
+    "source": {
+      "list": "UMENG",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "utoken.umeng.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:utoken.umeng.com:@ads",
+    "source": {
+      "list": "UMENG",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "uyunad.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:uyunad.com",
+    "source": {
+      "list": "UMENG",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "w.cnzz.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:w.cnzz.com:@ads",
+    "source": {
+      "list": "UMENG",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "whalecloud.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:whalecloud.com",
+    "source": {
+      "list": "UMENG",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "z.gds.cnzz.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:z.gds.cnzz.com:@ads",
+    "source": {
+      "list": "UMENG",
+      "line": 34
+    }
+  }
+]

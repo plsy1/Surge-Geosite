@@ -1,0 +1,79 @@
+[
+  {
+    "type": "domain",
+    "value": "gepush.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gepush.com",
+    "source": {
+      "list": "GETUI",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "getui.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:getui.cn",
+    "source": {
+      "list": "GETUI",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "getui.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:getui.com",
+    "source": {
+      "list": "GETUI",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "getui.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:getui.net",
+    "source": {
+      "list": "GETUI",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "igehuo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:igehuo.com",
+    "source": {
+      "list": "GETUI",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "igetui.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:igetui.com",
+    "source": {
+      "list": "GETUI",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "igexin.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:igexin.com",
+    "source": {
+      "list": "GETUI",
+      "line": 8
+    }
+  }
+]

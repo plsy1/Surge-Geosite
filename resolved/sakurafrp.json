@@ -1,0 +1,640 @@
+[
+  {
+    "type": "domain",
+    "value": "13a.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:13a.com",
+    "source": {
+      "list": "SAKURAFRP",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "frp-act.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:frp-act.com",
+    "source": {
+      "list": "SAKURAFRP",
+      "line": 46
+    }
+  },
+  {
+    "type": "domain",
+    "value": "frp-air.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:frp-air.com",
+    "source": {
+      "list": "SAKURAFRP",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "frp-all.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:frp-all.com",
+    "source": {
+      "list": "SAKURAFRP",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "frp-any.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:frp-any.com",
+    "source": {
+      "list": "SAKURAFRP",
+      "line": 47
+    }
+  },
+  {
+    "type": "domain",
+    "value": "frp-arm.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:frp-arm.com",
+    "source": {
+      "list": "SAKURAFRP",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "frp-bag.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:frp-bag.com",
+    "source": {
+      "list": "SAKURAFRP",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "frp-bar.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:frp-bar.com",
+    "source": {
+      "list": "SAKURAFRP",
+      "line": 48
+    }
+  },
+  {
+    "type": "domain",
+    "value": "frp-bid.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:frp-bid.com",
+    "source": {
+      "list": "SAKURAFRP",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "frp-box.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:frp-box.com",
+    "source": {
+      "list": "SAKURAFRP",
+      "line": 49
+    }
+  },
+  {
+    "type": "domain",
+    "value": "frp-boy.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:frp-boy.com",
+    "source": {
+      "list": "SAKURAFRP",
+      "line": 50
+    }
+  },
+  {
+    "type": "domain",
+    "value": "frp-bus.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:frp-bus.com",
+    "source": {
+      "list": "SAKURAFRP",
+      "line": 51
+    }
+  },
+  {
+    "type": "domain",
+    "value": "frp-dad.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:frp-dad.com",
+    "source": {
+      "list": "SAKURAFRP",
+      "line": 52
+    }
+  },
+  {
+    "type": "domain",
+    "value": "frp-dog.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:frp-dog.com",
+    "source": {
+      "list": "SAKURAFRP",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "frp-egg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:frp-egg.com",
+    "source": {
+      "list": "SAKURAFRP",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "frp-end.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:frp-end.com",
+    "source": {
+      "list": "SAKURAFRP",
+      "line": 53
+    }
+  },
+  {
+    "type": "domain",
+    "value": "frp-era.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:frp-era.com",
+    "source": {
+      "list": "SAKURAFRP",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "frp-fan.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:frp-fan.com",
+    "source": {
+      "list": "SAKURAFRP",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "frp-fee.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:frp-fee.com",
+    "source": {
+      "list": "SAKURAFRP",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "frp-fog.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:frp-fog.com",
+    "source": {
+      "list": "SAKURAFRP",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "frp-fox.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:frp-fox.com",
+    "source": {
+      "list": "SAKURAFRP",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "frp-fun.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:frp-fun.com",
+    "source": {
+      "list": "SAKURAFRP",
+      "line": 54
+    }
+  },
+  {
+    "type": "domain",
+    "value": "frp-gap.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:frp-gap.com",
+    "source": {
+      "list": "SAKURAFRP",
+      "line": 55
+    }
+  },
+  {
+    "type": "domain",
+    "value": "frp-gas.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:frp-gas.com",
+    "source": {
+      "list": "SAKURAFRP",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "frp-gym.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:frp-gym.com",
+    "source": {
+      "list": "SAKURAFRP",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "frp-hat.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:frp-hat.com",
+    "source": {
+      "list": "SAKURAFRP",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "frp-hen.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:frp-hen.com",
+    "source": {
+      "list": "SAKURAFRP",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "frp-hip.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:frp-hip.com",
+    "source": {
+      "list": "SAKURAFRP",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "frp-hub.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:frp-hub.com",
+    "source": {
+      "list": "SAKURAFRP",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "frp-ice.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:frp-ice.com",
+    "source": {
+      "list": "SAKURAFRP",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "frp-jar.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:frp-jar.com",
+    "source": {
+      "list": "SAKURAFRP",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "frp-key.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:frp-key.com",
+    "source": {
+      "list": "SAKURAFRP",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "frp-kit.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:frp-kit.com",
+    "source": {
+      "list": "SAKURAFRP",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "frp-lab.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:frp-lab.com",
+    "source": {
+      "list": "SAKURAFRP",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "frp-leg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:frp-leg.com",
+    "source": {
+      "list": "SAKURAFRP",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "frp-mad.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:frp-mad.com",
+    "source": {
+      "list": "SAKURAFRP",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "frp-mix.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:frp-mix.com",
+    "source": {
+      "list": "SAKURAFRP",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "frp-mom.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:frp-mom.com",
+    "source": {
+      "list": "SAKURAFRP",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "frp-net.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:frp-net.com",
+    "source": {
+      "list": "SAKURAFRP",
+      "line": 56
+    }
+  },
+  {
+    "type": "domain",
+    "value": "frp-now.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:frp-now.com",
+    "source": {
+      "list": "SAKURAFRP",
+      "line": 57
+    }
+  },
+  {
+    "type": "domain",
+    "value": "frp-nut.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:frp-nut.com",
+    "source": {
+      "list": "SAKURAFRP",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "frp-off.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:frp-off.com",
+    "source": {
+      "list": "SAKURAFRP",
+      "line": 58
+    }
+  },
+  {
+    "type": "domain",
+    "value": "frp-oil.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:frp-oil.com",
+    "source": {
+      "list": "SAKURAFRP",
+      "line": 59
+    }
+  },
+  {
+    "type": "domain",
+    "value": "frp-one.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:frp-one.com",
+    "source": {
+      "list": "SAKURAFRP",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "frp-own.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:frp-own.com",
+    "source": {
+      "list": "SAKURAFRP",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "frp-pen.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:frp-pen.com",
+    "source": {
+      "list": "SAKURAFRP",
+      "line": 37
+    }
+  },
+  {
+    "type": "domain",
+    "value": "frp-put.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:frp-put.com",
+    "source": {
+      "list": "SAKURAFRP",
+      "line": 60
+    }
+  },
+  {
+    "type": "domain",
+    "value": "frp-rib.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:frp-rib.com",
+    "source": {
+      "list": "SAKURAFRP",
+      "line": 61
+    }
+  },
+  {
+    "type": "domain",
+    "value": "frp-rug.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:frp-rug.com",
+    "source": {
+      "list": "SAKURAFRP",
+      "line": 38
+    }
+  },
+  {
+    "type": "domain",
+    "value": "frp-run.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:frp-run.com",
+    "source": {
+      "list": "SAKURAFRP",
+      "line": 39
+    }
+  },
+  {
+    "type": "domain",
+    "value": "frp-say.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:frp-say.com",
+    "source": {
+      "list": "SAKURAFRP",
+      "line": 40
+    }
+  },
+  {
+    "type": "domain",
+    "value": "frp-sea.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:frp-sea.com",
+    "source": {
+      "list": "SAKURAFRP",
+      "line": 62
+    }
+  },
+  {
+    "type": "domain",
+    "value": "frp-shy.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:frp-shy.com",
+    "source": {
+      "list": "SAKURAFRP",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "frp-six.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:frp-six.com",
+    "source": {
+      "list": "SAKURAFRP",
+      "line": 63
+    }
+  },
+  {
+    "type": "domain",
+    "value": "frp-ski.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:frp-ski.com",
+    "source": {
+      "list": "SAKURAFRP",
+      "line": 64
+    }
+  },
+  {
+    "type": "domain",
+    "value": "frp-sun.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:frp-sun.com",
+    "source": {
+      "list": "SAKURAFRP",
+      "line": 42
+    }
+  },
+  {
+    "type": "domain",
+    "value": "frp-tag.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:frp-tag.com",
+    "source": {
+      "list": "SAKURAFRP",
+      "line": 43
+    }
+  },
+  {
+    "type": "domain",
+    "value": "natfrp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:natfrp.com",
+    "source": {
+      "list": "SAKURAFRP",
+      "line": 4
+    }
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "type": "domain",
+    "value": "nhk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nhk",
+    "source": {
+      "list": "NHK",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nhk.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nhk.jp",
+    "source": {
+      "list": "NHK",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nhk.or.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nhk.or.jp",
+    "source": {
+      "list": "NHK",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nhkworld.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nhkworld.jp",
+    "source": {
+      "list": "NHK",
+      "line": 7
+    }
+  }
+]

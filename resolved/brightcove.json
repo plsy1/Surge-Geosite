@@ -1,0 +1,156 @@
+[
+  {
+    "type": "domain",
+    "value": "bcove.video",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bcove.video",
+    "source": {
+      "list": "BRIGHTCOVE",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bcovlive.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bcovlive.io",
+    "source": {
+      "list": "BRIGHTCOVE",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bcvp0rtal.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bcvp0rtal.com",
+    "source": {
+      "list": "BRIGHTCOVE",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "boltdns.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:boltdns.net",
+    "source": {
+      "list": "BRIGHTCOVE",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "brightcove.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:brightcove.com",
+    "source": {
+      "list": "BRIGHTCOVE",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "brightcove.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:brightcove.net",
+    "source": {
+      "list": "BRIGHTCOVE",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "brightcove.services",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:brightcove.services",
+    "source": {
+      "list": "BRIGHTCOVE",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "brightcovecdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:brightcovecdn.com",
+    "source": {
+      "list": "BRIGHTCOVE",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "videojs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:videojs.com",
+    "source": {
+      "list": "BRIGHTCOVE",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zencdn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zencdn.net",
+    "source": {
+      "list": "BRIGHTCOVE",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zencoder.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zencoder.com",
+    "source": {
+      "list": "BRIGHTCOVE",
+      "line": 11
+    }
+  },
+  {
+    "type": "full",
+    "value": "bcovlive-a.akamaihd.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:bcovlive-a.akamaihd.net",
+    "source": {
+      "list": "BRIGHTCOVE",
+      "line": 13
+    }
+  },
+  {
+    "type": "full",
+    "value": "bcsecure01-a.akamaihd.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:bcsecure01-a.akamaihd.net",
+    "source": {
+      "list": "BRIGHTCOVE",
+      "line": 14
+    }
+  },
+  {
+    "type": "full",
+    "value": "brightcove.imgix.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:brightcove.imgix.net",
+    "source": {
+      "list": "BRIGHTCOVE",
+      "line": 15
+    }
+  }
+]

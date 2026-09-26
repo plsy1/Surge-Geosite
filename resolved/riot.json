@@ -1,0 +1,600 @@
+[
+  {
+    "type": "domain",
+    "value": "championshipseriesleague.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:championshipseriesleague.com",
+    "source": {
+      "list": "RIOT",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "convrgencegame.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:convrgencegame.com",
+    "source": {
+      "list": "RIOT",
+      "line": 64
+    }
+  },
+  {
+    "type": "domain",
+    "value": "historyofdota.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:historyofdota.com",
+    "source": {
+      "list": "RIOT",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "historyofdota.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:historyofdota.net",
+    "source": {
+      "list": "RIOT",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "historyofdota.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:historyofdota.org",
+    "source": {
+      "list": "RIOT",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "instituteofwar.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:instituteofwar.org",
+    "source": {
+      "list": "RIOT",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lcsmerch.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lcsmerch.com",
+    "source": {
+      "list": "RIOT",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "leaguehighschool.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:leaguehighschool.com",
+    "source": {
+      "list": "RIOT",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "leagueoflegends.ca",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:leagueoflegends.ca",
+    "source": {
+      "list": "RIOT",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "leagueoflegends.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:leagueoflegends.cn:@cn",
+    "source": {
+      "list": "RIOT",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "leagueoflegends.co.kr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:leagueoflegends.co.kr",
+    "source": {
+      "list": "RIOT",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "leagueoflegends.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:leagueoflegends.com",
+    "source": {
+      "list": "RIOT",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "leagueoflegends.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:leagueoflegends.info",
+    "source": {
+      "list": "RIOT",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "leagueoflegends.kr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:leagueoflegends.kr",
+    "source": {
+      "list": "RIOT",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "leagueoflegends.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:leagueoflegends.net",
+    "source": {
+      "list": "RIOT",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "leagueoflegends.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:leagueoflegends.org",
+    "source": {
+      "list": "RIOT",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "leagueoflegendsscripts.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:leagueoflegendsscripts.com",
+    "source": {
+      "list": "RIOT",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "leaguesharp.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:leaguesharp.info",
+    "source": {
+      "list": "RIOT",
+      "line": 37
+    }
+  },
+  {
+    "type": "domain",
+    "value": "leaguoflegends.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:leaguoflegends.com",
+    "source": {
+      "list": "RIOT",
+      "line": 38
+    }
+  },
+  {
+    "type": "domain",
+    "value": "learnwithleague.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:learnwithleague.com",
+    "source": {
+      "list": "RIOT",
+      "line": 39
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lol-europe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lol-europe.com",
+    "source": {
+      "list": "RIOT",
+      "line": 40
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lolclub.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lolclub.org",
+    "source": {
+      "list": "RIOT",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lolespor.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lolespor.com",
+    "source": {
+      "list": "RIOT",
+      "line": 42
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lolesports.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lolesports.com",
+    "source": {
+      "list": "RIOT",
+      "line": 43
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lolfanart.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lolfanart.net",
+    "source": {
+      "list": "RIOT",
+      "line": 44
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lolpcs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lolpcs.com",
+    "source": {
+      "list": "RIOT",
+      "line": 45
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lolshop.co.kr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lolshop.co.kr",
+    "source": {
+      "list": "RIOT",
+      "line": 46
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lolstatic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lolstatic.com",
+    "source": {
+      "list": "RIOT",
+      "line": 47
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lolusercontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lolusercontent.com",
+    "source": {
+      "list": "RIOT",
+      "line": 48
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lpl.com.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:lpl.com.cn:@cn",
+    "source": {
+      "list": "RIOT",
+      "line": 49
+    }
+  },
+  {
+    "type": "domain",
+    "value": "molesports.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:molesports.com",
+    "source": {
+      "list": "RIOT",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "playvalorant.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:playvalorant.com",
+    "source": {
+      "list": "RIOT",
+      "line": 58
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pvp.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pvp.net",
+    "source": {
+      "list": "RIOT",
+      "line": 50
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pvp.tv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pvp.tv",
+    "source": {
+      "list": "RIOT",
+      "line": 51
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rgpub.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rgpub.io",
+    "source": {
+      "list": "RIOT",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "riot-games.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:riot-games.com",
+    "source": {
+      "list": "RIOT",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "riot.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:riot.com",
+    "source": {
+      "list": "RIOT",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "riot.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:riot.net",
+    "source": {
+      "list": "RIOT",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "riotcdn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:riotcdn.net",
+    "source": {
+      "list": "RIOT",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "riotforgegames.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:riotforgegames.com",
+    "source": {
+      "list": "RIOT",
+      "line": 62
+    }
+  },
+  {
+    "type": "domain",
+    "value": "riotgames.co.kr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:riotgames.co.kr",
+    "source": {
+      "list": "RIOT",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "riotgames.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:riotgames.com",
+    "source": {
+      "list": "RIOT",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "riotgames.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:riotgames.info",
+    "source": {
+      "list": "RIOT",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "riotgames.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:riotgames.jp",
+    "source": {
+      "list": "RIOT",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "riotgames.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:riotgames.net",
+    "source": {
+      "list": "RIOT",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "riotgames.tv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:riotgames.tv",
+    "source": {
+      "list": "RIOT",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "riotpin.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:riotpin.com",
+    "source": {
+      "list": "RIOT",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "riotpoints.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:riotpoints.com",
+    "source": {
+      "list": "RIOT",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rstatic.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rstatic.net",
+    "source": {
+      "list": "RIOT",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ruinedking.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ruinedking.com",
+    "source": {
+      "list": "RIOT",
+      "line": 63
+    }
+  },
+  {
+    "type": "domain",
+    "value": "supremacy.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:supremacy.com",
+    "source": {
+      "list": "RIOT",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "supremacy.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:supremacy.net",
+    "source": {
+      "list": "RIOT",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ulol.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ulol.com",
+    "source": {
+      "list": "RIOT",
+      "line": 52
+    }
+  },
+  {
+    "type": "full",
+    "value": "lolstatic-a.akamaihd.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:lolstatic-a.akamaihd.net",
+    "source": {
+      "list": "RIOT",
+      "line": 54
+    }
+  }
+]

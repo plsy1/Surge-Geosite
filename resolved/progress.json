@@ -1,0 +1,68 @@
+[
+  {
+    "type": "domain",
+    "value": "chef.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:chef.io",
+    "source": {
+      "list": "PROGRESS",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "getfiddler.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:getfiddler.com",
+    "source": {
+      "list": "PROGRESS",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kemptechnologies.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kemptechnologies.com",
+    "source": {
+      "list": "PROGRESS",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "progress.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:progress.com",
+    "source": {
+      "list": "PROGRESS",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sharefile.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sharefile.com",
+    "source": {
+      "list": "PROGRESS",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "telerik.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:telerik.com",
+    "source": {
+      "list": "PROGRESS",
+      "line": 8
+    }
+  }
+]

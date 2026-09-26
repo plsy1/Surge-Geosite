@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "softether-download.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:softether-download.com",
+    "source": {
+      "list": "SOFTETHER",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "softether.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:softether.org",
+    "source": {
+      "list": "SOFTETHER",
+      "line": 1
+    }
+  }
+]

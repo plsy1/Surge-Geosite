@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "askdiandian.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:askdiandian.com",
+    "source": {
+      "list": "ASKDIANDIAN",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "diandianlife.top",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:diandianlife.top",
+    "source": {
+      "list": "ASKDIANDIAN",
+      "line": 3
+    }
+  }
+]

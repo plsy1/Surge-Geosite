@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "entermediadb.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:entermediadb.net",
+    "source": {
+      "list": "ENTERMEDIADB",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "entermediadb.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:entermediadb.org",
+    "source": {
+      "list": "ENTERMEDIADB",
+      "line": 2
+    }
+  }
+]

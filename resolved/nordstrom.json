@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "nordstrom.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nordstrom.com",
+    "source": {
+      "list": "NORDSTROM",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nordstrommedia.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nordstrommedia.com",
+    "source": {
+      "list": "NORDSTROM",
+      "line": 2
+    }
+  }
+]

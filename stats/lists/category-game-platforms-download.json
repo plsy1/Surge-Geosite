@@ -1,0 +1,59 @@
+{
+  "name": "CATEGORY-GAME-PLATFORMS-DOWNLOAD",
+  "source": {
+    "domain": 2,
+    "full": 490,
+    "keyword": 0,
+    "regexp": 0,
+    "include": 0,
+    "affiliations": 0,
+    "attributes": 25
+  },
+  "resolved": {
+    "rules": 491,
+    "domain": 2,
+    "full": 489,
+    "keyword": 0,
+    "regexp": 0
+  },
+  "filters": {
+    "attrs": {
+      "cn": 24
+    }
+  },
+  "modes": {
+    "strict": {
+      "rules": 491,
+      "bytes": 17700,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "balanced": {
+      "rules": 491,
+      "bytes": 17700,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "full": {
+      "rules": 491,
+      "bytes": 17700,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    }
+  }
+}

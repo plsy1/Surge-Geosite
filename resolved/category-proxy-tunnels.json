@@ -1,0 +1,178 @@
+[
+  {
+    "type": "domain",
+    "value": "equinox.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:equinox.io",
+    "source": {
+      "list": "NGROK",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ngrok-agent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ngrok-agent.com",
+    "source": {
+      "list": "NGROK",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ngrok-free.app",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ngrok-free.app",
+    "source": {
+      "list": "NGROK",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ngrok-free.dev",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ngrok-free.dev",
+    "source": {
+      "list": "NGROK",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ngrok-free.pizza",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ngrok-free.pizza",
+    "source": {
+      "list": "NGROK",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ngrok.app",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ngrok.app",
+    "source": {
+      "list": "NGROK",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ngrok.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ngrok.com",
+    "source": {
+      "list": "NGROK",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ngrok.dev",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ngrok.dev",
+    "source": {
+      "list": "NGROK",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ngrok.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ngrok.io",
+    "source": {
+      "list": "NGROK",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ngrok.pizza",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ngrok.pizza",
+    "source": {
+      "list": "NGROK",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ngrok.pro",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ngrok.pro",
+    "source": {
+      "list": "NGROK",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pinggy.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pinggy.io",
+    "source": {
+      "list": "PINGGY",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pinggy.link",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pinggy.link",
+    "source": {
+      "list": "PINGGY",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tailscale.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tailscale.com",
+    "source": {
+      "list": "TAILSCALE",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tailscale.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tailscale.io",
+    "source": {
+      "list": "TAILSCALE",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ts.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ts.net",
+    "source": {
+      "list": "TAILSCALE",
+      "line": 3
+    }
+  }
+]

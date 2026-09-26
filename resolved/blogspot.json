@@ -1,0 +1,838 @@
+[
+  {
+    "type": "domain",
+    "value": "blogblog.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:blogblog.com",
+    "source": {
+      "list": "BLOGSPOT",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "blogger.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:blogger.com",
+    "source": {
+      "list": "BLOGSPOT",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "blogger.googleusercontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:blogger.googleusercontent.com",
+    "source": {
+      "list": "BLOGSPOT",
+      "line": 81
+    }
+  },
+  {
+    "type": "domain",
+    "value": "blogspot.ae",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:blogspot.ae",
+    "source": {
+      "list": "BLOGSPOT",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "blogspot.al",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:blogspot.al",
+    "source": {
+      "list": "BLOGSPOT",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "blogspot.am",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:blogspot.am",
+    "source": {
+      "list": "BLOGSPOT",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "blogspot.ba",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:blogspot.ba",
+    "source": {
+      "list": "BLOGSPOT",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "blogspot.be",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:blogspot.be",
+    "source": {
+      "list": "BLOGSPOT",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "blogspot.bg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:blogspot.bg",
+    "source": {
+      "list": "BLOGSPOT",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "blogspot.bj",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:blogspot.bj",
+    "source": {
+      "list": "BLOGSPOT",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "blogspot.ca",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:blogspot.ca",
+    "source": {
+      "list": "BLOGSPOT",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "blogspot.cf",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:blogspot.cf",
+    "source": {
+      "list": "BLOGSPOT",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "blogspot.ch",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:blogspot.ch",
+    "source": {
+      "list": "BLOGSPOT",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "blogspot.cl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:blogspot.cl",
+    "source": {
+      "list": "BLOGSPOT",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "blogspot.co.at",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:blogspot.co.at",
+    "source": {
+      "list": "BLOGSPOT",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "blogspot.co.id",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:blogspot.co.id",
+    "source": {
+      "list": "BLOGSPOT",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "blogspot.co.il",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:blogspot.co.il",
+    "source": {
+      "list": "BLOGSPOT",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "blogspot.co.ke",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:blogspot.co.ke",
+    "source": {
+      "list": "BLOGSPOT",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "blogspot.co.nz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:blogspot.co.nz",
+    "source": {
+      "list": "BLOGSPOT",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "blogspot.co.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:blogspot.co.uk",
+    "source": {
+      "list": "BLOGSPOT",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "blogspot.co.za",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:blogspot.co.za",
+    "source": {
+      "list": "BLOGSPOT",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "blogspot.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:blogspot.com",
+    "source": {
+      "list": "BLOGSPOT",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "blogspot.com.ar",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:blogspot.com.ar",
+    "source": {
+      "list": "BLOGSPOT",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "blogspot.com.au",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:blogspot.com.au",
+    "source": {
+      "list": "BLOGSPOT",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "blogspot.com.br",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:blogspot.com.br",
+    "source": {
+      "list": "BLOGSPOT",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "blogspot.com.by",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:blogspot.com.by",
+    "source": {
+      "list": "BLOGSPOT",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "blogspot.com.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:blogspot.com.co",
+    "source": {
+      "list": "BLOGSPOT",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "blogspot.com.cy",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:blogspot.com.cy",
+    "source": {
+      "list": "BLOGSPOT",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "blogspot.com.ee",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:blogspot.com.ee",
+    "source": {
+      "list": "BLOGSPOT",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "blogspot.com.eg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:blogspot.com.eg",
+    "source": {
+      "list": "BLOGSPOT",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "blogspot.com.es",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:blogspot.com.es",
+    "source": {
+      "list": "BLOGSPOT",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "blogspot.com.mt",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:blogspot.com.mt",
+    "source": {
+      "list": "BLOGSPOT",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "blogspot.com.ng",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:blogspot.com.ng",
+    "source": {
+      "list": "BLOGSPOT",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "blogspot.com.tr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:blogspot.com.tr",
+    "source": {
+      "list": "BLOGSPOT",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "blogspot.com.uy",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:blogspot.com.uy",
+    "source": {
+      "list": "BLOGSPOT",
+      "line": 37
+    }
+  },
+  {
+    "type": "domain",
+    "value": "blogspot.cv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:blogspot.cv",
+    "source": {
+      "list": "BLOGSPOT",
+      "line": 38
+    }
+  },
+  {
+    "type": "domain",
+    "value": "blogspot.cz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:blogspot.cz",
+    "source": {
+      "list": "BLOGSPOT",
+      "line": 39
+    }
+  },
+  {
+    "type": "domain",
+    "value": "blogspot.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:blogspot.de",
+    "source": {
+      "list": "BLOGSPOT",
+      "line": 40
+    }
+  },
+  {
+    "type": "domain",
+    "value": "blogspot.dk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:blogspot.dk",
+    "source": {
+      "list": "BLOGSPOT",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "blogspot.fi",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:blogspot.fi",
+    "source": {
+      "list": "BLOGSPOT",
+      "line": 42
+    }
+  },
+  {
+    "type": "domain",
+    "value": "blogspot.fr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:blogspot.fr",
+    "source": {
+      "list": "BLOGSPOT",
+      "line": 43
+    }
+  },
+  {
+    "type": "domain",
+    "value": "blogspot.gr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:blogspot.gr",
+    "source": {
+      "list": "BLOGSPOT",
+      "line": 44
+    }
+  },
+  {
+    "type": "domain",
+    "value": "blogspot.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:blogspot.hk",
+    "source": {
+      "list": "BLOGSPOT",
+      "line": 45
+    }
+  },
+  {
+    "type": "domain",
+    "value": "blogspot.hr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:blogspot.hr",
+    "source": {
+      "list": "BLOGSPOT",
+      "line": 46
+    }
+  },
+  {
+    "type": "domain",
+    "value": "blogspot.hu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:blogspot.hu",
+    "source": {
+      "list": "BLOGSPOT",
+      "line": 47
+    }
+  },
+  {
+    "type": "domain",
+    "value": "blogspot.ie",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:blogspot.ie",
+    "source": {
+      "list": "BLOGSPOT",
+      "line": 48
+    }
+  },
+  {
+    "type": "domain",
+    "value": "blogspot.in",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:blogspot.in",
+    "source": {
+      "list": "BLOGSPOT",
+      "line": 49
+    }
+  },
+  {
+    "type": "domain",
+    "value": "blogspot.is",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:blogspot.is",
+    "source": {
+      "list": "BLOGSPOT",
+      "line": 50
+    }
+  },
+  {
+    "type": "domain",
+    "value": "blogspot.it",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:blogspot.it",
+    "source": {
+      "list": "BLOGSPOT",
+      "line": 51
+    }
+  },
+  {
+    "type": "domain",
+    "value": "blogspot.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:blogspot.jp",
+    "source": {
+      "list": "BLOGSPOT",
+      "line": 52
+    }
+  },
+  {
+    "type": "domain",
+    "value": "blogspot.kr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:blogspot.kr",
+    "source": {
+      "list": "BLOGSPOT",
+      "line": 53
+    }
+  },
+  {
+    "type": "domain",
+    "value": "blogspot.li",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:blogspot.li",
+    "source": {
+      "list": "BLOGSPOT",
+      "line": 54
+    }
+  },
+  {
+    "type": "domain",
+    "value": "blogspot.lt",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:blogspot.lt",
+    "source": {
+      "list": "BLOGSPOT",
+      "line": 55
+    }
+  },
+  {
+    "type": "domain",
+    "value": "blogspot.lu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:blogspot.lu",
+    "source": {
+      "list": "BLOGSPOT",
+      "line": 56
+    }
+  },
+  {
+    "type": "domain",
+    "value": "blogspot.md",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:blogspot.md",
+    "source": {
+      "list": "BLOGSPOT",
+      "line": 57
+    }
+  },
+  {
+    "type": "domain",
+    "value": "blogspot.mk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:blogspot.mk",
+    "source": {
+      "list": "BLOGSPOT",
+      "line": 58
+    }
+  },
+  {
+    "type": "domain",
+    "value": "blogspot.mx",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:blogspot.mx",
+    "source": {
+      "list": "BLOGSPOT",
+      "line": 59
+    }
+  },
+  {
+    "type": "domain",
+    "value": "blogspot.my",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:blogspot.my",
+    "source": {
+      "list": "BLOGSPOT",
+      "line": 60
+    }
+  },
+  {
+    "type": "domain",
+    "value": "blogspot.nl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:blogspot.nl",
+    "source": {
+      "list": "BLOGSPOT",
+      "line": 61
+    }
+  },
+  {
+    "type": "domain",
+    "value": "blogspot.no",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:blogspot.no",
+    "source": {
+      "list": "BLOGSPOT",
+      "line": 62
+    }
+  },
+  {
+    "type": "domain",
+    "value": "blogspot.pe",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:blogspot.pe",
+    "source": {
+      "list": "BLOGSPOT",
+      "line": 63
+    }
+  },
+  {
+    "type": "domain",
+    "value": "blogspot.pt",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:blogspot.pt",
+    "source": {
+      "list": "BLOGSPOT",
+      "line": 64
+    }
+  },
+  {
+    "type": "domain",
+    "value": "blogspot.qa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:blogspot.qa",
+    "source": {
+      "list": "BLOGSPOT",
+      "line": 65
+    }
+  },
+  {
+    "type": "domain",
+    "value": "blogspot.re",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:blogspot.re",
+    "source": {
+      "list": "BLOGSPOT",
+      "line": 66
+    }
+  },
+  {
+    "type": "domain",
+    "value": "blogspot.ro",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:blogspot.ro",
+    "source": {
+      "list": "BLOGSPOT",
+      "line": 67
+    }
+  },
+  {
+    "type": "domain",
+    "value": "blogspot.rs",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:blogspot.rs",
+    "source": {
+      "list": "BLOGSPOT",
+      "line": 68
+    }
+  },
+  {
+    "type": "domain",
+    "value": "blogspot.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:blogspot.ru",
+    "source": {
+      "list": "BLOGSPOT",
+      "line": 69
+    }
+  },
+  {
+    "type": "domain",
+    "value": "blogspot.se",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:blogspot.se",
+    "source": {
+      "list": "BLOGSPOT",
+      "line": 70
+    }
+  },
+  {
+    "type": "domain",
+    "value": "blogspot.sg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:blogspot.sg",
+    "source": {
+      "list": "BLOGSPOT",
+      "line": 71
+    }
+  },
+  {
+    "type": "domain",
+    "value": "blogspot.si",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:blogspot.si",
+    "source": {
+      "list": "BLOGSPOT",
+      "line": 72
+    }
+  },
+  {
+    "type": "domain",
+    "value": "blogspot.sk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:blogspot.sk",
+    "source": {
+      "list": "BLOGSPOT",
+      "line": 73
+    }
+  },
+  {
+    "type": "domain",
+    "value": "blogspot.sn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:blogspot.sn",
+    "source": {
+      "list": "BLOGSPOT",
+      "line": 74
+    }
+  },
+  {
+    "type": "domain",
+    "value": "blogspot.td",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:blogspot.td",
+    "source": {
+      "list": "BLOGSPOT",
+      "line": 75
+    }
+  },
+  {
+    "type": "domain",
+    "value": "blogspot.tw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:blogspot.tw",
+    "source": {
+      "list": "BLOGSPOT",
+      "line": 76
+    }
+  },
+  {
+    "type": "domain",
+    "value": "blogspot.ug",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:blogspot.ug",
+    "source": {
+      "list": "BLOGSPOT",
+      "line": 77
+    }
+  },
+  {
+    "type": "domain",
+    "value": "blogspot.vn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:blogspot.vn",
+    "source": {
+      "list": "BLOGSPOT",
+      "line": 78
+    }
+  }
+]

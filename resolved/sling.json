@@ -1,0 +1,57 @@
+[
+  {
+    "type": "domain",
+    "value": "dishworld.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dishworld.com",
+    "source": {
+      "list": "SLING",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "movenetworks.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:movenetworks.com",
+    "source": {
+      "list": "SLING",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "movetv.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:movetv.com",
+    "source": {
+      "list": "SLING",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sling.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sling.com",
+    "source": {
+      "list": "SLING",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "slinginternational.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:slinginternational.com",
+    "source": {
+      "list": "SLING",
+      "line": 2
+    }
+  }
+]

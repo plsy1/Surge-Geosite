@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "k8s.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:k8s.io",
+    "source": {
+      "list": "KUBERNETES",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kubernetes.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kubernetes.io",
+    "source": {
+      "list": "KUBERNETES",
+      "line": 1
+    }
+  }
+]

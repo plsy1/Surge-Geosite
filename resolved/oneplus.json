@@ -1,0 +1,92 @@
+[
+  {
+    "type": "domain",
+    "value": "h2os.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:h2os.com",
+    "source": {
+      "list": "ONEPLUS",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oneplus.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oneplus.cn",
+    "source": {
+      "list": "ONEPLUS",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oneplus.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oneplus.com",
+    "source": {
+      "list": "ONEPLUS",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oneplus.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oneplus.net",
+    "source": {
+      "list": "ONEPLUS",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oneplusbbs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oneplusbbs.com",
+    "source": {
+      "list": "ONEPLUS",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oneplusmobile.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oneplusmobile.com",
+    "source": {
+      "list": "ONEPLUS",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "opstatics.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:opstatics.com",
+    "source": {
+      "list": "ONEPLUS",
+      "line": 4
+    }
+  },
+  {
+    "type": "full",
+    "value": "community.oneplus.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "full:community.oneplus.com:@!cn",
+    "source": {
+      "list": "ONEPLUS",
+      "line": 9
+    }
+  }
+]

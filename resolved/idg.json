@@ -1,0 +1,90 @@
+[
+  {
+    "type": "domain",
+    "value": "idg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:idg.com",
+    "source": {
+      "list": "IDG",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "idgcommunications.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:idgcommunications.net",
+    "source": {
+      "list": "IDG",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "idgconnect-direct.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:idgconnect-direct.com",
+    "source": {
+      "list": "IDG",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "idgconnect-resources.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:idgconnect-resources.com",
+    "source": {
+      "list": "IDG",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "idgconnect.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:idgconnect.com",
+    "source": {
+      "list": "IDG",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "idgesg.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:idgesg.net",
+    "source": {
+      "list": "IDG",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "idginc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:idginc.com",
+    "source": {
+      "list": "IDG",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "idginsiderpro.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:idginsiderpro.com",
+    "source": {
+      "list": "IDG",
+      "line": 8
+    }
+  }
+]

@@ -1,0 +1,88 @@
+{
+  "name": "AMAZON",
+  "source": {
+    "domain": 112,
+    "full": 2,
+    "keyword": 0,
+    "regexp": 0,
+    "include": 6,
+    "affiliations": 0,
+    "attributes": 26
+  },
+  "resolved": {
+    "rules": 239,
+    "domain": 234,
+    "full": 2,
+    "keyword": 0,
+    "regexp": 3
+  },
+  "filters": {
+    "attrs": {
+      "cn": 57,
+      "ads": 2
+    }
+  },
+  "modes": {
+    "strict": {
+      "rules": 236,
+      "bytes": 6960,
+      "regex": {
+        "total": 3,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 3
+      },
+      "unsupported": [
+        {
+          "pattern": ".+\\.awsdns-[0-9][0-9]\\.(co\\.uk|com|net|org)$",
+          "source": {
+            "list": "AWS",
+            "line": 61
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": ".+\\.awsdns-cn-[0-9][0-9]\\.(biz|com|net|top)$",
+          "source": {
+            "list": "AWS-CN",
+            "line": 31
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": ".+\\.awsdns-cn-[0-9][a-e0-9]\\.cn$",
+          "source": {
+            "list": "AWS-CN",
+            "line": 32
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        }
+      ]
+    },
+    "balanced": {
+      "rules": 239,
+      "bytes": 7054,
+      "regex": {
+        "total": 3,
+        "lossless": 0,
+        "widened": 3,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "full": {
+      "rules": 239,
+      "bytes": 7054,
+      "regex": {
+        "total": 3,
+        "lossless": 0,
+        "widened": 3,
+        "unsupported": 0
+      },
+      "unsupported": []
+    }
+  }
+}

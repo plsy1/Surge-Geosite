@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "op.gg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:op.gg",
+    "source": {
+      "list": "OP",
+      "line": 1
+    }
+  },
+  {
+    "type": "full",
+    "value": "opgg-static.akamaized.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:opgg-static.akamaized.net",
+    "source": {
+      "list": "OP",
+      "line": 2
+    }
+  }
+]

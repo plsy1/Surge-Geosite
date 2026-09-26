@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "translatewiki.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:translatewiki.net",
+    "source": {
+      "list": "TRANSLATEWIKI",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "translatewiki.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:translatewiki.org",
+    "source": {
+      "list": "TRANSLATEWIKI",
+      "line": 2
+    }
+  }
+]

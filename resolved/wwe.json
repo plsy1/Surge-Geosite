@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "wwe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wwe.com",
+    "source": {
+      "list": "WWE",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wwe9.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wwe9.com",
+    "source": {
+      "list": "WWE",
+      "line": 2
+    }
+  }
+]

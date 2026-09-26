@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "bandcamp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bandcamp.com",
+    "source": {
+      "list": "BANDCAMP",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bcbits.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bcbits.com",
+    "source": {
+      "list": "BANDCAMP",
+      "line": 2
+    }
+  }
+]

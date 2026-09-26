@@ -1,0 +1,59 @@
+{
+  "name": "CATEGORY-RETAIL-RU",
+  "source": {
+    "domain": 36,
+    "full": 0,
+    "keyword": 0,
+    "regexp": 0,
+    "include": 5,
+    "affiliations": 0,
+    "attributes": 0
+  },
+  "resolved": {
+    "rules": 82,
+    "domain": 78,
+    "full": 4,
+    "keyword": 0,
+    "regexp": 0
+  },
+  "filters": {
+    "attrs": {
+      "ads": 3
+    }
+  },
+  "modes": {
+    "strict": {
+      "rules": 82,
+      "bytes": 2021,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "balanced": {
+      "rules": 82,
+      "bytes": 2021,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "full": {
+      "rules": 82,
+      "bytes": 2021,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    }
+  }
+}

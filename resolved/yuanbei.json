@@ -1,0 +1,57 @@
+[
+  {
+    "type": "domain",
+    "value": "i2oo.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:i2oo.cn",
+    "source": {
+      "list": "YUANBEI",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "laoban100.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:laoban100.com",
+    "source": {
+      "list": "YUANBEI",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "shengyi.ai",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:shengyi.ai",
+    "source": {
+      "list": "YUANBEI",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "shengyizhuanjia.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:shengyizhuanjia.com",
+    "source": {
+      "list": "YUANBEI",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yuanbei.biz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yuanbei.biz",
+    "source": {
+      "list": "YUANBEI",
+      "line": 5
+    }
+  }
+]

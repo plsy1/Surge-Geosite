@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "open.cachefly.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:open.cachefly.net",
+    "source": {
+      "list": "OPENSPEEDTEST",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "openspeedtest.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:openspeedtest.com",
+    "source": {
+      "list": "OPENSPEEDTEST",
+      "line": 2
+    }
+  }
+]

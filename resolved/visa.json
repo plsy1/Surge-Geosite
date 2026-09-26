@@ -1,0 +1,1780 @@
+[
+  {
+    "type": "domain",
+    "value": "connaissancesfinancierespratiques.ca",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:connaissancesfinancierespratiques.ca",
+    "source": {
+      "list": "VISA",
+      "line": 119
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dnsvisa.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dnsvisa.com",
+    "source": {
+      "list": "VISA",
+      "line": 120
+    }
+  },
+  {
+    "type": "domain",
+    "value": "eubluecardvisa.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:eubluecardvisa.com",
+    "source": {
+      "list": "VISA",
+      "line": 121
+    }
+  },
+  {
+    "type": "domain",
+    "value": "financialsoccer.ca",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:financialsoccer.ca",
+    "source": {
+      "list": "VISA",
+      "line": 122
+    }
+  },
+  {
+    "type": "domain",
+    "value": "financialsoccer.com.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:financialsoccer.com.cn:@cn",
+    "source": {
+      "list": "VISA",
+      "line": 123
+    }
+  },
+  {
+    "type": "domain",
+    "value": "finlitsummit.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:finlitsummit.org",
+    "source": {
+      "list": "VISA",
+      "line": 105
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lightbridge.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lightbridge.com",
+    "source": {
+      "list": "VISA",
+      "line": 124
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mhshosting.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mhshosting.com",
+    "source": {
+      "list": "VISA",
+      "line": 126
+    }
+  },
+  {
+    "type": "domain",
+    "value": "miamifintechfestival.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:miamifintechfestival.com",
+    "source": {
+      "list": "VISA",
+      "line": 125
+    }
+  },
+  {
+    "type": "domain",
+    "value": "myvisaluxuryhotels.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:myvisaluxuryhotels.com",
+    "source": {
+      "list": "VISA",
+      "line": 108
+    }
+  },
+  {
+    "type": "domain",
+    "value": "practicalbusinessskills.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:practicalbusinessskills.com",
+    "source": {
+      "list": "VISA",
+      "line": 127
+    }
+  },
+  {
+    "type": "domain",
+    "value": "practicalmoneyskills.ca",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:practicalmoneyskills.ca",
+    "source": {
+      "list": "VISA",
+      "line": 128
+    }
+  },
+  {
+    "type": "domain",
+    "value": "practicalmoneyskills.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:practicalmoneyskills.cn:@cn",
+    "source": {
+      "list": "VISA",
+      "line": 129
+    }
+  },
+  {
+    "type": "domain",
+    "value": "practicalmoneyskills.com.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:practicalmoneyskills.com.cn:@cn",
+    "source": {
+      "list": "VISA",
+      "line": 130
+    }
+  },
+  {
+    "type": "domain",
+    "value": "practicalmoneyskills.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:practicalmoneyskills.jp",
+    "source": {
+      "list": "VISA",
+      "line": 131
+    }
+  },
+  {
+    "type": "domain",
+    "value": "soccerfinancier.ca",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:soccerfinancier.ca",
+    "source": {
+      "list": "VISA",
+      "line": 132
+    }
+  },
+  {
+    "type": "domain",
+    "value": "torcidadeouro.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:torcidadeouro.com",
+    "source": {
+      "list": "VISA",
+      "line": 133
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vaultify.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vaultify.com",
+    "source": {
+      "list": "VISA",
+      "line": 134
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vaultify.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vaultify.info",
+    "source": {
+      "list": "VISA",
+      "line": 135
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vaultify.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vaultify.net",
+    "source": {
+      "list": "VISA",
+      "line": 136
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visa-atm.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visa-atm.com",
+    "source": {
+      "list": "VISA",
+      "line": 137
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visa-news.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visa-news.jp",
+    "source": {
+      "list": "VISA",
+      "line": 138
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visa.be",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visa.be",
+    "source": {
+      "list": "VISA",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visa.ca",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visa.ca",
+    "source": {
+      "list": "VISA",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visa.cl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visa.cl",
+    "source": {
+      "list": "VISA",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visa.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:visa.cn:@cn",
+    "source": {
+      "list": "VISA",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visa.co.ao",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visa.co.ao",
+    "source": {
+      "list": "VISA",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visa.co.cr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visa.co.cr",
+    "source": {
+      "list": "VISA",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visa.co.id",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visa.co.id",
+    "source": {
+      "list": "VISA",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visa.co.il",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visa.co.il",
+    "source": {
+      "list": "VISA",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visa.co.in",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visa.co.in",
+    "source": {
+      "list": "VISA",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visa.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visa.co.jp",
+    "source": {
+      "list": "VISA",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visa.co.ke",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visa.co.ke",
+    "source": {
+      "list": "VISA",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visa.co.ni",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visa.co.ni",
+    "source": {
+      "list": "VISA",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visa.co.nz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visa.co.nz",
+    "source": {
+      "list": "VISA",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visa.co.th",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visa.co.th",
+    "source": {
+      "list": "VISA",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visa.co.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visa.co.uk",
+    "source": {
+      "list": "VISA",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visa.co.ve",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visa.co.ve",
+    "source": {
+      "list": "VISA",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visa.co.za",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visa.co.za",
+    "source": {
+      "list": "VISA",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visa.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visa.com",
+    "source": {
+      "list": "VISA",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visa.com.ag",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visa.com.ag",
+    "source": {
+      "list": "VISA",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visa.com.ai",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visa.com.ai",
+    "source": {
+      "list": "VISA",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visa.com.ar",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visa.com.ar",
+    "source": {
+      "list": "VISA",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visa.com.au",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visa.com.au",
+    "source": {
+      "list": "VISA",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visa.com.az",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visa.com.az",
+    "source": {
+      "list": "VISA",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visa.com.bo",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visa.com.bo",
+    "source": {
+      "list": "VISA",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visa.com.br",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visa.com.br",
+    "source": {
+      "list": "VISA",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visa.com.bs",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visa.com.bs",
+    "source": {
+      "list": "VISA",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visa.com.bz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visa.com.bz",
+    "source": {
+      "list": "VISA",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visa.com.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:visa.com.cn:@cn",
+    "source": {
+      "list": "VISA",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visa.com.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visa.com.co",
+    "source": {
+      "list": "VISA",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visa.com.cy",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visa.com.cy",
+    "source": {
+      "list": "VISA",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visa.com.dm",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visa.com.dm",
+    "source": {
+      "list": "VISA",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visa.com.do",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visa.com.do",
+    "source": {
+      "list": "VISA",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visa.com.ec",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visa.com.ec",
+    "source": {
+      "list": "VISA",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visa.com.ge",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visa.com.ge",
+    "source": {
+      "list": "VISA",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visa.com.gt",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visa.com.gt",
+    "source": {
+      "list": "VISA",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visa.com.gy",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visa.com.gy",
+    "source": {
+      "list": "VISA",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visa.com.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visa.com.hk",
+    "source": {
+      "list": "VISA",
+      "line": 37
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visa.com.hn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visa.com.hn",
+    "source": {
+      "list": "VISA",
+      "line": 38
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visa.com.hr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visa.com.hr",
+    "source": {
+      "list": "VISA",
+      "line": 39
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visa.com.jm",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visa.com.jm",
+    "source": {
+      "list": "VISA",
+      "line": 40
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visa.com.kh",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visa.com.kh",
+    "source": {
+      "list": "VISA",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visa.com.kn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visa.com.kn",
+    "source": {
+      "list": "VISA",
+      "line": 42
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visa.com.kz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visa.com.kz",
+    "source": {
+      "list": "VISA",
+      "line": 43
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visa.com.lc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visa.com.lc",
+    "source": {
+      "list": "VISA",
+      "line": 44
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visa.com.lk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visa.com.lk",
+    "source": {
+      "list": "VISA",
+      "line": 45
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visa.com.ms",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visa.com.ms",
+    "source": {
+      "list": "VISA",
+      "line": 46
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visa.com.mx",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visa.com.mx",
+    "source": {
+      "list": "VISA",
+      "line": 47
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visa.com.my",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visa.com.my",
+    "source": {
+      "list": "VISA",
+      "line": 48
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visa.com.ng",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visa.com.ng",
+    "source": {
+      "list": "VISA",
+      "line": 49
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visa.com.pa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visa.com.pa",
+    "source": {
+      "list": "VISA",
+      "line": 50
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visa.com.pe",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visa.com.pe",
+    "source": {
+      "list": "VISA",
+      "line": 51
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visa.com.ph",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visa.com.ph",
+    "source": {
+      "list": "VISA",
+      "line": 52
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visa.com.pr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visa.com.pr",
+    "source": {
+      "list": "VISA",
+      "line": 53
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visa.com.py",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visa.com.py",
+    "source": {
+      "list": "VISA",
+      "line": 54
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visa.com.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visa.com.ru",
+    "source": {
+      "list": "VISA",
+      "line": 55
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visa.com.sg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visa.com.sg",
+    "source": {
+      "list": "VISA",
+      "line": 56
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visa.com.sv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visa.com.sv",
+    "source": {
+      "list": "VISA",
+      "line": 57
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visa.com.tr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visa.com.tr",
+    "source": {
+      "list": "VISA",
+      "line": 58
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visa.com.tt",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visa.com.tt",
+    "source": {
+      "list": "VISA",
+      "line": 59
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visa.com.tw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visa.com.tw",
+    "source": {
+      "list": "VISA",
+      "line": 60
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visa.com.ua",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visa.com.ua",
+    "source": {
+      "list": "VISA",
+      "line": 61
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visa.com.uy",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visa.com.uy",
+    "source": {
+      "list": "VISA",
+      "line": 62
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visa.com.vc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visa.com.vc",
+    "source": {
+      "list": "VISA",
+      "line": 63
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visa.com.vi",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visa.com.vi",
+    "source": {
+      "list": "VISA",
+      "line": 64
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visa.com.vn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visa.com.vn",
+    "source": {
+      "list": "VISA",
+      "line": 65
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visa.cz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visa.cz",
+    "source": {
+      "list": "VISA",
+      "line": 66
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visa.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visa.de",
+    "source": {
+      "list": "VISA",
+      "line": 67
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visa.dk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visa.dk",
+    "source": {
+      "list": "VISA",
+      "line": 68
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visa.es",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visa.es",
+    "source": {
+      "list": "VISA",
+      "line": 69
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visa.fi",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visa.fi",
+    "source": {
+      "list": "VISA",
+      "line": 70
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visa.fr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visa.fr",
+    "source": {
+      "list": "VISA",
+      "line": 71
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visa.gd",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visa.gd",
+    "source": {
+      "list": "VISA",
+      "line": 72
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visa.gp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visa.gp",
+    "source": {
+      "list": "VISA",
+      "line": 73
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visa.gr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visa.gr",
+    "source": {
+      "list": "VISA",
+      "line": 74
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visa.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visa.hk",
+    "source": {
+      "list": "VISA",
+      "line": 75
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visa.hu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visa.hu",
+    "source": {
+      "list": "VISA",
+      "line": 76
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visa.ie",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visa.ie",
+    "source": {
+      "list": "VISA",
+      "line": 77
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visa.is",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visa.is",
+    "source": {
+      "list": "VISA",
+      "line": 78
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visa.ky",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visa.ky",
+    "source": {
+      "list": "VISA",
+      "line": 79
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visa.lt",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visa.lt",
+    "source": {
+      "list": "VISA",
+      "line": 80
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visa.lv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visa.lv",
+    "source": {
+      "list": "VISA",
+      "line": 81
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visa.mn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visa.mn",
+    "source": {
+      "list": "VISA",
+      "line": 82
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visa.mq",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visa.mq",
+    "source": {
+      "list": "VISA",
+      "line": 83
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visa.nl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visa.nl",
+    "source": {
+      "list": "VISA",
+      "line": 84
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visa.no",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visa.no",
+    "source": {
+      "list": "VISA",
+      "line": 85
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visa.pl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visa.pl",
+    "source": {
+      "list": "VISA",
+      "line": 86
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visa.pt",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visa.pt",
+    "source": {
+      "list": "VISA",
+      "line": 87
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visa.ro",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visa.ro",
+    "source": {
+      "list": "VISA",
+      "line": 88
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visa.se",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visa.se",
+    "source": {
+      "list": "VISA",
+      "line": 89
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visa.sk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visa.sk",
+    "source": {
+      "list": "VISA",
+      "line": 90
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visa.so",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visa.so",
+    "source": {
+      "list": "VISA",
+      "line": 91
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visa.sx",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visa.sx",
+    "source": {
+      "list": "VISA",
+      "line": 92
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visa.tc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visa.tc",
+    "source": {
+      "list": "VISA",
+      "line": 93
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visabank.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visabank.org",
+    "source": {
+      "list": "VISA",
+      "line": 139
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visabg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visabg.com",
+    "source": {
+      "list": "VISA",
+      "line": 94
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visabusinessinsights.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visabusinessinsights.com",
+    "source": {
+      "list": "VISA",
+      "line": 140
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visaca.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visaca.com",
+    "source": {
+      "list": "VISA",
+      "line": 141
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visacarddesignlab.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visacarddesignlab.com",
+    "source": {
+      "list": "VISA",
+      "line": 142
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visacards.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visacards.com",
+    "source": {
+      "list": "VISA",
+      "line": 143
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visacheckout.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visacheckout.net",
+    "source": {
+      "list": "VISA",
+      "line": 144
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visacheckout.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visacheckout.org",
+    "source": {
+      "list": "VISA",
+      "line": 145
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visaconciergelac.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visaconciergelac.com",
+    "source": {
+      "list": "VISA",
+      "line": 146
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visadigital.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visadigital.com",
+    "source": {
+      "list": "VISA",
+      "line": 147
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visadigitalconcierge.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visadigitalconcierge.com",
+    "source": {
+      "list": "VISA",
+      "line": 148
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visadns.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visadns.com",
+    "source": {
+      "list": "VISA",
+      "line": 149
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visadpsonline.us",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visadpsonline.us",
+    "source": {
+      "list": "VISA",
+      "line": 150
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visaeurope.at",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visaeurope.at",
+    "source": {
+      "list": "VISA",
+      "line": 95
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visaeurope.ch",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visaeurope.ch",
+    "source": {
+      "list": "VISA",
+      "line": 96
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visaeurope.lu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visaeurope.lu",
+    "source": {
+      "list": "VISA",
+      "line": 97
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visaeurope.si",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visaeurope.si",
+    "source": {
+      "list": "VISA",
+      "line": 98
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visaeverywhereshop.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visaeverywhereshop.com",
+    "source": {
+      "list": "VISA",
+      "line": 151
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visafintechfasttrack.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visafintechfasttrack.com",
+    "source": {
+      "list": "VISA",
+      "line": 152
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visafulfillment.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visafulfillment.com",
+    "source": {
+      "list": "VISA",
+      "line": 153
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visagiftcard.us",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visagiftcard.us",
+    "source": {
+      "list": "VISA",
+      "line": 154
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visaglobalfinance.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visaglobalfinance.com",
+    "source": {
+      "list": "VISA",
+      "line": 155
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visaicsdirect.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visaicsdirect.com",
+    "source": {
+      "list": "VISA",
+      "line": 156
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visainfinite.ca",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visainfinite.ca",
+    "source": {
+      "list": "VISA",
+      "line": 109
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visainfinite.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:visainfinite.cn:@cn",
+    "source": {
+      "list": "VISA",
+      "line": 157
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visainfiniteluxuryhotels.ca",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visainfiniteluxuryhotels.ca",
+    "source": {
+      "list": "VISA",
+      "line": 110
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visaitalia.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visaitalia.com",
+    "source": {
+      "list": "VISA",
+      "line": 99
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visakorea.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visakorea.com",
+    "source": {
+      "list": "VISA",
+      "line": 100
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visaluxuryhotelcollection.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visaluxuryhotelcollection.com",
+    "source": {
+      "list": "VISA",
+      "line": 111
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visaluxuryhotelcollection.com.br",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visaluxuryhotelcollection.com.br",
+    "source": {
+      "list": "VISA",
+      "line": 112
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visaluxuryhotelcollection.com.mx",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visaluxuryhotelcollection.com.mx",
+    "source": {
+      "list": "VISA",
+      "line": 113
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visaluxuryhotels.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visaluxuryhotels.com",
+    "source": {
+      "list": "VISA",
+      "line": 114
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visaluxuryhotels.com.ar",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visaluxuryhotels.com.ar",
+    "source": {
+      "list": "VISA",
+      "line": 115
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visamiddleeast.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visamiddleeast.com",
+    "source": {
+      "list": "VISA",
+      "line": 101
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visanet.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visanet.net",
+    "source": {
+      "list": "VISA",
+      "line": 158
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visapay.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:visapay.cn:@cn",
+    "source": {
+      "list": "VISA",
+      "line": 159
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visapcsdirect.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visapcsdirect.com",
+    "source": {
+      "list": "VISA",
+      "line": 160
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visaplatinum.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:visaplatinum.cn:@cn",
+    "source": {
+      "list": "VISA",
+      "line": 161
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visaplatinum.com.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:visaplatinum.com.cn:@cn",
+    "source": {
+      "list": "VISA",
+      "line": 162
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visaplus.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visaplus.com",
+    "source": {
+      "list": "VISA",
+      "line": 163
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visasavingsedge.ca",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visasavingsedge.ca",
+    "source": {
+      "list": "VISA",
+      "line": 164
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visasignature.co.kr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visasignature.co.kr",
+    "source": {
+      "list": "VISA",
+      "line": 165
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visasignaturehotels.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visasignaturehotels.com",
+    "source": {
+      "list": "VISA",
+      "line": 116
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visasoutheasteurope.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visasoutheasteurope.com",
+    "source": {
+      "list": "VISA",
+      "line": 102
+    }
+  },
+  {
+    "type": "domain",
+    "value": "visb.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:visb.org",
+    "source": {
+      "list": "VISA",
+      "line": 166
+    }
+  }
+]

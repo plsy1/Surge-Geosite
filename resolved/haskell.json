@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "haskell.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:haskell.org",
+    "source": {
+      "list": "HASKELL",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "haskellstack.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:haskellstack.org",
+    "source": {
+      "list": "HASKELL",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "stackage.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:stackage.org",
+    "source": {
+      "list": "HASKELL",
+      "line": 3
+    }
+  }
+]

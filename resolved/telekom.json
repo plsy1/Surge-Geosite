@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "telekom.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:telekom.com",
+    "source": {
+      "list": "TELEKOM",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "telekom.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:telekom.de",
+    "source": {
+      "list": "TELEKOM",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "telesec.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:telesec.de",
+    "source": {
+      "list": "TELEKOM",
+      "line": 3
+    }
+  }
+]

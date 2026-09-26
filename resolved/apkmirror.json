@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "apkmirror.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:apkmirror.com",
+    "source": {
+      "list": "APKMIRROR",
+      "line": 1
+    }
+  },
+  {
+    "type": "full",
+    "value": "apkmirror.disqus.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:apkmirror.disqus.com",
+    "source": {
+      "list": "APKMIRROR",
+      "line": 3
+    }
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "type": "domain",
+    "value": "54647.global",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:54647.global",
+    "source": {
+      "list": "54647",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "54647.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:54647.io",
+    "source": {
+      "list": "54647",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "54647.online",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:54647.online",
+    "source": {
+      "list": "54647",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "54647.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:54647.org",
+    "source": {
+      "list": "54647",
+      "line": 4
+    }
+  }
+]

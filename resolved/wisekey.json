@@ -1,0 +1,46 @@
+[
+  {
+    "type": "domain",
+    "value": "wisecoin.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wisecoin.com",
+    "source": {
+      "list": "WISEKEY",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wiseid.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wiseid.com",
+    "source": {
+      "list": "WISEKEY",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wisekey.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wisekey.com",
+    "source": {
+      "list": "WISEKEY",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wisekey.com.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wisekey.com.hk",
+    "source": {
+      "list": "WISEKEY",
+      "line": 4
+    }
+  }
+]

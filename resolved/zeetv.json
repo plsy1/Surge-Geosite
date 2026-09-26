@@ -1,0 +1,101 @@
+[
+  {
+    "type": "domain",
+    "value": "z5.app",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:z5.app",
+    "source": {
+      "list": "ZEETV",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "z5.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:z5.com",
+    "source": {
+      "list": "ZEETV",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zee5.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zee5.com",
+    "source": {
+      "list": "ZEETV",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zee5.in",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zee5.in",
+    "source": {
+      "list": "ZEETV",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zee5.tv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zee5.tv",
+    "source": {
+      "list": "ZEETV",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zeebioskop.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zeebioskop.com",
+    "source": {
+      "list": "ZEETV",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zeetv.co.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zeetv.co.uk",
+    "source": {
+      "list": "ZEETV",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zeetv.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zeetv.com",
+    "source": {
+      "list": "ZEETV",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zeeuk.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zeeuk.com",
+    "source": {
+      "list": "ZEETV",
+      "line": 9
+    }
+  }
+]

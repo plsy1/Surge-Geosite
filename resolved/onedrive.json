@@ -1,0 +1,123 @@
+[
+  {
+    "type": "domain",
+    "value": "1drv.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:1drv.com",
+    "source": {
+      "list": "ONEDRIVE",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "1drv.ms",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:1drv.ms",
+    "source": {
+      "list": "ONEDRIVE",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "livefilestore.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:livefilestore.com",
+    "source": {
+      "list": "ONEDRIVE",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "onedrive.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:onedrive.co",
+    "source": {
+      "list": "ONEDRIVE",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "onedrive.co.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:onedrive.co.uk",
+    "source": {
+      "list": "ONEDRIVE",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "onedrive.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:onedrive.com",
+    "source": {
+      "list": "ONEDRIVE",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "onedrive.eu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:onedrive.eu",
+    "source": {
+      "list": "ONEDRIVE",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "onedrive.live.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:onedrive.live.com",
+    "source": {
+      "list": "ONEDRIVE",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "onedrive.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:onedrive.net",
+    "source": {
+      "list": "ONEDRIVE",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "onedrive.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:onedrive.org",
+    "source": {
+      "list": "ONEDRIVE",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "storage.live.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:storage.live.com",
+    "source": {
+      "list": "ONEDRIVE",
+      "line": 12
+    }
+  }
+]

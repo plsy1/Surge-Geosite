@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "wynd.network",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wynd.network",
+    "source": {
+      "list": "WYND",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wyndlabs.ai",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wyndlabs.ai",
+    "source": {
+      "list": "WYND",
+      "line": 1
+    }
+  }
+]

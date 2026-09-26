@@ -1,0 +1,134 @@
+[
+  {
+    "type": "domain",
+    "value": "cortexrpg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cortexrpg.com",
+    "source": {
+      "list": "FANDOM",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cursecdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cursecdn.com",
+    "source": {
+      "list": "FANDOM",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dndbeyond.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dndbeyond.com",
+    "source": {
+      "list": "FANDOM",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fanatical.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fanatical.com",
+    "source": {
+      "list": "FANDOM",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fandom.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fandom.com",
+    "source": {
+      "list": "FANDOM",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "futhead.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:futhead.com",
+    "source": {
+      "list": "FANDOM",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gamepedia.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gamepedia.com",
+    "source": {
+      "list": "FANDOM",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "muthead.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:muthead.com",
+    "source": {
+      "list": "FANDOM",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wikia.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wikia.com",
+    "source": {
+      "list": "FANDOM",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wikia.nocookie.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wikia.nocookie.net",
+    "source": {
+      "list": "FANDOM",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wikia.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wikia.org",
+    "source": {
+      "list": "FANDOM",
+      "line": 4
+    }
+  },
+  {
+    "type": "full",
+    "value": "fandom.zendesk.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:fandom.zendesk.com",
+    "source": {
+      "list": "FANDOM",
+      "line": 25
+    }
+  }
+]

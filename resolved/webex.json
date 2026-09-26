@@ -1,0 +1,180 @@
+[
+  {
+    "type": "domain",
+    "value": "webex.ca",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:webex.ca",
+    "source": {
+      "list": "WEBEX",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "webex.co.in",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:webex.co.in",
+    "source": {
+      "list": "WEBEX",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "webex.co.it",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:webex.co.it",
+    "source": {
+      "list": "WEBEX",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "webex.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:webex.co.jp",
+    "source": {
+      "list": "WEBEX",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "webex.co.kr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:webex.co.kr",
+    "source": {
+      "list": "WEBEX",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "webex.co.nz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:webex.co.nz",
+    "source": {
+      "list": "WEBEX",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "webex.co.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:webex.co.uk",
+    "source": {
+      "list": "WEBEX",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "webex.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:webex.com",
+    "source": {
+      "list": "WEBEX",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "webex.com.au",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:webex.com.au",
+    "source": {
+      "list": "WEBEX",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "webex.com.br",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:webex.com.br",
+    "source": {
+      "list": "WEBEX",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "webex.com.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:webex.com.cn:@cn",
+    "source": {
+      "list": "WEBEX",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "webex.com.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:webex.com.hk",
+    "source": {
+      "list": "WEBEX",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "webex.com.mx",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:webex.com.mx",
+    "source": {
+      "list": "WEBEX",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "webex.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:webex.de",
+    "source": {
+      "list": "WEBEX",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "webex.es",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:webex.es",
+    "source": {
+      "list": "WEBEX",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "webex.fr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:webex.fr",
+    "source": {
+      "list": "WEBEX",
+      "line": 16
+    }
+  }
+]

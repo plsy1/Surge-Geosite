@@ -1,0 +1,147 @@
+[
+  {
+    "type": "domain",
+    "value": "amp.dev",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:amp.dev",
+    "source": {
+      "list": "AMP",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ampproject.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ampproject.com",
+    "source": {
+      "list": "AMP",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ampproject.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ampproject.net",
+    "source": {
+      "list": "AMP",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ampproject.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ampproject.org",
+    "source": {
+      "list": "AMP",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "electronjs.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:electronjs.org",
+    "source": {
+      "list": "ELECTRON",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jquery.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jquery.com",
+    "source": {
+      "list": "JQUERY",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jquerymobile.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jquerymobile.com",
+    "source": {
+      "list": "JQUERY",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jqueryui.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jqueryui.com",
+    "source": {
+      "list": "JQUERY",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mochajs.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mochajs.org",
+    "source": {
+      "list": "MOCHA",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nodejs.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nodejs.org",
+    "source": {
+      "list": "NODEJS",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "openjsf.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:openjsf.org",
+    "source": {
+      "list": "OPENJSFOUNDATION",
+      "line": 7
+    }
+  },
+  {
+    "type": "full",
+    "value": "amp.akamaized.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:amp.akamaized.net",
+    "source": {
+      "list": "AMP",
+      "line": 8
+    }
+  },
+  {
+    "type": "full",
+    "value": "cdn.ampproject.org",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:cdn.ampproject.org:@cn",
+    "source": {
+      "list": "AMP",
+      "line": 6
+    }
+  }
+]
