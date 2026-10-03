@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "kubakuba.global",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kubakuba.global",
+    "source": {
+      "list": "KUBAKUBA",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kubakuba1996.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kubakuba1996.com",
+    "source": {
+      "list": "KUBAKUBA",
+      "line": 2
+    }
+  }
+]

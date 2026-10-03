@@ -1,0 +1,46 @@
+[
+  {
+    "type": "domain",
+    "value": "okko.sport",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:okko.sport",
+    "source": {
+      "list": "OKKO",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "okko.tv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:okko.tv",
+    "source": {
+      "list": "OKKO",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "okkoapi.tv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:okkoapi.tv",
+    "source": {
+      "list": "OKKO",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "playfamily.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:playfamily.ru",
+    "source": {
+      "list": "OKKO",
+      "line": 2
+    }
+  }
+]

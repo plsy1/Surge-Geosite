@@ -1,0 +1,46 @@
+[
+  {
+    "type": "domain",
+    "value": "boboporn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:boboporn.com",
+    "source": {
+      "list": "BOBOPORN",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "boboporn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:boboporn.net",
+    "source": {
+      "list": "BOBOPORN",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bobovip.cc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bobovip.cc",
+    "source": {
+      "list": "BOBOPORN",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sesez.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sesez.com",
+    "source": {
+      "list": "BOBOPORN",
+      "line": 4
+    }
+  }
+]

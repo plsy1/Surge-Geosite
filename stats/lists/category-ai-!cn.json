@@ -1,0 +1,70 @@
+{
+  "name": "CATEGORY-AI-!CN",
+  "source": {
+    "domain": 54,
+    "full": 0,
+    "keyword": 0,
+    "regexp": 0,
+    "include": 20,
+    "affiliations": 0,
+    "attributes": 0
+  },
+  "resolved": {
+    "rules": 189,
+    "domain": 158,
+    "full": 30,
+    "keyword": 0,
+    "regexp": 1
+  },
+  "filters": {
+    "attrs": {
+      "!cn": 7,
+      "ads": 5
+    }
+  },
+  "modes": {
+    "strict": {
+      "rules": 188,
+      "bytes": 5723,
+      "regex": {
+        "total": 1,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 1
+      },
+      "unsupported": [
+        {
+          "pattern": "^chatgpt-async-webps-prod-\\S+-\\d+\\.webpubsub\\.azure\\.com$",
+          "source": {
+            "list": "OPENAI",
+            "line": 20
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        }
+      ]
+    },
+    "balanced": {
+      "rules": 189,
+      "bytes": 5788,
+      "regex": {
+        "total": 1,
+        "lossless": 0,
+        "widened": 1,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "full": {
+      "rules": 189,
+      "bytes": 5788,
+      "regex": {
+        "total": 1,
+        "lossless": 0,
+        "widened": 1,
+        "unsupported": 0
+      },
+      "unsupported": []
+    }
+  }
+}

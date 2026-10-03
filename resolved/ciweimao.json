@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "ciweimao.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ciweimao.com",
+    "source": {
+      "list": "CIWEIMAO",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hbooker.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hbooker.com",
+    "source": {
+      "list": "CIWEIMAO",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kuangxiangit.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kuangxiangit.com",
+    "source": {
+      "list": "CIWEIMAO",
+      "line": 3
+    }
+  }
+]

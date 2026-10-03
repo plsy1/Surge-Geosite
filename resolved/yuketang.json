@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "rainclassroom.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rainclassroom.com",
+    "source": {
+      "list": "YUKETANG",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yuketang.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yuketang.cn",
+    "source": {
+      "list": "YUKETANG",
+      "line": 2
+    }
+  }
+]

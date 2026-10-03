@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "huya.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:huya.com",
+    "source": {
+      "list": "HUYA",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "msstatic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:msstatic.com",
+    "source": {
+      "list": "HUYA",
+      "line": 2
+    }
+  }
+]

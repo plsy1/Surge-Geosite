@@ -1,0 +1,673 @@
+[
+  {
+    "type": "domain",
+    "value": "bbgevent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bbgevent.com",
+    "source": {
+      "list": "BLOOMBERG",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bbhub.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bbhub.io",
+    "source": {
+      "list": "BLOOMBERG",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bbthat.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bbthat.com",
+    "source": {
+      "list": "BLOOMBERG",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bgov.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bgov.com",
+    "source": {
+      "list": "BLOOMBERG",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bloomberg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bloomberg",
+    "source": {
+      "list": "BLOOMBERG",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bloomberg.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bloomberg.cn",
+    "source": {
+      "list": "BLOOMBERG",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bloomberg.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bloomberg.co.jp",
+    "source": {
+      "list": "BLOOMBERG",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bloomberg.co.kr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bloomberg.co.kr",
+    "source": {
+      "list": "BLOOMBERG",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bloomberg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bloomberg.com",
+    "source": {
+      "list": "BLOOMBERG",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bloomberg.com.br",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bloomberg.com.br",
+    "source": {
+      "list": "BLOOMBERG",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bloomberg.fm",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bloomberg.fm",
+    "source": {
+      "list": "BLOOMBERG",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bloomberg.tv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bloomberg.tv",
+    "source": {
+      "list": "BLOOMBERG",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bloombergapps.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bloombergapps.com",
+    "source": {
+      "list": "BLOOMBERG",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bloombergarcade.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bloombergarcade.com",
+    "source": {
+      "list": "BLOOMBERG",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bloombergbeta.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bloombergbeta.com",
+    "source": {
+      "list": "BLOOMBERG",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bloombergbna.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bloombergbna.com",
+    "source": {
+      "list": "BLOOMBERG",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bloombergbreakaway.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bloombergbreakaway.com",
+    "source": {
+      "list": "BLOOMBERG",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bloombergbriefs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bloombergbriefs.com",
+    "source": {
+      "list": "BLOOMBERG",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bloombergchina.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bloombergchina.com",
+    "source": {
+      "list": "BLOOMBERG",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bloombergenvironment.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bloombergenvironment.com",
+    "source": {
+      "list": "BLOOMBERG",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bloombergforeducation.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bloombergforeducation.com",
+    "source": {
+      "list": "BLOOMBERG",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bloomberggovernment.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bloomberggovernment.com",
+    "source": {
+      "list": "BLOOMBERG",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bloombergindices.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bloombergindices.com",
+    "source": {
+      "list": "BLOOMBERG",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bloombergindustry.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bloombergindustry.com",
+    "source": {
+      "list": "BLOOMBERG",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bloomberglabs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bloomberglabs.com",
+    "source": {
+      "list": "BLOOMBERG",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bloomberglaw.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bloomberglaw.com",
+    "source": {
+      "list": "BLOOMBERG",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bloomberglive.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bloomberglive.com",
+    "source": {
+      "list": "BLOOMBERG",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bloomberglp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bloomberglp.com",
+    "source": {
+      "list": "BLOOMBERG",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bloombergmedia.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bloombergmedia.com",
+    "source": {
+      "list": "BLOOMBERG",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bloombergnext.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bloombergnext.com",
+    "source": {
+      "list": "BLOOMBERG",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bloombergpolarlake.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bloombergpolarlake.com",
+    "source": {
+      "list": "BLOOMBERG",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bloombergprep.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bloombergprep.com",
+    "source": {
+      "list": "BLOOMBERG",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bloombergquint.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bloombergquint.com",
+    "source": {
+      "list": "BLOOMBERG",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bloombergradio.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bloombergradio.com",
+    "source": {
+      "list": "BLOOMBERG",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bloombergsef.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bloombergsef.com",
+    "source": {
+      "list": "BLOOMBERG",
+      "line": 37
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bloombergspace.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bloombergspace.com",
+    "source": {
+      "list": "BLOOMBERG",
+      "line": 38
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bloombergstatus.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bloombergstatus.com",
+    "source": {
+      "list": "BLOOMBERG",
+      "line": 39
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bloombergsurvey.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bloombergsurvey.com",
+    "source": {
+      "list": "BLOOMBERG",
+      "line": 40
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bloombergtax.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bloombergtax.com",
+    "source": {
+      "list": "BLOOMBERG",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bloombergtax1.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bloombergtax1.com",
+    "source": {
+      "list": "BLOOMBERG",
+      "line": 42
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bloombergtaxtech.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bloombergtaxtech.com",
+    "source": {
+      "list": "BLOOMBERG",
+      "line": 43
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bloombergtradingchallenge.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bloombergtradingchallenge.com",
+    "source": {
+      "list": "BLOOMBERG",
+      "line": 44
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bloombergtv.mn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bloombergtv.mn",
+    "source": {
+      "list": "BLOOMBERG",
+      "line": 45
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bloombergvault.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bloombergvault.com",
+    "source": {
+      "list": "BLOOMBERG",
+      "line": 46
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bloombergview.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bloombergview.com",
+    "source": {
+      "list": "BLOOMBERG",
+      "line": 47
+    }
+  },
+  {
+    "type": "domain",
+    "value": "blpcareers.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:blpcareers.com",
+    "source": {
+      "list": "BLOOMBERG",
+      "line": 48
+    }
+  },
+  {
+    "type": "domain",
+    "value": "blpevents.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:blpevents.com",
+    "source": {
+      "list": "BLOOMBERG",
+      "line": 49
+    }
+  },
+  {
+    "type": "domain",
+    "value": "blpprofessional.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:blpprofessional.com",
+    "source": {
+      "list": "BLOOMBERG",
+      "line": 50
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bmia.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bmia.org",
+    "source": {
+      "list": "BLOOMBERG",
+      "line": 51
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bnef.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bnef.com",
+    "source": {
+      "list": "BLOOMBERG",
+      "line": 52
+    }
+  },
+  {
+    "type": "domain",
+    "value": "businessweek.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:businessweek.com",
+    "source": {
+      "list": "BLOOMBERG",
+      "line": 53
+    }
+  },
+  {
+    "type": "domain",
+    "value": "businessweekmag.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:businessweekmag.com",
+    "source": {
+      "list": "BLOOMBERG",
+      "line": 54
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bwbx.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bwbx.io",
+    "source": {
+      "list": "BLOOMBERG",
+      "line": 55
+    }
+  },
+  {
+    "type": "domain",
+    "value": "citylab.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:citylab.com",
+    "source": {
+      "list": "BLOOMBERG",
+      "line": 56
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gotraffic.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gotraffic.net",
+    "source": {
+      "list": "BLOOMBERG",
+      "line": 57
+    }
+  },
+  {
+    "type": "domain",
+    "value": "londonmithraeum.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:londonmithraeum.com",
+    "source": {
+      "list": "BLOOMBERG",
+      "line": 58
+    }
+  },
+  {
+    "type": "domain",
+    "value": "neweconomyforum.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:neweconomyforum.com",
+    "source": {
+      "list": "BLOOMBERG",
+      "line": 59
+    }
+  },
+  {
+    "type": "domain",
+    "value": "newenergyfinance.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:newenergyfinance.com",
+    "source": {
+      "list": "BLOOMBERG",
+      "line": 60
+    }
+  },
+  {
+    "type": "domain",
+    "value": "quicktake.video",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:quicktake.video",
+    "source": {
+      "list": "BLOOMBERG",
+      "line": 61
+    }
+  },
+  {
+    "type": "domain",
+    "value": "techatbloomberg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:techatbloomberg.com",
+    "source": {
+      "list": "BLOOMBERG",
+      "line": 62
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tictoc.video",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tictoc.video",
+    "source": {
+      "list": "BLOOMBERG",
+      "line": 63
+    }
+  }
+]

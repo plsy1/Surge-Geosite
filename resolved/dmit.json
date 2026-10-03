@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "dmit.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dmit.io",
+    "source": {
+      "list": "DMIT",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dmit.sh",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dmit.sh",
+    "source": {
+      "list": "DMIT",
+      "line": 2
+    }
+  }
+]

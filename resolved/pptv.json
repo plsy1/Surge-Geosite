@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "pplive.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pplive.cn",
+    "source": {
+      "list": "PPTV",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pplive.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pplive.com",
+    "source": {
+      "list": "PPTV",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pptv.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pptv.com",
+    "source": {
+      "list": "PPTV",
+      "line": 3
+    }
+  }
+]

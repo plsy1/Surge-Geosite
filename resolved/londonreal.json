@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "freedomplatform.tv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:freedomplatform.tv",
+    "source": {
+      "list": "LONDONREAL",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "londonreal.tv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:londonreal.tv",
+    "source": {
+      "list": "LONDONREAL",
+      "line": 2
+    }
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "type": "domain",
+    "value": "nudevista.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nudevista.com",
+    "source": {
+      "list": "NUDEVISTA",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nudevista.es",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nudevista.es",
+    "source": {
+      "list": "NUDEVISTA",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nudevista.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nudevista.net",
+    "source": {
+      "list": "NUDEVISTA",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nudevista.vip",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nudevista.vip",
+    "source": {
+      "list": "NUDEVISTA",
+      "line": 4
+    }
+  }
+]

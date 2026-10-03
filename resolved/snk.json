@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "snk-corp.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:snk-corp.co.jp",
+    "source": {
+      "list": "SNK",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "snk-corp.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:snk-corp.info",
+    "source": {
+      "list": "SNK",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "snkplaymore.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:snkplaymore.info",
+    "source": {
+      "list": "SNK",
+      "line": 3
+    }
+  }
+]

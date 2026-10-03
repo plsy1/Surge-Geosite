@@ -1,0 +1,2721 @@
+[
+  {
+    "type": "domain",
+    "value": "account-paypal.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:account-paypal.info",
+    "source": {
+      "list": "PAYPAL",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "account-paypal.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:account-paypal.net",
+    "source": {
+      "list": "PAYPAL",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "account-paypal.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:account-paypal.org",
+    "source": {
+      "list": "PAYPAL",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "accountpaypal.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:accountpaypal.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "accountpaypal.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:accountpaypal.net",
+    "source": {
+      "list": "PAYPAL",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "accountpaypal.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:accountpaypal.org",
+    "source": {
+      "list": "PAYPAL",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "anfutong.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:anfutong.cn:@cn",
+    "source": {
+      "list": "PAYPAL",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "anfutong.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:anfutong.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "anfutong.com.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:anfutong.com.cn:@cn",
+    "source": {
+      "list": "PAYPAL",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "beibao.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:beibao.cn:@cn",
+    "source": {
+      "list": "PAYPAL",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "beibao.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:beibao.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "beibao.com.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:beibao.com.cn:@cn",
+    "source": {
+      "list": "PAYPAL",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bill-safe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bill-safe.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "billmelater.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:billmelater.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "billmelater.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:billmelater.info",
+    "source": {
+      "list": "PAYPAL",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "billmelater.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:billmelater.net",
+    "source": {
+      "list": "PAYPAL",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bml.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bml.info",
+    "source": {
+      "list": "PAYPAL",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "braintreegateway.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:braintreegateway.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 208
+    }
+  },
+  {
+    "type": "domain",
+    "value": "braintreegateway.tv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:braintreegateway.tv",
+    "source": {
+      "list": "PAYPAL",
+      "line": 209
+    }
+  },
+  {
+    "type": "domain",
+    "value": "braintreepayments.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:braintreepayments.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 210
+    }
+  },
+  {
+    "type": "domain",
+    "value": "braintreepayments.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:braintreepayments.info",
+    "source": {
+      "list": "PAYPAL",
+      "line": 211
+    }
+  },
+  {
+    "type": "domain",
+    "value": "braintreepayments.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:braintreepayments.org",
+    "source": {
+      "list": "PAYPAL",
+      "line": 212
+    }
+  },
+  {
+    "type": "domain",
+    "value": "braintreepayments.tv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:braintreepayments.tv",
+    "source": {
+      "list": "PAYPAL",
+      "line": 213
+    }
+  },
+  {
+    "type": "domain",
+    "value": "braintreepaymentsolutions.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:braintreepaymentsolutions.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 214
+    }
+  },
+  {
+    "type": "domain",
+    "value": "braintreeps.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:braintreeps.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 215
+    }
+  },
+  {
+    "type": "domain",
+    "value": "briantreepayments.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:briantreepayments.net",
+    "source": {
+      "list": "PAYPAL",
+      "line": 216
+    }
+  },
+  {
+    "type": "domain",
+    "value": "briantreepayments.tv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:briantreepayments.tv",
+    "source": {
+      "list": "PAYPAL",
+      "line": 217
+    }
+  },
+  {
+    "type": "domain",
+    "value": "buyfast-paysmart.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:buyfast-paysmart.net",
+    "source": {
+      "list": "PAYPAL",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "card.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:card.io",
+    "source": {
+      "list": "PAYPAL",
+      "line": 218
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cash2.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cash2.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 247
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cashify.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cashify.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cashify.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cashify.net",
+    "source": {
+      "list": "PAYPAL",
+      "line": 232
+    }
+  },
+  {
+    "type": "domain",
+    "value": "devtools-paypal.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:devtools-paypal.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "experiencebillmelater.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:experiencebillmelater.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "filipino-music.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:filipino-music.net",
+    "source": {
+      "list": "PAYPAL",
+      "line": 248
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fundpaypal.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fundpaypal.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "getbraintree.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:getbraintree.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 219
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gmoney.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gmoney.org",
+    "source": {
+      "list": "PAYPAL",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "i-o-u.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:i-o-u.info",
+    "source": {
+      "list": "PAYPAL",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "krakenjs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:krakenjs.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 222
+    }
+  },
+  {
+    "type": "domain",
+    "value": "loanbuilder.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:loanbuilder.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 225
+    }
+  },
+  {
+    "type": "domain",
+    "value": "login-paypal.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:login-paypal.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "login-paypal.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:login-paypal.info",
+    "source": {
+      "list": "PAYPAL",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mywaytopay.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mywaytopay.info",
+    "source": {
+      "list": "PAYPAL",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mywaytopay.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mywaytopay.net",
+    "source": {
+      "list": "PAYPAL",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pa9pal.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pa9pal.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paaypal.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paaypal.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paily.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paily.net",
+    "source": {
+      "list": "PAYPAL",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paily.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paily.org",
+    "source": {
+      "list": "PAYPAL",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paipal.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paipal.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pavpal.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pavpal.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paydiant.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paydiant.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paylike.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paylike.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypa1.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypa1.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 37
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypa1.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypa1.org",
+    "source": {
+      "list": "PAYPAL",
+      "line": 38
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypaal.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypaal.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 39
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypal-activate.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypal-activate.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 40
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypal-activate.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypal-activate.info",
+    "source": {
+      "list": "PAYPAL",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypal-activate.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypal-activate.org",
+    "source": {
+      "list": "PAYPAL",
+      "line": 42
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypal-apac.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypal-apac.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 43
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypal-apps.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypal-apps.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 44
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypal-biz.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypal-biz.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 45
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypal-brandcentral.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypal-brandcentral.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 46
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypal-business.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypal-business.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 47
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypal-business.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypal-business.net",
+    "source": {
+      "list": "PAYPAL",
+      "line": 48
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypal-business.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypal-business.org",
+    "source": {
+      "list": "PAYPAL",
+      "line": 49
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypal-cardcash.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypal-cardcash.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 50
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypal-cash.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypal-cash.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 51
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypal-center.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypal-center.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 52
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypal-center.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypal-center.info",
+    "source": {
+      "list": "PAYPAL",
+      "line": 53
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypal-center.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypal-center.net",
+    "source": {
+      "list": "PAYPAL",
+      "line": 54
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypal-center.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypal-center.org",
+    "source": {
+      "list": "PAYPAL",
+      "line": 55
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypal-communication.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypal-communication.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 56
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypal-communications.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypal-communications.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 57
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypal-communications.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypal-communications.net",
+    "source": {
+      "list": "PAYPAL",
+      "line": 58
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypal-community.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypal-community.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 59
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypal-community.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypal-community.net",
+    "source": {
+      "list": "PAYPAL",
+      "line": 60
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypal-comunidad.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypal-comunidad.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 61
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypal-corp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypal-corp.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 62
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypal-database.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypal-database.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 63
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypal-database.us",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypal-database.us",
+    "source": {
+      "list": "PAYPAL",
+      "line": 64
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypal-donations.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypal-donations.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 65
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypal-dynamic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypal-dynamic.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 66
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypal-engineering.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypal-engineering.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 67
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypal-europe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypal-europe.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 68
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypal-excelinvoicing.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypal-excelinvoicing.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 69
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypal-exchanges.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypal-exchanges.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 70
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypal-forward.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypal-forward.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 71
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypal-galactic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypal-galactic.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 72
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypal-gift.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypal-gift.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 73
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypal-gifts.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypal-gifts.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 74
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypal-gpplus.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypal-gpplus.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 75
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypal-here.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypal-here.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 76
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypal-hrsystem.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypal-hrsystem.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 77
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypal-innovationlab.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypal-innovationlab.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 78
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypal-integration.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypal-integration.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 79
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypal-japan.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypal-japan.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 80
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypal-knowledge.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypal-knowledge.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 81
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypal-labs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypal-labs.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 82
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypal-latam.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypal-latam.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 83
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypal-learning.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypal-learning.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 84
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypal-login.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypal-login.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 85
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypal-login.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypal-login.info",
+    "source": {
+      "list": "PAYPAL",
+      "line": 86
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypal-login.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypal-login.org",
+    "source": {
+      "list": "PAYPAL",
+      "line": 87
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypal-login.us",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypal-login.us",
+    "source": {
+      "list": "PAYPAL",
+      "line": 88
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypal-luxury.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypal-luxury.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 89
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypal-mainstreet.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypal-mainstreet.net",
+    "source": {
+      "list": "PAYPAL",
+      "line": 90
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypal-marketing.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypal-marketing.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 91
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypal-media.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypal-media.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 92
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypal-merchantloyalty.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypal-merchantloyalty.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 93
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypal-mobilemoney.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypal-mobilemoney.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 94
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypal-network.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypal-network.org",
+    "source": {
+      "list": "PAYPAL",
+      "line": 95
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypal-notice.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypal-notice.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 96
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypal-notify.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypal-notify.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 97
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypal-online.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypal-online.info",
+    "source": {
+      "list": "PAYPAL",
+      "line": 98
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypal-online.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypal-online.net",
+    "source": {
+      "list": "PAYPAL",
+      "line": 99
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypal-online.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypal-online.org",
+    "source": {
+      "list": "PAYPAL",
+      "line": 100
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypal-optimizer.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypal-optimizer.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 101
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypal-pages.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypal-pages.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 102
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypal-photocard.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypal-photocard.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 103
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypal-plaza.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypal-plaza.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 104
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypal-portal.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypal-portal.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 105
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypal-prepagata.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypal-prepagata.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 106
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypal-prepagata.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypal-prepagata.net",
+    "source": {
+      "list": "PAYPAL",
+      "line": 107
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypal-prepaid.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypal-prepaid.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 108
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypal-profile.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypal-profile.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 109
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypal-proserv.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypal-proserv.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 110
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypal-qrshopping.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypal-qrshopping.org",
+    "source": {
+      "list": "PAYPAL",
+      "line": 111
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypal-recargacelular.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypal-recargacelular.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 112
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypal-redeem.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypal-redeem.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 113
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypal-referral.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypal-referral.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 114
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypal-retail.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypal-retail.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 115
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypal-scoop.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypal-scoop.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 116
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypal-search.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypal-search.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 117
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypal-secure.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypal-secure.net",
+    "source": {
+      "list": "PAYPAL",
+      "line": 118
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypal-secure.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypal-secure.org",
+    "source": {
+      "list": "PAYPAL",
+      "line": 119
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypal-security.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypal-security.net",
+    "source": {
+      "list": "PAYPAL",
+      "line": 120
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypal-security.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypal-security.org",
+    "source": {
+      "list": "PAYPAL",
+      "line": 121
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypal-service.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypal-service.org",
+    "source": {
+      "list": "PAYPAL",
+      "line": 122
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypal-signin.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypal-signin.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 123
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypal-signin.us",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypal-signin.us",
+    "source": {
+      "list": "PAYPAL",
+      "line": 124
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypal-special.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypal-special.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 125
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypal-specialoffers.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypal-specialoffers.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 126
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypal-sptam.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypal-sptam.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 127
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypal-status.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypal-status.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 131
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypal-support.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypal-support.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 128
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypal-survey.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypal-survey.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 129
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypal-survey.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypal-survey.org",
+    "source": {
+      "list": "PAYPAL",
+      "line": 130
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypal-team.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypal-team.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 132
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypal-viewpoints.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypal-viewpoints.net",
+    "source": {
+      "list": "PAYPAL",
+      "line": 133
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypal.ca",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypal.ca",
+    "source": {
+      "list": "PAYPAL",
+      "line": 134
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypal.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypal.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 135
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypal.com.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:paypal.com.cn:@cn",
+    "source": {
+      "list": "PAYPAL",
+      "line": 136
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypal.com.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypal.com.hk",
+    "source": {
+      "list": "PAYPAL",
+      "line": 137
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypal.com.sg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypal.com.sg",
+    "source": {
+      "list": "PAYPAL",
+      "line": 138
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypal.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypal.hk",
+    "source": {
+      "list": "PAYPAL",
+      "line": 139
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypal.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypal.info",
+    "source": {
+      "list": "PAYPAL",
+      "line": 140
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypal.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypal.jp",
+    "source": {
+      "list": "PAYPAL",
+      "line": 141
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypal.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypal.me",
+    "source": {
+      "list": "PAYPAL",
+      "line": 142
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypal.net.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:paypal.net.cn:@cn",
+    "source": {
+      "list": "PAYPAL",
+      "line": 143
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypal.org.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:paypal.org.cn:@cn",
+    "source": {
+      "list": "PAYPAL",
+      "line": 144
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypal.so",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypal.so",
+    "source": {
+      "list": "PAYPAL",
+      "line": 145
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypal.us",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypal.us",
+    "source": {
+      "list": "PAYPAL",
+      "line": 146
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypalbeacon.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypalbeacon.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 147
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypalbenefits.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypalbenefits.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 148
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypalbrasil.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypalbrasil.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 149
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypalcommunity.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:paypalcommunity.cn:@cn",
+    "source": {
+      "list": "PAYPAL",
+      "line": 150
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypalcommunity.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypalcommunity.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 151
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypalcommunity.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypalcommunity.net",
+    "source": {
+      "list": "PAYPAL",
+      "line": 152
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypalcommunity.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypalcommunity.org",
+    "source": {
+      "list": "PAYPAL",
+      "line": 153
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypalcorp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypalcorp.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 154
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypalcredit.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypalcredit.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 155
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypalcreditcard.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypalcreditcard.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 156
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypalgivingfund.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypalgivingfund.org",
+    "source": {
+      "list": "PAYPAL",
+      "line": 157
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypalhere.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:paypalhere.cn:@cn",
+    "source": {
+      "list": "PAYPAL",
+      "line": 158
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypalhere.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypalhere.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 159
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypalhere.com.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:paypalhere.com.cn:@cn",
+    "source": {
+      "list": "PAYPAL",
+      "line": 160
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypalhere.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypalhere.info",
+    "source": {
+      "list": "PAYPAL",
+      "line": 161
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypalhere.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypalhere.net",
+    "source": {
+      "list": "PAYPAL",
+      "line": 162
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypalhere.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypalhere.org",
+    "source": {
+      "list": "PAYPAL",
+      "line": 163
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypalhere.tv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypalhere.tv",
+    "source": {
+      "list": "PAYPAL",
+      "line": 164
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypali.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypali.net",
+    "source": {
+      "list": "PAYPAL",
+      "line": 165
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypalinc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypalinc.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 166
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypalindia.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypalindia.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 167
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypalinsuranceservices.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypalinsuranceservices.org",
+    "source": {
+      "list": "PAYPAL",
+      "line": 168
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypall.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypall.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 169
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypallabs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypallabs.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 170
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypalme.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypalme.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 171
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypalnet.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypalnet.net",
+    "source": {
+      "list": "PAYPAL",
+      "line": 172
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypalnet.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypalnet.org",
+    "source": {
+      "list": "PAYPAL",
+      "line": 173
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypalnetwork.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypalnetwork.info",
+    "source": {
+      "list": "PAYPAL",
+      "line": 174
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypalnetwork.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypalnetwork.net",
+    "source": {
+      "list": "PAYPAL",
+      "line": 175
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypalnetwork.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypalnetwork.org",
+    "source": {
+      "list": "PAYPAL",
+      "line": 176
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypalobjects.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypalobjects.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 177
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypalonline.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypalonline.net",
+    "source": {
+      "list": "PAYPAL",
+      "line": 178
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypalonline.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypalonline.org",
+    "source": {
+      "list": "PAYPAL",
+      "line": 179
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypalprepagata.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypalprepagata.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 180
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypalprepagata.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypalprepagata.net",
+    "source": {
+      "list": "PAYPAL",
+      "line": 181
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypalservice.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypalservice.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 182
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypalshopping.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypalshopping.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 183
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypalshopping.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypalshopping.net",
+    "source": {
+      "list": "PAYPAL",
+      "line": 184
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypalsurvey.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypalsurvey.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 185
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypalx.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypalx.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 186
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypaly.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypaly.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 187
+    }
+  },
+  {
+    "type": "domain",
+    "value": "payppal.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:payppal.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 188
+    }
+  },
+  {
+    "type": "domain",
+    "value": "payypal.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:payypal.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 189
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pdncommunity.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pdncommunity.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 190
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pp-soc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pp-soc.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 191
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ppaypal.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ppaypal.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 192
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pppds.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pppds.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 193
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pypl.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pypl.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 194
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pypl.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pypl.info",
+    "source": {
+      "list": "PAYPAL",
+      "line": 195
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pypl.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pypl.net",
+    "source": {
+      "list": "PAYPAL",
+      "line": 196
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pypl.tv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pypl.tv",
+    "source": {
+      "list": "PAYPAL",
+      "line": 197
+    }
+  },
+  {
+    "type": "domain",
+    "value": "s-xoom.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:s-xoom.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 249
+    }
+  },
+  {
+    "type": "domain",
+    "value": "secure-paypal.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:secure-paypal.info",
+    "source": {
+      "list": "PAYPAL",
+      "line": 198
+    }
+  },
+  {
+    "type": "domain",
+    "value": "securepaypal.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:securepaypal.info",
+    "source": {
+      "list": "PAYPAL",
+      "line": 199
+    }
+  },
+  {
+    "type": "domain",
+    "value": "simility.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:simility.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 229
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sslpaypal.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sslpaypal.org",
+    "source": {
+      "list": "PAYPAL",
+      "line": 200
+    }
+  },
+  {
+    "type": "domain",
+    "value": "swiftbank.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:swiftbank.info",
+    "source": {
+      "list": "PAYPAL",
+      "line": 233
+    }
+  },
+  {
+    "type": "domain",
+    "value": "swiftbank.us",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:swiftbank.us",
+    "source": {
+      "list": "PAYPAL",
+      "line": 234
+    }
+  },
+  {
+    "type": "domain",
+    "value": "swiftcapital.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:swiftcapital.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 226
+    }
+  },
+  {
+    "type": "domain",
+    "value": "swiftfinancial.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:swiftfinancial.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 235
+    }
+  },
+  {
+    "type": "domain",
+    "value": "swiftfinancial.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:swiftfinancial.info",
+    "source": {
+      "list": "PAYPAL",
+      "line": 236
+    }
+  },
+  {
+    "type": "domain",
+    "value": "swiftfinancial.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:swiftfinancial.net",
+    "source": {
+      "list": "PAYPAL",
+      "line": 237
+    }
+  },
+  {
+    "type": "domain",
+    "value": "thepaypalshop.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:thepaypalshop.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 201
+    }
+  },
+  {
+    "type": "domain",
+    "value": "theshoppingexpresslane.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:theshoppingexpresslane.net",
+    "source": {
+      "list": "PAYPAL",
+      "line": 202
+    }
+  },
+  {
+    "type": "domain",
+    "value": "venmo-touch.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:venmo-touch.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 240
+    }
+  },
+  {
+    "type": "domain",
+    "value": "venmo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:venmo.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 241
+    }
+  },
+  {
+    "type": "domain",
+    "value": "venmo.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:venmo.info",
+    "source": {
+      "list": "PAYPAL",
+      "line": 242
+    }
+  },
+  {
+    "type": "domain",
+    "value": "venmo.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:venmo.net",
+    "source": {
+      "list": "PAYPAL",
+      "line": 243
+    }
+  },
+  {
+    "type": "domain",
+    "value": "venmo.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:venmo.org",
+    "source": {
+      "list": "PAYPAL",
+      "line": 244
+    }
+  },
+  {
+    "type": "domain",
+    "value": "webmoneyinfo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:webmoneyinfo.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 250
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wiremoneytoirelandwithxoomeasierandcheaper.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wiremoneytoirelandwithxoomeasierandcheaper.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 251
+    }
+  },
+  {
+    "type": "domain",
+    "value": "www-paypal.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:www-paypal.info",
+    "source": {
+      "list": "PAYPAL",
+      "line": 203
+    }
+  },
+  {
+    "type": "domain",
+    "value": "www-paypal.us",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:www-paypal.us",
+    "source": {
+      "list": "PAYPAL",
+      "line": 204
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wwwxoom.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wwwxoom.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 252
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--bnq297cix3a.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:xn--bnq297cix3a.cn:@cn",
+    "source": {
+      "list": "PAYPAL",
+      "line": 205
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xoom-experience.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xoom-experience.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 253
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xoom.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xoom.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 254
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xoom.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xoom.io",
+    "source": {
+      "list": "PAYPAL",
+      "line": 255
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xoom.net.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:xoom.net.cn:@cn",
+    "source": {
+      "list": "PAYPAL",
+      "line": 256
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xoom.us",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xoom.us",
+    "source": {
+      "list": "PAYPAL",
+      "line": 257
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xoomcom.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xoomcom.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 258
+    }
+  },
+  {
+    "type": "full",
+    "value": "venmo.s3.amazonaws.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:venmo.s3.amazonaws.com",
+    "source": {
+      "list": "PAYPAL",
+      "line": 260
+    }
+  }
+]

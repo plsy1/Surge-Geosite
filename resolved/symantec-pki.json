@@ -1,0 +1,57 @@
+[
+  {
+    "type": "domain",
+    "value": "pki.symantec.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pki.symantec.com",
+    "source": {
+      "list": "SYMANTEC-PKI",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "symauth.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:symauth.com",
+    "source": {
+      "list": "SYMANTEC-PKI",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "symcb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:symcb.com",
+    "source": {
+      "list": "SYMANTEC-PKI",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "symcd.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:symcd.com",
+    "source": {
+      "list": "SYMANTEC-PKI",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ws.symantec.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ws.symantec.com",
+    "source": {
+      "list": "SYMANTEC-PKI",
+      "line": 6
+    }
+  }
+]

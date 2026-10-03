@@ -1,0 +1,57 @@
+[
+  {
+    "type": "domain",
+    "value": "china-tower.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:china-tower.com",
+    "source": {
+      "list": "CHINATOWER",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "chinatowercom.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:chinatowercom.cn",
+    "source": {
+      "list": "CHINATOWER",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tower.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tower.com.cn",
+    "source": {
+      "list": "CHINATOWER",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tower0788.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tower0788.cn",
+    "source": {
+      "list": "CHINATOWER",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tower0788.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tower0788.com",
+    "source": {
+      "list": "CHINATOWER",
+      "line": 5
+    }
+  }
+]

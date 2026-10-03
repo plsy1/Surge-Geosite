@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "costco-static.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:costco-static.com",
+    "source": {
+      "list": "COSTCO",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "costco.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:costco.com",
+    "source": {
+      "list": "COSTCO",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "costcobusinessdelivery.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:costcobusinessdelivery.com",
+    "source": {
+      "list": "COSTCO",
+      "line": 3
+    }
+  }
+]

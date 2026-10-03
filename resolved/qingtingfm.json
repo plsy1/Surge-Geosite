@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "qingting.fm",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qingting.fm",
+    "source": {
+      "list": "QINGTINGFM",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qtfm.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qtfm.cn",
+    "source": {
+      "list": "QINGTINGFM",
+      "line": 2
+    }
+  }
+]

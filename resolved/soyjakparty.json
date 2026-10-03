@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "soyjak.party",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:soyjak.party",
+    "source": {
+      "list": "SOYJAKPARTY",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "soyjak.st",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:soyjak.st",
+    "source": {
+      "list": "SOYJAKPARTY",
+      "line": 2
+    }
+  }
+]

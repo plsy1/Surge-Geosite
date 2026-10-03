@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "chegg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:chegg.com",
+    "source": {
+      "list": "CHEGG",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cheggcdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cheggcdn.com",
+    "source": {
+      "list": "CHEGG",
+      "line": 2
+    }
+  }
+]

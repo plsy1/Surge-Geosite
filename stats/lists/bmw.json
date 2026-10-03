@@ -1,0 +1,59 @@
+{
+  "name": "BMW",
+  "source": {
+    "domain": 515,
+    "full": 0,
+    "keyword": 0,
+    "regexp": 0,
+    "include": 1,
+    "affiliations": 0,
+    "attributes": 3
+  },
+  "resolved": {
+    "rules": 729,
+    "domain": 729,
+    "full": 0,
+    "keyword": 0,
+    "regexp": 0
+  },
+  "filters": {
+    "attrs": {
+      "cn": 3
+    }
+  },
+  "modes": {
+    "strict": {
+      "rules": 729,
+      "bytes": 21251,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "balanced": {
+      "rules": 729,
+      "bytes": 21251,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "full": {
+      "rules": 729,
+      "bytes": 21251,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    }
+  }
+}

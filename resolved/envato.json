@@ -1,0 +1,46 @@
+[
+  {
+    "type": "domain",
+    "value": "envato-static.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:envato-static.com",
+    "source": {
+      "list": "ENVATO",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "envato.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:envato.com",
+    "source": {
+      "list": "ENVATO",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "envatousercontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:envatousercontent.com",
+    "source": {
+      "list": "ENVATO",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "themeforest.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:themeforest.net",
+    "source": {
+      "list": "ENVATO",
+      "line": 4
+    }
+  }
+]

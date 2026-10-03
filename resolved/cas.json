@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "csdl.ac.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:csdl.ac.cn",
+    "source": {
+      "list": "CAS",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "iscas.ac.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:iscas.ac.cn",
+    "source": {
+      "list": "CAS",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "las.ac.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:las.ac.cn",
+    "source": {
+      "list": "CAS",
+      "line": 4
+    }
+  }
+]

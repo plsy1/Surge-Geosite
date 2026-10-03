@@ -1,0 +1,59 @@
+{
+  "name": "ITUNES",
+  "source": {
+    "domain": 53,
+    "full": 45,
+    "keyword": 0,
+    "regexp": 0,
+    "include": 0,
+    "affiliations": 0,
+    "attributes": 50
+  },
+  "resolved": {
+    "rules": 98,
+    "domain": 53,
+    "full": 45,
+    "keyword": 0,
+    "regexp": 0
+  },
+  "filters": {
+    "attrs": {
+      "cn": 50
+    }
+  },
+  "modes": {
+    "strict": {
+      "rules": 98,
+      "bytes": 3328,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "balanced": {
+      "rules": 98,
+      "bytes": 3328,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "full": {
+      "rules": 98,
+      "bytes": 3328,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    }
+  }
+}

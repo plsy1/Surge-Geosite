@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "ixquick.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ixquick.com",
+    "source": {
+      "list": "STARTPAGE",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "startpage.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:startpage.com",
+    "source": {
+      "list": "STARTPAGE",
+      "line": 1
+    }
+  }
+]

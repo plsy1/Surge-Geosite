@@ -1,0 +1,50 @@
+[
+  {
+    "type": "domain",
+    "value": "applepodcasts.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:applepodcasts.com",
+    "source": {
+      "list": "APPLE-PODCASTS",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "podcasts.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:podcasts.apple.com",
+    "source": {
+      "list": "APPLE-PODCASTS",
+      "line": 3
+    }
+  },
+  {
+    "type": "full",
+    "value": "amp-api.podcasts.apple.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:amp-api.podcasts.apple.com:@cn",
+    "source": {
+      "list": "APPLE-PODCASTS",
+      "line": 6
+    }
+  },
+  {
+    "type": "full",
+    "value": "podcasts.apple.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:podcasts.apple.com:@cn",
+    "source": {
+      "list": "APPLE-PODCASTS",
+      "line": 7
+    }
+  }
+]

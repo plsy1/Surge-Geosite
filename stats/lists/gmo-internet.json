@@ -1,0 +1,59 @@
+{
+  "name": "GMO-INTERNET",
+  "source": {
+    "domain": 136,
+    "full": 0,
+    "keyword": 0,
+    "regexp": 0,
+    "include": 1,
+    "affiliations": 0,
+    "attributes": 0
+  },
+  "resolved": {
+    "rules": 145,
+    "domain": 143,
+    "full": 2,
+    "keyword": 0,
+    "regexp": 0
+  },
+  "filters": {
+    "attrs": {
+      "cn": 7
+    }
+  },
+  "modes": {
+    "strict": {
+      "rules": 145,
+      "bytes": 3933,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "balanced": {
+      "rules": 145,
+      "bytes": 3933,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "full": {
+      "rules": 145,
+      "bytes": 3933,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    }
+  }
+}

@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "schoopia.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:schoopia.com",
+    "source": {
+      "list": "SCHOOPIA",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tongxuepie.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tongxuepie.com",
+    "source": {
+      "list": "SCHOOPIA",
+      "line": 4
+    }
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "type": "domain",
+    "value": "bootcdn.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bootcdn.cn",
+    "source": {
+      "list": "BOOTCDN",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bootcdn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bootcdn.net",
+    "source": {
+      "list": "BOOTCDN",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bootcss.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bootcss.com",
+    "source": {
+      "list": "BOOTCDN",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "phpcomposer.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:phpcomposer.com",
+    "source": {
+      "list": "BOOTCDN",
+      "line": 8
+    }
+  }
+]

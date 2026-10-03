@@ -1,0 +1,107 @@
+[
+  {
+    "type": "domain",
+    "value": "razer.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:razer.com",
+    "source": {
+      "list": "RAZER",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "razerapi.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:razerapi.com:@cn",
+    "source": {
+      "list": "RAZER",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "razerofficial.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:razerofficial.com",
+    "source": {
+      "list": "RAZER",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "razersupport.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:razersupport.com",
+    "source": {
+      "list": "RAZER",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "razersynapse.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:razersynapse.com:@cn",
+    "source": {
+      "list": "RAZER",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "razerzone.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:razerzone.com:@cn",
+    "source": {
+      "list": "RAZER",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "razerzone.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:razerzone.jp",
+    "source": {
+      "list": "RAZER",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "respawnbyrazer.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:respawnbyrazer.com",
+    "source": {
+      "list": "RAZER",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rzr.to",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rzr.to",
+    "source": {
+      "list": "RAZER",
+      "line": 9
+    }
+  }
+]

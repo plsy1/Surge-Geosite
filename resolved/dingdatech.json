@@ -1,0 +1,57 @@
+[
+  {
+    "type": "domain",
+    "value": "diiing.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:diiing.cn",
+    "source": {
+      "list": "DINGDATECH",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dingdachuxing.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dingdachuxing.com",
+    "source": {
+      "list": "DINGDATECH",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dingdatech.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dingdatech.com",
+    "source": {
+      "list": "DINGDATECH",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jintdev.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jintdev.com",
+    "source": {
+      "list": "DINGDATECH",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xiangbababus.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xiangbababus.com",
+    "source": {
+      "list": "DINGDATECH",
+      "line": 5
+    }
+  }
+]

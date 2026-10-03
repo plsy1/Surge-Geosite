@@ -1,0 +1,57 @@
+[
+  {
+    "type": "domain",
+    "value": "dynacw.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dynacw.co.jp",
+    "source": {
+      "list": "DYNA",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dynacw.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dynacw.com",
+    "source": {
+      "list": "DYNA",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dynacw.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dynacw.com.cn",
+    "source": {
+      "list": "DYNA",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dynacw.com.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dynacw.com.hk",
+    "source": {
+      "list": "DYNA",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dynacw.com.tw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dynacw.com.tw",
+    "source": {
+      "list": "DYNA",
+      "line": 5
+    }
+  }
+]

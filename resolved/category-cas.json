@@ -1,0 +1,2891 @@
+[
+  {
+    "type": "domain",
+    "value": "accv.es",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:accv.es",
+    "source": {
+      "list": "CATEGORY-CAS",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "actalis.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:actalis.com",
+    "source": {
+      "list": "ACTALIS",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "actalis.it",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:actalis.it",
+    "source": {
+      "list": "ACTALIS",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adobe-crl.verisign.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:adobe-crl.verisign.com",
+    "source": {
+      "list": "VERISIGN-PKI",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "affirmtrust.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:affirmtrust.com",
+    "source": {
+      "list": "ENTRUST",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "alphassl.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:alphassl.com:@cn",
+    "source": {
+      "list": "GLOBALSIGN",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amazontrust.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:amazontrust.com",
+    "source": {
+      "list": "AMAZONTRUST",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aoc.cat",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aoc.cat",
+    "source": {
+      "list": "SECTIGO",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "atos.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:atos.net",
+    "source": {
+      "list": "ENTRUST",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "awstrust.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:awstrust.com",
+    "source": {
+      "list": "AMAZONTRUST",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "buypass-ssl.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:buypass-ssl.com",
+    "source": {
+      "list": "BUYPASS",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "buypass.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:buypass.com",
+    "source": {
+      "list": "BUYPASS",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "buypass.no",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:buypass.no",
+    "source": {
+      "list": "BUYPASS",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "buypass.se",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:buypass.se",
+    "source": {
+      "list": "BUYPASS",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "camerfirma.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:camerfirma.com",
+    "source": {
+      "list": "CATEGORY-CAS",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "catcert.cat",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:catcert.cat",
+    "source": {
+      "list": "SECTIGO",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "certificat2.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:certificat2.com",
+    "source": {
+      "list": "ENTRUST",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "certinomis.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:certinomis.com",
+    "source": {
+      "list": "CERTINOMIS",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "certinomis.fr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:certinomis.fr",
+    "source": {
+      "list": "CERTINOMIS",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "certipath-aia.verisign.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:certipath-aia.verisign.com",
+    "source": {
+      "list": "VERISIGN-PKI",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "certipath-crl.verisign.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:certipath-crl.verisign.com",
+    "source": {
+      "list": "VERISIGN-PKI",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "certsign.ro",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:certsign.ro",
+    "source": {
+      "list": "CATEGORY-CAS",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "certum.pl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:certum.pl",
+    "source": {
+      "list": "CERTUM",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "comodoca.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:comodoca.com",
+    "source": {
+      "list": "SECTIGO",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "comodoca2.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:comodoca2.com",
+    "source": {
+      "list": "SECTIGO",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "comodoca3.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:comodoca3.com",
+    "source": {
+      "list": "SECTIGO",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "comodoca4.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:comodoca4.com",
+    "source": {
+      "list": "SECTIGO",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "crl.verisign.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:crl.verisign.com",
+    "source": {
+      "list": "VERISIGN-PKI",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "csc3-2004-aia.verisign.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:csc3-2004-aia.verisign.com",
+    "source": {
+      "list": "VERISIGN-PKI",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "csc3-2004-crl.verisign.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:csc3-2004-crl.verisign.com",
+    "source": {
+      "list": "VERISIGN-PKI",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "csc3-2009-2-aia.verisign.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:csc3-2009-2-aia.verisign.com",
+    "source": {
+      "list": "VERISIGN-PKI",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "csc3-2009-2-crl.verisign.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:csc3-2009-2-crl.verisign.com",
+    "source": {
+      "list": "VERISIGN-PKI",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "csc3-2009-aia.verisign.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:csc3-2009-aia.verisign.com",
+    "source": {
+      "list": "VERISIGN-PKI",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "csc3-2009-crl.verisign.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:csc3-2009-crl.verisign.com",
+    "source": {
+      "list": "VERISIGN-PKI",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "csc3-2010-aia.verisign.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:csc3-2010-aia.verisign.com",
+    "source": {
+      "list": "VERISIGN-PKI",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "csc3-2010-crl.verisign.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:csc3-2010-crl.verisign.com",
+    "source": {
+      "list": "VERISIGN-PKI",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cybertrust.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cybertrust.co.jp",
+    "source": {
+      "list": "CYBERTRUST",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cybertrust.ne.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cybertrust.ne.jp",
+    "source": {
+      "list": "CYBERTRUST",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "d-trust.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:d-trust.net",
+    "source": {
+      "list": "CATEGORY-CAS",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dcocsp.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:dcocsp.cn:@cn",
+    "source": {
+      "list": "DIGICERT",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "digicert-cn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:digicert-cn.com",
+    "source": {
+      "list": "DIGICERT",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "digicert-validation.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:digicert-validation.com",
+    "source": {
+      "list": "DIGICERT",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "digicert.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:digicert.cn:@cn",
+    "source": {
+      "list": "DIGICERT",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "digicert.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:digicert.co.jp",
+    "source": {
+      "list": "DIGICERT",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "digicert.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:digicert.com",
+    "source": {
+      "list": "DIGICERT",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "digicert.eu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:digicert.eu",
+    "source": {
+      "list": "DIGICERT",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "digital-id.ch",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:digital-id.ch",
+    "source": {
+      "list": "SWISSSIGN",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "digitalcertvalidation.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:digitalcertvalidation.com",
+    "source": {
+      "list": "DIGICERT",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "digitalid.ch",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:digitalid.ch",
+    "source": {
+      "list": "SWISSSIGN",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "e-szigno.hu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:e-szigno.hu",
+    "source": {
+      "list": "CATEGORY-CAS",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "e-tugra.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:e-tugra.com",
+    "source": {
+      "list": "CATEGORY-CAS",
+      "line": 37
+    }
+  },
+  {
+    "type": "domain",
+    "value": "easy-signing.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:easy-signing.com:@cn",
+    "source": {
+      "list": "GLOBALSIGN",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "eca-client-crl.verisign.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:eca-client-crl.verisign.com",
+    "source": {
+      "list": "VERISIGN-PKI",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "eca-client-ocsp.verisign.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:eca-client-ocsp.verisign.com",
+    "source": {
+      "list": "VERISIGN-PKI",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "eca.hinet.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:eca.hinet.net",
+    "source": {
+      "list": "HINET-ECA",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ecert.gov.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ecert.gov.hk",
+    "source": {
+      "list": "HONGKONGPOST",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "enterprisessl.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:enterprisessl.com",
+    "source": {
+      "list": "SECTIGO",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "entrust.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:entrust.cn",
+    "source": {
+      "list": "ENTRUST",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "entrust.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:entrust.com",
+    "source": {
+      "list": "ENTRUST",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "entrust.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:entrust.net",
+    "source": {
+      "list": "ENTRUST",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "entrustdatacard.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:entrustdatacard.com",
+    "source": {
+      "list": "ENTRUST",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "evintl-aia.verisign.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:evintl-aia.verisign.com",
+    "source": {
+      "list": "VERISIGN-PKI",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "evintl-crl.verisign.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:evintl-crl.verisign.com",
+    "source": {
+      "list": "VERISIGN-PKI",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "evintl-ocsp.verisign.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:evintl-ocsp.verisign.com",
+    "source": {
+      "list": "VERISIGN-PKI",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "evintl-t1-crl.verisign.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:evintl-t1-crl.verisign.com",
+    "source": {
+      "list": "VERISIGN-PKI",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "evsecure-aia.verisign.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:evsecure-aia.verisign.com",
+    "source": {
+      "list": "VERISIGN-PKI",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "evsecure-crl.verisign.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:evsecure-crl.verisign.com",
+    "source": {
+      "list": "VERISIGN-PKI",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "evsecure-ocsp.verisign.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:evsecure-ocsp.verisign.com",
+    "source": {
+      "list": "VERISIGN-PKI",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "evsecure-t1-aia.verisign.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:evsecure-t1-aia.verisign.com",
+    "source": {
+      "list": "VERISIGN-PKI",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "evsecure-t1-crl.verisign.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:evsecure-t1-crl.verisign.com",
+    "source": {
+      "list": "VERISIGN-PKI",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "firmaprofesional.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:firmaprofesional.com",
+    "source": {
+      "list": "CATEGORY-CAS",
+      "line": 38
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fnmt.es",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fnmt.es",
+    "source": {
+      "list": "CATEGORY-CAS",
+      "line": 39
+    }
+  },
+  {
+    "type": "domain",
+    "value": "freessl.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:freessl.com",
+    "source": {
+      "list": "DIGICERT",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gandi.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gandi.net",
+    "source": {
+      "list": "GANDI",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "geotrust.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:geotrust.com",
+    "source": {
+      "list": "DIGICERT",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "globalsign-media.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:globalsign-media.com",
+    "source": {
+      "list": "GLOBALSIGN",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "globalsign.be",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:globalsign.be",
+    "source": {
+      "list": "GLOBALSIGN",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "globalsign.ch",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:globalsign.ch",
+    "source": {
+      "list": "GLOBALSIGN",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "globalsign.cloud",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:globalsign.cloud",
+    "source": {
+      "list": "GLOBALSIGN",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "globalsign.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:globalsign.cn:@cn",
+    "source": {
+      "list": "GLOBALSIGN",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "globalsign.co.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:globalsign.co.uk",
+    "source": {
+      "list": "GLOBALSIGN",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "globalsign.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:globalsign.com:@cn",
+    "source": {
+      "list": "GLOBALSIGN",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "globalsign.com.au",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:globalsign.com.au",
+    "source": {
+      "list": "GLOBALSIGN",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "globalsign.com.br",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:globalsign.com.br",
+    "source": {
+      "list": "GLOBALSIGN",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "globalsign.com.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:globalsign.com.hk",
+    "source": {
+      "list": "GLOBALSIGN",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "globalsign.com.sg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:globalsign.com.sg",
+    "source": {
+      "list": "GLOBALSIGN",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "globalsign.es",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:globalsign.es",
+    "source": {
+      "list": "GLOBALSIGN",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "globalsign.eu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:globalsign.eu",
+    "source": {
+      "list": "GLOBALSIGN",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "globalsign.fr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:globalsign.fr",
+    "source": {
+      "list": "GLOBALSIGN",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "globalsign.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:globalsign.net",
+    "source": {
+      "list": "GLOBALSIGN",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "globalsign.nl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:globalsign.nl",
+    "source": {
+      "list": "GLOBALSIGN",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "globalsigncdn.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:globalsigncdn.com:@cn",
+    "source": {
+      "list": "GLOBALSIGN",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "godaddy",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:godaddy",
+    "source": {
+      "list": "GODADDY",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "godaddy.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:godaddy.com",
+    "source": {
+      "list": "GODADDY",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "godaddy.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:godaddy.net",
+    "source": {
+      "list": "GODADDY",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gtlsca.nat.gov.tw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gtlsca.nat.gov.tw",
+    "source": {
+      "list": "HINET-ECA",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hackerguardian.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hackerguardian.com",
+    "source": {
+      "list": "SECTIGO",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "harica.gr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:harica.gr",
+    "source": {
+      "list": "CATEGORY-CAS",
+      "line": 40
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hongkongpost.gov.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hongkongpost.gov.hk",
+    "source": {
+      "list": "HONGKONGPOST",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "identrust.co.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:identrust.co.uk",
+    "source": {
+      "list": "IDENTRUST",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "identrust.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:identrust.com",
+    "source": {
+      "list": "IDENTRUST",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "identrust.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:identrust.net",
+    "source": {
+      "list": "IDENTRUST",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "incommon-rsa.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:incommon-rsa.org",
+    "source": {
+      "list": "SECTIGO",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "infocert.digital",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:infocert.digital",
+    "source": {
+      "list": "CATEGORY-CAS",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "infocert.it",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:infocert.it",
+    "source": {
+      "list": "CATEGORY-CAS",
+      "line": 42
+    }
+  },
+  {
+    "type": "domain",
+    "value": "instantssl.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:instantssl.com",
+    "source": {
+      "list": "SECTIGO",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lencr.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lencr.org",
+    "source": {
+      "list": "LETSENCRYPT",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "letsencrypt.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:letsencrypt.com",
+    "source": {
+      "list": "LETSENCRYPT",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "letsencrypt.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:letsencrypt.org",
+    "source": {
+      "list": "LETSENCRYPT",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "managed-pki.ch",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:managed-pki.ch",
+    "source": {
+      "list": "SWISSSIGN",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "managed-pki.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:managed-pki.de",
+    "source": {
+      "list": "SWISSSIGN",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "managedpki.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:managedpki.com",
+    "source": {
+      "list": "CATEGORY-CAS",
+      "line": 43
+    }
+  },
+  {
+    "type": "domain",
+    "value": "managedpki.ne.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:managedpki.ne.jp",
+    "source": {
+      "list": "SECOM",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "minid.no",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:minid.no",
+    "source": {
+      "list": "BUYPASS",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "msocsp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:msocsp.com",
+    "source": {
+      "list": "MICROSOFT-PKI",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "myatos.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:myatos.net",
+    "source": {
+      "list": "ENTRUST",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "myvodafone.com.au",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:myvodafone.com.au",
+    "source": {
+      "list": "VODAFONE",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "myvodafone.com.ws",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:myvodafone.com.ws",
+    "source": {
+      "list": "VODAFONE",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "netlock.hu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:netlock.hu",
+    "source": {
+      "list": "CATEGORY-CAS",
+      "line": 44
+    }
+  },
+  {
+    "type": "domain",
+    "value": "netsolssl.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:netsolssl.com",
+    "source": {
+      "list": "SECTIGO",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ocsp-certum.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ocsp-certum.com",
+    "source": {
+      "list": "CERTUM",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ocsp-responder.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ocsp-responder.com",
+    "source": {
+      "list": "CERTUM",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ocsp.verisign.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ocsp.verisign.com",
+    "source": {
+      "list": "VERISIGN-PKI",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oemssl.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:oemssl.cn:@cn",
+    "source": {
+      "list": "SECTIGO",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oemssl.cn.cdn.cloudflare.net",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:oemssl.cn.cdn.cloudflare.net:@cn",
+    "source": {
+      "list": "SECTIGO",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "omniroot.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:omniroot.com",
+    "source": {
+      "list": "DIGICERT",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "onsitecrl.verisign.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:onsitecrl.verisign.com",
+    "source": {
+      "list": "VERISIGN-PKI",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "optimumssl.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:optimumssl.com",
+    "source": {
+      "list": "SECTIGO",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "orgc3-crl.verisign.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:orgc3-crl.verisign.com",
+    "source": {
+      "list": "VERISIGN-PKI",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pki-ocsp.verisign.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pki-ocsp.verisign.com",
+    "source": {
+      "list": "VERISIGN-PKI",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pki-post.ch",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pki-post.ch",
+    "source": {
+      "list": "SWISSSIGN",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pki-posta.ch",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pki-posta.ch",
+    "source": {
+      "list": "SWISSSIGN",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pki-poste.ch",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pki-poste.ch",
+    "source": {
+      "list": "SWISSSIGN",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pki.goog",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pki.goog",
+    "source": {
+      "list": "GOOGLE-TRUST-SERVICES",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pki.hinet.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pki.hinet.net",
+    "source": {
+      "list": "HINET-ECA",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pki.symantec.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pki.symantec.com",
+    "source": {
+      "list": "SYMANTEC-PKI",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "positivessl.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:positivessl.com",
+    "source": {
+      "list": "SECTIGO",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "public-trust.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:public-trust.com",
+    "source": {
+      "list": "DIGICERT",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "publicca.hinet.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:publicca.hinet.net",
+    "source": {
+      "list": "HINET-ECA",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "quovadisglobal.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:quovadisglobal.com",
+    "source": {
+      "list": "DIGICERT",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rapidssl.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rapidssl.com",
+    "source": {
+      "list": "DIGICERT",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "root-signing.ch",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:root-signing.ch",
+    "source": {
+      "list": "SWISSSIGN",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rootsigning.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rootsigning.com",
+    "source": {
+      "list": "SWISSSIGN",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "secom.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:secom.co.jp",
+    "source": {
+      "list": "SECOM",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "secomtrust.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:secomtrust.net",
+    "source": {
+      "list": "SECOM",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sectigo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sectigo.com",
+    "source": {
+      "list": "SECTIGO",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sectigochina.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:sectigochina.com:@cn",
+    "source": {
+      "list": "SECTIGO",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sectigochina.com.cdn.cloudflare.net",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:sectigochina.com.cdn.cloudflare.net:@cn",
+    "source": {
+      "list": "SECTIGO",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ss2.us",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ss2.us",
+    "source": {
+      "list": "AMAZONTRUST",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ssl-certificate.ch",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ssl-certificate.ch",
+    "source": {
+      "list": "SWISSSIGN",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ssl.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ssl.com",
+    "source": {
+      "list": "SSLCOM",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sslcom.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:sslcom.cn:@cn",
+    "source": {
+      "list": "SSLCOM",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ssp-aia.verisign.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ssp-aia.verisign.com",
+    "source": {
+      "list": "VERISIGN-PKI",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ssp-crl.verisign.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ssp-crl.verisign.com",
+    "source": {
+      "list": "VERISIGN-PKI",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ssp-ocsp.verisign.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ssp-ocsp.verisign.com",
+    "source": {
+      "list": "VERISIGN-PKI",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "starfieldtech.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:starfieldtech.com",
+    "source": {
+      "list": "STARFIELDTECH",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "svr-wimax-ocsp.verisign.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:svr-wimax-ocsp.verisign.com",
+    "source": {
+      "list": "VERISIGN-PKI",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "svrintl-aia.verisign.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:svrintl-aia.verisign.com",
+    "source": {
+      "list": "VERISIGN-PKI",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "svrintl-crl.verisign.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:svrintl-crl.verisign.com",
+    "source": {
+      "list": "VERISIGN-PKI",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "svrintl-g3-aia.verisign.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:svrintl-g3-aia.verisign.com",
+    "source": {
+      "list": "VERISIGN-PKI",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "svrintl-g3-crl.verisign.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:svrintl-g3-crl.verisign.com",
+    "source": {
+      "list": "VERISIGN-PKI",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "svrintl-t1-aia.verisign.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:svrintl-t1-aia.verisign.com",
+    "source": {
+      "list": "VERISIGN-PKI",
+      "line": 37
+    }
+  },
+  {
+    "type": "domain",
+    "value": "svrintl-t1-crl.verisign.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:svrintl-t1-crl.verisign.com",
+    "source": {
+      "list": "VERISIGN-PKI",
+      "line": 38
+    }
+  },
+  {
+    "type": "domain",
+    "value": "svrsecure-aia.verisign.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:svrsecure-aia.verisign.com",
+    "source": {
+      "list": "VERISIGN-PKI",
+      "line": 39
+    }
+  },
+  {
+    "type": "domain",
+    "value": "svrsecure-crl.verisign.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:svrsecure-crl.verisign.com",
+    "source": {
+      "list": "VERISIGN-PKI",
+      "line": 40
+    }
+  },
+  {
+    "type": "domain",
+    "value": "svrsecure-g2-aia.verisign.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:svrsecure-g2-aia.verisign.com",
+    "source": {
+      "list": "VERISIGN-PKI",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "svrsecure-g2-crl.verisign.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:svrsecure-g2-crl.verisign.com",
+    "source": {
+      "list": "VERISIGN-PKI",
+      "line": 42
+    }
+  },
+  {
+    "type": "domain",
+    "value": "svrsecure-g3-aia.verisign.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:svrsecure-g3-aia.verisign.com",
+    "source": {
+      "list": "VERISIGN-PKI",
+      "line": 43
+    }
+  },
+  {
+    "type": "domain",
+    "value": "svrsecure-g3-crl.verisign.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:svrsecure-g3-crl.verisign.com",
+    "source": {
+      "list": "VERISIGN-PKI",
+      "line": 44
+    }
+  },
+  {
+    "type": "domain",
+    "value": "svrsecure-oracle-aia.verisign.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:svrsecure-oracle-aia.verisign.com",
+    "source": {
+      "list": "VERISIGN-PKI",
+      "line": 45
+    }
+  },
+  {
+    "type": "domain",
+    "value": "svrsecure-oracle-crl.verisign.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:svrsecure-oracle-crl.verisign.com",
+    "source": {
+      "list": "VERISIGN-PKI",
+      "line": 46
+    }
+  },
+  {
+    "type": "domain",
+    "value": "svrsecure-oracle-ocsp.verisign.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:svrsecure-oracle-ocsp.verisign.com",
+    "source": {
+      "list": "VERISIGN-PKI",
+      "line": 47
+    }
+  },
+  {
+    "type": "domain",
+    "value": "svrsecure-t1-aia.verisign.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:svrsecure-t1-aia.verisign.com",
+    "source": {
+      "list": "VERISIGN-PKI",
+      "line": 48
+    }
+  },
+  {
+    "type": "domain",
+    "value": "svrsecure-t1-crl.verisign.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:svrsecure-t1-crl.verisign.com",
+    "source": {
+      "list": "VERISIGN-PKI",
+      "line": 49
+    }
+  },
+  {
+    "type": "domain",
+    "value": "svrtrial-g2-aia.verisign.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:svrtrial-g2-aia.verisign.com",
+    "source": {
+      "list": "VERISIGN-PKI",
+      "line": 50
+    }
+  },
+  {
+    "type": "domain",
+    "value": "svrtrial-g2-crl.verisign.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:svrtrial-g2-crl.verisign.com",
+    "source": {
+      "list": "VERISIGN-PKI",
+      "line": 51
+    }
+  },
+  {
+    "type": "domain",
+    "value": "swissid.ch",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:swissid.ch",
+    "source": {
+      "list": "SWISSSIGN",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "swissign.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:swissign.com",
+    "source": {
+      "list": "SWISSSIGN",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "swissign.li",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:swissign.li",
+    "source": {
+      "list": "SWISSSIGN",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "swisssign-group.ch",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:swisssign-group.ch",
+    "source": {
+      "list": "SWISSSIGN",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "swisssign-group.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:swisssign-group.com",
+    "source": {
+      "list": "SWISSSIGN",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "swisssign-group.li",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:swisssign-group.li",
+    "source": {
+      "list": "SWISSSIGN",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "swisssign.ch",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:swisssign.ch",
+    "source": {
+      "list": "SWISSSIGN",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "swisssign.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:swisssign.com",
+    "source": {
+      "list": "SWISSSIGN",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "swisssign.li",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:swisssign.li",
+    "source": {
+      "list": "SWISSSIGN",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "swisssign.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:swisssign.net",
+    "source": {
+      "list": "SWISSSIGN",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "swisssign.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:swisssign.org",
+    "source": {
+      "list": "SWISSSIGN",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "swisssigner.ch",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:swisssigner.ch",
+    "source": {
+      "list": "SWISSSIGN",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "swisssigner.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:swisssigner.com",
+    "source": {
+      "list": "SWISSSIGN",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "swisssigngroup.ch",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:swisssigngroup.ch",
+    "source": {
+      "list": "SWISSSIGN",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "swisssigngroup.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:swisssigngroup.com",
+    "source": {
+      "list": "SWISSSIGN",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "swissstick.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:swissstick.com",
+    "source": {
+      "list": "SWISSSIGN",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "swisstsa.ch",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:swisstsa.ch",
+    "source": {
+      "list": "SWISSSIGN",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "swisstsa.li",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:swisstsa.li",
+    "source": {
+      "list": "SWISSSIGN",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "symauth.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:symauth.com",
+    "source": {
+      "list": "SYMANTEC-PKI",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "symcb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:symcb.com",
+    "source": {
+      "list": "SYMANTEC-PKI",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "symcd.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:symcd.com",
+    "source": {
+      "list": "SYMANTEC-PKI",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "telekom.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:telekom.com",
+    "source": {
+      "list": "TELEKOM",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "telekom.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:telekom.de",
+    "source": {
+      "list": "TELEKOM",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "telesec.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:telesec.de",
+    "source": {
+      "list": "TELEKOM",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "thawte.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:thawte.com",
+    "source": {
+      "list": "DIGICERT",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "thawte.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:thawte.de",
+    "source": {
+      "list": "DIGICERT",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "thawte.fr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:thawte.fr",
+    "source": {
+      "list": "DIGICERT",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tls.hinet.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tls.hinet.net",
+    "source": {
+      "list": "HINET-ECA",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "trendmicro.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:trendmicro.com",
+    "source": {
+      "list": "ENTRUST",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "trust-provider.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:trust-provider.cn:@cn",
+    "source": {
+      "list": "SECTIGO",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "trust-provider.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:trust-provider.com",
+    "source": {
+      "list": "SECTIGO",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "trustcor.ca",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:trustcor.ca",
+    "source": {
+      "list": "CATEGORY-CAS",
+      "line": 45
+    }
+  },
+  {
+    "type": "domain",
+    "value": "trustcor.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:trustcor.com",
+    "source": {
+      "list": "CATEGORY-CAS",
+      "line": 46
+    }
+  },
+  {
+    "type": "domain",
+    "value": "trustdoc.ch",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:trustdoc.ch",
+    "source": {
+      "list": "SWISSSIGN",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "trustisfps.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:trustisfps.com",
+    "source": {
+      "list": "CATEGORY-CAS",
+      "line": 47
+    }
+  },
+  {
+    "type": "domain",
+    "value": "trustsign.ch",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:trustsign.ch",
+    "source": {
+      "list": "SWISSSIGN",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "trustwave.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:trustwave.com",
+    "source": {
+      "list": "TRUSTWAVE",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "twca.com.tw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:twca.com.tw",
+    "source": {
+      "list": "TWCA",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "usertrust.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:usertrust.com",
+    "source": {
+      "list": "SECTIGO",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vodafone.co.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vodafone.co.uk",
+    "source": {
+      "list": "VODAFONE",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vodafone.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vodafone.com",
+    "source": {
+      "list": "VODAFONE",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vodafone.com.au",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vodafone.com.au",
+    "source": {
+      "list": "VODAFONE",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vodafone.com.tr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vodafone.com.tr",
+    "source": {
+      "list": "VODAFONE",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vodafone.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vodafone.de",
+    "source": {
+      "list": "VODAFONE",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vodafone.it",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vodafone.it",
+    "source": {
+      "list": "VODAFONE",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vodafone.nl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vodafone.nl",
+    "source": {
+      "list": "VODAFONE",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wisecoin.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wisecoin.com",
+    "source": {
+      "list": "WISEKEY",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wiseid.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wiseid.com",
+    "source": {
+      "list": "WISEKEY",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wisekey.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wisekey.com",
+    "source": {
+      "list": "WISEKEY",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wisekey.com.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wisekey.com.hk",
+    "source": {
+      "list": "WISEKEY",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ws.symantec.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ws.symantec.com",
+    "source": {
+      "list": "SYMANTEC-PKI",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wsimg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wsimg.com",
+    "source": {
+      "list": "GODADDY",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "x.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:x.co",
+    "source": {
+      "list": "GODADDY",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zert.ch",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zert.ch",
+    "source": {
+      "list": "SWISSSIGN",
+      "line": 31
+    }
+  },
+  {
+    "type": "full",
+    "value": "c.pki.goog",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:c.pki.goog:@cn",
+    "source": {
+      "list": "GOOGLE-TRUST-SERVICES",
+      "line": 5
+    }
+  },
+  {
+    "type": "full",
+    "value": "cdn.globalsigncdn.com.cdn.cloudflare.net",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:cdn.globalsigncdn.com.cdn.cloudflare.net:@cn",
+    "source": {
+      "list": "GLOBALSIGN",
+      "line": 21
+    }
+  },
+  {
+    "type": "full",
+    "value": "certs-lb.apple.com.akadns.net",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:certs-lb.apple.com.akadns.net:@cn",
+    "source": {
+      "list": "APPLE-PKI",
+      "line": 1
+    }
+  },
+  {
+    "type": "full",
+    "value": "certs.apple.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:certs.apple.com:@cn",
+    "source": {
+      "list": "APPLE-PKI",
+      "line": 2
+    }
+  },
+  {
+    "type": "full",
+    "value": "clients1.google.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:clients1.google.com",
+    "source": {
+      "list": "GOOGLE-TRUST-SERVICES",
+      "line": 14
+    }
+  },
+  {
+    "type": "full",
+    "value": "crl-lb.apple.com.akadns.net",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:crl-lb.apple.com.akadns.net:@cn",
+    "source": {
+      "list": "APPLE-PKI",
+      "line": 3
+    }
+  },
+  {
+    "type": "full",
+    "value": "crl.apple.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:crl.apple.com:@cn",
+    "source": {
+      "list": "APPLE-PKI",
+      "line": 4
+    }
+  },
+  {
+    "type": "full",
+    "value": "crl.globalsign.net",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:crl.globalsign.net:@cn",
+    "source": {
+      "list": "GLOBALSIGN",
+      "line": 22
+    }
+  },
+  {
+    "type": "full",
+    "value": "crl.microsoft.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:crl.microsoft.com",
+    "source": {
+      "list": "MICROSOFT-PKI",
+      "line": 3
+    }
+  },
+  {
+    "type": "full",
+    "value": "crl.pki.goog",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:crl.pki.goog:@cn",
+    "source": {
+      "list": "GOOGLE-TRUST-SERVICES",
+      "line": 18
+    }
+  },
+  {
+    "type": "full",
+    "value": "crls.pki.goog",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:crls.pki.goog:@cn",
+    "source": {
+      "list": "GOOGLE-TRUST-SERVICES",
+      "line": 19
+    }
+  },
+  {
+    "type": "full",
+    "value": "i.pki.goog",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:i.pki.goog:@cn",
+    "source": {
+      "list": "GOOGLE-TRUST-SERVICES",
+      "line": 6
+    }
+  },
+  {
+    "type": "full",
+    "value": "mscrl.microsoft.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:mscrl.microsoft.com",
+    "source": {
+      "list": "MICROSOFT-PKI",
+      "line": 4
+    }
+  },
+  {
+    "type": "full",
+    "value": "o.pki.goog",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:o.pki.goog:@cn",
+    "source": {
+      "list": "GOOGLE-TRUST-SERVICES",
+      "line": 7
+    }
+  },
+  {
+    "type": "full",
+    "value": "ocsp.apple.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:ocsp.apple.com:@cn",
+    "source": {
+      "list": "APPLE-PKI",
+      "line": 5
+    }
+  },
+  {
+    "type": "full",
+    "value": "ocsp.microsoft.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:ocsp.microsoft.com",
+    "source": {
+      "list": "MICROSOFT-PKI",
+      "line": 5
+    }
+  },
+  {
+    "type": "full",
+    "value": "ocsp.pki.goog",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:ocsp.pki.goog:@cn",
+    "source": {
+      "list": "GOOGLE-TRUST-SERVICES",
+      "line": 20
+    }
+  },
+  {
+    "type": "full",
+    "value": "ocsp2.apple.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:ocsp2.apple.com:@cn",
+    "source": {
+      "list": "APPLE-PKI",
+      "line": 6
+    }
+  },
+  {
+    "type": "full",
+    "value": "oneocsp.microsoft.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:oneocsp.microsoft.com",
+    "source": {
+      "list": "MICROSOFT-PKI",
+      "line": 6
+    }
+  },
+  {
+    "type": "full",
+    "value": "pki-goog.l.google.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:pki-goog.l.google.com:@cn",
+    "source": {
+      "list": "GOOGLE-TRUST-SERVICES",
+      "line": 3
+    }
+  },
+  {
+    "type": "full",
+    "value": "pki.google.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:pki.google.com",
+    "source": {
+      "list": "GOOGLE-TRUST-SERVICES",
+      "line": 15
+    }
+  },
+  {
+    "type": "full",
+    "value": "preprod-publicca.googleapis.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:preprod-publicca.googleapis.com",
+    "source": {
+      "list": "GOOGLE-TRUST-SERVICES",
+      "line": 11
+    }
+  },
+  {
+    "type": "full",
+    "value": "publicca.googleapis.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:publicca.googleapis.com",
+    "source": {
+      "list": "GOOGLE-TRUST-SERVICES",
+      "line": 10
+    }
+  },
+  {
+    "type": "full",
+    "value": "valid.apple.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:valid.apple.com:@cn",
+    "source": {
+      "list": "APPLE-PKI",
+      "line": 7
+    }
+  },
+  {
+    "type": "full",
+    "value": "valid.origin-apple.com.akadns.net",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:valid.origin-apple.com.akadns.net:@cn",
+    "source": {
+      "list": "APPLE-PKI",
+      "line": 8
+    }
+  },
+  {
+    "type": "full",
+    "value": "www.entrust.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:www.entrust.cn:@cn",
+    "source": {
+      "list": "ENTRUST",
+      "line": 5
+    }
+  },
+  {
+    "type": "full",
+    "value": "www.microsoft.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:www.microsoft.com",
+    "source": {
+      "list": "MICROSOFT-PKI",
+      "line": 7
+    }
+  }
+]

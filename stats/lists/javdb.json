@@ -1,0 +1,67 @@
+{
+  "name": "JAVDB",
+  "source": {
+    "domain": 4,
+    "full": 0,
+    "keyword": 0,
+    "regexp": 1,
+    "include": 0,
+    "affiliations": 0,
+    "attributes": 0
+  },
+  "resolved": {
+    "rules": 5,
+    "domain": 4,
+    "full": 0,
+    "keyword": 0,
+    "regexp": 1
+  },
+  "filters": {
+    "attrs": {}
+  },
+  "modes": {
+    "strict": {
+      "rules": 4,
+      "bytes": 99,
+      "regex": {
+        "total": 1,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 1
+      },
+      "unsupported": [
+        {
+          "pattern": "javdb\\d+\\.com$",
+          "source": {
+            "list": "JAVDB",
+            "line": 6
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        }
+      ]
+    },
+    "balanced": {
+      "rules": 5,
+      "bytes": 126,
+      "regex": {
+        "total": 1,
+        "lossless": 0,
+        "widened": 1,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "full": {
+      "rules": 5,
+      "bytes": 126,
+      "regex": {
+        "total": 1,
+        "lossless": 0,
+        "widened": 1,
+        "unsupported": 0
+      },
+      "unsupported": []
+    }
+  }
+}

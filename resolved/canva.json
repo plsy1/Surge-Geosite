@@ -1,0 +1,68 @@
+[
+  {
+    "type": "domain",
+    "value": "affinity-beta.s3.amazonaws.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:affinity-beta.s3.amazonaws.com",
+    "source": {
+      "list": "CANVA",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "affinity-lessons.s3.amazonaws.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:affinity-lessons.s3.amazonaws.com",
+    "source": {
+      "list": "CANVA",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "affinity.api.serifservices.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:affinity.api.serifservices.com",
+    "source": {
+      "list": "CANVA",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "affinity.studio",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:affinity.studio",
+    "source": {
+      "list": "CANVA",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "canva.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:canva.com",
+    "source": {
+      "list": "CANVA",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "canvastatus.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:canvastatus.com",
+    "source": {
+      "list": "CANVA",
+      "line": 8
+    }
+  }
+]

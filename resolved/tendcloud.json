@@ -1,0 +1,59 @@
+[
+  {
+    "type": "domain",
+    "value": "cpatrk.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cpatrk.net",
+    "source": {
+      "list": "TENDCLOUD",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "talkingdata.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:talkingdata.com",
+    "source": {
+      "list": "TENDCLOUD",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "talkinggame.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:talkinggame.com",
+    "source": {
+      "list": "TENDCLOUD",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tdsdk.cpatrk.net",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:tdsdk.cpatrk.net:@ads",
+    "source": {
+      "list": "TENDCLOUD",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tendcloud.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tendcloud.com",
+    "source": {
+      "list": "TENDCLOUD",
+      "line": 1
+    }
+  }
+]

@@ -1,0 +1,156 @@
+[
+  {
+    "type": "domain",
+    "value": "1infra.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:1infra.net",
+    "source": {
+      "list": "AGILEBITS",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "1password.ca",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:1password.ca",
+    "source": {
+      "list": "AGILEBITS",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "1password.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:1password.co",
+    "source": {
+      "list": "AGILEBITS",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "1password.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:1password.com",
+    "source": {
+      "list": "AGILEBITS",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "1password.community",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:1password.community",
+    "source": {
+      "list": "AGILEBITS",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "1password.eu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:1password.eu",
+    "source": {
+      "list": "AGILEBITS",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "1password.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:1password.io",
+    "source": {
+      "list": "AGILEBITS",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "1passwordservices.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:1passwordservices.com",
+    "source": {
+      "list": "AGILEBITS",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "1passwordusercontent.ca",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:1passwordusercontent.ca",
+    "source": {
+      "list": "AGILEBITS",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "1passwordusercontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:1passwordusercontent.com",
+    "source": {
+      "list": "AGILEBITS",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "1passwordusercontent.eu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:1passwordusercontent.eu",
+    "source": {
+      "list": "AGILEBITS",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "agilebits.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:agilebits.com",
+    "source": {
+      "list": "AGILEBITS",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "passage.id",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:passage.id",
+    "source": {
+      "list": "AGILEBITS",
+      "line": 13
+    }
+  },
+  {
+    "type": "full",
+    "value": "1password.drift.click",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:1password.drift.click",
+    "source": {
+      "list": "AGILEBITS",
+      "line": 15
+    }
+  }
+]

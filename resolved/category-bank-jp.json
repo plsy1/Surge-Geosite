@@ -1,0 +1,926 @@
+[
+  {
+    "type": "domain",
+    "value": "114bank.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:114bank.co.jp",
+    "source": {
+      "list": "CATEGORY-BANK-JP",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "77bank.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:77bank.co.jp",
+    "source": {
+      "list": "CATEGORY-BANK-JP",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "82bank.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:82bank.co.jp",
+    "source": {
+      "list": "CATEGORY-BANK-JP",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "a-bank.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:a-bank.jp",
+    "source": {
+      "list": "CATEGORY-BANK-JP",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akita-bank.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akita-bank.co.jp",
+    "source": {
+      "list": "CATEGORY-BANK-JP",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aozorabank.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aozorabank.co.jp",
+    "source": {
+      "list": "CATEGORY-BANK-JP",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ashikagabank.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ashikagabank.co.jp",
+    "source": {
+      "list": "CATEGORY-BANK-JP",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "awabank.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:awabank.co.jp",
+    "source": {
+      "list": "CATEGORY-BANK-JP",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bk.mufg.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bk.mufg.jp",
+    "source": {
+      "list": "CATEGORY-BANK-JP",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "boj.or.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:boj.or.jp",
+    "source": {
+      "list": "CATEGORY-BANK-JP",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "chibabank.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:chibabank.co.jp",
+    "source": {
+      "list": "CATEGORY-BANK-JP",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "chibakogyo-bank.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:chibakogyo-bank.co.jp",
+    "source": {
+      "list": "CATEGORY-BANK-JP",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "chikubank.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:chikubank.co.jp",
+    "source": {
+      "list": "CATEGORY-BANK-JP",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "chugokubank.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:chugokubank.co.jp",
+    "source": {
+      "list": "CATEGORY-BANK-JP",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "citibank.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:citibank.co.jp",
+    "source": {
+      "list": "CATEGORY-BANK-JP",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "daiichibank.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:daiichibank.co.jp",
+    "source": {
+      "list": "CATEGORY-BANK-JP",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fukuibank.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fukuibank.co.jp",
+    "source": {
+      "list": "CATEGORY-BANK-JP",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fukuokabank.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fukuokabank.co.jp",
+    "source": {
+      "list": "CATEGORY-BANK-JP",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gunmabank.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gunmabank.co.jp",
+    "source": {
+      "list": "CATEGORY-BANK-JP",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "higobank.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:higobank.co.jp",
+    "source": {
+      "list": "CATEGORY-BANK-JP",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hiroshimabank.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hiroshimabank.co.jp",
+    "source": {
+      "list": "CATEGORY-BANK-JP",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hokkoku.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hokkoku.co.jp",
+    "source": {
+      "list": "CATEGORY-BANK-JP",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hokuetsubank.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hokuetsubank.co.jp",
+    "source": {
+      "list": "CATEGORY-BANK-JP",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hokutobank.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hokutobank.co.jp",
+    "source": {
+      "list": "CATEGORY-BANK-JP",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hokuyobank.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hokuyobank.co.jp",
+    "source": {
+      "list": "CATEGORY-BANK-JP",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hyakugo.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hyakugo.co.jp",
+    "source": {
+      "list": "CATEGORY-BANK-JP",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ikedashinsen.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ikedashinsen.co.jp",
+    "source": {
+      "list": "CATEGORY-BANK-JP",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "iwatebank.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:iwatebank.co.jp",
+    "source": {
+      "list": "CATEGORY-BANK-JP",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "iyobank.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:iyobank.co.jp",
+    "source": {
+      "list": "CATEGORY-BANK-JP",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jfc.go.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jfc.go.jp",
+    "source": {
+      "list": "CATEGORY-BANK-JP",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jibunbank.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jibunbank.co.jp",
+    "source": {
+      "list": "CATEGORY-BANK-JP",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "joyobank.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:joyobank.co.jp",
+    "source": {
+      "list": "CATEGORY-BANK-JP",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jp-bank.japanpost.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jp-bank.japanpost.jp",
+    "source": {
+      "list": "CATEGORY-BANK-JP",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "juhachibank.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:juhachibank.co.jp",
+    "source": {
+      "list": "CATEGORY-BANK-JP",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "juroku.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:juroku.co.jp",
+    "source": {
+      "list": "CATEGORY-BANK-JP",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kagobank.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kagobank.co.jp",
+    "source": {
+      "list": "CATEGORY-BANK-JP",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kinki.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kinki.co.jp",
+    "source": {
+      "list": "CATEGORY-BANK-JP",
+      "line": 37
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kitakyushubank.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kitakyushubank.co.jp",
+    "source": {
+      "list": "CATEGORY-BANK-JP",
+      "line": 38
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kiyobank.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kiyobank.co.jp",
+    "source": {
+      "list": "CATEGORY-BANK-JP",
+      "line": 39
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kyotobank.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kyotobank.co.jp",
+    "source": {
+      "list": "CATEGORY-BANK-JP",
+      "line": 40
+    }
+  },
+  {
+    "type": "domain",
+    "value": "michinokubank.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:michinokubank.co.jp",
+    "source": {
+      "list": "CATEGORY-BANK-JP",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mie.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mie.co.jp",
+    "source": {
+      "list": "CATEGORY-BANK-JP",
+      "line": 42
+    }
+  },
+  {
+    "type": "domain",
+    "value": "miyazakibank.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:miyazakibank.co.jp",
+    "source": {
+      "list": "CATEGORY-BANK-JP",
+      "line": 43
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mizuhobank.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mizuhobank.co.jp",
+    "source": {
+      "list": "CATEGORY-BANK-JP",
+      "line": 44
+    }
+  },
+  {
+    "type": "domain",
+    "value": "musashinobank.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:musashinobank.co.jp",
+    "source": {
+      "list": "CATEGORY-BANK-JP",
+      "line": 45
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nantobank.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nantobank.co.jp",
+    "source": {
+      "list": "CATEGORY-BANK-JP",
+      "line": 46
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nishinipponbank.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nishinipponbank.co.jp",
+    "source": {
+      "list": "CATEGORY-BANK-JP",
+      "line": 47
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nochubank.or.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nochubank.or.jp",
+    "source": {
+      "list": "CATEGORY-BANK-JP",
+      "line": 48
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ogakikyoritsu.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ogakikyoritsu.co.jp",
+    "source": {
+      "list": "CATEGORY-BANK-JP",
+      "line": 49
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oitabank.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oitabank.co.jp",
+    "source": {
+      "list": "CATEGORY-BANK-JP",
+      "line": 50
+    }
+  },
+  {
+    "type": "domain",
+    "value": "okinawabank.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:okinawabank.co.jp",
+    "source": {
+      "list": "CATEGORY-BANK-JP",
+      "line": 51
+    }
+  },
+  {
+    "type": "domain",
+    "value": "paypay-bank.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:paypay-bank.co.jp",
+    "source": {
+      "list": "CATEGORY-BANK-JP",
+      "line": 52
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rakuten-bank.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rakuten-bank.co.jp",
+    "source": {
+      "list": "CATEGORY-BANK-JP",
+      "line": 53
+    }
+  },
+  {
+    "type": "domain",
+    "value": "resonabank.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:resonabank.co.jp",
+    "source": {
+      "list": "CATEGORY-BANK-JP",
+      "line": 54
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ryukyubank.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ryukyubank.co.jp",
+    "source": {
+      "list": "CATEGORY-BANK-JP",
+      "line": 55
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sagabank.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sagabank.co.jp",
+    "source": {
+      "list": "CATEGORY-BANK-JP",
+      "line": 56
+    }
+  },
+  {
+    "type": "domain",
+    "value": "saitama-resona.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:saitama-resona.co.jp",
+    "source": {
+      "list": "CATEGORY-BANK-JP",
+      "line": 57
+    }
+  },
+  {
+    "type": "domain",
+    "value": "saninbank.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:saninbank.co.jp",
+    "source": {
+      "list": "CATEGORY-BANK-JP",
+      "line": 58
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sbishinseibank.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sbishinseibank.co.jp",
+    "source": {
+      "list": "CATEGORY-BANK-JP",
+      "line": 59
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sevenbank.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sevenbank.co.jp",
+    "source": {
+      "list": "CATEGORY-BANK-JP",
+      "line": 60
+    }
+  },
+  {
+    "type": "domain",
+    "value": "shigagin.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:shigagin.co.jp",
+    "source": {
+      "list": "CATEGORY-BANK-JP",
+      "line": 61
+    }
+  },
+  {
+    "type": "domain",
+    "value": "shikokubank.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:shikokubank.co.jp",
+    "source": {
+      "list": "CATEGORY-BANK-JP",
+      "line": 62
+    }
+  },
+  {
+    "type": "domain",
+    "value": "shimizubank.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:shimizubank.co.jp",
+    "source": {
+      "list": "CATEGORY-BANK-JP",
+      "line": 63
+    }
+  },
+  {
+    "type": "domain",
+    "value": "shinwabank.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:shinwabank.co.jp",
+    "source": {
+      "list": "CATEGORY-BANK-JP",
+      "line": 64
+    }
+  },
+  {
+    "type": "domain",
+    "value": "shizuokabank.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:shizuokabank.co.jp",
+    "source": {
+      "list": "CATEGORY-BANK-JP",
+      "line": 65
+    }
+  },
+  {
+    "type": "domain",
+    "value": "shokochukin.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:shokochukin.co.jp",
+    "source": {
+      "list": "CATEGORY-BANK-JP",
+      "line": 66
+    }
+  },
+  {
+    "type": "domain",
+    "value": "shonai.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:shonai.co.jp",
+    "source": {
+      "list": "CATEGORY-BANK-JP",
+      "line": 67
+    }
+  },
+  {
+    "type": "domain",
+    "value": "smbc.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:smbc.co.jp",
+    "source": {
+      "list": "CATEGORY-BANK-JP",
+      "line": 68
+    }
+  },
+  {
+    "type": "domain",
+    "value": "smbctb.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:smbctb.co.jp",
+    "source": {
+      "list": "CATEGORY-BANK-JP",
+      "line": 69
+    }
+  },
+  {
+    "type": "domain",
+    "value": "smtb.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:smtb.jp",
+    "source": {
+      "list": "CATEGORY-BANK-JP",
+      "line": 70
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sonybank.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sonybank.jp",
+    "source": {
+      "list": "CATEGORY-BANK-JP",
+      "line": 71
+    }
+  },
+  {
+    "type": "domain",
+    "value": "surugabank.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:surugabank.co.jp",
+    "source": {
+      "list": "CATEGORY-BANK-JP",
+      "line": 72
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tajimabank.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tajimabank.co.jp",
+    "source": {
+      "list": "CATEGORY-BANK-JP",
+      "line": 73
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tochigibank.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tochigibank.co.jp",
+    "source": {
+      "list": "CATEGORY-BANK-JP",
+      "line": 74
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tohobank.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tohobank.co.jp",
+    "source": {
+      "list": "CATEGORY-BANK-JP",
+      "line": 75
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tohoku-bank.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tohoku-bank.co.jp",
+    "source": {
+      "list": "CATEGORY-BANK-JP",
+      "line": 76
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tomibank.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tomibank.co.jp",
+    "source": {
+      "list": "CATEGORY-BANK-JP",
+      "line": 77
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tottoribank.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tottoribank.co.jp",
+    "source": {
+      "list": "CATEGORY-BANK-JP",
+      "line": 78
+    }
+  },
+  {
+    "type": "domain",
+    "value": "toyobank.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:toyobank.co.jp",
+    "source": {
+      "list": "CATEGORY-BANK-JP",
+      "line": 79
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tsukubabank.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tsukubabank.co.jp",
+    "source": {
+      "list": "CATEGORY-BANK-JP",
+      "line": 80
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yamagatabank.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yamagatabank.co.jp",
+    "source": {
+      "list": "CATEGORY-BANK-JP",
+      "line": 81
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yamaguchibank.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yamaguchibank.co.jp",
+    "source": {
+      "list": "CATEGORY-BANK-JP",
+      "line": 82
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yamanashibank.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yamanashibank.co.jp",
+    "source": {
+      "list": "CATEGORY-BANK-JP",
+      "line": 83
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yokohamabank.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yokohamabank.co.jp",
+    "source": {
+      "list": "CATEGORY-BANK-JP",
+      "line": 84
+    }
+  }
+]

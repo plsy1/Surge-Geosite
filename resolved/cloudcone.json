@@ -1,0 +1,46 @@
+[
+  {
+    "type": "domain",
+    "value": "clco.cc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:clco.cc",
+    "source": {
+      "list": "CLOUDCONE",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudc.one",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudc.one",
+    "source": {
+      "list": "CLOUDCONE",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudcone.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudcone.com",
+    "source": {
+      "list": "CLOUDCONE",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudcone.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudcone.net",
+    "source": {
+      "list": "CLOUDCONE",
+      "line": 4
+    }
+  }
+]

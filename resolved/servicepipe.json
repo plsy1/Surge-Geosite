@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "servicepipe.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:servicepipe.ru",
+    "source": {
+      "list": "SERVICEPIPE",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "servicepipe.tech",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:servicepipe.tech",
+    "source": {
+      "list": "SERVICEPIPE",
+      "line": 2
+    }
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "type": "domain",
+    "value": "aiganggu.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aiganggu.com",
+    "source": {
+      "list": "XUEQIU",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "danjuanfunds.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:danjuanfunds.com",
+    "source": {
+      "list": "XUEQIU",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "imedao.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:imedao.com",
+    "source": {
+      "list": "XUEQIU",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "snowballsecurities.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:snowballsecurities.com",
+    "source": {
+      "list": "XUEQIU",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xueqiu.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xueqiu.com",
+    "source": {
+      "list": "XUEQIU",
+      "line": 5
+    }
+  }
+]

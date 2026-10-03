@@ -1,0 +1,169 @@
+[
+  {
+    "type": "domain",
+    "value": "first-ns.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:first-ns.de",
+    "source": {
+      "list": "HETZNER",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hetzner-cloud.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hetzner-cloud.de",
+    "source": {
+      "list": "HETZNER",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hetzner.cloud",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hetzner.cloud",
+    "source": {
+      "list": "HETZNER",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hetzner.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hetzner.com",
+    "source": {
+      "list": "HETZNER",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hetzner.company",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hetzner.company",
+    "source": {
+      "list": "HETZNER",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hetzner.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hetzner.de",
+    "source": {
+      "list": "HETZNER",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hetzner.social",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hetzner.social",
+    "source": {
+      "list": "HETZNER",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "htznr.li",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:htznr.li",
+    "source": {
+      "list": "HETZNER",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "second-ns.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:second-ns.com",
+    "source": {
+      "list": "HETZNER",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "second-ns.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:second-ns.de",
+    "source": {
+      "list": "HETZNER",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "your-objectstorage.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:your-objectstorage.com",
+    "source": {
+      "list": "HETZNER",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "your-server.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:your-server.de",
+    "source": {
+      "list": "HETZNER",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "your-storagebox.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:your-storagebox.de",
+    "source": {
+      "list": "HETZNER",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "your-storageshare.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:your-storageshare.de",
+    "source": {
+      "list": "HETZNER",
+      "line": 14
+    }
+  },
+  {
+    "type": "full",
+    "value": "sentry.hetzner.company",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:sentry.hetzner.company:@ads",
+    "source": {
+      "list": "HETZNER",
+      "line": 17
+    }
+  }
+]

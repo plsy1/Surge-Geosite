@@ -1,0 +1,910 @@
+[
+  {
+    "type": "domain",
+    "value": "bby.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bby.com",
+    "source": {
+      "list": "BESTBUY",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bbycastatic.ca",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bbycastatic.ca",
+    "source": {
+      "list": "BESTBUY",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bbycloud.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bbycloud.com",
+    "source": {
+      "list": "BESTBUY",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bbycontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bbycontent.com",
+    "source": {
+      "list": "BESTBUY",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bbycontent.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bbycontent.net",
+    "source": {
+      "list": "BESTBUY",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bbyintl.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bbyintl.com",
+    "source": {
+      "list": "BESTBUY",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bbystatic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bbystatic.com",
+    "source": {
+      "list": "BESTBUY",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bbyurl.us",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bbyurl.us",
+    "source": {
+      "list": "BESTBUY",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bestbhy.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bestbhy.com",
+    "source": {
+      "list": "BESTBUY",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bestbuy-audio.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bestbuy-audio.com",
+    "source": {
+      "list": "BESTBUY",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bestbuy-communityrelations.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bestbuy-communityrelations.com",
+    "source": {
+      "list": "BESTBUY",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bestbuy-giftcard.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bestbuy-giftcard.info",
+    "source": {
+      "list": "BESTBUY",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bestbuy-int.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bestbuy-int.com",
+    "source": {
+      "list": "BESTBUY",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bestbuy-jobs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bestbuy-jobs.com",
+    "source": {
+      "list": "BESTBUY",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bestbuy.ca",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bestbuy.ca",
+    "source": {
+      "list": "BESTBUY",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bestbuy.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:bestbuy.cn:@cn",
+    "source": {
+      "list": "BESTBUY",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bestbuy.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bestbuy.com",
+    "source": {
+      "list": "BESTBUY",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bestbuy.com.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:bestbuy.com.cn:@cn",
+    "source": {
+      "list": "BESTBUY",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bestbuy.com.mx",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bestbuy.com.mx",
+    "source": {
+      "list": "BESTBUY",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bestbuy.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bestbuy.info",
+    "source": {
+      "list": "BESTBUY",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bestbuy24x7solutions.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bestbuy24x7solutions.com",
+    "source": {
+      "list": "BESTBUY",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bestbuybusiness.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bestbuybusiness.com",
+    "source": {
+      "list": "BESTBUY",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bestbuybusinessadvantageaccount.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bestbuybusinessadvantageaccount.com",
+    "source": {
+      "list": "BESTBUY",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bestbuycanada.ca",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bestbuycanada.ca",
+    "source": {
+      "list": "BESTBUY",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bestbuycanada.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bestbuycanada.com",
+    "source": {
+      "list": "BESTBUY",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bestbuycanadaltd.ca",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bestbuycanadaltd.ca",
+    "source": {
+      "list": "BESTBUY",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bestbuycharityclassic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bestbuycharityclassic.com",
+    "source": {
+      "list": "BESTBUY",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bestbuycoffeemakers.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bestbuycoffeemakers.com",
+    "source": {
+      "list": "BESTBUY",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bestbuyethics.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bestbuyethics.com",
+    "source": {
+      "list": "BESTBUY",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bestbuyforbusiness.ca",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bestbuyforbusiness.ca",
+    "source": {
+      "list": "BESTBUY",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bestbuygsm.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bestbuygsm.com",
+    "source": {
+      "list": "BESTBUY",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bestbuyideax.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bestbuyideax.com",
+    "source": {
+      "list": "BESTBUY",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bestbuyphotoworkshoptours.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bestbuyphotoworkshoptours.com",
+    "source": {
+      "list": "BESTBUY",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bestbuyrewards.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bestbuyrewards.com",
+    "source": {
+      "list": "BESTBUY",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bestbuyrewardzone.ca",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bestbuyrewardzone.ca",
+    "source": {
+      "list": "BESTBUY",
+      "line": 37
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bestbuys.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bestbuys.com",
+    "source": {
+      "list": "BESTBUY",
+      "line": 38
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bestbuysgeeksquad.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bestbuysgeeksquad.com",
+    "source": {
+      "list": "BESTBUY",
+      "line": 39
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bestbuysolutions.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bestbuysolutions.net",
+    "source": {
+      "list": "BESTBUY",
+      "line": 40
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bestbuystores.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bestbuystores.com",
+    "source": {
+      "list": "BESTBUY",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bestbuytradein.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bestbuytradein.com",
+    "source": {
+      "list": "BESTBUY",
+      "line": 42
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bestbuyus.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bestbuyus.com",
+    "source": {
+      "list": "BESTBUY",
+      "line": 43
+    }
+  },
+  {
+    "type": "domain",
+    "value": "besztbuy.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:besztbuy.com",
+    "source": {
+      "list": "BESTBUY",
+      "line": 44
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bextbuy.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bextbuy.com",
+    "source": {
+      "list": "BESTBUY",
+      "line": 45
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bienvenuechezbestbuy.ca",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bienvenuechezbestbuy.ca",
+    "source": {
+      "list": "BESTBUY",
+      "line": 46
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cowboom.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cowboom.com",
+    "source": {
+      "list": "BESTBUY",
+      "line": 47
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dealtree.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dealtree.org",
+    "source": {
+      "list": "BESTBUY",
+      "line": 89
+    }
+  },
+  {
+    "type": "domain",
+    "value": "futureshop.ca",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:futureshop.ca",
+    "source": {
+      "list": "BESTBUY",
+      "line": 48
+    }
+  },
+  {
+    "type": "domain",
+    "value": "geek-squad-support.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:geek-squad-support.com",
+    "source": {
+      "list": "BESTBUY",
+      "line": 64
+    }
+  },
+  {
+    "type": "domain",
+    "value": "geek-squad.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:geek-squad.net",
+    "source": {
+      "list": "BESTBUY",
+      "line": 65
+    }
+  },
+  {
+    "type": "domain",
+    "value": "geek-squad.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:geek-squad.org",
+    "source": {
+      "list": "BESTBUY",
+      "line": 66
+    }
+  },
+  {
+    "type": "domain",
+    "value": "geek-squads.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:geek-squads.net",
+    "source": {
+      "list": "BESTBUY",
+      "line": 67
+    }
+  },
+  {
+    "type": "domain",
+    "value": "geeksquad.ca",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:geeksquad.ca",
+    "source": {
+      "list": "BESTBUY",
+      "line": 68
+    }
+  },
+  {
+    "type": "domain",
+    "value": "geeksquad.cc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:geeksquad.cc",
+    "source": {
+      "list": "BESTBUY",
+      "line": 69
+    }
+  },
+  {
+    "type": "domain",
+    "value": "geeksquad.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:geeksquad.com",
+    "source": {
+      "list": "BESTBUY",
+      "line": 70
+    }
+  },
+  {
+    "type": "domain",
+    "value": "geeksquad.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:geeksquad.net",
+    "source": {
+      "list": "BESTBUY",
+      "line": 71
+    }
+  },
+  {
+    "type": "domain",
+    "value": "geeksquad.tv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:geeksquad.tv",
+    "source": {
+      "list": "BESTBUY",
+      "line": 72
+    }
+  },
+  {
+    "type": "domain",
+    "value": "geeksquadcares.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:geeksquadcares.com",
+    "source": {
+      "list": "BESTBUY",
+      "line": 73
+    }
+  },
+  {
+    "type": "domain",
+    "value": "geeksquadcentral.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:geeksquadcentral.com",
+    "source": {
+      "list": "BESTBUY",
+      "line": 74
+    }
+  },
+  {
+    "type": "domain",
+    "value": "geeksquadforums.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:geeksquadforums.com",
+    "source": {
+      "list": "BESTBUY",
+      "line": 75
+    }
+  },
+  {
+    "type": "domain",
+    "value": "geeksquadonline.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:geeksquadonline.com",
+    "source": {
+      "list": "BESTBUY",
+      "line": 76
+    }
+  },
+  {
+    "type": "domain",
+    "value": "geeksquadprotectionplan.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:geeksquadprotectionplan.org",
+    "source": {
+      "list": "BESTBUY",
+      "line": 77
+    }
+  },
+  {
+    "type": "domain",
+    "value": "geeksquadservices.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:geeksquadservices.org",
+    "source": {
+      "list": "BESTBUY",
+      "line": 78
+    }
+  },
+  {
+    "type": "domain",
+    "value": "geeksquadwebroot.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:geeksquadwebroot.org",
+    "source": {
+      "list": "BESTBUY",
+      "line": 79
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gscanada.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gscanada.info",
+    "source": {
+      "list": "BESTBUY",
+      "line": 80
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gsccdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gsccdn.com",
+    "source": {
+      "list": "BESTBUY",
+      "line": 81
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gslink.us",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gslink.us",
+    "source": {
+      "list": "BESTBUY",
+      "line": 82
+    }
+  },
+  {
+    "type": "domain",
+    "value": "initproducts.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:initproducts.com",
+    "source": {
+      "list": "BESTBUY",
+      "line": 49
+    }
+  },
+  {
+    "type": "domain",
+    "value": "magnoliaav.com.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:magnoliaav.com.cn:@cn",
+    "source": {
+      "list": "BESTBUY",
+      "line": 50
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mybestbuy.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mybestbuy.com",
+    "source": {
+      "list": "BESTBUY",
+      "line": 51
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mybestbuyclaims.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mybestbuyclaims.com",
+    "source": {
+      "list": "BESTBUY",
+      "line": 52
+    }
+  },
+  {
+    "type": "domain",
+    "value": "myrewardzone.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:myrewardzone.com",
+    "source": {
+      "list": "BESTBUY",
+      "line": 53
+    }
+  },
+  {
+    "type": "domain",
+    "value": "myrz.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:myrz.com",
+    "source": {
+      "list": "BESTBUY",
+      "line": 54
+    }
+  },
+  {
+    "type": "domain",
+    "value": "onlinegeeksquad.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:onlinegeeksquad.com",
+    "source": {
+      "list": "BESTBUY",
+      "line": 83
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pacifickitchenandhome.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pacifickitchenandhome.com",
+    "source": {
+      "list": "BESTBUY",
+      "line": 55
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rocketfishproducts.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rocketfishproducts.com",
+    "source": {
+      "list": "BESTBUY",
+      "line": 86
+    }
+  },
+  {
+    "type": "domain",
+    "value": "techliquidators.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:techliquidators.com",
+    "source": {
+      "list": "BESTBUY",
+      "line": 90
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tiendabestbuy.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tiendabestbuy.com",
+    "source": {
+      "list": "BESTBUY",
+      "line": 56
+    }
+  },
+  {
+    "type": "domain",
+    "value": "unbrandedproducts.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:unbrandedproducts.com",
+    "source": {
+      "list": "BESTBUY",
+      "line": 57
+    }
+  },
+  {
+    "type": "domain",
+    "value": "welcometobestbuy.ca",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:welcometobestbuy.ca",
+    "source": {
+      "list": "BESTBUY",
+      "line": 58
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wolfatbestbuy.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wolfatbestbuy.com",
+    "source": {
+      "list": "BESTBUY",
+      "line": 59
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wolfatbestbuy.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wolfatbestbuy.net",
+    "source": {
+      "list": "BESTBUY",
+      "line": 60
+    }
+  },
+  {
+    "type": "domain",
+    "value": "www-bestbuystores.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:www-bestbuystores.com",
+    "source": {
+      "list": "BESTBUY",
+      "line": 61
+    }
+  }
+]

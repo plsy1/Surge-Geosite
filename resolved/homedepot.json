@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "homedepot-static.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:homedepot-static.com",
+    "source": {
+      "list": "HOMEDEPOT",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "homedepot.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:homedepot.com",
+    "source": {
+      "list": "HOMEDEPOT",
+      "line": 2
+    }
+  }
+]

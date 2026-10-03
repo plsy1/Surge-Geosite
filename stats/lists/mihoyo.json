@@ -1,0 +1,70 @@
+{
+  "name": "MIHOYO",
+  "source": {
+    "domain": 0,
+    "full": 0,
+    "keyword": 0,
+    "regexp": 0,
+    "include": 2,
+    "affiliations": 0,
+    "attributes": 0
+  },
+  "resolved": {
+    "rules": 26,
+    "domain": 25,
+    "full": 0,
+    "keyword": 0,
+    "regexp": 1
+  },
+  "filters": {
+    "attrs": {
+      "ads": 2,
+      "cn": 1
+    }
+  },
+  "modes": {
+    "strict": {
+      "rules": 25,
+      "bytes": 713,
+      "regex": {
+        "total": 1,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 1
+      },
+      "unsupported": [
+        {
+          "pattern": "^.+-mihayo\\.akamaized\\.net$",
+          "source": {
+            "list": "MIHOYO-CN",
+            "line": 31
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        }
+      ]
+    },
+    "balanced": {
+      "rules": 26,
+      "bytes": 753,
+      "regex": {
+        "total": 1,
+        "lossless": 0,
+        "widened": 1,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "full": {
+      "rules": 26,
+      "bytes": 753,
+      "regex": {
+        "total": 1,
+        "lossless": 0,
+        "widened": 1,
+        "unsupported": 0
+      },
+      "unsupported": []
+    }
+  }
+}

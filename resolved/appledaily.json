@@ -1,0 +1,354 @@
+[
+  {
+    "type": "domain",
+    "value": "appledaily.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:appledaily.com",
+    "source": {
+      "list": "APPLEDAILY",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "appledaily.com.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:appledaily.com.hk",
+    "source": {
+      "list": "APPLEDAILY",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "appledaily.com.tw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:appledaily.com.tw",
+    "source": {
+      "list": "APPLEDAILY",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "appledaily.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:appledaily.hk",
+    "source": {
+      "list": "APPLEDAILY",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "applefruity.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:applefruity.com",
+    "source": {
+      "list": "APPLEDAILY",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "applehealth.com.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:applehealth.com.hk",
+    "source": {
+      "list": "APPLEDAILY",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "atnext.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:atnext.com",
+    "source": {
+      "list": "APPLEDAILY",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bestmallawards.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bestmallawards.com",
+    "source": {
+      "list": "APPLEDAILY",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "deluxe.com.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:deluxe.com.hk",
+    "source": {
+      "list": "APPLEDAILY",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "eracom.com.tw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:eracom.com.tw",
+    "source": {
+      "list": "APPLEDAILY",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "next.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:next.hk",
+    "source": {
+      "list": "APPLEDAILY",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nextdigital.com.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nextdigital.com.hk",
+    "source": {
+      "list": "APPLEDAILY",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nextdigital.com.tw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nextdigital.com.tw",
+    "source": {
+      "list": "APPLEDAILY",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nextfilm.com.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nextfilm.com.hk",
+    "source": {
+      "list": "APPLEDAILY",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nextmag.com.tw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nextmag.com.tw",
+    "source": {
+      "list": "APPLEDAILY",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nextmedia.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nextmedia.com",
+    "source": {
+      "list": "APPLEDAILY",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nextmedia.com.tw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nextmedia.com.tw",
+    "source": {
+      "list": "APPLEDAILY",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nextmgz.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nextmgz.com",
+    "source": {
+      "list": "APPLEDAILY",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nextplus.com.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nextplus.com.hk",
+    "source": {
+      "list": "APPLEDAILY",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nexttv.com.tw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nexttv.com.tw",
+    "source": {
+      "list": "APPLEDAILY",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nextwork.com.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nextwork.com.hk",
+    "source": {
+      "list": "APPLEDAILY",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nextwork.com.tw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nextwork.com.tw",
+    "source": {
+      "list": "APPLEDAILY",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nextwork.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nextwork.hk",
+    "source": {
+      "list": "APPLEDAILY",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nextwork.tw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nextwork.tw",
+    "source": {
+      "list": "APPLEDAILY",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nxtdig.com.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nxtdig.com.hk",
+    "source": {
+      "list": "APPLEDAILY",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nxtdig.com.tw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nxtdig.com.tw",
+    "source": {
+      "list": "APPLEDAILY",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "omoplanet.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:omoplanet.com",
+    "source": {
+      "list": "APPLEDAILY",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "privilege.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:privilege.hk",
+    "source": {
+      "list": "APPLEDAILY",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "privilege.tw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:privilege.tw",
+    "source": {
+      "list": "APPLEDAILY",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sharpdaily.tw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sharpdaily.tw",
+    "source": {
+      "list": "APPLEDAILY",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tomonews.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tomonews.net",
+    "source": {
+      "list": "APPLEDAILY",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "twnextdigital.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:twnextdigital.com",
+    "source": {
+      "list": "APPLEDAILY",
+      "line": 34
+    }
+  }
+]

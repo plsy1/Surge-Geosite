@@ -1,0 +1,134 @@
+[
+  {
+    "type": "domain",
+    "value": "juejin.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:juejin.cn",
+    "source": {
+      "list": "JUEJIN",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "juejin.im",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:juejin.im",
+    "source": {
+      "list": "JUEJIN",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xitu.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xitu.io",
+    "source": {
+      "list": "JUEJIN",
+      "line": 3
+    }
+  },
+  {
+    "type": "full",
+    "value": "p1-juejin.byteimg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:p1-juejin.byteimg.com",
+    "source": {
+      "list": "JUEJIN",
+      "line": 5
+    }
+  },
+  {
+    "type": "full",
+    "value": "p2-juejin.byteimg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:p2-juejin.byteimg.com",
+    "source": {
+      "list": "JUEJIN",
+      "line": 6
+    }
+  },
+  {
+    "type": "full",
+    "value": "p3-juejin.byteimg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:p3-juejin.byteimg.com",
+    "source": {
+      "list": "JUEJIN",
+      "line": 7
+    }
+  },
+  {
+    "type": "full",
+    "value": "p4-juejin.byteimg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:p4-juejin.byteimg.com",
+    "source": {
+      "list": "JUEJIN",
+      "line": 8
+    }
+  },
+  {
+    "type": "full",
+    "value": "p5-juejin.byteimg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:p5-juejin.byteimg.com",
+    "source": {
+      "list": "JUEJIN",
+      "line": 9
+    }
+  },
+  {
+    "type": "full",
+    "value": "p6-juejin.byteimg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:p6-juejin.byteimg.com",
+    "source": {
+      "list": "JUEJIN",
+      "line": 10
+    }
+  },
+  {
+    "type": "full",
+    "value": "p7-juejin.byteimg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:p7-juejin.byteimg.com",
+    "source": {
+      "list": "JUEJIN",
+      "line": 11
+    }
+  },
+  {
+    "type": "full",
+    "value": "p8-juejin.byteimg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:p8-juejin.byteimg.com",
+    "source": {
+      "list": "JUEJIN",
+      "line": 12
+    }
+  },
+  {
+    "type": "full",
+    "value": "p9-juejin.byteimg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:p9-juejin.byteimg.com",
+    "source": {
+      "list": "JUEJIN",
+      "line": 13
+    }
+  }
+]

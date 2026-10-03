@@ -1,0 +1,46 @@
+[
+  {
+    "type": "domain",
+    "value": "sc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sc.com",
+    "source": {
+      "list": "STANDARDCHARTERED",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "standardchartered.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:standardchartered.com",
+    "source": {
+      "list": "STANDARDCHARTERED",
+      "line": 2
+    }
+  },
+  {
+    "type": "full",
+    "value": "standchartbank.sc.omtrdc.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:standchartbank.sc.omtrdc.net",
+    "source": {
+      "list": "STANDARDCHARTERED",
+      "line": 3
+    }
+  },
+  {
+    "type": "full",
+    "value": "standchartbank.tt.omtrdc.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:standchartbank.tt.omtrdc.net",
+    "source": {
+      "list": "STANDARDCHARTERED",
+      "line": 4
+    }
+  }
+]

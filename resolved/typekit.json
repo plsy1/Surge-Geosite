@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "typekit.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:typekit.com",
+    "source": {
+      "list": "TYPEKIT",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "typekit.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:typekit.net",
+    "source": {
+      "list": "TYPEKIT",
+      "line": 2
+    }
+  }
+]

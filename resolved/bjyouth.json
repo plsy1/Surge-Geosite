@@ -1,0 +1,46 @@
+[
+  {
+    "type": "domain",
+    "value": "bjyouth.gov.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bjyouth.gov.cn",
+    "source": {
+      "list": "BJYOUTH",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bjyouth.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bjyouth.net",
+    "source": {
+      "list": "BJYOUTH",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sqqnh.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sqqnh.cn",
+    "source": {
+      "list": "BJYOUTH",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sqqnh.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sqqnh.org",
+    "source": {
+      "list": "BJYOUTH",
+      "line": 6
+    }
+  }
+]

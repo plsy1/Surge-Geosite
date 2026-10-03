@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "snodehome.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:snodehome.cn",
+    "source": {
+      "list": "SNODEHOME",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "snodehome.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:snodehome.com",
+    "source": {
+      "list": "SNODEHOME",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "szbdyd.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:szbdyd.com",
+    "source": {
+      "list": "SNODEHOME",
+      "line": 1
+    }
+  }
+]

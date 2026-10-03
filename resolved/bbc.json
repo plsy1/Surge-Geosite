@@ -1,0 +1,310 @@
+[
+  {
+    "type": "domain",
+    "value": "bbc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bbc",
+    "source": {
+      "list": "BBC",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bbc-reporting-api.app",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bbc-reporting-api.app",
+    "source": {
+      "list": "BBC",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bbc.co.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bbc.co.uk",
+    "source": {
+      "list": "BBC",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bbc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bbc.com",
+    "source": {
+      "list": "BBC",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bbc.in",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bbc.in",
+    "source": {
+      "list": "BBC",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bbc.mp-pxcdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bbc.mp-pxcdn.com",
+    "source": {
+      "list": "BBC",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bbc.net.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bbc.net.uk",
+    "source": {
+      "list": "BBC",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bbcfmt.s.llnwi.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bbcfmt.s.llnwi.net",
+    "source": {
+      "list": "BBC",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bbci.co.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bbci.co.uk",
+    "source": {
+      "list": "BBC",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bbcmedia.co.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bbcmedia.co.uk",
+    "source": {
+      "list": "BBC",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bbcpersian.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bbcpersian.com",
+    "source": {
+      "list": "BBC",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bbcverticals.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bbcverticals.com",
+    "source": {
+      "list": "BBC",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bidi.net.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bidi.net.uk",
+    "source": {
+      "list": "BBC",
+      "line": 15
+    }
+  },
+  {
+    "type": "full",
+    "value": "aod-pod-uk-live.akamaized.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:aod-pod-uk-live.akamaized.net",
+    "source": {
+      "list": "BBC",
+      "line": 17
+    }
+  },
+  {
+    "type": "full",
+    "value": "as-dash-uk-live.akamaized.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:as-dash-uk-live.akamaized.net",
+    "source": {
+      "list": "BBC",
+      "line": 18
+    }
+  },
+  {
+    "type": "full",
+    "value": "as-hls-uk-live.akamaized.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:as-hls-uk-live.akamaized.net",
+    "source": {
+      "list": "BBC",
+      "line": 19
+    }
+  },
+  {
+    "type": "full",
+    "value": "ve-dash-uk-live.akamaized.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:ve-dash-uk-live.akamaized.net",
+    "source": {
+      "list": "BBC",
+      "line": 20
+    }
+  },
+  {
+    "type": "full",
+    "value": "ve-uhd-push-uk-live.akamaized.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:ve-uhd-push-uk-live.akamaized.net",
+    "source": {
+      "list": "BBC",
+      "line": 21
+    }
+  },
+  {
+    "type": "full",
+    "value": "vod-dash-uk-live.akamaized.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:vod-dash-uk-live.akamaized.net",
+    "source": {
+      "list": "BBC",
+      "line": 22
+    }
+  },
+  {
+    "type": "full",
+    "value": "vod-dash-ww-live.akamaized.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:vod-dash-ww-live.akamaized.net",
+    "source": {
+      "list": "BBC",
+      "line": 23
+    }
+  },
+  {
+    "type": "full",
+    "value": "vod-hls-uk-live.akamaized.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:vod-hls-uk-live.akamaized.net",
+    "source": {
+      "list": "BBC",
+      "line": 24
+    }
+  },
+  {
+    "type": "full",
+    "value": "vod-sub-uk-live.akamaized.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:vod-sub-uk-live.akamaized.net",
+    "source": {
+      "list": "BBC",
+      "line": 25
+    }
+  },
+  {
+    "type": "full",
+    "value": "vod-thumb-uk-live.akamaized.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:vod-thumb-uk-live.akamaized.net",
+    "source": {
+      "list": "BBC",
+      "line": 26
+    }
+  },
+  {
+    "type": "full",
+    "value": "vod-thumb-ww-live.akamaized.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:vod-thumb-ww-live.akamaized.net",
+    "source": {
+      "list": "BBC",
+      "line": 27
+    }
+  },
+  {
+    "type": "full",
+    "value": "vs-cmaf-push-uk-live.akamaized.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:vs-cmaf-push-uk-live.akamaized.net",
+    "source": {
+      "list": "BBC",
+      "line": 28
+    }
+  },
+  {
+    "type": "full",
+    "value": "vs-cmaf-pushb-ww-live.akamaized.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:vs-cmaf-pushb-ww-live.akamaized.net",
+    "source": {
+      "list": "BBC",
+      "line": 29
+    }
+  },
+  {
+    "type": "full",
+    "value": "vs-hls-push-uk-live.akamaized.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:vs-hls-push-uk-live.akamaized.net",
+    "source": {
+      "list": "BBC",
+      "line": 30
+    }
+  },
+  {
+    "type": "full",
+    "value": "vs-hls-pushb-uk-live.akamaized.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:vs-hls-pushb-uk-live.akamaized.net",
+    "source": {
+      "list": "BBC",
+      "line": 31
+    }
+  }
+]

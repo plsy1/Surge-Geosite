@@ -1,0 +1,92 @@
+[
+  {
+    "type": "domain",
+    "value": "muji.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:muji.com",
+    "source": {
+      "list": "MUJI",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "muji.com.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:muji.com.cn:@cn",
+    "source": {
+      "list": "MUJI",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "muji.com.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:muji.com.hk",
+    "source": {
+      "list": "MUJI",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "muji.eu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:muji.eu",
+    "source": {
+      "list": "MUJI",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "muji.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:muji.net",
+    "source": {
+      "list": "MUJI",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "muji.tw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:muji.tw",
+    "source": {
+      "list": "MUJI",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "muji.us",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:muji.us",
+    "source": {
+      "list": "MUJI",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mujikorea.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mujikorea.net",
+    "source": {
+      "list": "MUJI",
+      "line": 8
+    }
+  }
+]

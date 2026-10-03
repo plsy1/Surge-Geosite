@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "exit",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:exit",
+    "source": {
+      "list": "TOR",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "onion",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:onion",
+    "source": {
+      "list": "TOR",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tor",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tor",
+    "source": {
+      "list": "TOR",
+      "line": 5
+    }
+  }
+]

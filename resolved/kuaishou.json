@@ -1,0 +1,458 @@
+[
+  {
+    "type": "domain",
+    "value": "ac.fun",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ac.fun",
+    "source": {
+      "list": "ACFUN",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "acfun.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:acfun.cn",
+    "source": {
+      "list": "ACFUN",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "acfun.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:acfun.net",
+    "source": {
+      "list": "ACFUN",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "acfunchina.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:acfunchina.cn",
+    "source": {
+      "list": "ACFUN",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "acfunchina.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:acfunchina.com",
+    "source": {
+      "list": "ACFUN",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "acfunchina.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:acfunchina.net",
+    "source": {
+      "list": "ACFUN",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adbkwai.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:adbkwai.com:@ads",
+    "source": {
+      "list": "KUAISHOU",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adkwai.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:adkwai.com:@ads",
+    "source": {
+      "list": "KUAISHOU",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adukwai.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:adukwai.com:@ads",
+    "source": {
+      "list": "KUAISHOU",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aixifan.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aixifan.com",
+    "source": {
+      "list": "ACFUN",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "e.kuaishou.cn",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:e.kuaishou.cn:@ads",
+    "source": {
+      "list": "KUAISHOU",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "e.kuaishou.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:e.kuaishou.com:@ads",
+    "source": {
+      "list": "KUAISHOU",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "eckwai.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:eckwai.com",
+    "source": {
+      "list": "KUAISHOU",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ecukwai.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ecukwai.com",
+    "source": {
+      "list": "KUAISHOU",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gifshow.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gifshow.com",
+    "source": {
+      "list": "KUAISHOU",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "inkuai.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:inkuai.com",
+    "source": {
+      "list": "KUAISHOU",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "inkwai.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:inkwai.com",
+    "source": {
+      "list": "KUAISHOU",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ksapisrv.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ksapisrv.com",
+    "source": {
+      "list": "KUAISHOU",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kskwai.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kskwai.com",
+    "source": {
+      "list": "KUAISHOU",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kspkg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kspkg.com",
+    "source": {
+      "list": "KUAISHOU",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kuaishou.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kuaishou.cn",
+    "source": {
+      "list": "KUAISHOU",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kuaishou.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kuaishou.com",
+    "source": {
+      "list": "KUAISHOU",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kuaishouapps.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kuaishouapps.com",
+    "source": {
+      "list": "KUAISHOU",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kuaishoupay.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kuaishoupay.com",
+    "source": {
+      "list": "KUAISHOU",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kuaishouzt.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kuaishouzt.com",
+    "source": {
+      "list": "KUAISHOU",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kwaicdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kwaicdn.com",
+    "source": {
+      "list": "KUAISHOU",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kwaishop.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kwaishop.com",
+    "source": {
+      "list": "KUAISHOU",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kwaixiaodian.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kwaixiaodian.com",
+    "source": {
+      "list": "KUAISHOU",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kwaiying.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kwaiying.com",
+    "source": {
+      "list": "KUAISHOU",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kwaizt.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kwaizt.com",
+    "source": {
+      "list": "KUAISHOU",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kwimgs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kwimgs.com",
+    "source": {
+      "list": "KUAISHOU",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mojidoc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mojidoc.com",
+    "source": {
+      "list": "KUAISHOU",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qingque.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qingque.cn",
+    "source": {
+      "list": "KUAISHOU",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "viviv.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:viviv.com",
+    "source": {
+      "list": "KUAISHOU",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wskwai.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wskwai.com",
+    "source": {
+      "list": "KUAISHOU",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wsukwai.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wsukwai.com",
+    "source": {
+      "list": "KUAISHOU",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yximgs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yximgs.com",
+    "source": {
+      "list": "KUAISHOU",
+      "line": 27
+    }
+  },
+  {
+    "type": "full",
+    "value": "apilog-web.acfun.cn",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:apilog-web.acfun.cn:@ads",
+    "source": {
+      "list": "ACFUN",
+      "line": 12
+    }
+  },
+  {
+    "type": "full",
+    "value": "log-sdk.gifshow.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:log-sdk.gifshow.com:@ads",
+    "source": {
+      "list": "KUAISHOU",
+      "line": 35
+    }
+  },
+  {
+    "type": "full",
+    "value": "wlog.kuaishou.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:wlog.kuaishou.com:@ads",
+    "source": {
+      "list": "KUAISHOU",
+      "line": 36
+    }
+  }
+]

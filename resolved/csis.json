@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "csis.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:csis.org",
+    "source": {
+      "list": "CSIS",
+      "line": 1
+    }
+  },
+  {
+    "type": "full",
+    "value": "csis-prod.s3.amazonaws.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:csis-prod.s3.amazonaws.com",
+    "source": {
+      "list": "CSIS",
+      "line": 3
+    }
+  }
+]

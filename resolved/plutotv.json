@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "pluto.tv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pluto.tv",
+    "source": {
+      "list": "PLUTOTV",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "plutotv.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:plutotv.net",
+    "source": {
+      "list": "PLUTOTV",
+      "line": 2
+    }
+  }
+]

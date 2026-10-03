@@ -1,0 +1,354 @@
+[
+  {
+    "type": "domain",
+    "value": "agri-bank.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:agri-bank.com",
+    "source": {
+      "list": "CATEGORY-BANK-IR",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ansarbank.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ansarbank.com",
+    "source": {
+      "list": "CATEGORY-BANK-IR",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bank-maskan.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bank-maskan.ir",
+    "source": {
+      "list": "CATEGORY-BANK-IR",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bankmellat.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bankmellat.ir",
+    "source": {
+      "list": "CATEGORY-BANK-IR",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "banksepah.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:banksepah.ir",
+    "source": {
+      "list": "CATEGORY-BANK-IR",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bim.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bim.ir",
+    "source": {
+      "list": "CATEGORY-BANK-IR",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "blubank.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:blubank.com",
+    "source": {
+      "list": "CATEGORY-BANK-IR",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bmi.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bmi.ir",
+    "source": {
+      "list": "CATEGORY-BANK-IR",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bpi.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bpi.ir",
+    "source": {
+      "list": "CATEGORY-BANK-IR",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bsi.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bsi.ir",
+    "source": {
+      "list": "CATEGORY-BANK-IR",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cbi.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cbi.ir",
+    "source": {
+      "list": "CATEGORY-BANK-IR",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "day24.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:day24.ir",
+    "source": {
+      "list": "CATEGORY-BANK-IR",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "edbi.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:edbi.ir",
+    "source": {
+      "list": "CATEGORY-BANK-IR",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "enbank.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:enbank.ir",
+    "source": {
+      "list": "CATEGORY-BANK-IR",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ghbi.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ghbi.ir",
+    "source": {
+      "list": "CATEGORY-BANK-IR",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hibank24.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hibank24.com",
+    "source": {
+      "list": "CATEGORY-BANK-IR",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "izbank.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:izbank.ir",
+    "source": {
+      "list": "CATEGORY-BANK-IR",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "karafarinbank.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:karafarinbank.ir",
+    "source": {
+      "list": "CATEGORY-BANK-IR",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mebank.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mebank.ir",
+    "source": {
+      "list": "CATEGORY-BANK-IR",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mresalat.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mresalat.ir",
+    "source": {
+      "list": "CATEGORY-BANK-IR",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "parsian-bank.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:parsian-bank.com",
+    "source": {
+      "list": "CATEGORY-BANK-IR",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "postbank.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:postbank.ir",
+    "source": {
+      "list": "CATEGORY-BANK-IR",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qmb.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qmb.ir",
+    "source": {
+      "list": "CATEGORY-BANK-IR",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rb24.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rb24.ir",
+    "source": {
+      "list": "CATEGORY-BANK-IR",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "refah-bank.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:refah-bank.ir",
+    "source": {
+      "list": "CATEGORY-BANK-IR",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rqbank.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rqbank.ir",
+    "source": {
+      "list": "CATEGORY-BANK-IR",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sb24.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sb24.com",
+    "source": {
+      "list": "CATEGORY-BANK-IR",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sbank.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sbank.ir",
+    "source": {
+      "list": "CATEGORY-BANK-IR",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "shahr-bank.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:shahr-bank.ir",
+    "source": {
+      "list": "CATEGORY-BANK-IR",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "shaparak.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:shaparak.ir",
+    "source": {
+      "list": "CATEGORY-BANK-IR",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sinabank.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sinabank.ir",
+    "source": {
+      "list": "CATEGORY-BANK-IR",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tejaratbank.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tejaratbank.ir",
+    "source": {
+      "list": "CATEGORY-BANK-IR",
+      "line": 34
+    }
+  }
+]

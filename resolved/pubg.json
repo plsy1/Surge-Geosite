@@ -1,0 +1,46 @@
+[
+  {
+    "type": "domain",
+    "value": "kraftonde.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kraftonde.com",
+    "source": {
+      "list": "PUBG",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "playbattlegrounds.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:playbattlegrounds.com",
+    "source": {
+      "list": "PUBG",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pubg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pubg.com",
+    "source": {
+      "list": "PUBG",
+      "line": 3
+    }
+  },
+  {
+    "type": "full",
+    "value": "pubg1.battleye.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:pubg1.battleye.com",
+    "source": {
+      "list": "PUBG",
+      "line": 5
+    }
+  }
+]

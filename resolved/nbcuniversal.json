@@ -1,0 +1,189 @@
+[
+  {
+    "type": "domain",
+    "value": "cnbc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cnbc.com",
+    "source": {
+      "list": "NBCUNIVERSAL",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cnbcfm.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cnbcfm.com",
+    "source": {
+      "list": "NBCUNIVERSAL",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dreamworks.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dreamworks.com",
+    "source": {
+      "list": "NBCUNIVERSAL",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "msnbc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:msnbc.com",
+    "source": {
+      "list": "NBCUNIVERSAL",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nbc.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nbc.co",
+    "source": {
+      "list": "NBCUNIVERSAL",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nbc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nbc.com",
+    "source": {
+      "list": "NBCUNIVERSAL",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nbcnews.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nbcnews.com",
+    "source": {
+      "list": "NBCUNIVERSAL",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nbcolympics.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nbcolympics.com",
+    "source": {
+      "list": "NBCUNIVERSAL",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nbcsports.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nbcsports.com",
+    "source": {
+      "list": "NBCUNIVERSAL",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nbcuni.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nbcuni.com",
+    "source": {
+      "list": "NBCUNIVERSAL",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nbcuniversal.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nbcuniversal.com",
+    "source": {
+      "list": "NBCUNIVERSAL",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "peacocktv.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:peacocktv.com",
+    "source": {
+      "list": "NBCUNIVERSAL",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "s-nbcnews.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:s-nbcnews.com",
+    "source": {
+      "list": "NBCUNIVERSAL",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "universalorlando.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:universalorlando.com",
+    "source": {
+      "list": "NBCUNIVERSAL",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "universalpictures.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:universalpictures.com",
+    "source": {
+      "list": "NBCUNIVERSAL",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "universalpicturesinternational.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:universalpicturesinternational.com",
+    "source": {
+      "list": "NBCUNIVERSAL",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "universalstudioshollywood.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:universalstudioshollywood.com",
+    "source": {
+      "list": "NBCUNIVERSAL",
+      "line": 24
+    }
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "type": "domain",
+    "value": "camcard.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:camcard.com",
+    "source": {
+      "list": "INTSIG",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "camscanner.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:camscanner.com",
+    "source": {
+      "list": "INTSIG",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intsig.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intsig.com",
+    "source": {
+      "list": "INTSIG",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intsig.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intsig.net",
+    "source": {
+      "list": "INTSIG",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qixin.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qixin.com",
+    "source": {
+      "list": "QIXIN",
+      "line": 1
+    }
+  }
+]

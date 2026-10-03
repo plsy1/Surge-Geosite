@@ -1,0 +1,530 @@
+[
+  {
+    "type": "domain",
+    "value": "1lib.cloud",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:1lib.cloud",
+    "source": {
+      "list": "Z-LIBRARY",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "1lib.cz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:1lib.cz",
+    "source": {
+      "list": "Z-LIBRARY",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "1lib.domains",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:1lib.domains",
+    "source": {
+      "list": "Z-LIBRARY",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "1lib.education",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:1lib.education",
+    "source": {
+      "list": "Z-LIBRARY",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "1lib.eu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:1lib.eu",
+    "source": {
+      "list": "Z-LIBRARY",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "1lib.limited",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:1lib.limited",
+    "source": {
+      "list": "Z-LIBRARY",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "1lib.pl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:1lib.pl",
+    "source": {
+      "list": "Z-LIBRARY",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "1lib.sk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:1lib.sk",
+    "source": {
+      "list": "Z-LIBRARY",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "1lib.to",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:1lib.to",
+    "source": {
+      "list": "Z-LIBRARY",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "1lib.tw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:1lib.tw",
+    "source": {
+      "list": "Z-LIBRARY",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "2lib.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:2lib.org",
+    "source": {
+      "list": "Z-LIBRARY",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "3lib.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:3lib.net",
+    "source": {
+      "list": "Z-LIBRARY",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "art1lib.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:art1lib.com",
+    "source": {
+      "list": "Z-LIBRARY",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "b-ok.africa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:b-ok.africa",
+    "source": {
+      "list": "Z-LIBRARY",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "b-ok.asia",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:b-ok.asia",
+    "source": {
+      "list": "Z-LIBRARY",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "b-ok.cc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:b-ok.cc",
+    "source": {
+      "list": "Z-LIBRARY",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "b-ok.global",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:b-ok.global",
+    "source": {
+      "list": "Z-LIBRARY",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "b-ok.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:b-ok.org",
+    "source": {
+      "list": "Z-LIBRARY",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "book4you.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:book4you.org",
+    "source": {
+      "list": "Z-LIBRARY",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bookfi.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bookfi.net",
+    "source": {
+      "list": "Z-LIBRARY",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "booksc.eu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:booksc.eu",
+    "source": {
+      "list": "Z-LIBRARY",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "booksc.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:booksc.me",
+    "source": {
+      "list": "Z-LIBRARY",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "booksc.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:booksc.org",
+    "source": {
+      "list": "Z-LIBRARY",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "booksc.xyz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:booksc.xyz",
+    "source": {
+      "list": "Z-LIBRARY",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bookshome.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bookshome.info",
+    "source": {
+      "list": "Z-LIBRARY",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bookshome.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bookshome.net",
+    "source": {
+      "list": "Z-LIBRARY",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bookshome.world",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bookshome.world",
+    "source": {
+      "list": "Z-LIBRARY",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "de1lib.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:de1lib.org",
+    "source": {
+      "list": "Z-LIBRARY",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dln1.ncdn.ec",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dln1.ncdn.ec",
+    "source": {
+      "list": "Z-LIBRARY",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hk1lib.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hk1lib.org",
+    "source": {
+      "list": "Z-LIBRARY",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "libsolutions.app",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:libsolutions.app",
+    "source": {
+      "list": "Z-LIBRARY",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "libsolutions.domains",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:libsolutions.domains",
+    "source": {
+      "list": "Z-LIBRARY",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "libsolutions.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:libsolutions.net",
+    "source": {
+      "list": "Z-LIBRARY",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ma1lib.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ma1lib.org",
+    "source": {
+      "list": "Z-LIBRARY",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sg1lib.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sg1lib.org",
+    "source": {
+      "list": "Z-LIBRARY",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "singlelogin.app",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:singlelogin.app",
+    "source": {
+      "list": "Z-LIBRARY",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "singlelogin.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:singlelogin.me",
+    "source": {
+      "list": "Z-LIBRARY",
+      "line": 37
+    }
+  },
+  {
+    "type": "domain",
+    "value": "singlelogin.re",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:singlelogin.re",
+    "source": {
+      "list": "Z-LIBRARY",
+      "line": 38
+    }
+  },
+  {
+    "type": "domain",
+    "value": "singlelogin.site",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:singlelogin.site",
+    "source": {
+      "list": "Z-LIBRARY",
+      "line": 39
+    }
+  },
+  {
+    "type": "domain",
+    "value": "z-lib.fm",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:z-lib.fm",
+    "source": {
+      "list": "Z-LIBRARY",
+      "line": 40
+    }
+  },
+  {
+    "type": "domain",
+    "value": "z-lib.gd",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:z-lib.gd",
+    "source": {
+      "list": "Z-LIBRARY",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "z-lib.gl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:z-lib.gl",
+    "source": {
+      "list": "Z-LIBRARY",
+      "line": 42
+    }
+  },
+  {
+    "type": "domain",
+    "value": "z-lib.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:z-lib.org",
+    "source": {
+      "list": "Z-LIBRARY",
+      "line": 43
+    }
+  },
+  {
+    "type": "domain",
+    "value": "z-library.se",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:z-library.se",
+    "source": {
+      "list": "Z-LIBRARY",
+      "line": 45
+    }
+  },
+  {
+    "type": "domain",
+    "value": "z-library.sk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:z-library.sk",
+    "source": {
+      "list": "Z-LIBRARY",
+      "line": 44
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zlib.life",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zlib.life",
+    "source": {
+      "list": "Z-LIBRARY",
+      "line": 46
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zlibcdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zlibcdn.com",
+    "source": {
+      "list": "Z-LIBRARY",
+      "line": 47
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zlibcdn2.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zlibcdn2.com",
+    "source": {
+      "list": "Z-LIBRARY",
+      "line": 48
+    }
+  }
+]

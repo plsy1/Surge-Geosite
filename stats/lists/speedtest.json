@@ -1,0 +1,69 @@
+{
+  "name": "SPEEDTEST",
+  "source": {
+    "domain": 0,
+    "full": 0,
+    "keyword": 0,
+    "regexp": 0,
+    "include": 1,
+    "affiliations": 0,
+    "attributes": 0
+  },
+  "resolved": {
+    "rules": 14,
+    "domain": 12,
+    "full": 1,
+    "keyword": 0,
+    "regexp": 1
+  },
+  "filters": {
+    "attrs": {
+      "ads": 1
+    }
+  },
+  "modes": {
+    "strict": {
+      "rules": 13,
+      "bytes": 400,
+      "regex": {
+        "total": 1,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 1
+      },
+      "unsupported": [
+        {
+          "pattern": "^speed\\.(coe|open)\\.ad\\.[a-z]{2,6}\\.prod\\.hosts\\.ooklaserver\\.net$",
+          "source": {
+            "list": "OOKLA-SPEEDTEST",
+            "line": 19
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        }
+      ]
+    },
+    "balanced": {
+      "rules": 14,
+      "bytes": 456,
+      "regex": {
+        "total": 1,
+        "lossless": 0,
+        "widened": 1,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "full": {
+      "rules": 14,
+      "bytes": 456,
+      "regex": {
+        "total": 1,
+        "lossless": 0,
+        "widened": 1,
+        "unsupported": 0
+      },
+      "unsupported": []
+    }
+  }
+}

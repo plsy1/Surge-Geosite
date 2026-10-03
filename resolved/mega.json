@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "mega.co.nz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mega.co.nz",
+    "source": {
+      "list": "MEGA",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mega.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mega.io",
+    "source": {
+      "list": "MEGA",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mega.nz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mega.nz",
+    "source": {
+      "list": "MEGA",
+      "line": 3
+    }
+  }
+]

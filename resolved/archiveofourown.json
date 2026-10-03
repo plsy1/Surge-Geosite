@@ -1,0 +1,46 @@
+[
+  {
+    "type": "domain",
+    "value": "ao3.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ao3.org",
+    "source": {
+      "list": "ARCHIVEOFOUROWN",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "archiveofourown.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:archiveofourown.com",
+    "source": {
+      "list": "ARCHIVEOFOUROWN",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "archiveofourown.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:archiveofourown.net",
+    "source": {
+      "list": "ARCHIVEOFOUROWN",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "archiveofourown.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:archiveofourown.org",
+    "source": {
+      "list": "ARCHIVEOFOUROWN",
+      "line": 2
+    }
+  }
+]

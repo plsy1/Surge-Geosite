@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "segmentfault.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:segmentfault.com",
+    "source": {
+      "list": "SEGMENTFAULT",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sifou.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sifou.com",
+    "source": {
+      "list": "SEGMENTFAULT",
+      "line": 2
+    }
+  }
+]

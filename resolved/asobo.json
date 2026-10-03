@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "asobostudio.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:asobostudio.com",
+    "source": {
+      "list": "ASOBO",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "flightsimulator.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:flightsimulator.com",
+    "source": {
+      "list": "ASOBO",
+      "line": 2
+    }
+  },
+  {
+    "type": "full",
+    "value": "flightsimulator.azureedge.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:flightsimulator.azureedge.net",
+    "source": {
+      "list": "ASOBO",
+      "line": 4
+    }
+  }
+]

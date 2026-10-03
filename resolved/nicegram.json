@@ -1,0 +1,37 @@
+[
+  {
+    "type": "domain",
+    "value": "adsgram.ai",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:adsgram.ai:@ads",
+    "source": {
+      "list": "NICEGRAM",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nicegram.app",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nicegram.app",
+    "source": {
+      "list": "NICEGRAM",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nicegram.cloud",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nicegram.cloud",
+    "source": {
+      "list": "NICEGRAM",
+      "line": 2
+    }
+  }
+]

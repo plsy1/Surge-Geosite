@@ -1,0 +1,68 @@
+[
+  {
+    "type": "domain",
+    "value": "alicloudccp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:alicloudccp.com",
+    "source": {
+      "list": "ALIYUN-DRIVE",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "alipan.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:alipan.com",
+    "source": {
+      "list": "ALIYUN-DRIVE",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aliyundrive.cloud",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aliyundrive.cloud",
+    "source": {
+      "list": "ALIYUN-DRIVE",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aliyundrive.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aliyundrive.com",
+    "source": {
+      "list": "ALIYUN-DRIVE",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aliyundrive.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aliyundrive.net",
+    "source": {
+      "list": "ALIYUN-DRIVE",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yunpan.aliyun.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yunpan.aliyun.com",
+    "source": {
+      "list": "ALIYUN-DRIVE",
+      "line": 6
+    }
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "embed.ly",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:embed.ly",
+    "source": {
+      "list": "EMBEDLY",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "embedly.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:embedly.com",
+    "source": {
+      "list": "EMBEDLY",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "playerjs.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:playerjs.io",
+    "source": {
+      "list": "EMBEDLY",
+      "line": 5
+    }
+  }
+]

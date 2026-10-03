@@ -1,0 +1,46 @@
+[
+  {
+    "type": "domain",
+    "value": "deps.dev",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:deps.dev",
+    "source": {
+      "list": "OPENSOURCEINSIGHTS",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "deps.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:deps.info",
+    "source": {
+      "list": "OPENSOURCEINSIGHTS",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "opensourceinsight.dev",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:opensourceinsight.dev",
+    "source": {
+      "list": "OPENSOURCEINSIGHTS",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "opensourceinsights.dev",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:opensourceinsights.dev",
+    "source": {
+      "list": "OPENSOURCEINSIGHTS",
+      "line": 4
+    }
+  }
+]
