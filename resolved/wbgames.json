@@ -1,0 +1,68 @@
+[
+  {
+    "type": "domain",
+    "value": "warnerbrosgames.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:warnerbrosgames.com",
+    "source": {
+      "list": "WBGAMES",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wbagora.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wbagora.com",
+    "source": {
+      "list": "WBGAMES",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wbgames.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wbgames.com",
+    "source": {
+      "list": "WBGAMES",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wbinsights.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wbinsights.com",
+    "source": {
+      "list": "WBGAMES",
+      "line": 6
+    }
+  },
+  {
+    "type": "full",
+    "value": "datarouter.apps.netherrealm.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:datarouter.apps.netherrealm.com",
+    "source": {
+      "list": "WBGAMES",
+      "line": 1
+    }
+  },
+  {
+    "type": "full",
+    "value": "wb-agora-hydra-file-storage-k1.s3.amazonaws.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:wb-agora-hydra-file-storage-k1.s3.amazonaws.com",
+    "source": {
+      "list": "WBGAMES",
+      "line": 2
+    }
+  }
+]

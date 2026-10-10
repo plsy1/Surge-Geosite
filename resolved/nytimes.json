@@ -1,0 +1,101 @@
+[
+  {
+    "type": "domain",
+    "value": "nyt.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nyt.com",
+    "source": {
+      "list": "NYTIMES",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nyt.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nyt.net",
+    "source": {
+      "list": "NYTIMES",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nytchina.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nytchina.com",
+    "source": {
+      "list": "NYTIMES",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nytcn.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nytcn.me",
+    "source": {
+      "list": "NYTIMES",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nytco.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nytco.com",
+    "source": {
+      "list": "NYTIMES",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nyti.ms",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nyti.ms",
+    "source": {
+      "list": "NYTIMES",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nytimes.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nytimes.com",
+    "source": {
+      "list": "NYTIMES",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nytstyle.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nytstyle.com",
+    "source": {
+      "list": "NYTIMES",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "timestalks.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:timestalks.com",
+    "source": {
+      "list": "NYTIMES",
+      "line": 9
+    }
+  }
+]

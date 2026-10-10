@@ -1,0 +1,46 @@
+[
+  {
+    "type": "domain",
+    "value": "ganjiangvpn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ganjiangvpn.com",
+    "source": {
+      "list": "XEDGE",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "glxcc.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:glxcc.net",
+    "source": {
+      "list": "XEDGE",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xedge.cc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xedge.cc",
+    "source": {
+      "list": "XEDGE",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn0.cc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn0.cc",
+    "source": {
+      "list": "XEDGE",
+      "line": 5
+    }
+  }
+]

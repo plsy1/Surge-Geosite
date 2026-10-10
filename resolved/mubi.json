@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "mubi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mubi.com",
+    "source": {
+      "list": "MUBI",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mubicdn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mubicdn.net",
+    "source": {
+      "list": "MUBI",
+      "line": 2
+    }
+  }
+]

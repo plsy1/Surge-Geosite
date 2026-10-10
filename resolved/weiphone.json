@@ -1,0 +1,46 @@
+[
+  {
+    "type": "domain",
+    "value": "feng.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:feng.com",
+    "source": {
+      "list": "WEIPHONE",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fengimg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fengimg.com",
+    "source": {
+      "list": "WEIPHONE",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "weiphone.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:weiphone.net",
+    "source": {
+      "list": "WEIPHONE",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wfdata.club",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wfdata.club",
+    "source": {
+      "list": "WEIPHONE",
+      "line": 4
+    }
+  }
+]

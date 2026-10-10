@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "digitalplayground.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:digitalplayground.com",
+    "source": {
+      "list": "DIGITALPLAYGROUND",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "digitalplaygroundnetwork.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:digitalplaygroundnetwork.com",
+    "source": {
+      "list": "DIGITALPLAYGROUND",
+      "line": 2
+    }
+  }
+]

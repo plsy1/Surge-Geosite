@@ -1,0 +1,214 @@
+[
+  {
+    "type": "domain",
+    "value": "applemusic.berlin",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:applemusic.berlin",
+    "source": {
+      "list": "APPLE-MUSIC",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "applemusic.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:applemusic.co",
+    "source": {
+      "list": "APPLE-MUSIC",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "applemusic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:applemusic.com",
+    "source": {
+      "list": "APPLE-MUSIC",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "applemusic.com.au",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:applemusic.com.au",
+    "source": {
+      "list": "APPLE-MUSIC",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "applemusic.hamburg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:applemusic.hamburg",
+    "source": {
+      "list": "APPLE-MUSIC",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "applemusic.wang",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:applemusic.wang",
+    "source": {
+      "list": "APPLE-MUSIC",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "applemusicconnect.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:applemusicconnect.com",
+    "source": {
+      "list": "APPLE-MUSIC",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "applemusicfestival.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:applemusicfestival.com",
+    "source": {
+      "list": "APPLE-MUSIC",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "music.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:music.apple.com",
+    "source": {
+      "list": "APPLE-MUSIC",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "musickit.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:musickit.net",
+    "source": {
+      "list": "APPLE-MUSIC",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wwwapplemusic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wwwapplemusic.com",
+    "source": {
+      "list": "APPLE-MUSIC",
+      "line": 10
+    }
+  },
+  {
+    "type": "full",
+    "value": "amp-api-edge.music.apple.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:amp-api-edge.music.apple.com:@cn",
+    "source": {
+      "list": "APPLE-MUSIC",
+      "line": 15
+    }
+  },
+  {
+    "type": "full",
+    "value": "amp-api.music.apple.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:amp-api.music.apple.com:@cn",
+    "source": {
+      "list": "APPLE-MUSIC",
+      "line": 16
+    }
+  },
+  {
+    "type": "full",
+    "value": "js-cdn.music.apple.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:js-cdn.music.apple.com:@cn",
+    "source": {
+      "list": "APPLE-MUSIC",
+      "line": 17
+    }
+  },
+  {
+    "type": "full",
+    "value": "music.apple.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:music.apple.com:@cn",
+    "source": {
+      "list": "APPLE-MUSIC",
+      "line": 18
+    }
+  },
+  {
+    "type": "full",
+    "value": "musicstatus.music.apple.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:musicstatus.music.apple.com:@cn",
+    "source": {
+      "list": "APPLE-MUSIC",
+      "line": 19
+    }
+  },
+  {
+    "type": "full",
+    "value": "play.music.apple.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:play.music.apple.com:@cn",
+    "source": {
+      "list": "APPLE-MUSIC",
+      "line": 20
+    }
+  },
+  {
+    "type": "full",
+    "value": "speedysub.music.apple.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:speedysub.music.apple.com:@cn",
+    "source": {
+      "list": "APPLE-MUSIC",
+      "line": 21
+    }
+  }
+]

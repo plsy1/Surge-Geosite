@@ -1,0 +1,153 @@
+[
+  {
+    "type": "domain",
+    "value": "apple.www.letv.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:apple.www.letv.com:@ads",
+    "source": {
+      "list": "LE",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ark.letv.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:ark.letv.com:@ads",
+    "source": {
+      "list": "LE",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dc.letv.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:dc.letv.com:@ads",
+    "source": {
+      "list": "LE",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "g3.letv.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:g3.letv.com:@ads",
+    "source": {
+      "list": "LE",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "le.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:le.com",
+    "source": {
+      "list": "LE",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "leautolink.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:leautolink.com",
+    "source": {
+      "list": "LE",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lecloud.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lecloud.com",
+    "source": {
+      "list": "LE",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lecloudapi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lecloudapi.com",
+    "source": {
+      "list": "LE",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lemall.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lemall.com",
+    "source": {
+      "list": "LE",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "leso.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:leso.cn",
+    "source": {
+      "list": "LE",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "letv.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:letv.com",
+    "source": {
+      "list": "LE",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "letvcdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:letvcdn.com",
+    "source": {
+      "list": "LE",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "letvimg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:letvimg.com",
+    "source": {
+      "list": "LE",
+      "line": 9
+    }
+  }
+]

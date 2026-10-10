@@ -1,0 +1,264 @@
+[
+  {
+    "type": "domain",
+    "value": "botmechanic.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:botmechanic.io",
+    "source": {
+      "list": "MINDBOX",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ceosummit.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ceosummit.ru",
+    "source": {
+      "list": "MINDBOX",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "e.mindbox.ru",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:e.mindbox.ru:@ads",
+    "source": {
+      "list": "MINDBOX",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "g.mindbox.ru",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:g.mindbox.ru:@ads",
+    "source": {
+      "list": "MINDBOX",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mind-box.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mind-box.ru",
+    "source": {
+      "list": "MINDBOX",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mindbox-notifications.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mindbox-notifications.ru",
+    "source": {
+      "list": "MINDBOX",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mindbox.cloud",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mindbox.cloud",
+    "source": {
+      "list": "MINDBOX",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mindbox.group",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mindbox.group",
+    "source": {
+      "list": "MINDBOX",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mindbox.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mindbox.ru",
+    "source": {
+      "list": "MINDBOX",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mindbox.site",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mindbox.site",
+    "source": {
+      "list": "MINDBOX",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mindbox.so",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mindbox.so",
+    "source": {
+      "list": "MINDBOX",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "popmechanic.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:popmechanic.io",
+    "source": {
+      "list": "MINDBOX",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "popmechanic.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:popmechanic.ru",
+    "source": {
+      "list": "MINDBOX",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "s.mindbox.ru",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:s.mindbox.ru:@ads",
+    "source": {
+      "list": "MINDBOX",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "summitceo.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:summitceo.ru",
+    "source": {
+      "list": "MINDBOX",
+      "line": 12
+    }
+  },
+  {
+    "type": "full",
+    "value": "api-js.mindbox.ru",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:api-js.mindbox.ru:@ads",
+    "source": {
+      "list": "MINDBOX",
+      "line": 18
+    }
+  },
+  {
+    "type": "full",
+    "value": "api-ru.mindbox.cloud",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:api-ru.mindbox.cloud:@ads",
+    "source": {
+      "list": "MINDBOX",
+      "line": 19
+    }
+  },
+  {
+    "type": "full",
+    "value": "api-staging.mindbox.ru",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:api-staging.mindbox.ru:@ads",
+    "source": {
+      "list": "MINDBOX",
+      "line": 20
+    }
+  },
+  {
+    "type": "full",
+    "value": "api.mindbox.cloud",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:api.mindbox.cloud:@ads",
+    "source": {
+      "list": "MINDBOX",
+      "line": 21
+    }
+  },
+  {
+    "type": "full",
+    "value": "api.mindbox.ru",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:api.mindbox.ru:@ads",
+    "source": {
+      "list": "MINDBOX",
+      "line": 22
+    }
+  },
+  {
+    "type": "full",
+    "value": "sentry.mindbox.ru",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:sentry.mindbox.ru:@ads",
+    "source": {
+      "list": "MINDBOX",
+      "line": 23
+    }
+  },
+  {
+    "type": "full",
+    "value": "sentry.popmechanic.ru",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:sentry.popmechanic.ru:@ads",
+    "source": {
+      "list": "MINDBOX",
+      "line": 24
+    }
+  }
+]

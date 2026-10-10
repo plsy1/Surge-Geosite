@@ -1,0 +1,244 @@
+[
+  {
+    "type": "domain",
+    "value": "bgr.in",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bgr.in",
+    "source": {
+      "list": "ZEE",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bollywoodlife.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bollywoodlife.com",
+    "source": {
+      "list": "ZEE",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "careerfundas.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:careerfundas.com",
+    "source": {
+      "list": "ZEE",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cricketcountry.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cricketcountry.com",
+    "source": {
+      "list": "ZEE",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dnai.in",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dnai.in",
+    "source": {
+      "list": "ZEE",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dnaindia.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dnaindia.com",
+    "source": {
+      "list": "ZEE",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "earngeek.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:earngeek.com",
+    "source": {
+      "list": "ZEE",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ekhindi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ekhindi.com",
+    "source": {
+      "list": "ZEE",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ind.sh",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ind.sh",
+    "source": {
+      "list": "ZEE",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "india.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:india.com",
+    "source": {
+      "list": "ZEE",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "indiancolleges.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:indiancolleges.com",
+    "source": {
+      "list": "ZEE",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "itripto.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:itripto.com",
+    "source": {
+      "list": "ZEE",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oncars.in",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oncars.in",
+    "source": {
+      "list": "ZEE",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "prepsure.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:prepsure.com",
+    "source": {
+      "list": "ZEE",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "thehealthsite.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:thehealthsite.com",
+    "source": {
+      "list": "ZEE",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wionews.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wionews.com",
+    "source": {
+      "list": "ZEE",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yo1health.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yo1health.com",
+    "source": {
+      "list": "ZEE",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zee.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zee.com",
+    "source": {
+      "list": "ZEE",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zeebiz.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zeebiz.com",
+    "source": {
+      "list": "ZEE",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zeeentertainment.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zeeentertainment.com",
+    "source": {
+      "list": "ZEE",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zeenews.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zeenews.com",
+    "source": {
+      "list": "ZEE",
+      "line": 21
+    }
+  },
+  {
+    "type": "full",
+    "value": "zeenews-fonts.s3.amazonaws.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:zeenews-fonts.s3.amazonaws.com",
+    "source": {
+      "list": "ZEE",
+      "line": 23
+    }
+  }
+]

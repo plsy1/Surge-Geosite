@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "ptcloud.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ptcloud.ru",
+    "source": {
+      "list": "POSITIVE-TECHNOLOGIES",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ptsecurity.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ptsecurity.com",
+    "source": {
+      "list": "POSITIVE-TECHNOLOGIES",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "standoff365.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:standoff365.com",
+    "source": {
+      "list": "POSITIVE-TECHNOLOGIES",
+      "line": 3
+    }
+  }
+]

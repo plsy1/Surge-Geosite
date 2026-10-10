@@ -1,0 +1,301 @@
+[
+  {
+    "type": "domain",
+    "value": "cn.pool.ntp.org",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:cn.pool.ntp.org:@cn",
+    "source": {
+      "list": "CATEGORY-NTP-CN",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ntp.neu.edu.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:ntp.neu.edu.cn:@cn",
+    "source": {
+      "list": "CATEGORY-NTP-CN",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ntp.ntsc.ac.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:ntp.ntsc.ac.cn:@cn",
+    "source": {
+      "list": "CATEGORY-NTP-CN",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ntp.org.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:ntp.org.cn:@cn",
+    "source": {
+      "list": "CATEGORY-NTP-CN",
+      "line": 33
+    }
+  },
+  {
+    "type": "full",
+    "value": "izattime.qcomgeo2.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:izattime.qcomgeo2.com:@cn",
+    "source": {
+      "list": "CATEGORY-NTP-CN",
+      "line": 18
+    }
+  },
+  {
+    "type": "full",
+    "value": "ntp.aliyun.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:ntp.aliyun.com:@cn",
+    "source": {
+      "list": "CATEGORY-NTP-CN",
+      "line": 3
+    }
+  },
+  {
+    "type": "full",
+    "value": "ntp.tencent.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:ntp.tencent.com:@cn",
+    "source": {
+      "list": "CATEGORY-NTP-CN",
+      "line": 23
+    }
+  },
+  {
+    "type": "full",
+    "value": "ntp1.aliyun.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:ntp1.aliyun.com:@cn",
+    "source": {
+      "list": "CATEGORY-NTP-CN",
+      "line": 4
+    }
+  },
+  {
+    "type": "full",
+    "value": "ntp1.tencent.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:ntp1.tencent.com:@cn",
+    "source": {
+      "list": "CATEGORY-NTP-CN",
+      "line": 24
+    }
+  },
+  {
+    "type": "full",
+    "value": "ntp2.aliyun.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:ntp2.aliyun.com:@cn",
+    "source": {
+      "list": "CATEGORY-NTP-CN",
+      "line": 5
+    }
+  },
+  {
+    "type": "full",
+    "value": "ntp2.tencent.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:ntp2.tencent.com:@cn",
+    "source": {
+      "list": "CATEGORY-NTP-CN",
+      "line": 25
+    }
+  },
+  {
+    "type": "full",
+    "value": "ntp3.aliyun.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:ntp3.aliyun.com:@cn",
+    "source": {
+      "list": "CATEGORY-NTP-CN",
+      "line": 6
+    }
+  },
+  {
+    "type": "full",
+    "value": "ntp3.tencent.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:ntp3.tencent.com:@cn",
+    "source": {
+      "list": "CATEGORY-NTP-CN",
+      "line": 26
+    }
+  },
+  {
+    "type": "full",
+    "value": "ntp4.aliyun.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:ntp4.aliyun.com:@cn",
+    "source": {
+      "list": "CATEGORY-NTP-CN",
+      "line": 7
+    }
+  },
+  {
+    "type": "full",
+    "value": "ntp4.tencent.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:ntp4.tencent.com:@cn",
+    "source": {
+      "list": "CATEGORY-NTP-CN",
+      "line": 27
+    }
+  },
+  {
+    "type": "full",
+    "value": "ntp5.aliyun.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:ntp5.aliyun.com:@cn",
+    "source": {
+      "list": "CATEGORY-NTP-CN",
+      "line": 8
+    }
+  },
+  {
+    "type": "full",
+    "value": "ntp5.tencent.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:ntp5.tencent.com:@cn",
+    "source": {
+      "list": "CATEGORY-NTP-CN",
+      "line": 28
+    }
+  },
+  {
+    "type": "full",
+    "value": "ntp6.aliyun.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:ntp6.aliyun.com:@cn",
+    "source": {
+      "list": "CATEGORY-NTP-CN",
+      "line": 9
+    }
+  },
+  {
+    "type": "full",
+    "value": "ntp7.aliyun.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:ntp7.aliyun.com:@cn",
+    "source": {
+      "list": "CATEGORY-NTP-CN",
+      "line": 10
+    }
+  },
+  {
+    "type": "full",
+    "value": "time.amazonaws.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:time.amazonaws.cn:@cn",
+    "source": {
+      "list": "CATEGORY-NTP-CN",
+      "line": 13
+    }
+  },
+  {
+    "type": "full",
+    "value": "time.izatcloud.net",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:time.izatcloud.net:@cn",
+    "source": {
+      "list": "CATEGORY-NTP-CN",
+      "line": 16
+    }
+  },
+  {
+    "type": "full",
+    "value": "time.xtracloud.net",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:time.xtracloud.net:@cn",
+    "source": {
+      "list": "CATEGORY-NTP-CN",
+      "line": 17
+    }
+  },
+  {
+    "type": "full",
+    "value": "xtratime.qcomgeo2.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:xtratime.qcomgeo2.com:@cn",
+    "source": {
+      "list": "CATEGORY-NTP-CN",
+      "line": 19
+    }
+  }
+]

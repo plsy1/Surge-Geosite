@@ -1,0 +1,46 @@
+[
+  {
+    "type": "domain",
+    "value": "crates.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:crates.io",
+    "source": {
+      "list": "RUST",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "docs.rs",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:docs.rs",
+    "source": {
+      "list": "RUST",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rust-lang.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rust-lang.org",
+    "source": {
+      "list": "RUST",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rustup.rs",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rustup.rs",
+    "source": {
+      "list": "RUST",
+      "line": 2
+    }
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "dart.dev",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dart.dev",
+    "source": {
+      "list": "DART",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dartlang.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dartlang.org",
+    "source": {
+      "list": "DART",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dartpad.dev",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dartpad.dev",
+    "source": {
+      "list": "DART",
+      "line": 3
+    }
+  }
+]

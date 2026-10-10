@@ -1,0 +1,57 @@
+[
+  {
+    "type": "domain",
+    "value": "clarivate.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:clarivate.com",
+    "source": {
+      "list": "CLARIVATE",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "isiknowledge.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:isiknowledge.com",
+    "source": {
+      "list": "SCI",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "newisiknowledge.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:newisiknowledge.com",
+    "source": {
+      "list": "SCI",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "webofknowledge.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:webofknowledge.com",
+    "source": {
+      "list": "CLARIVATE",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "webofscience.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:webofscience.com",
+    "source": {
+      "list": "CLARIVATE",
+      "line": 7
+    }
+  }
+]

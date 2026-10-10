@@ -1,0 +1,71 @@
+{
+  "name": "CATEGORY-DEV",
+  "source": {
+    "domain": 117,
+    "full": 0,
+    "keyword": 0,
+    "regexp": 0,
+    "include": 62,
+    "affiliations": 0,
+    "attributes": 0
+  },
+  "resolved": {
+    "rules": 662,
+    "domain": 576,
+    "full": 85,
+    "keyword": 0,
+    "regexp": 1
+  },
+  "filters": {
+    "attrs": {
+      "ads": 8,
+      "telemetry": 4,
+      "cn": 24
+    }
+  },
+  "modes": {
+    "strict": {
+      "rules": 661,
+      "bytes": 19883,
+      "regex": {
+        "total": 1,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 1
+      },
+      "unsupported": [
+        {
+          "pattern": ".+\\.dkr\\.ecr\\.[^\\.]+\\.amazonaws\\.com$",
+          "source": {
+            "list": "CATEGORY-CONTAINER",
+            "line": 12
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        }
+      ]
+    },
+    "balanced": {
+      "rules": 662,
+      "bytes": 19925,
+      "regex": {
+        "total": 1,
+        "lossless": 0,
+        "widened": 1,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "full": {
+      "rules": 662,
+      "bytes": 19925,
+      "regex": {
+        "total": 1,
+        "lossless": 0,
+        "widened": 1,
+        "unsupported": 0
+      },
+      "unsupported": []
+    }
+  }
+}

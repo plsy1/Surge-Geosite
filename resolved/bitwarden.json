@@ -1,0 +1,57 @@
+[
+  {
+    "type": "domain",
+    "value": "bitwarden.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bitwarden.com",
+    "source": {
+      "list": "BITWARDEN",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bitwarden.eu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bitwarden.eu",
+    "source": {
+      "list": "BITWARDEN",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bitwarden.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bitwarden.net",
+    "source": {
+      "list": "BITWARDEN",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "btwrdn.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:btwrdn.co",
+    "source": {
+      "list": "BITWARDEN",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "btwrdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:btwrdn.com",
+    "source": {
+      "list": "BITWARDEN",
+      "line": 5
+    }
+  }
+]

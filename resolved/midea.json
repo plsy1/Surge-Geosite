@@ -1,0 +1,101 @@
+[
+  {
+    "type": "domain",
+    "value": "irsnp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:irsnp.com",
+    "source": {
+      "list": "MIDEA",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mdcdn.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mdcdn.cn",
+    "source": {
+      "list": "MIDEA",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "midea.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:midea.cn",
+    "source": {
+      "list": "MIDEA",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "midea.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:midea.com",
+    "source": {
+      "list": "MIDEA",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "midea.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:midea.com.cn",
+    "source": {
+      "list": "MIDEA",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mideaepayuat.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mideaepayuat.com",
+    "source": {
+      "list": "MIDEA",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "msmartlife.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:msmartlife.cn",
+    "source": {
+      "list": "MIDEA",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "msmartlife.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:msmartlife.com",
+    "source": {
+      "list": "MIDEA",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "smartmidea.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:smartmidea.net",
+    "source": {
+      "list": "MIDEA",
+      "line": 9
+    }
+  }
+]

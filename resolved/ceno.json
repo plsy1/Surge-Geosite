@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "ceno.app",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ceno.app",
+    "source": {
+      "list": "CENO",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "censorship.no",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:censorship.no",
+    "source": {
+      "list": "CENO",
+      "line": 2
+    }
+  }
+]

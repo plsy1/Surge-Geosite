@@ -1,0 +1,46 @@
+[
+  {
+    "type": "domain",
+    "value": "andysparis.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:andysparis.com",
+    "source": {
+      "list": "NEWSMAX",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "newsmax.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:newsmax.com",
+    "source": {
+      "list": "NEWSMAX",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "newsmax.in",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:newsmax.in",
+    "source": {
+      "list": "NEWSMAX",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "newsmaxtv.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:newsmaxtv.com",
+    "source": {
+      "list": "NEWSMAX",
+      "line": 4
+    }
+  }
+]

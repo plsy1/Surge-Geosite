@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "anon-v.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:anon-v.com",
+    "source": {
+      "list": "ANON-V",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "anon-v.lol",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:anon-v.lol",
+    "source": {
+      "list": "ANON-V",
+      "line": 2
+    }
+  }
+]

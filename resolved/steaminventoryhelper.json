@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "sih-db.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sih-db.com",
+    "source": {
+      "list": "STEAMINVENTORYHELPER",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sih.app",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sih.app",
+    "source": {
+      "list": "STEAMINVENTORYHELPER",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "steaminventoryhelper.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:steaminventoryhelper.com",
+    "source": {
+      "list": "STEAMINVENTORYHELPER",
+      "line": 3
+    }
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "type": "domain",
+    "value": "djreprints.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:djreprints.com",
+    "source": {
+      "list": "DOWJONES",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dowjones.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dowjones.com",
+    "source": {
+      "list": "DOWJONES",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dowjones.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dowjones.io",
+    "source": {
+      "list": "DOWJONES",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dowjoneson.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dowjoneson.com",
+    "source": {
+      "list": "DOWJONES",
+      "line": 4
+    }
+  }
+]

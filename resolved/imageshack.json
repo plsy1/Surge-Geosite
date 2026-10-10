@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "imageshack.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:imageshack.com",
+    "source": {
+      "list": "IMAGESHACK",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "imageshack.us",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:imageshack.us",
+    "source": {
+      "list": "IMAGESHACK",
+      "line": 2
+    }
+  }
+]

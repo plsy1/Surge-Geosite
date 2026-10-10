@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "book.com.tw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:book.com.tw",
+    "source": {
+      "list": "BOOKS",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "books.com.tw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:books.com.tw",
+    "source": {
+      "list": "BOOKS",
+      "line": 2
+    }
+  }
+]

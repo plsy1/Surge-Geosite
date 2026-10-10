@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "tiancity.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tiancity.com",
+    "source": {
+      "list": "TIANCITY",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tiancitycdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tiancitycdn.com",
+    "source": {
+      "list": "TIANCITY",
+      "line": 2
+    }
+  }
+]

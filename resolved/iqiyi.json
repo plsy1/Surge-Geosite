@@ -1,0 +1,244 @@
+[
+  {
+    "type": "domain",
+    "value": "71.am",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:71.am",
+    "source": {
+      "list": "IQIYI",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "71edge.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:71edge.com",
+    "source": {
+      "list": "IQIYI",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ad.m.iqiyi.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:ad.m.iqiyi.com:@ads",
+    "source": {
+      "list": "IQIYI",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "afp.iqiyi.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:afp.iqiyi.com:@ads",
+    "source": {
+      "list": "IQIYI",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "c.uaa.iqiyi.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:c.uaa.iqiyi.com:@ads",
+    "source": {
+      "list": "IQIYI",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudpush.iqiyi.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:cloudpush.iqiyi.com:@ads",
+    "source": {
+      "list": "IQIYI",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cupid.iqiyi.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:cupid.iqiyi.com:@ads",
+    "source": {
+      "list": "IQIYI",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ifacelog.iqiyi.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:ifacelog.iqiyi.com:@ads",
+    "source": {
+      "list": "IQIYI",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "iq.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:iq.com:@!cn",
+    "source": {
+      "list": "IQIYI",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "iqiyi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:iqiyi.com",
+    "source": {
+      "list": "IQIYI",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "iqiyipic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:iqiyipic.com",
+    "source": {
+      "list": "IQIYI",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mbdlog.iqiyi.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:mbdlog.iqiyi.com:@ads",
+    "source": {
+      "list": "IQIYI",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "msg.video.qiyi.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:msg.video.qiyi.com:@ads",
+    "source": {
+      "list": "IQIYI",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "msg2.video.qiyi.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:msg2.video.qiyi.com:@ads",
+    "source": {
+      "list": "IQIYI",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "policy.video.iqiyi.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:policy.video.iqiyi.com:@ads",
+    "source": {
+      "list": "IQIYI",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pps.tv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pps.tv",
+    "source": {
+      "list": "IQIYI",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ppsimg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ppsimg.com",
+    "source": {
+      "list": "IQIYI",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qiyi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qiyi.com",
+    "source": {
+      "list": "IQIYI",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qiyipic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qiyipic.com",
+    "source": {
+      "list": "IQIYI",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qy.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qy.net",
+    "source": {
+      "list": "IQIYI",
+      "line": 9
+    }
+  }
+]

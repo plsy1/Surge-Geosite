@@ -1,0 +1,46 @@
+[
+  {
+    "type": "domain",
+    "value": "bintray.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bintray.com",
+    "source": {
+      "list": "JFROG",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jfrog.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jfrog.com",
+    "source": {
+      "list": "JFROG",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jfrog.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jfrog.org",
+    "source": {
+      "list": "JFROG",
+      "line": 2
+    }
+  },
+  {
+    "type": "full",
+    "value": "d29vzk4ow07wi7.cloudfront.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:d29vzk4ow07wi7.cloudfront.net",
+    "source": {
+      "list": "JFROG",
+      "line": 5
+    }
+  }
+]

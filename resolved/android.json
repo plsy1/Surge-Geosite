@@ -1,0 +1,46 @@
+[
+  {
+    "type": "domain",
+    "value": "android",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:android",
+    "source": {
+      "list": "ANDROID",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "android.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:android.com",
+    "source": {
+      "list": "ANDROID",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "androidify.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:androidify.com",
+    "source": {
+      "list": "ANDROID",
+      "line": 5
+    }
+  },
+  {
+    "type": "full",
+    "value": "android.googlesource.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:android.googlesource.com",
+    "source": {
+      "list": "ANDROID",
+      "line": 7
+    }
+  }
+]

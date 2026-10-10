@@ -1,0 +1,79 @@
+[
+  {
+    "type": "domain",
+    "value": "wfm.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wfm.com",
+    "source": {
+      "list": "WHOLEFOODSMARKET",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wholecitiesfoundation.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wholecitiesfoundation.org",
+    "source": {
+      "list": "WHOLEFOODSMARKET",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wholefoods.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wholefoods.com",
+    "source": {
+      "list": "WHOLEFOODSMARKET",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wholefoodsmarket.co.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wholefoodsmarket.co.uk",
+    "source": {
+      "list": "WHOLEFOODSMARKET",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wholefoodsmarket.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wholefoodsmarket.com",
+    "source": {
+      "list": "WHOLEFOODSMARKET",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wholekidsfoundation.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wholekidsfoundation.org",
+    "source": {
+      "list": "WHOLEFOODSMARKET",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wholeplanetfoundation.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wholeplanetfoundation.org",
+    "source": {
+      "list": "WHOLEFOODSMARKET",
+      "line": 7
+    }
+  }
+]

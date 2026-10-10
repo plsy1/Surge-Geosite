@@ -1,0 +1,96 @@
+[
+  {
+    "type": "domain",
+    "value": "farfetch-apps.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:farfetch-apps.com",
+    "source": {
+      "list": "FARFETCH",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "farfetch-contents.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:farfetch-contents.com",
+    "source": {
+      "list": "FARFETCH",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "farfetch.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:farfetch.cn:@cn",
+    "source": {
+      "list": "FARFETCH",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "farfetch.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:farfetch.com",
+    "source": {
+      "list": "FARFETCH",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "farfetch.com.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:farfetch.com.cn:@cn",
+    "source": {
+      "list": "FARFETCH",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "farfetch.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:farfetch.net",
+    "source": {
+      "list": "FARFETCH",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "farfetch.net.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:farfetch.net.cn:@cn",
+    "source": {
+      "list": "FARFETCH",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fflnk.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fflnk.net",
+    "source": {
+      "list": "FARFETCH",
+      "line": 8
+    }
+  }
+]

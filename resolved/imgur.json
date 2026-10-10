@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "imgur.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:imgur.com",
+    "source": {
+      "list": "IMGUR",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "imgur.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:imgur.io",
+    "source": {
+      "list": "IMGUR",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "imgurinc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:imgurinc.com",
+    "source": {
+      "list": "IMGUR",
+      "line": 3
+    }
+  }
+]

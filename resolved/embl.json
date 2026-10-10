@@ -1,0 +1,79 @@
+[
+  {
+    "type": "domain",
+    "value": "ebi.ac.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ebi.ac.uk",
+    "source": {
+      "list": "EMBL",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "embl-hamburg.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:embl-hamburg.de",
+    "source": {
+      "list": "EMBL",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "embl.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:embl.de",
+    "source": {
+      "list": "EMBL",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "embl.fr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:embl.fr",
+    "source": {
+      "list": "EMBL",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "embl.it",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:embl.it",
+    "source": {
+      "list": "EMBL",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "embl.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:embl.org",
+    "source": {
+      "list": "EMBL",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "emblstatic.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:emblstatic.net",
+    "source": {
+      "list": "EMBL",
+      "line": 7
+    }
+  }
+]

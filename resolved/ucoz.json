@@ -1,0 +1,409 @@
+[
+  {
+    "type": "domain",
+    "value": "at.ua",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:at.ua",
+    "source": {
+      "list": "UCOZ",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "narod.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:narod.ru",
+    "source": {
+      "list": "UCOZ",
+      "line": 42
+    }
+  },
+  {
+    "type": "domain",
+    "value": "scripts-for-ucoz.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:scripts-for-ucoz.ru",
+    "source": {
+      "list": "UCOZ",
+      "line": 43
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ucoz.ae",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ucoz.ae",
+    "source": {
+      "list": "UCOZ",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ucoz.club",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ucoz.club",
+    "source": {
+      "list": "UCOZ",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ucoz.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ucoz.co",
+    "source": {
+      "list": "UCOZ",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ucoz.co.il",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ucoz.co.il",
+    "source": {
+      "list": "UCOZ",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ucoz.co.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ucoz.co.uk",
+    "source": {
+      "list": "UCOZ",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ucoz.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ucoz.com",
+    "source": {
+      "list": "UCOZ",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ucoz.com.br",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ucoz.com.br",
+    "source": {
+      "list": "UCOZ",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ucoz.com.ro",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ucoz.com.ro",
+    "source": {
+      "list": "UCOZ",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ucoz.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ucoz.de",
+    "source": {
+      "list": "UCOZ",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ucoz.es",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ucoz.es",
+    "source": {
+      "list": "UCOZ",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ucoz.fr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ucoz.fr",
+    "source": {
+      "list": "UCOZ",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ucoz.hu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ucoz.hu",
+    "source": {
+      "list": "UCOZ",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ucoz.kz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ucoz.kz",
+    "source": {
+      "list": "UCOZ",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ucoz.lv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ucoz.lv",
+    "source": {
+      "list": "UCOZ",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ucoz.md",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ucoz.md",
+    "source": {
+      "list": "UCOZ",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ucoz.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ucoz.net",
+    "source": {
+      "list": "UCOZ",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ucoz.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ucoz.org",
+    "source": {
+      "list": "UCOZ",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ucoz.pl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ucoz.pl",
+    "source": {
+      "list": "UCOZ",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ucoz.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ucoz.ru",
+    "source": {
+      "list": "UCOZ",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ucoz.site",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ucoz.site",
+    "source": {
+      "list": "UCOZ",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ucoz.ua",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ucoz.ua",
+    "source": {
+      "list": "UCOZ",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ucozmail.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ucozmail.com",
+    "source": {
+      "list": "UCOZ",
+      "line": 44
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ucozmedia.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ucozmedia.com",
+    "source": {
+      "list": "UCOZ",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ucozmedia.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ucozmedia.ru",
+    "source": {
+      "list": "UCOZ",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ucoztemplates.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ucoztemplates.com",
+    "source": {
+      "list": "UCOZ",
+      "line": 45
+    }
+  },
+  {
+    "type": "domain",
+    "value": "uguide.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:uguide.ru",
+    "source": {
+      "list": "UCOZ",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "uguide.su",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:uguide.su",
+    "source": {
+      "list": "UCOZ",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ukit.ai",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ukit.ai",
+    "source": {
+      "list": "UCOZ",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ukit.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ukit.com",
+    "source": {
+      "list": "UCOZ",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ukit.group",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ukit.group",
+    "source": {
+      "list": "UCOZ",
+      "line": 37
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ukit.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ukit.me",
+    "source": {
+      "list": "UCOZ",
+      "line": 38
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ukoz.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ukoz.ru",
+    "source": {
+      "list": "UCOZ",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "usocial.pro",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:usocial.pro",
+    "source": {
+      "list": "UCOZ",
+      "line": 46
+    }
+  },
+  {
+    "type": "domain",
+    "value": "uweb.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:uweb.ru",
+    "source": {
+      "list": "UCOZ",
+      "line": 47
+    }
+  }
+]

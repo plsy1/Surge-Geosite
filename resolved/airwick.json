@@ -1,0 +1,444 @@
+[
+  {
+    "type": "domain",
+    "value": "airwick.at",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airwick.at",
+    "source": {
+      "list": "AIRWICK",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airwick.be",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airwick.be",
+    "source": {
+      "list": "AIRWICK",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airwick.ca",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airwick.ca",
+    "source": {
+      "list": "AIRWICK",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airwick.ch",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airwick.ch",
+    "source": {
+      "list": "AIRWICK",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airwick.cl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airwick.cl",
+    "source": {
+      "list": "AIRWICK",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airwick.co.in",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airwick.co.in",
+    "source": {
+      "list": "AIRWICK",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airwick.co.nz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airwick.co.nz",
+    "source": {
+      "list": "AIRWICK",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airwick.co.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airwick.co.uk",
+    "source": {
+      "list": "AIRWICK",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airwick.co.za",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airwick.co.za",
+    "source": {
+      "list": "AIRWICK",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airwick.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airwick.com",
+    "source": {
+      "list": "AIRWICK",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airwick.com.au",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airwick.com.au",
+    "source": {
+      "list": "AIRWICK",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airwick.com.br",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airwick.com.br",
+    "source": {
+      "list": "AIRWICK",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airwick.com.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:airwick.com.cn:@cn",
+    "source": {
+      "list": "AIRWICK",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airwick.com.mx",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airwick.com.mx",
+    "source": {
+      "list": "AIRWICK",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airwick.com.tr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airwick.com.tr",
+    "source": {
+      "list": "AIRWICK",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airwick.cz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airwick.cz",
+    "source": {
+      "list": "AIRWICK",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airwick.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airwick.de",
+    "source": {
+      "list": "AIRWICK",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airwick.dk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airwick.dk",
+    "source": {
+      "list": "AIRWICK",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airwick.es",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airwick.es",
+    "source": {
+      "list": "AIRWICK",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airwick.fi",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airwick.fi",
+    "source": {
+      "list": "AIRWICK",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airwick.fr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airwick.fr",
+    "source": {
+      "list": "AIRWICK",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airwick.hr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airwick.hr",
+    "source": {
+      "list": "AIRWICK",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airwick.hu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airwick.hu",
+    "source": {
+      "list": "AIRWICK",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airwick.ie",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airwick.ie",
+    "source": {
+      "list": "AIRWICK",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airwick.it",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airwick.it",
+    "source": {
+      "list": "AIRWICK",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airwick.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airwick.jp",
+    "source": {
+      "list": "AIRWICK",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airwick.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airwick.net",
+    "source": {
+      "list": "AIRWICK",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airwick.nl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airwick.nl",
+    "source": {
+      "list": "AIRWICK",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airwick.no",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airwick.no",
+    "source": {
+      "list": "AIRWICK",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airwick.pl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airwick.pl",
+    "source": {
+      "list": "AIRWICK",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airwick.pt",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airwick.pt",
+    "source": {
+      "list": "AIRWICK",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airwick.ro",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airwick.ro",
+    "source": {
+      "list": "AIRWICK",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airwick.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airwick.ru",
+    "source": {
+      "list": "AIRWICK",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airwick.se",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airwick.se",
+    "source": {
+      "list": "AIRWICK",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airwick.si",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airwick.si",
+    "source": {
+      "list": "AIRWICK",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airwick.sk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airwick.sk",
+    "source": {
+      "list": "AIRWICK",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airwick.tv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airwick.tv",
+    "source": {
+      "list": "AIRWICK",
+      "line": 37
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airwick.us",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airwick.us",
+    "source": {
+      "list": "AIRWICK",
+      "line": 38
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airwickarabia.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airwickarabia.com",
+    "source": {
+      "list": "AIRWICK",
+      "line": 39
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vipoo.es",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vipoo.es",
+    "source": {
+      "list": "AIRWICK",
+      "line": 40
+    }
+  }
+]

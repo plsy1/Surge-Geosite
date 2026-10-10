@@ -1,0 +1,46 @@
+[
+  {
+    "type": "domain",
+    "value": "grok.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:grok.com",
+    "source": {
+      "list": "XAI",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "grok.x.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:grok.x.com",
+    "source": {
+      "list": "XAI",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "grokipedia.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:grokipedia.com",
+    "source": {
+      "list": "XAI",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "x.ai",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:x.ai",
+    "source": {
+      "list": "XAI",
+      "line": 4
+    }
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "type": "domain",
+    "value": "codei.sh",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:codei.sh",
+    "source": {
+      "list": "HEROKU",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "codeish.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:codeish.co",
+    "source": {
+      "list": "HEROKU",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "codeish.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:codeish.io",
+    "source": {
+      "list": "HEROKU",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "heroku-app.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:heroku-app.com",
+    "source": {
+      "list": "HEROKU",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "heroku-charge.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:heroku-charge.com",
+    "source": {
+      "list": "HEROKU",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "heroku.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:heroku.co",
+    "source": {
+      "list": "HEROKU",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "heroku.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:heroku.com",
+    "source": {
+      "list": "HEROKU",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "heroku.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:heroku.me",
+    "source": {
+      "list": "HEROKU",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "herokuapp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:herokuapp.com",
+    "source": {
+      "list": "HEROKU",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "herokucdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:herokucdn.com",
+    "source": {
+      "list": "HEROKU",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "herokucharge.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:herokucharge.com",
+    "source": {
+      "list": "HEROKU",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "herokussl.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:herokussl.com",
+    "source": {
+      "list": "HEROKU",
+      "line": 7
+    }
+  }
+]

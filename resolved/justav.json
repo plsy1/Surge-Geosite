@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "hkporn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hkporn.net",
+    "source": {
+      "list": "JUSTAV",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "justav.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:justav.net",
+    "source": {
+      "list": "JUSTAV",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "twporn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:twporn.net",
+    "source": {
+      "list": "JUSTAV",
+      "line": 3
+    }
+  }
+]

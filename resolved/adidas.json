@@ -1,0 +1,998 @@
+[
+  {
+    "type": "domain",
+    "value": "adidas-archive.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:adidas-archive.org",
+    "source": {
+      "list": "ADIDAS",
+      "line": 57
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adidas-group.ca",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:adidas-group.ca",
+    "source": {
+      "list": "ADIDAS",
+      "line": 61
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adidas-group.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:adidas-group.com",
+    "source": {
+      "list": "ADIDAS",
+      "line": 62
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adidas.ae",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:adidas.ae",
+    "source": {
+      "list": "ADIDAS",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adidas.at",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:adidas.at",
+    "source": {
+      "list": "ADIDAS",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adidas.be",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:adidas.be",
+    "source": {
+      "list": "ADIDAS",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adidas.bh",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:adidas.bh",
+    "source": {
+      "list": "ADIDAS",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adidas.ca",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:adidas.ca",
+    "source": {
+      "list": "ADIDAS",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adidas.ch",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:adidas.ch",
+    "source": {
+      "list": "ADIDAS",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adidas.cl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:adidas.cl",
+    "source": {
+      "list": "ADIDAS",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adidas.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:adidas.cn:@cn",
+    "source": {
+      "list": "ADIDAS",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adidas.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:adidas.co",
+    "source": {
+      "list": "ADIDAS",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adidas.co.id",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:adidas.co.id",
+    "source": {
+      "list": "ADIDAS",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adidas.co.in",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:adidas.co.in",
+    "source": {
+      "list": "ADIDAS",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adidas.co.kr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:adidas.co.kr",
+    "source": {
+      "list": "ADIDAS",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adidas.co.nz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:adidas.co.nz",
+    "source": {
+      "list": "ADIDAS",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adidas.co.th",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:adidas.co.th",
+    "source": {
+      "list": "ADIDAS",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adidas.co.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:adidas.co.uk",
+    "source": {
+      "list": "ADIDAS",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adidas.co.za",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:adidas.co.za",
+    "source": {
+      "list": "ADIDAS",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adidas.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:adidas.com",
+    "source": {
+      "list": "ADIDAS",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adidas.com.ar",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:adidas.com.ar",
+    "source": {
+      "list": "ADIDAS",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adidas.com.au",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:adidas.com.au",
+    "source": {
+      "list": "ADIDAS",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adidas.com.br",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:adidas.com.br",
+    "source": {
+      "list": "ADIDAS",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adidas.com.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:adidas.com.cn:@cn",
+    "source": {
+      "list": "ADIDAS",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adidas.com.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:adidas.com.co",
+    "source": {
+      "list": "ADIDAS",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adidas.com.eg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:adidas.com.eg",
+    "source": {
+      "list": "ADIDAS",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adidas.com.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:adidas.com.hk",
+    "source": {
+      "list": "ADIDAS",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adidas.com.my",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:adidas.com.my",
+    "source": {
+      "list": "ADIDAS",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adidas.com.pe",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:adidas.com.pe",
+    "source": {
+      "list": "ADIDAS",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adidas.com.ph",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:adidas.com.ph",
+    "source": {
+      "list": "ADIDAS",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adidas.com.qa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:adidas.com.qa",
+    "source": {
+      "list": "ADIDAS",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adidas.com.sa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:adidas.com.sa",
+    "source": {
+      "list": "ADIDAS",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adidas.com.sg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:adidas.com.sg",
+    "source": {
+      "list": "ADIDAS",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adidas.com.tr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:adidas.com.tr",
+    "source": {
+      "list": "ADIDAS",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adidas.com.tw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:adidas.com.tw",
+    "source": {
+      "list": "ADIDAS",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adidas.com.vn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:adidas.com.vn",
+    "source": {
+      "list": "ADIDAS",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adidas.cz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:adidas.cz",
+    "source": {
+      "list": "ADIDAS",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adidas.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:adidas.de",
+    "source": {
+      "list": "ADIDAS",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adidas.dk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:adidas.dk",
+    "source": {
+      "list": "ADIDAS",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adidas.es",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:adidas.es",
+    "source": {
+      "list": "ADIDAS",
+      "line": 37
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adidas.fi",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:adidas.fi",
+    "source": {
+      "list": "ADIDAS",
+      "line": 38
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adidas.fr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:adidas.fr",
+    "source": {
+      "list": "ADIDAS",
+      "line": 39
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adidas.gr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:adidas.gr",
+    "source": {
+      "list": "ADIDAS",
+      "line": 40
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adidas.hu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:adidas.hu",
+    "source": {
+      "list": "ADIDAS",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adidas.ie",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:adidas.ie",
+    "source": {
+      "list": "ADIDAS",
+      "line": 42
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adidas.in",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:adidas.in",
+    "source": {
+      "list": "ADIDAS",
+      "line": 43
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adidas.it",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:adidas.it",
+    "source": {
+      "list": "ADIDAS",
+      "line": 44
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adidas.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:adidas.jp",
+    "source": {
+      "list": "ADIDAS",
+      "line": 45
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adidas.mx",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:adidas.mx",
+    "source": {
+      "list": "ADIDAS",
+      "line": 46
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adidas.nl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:adidas.nl",
+    "source": {
+      "list": "ADIDAS",
+      "line": 47
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adidas.no",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:adidas.no",
+    "source": {
+      "list": "ADIDAS",
+      "line": 48
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adidas.pe",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:adidas.pe",
+    "source": {
+      "list": "ADIDAS",
+      "line": 49
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adidas.pl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:adidas.pl",
+    "source": {
+      "list": "ADIDAS",
+      "line": 50
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adidas.pt",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:adidas.pt",
+    "source": {
+      "list": "ADIDAS",
+      "line": 51
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adidas.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:adidas.ru",
+    "source": {
+      "list": "ADIDAS",
+      "line": 52
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adidas.se",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:adidas.se",
+    "source": {
+      "list": "ADIDAS",
+      "line": 53
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adidas.sk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:adidas.sk",
+    "source": {
+      "list": "ADIDAS",
+      "line": 54
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adidasadmin.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:adidasadmin.com",
+    "source": {
+      "list": "ADIDAS",
+      "line": 55
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adidasarchive.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:adidasarchive.org",
+    "source": {
+      "list": "ADIDAS",
+      "line": 56
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adidasbadminton.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:adidasbadminton.com",
+    "source": {
+      "list": "ADIDAS",
+      "line": 58
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adidasboxing.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:adidasboxing.com",
+    "source": {
+      "list": "ADIDAS",
+      "line": 59
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adidascdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:adidascdn.com",
+    "source": {
+      "list": "ADIDAS",
+      "line": 60
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adidasgymnastics.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:adidasgymnastics.com",
+    "source": {
+      "list": "ADIDAS",
+      "line": 63
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adidashockey.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:adidashockey.com",
+    "source": {
+      "list": "ADIDAS",
+      "line": 64
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adidasmotorsport.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:adidasmotorsport.com",
+    "source": {
+      "list": "ADIDAS",
+      "line": 65
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adidassailing.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:adidassailing.com",
+    "source": {
+      "list": "ADIDAS",
+      "line": 66
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adidasspecialtysports.at",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:adidasspecialtysports.at",
+    "source": {
+      "list": "ADIDAS",
+      "line": 67
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adidasspecialtysports.be",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:adidasspecialtysports.be",
+    "source": {
+      "list": "ADIDAS",
+      "line": 68
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adidasspecialtysports.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:adidasspecialtysports.cn:@cn",
+    "source": {
+      "list": "ADIDAS",
+      "line": 69
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adidasspecialtysports.co.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:adidasspecialtysports.co.uk",
+    "source": {
+      "list": "ADIDAS",
+      "line": 70
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adidasspecialtysports.cz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:adidasspecialtysports.cz",
+    "source": {
+      "list": "ADIDAS",
+      "line": 71
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adidasspecialtysports.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:adidasspecialtysports.de",
+    "source": {
+      "list": "ADIDAS",
+      "line": 72
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adidasspecialtysports.dk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:adidasspecialtysports.dk",
+    "source": {
+      "list": "ADIDAS",
+      "line": 73
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adidasspecialtysports.es",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:adidasspecialtysports.es",
+    "source": {
+      "list": "ADIDAS",
+      "line": 74
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adidasspecialtysports.fi",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:adidasspecialtysports.fi",
+    "source": {
+      "list": "ADIDAS",
+      "line": 75
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adidasspecialtysports.fr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:adidasspecialtysports.fr",
+    "source": {
+      "list": "ADIDAS",
+      "line": 76
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adidasspecialtysports.ie",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:adidasspecialtysports.ie",
+    "source": {
+      "list": "ADIDAS",
+      "line": 77
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adidasspecialtysports.it",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:adidasspecialtysports.it",
+    "source": {
+      "list": "ADIDAS",
+      "line": 78
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adidasspecialtysports.nl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:adidasspecialtysports.nl",
+    "source": {
+      "list": "ADIDAS",
+      "line": 79
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adidasspecialtysports.pl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:adidasspecialtysports.pl",
+    "source": {
+      "list": "ADIDAS",
+      "line": 80
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adidasspecialtysports.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:adidasspecialtysports.ru",
+    "source": {
+      "list": "ADIDAS",
+      "line": 81
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adidasspecialtysports.se",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:adidasspecialtysports.se",
+    "source": {
+      "list": "ADIDAS",
+      "line": 82
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adidasspecialtysports.sk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:adidasspecialtysports.sk",
+    "source": {
+      "list": "ADIDAS",
+      "line": 83
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adidastabletennis.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:adidastabletennis.com",
+    "source": {
+      "list": "ADIDAS",
+      "line": 84
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adidasusnews.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:adidasusnews.com",
+    "source": {
+      "list": "ADIDAS",
+      "line": 85
+    }
+  },
+  {
+    "type": "domain",
+    "value": "miadidas.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:miadidas.com",
+    "source": {
+      "list": "ADIDAS",
+      "line": 86
+    }
+  },
+  {
+    "type": "domain",
+    "value": "micoach.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:micoach.com",
+    "source": {
+      "list": "ADIDAS",
+      "line": 87
+    }
+  },
+  {
+    "type": "domain",
+    "value": "miteam.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:miteam.com",
+    "source": {
+      "list": "ADIDAS",
+      "line": 88
+    }
+  },
+  {
+    "type": "domain",
+    "value": "shopadidas.ca",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:shopadidas.ca",
+    "source": {
+      "list": "ADIDAS",
+      "line": 89
+    }
+  },
+  {
+    "type": "domain",
+    "value": "shopadidas.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:shopadidas.com",
+    "source": {
+      "list": "ADIDAS",
+      "line": 90
+    }
+  }
+]

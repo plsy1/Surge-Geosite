@@ -1,0 +1,530 @@
+[
+  {
+    "type": "domain",
+    "value": "blox.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:blox.com",
+    "source": {
+      "list": "ROBLOX",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "goblocks.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:goblocks.com",
+    "source": {
+      "list": "ROBLOX",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "goblox.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:goblox.com",
+    "source": {
+      "list": "ROBLOX",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gooblox.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gooblox.com",
+    "source": {
+      "list": "ROBLOX",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "humancoexperience.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:humancoexperience.com",
+    "source": {
+      "list": "ROBLOX",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rblx.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rblx.co",
+    "source": {
+      "list": "ROBLOX",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rblx.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rblx.com",
+    "source": {
+      "list": "ROBLOX",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rblx.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rblx.org",
+    "source": {
+      "list": "ROBLOX",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rbx.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rbx.com",
+    "source": {
+      "list": "ROBLOX",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rbxcdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rbxcdn.com",
+    "source": {
+      "list": "ROBLOX",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rbxinfra.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rbxinfra.net",
+    "source": {
+      "list": "ROBLOX",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rbxlabs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rbxlabs.com",
+    "source": {
+      "list": "ROBLOX",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rbxtrk.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rbxtrk.com",
+    "source": {
+      "list": "ROBLOX",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ro-blox.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ro-blox.com",
+    "source": {
+      "list": "ROBLOX",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "roadblocks.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:roadblocks.com",
+    "source": {
+      "list": "ROBLOX",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "roblocks.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:roblocks.com",
+    "source": {
+      "list": "ROBLOX",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "roblox-api.arkoselabs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:roblox-api.arkoselabs.com",
+    "source": {
+      "list": "ROBLOX",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "roblox.ca",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:roblox.ca",
+    "source": {
+      "list": "ROBLOX",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "roblox.cc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:roblox.cc",
+    "source": {
+      "list": "ROBLOX",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "roblox.cl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:roblox.cl",
+    "source": {
+      "list": "ROBLOX",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "roblox.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:roblox.co.jp",
+    "source": {
+      "list": "ROBLOX",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "roblox.co.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:roblox.co.uk",
+    "source": {
+      "list": "ROBLOX",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "roblox.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:roblox.com",
+    "source": {
+      "list": "ROBLOX",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "roblox.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:roblox.de",
+    "source": {
+      "list": "ROBLOX",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "roblox.dk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:roblox.dk",
+    "source": {
+      "list": "ROBLOX",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "roblox.eu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:roblox.eu",
+    "source": {
+      "list": "ROBLOX",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "roblox.fr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:roblox.fr",
+    "source": {
+      "list": "ROBLOX",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "roblox.hu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:roblox.hu",
+    "source": {
+      "list": "ROBLOX",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "roblox.it",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:roblox.it",
+    "source": {
+      "list": "ROBLOX",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "roblox.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:roblox.jp",
+    "source": {
+      "list": "ROBLOX",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "roblox.kr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:roblox.kr",
+    "source": {
+      "list": "ROBLOX",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "roblox.mx",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:roblox.mx",
+    "source": {
+      "list": "ROBLOX",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "roblox.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:roblox.net",
+    "source": {
+      "list": "ROBLOX",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "roblox.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:roblox.org",
+    "source": {
+      "list": "ROBLOX",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "roblox.ph",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:roblox.ph",
+    "source": {
+      "list": "ROBLOX",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "roblox.pt",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:roblox.pt",
+    "source": {
+      "list": "ROBLOX",
+      "line": 37
+    }
+  },
+  {
+    "type": "domain",
+    "value": "roblox.sk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:roblox.sk",
+    "source": {
+      "list": "ROBLOX",
+      "line": 38
+    }
+  },
+  {
+    "type": "domain",
+    "value": "roblox.tv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:roblox.tv",
+    "source": {
+      "list": "ROBLOX",
+      "line": 39
+    }
+  },
+  {
+    "type": "domain",
+    "value": "roblox.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:roblox.uk",
+    "source": {
+      "list": "ROBLOX",
+      "line": 40
+    }
+  },
+  {
+    "type": "domain",
+    "value": "roblox.us",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:roblox.us",
+    "source": {
+      "list": "ROBLOX",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "roblox.vn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:roblox.vn",
+    "source": {
+      "list": "ROBLOX",
+      "line": 42
+    }
+  },
+  {
+    "type": "domain",
+    "value": "robloxlabs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:robloxlabs.com",
+    "source": {
+      "list": "ROBLOX",
+      "line": 43
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rowblocks.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rowblocks.com",
+    "source": {
+      "list": "ROBLOX",
+      "line": 44
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rowblox.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rowblox.com",
+    "source": {
+      "list": "ROBLOX",
+      "line": 45
+    }
+  },
+  {
+    "type": "full",
+    "value": "d1unuk07s6td74.cloudfront.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:d1unuk07s6td74.cloudfront.net",
+    "source": {
+      "list": "ROBLOX",
+      "line": 46
+    }
+  },
+  {
+    "type": "full",
+    "value": "roblox-load-generator-configuration.s3.us-east-2.amazonaws.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:roblox-load-generator-configuration.s3.us-east-2.amazonaws.com",
+    "source": {
+      "list": "ROBLOX",
+      "line": 47
+    }
+  },
+  {
+    "type": "full",
+    "value": "roblox-poc.global.ssl.fastly.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:roblox-poc.global.ssl.fastly.net",
+    "source": {
+      "list": "ROBLOX",
+      "line": 48
+    }
+  },
+  {
+    "type": "full",
+    "value": "robloxcorp.s.llnwi.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:robloxcorp.s.llnwi.net",
+    "source": {
+      "list": "ROBLOX",
+      "line": 49
+    }
+  }
+]

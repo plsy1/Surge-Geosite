@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "saraba1st.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:saraba1st.com",
+    "source": {
+      "list": "STAGE1ST",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "stage1st.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:stage1st.com",
+    "source": {
+      "list": "STAGE1ST",
+      "line": 2
+    }
+  }
+]

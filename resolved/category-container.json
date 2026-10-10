@@ -1,0 +1,112 @@
+[
+  {
+    "type": "domain",
+    "value": "azurecr.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:azurecr.io",
+    "source": {
+      "list": "CATEGORY-CONTAINER",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "docker.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:docker.io",
+    "source": {
+      "list": "CATEGORY-CONTAINER",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ecr.aws",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ecr.aws",
+    "source": {
+      "list": "CATEGORY-CONTAINER",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gcr.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gcr.io",
+    "source": {
+      "list": "CATEGORY-CONTAINER",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ghcr.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ghcr.io",
+    "source": {
+      "list": "CATEGORY-CONTAINER",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mcr.microsoft.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mcr.microsoft.com",
+    "source": {
+      "list": "CATEGORY-CONTAINER",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "quay.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:quay.io",
+    "source": {
+      "list": "CATEGORY-CONTAINER",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "registry.gitlab.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:registry.gitlab.com",
+    "source": {
+      "list": "CATEGORY-CONTAINER",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "registry.k8s.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:registry.k8s.io",
+    "source": {
+      "list": "CATEGORY-CONTAINER",
+      "line": 9
+    }
+  },
+  {
+    "type": "regexp",
+    "value": ".+\\.dkr\\.ecr\\.[^\\.]+\\.amazonaws\\.com$",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "regexp:.+\\.dkr\\.ecr\\.[^\\.]+\\.amazonaws\\.com$",
+    "source": {
+      "list": "CATEGORY-CONTAINER",
+      "line": 12
+    }
+  }
+]

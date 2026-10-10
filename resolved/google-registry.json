@@ -1,0 +1,145 @@
+[
+  {
+    "type": "domain",
+    "value": "charlestonroadregistry.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:charlestonroadregistry.com",
+    "source": {
+      "list": "GOOGLE-REGISTRY",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "crr.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:crr.com",
+    "source": {
+      "list": "GOOGLE-REGISTRY",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "get.app",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:get.app",
+    "source": {
+      "list": "GOOGLE-REGISTRY",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "get.dev",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:get.dev",
+    "source": {
+      "list": "GOOGLE-REGISTRY",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "get.how",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:get.how",
+    "source": {
+      "list": "GOOGLE-REGISTRY",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "get.new",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:get.new",
+    "source": {
+      "list": "GOOGLE-REGISTRY",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "get.page",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:get.page",
+    "source": {
+      "list": "GOOGLE-REGISTRY",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "get.rsvp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:get.rsvp",
+    "source": {
+      "list": "GOOGLE-REGISTRY",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hey.boo",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hey.boo",
+    "source": {
+      "list": "GOOGLE-REGISTRY",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "iam.soy",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:iam.soy",
+    "source": {
+      "list": "GOOGLE-REGISTRY",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "new.day",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:new.day",
+    "source": {
+      "list": "GOOGLE-REGISTRY",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "registry.google",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:registry.google",
+    "source": {
+      "list": "GOOGLE-REGISTRY",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--p8j9a0d9c9a.xn--q9jyb4c",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--p8j9a0d9c9a.xn--q9jyb4c",
+    "source": {
+      "list": "GOOGLE-REGISTRY",
+      "line": 14
+    }
+  }
+]

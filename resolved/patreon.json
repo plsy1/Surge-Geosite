@@ -1,0 +1,46 @@
+[
+  {
+    "type": "domain",
+    "value": "patreon.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:patreon.com",
+    "source": {
+      "list": "PATREON",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "patreoncommunity.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:patreoncommunity.com",
+    "source": {
+      "list": "PATREON",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "patreonusercontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:patreonusercontent.com",
+    "source": {
+      "list": "PATREON",
+      "line": 3
+    }
+  },
+  {
+    "type": "full",
+    "value": "live-patreon-marketing.pantheonsite.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:live-patreon-marketing.pantheonsite.io",
+    "source": {
+      "list": "PATREON",
+      "line": 5
+    }
+  }
+]

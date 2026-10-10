@@ -1,0 +1,67 @@
+{
+  "name": "PCCW",
+  "source": {
+    "domain": 4,
+    "full": 0,
+    "keyword": 0,
+    "regexp": 0,
+    "include": 3,
+    "affiliations": 0,
+    "attributes": 0
+  },
+  "resolved": {
+    "rules": 28,
+    "domain": 24,
+    "full": 3,
+    "keyword": 0,
+    "regexp": 1
+  },
+  "filters": {
+    "attrs": {}
+  },
+  "modes": {
+    "strict": {
+      "rules": 27,
+      "bytes": 733,
+      "regex": {
+        "total": 1,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 1
+      },
+      "unsupported": [
+        {
+          "pattern": "^ewcdn[0-9]+\\.nowe\\.com$",
+          "source": {
+            "list": "VIU",
+            "line": 4
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        }
+      ]
+    },
+    "balanced": {
+      "rules": 28,
+      "bytes": 765,
+      "regex": {
+        "total": 1,
+        "lossless": 0,
+        "widened": 1,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "full": {
+      "rules": 28,
+      "bytes": 765,
+      "regex": {
+        "total": 1,
+        "lossless": 0,
+        "widened": 1,
+        "unsupported": 0
+      },
+      "unsupported": []
+    }
+  }
+}

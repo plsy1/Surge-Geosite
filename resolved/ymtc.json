@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "ymtc.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ymtc.cn",
+    "source": {
+      "list": "YMTC",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ymtc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ymtc.com",
+    "source": {
+      "list": "YMTC",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ymtc.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ymtc.com.cn",
+    "source": {
+      "list": "YMTC",
+      "line": 3
+    }
+  }
+]

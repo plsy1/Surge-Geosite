@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "c-span.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:c-span.org",
+    "source": {
+      "list": "C-SPAN",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "c-spanvideo.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:c-spanvideo.org",
+    "source": {
+      "list": "C-SPAN",
+      "line": 2
+    }
+  }
+]

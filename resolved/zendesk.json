@@ -1,0 +1,68 @@
+[
+  {
+    "type": "domain",
+    "value": "outbound.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:outbound.io",
+    "source": {
+      "list": "ZENDESK",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zdassets.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zdassets.com",
+    "source": {
+      "list": "ZENDESK",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zdusercontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zdusercontent.com",
+    "source": {
+      "list": "ZENDESK",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zendesk.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zendesk.com",
+    "source": {
+      "list": "ZENDESK",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zndsk.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zndsk.com",
+    "source": {
+      "list": "ZENDESK",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zopim.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zopim.com",
+    "source": {
+      "list": "ZENDESK",
+      "line": 6
+    }
+  }
+]

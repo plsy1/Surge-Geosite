@@ -1,0 +1,57 @@
+[
+  {
+    "type": "domain",
+    "value": "cnet.co.kr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cnet.co.kr",
+    "source": {
+      "list": "CNET",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cnet.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cnet.com",
+    "source": {
+      "list": "CNET",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cnet.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cnet.de",
+    "source": {
+      "list": "CNET",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cnetfrance.fr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cnetfrance.fr",
+    "source": {
+      "list": "CNET",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "download.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:download.com",
+    "source": {
+      "list": "CNET",
+      "line": 7
+    }
+  }
+]

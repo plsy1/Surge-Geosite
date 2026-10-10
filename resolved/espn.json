@@ -1,0 +1,123 @@
+[
+  {
+    "type": "domain",
+    "value": "dtci.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dtci.co",
+    "source": {
+      "list": "ESPN",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dtci.technology",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dtci.technology",
+    "source": {
+      "list": "ESPN",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "espn.co.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:espn.co.uk",
+    "source": {
+      "list": "ESPN",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "espn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:espn.com",
+    "source": {
+      "list": "ESPN",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "espn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:espn.net",
+    "source": {
+      "list": "ESPN",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "espncdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:espncdn.com",
+    "source": {
+      "list": "ESPN",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "espnqa.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:espnqa.com",
+    "source": {
+      "list": "ESPN",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "watchespn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:watchespn.com",
+    "source": {
+      "list": "ESPN",
+      "line": 8
+    }
+  },
+  {
+    "type": "full",
+    "value": "espn.api.edge.bamgrid.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:espn.api.edge.bamgrid.com",
+    "source": {
+      "list": "ESPN",
+      "line": 10
+    }
+  },
+  {
+    "type": "full",
+    "value": "espn.hb.omtrdc.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:espn.hb.omtrdc.net",
+    "source": {
+      "list": "ESPN",
+      "line": 11
+    }
+  },
+  {
+    "type": "full",
+    "value": "espndotcom.tt.omtrdc.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:espndotcom.tt.omtrdc.net",
+    "source": {
+      "list": "ESPN",
+      "line": 12
+    }
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "type": "domain",
+    "value": "economist.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:economist.com",
+    "source": {
+      "list": "ECONOMIST",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "economistgroup.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:economistgroup.com",
+    "source": {
+      "list": "ECONOMIST",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "economistgroupcareers.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:economistgroupcareers.com",
+    "source": {
+      "list": "ECONOMIST",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "eiu.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:eiu.com",
+    "source": {
+      "list": "ECONOMIST",
+      "line": 4
+    }
+  }
+]

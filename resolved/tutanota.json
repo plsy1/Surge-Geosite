@@ -1,0 +1,68 @@
+[
+  {
+    "type": "domain",
+    "value": "keemail.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:keemail.me",
+    "source": {
+      "list": "TUTANOTA",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tuta.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tuta.com",
+    "source": {
+      "list": "TUTANOTA",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tuta.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tuta.io",
+    "source": {
+      "list": "TUTANOTA",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tutamail.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tutamail.com",
+    "source": {
+      "list": "TUTANOTA",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tutanota.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tutanota.com",
+    "source": {
+      "list": "TUTANOTA",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tutanota.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tutanota.de",
+    "source": {
+      "list": "TUTANOTA",
+      "line": 6
+    }
+  }
+]

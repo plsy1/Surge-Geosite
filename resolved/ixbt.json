@@ -1,0 +1,101 @@
+[
+  {
+    "type": "domain",
+    "value": "ixbt.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ixbt.com",
+    "source": {
+      "list": "IXBT",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ixbt.games",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ixbt.games",
+    "source": {
+      "list": "IXBT",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ixbt.market",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ixbt.market",
+    "source": {
+      "list": "IXBT",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ixbt.media",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ixbt.media",
+    "source": {
+      "list": "IXBT",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ixbt.pro",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ixbt.pro",
+    "source": {
+      "list": "IXBT",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ixbt.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ixbt.ru",
+    "source": {
+      "list": "IXBT",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ixbt.shop",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ixbt.shop",
+    "source": {
+      "list": "IXBT",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ixbt.site",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ixbt.site",
+    "source": {
+      "list": "IXBT",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ixbt.video",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ixbt.video",
+    "source": {
+      "list": "IXBT",
+      "line": 9
+    }
+  }
+]

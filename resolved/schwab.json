@@ -1,0 +1,79 @@
+[
+  {
+    "type": "domain",
+    "value": "aboutschwab.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aboutschwab.com",
+    "source": {
+      "list": "SCHWAB",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "schwab.co.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:schwab.co.uk",
+    "source": {
+      "list": "SCHWAB",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "schwab.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:schwab.com",
+    "source": {
+      "list": "SCHWAB",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "schwab.com.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:schwab.com.hk",
+    "source": {
+      "list": "SCHWAB",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "schwab.com.sg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:schwab.com.sg",
+    "source": {
+      "list": "SCHWAB",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "schwabassetmanagement.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:schwabassetmanagement.com",
+    "source": {
+      "list": "SCHWAB",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "schwabplan.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:schwabplan.com",
+    "source": {
+      "list": "SCHWAB",
+      "line": 8
+    }
+  }
+]

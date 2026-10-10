@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "sokolov.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sokolov.io",
+    "source": {
+      "list": "SOKOLOV",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sokolov.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sokolov.ru",
+    "source": {
+      "list": "SOKOLOV",
+      "line": 2
+    }
+  }
+]

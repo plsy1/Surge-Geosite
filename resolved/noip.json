@@ -1,0 +1,915 @@
+[
+  {
+    "type": "domain",
+    "value": "3utilities.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:3utilities.com",
+    "source": {
+      "list": "NOIP",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "access.ly",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:access.ly",
+    "source": {
+      "list": "NOIP",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "blogsyte.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:blogsyte.com",
+    "source": {
+      "list": "NOIP",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bounceme.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bounceme.net",
+    "source": {
+      "list": "NOIP",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "brasilia.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:brasilia.me",
+    "source": {
+      "list": "NOIP",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cable-modem.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cable-modem.org",
+    "source": {
+      "list": "NOIP",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ciscofreak.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ciscofreak.com",
+    "source": {
+      "list": "NOIP",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "collegefan.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:collegefan.org",
+    "source": {
+      "list": "NOIP",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "couchpotatofries.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:couchpotatofries.org",
+    "source": {
+      "list": "NOIP",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "damnserver.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:damnserver.com",
+    "source": {
+      "list": "NOIP",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ddns.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ddns.me",
+    "source": {
+      "list": "NOIP",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ddns.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ddns.net",
+    "source": {
+      "list": "NOIP",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ddnsking.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ddnsking.com",
+    "source": {
+      "list": "NOIP",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ditchyourip.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ditchyourip.com",
+    "source": {
+      "list": "NOIP",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dnsfor.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dnsfor.me",
+    "source": {
+      "list": "NOIP",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dnsiskinky.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dnsiskinky.com",
+    "source": {
+      "list": "NOIP",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dvrcam.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dvrcam.info",
+    "source": {
+      "list": "NOIP",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dynns.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dynns.com",
+    "source": {
+      "list": "NOIP",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "eating-organic.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:eating-organic.net",
+    "source": {
+      "list": "NOIP",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fantasyleague.cc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fantasyleague.cc",
+    "source": {
+      "list": "NOIP",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "freedynamicdns.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:freedynamicdns.net",
+    "source": {
+      "list": "NOIP",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "freedynamicdns.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:freedynamicdns.org",
+    "source": {
+      "list": "NOIP",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "geekgalaxy.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:geekgalaxy.com",
+    "source": {
+      "list": "NOIP",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "golffan.us",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:golffan.us",
+    "source": {
+      "list": "NOIP",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gotdns.ch",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gotdns.ch",
+    "source": {
+      "list": "NOIP",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "health-carereform.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:health-carereform.com",
+    "source": {
+      "list": "NOIP",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "homesecuritymac.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:homesecuritymac.com",
+    "source": {
+      "list": "NOIP",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "homesecuritypc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:homesecuritypc.com",
+    "source": {
+      "list": "NOIP",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hopto.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hopto.me",
+    "source": {
+      "list": "NOIP",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hopto.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hopto.org",
+    "source": {
+      "list": "NOIP",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hosthampster.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hosthampster.com",
+    "source": {
+      "list": "NOIP",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ilovecollege.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ilovecollege.info",
+    "source": {
+      "list": "NOIP",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "loginto.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:loginto.me",
+    "source": {
+      "list": "NOIP",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mlbfan.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mlbfan.org",
+    "source": {
+      "list": "NOIP",
+      "line": 37
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mmafan.biz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mmafan.biz",
+    "source": {
+      "list": "NOIP",
+      "line": 38
+    }
+  },
+  {
+    "type": "domain",
+    "value": "myactivedirectory.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:myactivedirectory.com",
+    "source": {
+      "list": "NOIP",
+      "line": 39
+    }
+  },
+  {
+    "type": "domain",
+    "value": "myddns.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:myddns.me",
+    "source": {
+      "list": "NOIP",
+      "line": 40
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mydissent.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mydissent.net",
+    "source": {
+      "list": "NOIP",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "myeffect.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:myeffect.net",
+    "source": {
+      "list": "NOIP",
+      "line": 42
+    }
+  },
+  {
+    "type": "domain",
+    "value": "myftp.biz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:myftp.biz",
+    "source": {
+      "list": "NOIP",
+      "line": 43
+    }
+  },
+  {
+    "type": "domain",
+    "value": "myftp.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:myftp.org",
+    "source": {
+      "list": "NOIP",
+      "line": 44
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mymediapc.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mymediapc.net",
+    "source": {
+      "list": "NOIP",
+      "line": 45
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mypsx.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mypsx.net",
+    "source": {
+      "list": "NOIP",
+      "line": 46
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mysecuritycamera.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mysecuritycamera.com",
+    "source": {
+      "list": "NOIP",
+      "line": 47
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mysecuritycamera.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mysecuritycamera.net",
+    "source": {
+      "list": "NOIP",
+      "line": 48
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mysecuritycamera.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mysecuritycamera.org",
+    "source": {
+      "list": "NOIP",
+      "line": 49
+    }
+  },
+  {
+    "type": "domain",
+    "value": "myvnc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:myvnc.com",
+    "source": {
+      "list": "NOIP",
+      "line": 50
+    }
+  },
+  {
+    "type": "domain",
+    "value": "net-freaks.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:net-freaks.com",
+    "source": {
+      "list": "NOIP",
+      "line": 51
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nflfan.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nflfan.org",
+    "source": {
+      "list": "NOIP",
+      "line": 52
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nhlfan.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nhlfan.net",
+    "source": {
+      "list": "NOIP",
+      "line": 53
+    }
+  },
+  {
+    "type": "domain",
+    "value": "onthewifi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:onthewifi.com",
+    "source": {
+      "list": "NOIP",
+      "line": 54
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pgafan.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pgafan.net",
+    "source": {
+      "list": "NOIP",
+      "line": 55
+    }
+  },
+  {
+    "type": "domain",
+    "value": "point2this.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:point2this.com",
+    "source": {
+      "list": "NOIP",
+      "line": 56
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pointto.us",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pointto.us",
+    "source": {
+      "list": "NOIP",
+      "line": 57
+    }
+  },
+  {
+    "type": "domain",
+    "value": "privatizehealthinsurance.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:privatizehealthinsurance.net",
+    "source": {
+      "list": "NOIP",
+      "line": 58
+    }
+  },
+  {
+    "type": "domain",
+    "value": "quicksytes.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:quicksytes.com",
+    "source": {
+      "list": "NOIP",
+      "line": 59
+    }
+  },
+  {
+    "type": "domain",
+    "value": "read-books.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:read-books.org",
+    "source": {
+      "list": "NOIP",
+      "line": 60
+    }
+  },
+  {
+    "type": "domain",
+    "value": "redirectme.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:redirectme.net",
+    "source": {
+      "list": "NOIP",
+      "line": 61
+    }
+  },
+  {
+    "type": "domain",
+    "value": "securitytactics.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:securitytactics.com",
+    "source": {
+      "list": "NOIP",
+      "line": 62
+    }
+  },
+  {
+    "type": "domain",
+    "value": "servebeer.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:servebeer.com",
+    "source": {
+      "list": "NOIP",
+      "line": 63
+    }
+  },
+  {
+    "type": "domain",
+    "value": "serveblog.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:serveblog.net",
+    "source": {
+      "list": "NOIP",
+      "line": 64
+    }
+  },
+  {
+    "type": "domain",
+    "value": "servecounterstrike.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:servecounterstrike.com",
+    "source": {
+      "list": "NOIP",
+      "line": 65
+    }
+  },
+  {
+    "type": "domain",
+    "value": "serveexchange.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:serveexchange.com",
+    "source": {
+      "list": "NOIP",
+      "line": 66
+    }
+  },
+  {
+    "type": "domain",
+    "value": "serveftp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:serveftp.com",
+    "source": {
+      "list": "NOIP",
+      "line": 67
+    }
+  },
+  {
+    "type": "domain",
+    "value": "servegame.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:servegame.com",
+    "source": {
+      "list": "NOIP",
+      "line": 68
+    }
+  },
+  {
+    "type": "domain",
+    "value": "servehalflife.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:servehalflife.com",
+    "source": {
+      "list": "NOIP",
+      "line": 69
+    }
+  },
+  {
+    "type": "domain",
+    "value": "servehttp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:servehttp.com",
+    "source": {
+      "list": "NOIP",
+      "line": 70
+    }
+  },
+  {
+    "type": "domain",
+    "value": "servehumour.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:servehumour.com",
+    "source": {
+      "list": "NOIP",
+      "line": 71
+    }
+  },
+  {
+    "type": "domain",
+    "value": "serveirc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:serveirc.com",
+    "source": {
+      "list": "NOIP",
+      "line": 72
+    }
+  },
+  {
+    "type": "domain",
+    "value": "serveminecraft.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:serveminecraft.net",
+    "source": {
+      "list": "NOIP",
+      "line": 73
+    }
+  },
+  {
+    "type": "domain",
+    "value": "servemp3.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:servemp3.com",
+    "source": {
+      "list": "NOIP",
+      "line": 74
+    }
+  },
+  {
+    "type": "domain",
+    "value": "servep2p.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:servep2p.com",
+    "source": {
+      "list": "NOIP",
+      "line": 75
+    }
+  },
+  {
+    "type": "domain",
+    "value": "servepics.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:servepics.com",
+    "source": {
+      "list": "NOIP",
+      "line": 76
+    }
+  },
+  {
+    "type": "domain",
+    "value": "servequake.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:servequake.com",
+    "source": {
+      "list": "NOIP",
+      "line": 77
+    }
+  },
+  {
+    "type": "domain",
+    "value": "servesarcasm.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:servesarcasm.com",
+    "source": {
+      "list": "NOIP",
+      "line": 78
+    }
+  },
+  {
+    "type": "domain",
+    "value": "stufftoread.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:stufftoread.com",
+    "source": {
+      "list": "NOIP",
+      "line": 79
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sytes.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sytes.net",
+    "source": {
+      "list": "NOIP",
+      "line": 80
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ufcfan.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ufcfan.org",
+    "source": {
+      "list": "NOIP",
+      "line": 81
+    }
+  },
+  {
+    "type": "domain",
+    "value": "unusualperson.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:unusualperson.com",
+    "source": {
+      "list": "NOIP",
+      "line": 82
+    }
+  },
+  {
+    "type": "domain",
+    "value": "viewdns.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:viewdns.net",
+    "source": {
+      "list": "NOIP",
+      "line": 83
+    }
+  },
+  {
+    "type": "domain",
+    "value": "webhop.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:webhop.me",
+    "source": {
+      "list": "NOIP",
+      "line": 84
+    }
+  },
+  {
+    "type": "domain",
+    "value": "workisboring.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:workisboring.com",
+    "source": {
+      "list": "NOIP",
+      "line": 85
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zapto.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zapto.org",
+    "source": {
+      "list": "NOIP",
+      "line": 86
+    }
+  }
+]

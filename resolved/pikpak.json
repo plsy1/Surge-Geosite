@@ -1,0 +1,81 @@
+[
+  {
+    "type": "domain",
+    "value": "mypikpak.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mypikpak.com",
+    "source": {
+      "list": "PIKPAK",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mypikpak.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mypikpak.net",
+    "source": {
+      "list": "PIKPAK",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pickpackapp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pickpackapp.com",
+    "source": {
+      "list": "PIKPAK",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pikpak.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pikpak.io",
+    "source": {
+      "list": "PIKPAK",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pikpak.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pikpak.me",
+    "source": {
+      "list": "PIKPAK",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pikpakdrive.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pikpakdrive.com",
+    "source": {
+      "list": "PIKPAK",
+      "line": 6
+    }
+  },
+  {
+    "type": "full",
+    "value": "o4504926511693824.ingest.sentry.io",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:o4504926511693824.ingest.sentry.io:@ads",
+    "source": {
+      "list": "PIKPAK",
+      "line": 9
+    }
+  }
+]

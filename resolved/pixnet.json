@@ -1,0 +1,101 @@
+[
+  {
+    "type": "domain",
+    "value": "pimg.tw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pimg.tw",
+    "source": {
+      "list": "PIXNET",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pixanalytics.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pixanalytics.com",
+    "source": {
+      "list": "PIXNET",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pixfs.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pixfs.net",
+    "source": {
+      "list": "PIXNET",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pixinsight.com.tw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pixinsight.com.tw",
+    "source": {
+      "list": "PIXNET",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pixnet.cc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pixnet.cc",
+    "source": {
+      "list": "PIXNET",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pixnet.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pixnet.net",
+    "source": {
+      "list": "PIXNET",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pixnet.pro",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pixnet.pro",
+    "source": {
+      "list": "PIXNET",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pixnet.tw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pixnet.tw",
+    "source": {
+      "list": "PIXNET",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pixplug.in",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pixplug.in",
+    "source": {
+      "list": "PIXNET",
+      "line": 9
+    }
+  }
+]

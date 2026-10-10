@@ -1,0 +1,310 @@
+[
+  {
+    "type": "domain",
+    "value": "ats1.e-timing.ne.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ats1.e-timing.ne.jp",
+    "source": {
+      "list": "CATEGORY-NTP-JP",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ntp-os01.ocn.ad.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ntp-os01.ocn.ad.jp",
+    "source": {
+      "list": "CATEGORY-NTP-JP",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ntp-tk01.ocn.ad.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ntp-tk01.ocn.ad.jp",
+    "source": {
+      "list": "CATEGORY-NTP-JP",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ntp-tk02.ocn.ad.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ntp-tk02.ocn.ad.jp",
+    "source": {
+      "list": "CATEGORY-NTP-JP",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ntp.dnsbalance.ring.gr.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ntp.dnsbalance.ring.gr.jp",
+    "source": {
+      "list": "CATEGORY-NTP-JP",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ntp.jst.mfeed.ad.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ntp.jst.mfeed.ad.jp",
+    "source": {
+      "list": "CATEGORY-NTP-JP",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ntp.nc.u-tokyo.ac.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ntp.nc.u-tokyo.ac.jp",
+    "source": {
+      "list": "CATEGORY-NTP-JP",
+      "line": 37
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ntp.nict.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ntp.nict.jp",
+    "source": {
+      "list": "CATEGORY-NTP-JP",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ntp.ring.gr.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ntp.ring.gr.jp",
+    "source": {
+      "list": "CATEGORY-NTP-JP",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ntp.t.ring.gr.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ntp.t.ring.gr.jp",
+    "source": {
+      "list": "CATEGORY-NTP-JP",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ntp.tohoku.ac.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ntp.tohoku.ac.jp",
+    "source": {
+      "list": "CATEGORY-NTP-JP",
+      "line": 40
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ntp.tut.ac.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ntp.tut.ac.jp",
+    "source": {
+      "list": "CATEGORY-NTP-JP",
+      "line": 45
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ntp0.ring.gr.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ntp0.ring.gr.jp",
+    "source": {
+      "list": "CATEGORY-NTP-JP",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ntp1.jst.mfeed.ad.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ntp1.jst.mfeed.ad.jp",
+    "source": {
+      "list": "CATEGORY-NTP-JP",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ntp1.plala.or.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ntp1.plala.or.jp",
+    "source": {
+      "list": "CATEGORY-NTP-JP",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ntp1.ring.gr.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ntp1.ring.gr.jp",
+    "source": {
+      "list": "CATEGORY-NTP-JP",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ntp1.tohoku.ac.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ntp1.tohoku.ac.jp",
+    "source": {
+      "list": "CATEGORY-NTP-JP",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ntp1.v6.mfeed.ad.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ntp1.v6.mfeed.ad.jp",
+    "source": {
+      "list": "CATEGORY-NTP-JP",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ntp1.wakwak.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ntp1.wakwak.com",
+    "source": {
+      "list": "CATEGORY-NTP-JP",
+      "line": 48
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ntp2.jst.mfeed.ad.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ntp2.jst.mfeed.ad.jp",
+    "source": {
+      "list": "CATEGORY-NTP-JP",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ntp2.plala.or.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ntp2.plala.or.jp",
+    "source": {
+      "list": "CATEGORY-NTP-JP",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ntp2.ring.gr.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ntp2.ring.gr.jp",
+    "source": {
+      "list": "CATEGORY-NTP-JP",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ntp2.tohoku.ac.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ntp2.tohoku.ac.jp",
+    "source": {
+      "list": "CATEGORY-NTP-JP",
+      "line": 42
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ntp2.v6.mfeed.ad.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ntp2.v6.mfeed.ad.jp",
+    "source": {
+      "list": "CATEGORY-NTP-JP",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ntp2.wakwak.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ntp2.wakwak.com",
+    "source": {
+      "list": "CATEGORY-NTP-JP",
+      "line": 49
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ntp3.jst.mfeed.ad.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ntp3.jst.mfeed.ad.jp",
+    "source": {
+      "list": "CATEGORY-NTP-JP",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ntp3.v6.mfeed.ad.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ntp3.v6.mfeed.ad.jp",
+    "source": {
+      "list": "CATEGORY-NTP-JP",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "s2csntp.miz.nao.ac.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:s2csntp.miz.nao.ac.jp",
+    "source": {
+      "list": "CATEGORY-NTP-JP",
+      "line": 14
+    }
+  }
+]

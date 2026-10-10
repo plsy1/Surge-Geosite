@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "mafengwo.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mafengwo.cn",
+    "source": {
+      "list": "MAFENGWO",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mafengwo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mafengwo.com",
+    "source": {
+      "list": "MAFENGWO",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mafengwo.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mafengwo.net",
+    "source": {
+      "list": "MAFENGWO",
+      "line": 3
+    }
+  }
+]

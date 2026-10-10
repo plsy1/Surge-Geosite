@@ -1,0 +1,541 @@
+[
+  {
+    "type": "domain",
+    "value": "band.us",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:band.us",
+    "source": {
+      "list": "NAVER",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "clova.ai",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:clova.ai",
+    "source": {
+      "list": "NAVER",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gcld-line.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gcld-line.com",
+    "source": {
+      "list": "LINE",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "grafolio.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:grafolio.com",
+    "source": {
+      "list": "NAVER",
+      "line": 42
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lin.ee",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lin.ee",
+    "source": {
+      "list": "LINE",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "line-apps-beta.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:line-apps-beta.com",
+    "source": {
+      "list": "LINE",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "line-apps-rc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:line-apps-rc.com",
+    "source": {
+      "list": "LINE",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "line-apps.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:line-apps.com",
+    "source": {
+      "list": "LINE",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "line-beta.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:line-beta.me",
+    "source": {
+      "list": "LINE",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "line-cdn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:line-cdn.net",
+    "source": {
+      "list": "LINE",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "line-scdn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:line-scdn.net",
+    "source": {
+      "list": "LINE",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "line.biz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:line.biz",
+    "source": {
+      "list": "LINE",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "line.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:line.me",
+    "source": {
+      "list": "LINE",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "linecorp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:linecorp.com",
+    "source": {
+      "list": "LINE",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "linefriends.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:linefriends.com",
+    "source": {
+      "list": "LINE",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "linefriends.com.tw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:linefriends.com.tw",
+    "source": {
+      "list": "LINE",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "linegame.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:linegame.jp",
+    "source": {
+      "list": "LINE",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "linemobile.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:linemobile.com",
+    "source": {
+      "list": "LINE",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "linemyshop.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:linemyshop.com",
+    "source": {
+      "list": "LINE",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lineshoppingseller.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lineshoppingseller.com",
+    "source": {
+      "list": "LINE",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "linetv.tw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:linetv.tw",
+    "source": {
+      "list": "LINE",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "modoo.at",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:modoo.at",
+    "source": {
+      "list": "NAVER",
+      "line": 43
+    }
+  },
+  {
+    "type": "domain",
+    "value": "naver.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:naver.com",
+    "source": {
+      "list": "NAVER",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "naver.com.akadns.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:naver.com.akadns.net",
+    "source": {
+      "list": "NAVER",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "naver.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:naver.jp",
+    "source": {
+      "list": "NAVER",
+      "line": 44
+    }
+  },
+  {
+    "type": "domain",
+    "value": "naver.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:naver.me",
+    "source": {
+      "list": "NAVER",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "naver.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:naver.net",
+    "source": {
+      "list": "NAVER",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "naverads.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:naverads.com",
+    "source": {
+      "list": "NAVER",
+      "line": 45
+    }
+  },
+  {
+    "type": "domain",
+    "value": "naverads.com.akadns.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:naverads.com.akadns.net",
+    "source": {
+      "list": "NAVER",
+      "line": 46
+    }
+  },
+  {
+    "type": "domain",
+    "value": "navercloudcorp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:navercloudcorp.com",
+    "source": {
+      "list": "NAVER",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "navercorp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:navercorp.com",
+    "source": {
+      "list": "NAVER",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "naverfincorp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:naverfincorp.com",
+    "source": {
+      "list": "NAVER",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "naverlabs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:naverlabs.com",
+    "source": {
+      "list": "NAVER",
+      "line": 47
+    }
+  },
+  {
+    "type": "domain",
+    "value": "naverncp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:naverncp.com",
+    "source": {
+      "list": "NAVER",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ncloud.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ncloud.com",
+    "source": {
+      "list": "NAVER",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nheos.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nheos.com",
+    "source": {
+      "list": "NAVER",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nhncorp.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nhncorp.jp",
+    "source": {
+      "list": "LINE",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "plug.game",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:plug.game",
+    "source": {
+      "list": "NAVER",
+      "line": 48
+    }
+  },
+  {
+    "type": "domain",
+    "value": "prismlive.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:prismlive.com",
+    "source": {
+      "list": "NAVER",
+      "line": 49
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pstatic.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pstatic.net",
+    "source": {
+      "list": "NAVER",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "snow.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:snow.me",
+    "source": {
+      "list": "NAVER",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "snowcorp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:snowcorp.com",
+    "source": {
+      "list": "NAVER",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "studiolico.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:studiolico.com",
+    "source": {
+      "list": "NAVER",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "studioncorp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:studioncorp.com",
+    "source": {
+      "list": "NAVER",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vday.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vday.io",
+    "source": {
+      "list": "NAVER",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wattpad.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wattpad.com",
+    "source": {
+      "list": "NAVER",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "webtoons.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:webtoons.com",
+    "source": {
+      "list": "NAVER",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "webtoonscorp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:webtoonscorp.com",
+    "source": {
+      "list": "NAVER",
+      "line": 37
+    }
+  },
+  {
+    "type": "domain",
+    "value": "worksmobile.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:worksmobile.com",
+    "source": {
+      "list": "NAVER",
+      "line": 19
+    }
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "type": "domain",
+    "value": "eca.hinet.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:eca.hinet.net",
+    "source": {
+      "list": "HINET-ECA",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gtlsca.nat.gov.tw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gtlsca.nat.gov.tw",
+    "source": {
+      "list": "HINET-ECA",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pki.hinet.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pki.hinet.net",
+    "source": {
+      "list": "HINET-ECA",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "publicca.hinet.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:publicca.hinet.net",
+    "source": {
+      "list": "HINET-ECA",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tls.hinet.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tls.hinet.net",
+    "source": {
+      "list": "HINET-ECA",
+      "line": 6
+    }
+  }
+]

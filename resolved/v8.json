@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "v8.dev",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:v8.dev",
+    "source": {
+      "list": "V8",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "v8project.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:v8project.org",
+    "source": {
+      "list": "V8",
+      "line": 2
+    }
+  }
+]

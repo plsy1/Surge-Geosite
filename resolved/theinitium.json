@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "init.shop",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:init.shop",
+    "source": {
+      "list": "THEINITIUM",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "theinitium.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:theinitium.com",
+    "source": {
+      "list": "THEINITIUM",
+      "line": 1
+    }
+  }
+]

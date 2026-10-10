@@ -1,0 +1,57 @@
+[
+  {
+    "type": "domain",
+    "value": "jkf.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jkf.net",
+    "source": {
+      "list": "JKF",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jkface.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jkface.net",
+    "source": {
+      "list": "JKF",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jkforum.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jkforum.net",
+    "source": {
+      "list": "JKF",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jr24h.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jr24h.com",
+    "source": {
+      "list": "JKF",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jvid.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jvid.com",
+    "source": {
+      "list": "JKF",
+      "line": 5
+    }
+  }
+]
