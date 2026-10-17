@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "livejournal.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:livejournal.com",
+    "source": {
+      "list": "LIVEJOURNAL",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "livejournal.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:livejournal.net",
+    "source": {
+      "list": "LIVEJOURNAL",
+      "line": 2
+    }
+  }
+]

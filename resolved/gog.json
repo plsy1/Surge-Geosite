@@ -1,0 +1,94 @@
+[
+  {
+    "type": "domain",
+    "value": "gog-services.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gog-services.com",
+    "source": {
+      "list": "GOG",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gog-statics.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gog-statics.com",
+    "source": {
+      "list": "GOG",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gog.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gog.com",
+    "source": {
+      "list": "GOG",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gogalaxy.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gogalaxy.com",
+    "source": {
+      "list": "GOG",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "insights-collector.gog.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:insights-collector.gog.com:@ads",
+    "source": {
+      "list": "GOG",
+      "line": 12
+    }
+  },
+  {
+    "type": "full",
+    "value": "gog-cdn-lumen.secure2.footprint.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:gog-cdn-lumen.secure2.footprint.net",
+    "source": {
+      "list": "GOG",
+      "line": 7
+    }
+  },
+  {
+    "type": "full",
+    "value": "gog-cdn.akamaized.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:gog-cdn.akamaized.net",
+    "source": {
+      "list": "GOG",
+      "line": 8
+    }
+  },
+  {
+    "type": "full",
+    "value": "gog.qtlglb.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:gog.qtlglb.com:@cn",
+    "source": {
+      "list": "GOG",
+      "line": 6
+    }
+  }
+]

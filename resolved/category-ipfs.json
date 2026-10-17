@@ -1,0 +1,233 @@
+[
+  {
+    "type": "domain",
+    "value": "4everland.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:4everland.io",
+    "source": {
+      "list": "CATEGORY-IPFS",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "c4rex.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:c4rex.co",
+    "source": {
+      "list": "CATEGORY-IPFS",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cf-ipfs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cf-ipfs.com",
+    "source": {
+      "list": "CLOUDFLARE-IPFS",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudflare-ipfs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudflare-ipfs.com",
+    "source": {
+      "list": "CLOUDFLARE-IPFS",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "crustwebsites.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:crustwebsites.net",
+    "source": {
+      "list": "CATEGORY-IPFS",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dweb.link",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dweb.link",
+    "source": {
+      "list": "CATEGORY-IPFS",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gateway.pinata.cloud",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gateway.pinata.cloud",
+    "source": {
+      "list": "CATEGORY-IPFS",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ipfs-gateway.cloud",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ipfs-gateway.cloud",
+    "source": {
+      "list": "CATEGORY-IPFS",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ipfs.anonymize.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ipfs.anonymize.com",
+    "source": {
+      "list": "CATEGORY-IPFS",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ipfs.best-practice.se",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ipfs.best-practice.se",
+    "source": {
+      "list": "CATEGORY-IPFS",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ipfs.eternum.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ipfs.eternum.io",
+    "source": {
+      "list": "CATEGORY-IPFS",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ipfs.eth.aragon.network",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ipfs.eth.aragon.network",
+    "source": {
+      "list": "CATEGORY-IPFS",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ipfs.fleek.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ipfs.fleek.co",
+    "source": {
+      "list": "CATEGORY-IPFS",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ipfs.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ipfs.io",
+    "source": {
+      "list": "CATEGORY-IPFS",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ipfs.lain.la",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ipfs.lain.la",
+    "source": {
+      "list": "CATEGORY-IPFS",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ipfs.runfission.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ipfs.runfission.com",
+    "source": {
+      "list": "CATEGORY-IPFS",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ipfs.tech",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ipfs.tech",
+    "source": {
+      "list": "CATEGORY-IPFS",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ipns.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ipns.co",
+    "source": {
+      "list": "CATEGORY-IPFS",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jorropo.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jorropo.net",
+    "source": {
+      "list": "CATEGORY-IPFS",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nftstorage.link",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nftstorage.link",
+    "source": {
+      "list": "CATEGORY-IPFS",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "via0.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:via0.com",
+    "source": {
+      "list": "CATEGORY-IPFS",
+      "line": 23
+    }
+  }
+]

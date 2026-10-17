@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "da-files.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:da-files.com",
+    "source": {
+      "list": "DEVIANTART",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "deviantart.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:deviantart.com",
+    "source": {
+      "list": "DEVIANTART",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "deviantart.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:deviantart.net",
+    "source": {
+      "list": "DEVIANTART",
+      "line": 2
+    }
+  }
+]

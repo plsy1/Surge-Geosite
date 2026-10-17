@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "neow.in",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:neow.in",
+    "source": {
+      "list": "NEOWIN",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "neowin.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:neowin.net",
+    "source": {
+      "list": "NEOWIN",
+      "line": 2
+    }
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "imagecurl.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:imagecurl.com",
+    "source": {
+      "list": "IMAGECURL",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "imagecurl.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:imagecurl.org",
+    "source": {
+      "list": "IMAGECURL",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "imgcrl.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:imgcrl.org",
+    "source": {
+      "list": "IMAGECURL",
+      "line": 3
+    }
+  }
+]

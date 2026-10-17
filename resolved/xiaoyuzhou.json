@@ -1,0 +1,57 @@
+[
+  {
+    "type": "domain",
+    "value": "podcast.xyz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:podcast.xyz",
+    "source": {
+      "list": "XIAOYUZHOU",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xiaoyuzhoufm.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xiaoyuzhoufm.com",
+    "source": {
+      "list": "XIAOYUZHOU",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xyzcdn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xyzcdn.net",
+    "source": {
+      "list": "XIAOYUZHOU",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xyzfm.link",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xyzfm.link",
+    "source": {
+      "list": "XIAOYUZHOU",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xyzfm.space",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xyzfm.space",
+    "source": {
+      "list": "XIAOYUZHOU",
+      "line": 2
+    }
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "type": "domain",
+    "value": "fengcx.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fengcx.com",
+    "source": {
+      "list": "PHOENIX",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fengedu.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fengedu.com",
+    "source": {
+      "list": "PHOENIX",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ifeng.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ifeng.com",
+    "source": {
+      "list": "PHOENIX",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ifengimg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ifengimg.com",
+    "source": {
+      "list": "PHOENIX",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ifengweekly.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ifengweekly.com",
+    "source": {
+      "list": "PHOENIX",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "phoenixcenter.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:phoenixcenter.cn",
+    "source": {
+      "list": "PHOENIX",
+      "line": 6
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "nexus-cdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nexus-cdn.com",
+    "source": {
+      "list": "NEXUSMODS",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nexusmods.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nexusmods.com",
+    "source": {
+      "list": "NEXUSMODS",
+      "line": 2
+    }
+  }
+]

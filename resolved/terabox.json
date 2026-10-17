@@ -1,0 +1,79 @@
+[
+  {
+    "type": "domain",
+    "value": "1024terabox.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:1024terabox.com",
+    "source": {
+      "list": "TERABOX",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bestclouddrive.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bestclouddrive.com",
+    "source": {
+      "list": "TERABOX",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "freeterabox.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:freeterabox.com",
+    "source": {
+      "list": "TERABOX",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nephobox.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nephobox.com",
+    "source": {
+      "list": "TERABOX",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "terabox.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:terabox.com",
+    "source": {
+      "list": "TERABOX",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "terabox1024.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:terabox1024.com",
+    "source": {
+      "list": "TERABOX",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "teraboxcdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:teraboxcdn.com",
+    "source": {
+      "list": "TERABOX",
+      "line": 7
+    }
+  }
+]

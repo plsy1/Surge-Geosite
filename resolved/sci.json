@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "isiknowledge.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:isiknowledge.com",
+    "source": {
+      "list": "SCI",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "newisiknowledge.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:newisiknowledge.com",
+    "source": {
+      "list": "SCI",
+      "line": 1
+    }
+  }
+]

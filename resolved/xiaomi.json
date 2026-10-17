@@ -1,0 +1,851 @@
+[
+  {
+    "type": "domain",
+    "value": "a.market.xiaomi.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:a.market.xiaomi.com:@ads",
+    "source": {
+      "list": "XIAOMI",
+      "line": 68
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ad.intl.xiaomi.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:ad.intl.xiaomi.com:@ads",
+    "source": {
+      "list": "XIAOMI",
+      "line": 69
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ad.mi.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:ad.mi.com:@ads",
+    "source": {
+      "list": "XIAOMI",
+      "line": 70
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ad.xiaomi.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:ad.xiaomi.com:@ads",
+    "source": {
+      "list": "XIAOMI",
+      "line": 71
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ad1.xiaomi.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:ad1.xiaomi.com:@ads",
+    "source": {
+      "list": "XIAOMI",
+      "line": 72
+    }
+  },
+  {
+    "type": "domain",
+    "value": "admob.xiaomi.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:admob.xiaomi.com:@ads",
+    "source": {
+      "list": "XIAOMI",
+      "line": 73
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adv.sec.intl.miui.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:adv.sec.intl.miui.com:@ads",
+    "source": {
+      "list": "XIAOMI",
+      "line": 74
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adv.sec.miui.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:adv.sec.miui.com:@ads",
+    "source": {
+      "list": "XIAOMI",
+      "line": 75
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airstarfinance.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airstarfinance.net",
+    "source": {
+      "list": "XIAOMI",
+      "line": 45
+    }
+  },
+  {
+    "type": "domain",
+    "value": "c.mi.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:c.mi.com:@!cn",
+    "source": {
+      "list": "XIAOMI",
+      "line": 64
+    }
+  },
+  {
+    "type": "domain",
+    "value": "data.mistat.india.xiaomi.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:data.mistat.india.xiaomi.com:@ads",
+    "source": {
+      "list": "XIAOMI",
+      "line": 76
+    }
+  },
+  {
+    "type": "domain",
+    "value": "data.mistat.intl.xiaomi.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:data.mistat.intl.xiaomi.com:@ads",
+    "source": {
+      "list": "XIAOMI",
+      "line": 77
+    }
+  },
+  {
+    "type": "domain",
+    "value": "data.mistat.rus.xiaomi.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:data.mistat.rus.xiaomi.com:@ads",
+    "source": {
+      "list": "XIAOMI",
+      "line": 78
+    }
+  },
+  {
+    "type": "domain",
+    "value": "data.mistat.xiaomi.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:data.mistat.xiaomi.com:@ads",
+    "source": {
+      "list": "XIAOMI",
+      "line": 79
+    }
+  },
+  {
+    "type": "domain",
+    "value": "duokan.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:duokan.com",
+    "source": {
+      "list": "XIAOMI",
+      "line": 49
+    }
+  },
+  {
+    "type": "domain",
+    "value": "duokanbox.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:duokanbox.com",
+    "source": {
+      "list": "XIAOMI",
+      "line": 50
+    }
+  },
+  {
+    "type": "domain",
+    "value": "global.market.xiaomi.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:global.market.xiaomi.com:@!cn",
+    "source": {
+      "list": "XIAOMI",
+      "line": 65
+    }
+  },
+  {
+    "type": "domain",
+    "value": "logupdate.avlyun.sec.miui.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:logupdate.avlyun.sec.miui.com:@ads",
+    "source": {
+      "list": "XIAOMI",
+      "line": 80
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mgslb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mgslb.com",
+    "source": {
+      "list": "XIAOMI",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mi-dun.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mi-dun.com",
+    "source": {
+      "list": "XIAOMI",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mi-fds.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mi-fds.com",
+    "source": {
+      "list": "XIAOMI",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mi-idc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mi-idc.com",
+    "source": {
+      "list": "XIAOMI",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mi-img.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mi-img.com",
+    "source": {
+      "list": "XIAOMI",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mi.com",
+    "source": {
+      "list": "XIAOMI",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "miaibox.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:miaibox.com",
+    "source": {
+      "list": "XIAOMI-AI",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mieco.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mieco.net",
+    "source": {
+      "list": "XIAOMI",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mifile.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mifile.cn",
+    "source": {
+      "list": "XIAOMI",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "migames.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:migames.com",
+    "source": {
+      "list": "XIAOMI",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mijia.tech",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mijia.tech",
+    "source": {
+      "list": "XIAOMI",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mioffice.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mioffice.cn",
+    "source": {
+      "list": "XIAOMI",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "miot-spec.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:miot-spec.org",
+    "source": {
+      "list": "XIAOMI-IOT",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mipay.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mipay.com",
+    "source": {
+      "list": "XIAOMI",
+      "line": 46
+    }
+  },
+  {
+    "type": "domain",
+    "value": "misc.in.duokanbox.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:misc.in.duokanbox.com:@ads",
+    "source": {
+      "list": "XIAOMI",
+      "line": 81
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mitvos.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mitvos.com",
+    "source": {
+      "list": "XIAOMI",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "miui.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:miui.com",
+    "source": {
+      "list": "XIAOMI",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "miwifi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:miwifi.com",
+    "source": {
+      "list": "XIAOMI",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "saxyit.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:saxyit.com",
+    "source": {
+      "list": "XIAOMI",
+      "line": 61
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sentry.d.mi.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:sentry.d.mi.com:@ads",
+    "source": {
+      "list": "XIAOMI",
+      "line": 82
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sentry.d.xiaomi.net",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:sentry.d.xiaomi.net:@ads",
+    "source": {
+      "list": "XIAOMI",
+      "line": 83
+    }
+  },
+  {
+    "type": "domain",
+    "value": "stats.music.xiaomi.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:stats.music.xiaomi.com:@ads",
+    "source": {
+      "list": "XIAOMI",
+      "line": 84
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tjqonline.cn",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:tjqonline.cn:@ads",
+    "source": {
+      "list": "XIAOMI",
+      "line": 85
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tracker.ai.xiaomi.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:tracker.ai.xiaomi.com:@ads",
+    "source": {
+      "list": "XIAOMI",
+      "line": 86
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tracker.xiaomixiaoai.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:tracker.xiaomixiaoai.com:@ads",
+    "source": {
+      "list": "XIAOMI",
+      "line": 87
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tracking.miui.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:tracking.miui.com:@ads",
+    "source": {
+      "list": "XIAOMI",
+      "line": 88
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wali.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wali.com",
+    "source": {
+      "list": "XIAOMI",
+      "line": 42
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xiaoaiassist.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xiaoaiassist.com",
+    "source": {
+      "list": "XIAOMI-AI",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xiaomi.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xiaomi.cn",
+    "source": {
+      "list": "XIAOMI",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xiaomi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xiaomi.com",
+    "source": {
+      "list": "XIAOMI",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xiaomi.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xiaomi.net",
+    "source": {
+      "list": "XIAOMI",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xiaomicp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xiaomicp.com",
+    "source": {
+      "list": "XIAOMI",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xiaomidns.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xiaomidns.cn",
+    "source": {
+      "list": "XIAOMI",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xiaomidns.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xiaomidns.com",
+    "source": {
+      "list": "XIAOMI",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xiaomidns.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xiaomidns.com.cn",
+    "source": {
+      "list": "XIAOMI",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xiaomidns.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xiaomidns.net",
+    "source": {
+      "list": "XIAOMI",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xiaomiev.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xiaomiev.com",
+    "source": {
+      "list": "XIAOMI",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xiaomiinc.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xiaomiinc.cn",
+    "source": {
+      "list": "XIAOMI",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xiaomiinc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xiaomiinc.com",
+    "source": {
+      "list": "XIAOMI",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xiaomiinc.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xiaomiinc.com.cn",
+    "source": {
+      "list": "XIAOMI",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xiaomiinc.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xiaomiinc.net",
+    "source": {
+      "list": "XIAOMI",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xiaomimimo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xiaomimimo.com",
+    "source": {
+      "list": "XIAOMI-AI",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xiaomimobile.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xiaomimobile.com",
+    "source": {
+      "list": "XIAOMI",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xiaominr.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xiaominr.com",
+    "source": {
+      "list": "XIAOMI",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xiaomiprint.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xiaomiprint.com",
+    "source": {
+      "list": "XIAOMI",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xiaomisa.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xiaomisa.cn",
+    "source": {
+      "list": "XIAOMI",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xiaomisa.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xiaomisa.com",
+    "source": {
+      "list": "XIAOMI",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xiaomisa.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xiaomisa.net",
+    "source": {
+      "list": "XIAOMI",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xiaomisa.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xiaomisa.org",
+    "source": {
+      "list": "XIAOMI",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xiaomiwear.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xiaomiwear.com",
+    "source": {
+      "list": "XIAOMI",
+      "line": 37
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xiaomixiaoai.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xiaomixiaoai.com",
+    "source": {
+      "list": "XIAOMI",
+      "line": 38
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xiaomiyoupin.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xiaomiyoupin.com",
+    "source": {
+      "list": "XIAOMI",
+      "line": 53
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youpin.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youpin.cn",
+    "source": {
+      "list": "XIAOMI",
+      "line": 54
+    }
+  },
+  {
+    "type": "domain",
+    "value": "youpin.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:youpin.com.cn",
+    "source": {
+      "list": "XIAOMI",
+      "line": 55
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zmifi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zmifi.com",
+    "source": {
+      "list": "XIAOMI",
+      "line": 58
+    }
+  }
+]

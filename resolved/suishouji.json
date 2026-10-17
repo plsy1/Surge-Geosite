@@ -1,0 +1,57 @@
+[
+  {
+    "type": "domain",
+    "value": "feidee.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:feidee.cn",
+    "source": {
+      "list": "SUISHOUJI",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "feidee.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:feidee.com",
+    "source": {
+      "list": "SUISHOUJI",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "feidee.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:feidee.net",
+    "source": {
+      "list": "SUISHOUJI",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ssjlicai.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ssjlicai.com",
+    "source": {
+      "list": "SUISHOUJI",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sui.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sui.com",
+    "source": {
+      "list": "SUISHOUJI",
+      "line": 5
+    }
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "type": "domain",
+    "value": "asktug.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:asktug.com",
+    "source": {
+      "list": "PINGCAP",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pingcap.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pingcap.cn",
+    "source": {
+      "list": "PINGCAP",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pingcap.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pingcap.com",
+    "source": {
+      "list": "PINGCAP",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tidb.ai",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tidb.ai",
+    "source": {
+      "list": "PINGCAP",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tidb.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tidb.net",
+    "source": {
+      "list": "PINGCAP",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tidbcloud.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tidbcloud.com",
+    "source": {
+      "list": "PINGCAP",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tikv.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tikv.org",
+    "source": {
+      "list": "PINGCAP",
+      "line": 7
+    }
+  }
+]

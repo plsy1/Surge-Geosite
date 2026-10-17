@@ -1,0 +1,57 @@
+[
+  {
+    "type": "domain",
+    "value": "cctalk.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cctalk.com",
+    "source": {
+      "list": "HUJIANG",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hjapi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hjapi.com",
+    "source": {
+      "list": "HUJIANG",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hjfile.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hjfile.cn",
+    "source": {
+      "list": "HUJIANG",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hujiang.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hujiang.com",
+    "source": {
+      "list": "HUJIANG",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yeshj.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yeshj.com",
+    "source": {
+      "list": "HUJIANG",
+      "line": 5
+    }
+  }
+]

@@ -1,0 +1,70 @@
+{
+  "name": "CATEGORY-ADS-AND-TELEMETRY",
+  "source": {
+    "domain": 0,
+    "full": 0,
+    "keyword": 0,
+    "regexp": 0,
+    "include": 2,
+    "affiliations": 0,
+    "attributes": 0
+  },
+  "resolved": {
+    "rules": 849,
+    "domain": 686,
+    "full": 162,
+    "keyword": 0,
+    "regexp": 1
+  },
+  "filters": {
+    "attrs": {
+      "ads": 730,
+      "telemetry": 6
+    }
+  },
+  "modes": {
+    "strict": {
+      "rules": 848,
+      "bytes": 26018,
+      "regex": {
+        "total": 1,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 1
+      },
+      "unsupported": [
+        {
+          "pattern": "^speed\\.(coe|open)\\.ad\\.[a-z]{2,6}\\.prod\\.hosts\\.ooklaserver\\.net$",
+          "source": {
+            "list": "OOKLA-SPEEDTEST",
+            "line": 19
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        }
+      ]
+    },
+    "balanced": {
+      "rules": 849,
+      "bytes": 26074,
+      "regex": {
+        "total": 1,
+        "lossless": 0,
+        "widened": 1,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "full": {
+      "rules": 849,
+      "bytes": 26074,
+      "regex": {
+        "total": 1,
+        "lossless": 0,
+        "widened": 1,
+        "unsupported": 0
+      },
+      "unsupported": []
+    }
+  }
+}

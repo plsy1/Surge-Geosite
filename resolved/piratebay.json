@@ -1,0 +1,46 @@
+[
+  {
+    "type": "domain",
+    "value": "apibay.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:apibay.org",
+    "source": {
+      "list": "PIRATEBAY",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pirates-forum.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pirates-forum.org",
+    "source": {
+      "list": "PIRATEBAY",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "thepiratebay.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:thepiratebay.org",
+    "source": {
+      "list": "PIRATEBAY",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "torrindex.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:torrindex.net",
+    "source": {
+      "list": "PIRATEBAY",
+      "line": 5
+    }
+  }
+]

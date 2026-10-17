@@ -1,0 +1,68 @@
+[
+  {
+    "type": "domain",
+    "value": "now-ashare.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:now-ashare.com",
+    "source": {
+      "list": "NOW",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "now-tv.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:now-tv.com",
+    "source": {
+      "list": "NOW",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "now.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:now.com",
+    "source": {
+      "list": "NOW",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "now.com.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:now.com.hk",
+    "source": {
+      "list": "NOW",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nowe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nowe.com",
+    "source": {
+      "list": "NOW",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nowe.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nowe.hk",
+    "source": {
+      "list": "NOW",
+      "line": 4
+    }
+  }
+]

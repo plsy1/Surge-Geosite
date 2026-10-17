@@ -1,0 +1,60 @@
+{
+  "name": "YANDEX",
+  "source": {
+    "domain": 136,
+    "full": 16,
+    "keyword": 0,
+    "regexp": 0,
+    "include": 1,
+    "affiliations": 0,
+    "attributes": 42
+  },
+  "resolved": {
+    "rules": 153,
+    "domain": 137,
+    "full": 16,
+    "keyword": 0,
+    "regexp": 0
+  },
+  "filters": {
+    "attrs": {
+      "ads": 41,
+      "cn": 1
+    }
+  },
+  "modes": {
+    "strict": {
+      "rules": 153,
+      "bytes": 4088,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "balanced": {
+      "rules": 153,
+      "bytes": 4088,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "full": {
+      "rules": 153,
+      "bytes": 4088,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    }
+  }
+}

@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "vrcdn.cloud",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vrcdn.cloud",
+    "source": {
+      "list": "VRCDN",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vrcdn.live",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vrcdn.live",
+    "source": {
+      "list": "VRCDN",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vrcdn.video",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vrcdn.video",
+    "source": {
+      "list": "VRCDN",
+      "line": 3
+    }
+  }
+]

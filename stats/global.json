@@ -1,0 +1,51 @@
+{
+  "lists": 1551,
+  "source": {
+    "domain": 330447,
+    "full": 4559,
+    "keyword": 0,
+    "regexp": 322,
+    "include": 1500,
+    "affiliations": 0,
+    "attributes": 2489
+  },
+  "resolved": {
+    "rules": 373314,
+    "domain": 366484,
+    "full": 6458,
+    "keyword": 0,
+    "regexp": 372
+  },
+  "modes": {
+    "strict": {
+      "rules": 372942,
+      "bytes": 12202306,
+      "regex": {
+        "total": 372,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 372
+      }
+    },
+    "balanced": {
+      "rules": 373313,
+      "bytes": 12214334,
+      "regex": {
+        "total": 372,
+        "lossless": 0,
+        "widened": 371,
+        "unsupported": 1
+      }
+    },
+    "full": {
+      "rules": 373314,
+      "bytes": 12214352,
+      "regex": {
+        "total": 372,
+        "lossless": 0,
+        "widened": 372,
+        "unsupported": 0
+      }
+    }
+  }
+}

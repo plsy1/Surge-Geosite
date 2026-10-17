@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "qt-project.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qt-project.org",
+    "source": {
+      "list": "QT",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qt.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qt.io",
+    "source": {
+      "list": "QT",
+      "line": 1
+    }
+  }
+]

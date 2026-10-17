@@ -1,0 +1,57 @@
+[
+  {
+    "type": "domain",
+    "value": "cpce-polyu.edu.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cpce-polyu.edu.hk",
+    "source": {
+      "list": "POLYU",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hkcc-polyu.edu.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hkcc-polyu.edu.hk",
+    "source": {
+      "list": "POLYU",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "polyu.edu.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:polyu.edu.hk",
+    "source": {
+      "list": "POLYU",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "polyu.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:polyu.hk",
+    "source": {
+      "list": "POLYU",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "speed-polyu.edu.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:speed-polyu.edu.hk",
+    "source": {
+      "list": "POLYU",
+      "line": 6
+    }
+  }
+]

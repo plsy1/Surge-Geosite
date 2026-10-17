@@ -1,0 +1,57 @@
+[
+  {
+    "type": "domain",
+    "value": "cygames.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cygames.co.jp",
+    "source": {
+      "list": "CYGAMES",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cygames.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cygames.jp",
+    "source": {
+      "list": "CYGAMES",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "umamusume.akamaized.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:umamusume.akamaized.net",
+    "source": {
+      "list": "CYGAMES",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "worldflipper.akamaized.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:worldflipper.akamaized.net",
+    "source": {
+      "list": "CYGAMES",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "worldflipper.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:worldflipper.jp",
+    "source": {
+      "list": "CYGAMES",
+      "line": 3
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "wamawama.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wamawama.com",
+    "source": {
+      "list": "WIWIDE",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wiwide.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wiwide.com",
+    "source": {
+      "list": "WIWIDE",
+      "line": 2
+    }
+  }
+]

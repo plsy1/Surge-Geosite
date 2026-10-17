@@ -1,0 +1,68 @@
+[
+  {
+    "type": "domain",
+    "value": "nikke-de.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nikke-de.com",
+    "source": {
+      "list": "NIKKE",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nikke-en.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nikke-en.com",
+    "source": {
+      "list": "NIKKE",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nikke-fr.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nikke-fr.com",
+    "source": {
+      "list": "NIKKE",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nikke-jp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nikke-jp.com",
+    "source": {
+      "list": "NIKKE",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nikke-kr.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nikke-kr.com",
+    "source": {
+      "list": "NIKKE",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nikke-sea.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nikke-sea.com",
+    "source": {
+      "list": "NIKKE",
+      "line": 6
+    }
+  }
+]

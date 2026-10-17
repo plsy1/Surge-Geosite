@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "coupang.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:coupang.com",
+    "source": {
+      "list": "COUPANG",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "coupangcdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:coupangcdn.com",
+    "source": {
+      "list": "COUPANG",
+      "line": 2
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "cnb.cool",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cnb.cool",
+    "source": {
+      "list": "CNB",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cnb.space",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cnb.space",
+    "source": {
+      "list": "CNB",
+      "line": 3
+    }
+  }
+]

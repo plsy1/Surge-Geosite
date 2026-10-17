@@ -1,0 +1,65 @@
+[
+  {
+    "type": "domain",
+    "value": "ads-api.duolingo.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:ads-api.duolingo.com:@ads",
+    "source": {
+      "list": "DUOLINGO",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "analytics.vpc.duolingo.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:analytics.vpc.duolingo.com:@ads",
+    "source": {
+      "list": "DUOLINGO",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "duolingo.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:duolingo.cn:@cn",
+    "source": {
+      "list": "DUOLINGO",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "duolingo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:duolingo.com",
+    "source": {
+      "list": "DUOLINGO",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "metrics.duolingo.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:metrics.duolingo.com:@ads",
+    "source": {
+      "list": "DUOLINGO",
+      "line": 7
+    }
+  }
+]

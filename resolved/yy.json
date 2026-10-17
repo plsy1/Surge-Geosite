@@ -1,0 +1,46 @@
+[
+  {
+    "type": "domain",
+    "value": "duowan.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:duowan.com",
+    "source": {
+      "list": "DUOWAN",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dwstatic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dwstatic.com",
+    "source": {
+      "list": "DUOWAN",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yy.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yy.com",
+    "source": {
+      "list": "YY",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yystatic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yystatic.com",
+    "source": {
+      "list": "YY",
+      "line": 4
+    }
+  }
+]

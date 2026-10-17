@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "sky.pro",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sky.pro",
+    "source": {
+      "list": "SKYENG",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "skyeng.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:skyeng.ru",
+    "source": {
+      "list": "SKYENG",
+      "line": 2
+    }
+  }
+]

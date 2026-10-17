@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "2ch.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:2ch.net",
+    "source": {
+      "list": "5CH",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "5ch.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:5ch.io",
+    "source": {
+      "list": "5CH",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "5ch.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:5ch.net",
+    "source": {
+      "list": "5CH",
+      "line": 3
+    }
+  }
+]

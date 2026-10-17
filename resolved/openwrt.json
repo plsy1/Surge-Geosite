@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "lede-project.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lede-project.org",
+    "source": {
+      "list": "OPENWRT",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "openwrt.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:openwrt.org",
+    "source": {
+      "list": "OPENWRT",
+      "line": 1
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "qcc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qcc.com",
+    "source": {
+      "list": "QCC",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qichacha.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qichacha.com",
+    "source": {
+      "list": "QCC",
+      "line": 2
+    }
+  }
+]

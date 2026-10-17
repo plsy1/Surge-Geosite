@@ -1,0 +1,57 @@
+[
+  {
+    "type": "domain",
+    "value": "launchpad.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:launchpad.net",
+    "source": {
+      "list": "LAUNCHPAD",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "launchpadcontent.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:launchpadcontent.net",
+    "source": {
+      "list": "LAUNCHPAD",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "launchpadlibrarian.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:launchpadlibrarian.com",
+    "source": {
+      "list": "LAUNCHPAD",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "launchpadlibrarian.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:launchpadlibrarian.net",
+    "source": {
+      "list": "LAUNCHPAD",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "launchpadlibrarian.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:launchpadlibrarian.org",
+    "source": {
+      "list": "LAUNCHPAD",
+      "line": 5
+    }
+  }
+]

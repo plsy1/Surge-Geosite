@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "beget.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:beget.com",
+    "source": {
+      "list": "BEGET",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "beget.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:beget.ru",
+    "source": {
+      "list": "BEGET",
+      "line": 2
+    }
+  }
+]

@@ -1,0 +1,277 @@
+[
+  {
+    "type": "domain",
+    "value": "askubuntu.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:askubuntu.com",
+    "source": {
+      "list": "STACKEXCHANGE",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "blogoverflow.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:blogoverflow.com",
+    "source": {
+      "list": "STACKEXCHANGE",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "codeforaliving.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:codeforaliving.io",
+    "source": {
+      "list": "STACKEXCHANGE",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mathoverflow.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mathoverflow.net",
+    "source": {
+      "list": "STACKEXCHANGE",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "serverfault.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:serverfault.com",
+    "source": {
+      "list": "STACKEXCHANGE",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sstatic.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sstatic.net",
+    "source": {
+      "list": "STACKEXCHANGE",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "stackapps.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:stackapps.com",
+    "source": {
+      "list": "STACKEXCHANGE",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "stackauth.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:stackauth.com",
+    "source": {
+      "list": "STACKEXCHANGE",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "stackexchange.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:stackexchange.com",
+    "source": {
+      "list": "STACKEXCHANGE",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "stackmod.blog",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:stackmod.blog",
+    "source": {
+      "list": "STACKEXCHANGE",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "stackoverflow.blog",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:stackoverflow.blog",
+    "source": {
+      "list": "STACKEXCHANGE",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "stackoverflow.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:stackoverflow.co",
+    "source": {
+      "list": "STACKEXCHANGE",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "stackoverflow.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:stackoverflow.com",
+    "source": {
+      "list": "STACKEXCHANGE",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "stackoverflow.email",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:stackoverflow.email",
+    "source": {
+      "list": "STACKEXCHANGE",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "stackoverflow.help",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:stackoverflow.help",
+    "source": {
+      "list": "STACKEXCHANGE",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "stackoverflow.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:stackoverflow.net",
+    "source": {
+      "list": "STACKEXCHANGE",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "stackoverflowbusiness.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:stackoverflowbusiness.com",
+    "source": {
+      "list": "STACKEXCHANGE",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "stackoverflowcareers.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:stackoverflowcareers.com",
+    "source": {
+      "list": "STACKEXCHANGE",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "stackoverflowjobs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:stackoverflowjobs.com",
+    "source": {
+      "list": "STACKEXCHANGE",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "stackoverflowsolutions.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:stackoverflowsolutions.com",
+    "source": {
+      "list": "STACKEXCHANGE",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "stackoverflowteams.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:stackoverflowteams.com",
+    "source": {
+      "list": "STACKEXCHANGE",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "stacksnippets.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:stacksnippets.net",
+    "source": {
+      "list": "STACKEXCHANGE",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "superuser.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:superuser.com",
+    "source": {
+      "list": "STACKEXCHANGE",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tex-talk.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tex-talk.net",
+    "source": {
+      "list": "STACKEXCHANGE",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "thesffblog.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:thesffblog.com",
+    "source": {
+      "list": "STACKEXCHANGE",
+      "line": 29
+    }
+  }
+]

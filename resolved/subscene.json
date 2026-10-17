@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "subscene.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:subscene.com",
+    "source": {
+      "list": "SUBSCENE",
+      "line": 2
+    }
+  },
+  {
+    "type": "full",
+    "value": "i.jeded.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:i.jeded.com",
+    "source": {
+      "list": "SUBSCENE",
+      "line": 5
+    }
+  }
+]

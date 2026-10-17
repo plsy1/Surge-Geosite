@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "postimages.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:postimages.org",
+    "source": {
+      "list": "POSTIMAGES",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "postimg.cc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:postimg.cc",
+    "source": {
+      "list": "POSTIMAGES",
+      "line": 2
+    }
+  }
+]

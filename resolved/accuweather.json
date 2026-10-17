@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "accuweather.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:accuweather.com",
+    "source": {
+      "list": "ACCUWEATHER",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "awxcdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:awxcdn.com",
+    "source": {
+      "list": "ACCUWEATHER",
+      "line": 2
+    }
+  }
+]

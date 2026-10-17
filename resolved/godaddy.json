@@ -1,0 +1,57 @@
+[
+  {
+    "type": "domain",
+    "value": "godaddy",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:godaddy",
+    "source": {
+      "list": "GODADDY",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "godaddy.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:godaddy.com",
+    "source": {
+      "list": "GODADDY",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "godaddy.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:godaddy.net",
+    "source": {
+      "list": "GODADDY",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wsimg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wsimg.com",
+    "source": {
+      "list": "GODADDY",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "x.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:x.co",
+    "source": {
+      "list": "GODADDY",
+      "line": 7
+    }
+  }
+]

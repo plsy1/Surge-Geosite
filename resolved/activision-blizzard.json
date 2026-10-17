@@ -1,0 +1,574 @@
+[
+  {
+    "type": "domain",
+    "value": "activision.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:activision.com",
+    "source": {
+      "list": "ACTIVISION",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "activisionblizzard.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:activisionblizzard.com",
+    "source": {
+      "list": "ACTIVISION-BLIZZARD",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "activisionblizzardmedia.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:activisionblizzardmedia.com",
+    "source": {
+      "list": "ACTIVISION-BLIZZARD",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "battle.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:battle.net",
+    "source": {
+      "list": "BLIZZARD",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "benefitsforeveryworld.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:benefitsforeveryworld.com",
+    "source": {
+      "list": "ACTIVISION-BLIZZARD",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "blizzard.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:blizzard.com",
+    "source": {
+      "list": "BLIZZARD",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "blizzardgearstore.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:blizzardgearstore.com",
+    "source": {
+      "list": "BLIZZARD",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "blz-contentstack.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:blz-contentstack.com",
+    "source": {
+      "list": "BLIZZARD",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "callofduty.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:callofduty.com",
+    "source": {
+      "list": "ACTIVISION",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "callofdutyendowment.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:callofdutyendowment.com",
+    "source": {
+      "list": "ACTIVISION",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "callofdutyendowment.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:callofdutyendowment.org",
+    "source": {
+      "list": "ACTIVISION",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "callofdutyleague.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:callofdutyleague.com",
+    "source": {
+      "list": "ACTIVISION",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "callofdutymobile.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:callofdutymobile.com",
+    "source": {
+      "list": "ACTIVISION",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "candycrush.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:candycrush.com",
+    "source": {
+      "list": "ACTIVISION-BLIZZARD",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "crashbandicoot.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:crashbandicoot.com",
+    "source": {
+      "list": "ACTIVISION",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "demonware.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:demonware.net",
+    "source": {
+      "list": "ACTIVISION",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "diablo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:diablo.com",
+    "source": {
+      "list": "BLIZZARD",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "diablo3.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:diablo3.com",
+    "source": {
+      "list": "BLIZZARD",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "diablo4.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:diablo4.com",
+    "source": {
+      "list": "BLIZZARD",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "diabloimmortal.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:diabloimmortal.com",
+    "source": {
+      "list": "BLIZZARD",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "europeanwarzoneseries.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:europeanwarzoneseries.com",
+    "source": {
+      "list": "ACTIVISION-BLIZZARD",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "firesidegatherings.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:firesidegatherings.com",
+    "source": {
+      "list": "BLIZZARD",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "heroesofthestorm.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:heroesofthestorm.com",
+    "source": {
+      "list": "BLIZZARD",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "highmoonstudios.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:highmoonstudios.com",
+    "source": {
+      "list": "ACTIVISION",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "infinityward.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:infinityward.com",
+    "source": {
+      "list": "ACTIVISION",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "king.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:king.com",
+    "source": {
+      "list": "ACTIVISION-BLIZZARD",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "playhearthstone.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:playhearthstone.com",
+    "source": {
+      "list": "BLIZZARD",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "playoverwatch.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:playoverwatch.com",
+    "source": {
+      "list": "BLIZZARD",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "playwarcraft3.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:playwarcraft3.com",
+    "source": {
+      "list": "BLIZZARD",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ravensoftware.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ravensoftware.com",
+    "source": {
+      "list": "ACTIVISION",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sekirothegame.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sekirothegame.com",
+    "source": {
+      "list": "ACTIVISION",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sierragames.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sierragames.com",
+    "source": {
+      "list": "ACTIVISION",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "skylanders.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:skylanders.com",
+    "source": {
+      "list": "ACTIVISION",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sledgehammergames.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sledgehammergames.com",
+    "source": {
+      "list": "ACTIVISION",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "solidstate.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:solidstate.com",
+    "source": {
+      "list": "ACTIVISION",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "spyrothedragon.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:spyrothedragon.com",
+    "source": {
+      "list": "ACTIVISION",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "starcraft.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:starcraft.com",
+    "source": {
+      "list": "BLIZZARD",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "starcraft2.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:starcraft2.com",
+    "source": {
+      "list": "BLIZZARD",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tonyhawk.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tonyhawk.com",
+    "source": {
+      "list": "ACTIVISION",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tonyhawkthegame.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tonyhawkthegame.com",
+    "source": {
+      "list": "ACTIVISION",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "treyarch.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:treyarch.com",
+    "source": {
+      "list": "ACTIVISION",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "worldofwarcraft.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:worldofwarcraft.com",
+    "source": {
+      "list": "BLIZZARD",
+      "line": 39
+    }
+  },
+  {
+    "type": "domain",
+    "value": "worldseriesofwarzone.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:worldseriesofwarzone.com",
+    "source": {
+      "list": "ACTIVISION",
+      "line": 22
+    }
+  },
+  {
+    "type": "full",
+    "value": "blizzard.nefficient.co.kr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:blizzard.nefficient.co.kr",
+    "source": {
+      "list": "BLIZZARD",
+      "line": 8
+    }
+  },
+  {
+    "type": "full",
+    "value": "blizzcon-a.akamaihd.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:blizzcon-a.akamaihd.net",
+    "source": {
+      "list": "BLIZZARD",
+      "line": 41
+    }
+  },
+  {
+    "type": "full",
+    "value": "blzddist1-a.akamaihd.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:blzddist1-a.akamaihd.net",
+    "source": {
+      "list": "BLIZZARD",
+      "line": 9
+    }
+  },
+  {
+    "type": "full",
+    "value": "blzddistkr1-a.akamaihd.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:blzddistkr1-a.akamaihd.net",
+    "source": {
+      "list": "BLIZZARD",
+      "line": 10
+    }
+  },
+  {
+    "type": "full",
+    "value": "blzmedia-a.akamaihd.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:blzmedia-a.akamaihd.net",
+    "source": {
+      "list": "BLIZZARD",
+      "line": 42
+    }
+  },
+  {
+    "type": "full",
+    "value": "blznav.akamaized.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:blznav.akamaized.net",
+    "source": {
+      "list": "BLIZZARD",
+      "line": 43
+    }
+  },
+  {
+    "type": "full",
+    "value": "bnetcmsus-a.akamaihd.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:bnetcmsus-a.akamaihd.net",
+    "source": {
+      "list": "BLIZZARD",
+      "line": 11
+    }
+  },
+  {
+    "type": "full",
+    "value": "bnetproduct-a.akamaihd.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:bnetproduct-a.akamaihd.net",
+    "source": {
+      "list": "BLIZZARD",
+      "line": 12
+    }
+  },
+  {
+    "type": "full",
+    "value": "bnetshopus.akamaized.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:bnetshopus.akamaized.net",
+    "source": {
+      "list": "BLIZZARD",
+      "line": 13
+    }
+  }
+]

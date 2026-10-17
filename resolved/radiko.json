@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "radiko-cf.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:radiko-cf.com",
+    "source": {
+      "list": "RADIKO",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "radiko.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:radiko.jp",
+    "source": {
+      "list": "RADIKO",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "smartstream.ne.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:smartstream.ne.jp",
+    "source": {
+      "list": "RADIKO",
+      "line": 5
+    }
+  }
+]

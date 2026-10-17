@@ -1,0 +1,167 @@
+[
+  {
+    "type": "domain",
+    "value": "oath.cloud",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oath.cloud",
+    "source": {
+      "list": "VERIZON",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oath.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oath.com",
+    "source": {
+      "list": "VERIZON",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ouroath.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ouroath.com",
+    "source": {
+      "list": "VERIZON",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "static-verizon.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:static-verizon.com",
+    "source": {
+      "list": "VERIZON",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "uplynk.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:uplynk.com",
+    "source": {
+      "list": "VERIZON",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "verizon.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:verizon.com",
+    "source": {
+      "list": "VERIZON",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "verizon.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:verizon.net",
+    "source": {
+      "list": "VERIZON",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "verizonbusinessfios.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:verizonbusinessfios.com",
+    "source": {
+      "list": "VERIZON",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "verizondigitalmedia.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:verizondigitalmedia.com",
+    "source": {
+      "list": "VERIZON",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "verizonenterprise.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:verizonenterprise.com",
+    "source": {
+      "list": "VERIZON",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "verizonfios.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:verizonfios.com",
+    "source": {
+      "list": "VERIZON",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "verizonmedia.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:verizonmedia.com",
+    "source": {
+      "list": "VERIZON",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "verizonwireless.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:verizonwireless.com",
+    "source": {
+      "list": "VERIZON",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vzw.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vzw.com",
+    "source": {
+      "list": "VERIZON",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xo.com",
+    "source": {
+      "list": "VERIZON",
+      "line": 16
+    }
+  }
+]

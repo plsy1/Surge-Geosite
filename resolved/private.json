@@ -1,0 +1,1443 @@
+[
+  {
+    "type": "domain",
+    "value": "1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa",
+    "source": {
+      "list": "PRIVATE",
+      "line": 49
+    }
+  },
+  {
+    "type": "domain",
+    "value": "10.in-addr.arpa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:10.in-addr.arpa",
+    "source": {
+      "list": "PRIVATE",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "100.100.in-addr.arpa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:100.100.in-addr.arpa",
+    "source": {
+      "list": "PRIVATE",
+      "line": 94
+    }
+  },
+  {
+    "type": "domain",
+    "value": "100.51.198.in-addr.arpa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:100.51.198.in-addr.arpa",
+    "source": {
+      "list": "PRIVATE",
+      "line": 43
+    }
+  },
+  {
+    "type": "domain",
+    "value": "101.100.in-addr.arpa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:101.100.in-addr.arpa",
+    "source": {
+      "list": "PRIVATE",
+      "line": 95
+    }
+  },
+  {
+    "type": "domain",
+    "value": "102.100.in-addr.arpa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:102.100.in-addr.arpa",
+    "source": {
+      "list": "PRIVATE",
+      "line": 96
+    }
+  },
+  {
+    "type": "domain",
+    "value": "103.100.in-addr.arpa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:103.100.in-addr.arpa",
+    "source": {
+      "list": "PRIVATE",
+      "line": 97
+    }
+  },
+  {
+    "type": "domain",
+    "value": "104.100.in-addr.arpa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:104.100.in-addr.arpa",
+    "source": {
+      "list": "PRIVATE",
+      "line": 98
+    }
+  },
+  {
+    "type": "domain",
+    "value": "105.100.in-addr.arpa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:105.100.in-addr.arpa",
+    "source": {
+      "list": "PRIVATE",
+      "line": 99
+    }
+  },
+  {
+    "type": "domain",
+    "value": "106.100.in-addr.arpa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:106.100.in-addr.arpa",
+    "source": {
+      "list": "PRIVATE",
+      "line": 100
+    }
+  },
+  {
+    "type": "domain",
+    "value": "107.100.in-addr.arpa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:107.100.in-addr.arpa",
+    "source": {
+      "list": "PRIVATE",
+      "line": 101
+    }
+  },
+  {
+    "type": "domain",
+    "value": "108.100.in-addr.arpa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:108.100.in-addr.arpa",
+    "source": {
+      "list": "PRIVATE",
+      "line": 102
+    }
+  },
+  {
+    "type": "domain",
+    "value": "109.100.in-addr.arpa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:109.100.in-addr.arpa",
+    "source": {
+      "list": "PRIVATE",
+      "line": 103
+    }
+  },
+  {
+    "type": "domain",
+    "value": "110.100.in-addr.arpa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:110.100.in-addr.arpa",
+    "source": {
+      "list": "PRIVATE",
+      "line": 104
+    }
+  },
+  {
+    "type": "domain",
+    "value": "111.100.in-addr.arpa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:111.100.in-addr.arpa",
+    "source": {
+      "list": "PRIVATE",
+      "line": 105
+    }
+  },
+  {
+    "type": "domain",
+    "value": "112.100.in-addr.arpa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:112.100.in-addr.arpa",
+    "source": {
+      "list": "PRIVATE",
+      "line": 106
+    }
+  },
+  {
+    "type": "domain",
+    "value": "113.0.203.in-addr.arpa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:113.0.203.in-addr.arpa",
+    "source": {
+      "list": "PRIVATE",
+      "line": 44
+    }
+  },
+  {
+    "type": "domain",
+    "value": "113.100.in-addr.arpa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:113.100.in-addr.arpa",
+    "source": {
+      "list": "PRIVATE",
+      "line": 107
+    }
+  },
+  {
+    "type": "domain",
+    "value": "114.100.in-addr.arpa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:114.100.in-addr.arpa",
+    "source": {
+      "list": "PRIVATE",
+      "line": 108
+    }
+  },
+  {
+    "type": "domain",
+    "value": "115.100.in-addr.arpa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:115.100.in-addr.arpa",
+    "source": {
+      "list": "PRIVATE",
+      "line": 109
+    }
+  },
+  {
+    "type": "domain",
+    "value": "116.100.in-addr.arpa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:116.100.in-addr.arpa",
+    "source": {
+      "list": "PRIVATE",
+      "line": 110
+    }
+  },
+  {
+    "type": "domain",
+    "value": "117.100.in-addr.arpa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:117.100.in-addr.arpa",
+    "source": {
+      "list": "PRIVATE",
+      "line": 111
+    }
+  },
+  {
+    "type": "domain",
+    "value": "118.100.in-addr.arpa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:118.100.in-addr.arpa",
+    "source": {
+      "list": "PRIVATE",
+      "line": 112
+    }
+  },
+  {
+    "type": "domain",
+    "value": "119.100.in-addr.arpa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:119.100.in-addr.arpa",
+    "source": {
+      "list": "PRIVATE",
+      "line": 113
+    }
+  },
+  {
+    "type": "domain",
+    "value": "120.100.in-addr.arpa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:120.100.in-addr.arpa",
+    "source": {
+      "list": "PRIVATE",
+      "line": 114
+    }
+  },
+  {
+    "type": "domain",
+    "value": "121.100.in-addr.arpa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:121.100.in-addr.arpa",
+    "source": {
+      "list": "PRIVATE",
+      "line": 115
+    }
+  },
+  {
+    "type": "domain",
+    "value": "122.100.in-addr.arpa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:122.100.in-addr.arpa",
+    "source": {
+      "list": "PRIVATE",
+      "line": 116
+    }
+  },
+  {
+    "type": "domain",
+    "value": "123.100.in-addr.arpa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:123.100.in-addr.arpa",
+    "source": {
+      "list": "PRIVATE",
+      "line": 117
+    }
+  },
+  {
+    "type": "domain",
+    "value": "124.100.in-addr.arpa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:124.100.in-addr.arpa",
+    "source": {
+      "list": "PRIVATE",
+      "line": 118
+    }
+  },
+  {
+    "type": "domain",
+    "value": "125.100.in-addr.arpa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:125.100.in-addr.arpa",
+    "source": {
+      "list": "PRIVATE",
+      "line": 119
+    }
+  },
+  {
+    "type": "domain",
+    "value": "126.100.in-addr.arpa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:126.100.in-addr.arpa",
+    "source": {
+      "list": "PRIVATE",
+      "line": 120
+    }
+  },
+  {
+    "type": "domain",
+    "value": "127.100.in-addr.arpa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:127.100.in-addr.arpa",
+    "source": {
+      "list": "PRIVATE",
+      "line": 121
+    }
+  },
+  {
+    "type": "domain",
+    "value": "127.in-addr.arpa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:127.in-addr.arpa",
+    "source": {
+      "list": "PRIVATE",
+      "line": 45
+    }
+  },
+  {
+    "type": "domain",
+    "value": "16.172.in-addr.arpa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:16.172.in-addr.arpa",
+    "source": {
+      "list": "PRIVATE",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "168.192.in-addr.arpa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:168.192.in-addr.arpa",
+    "source": {
+      "list": "PRIVATE",
+      "line": 46
+    }
+  },
+  {
+    "type": "domain",
+    "value": "17.172.in-addr.arpa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:17.172.in-addr.arpa",
+    "source": {
+      "list": "PRIVATE",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "18.172.in-addr.arpa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:18.172.in-addr.arpa",
+    "source": {
+      "list": "PRIVATE",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "19.172.in-addr.arpa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:19.172.in-addr.arpa",
+    "source": {
+      "list": "PRIVATE",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "2.0.192.in-addr.arpa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:2.0.192.in-addr.arpa",
+    "source": {
+      "list": "PRIVATE",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "20.172.in-addr.arpa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:20.172.in-addr.arpa",
+    "source": {
+      "list": "PRIVATE",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "21.172.in-addr.arpa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:21.172.in-addr.arpa",
+    "source": {
+      "list": "PRIVATE",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "22.172.in-addr.arpa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:22.172.in-addr.arpa",
+    "source": {
+      "list": "PRIVATE",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "23.172.in-addr.arpa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:23.172.in-addr.arpa",
+    "source": {
+      "list": "PRIVATE",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "24.172.in-addr.arpa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:24.172.in-addr.arpa",
+    "source": {
+      "list": "PRIVATE",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "25.172.in-addr.arpa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:25.172.in-addr.arpa",
+    "source": {
+      "list": "PRIVATE",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "254.169.in-addr.arpa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:254.169.in-addr.arpa",
+    "source": {
+      "list": "PRIVATE",
+      "line": 47
+    }
+  },
+  {
+    "type": "domain",
+    "value": "255.255.255.255.in-addr.arpa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:255.255.255.255.in-addr.arpa",
+    "source": {
+      "list": "PRIVATE",
+      "line": 48
+    }
+  },
+  {
+    "type": "domain",
+    "value": "26.172.in-addr.arpa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:26.172.in-addr.arpa",
+    "source": {
+      "list": "PRIVATE",
+      "line": 37
+    }
+  },
+  {
+    "type": "domain",
+    "value": "27.172.in-addr.arpa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:27.172.in-addr.arpa",
+    "source": {
+      "list": "PRIVATE",
+      "line": 38
+    }
+  },
+  {
+    "type": "domain",
+    "value": "28.172.in-addr.arpa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:28.172.in-addr.arpa",
+    "source": {
+      "list": "PRIVATE",
+      "line": 39
+    }
+  },
+  {
+    "type": "domain",
+    "value": "29.172.in-addr.arpa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:29.172.in-addr.arpa",
+    "source": {
+      "list": "PRIVATE",
+      "line": 40
+    }
+  },
+  {
+    "type": "domain",
+    "value": "30.172.in-addr.arpa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:30.172.in-addr.arpa",
+    "source": {
+      "list": "PRIVATE",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "31.172.in-addr.arpa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:31.172.in-addr.arpa",
+    "source": {
+      "list": "PRIVATE",
+      "line": 42
+    }
+  },
+  {
+    "type": "domain",
+    "value": "64.100.in-addr.arpa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:64.100.in-addr.arpa",
+    "source": {
+      "list": "PRIVATE",
+      "line": 58
+    }
+  },
+  {
+    "type": "domain",
+    "value": "65.100.in-addr.arpa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:65.100.in-addr.arpa",
+    "source": {
+      "list": "PRIVATE",
+      "line": 59
+    }
+  },
+  {
+    "type": "domain",
+    "value": "66.100.in-addr.arpa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:66.100.in-addr.arpa",
+    "source": {
+      "list": "PRIVATE",
+      "line": 60
+    }
+  },
+  {
+    "type": "domain",
+    "value": "67.100.in-addr.arpa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:67.100.in-addr.arpa",
+    "source": {
+      "list": "PRIVATE",
+      "line": 61
+    }
+  },
+  {
+    "type": "domain",
+    "value": "68.100.in-addr.arpa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:68.100.in-addr.arpa",
+    "source": {
+      "list": "PRIVATE",
+      "line": 62
+    }
+  },
+  {
+    "type": "domain",
+    "value": "69.100.in-addr.arpa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:69.100.in-addr.arpa",
+    "source": {
+      "list": "PRIVATE",
+      "line": 63
+    }
+  },
+  {
+    "type": "domain",
+    "value": "70.100.in-addr.arpa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:70.100.in-addr.arpa",
+    "source": {
+      "list": "PRIVATE",
+      "line": 64
+    }
+  },
+  {
+    "type": "domain",
+    "value": "71.100.in-addr.arpa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:71.100.in-addr.arpa",
+    "source": {
+      "list": "PRIVATE",
+      "line": 65
+    }
+  },
+  {
+    "type": "domain",
+    "value": "72.100.in-addr.arpa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:72.100.in-addr.arpa",
+    "source": {
+      "list": "PRIVATE",
+      "line": 66
+    }
+  },
+  {
+    "type": "domain",
+    "value": "73.100.in-addr.arpa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:73.100.in-addr.arpa",
+    "source": {
+      "list": "PRIVATE",
+      "line": 67
+    }
+  },
+  {
+    "type": "domain",
+    "value": "74.100.in-addr.arpa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:74.100.in-addr.arpa",
+    "source": {
+      "list": "PRIVATE",
+      "line": 68
+    }
+  },
+  {
+    "type": "domain",
+    "value": "75.100.in-addr.arpa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:75.100.in-addr.arpa",
+    "source": {
+      "list": "PRIVATE",
+      "line": 69
+    }
+  },
+  {
+    "type": "domain",
+    "value": "76.100.in-addr.arpa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:76.100.in-addr.arpa",
+    "source": {
+      "list": "PRIVATE",
+      "line": 70
+    }
+  },
+  {
+    "type": "domain",
+    "value": "77.100.in-addr.arpa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:77.100.in-addr.arpa",
+    "source": {
+      "list": "PRIVATE",
+      "line": 71
+    }
+  },
+  {
+    "type": "domain",
+    "value": "78.100.in-addr.arpa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:78.100.in-addr.arpa",
+    "source": {
+      "list": "PRIVATE",
+      "line": 72
+    }
+  },
+  {
+    "type": "domain",
+    "value": "79.100.in-addr.arpa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:79.100.in-addr.arpa",
+    "source": {
+      "list": "PRIVATE",
+      "line": 73
+    }
+  },
+  {
+    "type": "domain",
+    "value": "8.b.d.0.1.0.0.2.ip6.arpa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:8.b.d.0.1.0.0.2.ip6.arpa",
+    "source": {
+      "list": "PRIVATE",
+      "line": 50
+    }
+  },
+  {
+    "type": "domain",
+    "value": "8.e.f.ip6.arpa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:8.e.f.ip6.arpa",
+    "source": {
+      "list": "PRIVATE",
+      "line": 51
+    }
+  },
+  {
+    "type": "domain",
+    "value": "80.100.in-addr.arpa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:80.100.in-addr.arpa",
+    "source": {
+      "list": "PRIVATE",
+      "line": 74
+    }
+  },
+  {
+    "type": "domain",
+    "value": "81.100.in-addr.arpa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:81.100.in-addr.arpa",
+    "source": {
+      "list": "PRIVATE",
+      "line": 75
+    }
+  },
+  {
+    "type": "domain",
+    "value": "82.100.in-addr.arpa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:82.100.in-addr.arpa",
+    "source": {
+      "list": "PRIVATE",
+      "line": 76
+    }
+  },
+  {
+    "type": "domain",
+    "value": "83.100.in-addr.arpa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:83.100.in-addr.arpa",
+    "source": {
+      "list": "PRIVATE",
+      "line": 77
+    }
+  },
+  {
+    "type": "domain",
+    "value": "84.100.in-addr.arpa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:84.100.in-addr.arpa",
+    "source": {
+      "list": "PRIVATE",
+      "line": 78
+    }
+  },
+  {
+    "type": "domain",
+    "value": "85.100.in-addr.arpa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:85.100.in-addr.arpa",
+    "source": {
+      "list": "PRIVATE",
+      "line": 79
+    }
+  },
+  {
+    "type": "domain",
+    "value": "86.100.in-addr.arpa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:86.100.in-addr.arpa",
+    "source": {
+      "list": "PRIVATE",
+      "line": 80
+    }
+  },
+  {
+    "type": "domain",
+    "value": "87.100.in-addr.arpa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:87.100.in-addr.arpa",
+    "source": {
+      "list": "PRIVATE",
+      "line": 81
+    }
+  },
+  {
+    "type": "domain",
+    "value": "88.100.in-addr.arpa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:88.100.in-addr.arpa",
+    "source": {
+      "list": "PRIVATE",
+      "line": 82
+    }
+  },
+  {
+    "type": "domain",
+    "value": "89.100.in-addr.arpa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:89.100.in-addr.arpa",
+    "source": {
+      "list": "PRIVATE",
+      "line": 83
+    }
+  },
+  {
+    "type": "domain",
+    "value": "9.e.f.ip6.arpa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:9.e.f.ip6.arpa",
+    "source": {
+      "list": "PRIVATE",
+      "line": 52
+    }
+  },
+  {
+    "type": "domain",
+    "value": "90.100.in-addr.arpa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:90.100.in-addr.arpa",
+    "source": {
+      "list": "PRIVATE",
+      "line": 84
+    }
+  },
+  {
+    "type": "domain",
+    "value": "91.100.in-addr.arpa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:91.100.in-addr.arpa",
+    "source": {
+      "list": "PRIVATE",
+      "line": 85
+    }
+  },
+  {
+    "type": "domain",
+    "value": "92.100.in-addr.arpa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:92.100.in-addr.arpa",
+    "source": {
+      "list": "PRIVATE",
+      "line": 86
+    }
+  },
+  {
+    "type": "domain",
+    "value": "93.100.in-addr.arpa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:93.100.in-addr.arpa",
+    "source": {
+      "list": "PRIVATE",
+      "line": 87
+    }
+  },
+  {
+    "type": "domain",
+    "value": "94.100.in-addr.arpa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:94.100.in-addr.arpa",
+    "source": {
+      "list": "PRIVATE",
+      "line": 88
+    }
+  },
+  {
+    "type": "domain",
+    "value": "95.100.in-addr.arpa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:95.100.in-addr.arpa",
+    "source": {
+      "list": "PRIVATE",
+      "line": 89
+    }
+  },
+  {
+    "type": "domain",
+    "value": "96.100.in-addr.arpa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:96.100.in-addr.arpa",
+    "source": {
+      "list": "PRIVATE",
+      "line": 90
+    }
+  },
+  {
+    "type": "domain",
+    "value": "97.100.in-addr.arpa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:97.100.in-addr.arpa",
+    "source": {
+      "list": "PRIVATE",
+      "line": 91
+    }
+  },
+  {
+    "type": "domain",
+    "value": "98.100.in-addr.arpa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:98.100.in-addr.arpa",
+    "source": {
+      "list": "PRIVATE",
+      "line": 92
+    }
+  },
+  {
+    "type": "domain",
+    "value": "99.100.in-addr.arpa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:99.100.in-addr.arpa",
+    "source": {
+      "list": "PRIVATE",
+      "line": 93
+    }
+  },
+  {
+    "type": "domain",
+    "value": "a.e.f.ip6.arpa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:a.e.f.ip6.arpa",
+    "source": {
+      "list": "PRIVATE",
+      "line": 53
+    }
+  },
+  {
+    "type": "domain",
+    "value": "b.e.f.ip6.arpa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:b.e.f.ip6.arpa",
+    "source": {
+      "list": "PRIVATE",
+      "line": 54
+    }
+  },
+  {
+    "type": "domain",
+    "value": "d.f.ip6.arpa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:d.f.ip6.arpa",
+    "source": {
+      "list": "PRIVATE",
+      "line": 55
+    }
+  },
+  {
+    "type": "domain",
+    "value": "example",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:example",
+    "source": {
+      "list": "PRIVATE",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hiwifi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hiwifi.com",
+    "source": {
+      "list": "PRIVATE",
+      "line": 147
+    }
+  },
+  {
+    "type": "domain",
+    "value": "home.arpa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:home.arpa",
+    "source": {
+      "list": "PRIVATE",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "internal",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:internal",
+    "source": {
+      "list": "PRIVATE",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "invalid",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:invalid",
+    "source": {
+      "list": "PRIVATE",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kis.v2.scr.kaspersky-labs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kis.v2.scr.kaspersky-labs.com",
+    "source": {
+      "list": "PRIVATE",
+      "line": 189
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lan",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lan",
+    "source": {
+      "list": "PRIVATE",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "leike.cc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:leike.cc",
+    "source": {
+      "list": "PRIVATE",
+      "line": 148
+    }
+  },
+  {
+    "type": "domain",
+    "value": "local",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:local",
+    "source": {
+      "list": "PRIVATE",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "localdomain",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:localdomain",
+    "source": {
+      "list": "PRIVATE",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "localhost",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:localhost",
+    "source": {
+      "list": "PRIVATE",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "localhost.ptlogin2.qq.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:localhost.ptlogin2.qq.com",
+    "source": {
+      "list": "PRIVATE",
+      "line": 160
+    }
+  },
+  {
+    "type": "domain",
+    "value": "localhost.sec.qq.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:localhost.sec.qq.com",
+    "source": {
+      "list": "PRIVATE",
+      "line": 159
+    }
+  },
+  {
+    "type": "domain",
+    "value": "my.router",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:my.router",
+    "source": {
+      "list": "PRIVATE",
+      "line": 149
+    }
+  },
+  {
+    "type": "domain",
+    "value": "peiluyou.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:peiluyou.com",
+    "source": {
+      "list": "PRIVATE",
+      "line": 150
+    }
+  },
+  {
+    "type": "domain",
+    "value": "phicomm.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:phicomm.me",
+    "source": {
+      "list": "PRIVATE",
+      "line": 151
+    }
+  },
+  {
+    "type": "domain",
+    "value": "plex.direct",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:plex.direct",
+    "source": {
+      "list": "PRIVATE",
+      "line": 156
+    }
+  },
+  {
+    "type": "domain",
+    "value": "router.ctc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:router.ctc",
+    "source": {
+      "list": "PRIVATE",
+      "line": 152
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tendawifi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tendawifi.com",
+    "source": {
+      "list": "PRIVATE",
+      "line": 163
+    }
+  },
+  {
+    "type": "domain",
+    "value": "test",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:test",
+    "source": {
+      "list": "PRIVATE",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tplinkwifi.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tplinkwifi.net",
+    "source": {
+      "list": "PRIVATE",
+      "line": 167
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ts.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ts.net",
+    "source": {
+      "list": "PRIVATE",
+      "line": 180
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zte.home",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zte.home",
+    "source": {
+      "list": "PRIVATE",
+      "line": 176
+    }
+  },
+  {
+    "type": "full",
+    "value": "asusrouter.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:asusrouter.com",
+    "source": {
+      "list": "PRIVATE",
+      "line": 132
+    }
+  },
+  {
+    "type": "full",
+    "value": "instant.arubanetworks.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:instant.arubanetworks.com",
+    "source": {
+      "list": "PRIVATE",
+      "line": 127
+    }
+  },
+  {
+    "type": "full",
+    "value": "local.adguard.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:local.adguard.org",
+    "source": {
+      "list": "PRIVATE",
+      "line": 184
+    }
+  },
+  {
+    "type": "full",
+    "value": "miwifi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:miwifi.com",
+    "source": {
+      "list": "PRIVATE",
+      "line": 172
+    }
+  },
+  {
+    "type": "full",
+    "value": "oasisauth.h3c.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:oasisauth.h3c.com",
+    "source": {
+      "list": "PRIVATE",
+      "line": 138
+    }
+  },
+  {
+    "type": "full",
+    "value": "router.asus.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:router.asus.com",
+    "source": {
+      "list": "PRIVATE",
+      "line": 133
+    }
+  },
+  {
+    "type": "full",
+    "value": "routerlogin.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:routerlogin.com",
+    "source": {
+      "list": "PRIVATE",
+      "line": 143
+    }
+  },
+  {
+    "type": "full",
+    "value": "setmeup.arubanetworks.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:setmeup.arubanetworks.com",
+    "source": {
+      "list": "PRIVATE",
+      "line": 128
+    }
+  },
+  {
+    "type": "full",
+    "value": "tplogin.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:tplogin.cn",
+    "source": {
+      "list": "PRIVATE",
+      "line": 168
+    }
+  },
+  {
+    "type": "full",
+    "value": "www.asusrouter.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:www.asusrouter.com",
+    "source": {
+      "list": "PRIVATE",
+      "line": 134
+    }
+  },
+  {
+    "type": "full",
+    "value": "www.miwifi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:www.miwifi.com",
+    "source": {
+      "list": "PRIVATE",
+      "line": 173
+    }
+  },
+  {
+    "type": "full",
+    "value": "www.routerlogin.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:www.routerlogin.com",
+    "source": {
+      "list": "PRIVATE",
+      "line": 144
+    }
+  },
+  {
+    "type": "regexp",
+    "value": "^[a-z]([a-z0-9-]{0,61}[a-z0-9])?$",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "regexp:^[a-z]([a-z0-9-]{0,61}[a-z0-9])?$",
+    "source": {
+      "list": "PRIVATE",
+      "line": 124
+    }
+  }
+]

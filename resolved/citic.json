@@ -1,0 +1,195 @@
+[
+  {
+    "type": "domain",
+    "value": "cfc108.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cfc108.com",
+    "source": {
+      "list": "CITIC",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "chinaamc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:chinaamc.com",
+    "source": {
+      "list": "CITIC",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "citic",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:citic",
+    "source": {
+      "list": "CITIC",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "citic-prudential.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:citic-prudential.com.cn",
+    "source": {
+      "list": "CITIC",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "citicbank.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:citicbank.com",
+    "source": {
+      "list": "CITIC",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "citiccapital.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:citiccapital.com",
+    "source": {
+      "list": "CITIC",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "citiciam.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:citiciam.com",
+    "source": {
+      "list": "CITIC",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "citicifh.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:citicifh.com",
+    "source": {
+      "list": "CITIC",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "citicprufunds.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:citicprufunds.com.cn",
+    "source": {
+      "list": "CITIC",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "citics.com.hk",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:citics.com.hk:@!cn",
+    "source": {
+      "list": "CITIC",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "citicsf.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:citicsf.com",
+    "source": {
+      "list": "CITIC",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "clsa.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:clsa.com",
+    "source": {
+      "list": "CITIC",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cncbinternational.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:cncbinternational.com:@!cn",
+    "source": {
+      "list": "CITIC",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "csc108.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:csc108.com",
+    "source": {
+      "list": "CITIC",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "csci.hk",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:csci.hk:@!cn",
+    "source": {
+      "list": "CITIC",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ecitic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ecitic.com",
+    "source": {
+      "list": "CITIC",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--fiq64b",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--fiq64b",
+    "source": {
+      "list": "CITIC",
+      "line": 5
+    }
+  }
+]

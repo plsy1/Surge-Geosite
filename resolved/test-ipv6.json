@@ -1,0 +1,279 @@
+[
+  {
+    "type": "domain",
+    "value": "sixte.st",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sixte.st",
+    "source": {
+      "list": "TEST-IPV6",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "test-ipv6.alpinedc.ch",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:test-ipv6.alpinedc.ch",
+    "source": {
+      "list": "TEST-IPV6",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "test-ipv6.arauc.br",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:test-ipv6.arauc.br",
+    "source": {
+      "list": "TEST-IPV6",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "test-ipv6.belwue.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:test-ipv6.belwue.net",
+    "source": {
+      "list": "TEST-IPV6",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "test-ipv6.carnet.hr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:test-ipv6.carnet.hr",
+    "source": {
+      "list": "TEST-IPV6",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "test-ipv6.cl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:test-ipv6.cl",
+    "source": {
+      "list": "TEST-IPV6",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "test-ipv6.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:test-ipv6.com",
+    "source": {
+      "list": "TEST-IPV6",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "test-ipv6.cs.umd.edu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:test-ipv6.cs.umd.edu",
+    "source": {
+      "list": "TEST-IPV6",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "test-ipv6.csclub.uwaterloo.ca",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:test-ipv6.csclub.uwaterloo.ca",
+    "source": {
+      "list": "TEST-IPV6",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "test-ipv6.cz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:test-ipv6.cz",
+    "source": {
+      "list": "TEST-IPV6",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "test-ipv6.epic.network",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:test-ipv6.epic.network",
+    "source": {
+      "list": "TEST-IPV6",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "test-ipv6.fratec.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:test-ipv6.fratec.net",
+    "source": {
+      "list": "TEST-IPV6",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "test-ipv6.freerangecloud.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:test-ipv6.freerangecloud.com",
+    "source": {
+      "list": "TEST-IPV6",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "test-ipv6.go6.si",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:test-ipv6.go6.si",
+    "source": {
+      "list": "TEST-IPV6",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "test-ipv6.hu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:test-ipv6.hu",
+    "source": {
+      "list": "TEST-IPV6",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "test-ipv6.is",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:test-ipv6.is",
+    "source": {
+      "list": "TEST-IPV6",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "test-ipv6.iu13.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:test-ipv6.iu13.net",
+    "source": {
+      "list": "TEST-IPV6",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "test-ipv6.ke.liquidtelecom.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:test-ipv6.ke.liquidtelecom.net",
+    "source": {
+      "list": "TEST-IPV6",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "test-ipv6.noroutetohost.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:test-ipv6.noroutetohost.net",
+    "source": {
+      "list": "TEST-IPV6",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "test-ipv6.roedu.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:test-ipv6.roedu.net",
+    "source": {
+      "list": "TEST-IPV6",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "test-ipv6.se",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:test-ipv6.se",
+    "source": {
+      "list": "TEST-IPV6",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "test-ipv6.sin.vr.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:test-ipv6.sin.vr.org",
+    "source": {
+      "list": "TEST-IPV6",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "test-ipv6.ttk.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:test-ipv6.ttk.ru",
+    "source": {
+      "list": "TEST-IPV6",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "testipv6.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:testipv6.cn:@cn",
+    "source": {
+      "list": "TEST-IPV6",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "testipv6.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:testipv6.de",
+    "source": {
+      "list": "TEST-IPV6",
+      "line": 26
+    }
+  }
+]
