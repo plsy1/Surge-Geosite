@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "comodo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:comodo.com",
+    "source": {
+      "list": "COMODO",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "comodo.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:comodo.net",
+    "source": {
+      "list": "COMODO",
+      "line": 2
+    }
+  }
+]

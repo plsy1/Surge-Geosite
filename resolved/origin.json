@@ -1,0 +1,101 @@
+[
+  {
+    "type": "domain",
+    "value": "dawngate.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dawngate.com",
+    "source": {
+      "list": "ORIGIN",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "eastore.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:eastore.com",
+    "source": {
+      "list": "ORIGIN",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lordofultima.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lordofultima.com",
+    "source": {
+      "list": "ORIGIN",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "origin.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:origin.com",
+    "source": {
+      "list": "ORIGIN",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "origin.tv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:origin.tv",
+    "source": {
+      "list": "ORIGIN",
+      "line": 5
+    }
+  },
+  {
+    "type": "full",
+    "value": "cloudsync-prod.s3.amazonaws.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cloudsync-prod.s3.amazonaws.com",
+    "source": {
+      "list": "ORIGIN",
+      "line": 7
+    }
+  },
+  {
+    "type": "full",
+    "value": "origin-a.akamaihd.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:origin-a.akamaihd.net",
+    "source": {
+      "list": "ORIGIN",
+      "line": 8
+    }
+  },
+  {
+    "type": "full",
+    "value": "rtm.tnt-ea.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:rtm.tnt-ea.com",
+    "source": {
+      "list": "ORIGIN",
+      "line": 9
+    }
+  },
+  {
+    "type": "full",
+    "value": "ssl-lvlt.cdn.ea.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:ssl-lvlt.cdn.ea.com",
+    "source": {
+      "list": "ORIGIN",
+      "line": 10
+    }
+  }
+]

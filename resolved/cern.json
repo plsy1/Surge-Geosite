@@ -1,0 +1,79 @@
+[
+  {
+    "type": "domain",
+    "value": "ams02.space",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ams02.space",
+    "source": {
+      "list": "CERN",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cern",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cern",
+    "source": {
+      "list": "CERN",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cern.ch",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cern.ch",
+    "source": {
+      "list": "CERN",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cixp.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cixp.net",
+    "source": {
+      "list": "CERN",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dotcernpilot.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dotcernpilot.info",
+    "source": {
+      "list": "CERN",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ippog.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ippog.org",
+    "source": {
+      "list": "CERN",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "linearcollider.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:linearcollider.org",
+    "source": {
+      "list": "CERN",
+      "line": 9
+    }
+  }
+]

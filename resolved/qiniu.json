@@ -1,0 +1,112 @@
+[
+  {
+    "type": "domain",
+    "value": "qbox.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qbox.me",
+    "source": {
+      "list": "QINIU",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qiniu.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qiniu.com",
+    "source": {
+      "list": "QINIU",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qiniucdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qiniucdn.com",
+    "source": {
+      "list": "QINIU",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qiniudn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qiniudn.com",
+    "source": {
+      "list": "QINIU",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qiniudns.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qiniudns.com",
+    "source": {
+      "list": "QINIU",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qiniup.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qiniup.com",
+    "source": {
+      "list": "QINIU",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qnsdk.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qnsdk.com",
+    "source": {
+      "list": "QINIU",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qnssl.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qnssl.com",
+    "source": {
+      "list": "QINIU",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "staticfile.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:staticfile.net",
+    "source": {
+      "list": "STATICFILE",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "staticfile.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:staticfile.org",
+    "source": {
+      "list": "STATICFILE",
+      "line": 2
+    }
+  }
+]

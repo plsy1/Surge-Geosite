@@ -1,0 +1,59 @@
+[
+  {
+    "type": "domain",
+    "value": "avito.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:avito.com",
+    "source": {
+      "list": "AVITO",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "avito.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:avito.ru",
+    "source": {
+      "list": "AVITO",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "avito.st",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:avito.st",
+    "source": {
+      "list": "AVITO",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "avito.tech",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:avito.tech",
+    "source": {
+      "list": "AVITO",
+      "line": 4
+    }
+  },
+  {
+    "type": "full",
+    "value": "stats.avito.ru",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:stats.avito.ru:@ads",
+    "source": {
+      "list": "AVITO",
+      "line": 6
+    }
+  }
+]

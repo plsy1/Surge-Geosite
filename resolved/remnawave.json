@@ -1,0 +1,46 @@
+[
+  {
+    "type": "domain",
+    "value": "docs.rw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:docs.rw",
+    "source": {
+      "list": "REMNAWAVE",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "log.rw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:log.rw",
+    "source": {
+      "list": "REMNAWAVE",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "remna.st",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:remna.st",
+    "source": {
+      "list": "REMNAWAVE",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "try.rw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:try.rw",
+    "source": {
+      "list": "REMNAWAVE",
+      "line": 4
+    }
+  }
+]

@@ -1,0 +1,60 @@
+{
+  "name": "YOUTUBE",
+  "source": {
+    "domain": 177,
+    "full": 1,
+    "keyword": 0,
+    "regexp": 0,
+    "include": 0,
+    "affiliations": 0,
+    "attributes": 2
+  },
+  "resolved": {
+    "rules": 178,
+    "domain": 177,
+    "full": 1,
+    "keyword": 0,
+    "regexp": 0
+  },
+  "filters": {
+    "attrs": {
+      "ads": 1,
+      "cn": 1
+    }
+  },
+  "modes": {
+    "strict": {
+      "rules": 178,
+      "bytes": 4874,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "balanced": {
+      "rules": 178,
+      "bytes": 4874,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "full": {
+      "rules": 178,
+      "bytes": 4874,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    }
+  }
+}

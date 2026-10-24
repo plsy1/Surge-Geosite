@@ -1,0 +1,68 @@
+[
+  {
+    "type": "domain",
+    "value": "2k.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:2k.com",
+    "source": {
+      "list": "2KGAMES",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "2kcoretech.online",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:2kcoretech.online",
+    "source": {
+      "list": "2KGAMES",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "2kct.onl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:2kct.onl",
+    "source": {
+      "list": "2KGAMES",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "2kgames.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:2kgames.com",
+    "source": {
+      "list": "2KGAMES",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "2ksports.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:2ksports.com",
+    "source": {
+      "list": "2KGAMES",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "2kweb.online",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:2kweb.online",
+    "source": {
+      "list": "2KGAMES",
+      "line": 6
+    }
+  }
+]

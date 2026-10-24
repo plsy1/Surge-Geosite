@@ -1,0 +1,13 @@
+[
+  {
+    "type": "full",
+    "value": "test.example.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:test.example.com",
+    "source": {
+      "list": "TEST",
+      "line": 3
+    }
+  }
+]

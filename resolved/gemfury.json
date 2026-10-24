@@ -1,0 +1,68 @@
+[
+  {
+    "type": "domain",
+    "value": "fury.blog",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fury.blog",
+    "source": {
+      "list": "GEMFURY",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fury.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fury.co",
+    "source": {
+      "list": "GEMFURY",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fury.dev",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fury.dev",
+    "source": {
+      "list": "GEMFURY",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fury.help",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fury.help",
+    "source": {
+      "list": "GEMFURY",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fury.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fury.io",
+    "source": {
+      "list": "GEMFURY",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gemfury.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gemfury.com",
+    "source": {
+      "list": "GEMFURY",
+      "line": 6
+    }
+  }
+]

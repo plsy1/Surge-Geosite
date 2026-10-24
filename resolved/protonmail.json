@@ -1,0 +1,101 @@
+[
+  {
+    "type": "domain",
+    "value": "pm.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pm.me",
+    "source": {
+      "list": "PROTONMAIL",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "proton.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:proton.me",
+    "source": {
+      "list": "PROTONMAIL",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "protonmail.ch",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:protonmail.ch",
+    "source": {
+      "list": "PROTONMAIL",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "protonmail.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:protonmail.com",
+    "source": {
+      "list": "PROTONMAIL",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "protonstatus.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:protonstatus.com",
+    "source": {
+      "list": "PROTONMAIL",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "protontech.ch",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:protontech.ch",
+    "source": {
+      "list": "PROTONMAIL",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "protonvpn.ch",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:protonvpn.ch",
+    "source": {
+      "list": "PROTONMAIL",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "protonvpn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:protonvpn.com",
+    "source": {
+      "list": "PROTONMAIL",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "protonweb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:protonweb.com",
+    "source": {
+      "list": "PROTONMAIL",
+      "line": 9
+    }
+  }
+]

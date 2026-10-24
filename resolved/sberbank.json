@@ -1,0 +1,206 @@
+[
+  {
+    "type": "domain",
+    "value": "ads.sber.ru",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:ads.sber.ru:@ads",
+    "source": {
+      "list": "SBERBANK",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bps-sberbank.by",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bps-sberbank.by",
+    "source": {
+      "list": "SBERBANK",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "clickstream.sberbank.ru",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:clickstream.sberbank.ru:@ads",
+    "source": {
+      "list": "SBERBANK",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cplsb.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cplsb.ru",
+    "source": {
+      "list": "SBERBANK",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sber-bank.by",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sber-bank.by",
+    "source": {
+      "list": "SBERBANK",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sber.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sber.ru",
+    "source": {
+      "list": "SBERBANK",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sberbank.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sberbank.com",
+    "source": {
+      "list": "SBERBANK",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sberbank.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sberbank.ru",
+    "source": {
+      "list": "SBERBANK",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sberspasibo.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sberspasibo.ru",
+    "source": {
+      "list": "SBERBANK",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sbrf.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sbrf.ru",
+    "source": {
+      "list": "SBERBANK",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "spasibo.digital",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:spasibo.digital",
+    "source": {
+      "list": "SBERBANK",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "spasibo.market",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:spasibo.market",
+    "source": {
+      "list": "SBERBANK",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "spasibobonus.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:spasibobonus.ru",
+    "source": {
+      "list": "SBERBANK",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "spasibosb.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:spasibosb.ru",
+    "source": {
+      "list": "SBERBANK",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "spasibosberbank.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:spasibosberbank.ru",
+    "source": {
+      "list": "SBERBANK",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yookassa.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yookassa.ru",
+    "source": {
+      "list": "SBERBANK",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yoomoney.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yoomoney.ru",
+    "source": {
+      "list": "SBERBANK",
+      "line": 10
+    }
+  },
+  {
+    "type": "full",
+    "value": "visor.sberbank.ru",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:visor.sberbank.ru:@ads",
+    "source": {
+      "list": "SBERBANK",
+      "line": 23
+    }
+  }
+]

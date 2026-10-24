@@ -1,0 +1,101 @@
+[
+  {
+    "type": "domain",
+    "value": "openmaps.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:openmaps.org",
+    "source": {
+      "list": "OPENSTREETMAP",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "openstreetmap.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:openstreetmap.com",
+    "source": {
+      "list": "OPENSTREETMAP",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "openstreetmap.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:openstreetmap.net",
+    "source": {
+      "list": "OPENSTREETMAP",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "openstreetmap.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:openstreetmap.org",
+    "source": {
+      "list": "OPENSTREETMAP",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "openstreetmaps.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:openstreetmaps.org",
+    "source": {
+      "list": "OPENSTREETMAP",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "osm.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:osm.org",
+    "source": {
+      "list": "OPENSTREETMAP",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "osmfoundation.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:osmfoundation.org",
+    "source": {
+      "list": "OPENSTREETMAP",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "stateofthemap.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:stateofthemap.com",
+    "source": {
+      "list": "OPENSTREETMAP",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "stateofthemap.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:stateofthemap.org",
+    "source": {
+      "list": "OPENSTREETMAP",
+      "line": 11
+    }
+  }
+]

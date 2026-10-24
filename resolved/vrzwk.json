@@ -1,0 +1,46 @@
+[
+  {
+    "type": "domain",
+    "value": "vrzwk.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vrzwk.cn",
+    "source": {
+      "list": "VRZWK",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vrzwk.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vrzwk.com",
+    "source": {
+      "list": "VRZWK",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vrzwk.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vrzwk.net",
+    "source": {
+      "list": "VRZWK",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vrzwk.top",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vrzwk.top",
+    "source": {
+      "list": "VRZWK",
+      "line": 7
+    }
+  }
+]

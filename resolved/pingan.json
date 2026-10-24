@@ -1,0 +1,48 @@
+[
+  {
+    "type": "domain",
+    "value": "pingan.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pingan.com",
+    "source": {
+      "list": "PINGAN",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pingan.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pingan.com.cn",
+    "source": {
+      "list": "PINGAN",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pingan.com.hk",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:pingan.com.hk:@!cn",
+    "source": {
+      "list": "PINGAN",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yqb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yqb.com",
+    "source": {
+      "list": "PINGAN",
+      "line": 4
+    }
+  }
+]

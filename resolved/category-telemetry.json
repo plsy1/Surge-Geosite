@@ -1,0 +1,80 @@
+[
+  {
+    "type": "domain",
+    "value": "cafe.github.com",
+    "attrs": [
+      "telemetry"
+    ],
+    "affiliations": [],
+    "plain": "domain:cafe.github.com:@telemetry",
+    "source": {
+      "list": "GITHUB",
+      "line": 65
+    }
+  },
+  {
+    "type": "domain",
+    "value": "collector.github.com",
+    "attrs": [
+      "telemetry"
+    ],
+    "affiliations": [],
+    "plain": "domain:collector.github.com:@telemetry",
+    "source": {
+      "list": "GITHUB",
+      "line": 66
+    }
+  },
+  {
+    "type": "full",
+    "value": "copilot-telemetry-service.githubusercontent.com",
+    "attrs": [
+      "telemetry"
+    ],
+    "affiliations": [],
+    "plain": "full:copilot-telemetry-service.githubusercontent.com:@telemetry",
+    "source": {
+      "list": "GITHUB-COPILOT",
+      "line": 10
+    }
+  },
+  {
+    "type": "full",
+    "value": "copilot-telemetry.githubusercontent.com",
+    "attrs": [
+      "telemetry"
+    ],
+    "affiliations": [],
+    "plain": "full:copilot-telemetry.githubusercontent.com:@telemetry",
+    "source": {
+      "list": "GITHUB-COPILOT",
+      "line": 11
+    }
+  },
+  {
+    "type": "full",
+    "value": "incoming-telemetry.thunderbird.net",
+    "attrs": [
+      "telemetry"
+    ],
+    "affiliations": [],
+    "plain": "full:incoming-telemetry.thunderbird.net:@telemetry",
+    "source": {
+      "list": "MOZILLA",
+      "line": 70
+    }
+  },
+  {
+    "type": "full",
+    "value": "incoming.telemetry.mozilla.org",
+    "attrs": [
+      "telemetry"
+    ],
+    "affiliations": [],
+    "plain": "full:incoming.telemetry.mozilla.org:@telemetry",
+    "source": {
+      "list": "MOZILLA",
+      "line": 69
+    }
+  }
+]

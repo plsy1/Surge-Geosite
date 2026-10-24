@@ -1,0 +1,57 @@
+{
+  "name": "CATEGORY-ENTERTAINMENT-RU",
+  "source": {
+    "domain": 16,
+    "full": 0,
+    "keyword": 0,
+    "regexp": 0,
+    "include": 4,
+    "affiliations": 0,
+    "attributes": 0
+  },
+  "resolved": {
+    "rules": 34,
+    "domain": 32,
+    "full": 2,
+    "keyword": 0,
+    "regexp": 0
+  },
+  "filters": {
+    "attrs": {}
+  },
+  "modes": {
+    "strict": {
+      "rules": 34,
+      "bytes": 927,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "balanced": {
+      "rules": 34,
+      "bytes": 927,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "full": {
+      "rules": 34,
+      "bytes": 927,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    }
+  }
+}

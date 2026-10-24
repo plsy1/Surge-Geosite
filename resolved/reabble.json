@@ -1,0 +1,26 @@
+[
+  {
+    "type": "domain",
+    "value": "reabble.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:reabble.cn:@cn",
+    "source": {
+      "list": "REABBLE",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "reabble.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:reabble.com",
+    "source": {
+      "list": "REABBLE",
+      "line": 2
+    }
+  }
+]

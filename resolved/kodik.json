@@ -1,0 +1,57 @@
+[
+  {
+    "type": "domain",
+    "value": "kodik-storage.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kodik-storage.com",
+    "source": {
+      "list": "KODIK",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kodik.biz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kodik.biz",
+    "source": {
+      "list": "KODIK",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kodik.cc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kodik.cc",
+    "source": {
+      "list": "KODIK",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kodik.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kodik.info",
+    "source": {
+      "list": "KODIK",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kodikplayer.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kodikplayer.com",
+    "source": {
+      "list": "KODIK",
+      "line": 5
+    }
+  }
+]

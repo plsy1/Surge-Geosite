@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "chess.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:chess.com",
+    "source": {
+      "list": "CHESSCOM",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "chesscomfiles.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:chesscomfiles.com",
+    "source": {
+      "list": "CHESSCOM",
+      "line": 2
+    }
+  }
+]

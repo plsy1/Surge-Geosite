@@ -1,0 +1,915 @@
+[
+  {
+    "type": "domain",
+    "value": "accdn.com.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:accdn.com.cn:@cn",
+    "source": {
+      "list": "AKAMAI",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ak1.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ak1.net",
+    "source": {
+      "list": "AKAMAI",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aka-ai.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aka-ai.com",
+    "source": {
+      "list": "AKAMAI",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aka-ai.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aka-ai.net",
+    "source": {
+      "list": "AKAMAI",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akacrypto.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akacrypto.net",
+    "source": {
+      "list": "AKAMAI",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akadeem.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akadeem.net",
+    "source": {
+      "list": "AKAMAI",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akadns.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akadns.com",
+    "source": {
+      "list": "AKAMAI",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akadns.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akadns.net",
+    "source": {
+      "list": "AKAMAI",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akadns6.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akadns6.net",
+    "source": {
+      "list": "AKAMAI",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akadns88.net",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:akadns88.net:@cn",
+    "source": {
+      "list": "AKAMAI",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akadns99.net",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:akadns99.net:@cn",
+    "source": {
+      "list": "AKAMAI",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akaeai.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akaeai.com",
+    "source": {
+      "list": "AKAMAI",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akafms.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akafms.net",
+    "source": {
+      "list": "AKAMAI",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akagtm.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akagtm.org",
+    "source": {
+      "list": "AKAMAI",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akahost.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akahost.net",
+    "source": {
+      "list": "AKAMAI",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akaint.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akaint.net",
+    "source": {
+      "list": "AKAMAI",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akam.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akam.net",
+    "source": {
+      "list": "AKAMAI",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akamaa.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akamaa.com",
+    "source": {
+      "list": "AKAMAI",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akamah.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akamah.com",
+    "source": {
+      "list": "AKAMAI",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akamai-access.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akamai-access.com",
+    "source": {
+      "list": "AKAMAI",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akamai-access.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akamai-access.net",
+    "source": {
+      "list": "AKAMAI",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akamai-cdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akamai-cdn.com",
+    "source": {
+      "list": "AKAMAI",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akamai-platform-internal.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akamai-platform-internal.net",
+    "source": {
+      "list": "AKAMAI",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akamai-platform-staging.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akamai-platform-staging.com",
+    "source": {
+      "list": "AKAMAI",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akamai-platform.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akamai-platform.net",
+    "source": {
+      "list": "AKAMAI",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akamai-regression.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akamai-regression.net",
+    "source": {
+      "list": "AKAMAI",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akamai-staging.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akamai-staging.net",
+    "source": {
+      "list": "AKAMAI",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akamai-sucks.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akamai-sucks.net",
+    "source": {
+      "list": "AKAMAI",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akamai-thailand.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akamai-thailand.com",
+    "source": {
+      "list": "AKAMAI",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akamai-thailand.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akamai-thailand.net",
+    "source": {
+      "list": "AKAMAI",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akamai-trials.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akamai-trials.com",
+    "source": {
+      "list": "AKAMAI",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akamai.co.kr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akamai.co.kr",
+    "source": {
+      "list": "AKAMAI",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akamai.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:akamai.com:@cn",
+    "source": {
+      "list": "AKAMAI",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akamai.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akamai.net",
+    "source": {
+      "list": "AKAMAI",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akamaiedge.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akamaiedge.net",
+    "source": {
+      "list": "AKAMAI",
+      "line": 37
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akamaientrypoint.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akamaientrypoint.net",
+    "source": {
+      "list": "AKAMAI",
+      "line": 38
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akamaietpcnctest.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akamaietpcnctest.com",
+    "source": {
+      "list": "AKAMAI",
+      "line": 39
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akamaietpcompromisedcnctest.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akamaietpcompromisedcnctest.com",
+    "source": {
+      "list": "AKAMAI",
+      "line": 40
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akamaietpcompromisedmalwaretest.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akamaietpcompromisedmalwaretest.com",
+    "source": {
+      "list": "AKAMAI",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akamaietpmalwaretest.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akamaietpmalwaretest.com",
+    "source": {
+      "list": "AKAMAI",
+      "line": 42
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akamaietpphishingtest.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akamaietpphishingtest.com",
+    "source": {
+      "list": "AKAMAI",
+      "line": 43
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akamaihd-staging.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akamaihd-staging.net",
+    "source": {
+      "list": "AKAMAI",
+      "line": 44
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akamaihd.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akamaihd.com",
+    "source": {
+      "list": "AKAMAI",
+      "line": 45
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akamaihd.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akamaihd.net",
+    "source": {
+      "list": "AKAMAI",
+      "line": 46
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akamaimagicmath.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akamaimagicmath.net",
+    "source": {
+      "list": "AKAMAI",
+      "line": 47
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akamainewzealand.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akamainewzealand.com",
+    "source": {
+      "list": "AKAMAI",
+      "line": 48
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akamaiphillipines.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akamaiphillipines.com",
+    "source": {
+      "list": "AKAMAI",
+      "line": 49
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akamaiphillipines.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akamaiphillipines.net",
+    "source": {
+      "list": "AKAMAI",
+      "line": 50
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akamaisingapore.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akamaisingapore.net",
+    "source": {
+      "list": "AKAMAI",
+      "line": 55
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akamaistream.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akamaistream.net",
+    "source": {
+      "list": "AKAMAI",
+      "line": 56
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akamaitech.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akamaitech.com",
+    "source": {
+      "list": "AKAMAI",
+      "line": 51
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akamaitech.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akamaitech.net",
+    "source": {
+      "list": "AKAMAI",
+      "line": 52
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akamaitechnologies.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akamaitechnologies.com",
+    "source": {
+      "list": "AKAMAI",
+      "line": 53
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akamaitechnologies.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akamaitechnologies.net",
+    "source": {
+      "list": "AKAMAI",
+      "line": 54
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akamaized-staging.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akamaized-staging.net",
+    "source": {
+      "list": "AKAMAI",
+      "line": 57
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akamaized.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akamaized.net",
+    "source": {
+      "list": "AKAMAI",
+      "line": 58
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akamaizercentral.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akamaizercentral.com",
+    "source": {
+      "list": "AKAMAI",
+      "line": 59
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akamak.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akamak.com",
+    "source": {
+      "list": "AKAMAI",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akamam.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akamam.com",
+    "source": {
+      "list": "AKAMAI",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akamci.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akamci.com",
+    "source": {
+      "list": "AKAMAI",
+      "line": 60
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akami.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akami.com",
+    "source": {
+      "list": "AKAMAI",
+      "line": 61
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akami.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akami.net",
+    "source": {
+      "list": "AKAMAI",
+      "line": 62
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akamii.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akamii.com",
+    "source": {
+      "list": "AKAMAI",
+      "line": 63
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akamqi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akamqi.com",
+    "source": {
+      "list": "AKAMAI",
+      "line": 64
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akastream.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akastream.com",
+    "source": {
+      "list": "AKAMAI",
+      "line": 65
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akastream.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akastream.net",
+    "source": {
+      "list": "AKAMAI",
+      "line": 66
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akatns.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akatns.net",
+    "source": {
+      "list": "AKAMAI",
+      "line": 67
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akcdn.com.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:akcdn.com.cn:@cn",
+    "source": {
+      "list": "AKAMAI",
+      "line": 68
+    }
+  },
+  {
+    "type": "domain",
+    "value": "akstat.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:akstat.io",
+    "source": {
+      "list": "AKAMAI",
+      "line": 69
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aptdn.net",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:aptdn.net:@cn",
+    "source": {
+      "list": "AKAMAI",
+      "line": 70
+    }
+  },
+  {
+    "type": "domain",
+    "value": "edgekey.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:edgekey.net",
+    "source": {
+      "list": "AKAMAI",
+      "line": 71
+    }
+  },
+  {
+    "type": "domain",
+    "value": "edgekey88.net",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:edgekey88.net:@cn",
+    "source": {
+      "list": "AKAMAI",
+      "line": 72
+    }
+  },
+  {
+    "type": "domain",
+    "value": "edgesuite.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:edgesuite.net",
+    "source": {
+      "list": "AKAMAI",
+      "line": 73
+    }
+  },
+  {
+    "type": "domain",
+    "value": "iamakamai.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:iamakamai.com",
+    "source": {
+      "list": "AKAMAI",
+      "line": 74
+    }
+  },
+  {
+    "type": "domain",
+    "value": "iamakamai.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:iamakamai.net",
+    "source": {
+      "list": "AKAMAI",
+      "line": 75
+    }
+  },
+  {
+    "type": "domain",
+    "value": "janrain.biz",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:janrain.biz:@cn",
+    "source": {
+      "list": "AKAMAI",
+      "line": 76
+    }
+  },
+  {
+    "type": "domain",
+    "value": "janrainservices.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:janrainservices.com:@cn",
+    "source": {
+      "list": "AKAMAI",
+      "line": 77
+    }
+  },
+  {
+    "type": "domain",
+    "value": "skycdn.com.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:skycdn.com.cn:@cn",
+    "source": {
+      "list": "AKAMAI",
+      "line": 78
+    }
+  },
+  {
+    "type": "domain",
+    "value": "soasta-dswb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:soasta-dswb.com",
+    "source": {
+      "list": "AKAMAI",
+      "line": 79
+    }
+  },
+  {
+    "type": "domain",
+    "value": "srtcdn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:srtcdn.net",
+    "source": {
+      "list": "AKAMAI",
+      "line": 80
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tl88.net",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:tl88.net:@cn",
+    "source": {
+      "list": "AKAMAI",
+      "line": 81
+    }
+  }
+]

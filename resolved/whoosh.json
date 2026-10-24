@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "whoosh-bike.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:whoosh-bike.ru",
+    "source": {
+      "list": "WHOOSH",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "whoosh.bike",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:whoosh.bike",
+    "source": {
+      "list": "WHOOSH",
+      "line": 2
+    }
+  }
+]

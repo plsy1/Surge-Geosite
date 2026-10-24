@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "brew.sh",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:brew.sh",
+    "source": {
+      "list": "HOMEBREW",
+      "line": 1
+    }
+  },
+  {
+    "type": "full",
+    "value": "homebrew.bintray.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:homebrew.bintray.com",
+    "source": {
+      "list": "HOMEBREW",
+      "line": 3
+    }
+  }
+]

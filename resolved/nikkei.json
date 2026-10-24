@@ -1,0 +1,68 @@
+[
+  {
+    "type": "domain",
+    "value": "nikkei-cnbc.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nikkei-cnbc.co.jp",
+    "source": {
+      "list": "NIKKEI",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nikkei.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nikkei.co.jp",
+    "source": {
+      "list": "NIKKEI",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nikkei.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nikkei.com",
+    "source": {
+      "list": "NIKKEI",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nikkei.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nikkei.jp",
+    "source": {
+      "list": "NIKKEI",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nikkei4946.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nikkei4946.com",
+    "source": {
+      "list": "NIKKEI",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nikkeibp.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nikkeibp.co.jp",
+    "source": {
+      "list": "NIKKEI",
+      "line": 6
+    }
+  }
+]

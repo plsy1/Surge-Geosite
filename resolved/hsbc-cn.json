@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "hsbc.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hsbc.com.cn",
+    "source": {
+      "list": "HSBC-CN",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hsbcinsurance.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hsbcinsurance.com.cn",
+    "source": {
+      "list": "HSBC-CN",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hsbcqh.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hsbcqh.com.cn",
+    "source": {
+      "list": "HSBC-CN",
+      "line": 2
+    }
+  }
+]

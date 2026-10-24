@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "discourse-cdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:discourse-cdn.com",
+    "source": {
+      "list": "DISCOURSE",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "discourse.group",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:discourse.group",
+    "source": {
+      "list": "DISCOURSE",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "discourse.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:discourse.org",
+    "source": {
+      "list": "DISCOURSE",
+      "line": 3
+    }
+  }
+]

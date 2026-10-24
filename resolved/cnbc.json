@@ -1,0 +1,46 @@
+[
+  {
+    "type": "domain",
+    "value": "cnbc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cnbc.com",
+    "source": {
+      "list": "CNBC",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cnbcfm.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cnbcfm.com",
+    "source": {
+      "list": "CNBC",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nbcudigitaladops.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nbcudigitaladops.com",
+    "source": {
+      "list": "CNBC",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nbcuni.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nbcuni.com",
+    "source": {
+      "list": "CNBC",
+      "line": 3
+    }
+  }
+]

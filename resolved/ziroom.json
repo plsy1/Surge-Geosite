@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "ziroom.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ziroom.com",
+    "source": {
+      "list": "ZIROOM",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ziroomapartment.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ziroomapartment.com",
+    "source": {
+      "list": "ZIROOM",
+      "line": 2
+    }
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "type": "domain",
+    "value": "fandango.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fandango.com",
+    "source": {
+      "list": "ROKU",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mgo-images.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mgo-images.com",
+    "source": {
+      "list": "ROKU",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mgo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mgo.com",
+    "source": {
+      "list": "ROKU",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ravm.tv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ravm.tv",
+    "source": {
+      "list": "ROKU",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "roku.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:roku.com",
+    "source": {
+      "list": "ROKU",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rokutime.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rokutime.com",
+    "source": {
+      "list": "ROKU",
+      "line": 6
+    }
+  }
+]

@@ -1,0 +1,310 @@
+[
+  {
+    "type": "domain",
+    "value": "fast.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fast.com",
+    "source": {
+      "list": "NETFLIX",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "netflix.ca",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:netflix.ca",
+    "source": {
+      "list": "NETFLIX",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "netflix.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:netflix.com",
+    "source": {
+      "list": "NETFLIX",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "netflix.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:netflix.net",
+    "source": {
+      "list": "NETFLIX",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "netflixdnstest0.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:netflixdnstest0.com",
+    "source": {
+      "list": "NETFLIX",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "netflixdnstest1.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:netflixdnstest1.com",
+    "source": {
+      "list": "NETFLIX",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "netflixdnstest10.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:netflixdnstest10.com",
+    "source": {
+      "list": "NETFLIX",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "netflixdnstest2.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:netflixdnstest2.com",
+    "source": {
+      "list": "NETFLIX",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "netflixdnstest3.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:netflixdnstest3.com",
+    "source": {
+      "list": "NETFLIX",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "netflixdnstest4.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:netflixdnstest4.com",
+    "source": {
+      "list": "NETFLIX",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "netflixdnstest5.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:netflixdnstest5.com",
+    "source": {
+      "list": "NETFLIX",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "netflixdnstest6.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:netflixdnstest6.com",
+    "source": {
+      "list": "NETFLIX",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "netflixdnstest7.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:netflixdnstest7.com",
+    "source": {
+      "list": "NETFLIX",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "netflixdnstest8.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:netflixdnstest8.com",
+    "source": {
+      "list": "NETFLIX",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "netflixdnstest9.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:netflixdnstest9.com",
+    "source": {
+      "list": "NETFLIX",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "netflixinvestor.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:netflixinvestor.com",
+    "source": {
+      "list": "NETFLIX",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "netflixtechblog.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:netflixtechblog.com",
+    "source": {
+      "list": "NETFLIX",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nflxext.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nflxext.com",
+    "source": {
+      "list": "NETFLIX",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nflximg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nflximg.com",
+    "source": {
+      "list": "NETFLIX",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nflximg.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nflximg.net",
+    "source": {
+      "list": "NETFLIX",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nflxsearch.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nflxsearch.net",
+    "source": {
+      "list": "NETFLIX",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nflxso.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nflxso.net",
+    "source": {
+      "list": "NETFLIX",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nflxvideo.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nflxvideo.net",
+    "source": {
+      "list": "NETFLIX",
+      "line": 12
+    }
+  },
+  {
+    "type": "full",
+    "value": "netflix.com.edgesuite.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:netflix.com.edgesuite.net",
+    "source": {
+      "list": "NETFLIX",
+      "line": 34
+    }
+  },
+  {
+    "type": "regexp",
+    "value": "(^|\\.)apiproxy-device-prod-nlb-.+\\.amazonaws\\.com$",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "regexp:(^|\\.)apiproxy-device-prod-nlb-.+\\.amazonaws\\.com$",
+    "source": {
+      "list": "NETFLIX",
+      "line": 28
+    }
+  },
+  {
+    "type": "regexp",
+    "value": "(^|\\.)apiproxy-website-nlb-prod-.+\\.amazonaws\\.com$",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "regexp:(^|\\.)apiproxy-website-nlb-prod-.+\\.amazonaws\\.com$",
+    "source": {
+      "list": "NETFLIX",
+      "line": 29
+    }
+  },
+  {
+    "type": "regexp",
+    "value": "(^|\\.)dualstack\\.apiproxy-.+\\.amazonaws\\.com$",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "regexp:(^|\\.)dualstack\\.apiproxy-.+\\.amazonaws\\.com$",
+    "source": {
+      "list": "NETFLIX",
+      "line": 30
+    }
+  },
+  {
+    "type": "regexp",
+    "value": "(^|\\.)dualstack\\.ichnaea-web-.+\\.amazonaws\\.com$",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "regexp:(^|\\.)dualstack\\.ichnaea-web-.+\\.amazonaws\\.com$",
+    "source": {
+      "list": "NETFLIX",
+      "line": 31
+    }
+  }
+]

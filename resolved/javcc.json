@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "javcc.cc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:javcc.cc",
+    "source": {
+      "list": "JAVCC",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "javcc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:javcc.com",
+    "source": {
+      "list": "JAVCC",
+      "line": 2
+    }
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "type": "domain",
+    "value": "builtwithnix.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:builtwithnix.org",
+    "source": {
+      "list": "NIXOS",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mynixos.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mynixos.com",
+    "source": {
+      "list": "NIXOS",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nix-community.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nix-community.org",
+    "source": {
+      "list": "NIXOS",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nix.dev",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nix.dev",
+    "source": {
+      "list": "NIXOS",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nix.store",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nix.store",
+    "source": {
+      "list": "NIXOS",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nixcon.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nixcon.org",
+    "source": {
+      "list": "NIXOS",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nixcon2017.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nixcon2017.org",
+    "source": {
+      "list": "NIXOS",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nixlang.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nixlang.com",
+    "source": {
+      "list": "NIXOS",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nixos.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nixos.org",
+    "source": {
+      "list": "NIXOS",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nixos.wiki",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nixos.wiki",
+    "source": {
+      "list": "NIXOS",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nixpkgs.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nixpkgs.org",
+    "source": {
+      "list": "NIXOS",
+      "line": 7
+    }
+  },
+  {
+    "type": "full",
+    "value": "nix-community.github.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:nix-community.github.io",
+    "source": {
+      "list": "NIXOS",
+      "line": 11
+    }
+  }
+]

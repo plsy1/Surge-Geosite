@@ -1,0 +1,629 @@
+[
+  {
+    "type": "domain",
+    "value": "1thek.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:1thek.com",
+    "source": {
+      "list": "KAKAO",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "antenna.co.kr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:antenna.co.kr",
+    "source": {
+      "list": "KAKAO",
+      "line": 37
+    }
+  },
+  {
+    "type": "domain",
+    "value": "awesomeent.co.kr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:awesomeent.co.kr",
+    "source": {
+      "list": "KAKAO",
+      "line": 38
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bhent.co.kr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bhent.co.kr",
+    "source": {
+      "list": "KAKAO",
+      "line": 39
+    }
+  },
+  {
+    "type": "domain",
+    "value": "daum.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:daum.net",
+    "source": {
+      "list": "KAKAO",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "daumcdn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:daumcdn.net",
+    "source": {
+      "list": "KAKAO",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "daumkakao.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:daumkakao.io",
+    "source": {
+      "list": "KAKAO",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "daumpcbang.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:daumpcbang.com",
+    "source": {
+      "list": "KAKAO",
+      "line": 59
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dolphiners.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dolphiners.com",
+    "source": {
+      "list": "KAKAO",
+      "line": 40
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fashionbykakao.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fashionbykakao.com",
+    "source": {
+      "list": "KAKAO",
+      "line": 80
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gleline.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gleline.com",
+    "source": {
+      "list": "KAKAO",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "istent.co.kr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:istent.co.kr",
+    "source": {
+      "list": "KAKAO",
+      "line": 42
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jwide.co.kr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jwide.co.kr",
+    "source": {
+      "list": "KAKAO",
+      "line": 43
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kakao.co.kr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kakao.co.kr",
+    "source": {
+      "list": "KAKAO",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kakao.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kakao.com",
+    "source": {
+      "list": "KAKAO",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kakao.vc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kakao.vc",
+    "source": {
+      "list": "KAKAO",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kakaobank.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kakaobank.com",
+    "source": {
+      "list": "KAKAO",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kakaobank.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kakaobank.io",
+    "source": {
+      "list": "KAKAO",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kakaobankcontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kakaobankcontent.com",
+    "source": {
+      "list": "KAKAO",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kakaobrain.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kakaobrain.com",
+    "source": {
+      "list": "KAKAO",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kakaocdn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kakaocdn.net",
+    "source": {
+      "list": "KAKAO",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kakaocloud.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kakaocloud.com",
+    "source": {
+      "list": "KAKAO",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kakaocorp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kakaocorp.com",
+    "source": {
+      "list": "KAKAO",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kakaoent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kakaoent.com",
+    "source": {
+      "list": "KAKAO",
+      "line": 44
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kakaoenterprise.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kakaoenterprise.com",
+    "source": {
+      "list": "KAKAO",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kakaogamescorp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kakaogamescorp.com",
+    "source": {
+      "list": "KAKAO",
+      "line": 60
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kakaohealthcare.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kakaohealthcare.com",
+    "source": {
+      "list": "KAKAO",
+      "line": 68
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kakaoilaas.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kakaoilaas.com",
+    "source": {
+      "list": "KAKAO",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kakaoinvestment.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kakaoinvestment.com",
+    "source": {
+      "list": "KAKAO",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kakaomobility.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kakaomobility.com",
+    "source": {
+      "list": "KAKAO",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kakaopay.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kakaopay.com",
+    "source": {
+      "list": "KAKAO",
+      "line": 74
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kakaopaysec.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kakaopaysec.com",
+    "source": {
+      "list": "KAKAO",
+      "line": 75
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kakaopiccoma.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kakaopiccoma.com",
+    "source": {
+      "list": "KAKAO",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kakaostyle.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kakaostyle.com",
+    "source": {
+      "list": "KAKAO",
+      "line": 81
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kakaotalk.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kakaotalk.jp",
+    "source": {
+      "list": "KAKAO",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kakaovx.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kakaovx.com",
+    "source": {
+      "list": "KAKAO",
+      "line": 61
+    }
+  },
+  {
+    "type": "domain",
+    "value": "karechat.ai",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:karechat.ai",
+    "source": {
+      "list": "KAKAO",
+      "line": 69
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kgslb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kgslb.com",
+    "source": {
+      "list": "KAKAO",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kpinsurances.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kpinsurances.com",
+    "source": {
+      "list": "KAKAO",
+      "line": 76
+    }
+  },
+  {
+    "type": "domain",
+    "value": "krosspictures.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:krosspictures.com",
+    "source": {
+      "list": "KAKAO",
+      "line": 45
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lionhearts.co.kr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lionhearts.co.kr",
+    "source": {
+      "list": "KAKAO",
+      "line": 62
+    }
+  },
+  {
+    "type": "domain",
+    "value": "logosfilm.co.kr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:logosfilm.co.kr",
+    "source": {
+      "list": "KAKAO",
+      "line": 46
+    }
+  },
+  {
+    "type": "domain",
+    "value": "megamon.co.kr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:megamon.co.kr",
+    "source": {
+      "list": "KAKAO",
+      "line": 47
+    }
+  },
+  {
+    "type": "domain",
+    "value": "melon.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:melon.com",
+    "source": {
+      "list": "KAKAO",
+      "line": 48
+    }
+  },
+  {
+    "type": "domain",
+    "value": "metabora.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:metabora.io",
+    "source": {
+      "list": "KAKAO",
+      "line": 63
+    }
+  },
+  {
+    "type": "domain",
+    "value": "msoopent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:msoopent.com",
+    "source": {
+      "list": "KAKAO",
+      "line": 49
+    }
+  },
+  {
+    "type": "domain",
+    "value": "onkakao.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:onkakao.net",
+    "source": {
+      "list": "KAKAO",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ootbstudio.co.kr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ootbstudio.co.kr",
+    "source": {
+      "list": "KAKAO",
+      "line": 50
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pastahealth.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pastahealth.com",
+    "source": {
+      "list": "KAKAO",
+      "line": 70
+    }
+  },
+  {
+    "type": "domain",
+    "value": "posty.kr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:posty.kr",
+    "source": {
+      "list": "KAKAO",
+      "line": 82
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sena.co.kr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sena.co.kr",
+    "source": {
+      "list": "KAKAO",
+      "line": 64
+    }
+  },
+  {
+    "type": "domain",
+    "value": "shownote.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:shownote.com",
+    "source": {
+      "list": "KAKAO",
+      "line": 51
+    }
+  },
+  {
+    "type": "domain",
+    "value": "starship-ent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:starship-ent.com",
+    "source": {
+      "list": "KAKAO",
+      "line": 52
+    }
+  },
+  {
+    "type": "domain",
+    "value": "stuidok110.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:stuidok110.com",
+    "source": {
+      "list": "KAKAO",
+      "line": 53
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vastenm.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vastenm.com",
+    "source": {
+      "list": "KAKAO",
+      "line": 54
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zigzag.kr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zigzag.kr",
+    "source": {
+      "list": "KAKAO",
+      "line": 83
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zipcine.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zipcine.com",
+    "source": {
+      "list": "KAKAO",
+      "line": 55
+    }
+  }
+]
