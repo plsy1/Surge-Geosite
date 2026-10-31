@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "redis.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:redis.io",
+    "source": {
+      "list": "REDIS",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "redislabs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:redislabs.com",
+    "source": {
+      "list": "REDIS",
+      "line": 2
+    }
+  }
+]

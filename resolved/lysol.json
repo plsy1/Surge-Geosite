@@ -1,0 +1,105 @@
+[
+  {
+    "type": "domain",
+    "value": "lizol.co.in",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lizol.co.in",
+    "source": {
+      "list": "LYSOL",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lysol.ca",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lysol.ca",
+    "source": {
+      "list": "LYSOL",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lysol.cl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lysol.cl",
+    "source": {
+      "list": "LYSOL",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lysol.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:lysol.cn:@cn",
+    "source": {
+      "list": "LYSOL",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lysol.co.cr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lysol.co.cr",
+    "source": {
+      "list": "LYSOL",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lysol.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lysol.com",
+    "source": {
+      "list": "LYSOL",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lysol.com.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:lysol.com.cn:@cn",
+    "source": {
+      "list": "LYSOL",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lysol.com.mx",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lysol.com.mx",
+    "source": {
+      "list": "LYSOL",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lysol.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lysol.net",
+    "source": {
+      "list": "LYSOL",
+      "line": 9
+    }
+  }
+]

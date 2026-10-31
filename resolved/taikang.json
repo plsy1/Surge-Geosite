@@ -1,0 +1,46 @@
+[
+  {
+    "type": "domain",
+    "value": "taikang.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:taikang.com",
+    "source": {
+      "list": "TAIKANG",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "taikanglife.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:taikanglife.com",
+    "source": {
+      "list": "TAIKANG",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "taikangzhijia.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:taikangzhijia.com",
+    "source": {
+      "list": "TAIKANG",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tkhealthcare.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tkhealthcare.com",
+    "source": {
+      "list": "TAIKANG",
+      "line": 4
+    }
+  }
+]

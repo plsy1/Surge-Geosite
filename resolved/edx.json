@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "edx-cdn.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:edx-cdn.org",
+    "source": {
+      "list": "EDX",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "edx.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:edx.org",
+    "source": {
+      "list": "EDX",
+      "line": 1
+    }
+  }
+]

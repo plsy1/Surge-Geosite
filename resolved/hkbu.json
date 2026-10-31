@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "hkbu.edu.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hkbu.edu.hk",
+    "source": {
+      "list": "HKBU",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hkbu.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hkbu.hk",
+    "source": {
+      "list": "HKBU",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--pssu7ci3q5oge0ai91q.xn--j6w193g",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--pssu7ci3q5oge0ai91q.xn--j6w193g",
+    "source": {
+      "list": "HKBU",
+      "line": 5
+    }
+  }
+]

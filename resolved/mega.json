@@ -1,0 +1,79 @@
+[
+  {
+    "type": "domain",
+    "value": "mega.co.nz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mega.co.nz",
+    "source": {
+      "list": "MEGA",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mega.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mega.io",
+    "source": {
+      "list": "MEGA",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mega.nz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mega.nz",
+    "source": {
+      "list": "MEGA",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "megaad.nz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:megaad.nz",
+    "source": {
+      "list": "MEGA",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "megapay.nz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:megapay.nz",
+    "source": {
+      "list": "MEGA",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "megas4.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:megas4.com",
+    "source": {
+      "list": "MEGA",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "transfer.it",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:transfer.it",
+    "source": {
+      "list": "MEGA",
+      "line": 7
+    }
+  }
+]

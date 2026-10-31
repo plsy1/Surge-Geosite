@@ -1,0 +1,4006 @@
+[
+  {
+    "type": "domain",
+    "value": "adl.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:adl.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 158
+    }
+  },
+  {
+    "type": "domain",
+    "value": "am3p.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:am3p.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 159
+    }
+  },
+  {
+    "type": "domain",
+    "value": "apac1.notify.windows.com.akadns.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:apac1.notify.windows.com.akadns.net",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 160
+    }
+  },
+  {
+    "type": "domain",
+    "value": "arc-apac.msn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:arc-apac.msn.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 161
+    }
+  },
+  {
+    "type": "domain",
+    "value": "array101-prod.do.dsp.mp.microsoft.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:array101-prod.do.dsp.mp.microsoft.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 162
+    }
+  },
+  {
+    "type": "domain",
+    "value": "array102-prod.do.dsp.mp.microsoft.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:array102-prod.do.dsp.mp.microsoft.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 163
+    }
+  },
+  {
+    "type": "domain",
+    "value": "array103-prod.do.dsp.mp.microsoft.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:array103-prod.do.dsp.mp.microsoft.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 164
+    }
+  },
+  {
+    "type": "domain",
+    "value": "array104-prod.do.dsp.mp.microsoft.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:array104-prod.do.dsp.mp.microsoft.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 165
+    }
+  },
+  {
+    "type": "domain",
+    "value": "array201-prod.do.dsp.mp.microsoft.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:array201-prod.do.dsp.mp.microsoft.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 166
+    }
+  },
+  {
+    "type": "domain",
+    "value": "array202-prod.do.dsp.mp.microsoft.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:array202-prod.do.dsp.mp.microsoft.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 167
+    }
+  },
+  {
+    "type": "domain",
+    "value": "array203-prod.do.dsp.mp.microsoft.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:array203-prod.do.dsp.mp.microsoft.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 168
+    }
+  },
+  {
+    "type": "domain",
+    "value": "array204-prod.do.dsp.mp.microsoft.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:array204-prod.do.dsp.mp.microsoft.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 169
+    }
+  },
+  {
+    "type": "domain",
+    "value": "array401-prod.do.dsp.mp.microsoft.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:array401-prod.do.dsp.mp.microsoft.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 170
+    }
+  },
+  {
+    "type": "domain",
+    "value": "array402-prod.do.dsp.mp.microsoft.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:array402-prod.do.dsp.mp.microsoft.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 171
+    }
+  },
+  {
+    "type": "domain",
+    "value": "array403-prod.do.dsp.mp.microsoft.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:array403-prod.do.dsp.mp.microsoft.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 172
+    }
+  },
+  {
+    "type": "domain",
+    "value": "array404-prod.do.dsp.mp.microsoft.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:array404-prod.do.dsp.mp.microsoft.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 173
+    }
+  },
+  {
+    "type": "domain",
+    "value": "array405-prod.do.dsp.mp.microsoft.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:array405-prod.do.dsp.mp.microsoft.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 174
+    }
+  },
+  {
+    "type": "domain",
+    "value": "array406-prod.do.dsp.mp.microsoft.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:array406-prod.do.dsp.mp.microsoft.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 175
+    }
+  },
+  {
+    "type": "domain",
+    "value": "array407-prod.do.dsp.mp.microsoft.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:array407-prod.do.dsp.mp.microsoft.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 176
+    }
+  },
+  {
+    "type": "domain",
+    "value": "array408-prod.do.dsp.mp.microsoft.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:array408-prod.do.dsp.mp.microsoft.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 177
+    }
+  },
+  {
+    "type": "domain",
+    "value": "array508.prod.do.dsp.mp.microsoft.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:array508.prod.do.dsp.mp.microsoft.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 178
+    }
+  },
+  {
+    "type": "domain",
+    "value": "array509.prod.do.dsp.mp.microsoft.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:array509.prod.do.dsp.mp.microsoft.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 179
+    }
+  },
+  {
+    "type": "domain",
+    "value": "array510.prod.do.dsp.mp.microsoft.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:array510.prod.do.dsp.mp.microsoft.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 180
+    }
+  },
+  {
+    "type": "domain",
+    "value": "array511.prod.do.dsp.mp.microsoft.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:array511.prod.do.dsp.mp.microsoft.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 181
+    }
+  },
+  {
+    "type": "domain",
+    "value": "array512.prod.do.dsp.mp.microsoft.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:array512.prod.do.dsp.mp.microsoft.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 182
+    }
+  },
+  {
+    "type": "domain",
+    "value": "array513.prod.do.dsp.mp.microsoft.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:array513.prod.do.dsp.mp.microsoft.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 183
+    }
+  },
+  {
+    "type": "domain",
+    "value": "array514.prod.do.dsp.mp.microsoft.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:array514.prod.do.dsp.mp.microsoft.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 184
+    }
+  },
+  {
+    "type": "domain",
+    "value": "array515.prod.do.dsp.mp.microsoft.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:array515.prod.do.dsp.mp.microsoft.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 185
+    }
+  },
+  {
+    "type": "domain",
+    "value": "array601.prod.do.dsp.mp.microsoft.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:array601.prod.do.dsp.mp.microsoft.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 186
+    }
+  },
+  {
+    "type": "domain",
+    "value": "array602.prod.do.dsp.mp.microsoft.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:array602.prod.do.dsp.mp.microsoft.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 187
+    }
+  },
+  {
+    "type": "domain",
+    "value": "array603.prod.do.dsp.mp.microsoft.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:array603.prod.do.dsp.mp.microsoft.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 188
+    }
+  },
+  {
+    "type": "domain",
+    "value": "array604.prod.do.dsp.mp.microsoft.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:array604.prod.do.dsp.mp.microsoft.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 189
+    }
+  },
+  {
+    "type": "domain",
+    "value": "array605.prod.do.dsp.mp.microsoft.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:array605.prod.do.dsp.mp.microsoft.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 190
+    }
+  },
+  {
+    "type": "domain",
+    "value": "array606.prod.do.dsp.mp.microsoft.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:array606.prod.do.dsp.mp.microsoft.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 191
+    }
+  },
+  {
+    "type": "domain",
+    "value": "array607.prod.do.dsp.mp.microsoft.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:array607.prod.do.dsp.mp.microsoft.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 192
+    }
+  },
+  {
+    "type": "domain",
+    "value": "array608.prod.do.dsp.mp.microsoft.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:array608.prod.do.dsp.mp.microsoft.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 193
+    }
+  },
+  {
+    "type": "domain",
+    "value": "array609.prod.do.dsp.mp.microsoft.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:array609.prod.do.dsp.mp.microsoft.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 194
+    }
+  },
+  {
+    "type": "domain",
+    "value": "array610.prod.do.dsp.mp.microsoft.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:array610.prod.do.dsp.mp.microsoft.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 195
+    }
+  },
+  {
+    "type": "domain",
+    "value": "array611.prod.do.dsp.mp.microsoft.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:array611.prod.do.dsp.mp.microsoft.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 196
+    }
+  },
+  {
+    "type": "domain",
+    "value": "array612.prod.do.dsp.mp.microsoft.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:array612.prod.do.dsp.mp.microsoft.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 197
+    }
+  },
+  {
+    "type": "domain",
+    "value": "array613.prod.do.dsp.mp.microsoft.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:array613.prod.do.dsp.mp.microsoft.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 198
+    }
+  },
+  {
+    "type": "domain",
+    "value": "array614.prod.do.dsp.mp.microsoft.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:array614.prod.do.dsp.mp.microsoft.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 199
+    }
+  },
+  {
+    "type": "domain",
+    "value": "array615.prod.do.dsp.mp.microsoft.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:array615.prod.do.dsp.mp.microsoft.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 200
+    }
+  },
+  {
+    "type": "domain",
+    "value": "array616.prod.do.dsp.mp.microsoft.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:array616.prod.do.dsp.mp.microsoft.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 201
+    }
+  },
+  {
+    "type": "domain",
+    "value": "array810.prod.do.dsp.mp.microsoft.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:array810.prod.do.dsp.mp.microsoft.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 202
+    }
+  },
+  {
+    "type": "domain",
+    "value": "array811.prod.do.dsp.mp.microsoft.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:array811.prod.do.dsp.mp.microsoft.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 203
+    }
+  },
+  {
+    "type": "domain",
+    "value": "array813.prod.do.dsp.mp.microsoft.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:array813.prod.do.dsp.mp.microsoft.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 204
+    }
+  },
+  {
+    "type": "domain",
+    "value": "array815.prod.do.dsp.mp.microsoft.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:array815.prod.do.dsp.mp.microsoft.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 205
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bg.v4.a.dl.ws.microsoft.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bg.v4.a.dl.ws.microsoft.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 208
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bg1.v4.a.dl.ws.microsoft.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bg1.v4.a.dl.ws.microsoft.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 210
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bg2.v4.a.dl.ws.microsoft.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bg2.v4.a.dl.ws.microsoft.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 212
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bg3.v4.a.dl.ws.microsoft.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bg3.v4.a.dl.ws.microsoft.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 214
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bg4.v4.a.dl.ws.microsoft.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bg4.v4.a.dl.ws.microsoft.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 216
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bg5.v4.a.dl.ws.microsoft.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bg5.v4.a.dl.ws.microsoft.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 218
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bl2p.wns.notify.windows.com.akadns.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bl2p.wns.notify.windows.com.akadns.net",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 221
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bl2p.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bl2p.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 220
+    }
+  },
+  {
+    "type": "domain",
+    "value": "blob.dsm08prdstr03a.store.core.windows.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:blob.dsm08prdstr03a.store.core.windows.net",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 222
+    }
+  },
+  {
+    "type": "domain",
+    "value": "blob.sn4prdstr03a.store.core.windows.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:blob.sn4prdstr03a.store.core.windows.net",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 223
+    }
+  },
+  {
+    "type": "domain",
+    "value": "client.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:client.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 224
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db3wns2011111.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db3wns2011111.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 226
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 227
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5p.wns.notify.windows.com.akadns.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5p.wns.notify.windows.com.akadns.net",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 230
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5p.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5p.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 229
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101100122.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101100122.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 231
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101100127.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101100127.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 232
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101100831.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101100831.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 233
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101100835.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101100835.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 234
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101100917.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101100917.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 235
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101100925.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101100925.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 236
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101100928.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101100928.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 237
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101100938.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101100938.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 238
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101101001.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101101001.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 239
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101101022.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101101022.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 240
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101101024.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101101024.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 241
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101101031.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101101031.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 242
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101101034.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101101034.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 243
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101101042.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101101042.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 244
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101101044.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101101044.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 245
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101101122.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101101122.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 246
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101101123.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101101123.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 247
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101101125.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101101125.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 248
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101101128.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101101128.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 249
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101101129.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101101129.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 250
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101101133.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101101133.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 251
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101101145.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101101145.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 252
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101101209.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101101209.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 253
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101101221.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101101221.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 254
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101101228.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101101228.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 255
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101101231.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101101231.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 256
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101101237.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101101237.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 257
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101101317.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101101317.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 258
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101101324.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101101324.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 259
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101101329.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101101329.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 260
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101101333.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101101333.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 261
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101101334.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101101334.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 262
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101101338.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101101338.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 263
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101101419.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101101419.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 264
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101101424.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101101424.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 265
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101101426.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101101426.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 266
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101101427.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101101427.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 267
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101101430.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101101430.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 268
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101101445.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101101445.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 269
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101101511.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101101511.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 270
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101101519.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101101519.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 271
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101101529.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101101529.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 272
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101101535.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101101535.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 273
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101101541.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101101541.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 274
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101101543.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101101543.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 275
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101101608.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101101608.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 276
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101101618.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101101618.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 277
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101101629.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101101629.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 278
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101101631.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101101631.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 279
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101101633.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101101633.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 280
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101101640.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101101640.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 281
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101101711.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101101711.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 282
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101101722.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101101722.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 283
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101101739.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101101739.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 284
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101101745.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101101745.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 285
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101101813.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101101813.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 286
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101101820.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101101820.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 287
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101101826.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101101826.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 288
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101101828.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101101828.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 289
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101101835.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101101835.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 290
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101101837.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101101837.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 291
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101101844.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101101844.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 292
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101101902.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101101902.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 293
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101101907.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101101907.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 294
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101101910.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101101910.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 295
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101101914.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101101914.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 296
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101101929.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101101929.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 297
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101101939.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101101939.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 298
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101101941.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101101941.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 299
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101102015.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101102015.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 300
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101102017.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101102017.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 301
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101102019.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101102019.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 302
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101102023.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101102023.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 303
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101102025.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101102025.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 304
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101102032.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101102032.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 305
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101102033.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101102033.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 306
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101110108.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101110108.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 307
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101110109.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101110109.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 308
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101110114.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101110114.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 309
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101110135.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101110135.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 310
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101110142.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101110142.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 311
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101110204.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101110204.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 312
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101110206.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101110206.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 313
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101110214.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101110214.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 314
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101110225.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101110225.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 315
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101110232.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101110232.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 316
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101110245.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101110245.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 317
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101110315.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101110315.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 318
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101110323.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101110323.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 319
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101110325.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101110325.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 320
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101110328.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101110328.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 321
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101110331.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101110331.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 322
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101110341.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101110341.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 323
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101110343.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101110343.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 324
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101110345.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101110345.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 325
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101110403.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101110403.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 326
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101110408.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101110408.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 327
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101110419.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101110419.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 328
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101110428.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101110428.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 329
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101110435.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101110435.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 330
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101110438.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101110438.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 331
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101110442.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101110442.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 332
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101110501.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101110501.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 333
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101110510.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101110510.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 334
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101110518.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101110518.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 335
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101110527.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101110527.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 336
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101110533.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101110533.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 337
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101110618.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101110618.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 338
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101110621.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101110621.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 339
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101110622.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101110622.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 340
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101110624.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101110624.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 341
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101110626.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101110626.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 342
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101110634.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101110634.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 343
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101110705.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101110705.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 344
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101110713.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101110713.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 345
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101110724.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101110724.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 346
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101110729.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101110729.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 347
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101110740.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101110740.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 348
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101110810.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101110810.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 349
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101110816.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101110816.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 350
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101110821.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101110821.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 351
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101110822.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101110822.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 352
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101110825.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101110825.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 353
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101110828.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101110828.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 354
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101110829.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101110829.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 355
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101110831.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101110831.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 356
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101110835.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101110835.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 357
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101110919.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101110919.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 358
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101110921.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101110921.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 359
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101110923.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101110923.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 360
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch101110929.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch101110929.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 361
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch103081814.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch103081814.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 362
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch103081913.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch103081913.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 363
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch103082011.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch103082011.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 364
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch103082111.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch103082111.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 365
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch103082308.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch103082308.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 366
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch103082406.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch103082406.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 367
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch103082409.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch103082409.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 368
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch103082609.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch103082609.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 369
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch103082611.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch103082611.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 370
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch103082709.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch103082709.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 371
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch103082712.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch103082712.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 372
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch103082806.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch103082806.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 373
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch103090115.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch103090115.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 374
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch103090210.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch103090210.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 375
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch103090414.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch103090414.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 376
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch103090415.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch103090415.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 377
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch103090513.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch103090513.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 378
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch103090515.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch103090515.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 379
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch103090608.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch103090608.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 380
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch103090806.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch103090806.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 381
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch103090814.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch103090814.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 382
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch103090906.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch103090906.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 383
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch103091011.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch103091011.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 384
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch103091012.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch103091012.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 385
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch103091106.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch103091106.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 386
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch103091108.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch103091108.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 387
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch103091212.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch103091212.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 388
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch103091311.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch103091311.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 389
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch103091313.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch103091313.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 390
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch103091414.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch103091414.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 391
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch103091511.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch103091511.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 392
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch103091609.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch103091609.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 393
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch103091617.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch103091617.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 394
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch103091715.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch103091715.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 395
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch103091817.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch103091817.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 396
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch103091908.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch103091908.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 397
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch103091911.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch103091911.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 398
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch103092010.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch103092010.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 399
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch103092108.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch103092108.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 400
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch103092109.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch103092109.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 401
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch103092209.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch103092209.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 402
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch103092210.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch103092210.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 403
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch103092509.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch103092509.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 404
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch103100117.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch103100117.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 405
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch103100121.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch103100121.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 406
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch103100221.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch103100221.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 407
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch103100313.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch103100313.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 408
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch103100314.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch103100314.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 409
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch103100412.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch103100412.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 410
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch103100510.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch103100510.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 411
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch103100511.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch103100511.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 412
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch103100611.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch103100611.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 413
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch103100712.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch103100712.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 414
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch103101105.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch103101105.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 415
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch103101208.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch103101208.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 416
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch103101212.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch103101212.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 417
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch103101314.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch103101314.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 418
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch103101411.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch103101411.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 419
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch103101413.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch103101413.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 420
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch103101513.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch103101513.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 421
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch103101610.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch103101610.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 422
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch103101611.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch103101611.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 423
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch103101705.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch103101705.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 424
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch103101711.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch103101711.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 425
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch103101813.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch103101813.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 426
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch103101909.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch103101909.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 427
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch103101914.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch103101914.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 428
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch103102009.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch103102009.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 429
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch103102112.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch103102112.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 430
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch103102203.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch103102203.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 431
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch103102209.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch103102209.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 432
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch103102310.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch103102310.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 433
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch103102404.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch103102404.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 434
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch103102410.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch103102410.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 435
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch103102516.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch103102516.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 436
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch103102609.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch103102609.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 437
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch103102610.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch103102610.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 438
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch103102710.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch103102710.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 439
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch103102711.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch103102711.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 440
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5sch103102805.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5sch103102805.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 441
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db5wns1d.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db5wns1d.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 442
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db6sch102090104.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db6sch102090104.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 443
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db6sch102090109.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db6sch102090109.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 444
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db6sch102090112.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db6sch102090112.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 445
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db6sch102090116.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db6sch102090116.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 446
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db6sch102090122.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db6sch102090122.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 447
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db6sch102090203.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db6sch102090203.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 448
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db6sch102090206.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db6sch102090206.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 449
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db6sch102090208.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db6sch102090208.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 450
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db6sch102090209.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db6sch102090209.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 451
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db6sch102090210.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db6sch102090210.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 452
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db6sch102090211.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db6sch102090211.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 453
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db6sch102090212.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db6sch102090212.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 454
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db6sch102090305.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db6sch102090305.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 455
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db6sch102090306.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db6sch102090306.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 456
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db6sch102090308.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db6sch102090308.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 457
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db6sch102090311.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db6sch102090311.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 458
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db6sch102090313.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db6sch102090313.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 459
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db6sch102090410.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db6sch102090410.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 460
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db6sch102090412.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db6sch102090412.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 461
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db6sch102090504.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db6sch102090504.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 462
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db6sch102090510.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db6sch102090510.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 463
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db6sch102090512.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db6sch102090512.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 464
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db6sch102090513.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db6sch102090513.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 465
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db6sch102090514.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db6sch102090514.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 466
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db6sch102090519.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db6sch102090519.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 467
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db6sch102090613.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db6sch102090613.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 468
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db6sch102090619.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db6sch102090619.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 469
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db6sch102090810.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db6sch102090810.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 470
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db6sch102090811.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db6sch102090811.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 471
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db6sch102090902.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db6sch102090902.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 472
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db6sch102090905.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db6sch102090905.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 473
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db6sch102090907.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db6sch102090907.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 474
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db6sch102090908.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db6sch102090908.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 475
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db6sch102090910.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db6sch102090910.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 476
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db6sch102090911.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db6sch102090911.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 477
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db6sch102091003.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db6sch102091003.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 478
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db6sch102091007.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db6sch102091007.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 479
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db6sch102091008.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db6sch102091008.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 480
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db6sch102091009.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db6sch102091009.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 481
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db6sch102091011.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db6sch102091011.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 482
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db6sch102091103.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db6sch102091103.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 483
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db6sch102091105.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db6sch102091105.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 484
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db6sch102091204.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db6sch102091204.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 485
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db6sch102091205.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db6sch102091205.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 486
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db6sch102091209.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db6sch102091209.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 487
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db6sch102091305.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db6sch102091305.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 488
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db6sch102091307.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db6sch102091307.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 489
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db6sch102091308.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db6sch102091308.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 490
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db6sch102091309.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db6sch102091309.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 491
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db6sch102091314.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db6sch102091314.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 492
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db6sch102091412.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db6sch102091412.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 493
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db6sch102091503.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db6sch102091503.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 494
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db6sch102091507.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db6sch102091507.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 495
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db6sch102091508.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db6sch102091508.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 496
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db6sch102091602.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db6sch102091602.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 497
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db6sch102091603.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db6sch102091603.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 498
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db6sch102091606.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db6sch102091606.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 499
+    }
+  },
+  {
+    "type": "domain",
+    "value": "db6sch102091607.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:db6sch102091607.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 500
+    }
+  },
+  {
+    "type": "domain",
+    "value": "definitionupdates.microsoft.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:definitionupdates.microsoft.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 503
+    }
+  },
+  {
+    "type": "domain",
+    "value": "displaycatalog.md.mp.microsoft.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:displaycatalog.md.mp.microsoft.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 501
+    }
+  },
+  {
+    "type": "domain",
+    "value": "displaycatalog.mp.microsoft.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:displaycatalog.mp.microsoft.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 502
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dl.delivery.mp.microsoft.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dl.delivery.mp.microsoft.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 504
+    }
+  },
+  {
+    "type": "domain",
+    "value": "download.microsoft.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:download.microsoft.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 505
+    }
+  },
+  {
+    "type": "domain",
+    "value": "emdl.ws.microsoft.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:emdl.ws.microsoft.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 508
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fe2.update.microsoft.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fe2.update.microsoft.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 509
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fe2.update.microsoft.com.akadns.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fe2.update.microsoft.com.akadns.net",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 510
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fe2.ws.microsoft.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fe2.ws.microsoft.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 511
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fe2cr.update.microsoft.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fe2cr.update.microsoft.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 512
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fe3.delivery.dsp.mp.microsoft.com.nsatc.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fe3.delivery.dsp.mp.microsoft.com.nsatc.net",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 513
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fe3.delivery.mp.microsoft.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fe3.delivery.mp.microsoft.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 514
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fe3cr.delivery.mp.microsoft.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fe3cr.delivery.mp.microsoft.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 515
+    }
+  },
+  {
+    "type": "domain",
+    "value": "geo-prod.do.dsp.mp.microsoft.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:geo-prod.do.dsp.mp.microsoft.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 518
+    }
+  },
+  {
+    "type": "domain",
+    "value": "geover-prod.do.dsp.mp.microsoft.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:geover-prod.do.dsp.mp.microsoft.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 519
+    }
+  },
+  {
+    "type": "domain",
+    "value": "neu-displaycatalogrp.frontdoor.bigcatalog.commerce.microsoft.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:neu-displaycatalogrp.frontdoor.bigcatalog.commerce.microsoft.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 521
+    }
+  },
+  {
+    "type": "domain",
+    "value": "o-ring.msedge.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:o-ring.msedge.net",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 522
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sg2p.wns.notify.trafficmanager.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sg2p.wns.notify.trafficmanager.net",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 523
+    }
+  },
+  {
+    "type": "domain",
+    "value": "skydrive.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:skydrive.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 524
+    }
+  },
+  {
+    "type": "domain",
+    "value": "skydrivesync.policies.live.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:skydrivesync.policies.live.net",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 525
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sls.update.microsoft.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sls.update.microsoft.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 526
+    }
+  },
+  {
+    "type": "domain",
+    "value": "slscr.update.microsoft.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:slscr.update.microsoft.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 527
+    }
+  },
+  {
+    "type": "domain",
+    "value": "spo-ring.msedge.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:spo-ring.msedge.net",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 528
+    }
+  },
+  {
+    "type": "domain",
+    "value": "statsfe1.ws.microsoft.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:statsfe1.ws.microsoft.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 531
+    }
+  },
+  {
+    "type": "domain",
+    "value": "statsfe2.update.microsoft.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:statsfe2.update.microsoft.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 529
+    }
+  },
+  {
+    "type": "domain",
+    "value": "statsfe2.update.microsoft.com.akadns.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:statsfe2.update.microsoft.com.akadns.net",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 530
+    }
+  },
+  {
+    "type": "domain",
+    "value": "statsfe2.ws.microsoft.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:statsfe2.ws.microsoft.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 532
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tsfe.trafficshaping.dsp.mp.microsoft.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tsfe.trafficshaping.dsp.mp.microsoft.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 534
+    }
+  },
+  {
+    "type": "domain",
+    "value": "windowsupdate.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:windowsupdate.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 536
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wns2-db5p.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wns2-db5p.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 537
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wns2-par02p.wns.windows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wns2-par02p.wns.windows.com",
+    "source": {
+      "list": "WIN-UPDATE",
+      "line": 538
+    }
+  }
+]

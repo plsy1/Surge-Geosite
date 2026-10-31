@@ -1,0 +1,101 @@
+[
+  {
+    "type": "domain",
+    "value": "dev-guardianapis.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dev-guardianapis.com",
+    "source": {
+      "list": "THEGUARDIAN",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dev-theguardian.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dev-theguardian.com",
+    "source": {
+      "list": "THEGUARDIAN",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gu-web.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gu-web.net",
+    "source": {
+      "list": "THEGUARDIAN",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "guardianapis.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:guardianapis.com",
+    "source": {
+      "list": "THEGUARDIAN",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "guardianapps.co.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:guardianapps.co.uk",
+    "source": {
+      "list": "THEGUARDIAN",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "guim.co.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:guim.co.uk",
+    "source": {
+      "list": "THEGUARDIAN",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "guimcode.co.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:guimcode.co.uk",
+    "source": {
+      "list": "THEGUARDIAN",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "theguardian.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:theguardian.com",
+    "source": {
+      "list": "THEGUARDIAN",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "theguardiandns.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:theguardiandns.com",
+    "source": {
+      "list": "THEGUARDIAN",
+      "line": 12
+    }
+  }
+]

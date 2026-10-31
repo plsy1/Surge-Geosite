@@ -1,0 +1,46 @@
+[
+  {
+    "type": "domain",
+    "value": "178.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:178.com",
+    "source": {
+      "list": "NGA",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nga.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nga.cn",
+    "source": {
+      "list": "NGA",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ngabbs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ngabbs.com",
+    "source": {
+      "list": "NGA",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ngacn.cc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ngacn.cc",
+    "source": {
+      "list": "NGA",
+      "line": 4
+    }
+  }
+]

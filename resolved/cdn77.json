@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "cdn77.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdn77.com",
+    "source": {
+      "list": "CDN77",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdn77.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdn77.org",
+    "source": {
+      "list": "CDN77",
+      "line": 2
+    }
+  }
+]

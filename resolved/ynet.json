@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "ynet.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ynet.cn",
+    "source": {
+      "list": "YNET",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ynet.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ynet.com",
+    "source": {
+      "list": "YNET",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ynet.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ynet.com.cn",
+    "source": {
+      "list": "YNET",
+      "line": 5
+    }
+  }
+]

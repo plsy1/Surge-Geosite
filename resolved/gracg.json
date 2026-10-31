@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "gracg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gracg.com",
+    "source": {
+      "list": "GRACG",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "procg.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:procg.cn",
+    "source": {
+      "list": "GRACG",
+      "line": 2
+    }
+  }
+]

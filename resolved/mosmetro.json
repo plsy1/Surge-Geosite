@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "mosmetro.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mosmetro.ru",
+    "source": {
+      "list": "MOSMETRO",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mosmetro.tech",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mosmetro.tech",
+    "source": {
+      "list": "MOSMETRO",
+      "line": 2
+    }
+  }
+]

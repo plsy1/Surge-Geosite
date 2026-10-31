@@ -1,0 +1,46 @@
+[
+  {
+    "type": "domain",
+    "value": "hentaivn.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hentaivn.de",
+    "source": {
+      "list": "HENTAIVN",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hentaivn.la",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hentaivn.la",
+    "source": {
+      "list": "HENTAIVN",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hentaivn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hentaivn.net",
+    "source": {
+      "list": "HENTAIVN",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "htvncdn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:htvncdn.net",
+    "source": {
+      "list": "HENTAIVN",
+      "line": 4
+    }
+  }
+]

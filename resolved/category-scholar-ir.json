@@ -1,0 +1,90 @@
+[
+  {
+    "type": "domain",
+    "value": "ac.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ac.ir",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-IR",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "edu.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:edu.ir",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-IR",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "iranlms.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:iranlms.ir",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-IR",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jtt.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jtt.ir",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-IR",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sanjesh.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sanjesh.org",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-IR",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sharif.edu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sharif.edu",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-IR",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sharif.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sharif.ir",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-IR",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "srttu.edu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:srttu.edu",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-IR",
+      "line": 11
+    }
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "type": "domain",
+    "value": "cdpred.services",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdpred.services",
+    "source": {
+      "list": "CDPROJEKT",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdprojekt.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdprojekt.com",
+    "source": {
+      "list": "CDPROJEKT",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdprojekt.red",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdprojekt.red",
+    "source": {
+      "list": "CDPROJEKT",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdprojektred.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdprojektred.com",
+    "source": {
+      "list": "CDPROJEKT",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cyberpunk.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cyberpunk.net",
+    "source": {
+      "list": "CDPROJEKT",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "playgwent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:playgwent.com",
+    "source": {
+      "list": "CDPROJEKT",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "thewitcher.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:thewitcher.com",
+    "source": {
+      "list": "CDPROJEKT",
+      "line": 7
+    }
+  }
+]

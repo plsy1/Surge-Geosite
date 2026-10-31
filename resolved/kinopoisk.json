@@ -1,0 +1,57 @@
+[
+  {
+    "type": "domain",
+    "value": "kinopoisk-ru.clstorage.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kinopoisk-ru.clstorage.net",
+    "source": {
+      "list": "KINOPOISK",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kinopoisk.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kinopoisk.ru",
+    "source": {
+      "list": "KINOPOISK",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kp.yandex.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kp.yandex.net",
+    "source": {
+      "list": "KINOPOISK",
+      "line": 3
+    }
+  },
+  {
+    "type": "full",
+    "value": "kp-config-smart-tv.akamaized.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:kp-config-smart-tv.akamaized.net",
+    "source": {
+      "list": "KINOPOISK",
+      "line": 6
+    }
+  },
+  {
+    "type": "full",
+    "value": "kp-configs-smart-tv.s3.eu-central-1.amazonaws.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:kp-configs-smart-tv.s3.eu-central-1.amazonaws.com",
+    "source": {
+      "list": "KINOPOISK",
+      "line": 7
+    }
+  }
+]

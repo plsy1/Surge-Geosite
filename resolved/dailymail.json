@@ -1,0 +1,189 @@
+[
+  {
+    "type": "domain",
+    "value": "anm.co.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:anm.co.uk",
+    "source": {
+      "list": "DAILYMAIL",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dailym.ai",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dailym.ai",
+    "source": {
+      "list": "DAILYMAIL",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dailymail.co.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dailymail.co.uk",
+    "source": {
+      "list": "DAILYMAIL",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dailymail.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dailymail.com",
+    "source": {
+      "list": "DAILYMAIL",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dailymail.com.au",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dailymail.com.au",
+    "source": {
+      "list": "DAILYMAIL",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dailymail.dk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dailymail.dk",
+    "source": {
+      "list": "DAILYMAIL",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dailymailonline.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dailymailonline.com",
+    "source": {
+      "list": "DAILYMAIL",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dmgmediaprivacy.co.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dmgmediaprivacy.co.uk",
+    "source": {
+      "list": "DAILYMAIL",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mailhealth.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mailhealth.com",
+    "source": {
+      "list": "DAILYMAIL",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mailonline.co.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mailonline.co.uk",
+    "source": {
+      "list": "DAILYMAIL",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mailonline.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mailonline.com",
+    "source": {
+      "list": "DAILYMAIL",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mailonsunday.co.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mailonsunday.co.uk",
+    "source": {
+      "list": "DAILYMAIL",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mailonsunday.ie",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mailonsunday.ie",
+    "source": {
+      "list": "DAILYMAIL",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "metro.co.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:metro.co.uk",
+    "source": {
+      "list": "DAILYMAIL",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mol.im",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mol.im",
+    "source": {
+      "list": "DAILYMAIL",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "thisismoney.co.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:thisismoney.co.uk",
+    "source": {
+      "list": "DAILYMAIL",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "thismon.ee",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:thismon.ee",
+    "source": {
+      "list": "DAILYMAIL",
+      "line": 17
+    }
+  }
+]

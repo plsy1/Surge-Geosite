@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "pawchive.pw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pawchive.pw",
+    "source": {
+      "list": "PAWCHIVE",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pawchive.st",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pawchive.st",
+    "source": {
+      "list": "PAWCHIVE",
+      "line": 2
+    }
+  }
+]

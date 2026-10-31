@@ -1,0 +1,233 @@
+[
+  {
+    "type": "domain",
+    "value": "appldnld.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:appldnld.apple.com",
+    "source": {
+      "list": "APPLE-UPDATE",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "configuration.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:configuration.apple.com",
+    "source": {
+      "list": "APPLE-UPDATE",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fcs-keys-pub-prod.cdn-apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fcs-keys-pub-prod.cdn-apple.com",
+    "source": {
+      "list": "APPLE-UPDATE",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gdmf-ados.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gdmf-ados.apple.com",
+    "source": {
+      "list": "APPLE-UPDATE",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gdmf.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gdmf.apple.com",
+    "source": {
+      "list": "APPLE-UPDATE",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gg.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gg.apple.com",
+    "source": {
+      "list": "APPLE-UPDATE",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gs.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gs.apple.com",
+    "source": {
+      "list": "APPLE-UPDATE",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gsra.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gsra.apple.com",
+    "source": {
+      "list": "APPLE-UPDATE",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ig.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ig.apple.com",
+    "source": {
+      "list": "APPLE-UPDATE",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mesu.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mesu.apple.com",
+    "source": {
+      "list": "APPLE-UPDATE",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oscdn.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oscdn.apple.com",
+    "source": {
+      "list": "APPLE-UPDATE",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "osrecovery.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:osrecovery.apple.com",
+    "source": {
+      "list": "APPLE-UPDATE",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "skl.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:skl.apple.com",
+    "source": {
+      "list": "APPLE-UPDATE",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "swcdn.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:swcdn.apple.com",
+    "source": {
+      "list": "APPLE-UPDATE",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "swdist.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:swdist.apple.com",
+    "source": {
+      "list": "APPLE-UPDATE",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "swdownload.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:swdownload.apple.com",
+    "source": {
+      "list": "APPLE-UPDATE",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "swscan.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:swscan.apple.com",
+    "source": {
+      "list": "APPLE-UPDATE",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "updates-http.cdn-apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:updates-http.cdn-apple.com",
+    "source": {
+      "list": "APPLE-UPDATE",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "updates.cdn-apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:updates.cdn-apple.com",
+    "source": {
+      "list": "APPLE-UPDATE",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wkms-public.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wkms-public.apple.com",
+    "source": {
+      "list": "APPLE-UPDATE",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xp.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xp.apple.com",
+    "source": {
+      "list": "APPLE-UPDATE",
+      "line": 23
+    }
+  }
+]

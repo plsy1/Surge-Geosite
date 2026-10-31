@@ -1,0 +1,369 @@
+[
+  {
+    "type": "domain",
+    "value": "cepacol.ca",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cepacol.ca",
+    "source": {
+      "list": "STREPSILS",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cepacol.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cepacol.com",
+    "source": {
+      "list": "STREPSILS",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dobendan.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dobendan.de",
+    "source": {
+      "list": "STREPSILS",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "graneodin.com.mx",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:graneodin.com.mx",
+    "source": {
+      "list": "STREPSILS",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "repsils.no",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:repsils.no",
+    "source": {
+      "list": "STREPSILS",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "strepsils.at",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:strepsils.at",
+    "source": {
+      "list": "STREPSILS",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "strepsils.ch",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:strepsils.ch",
+    "source": {
+      "list": "STREPSILS",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "strepsils.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:strepsils.cn:@cn",
+    "source": {
+      "list": "STREPSILS",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "strepsils.co.kr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:strepsils.co.kr",
+    "source": {
+      "list": "STREPSILS",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "strepsils.co.nz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:strepsils.co.nz",
+    "source": {
+      "list": "STREPSILS",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "strepsils.co.za",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:strepsils.co.za",
+    "source": {
+      "list": "STREPSILS",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "strepsils.com.ar",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:strepsils.com.ar",
+    "source": {
+      "list": "STREPSILS",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "strepsils.com.au",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:strepsils.com.au",
+    "source": {
+      "list": "STREPSILS",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "strepsils.com.br",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:strepsils.com.br",
+    "source": {
+      "list": "STREPSILS",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "strepsils.com.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:strepsils.com.cn:@cn",
+    "source": {
+      "list": "STREPSILS",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "strepsils.com.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:strepsils.com.co",
+    "source": {
+      "list": "STREPSILS",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "strepsils.com.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:strepsils.com.hk",
+    "source": {
+      "list": "STREPSILS",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "strepsils.com.ph",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:strepsils.com.ph",
+    "source": {
+      "list": "STREPSILS",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "strepsils.com.tw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:strepsils.com.tw",
+    "source": {
+      "list": "STREPSILS",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "strepsils.es",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:strepsils.es",
+    "source": {
+      "list": "STREPSILS",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "strepsils.fi",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:strepsils.fi",
+    "source": {
+      "list": "STREPSILS",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "strepsils.fr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:strepsils.fr",
+    "source": {
+      "list": "STREPSILS",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "strepsils.hr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:strepsils.hr",
+    "source": {
+      "list": "STREPSILS",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "strepsils.hu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:strepsils.hu",
+    "source": {
+      "list": "STREPSILS",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "strepsils.ie",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:strepsils.ie",
+    "source": {
+      "list": "STREPSILS",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "strepsils.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:strepsils.net",
+    "source": {
+      "list": "STREPSILS",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "strepsils.pl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:strepsils.pl",
+    "source": {
+      "list": "STREPSILS",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "strepsils.pt",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:strepsils.pt",
+    "source": {
+      "list": "STREPSILS",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "strepsils.ro",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:strepsils.ro",
+    "source": {
+      "list": "STREPSILS",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "strepsils.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:strepsils.ru",
+    "source": {
+      "list": "STREPSILS",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "strepsils.si",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:strepsils.si",
+    "source": {
+      "list": "STREPSILS",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "strepsils.us",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:strepsils.us",
+    "source": {
+      "list": "STREPSILS",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "strepsilsarabia.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:strepsilsarabia.com",
+    "source": {
+      "list": "STREPSILS",
+      "line": 33
+    }
+  }
+]

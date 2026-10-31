@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "nordcdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nordcdn.com",
+    "source": {
+      "list": "NORDVPN",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nordvpn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nordvpn.com",
+    "source": {
+      "list": "NORDVPN",
+      "line": 2
+    }
+  }
+]

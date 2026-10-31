@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "joyjoy.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:joyjoy.net",
+    "source": {
+      "list": "PANDANET",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pandanet-igs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pandanet-igs.com",
+    "source": {
+      "list": "PANDANET",
+      "line": 2
+    }
+  }
+]

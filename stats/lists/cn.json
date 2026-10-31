@@ -1,0 +1,130 @@
+{
+  "name": "CN",
+  "source": {
+    "domain": 4362,
+    "full": 558,
+    "keyword": 0,
+    "regexp": 8,
+    "include": 0,
+    "affiliations": 0,
+    "attributes": 0
+  },
+  "resolved": {
+    "rules": 4915,
+    "domain": 4362,
+    "full": 545,
+    "keyword": 0,
+    "regexp": 8
+  },
+  "filters": {
+    "attrs": {}
+  },
+  "modes": {
+    "strict": {
+      "rules": 4907,
+      "bytes": 132544,
+      "regex": {
+        "total": 8,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 8
+      },
+      "unsupported": [
+        {
+          "pattern": ".+\\.awsdns-cn-[0-9][0-9]\\.(biz|com|net|top)$",
+          "source": {
+            "list": "CN",
+            "line": 4921
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": ".+\\.awsdns-cn-[0-9][a-e0-9]\\.cn$",
+          "source": {
+            "list": "CN",
+            "line": 4922
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "^.+-mihayo\\.akamaized\\.net$",
+          "source": {
+            "list": "CN",
+            "line": 4924
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "^(.+\\.)*zh\\.okaapps\\.com$",
+          "source": {
+            "list": "CN",
+            "line": 4923
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "^cdn\\d-epicgames-\\d+\\.file\\.myqcloud\\.com$",
+          "source": {
+            "list": "CN",
+            "line": 4925
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "^epicgames-download\\d-\\d+\\.file\\.myqcloud\\.com$",
+          "source": {
+            "list": "CN",
+            "line": 4926
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "^r+[0-9]+(---|\\.)sn-(2x3|ni5|j5o)\\w{5}\\.googlevideo\\.com$",
+          "source": {
+            "list": "CN",
+            "line": 4927
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        },
+        {
+          "pattern": "^r+[0-9]+(---|\\.)sn-(2x3|ni5|j5o)\\w{5}\\.xn--ngstr-lra8j\\.com$",
+          "source": {
+            "list": "CN",
+            "line": 4928
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        }
+      ]
+    },
+    "balanced": {
+      "rules": 4915,
+      "bytes": 132867,
+      "regex": {
+        "total": 8,
+        "lossless": 0,
+        "widened": 8,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "full": {
+      "rules": 4915,
+      "bytes": 132867,
+      "regex": {
+        "total": 8,
+        "lossless": 0,
+        "widened": 8,
+        "unsupported": 0
+      },
+      "unsupported": []
+    }
+  }
+}

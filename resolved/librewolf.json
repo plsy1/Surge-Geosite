@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "librewolf.dev",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:librewolf.dev",
+    "source": {
+      "list": "LIBREWOLF",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "librewolf.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:librewolf.net",
+    "source": {
+      "list": "LIBREWOLF",
+      "line": 2
+    }
+  }
+]

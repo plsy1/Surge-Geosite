@@ -1,0 +1,101 @@
+[
+  {
+    "type": "domain",
+    "value": "100.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:100.me",
+    "source": {
+      "list": "DDMAICAI",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ddcorp.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ddcorp.net",
+    "source": {
+      "list": "DDMAICAI",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ddfresh.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ddfresh.net",
+    "source": {
+      "list": "DDMAICAI",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ddimg.mobi",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ddimg.mobi",
+    "source": {
+      "list": "DDMAICAI",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ddmaicai.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ddmaicai.net",
+    "source": {
+      "list": "DDMAICAI",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ddmc.mobi",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ddmc.mobi",
+    "source": {
+      "list": "DDMAICAI",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dduser.mobi",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dduser.mobi",
+    "source": {
+      "list": "DDMAICAI",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ddxq.mobi",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ddxq.mobi",
+    "source": {
+      "list": "DDMAICAI",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "imaicai.mobi",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:imaicai.mobi",
+    "source": {
+      "list": "DDMAICAI",
+      "line": 10
+    }
+  }
+]

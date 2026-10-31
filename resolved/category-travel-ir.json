@@ -1,0 +1,79 @@
+[
+  {
+    "type": "domain",
+    "value": "alibaba.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:alibaba.ir",
+    "source": {
+      "list": "CATEGORY-TRAVEL-IR",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "flightio.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:flightio.com",
+    "source": {
+      "list": "CATEGORY-TRAVEL-IR",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mrbilit.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mrbilit.com",
+    "source": {
+      "list": "CATEGORY-TRAVEL-IR",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tap30.services",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tap30.services",
+    "source": {
+      "list": "CATEGORY-TRAVEL-IR",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tap33.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tap33.me",
+    "source": {
+      "list": "CATEGORY-TRAVEL-IR",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tapsi.cab",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tapsi.cab",
+    "source": {
+      "list": "CATEGORY-TRAVEL-IR",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tapsi.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tapsi.ir",
+    "source": {
+      "list": "CATEGORY-TRAVEL-IR",
+      "line": 9
+    }
+  }
+]

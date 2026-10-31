@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "quera.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:quera.ir",
+    "source": {
+      "list": "CATEGORY-FORUMS-IR",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "quera.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:quera.org",
+    "source": {
+      "list": "CATEGORY-FORUMS-IR",
+      "line": 5
+    }
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "type": "domain",
+    "value": "adbehavior.ximalaya.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:adbehavior.ximalaya.com:@ads",
+    "source": {
+      "list": "XIMALAYA",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adse.wsa.ximalaya.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:adse.wsa.ximalaya.com:@ads",
+    "source": {
+      "list": "XIMALAYA",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adse.ximalaya.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:adse.ximalaya.com:@ads",
+    "source": {
+      "list": "XIMALAYA",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ximalaya.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ximalaya.com",
+    "source": {
+      "list": "XIMALAYA",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xmcdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xmcdn.com",
+    "source": {
+      "list": "XIMALAYA",
+      "line": 2
+    }
+  }
+]

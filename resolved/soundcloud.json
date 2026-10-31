@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "sndcdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sndcdn.com",
+    "source": {
+      "list": "SOUNDCLOUD",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "soundcloud.cloud",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:soundcloud.cloud",
+    "source": {
+      "list": "SOUNDCLOUD",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "soundcloud.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:soundcloud.com",
+    "source": {
+      "list": "SOUNDCLOUD",
+      "line": 3
+    }
+  }
+]

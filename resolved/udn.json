@@ -1,0 +1,46 @@
+[
+  {
+    "type": "domain",
+    "value": "udn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:udn.com",
+    "source": {
+      "list": "UDN",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "udn.com.tw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:udn.com.tw",
+    "source": {
+      "list": "UDN",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "udndata.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:udndata.com",
+    "source": {
+      "list": "UDN",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "udnfunlife.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:udnfunlife.com",
+    "source": {
+      "list": "UDN",
+      "line": 4
+    }
+  }
+]

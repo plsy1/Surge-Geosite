@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "cloudinary.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudinary.com",
+    "source": {
+      "list": "CLOUDINARY",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudinary.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudinary.net",
+    "source": {
+      "list": "CLOUDINARY",
+      "line": 2
+    }
+  }
+]

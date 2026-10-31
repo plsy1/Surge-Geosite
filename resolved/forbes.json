@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "forbes.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:forbes.com",
+    "source": {
+      "list": "FORBES",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "forbesimg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:forbesimg.com",
+    "source": {
+      "list": "FORBES",
+      "line": 2
+    }
+  }
+]

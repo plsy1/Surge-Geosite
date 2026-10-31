@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "lagou.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lagou.com",
+    "source": {
+      "list": "LAGOU",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lgstatic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lgstatic.com",
+    "source": {
+      "list": "LAGOU",
+      "line": 2
+    }
+  }
+]

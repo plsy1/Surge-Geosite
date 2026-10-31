@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "5w.ag",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:5w.ag",
+    "source": {
+      "list": "SWAG",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "swag-live.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:swag-live.co",
+    "source": {
+      "list": "SWAG",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "swag.live",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:swag.live",
+    "source": {
+      "list": "SWAG",
+      "line": 3
+    }
+  }
+]

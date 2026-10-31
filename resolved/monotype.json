@@ -1,0 +1,156 @@
+[
+  {
+    "type": "domain",
+    "value": "bitstream.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bitstream.com",
+    "source": {
+      "list": "MONOTYPE",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fontbook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fontbook.com",
+    "source": {
+      "list": "FONTSHOP",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fontexplorerx.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fontexplorerx.com",
+    "source": {
+      "list": "FONTEXPLORER",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fonts.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fonts.com",
+    "source": {
+      "list": "FONTS",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fonts.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fonts.net",
+    "source": {
+      "list": "FONTS",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fontshop.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fontshop.com",
+    "source": {
+      "list": "FONTSHOP",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fstopimages.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fstopimages.com",
+    "source": {
+      "list": "FONTSHOP",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "itcfonts.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:itcfonts.com",
+    "source": {
+      "list": "MONOTYPE",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "linotype.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:linotype.com",
+    "source": {
+      "list": "LINOTYPE",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "monotype.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:monotype.com",
+    "source": {
+      "list": "MONOTYPE",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "monotypeimaging.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:monotypeimaging.com",
+    "source": {
+      "list": "MONOTYPE",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "myfonts.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:myfonts.com",
+    "source": {
+      "list": "MYFONTS",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "myfonts.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:myfonts.net",
+    "source": {
+      "list": "MYFONTS",
+      "line": 2
+    }
+  },
+  {
+    "type": "full",
+    "value": "fontshop-prod-responsive-images.s3.amazonaws.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:fontshop-prod-responsive-images.s3.amazonaws.com",
+    "source": {
+      "list": "FONTSHOP",
+      "line": 5
+    }
+  }
+]

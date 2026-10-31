@@ -1,0 +1,118 @@
+[
+  {
+    "type": "domain",
+    "value": "googleplay.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:googleplay.com",
+    "source": {
+      "list": "GOOGLE-PLAY",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "play-fe.googleapis.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:play-fe.googleapis.com",
+    "source": {
+      "list": "GOOGLE-PLAY",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "play-games.googleusercontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:play-games.googleusercontent.com",
+    "source": {
+      "list": "GOOGLE-PLAY",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "play-lh.googleusercontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:play-lh.googleusercontent.com",
+    "source": {
+      "list": "GOOGLE-PLAY",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "play.google.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:play.google.com",
+    "source": {
+      "list": "GOOGLE-PLAY",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "play.googleapis.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:play.googleapis.com",
+    "source": {
+      "list": "GOOGLE-PLAY",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--ngstr-lra8j.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--ngstr-lra8j.com",
+    "source": {
+      "list": "GOOGLE-PLAY",
+      "line": 7
+    }
+  },
+  {
+    "type": "full",
+    "value": "redirector.c.play.google.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:redirector.c.play.google.com:@cn",
+    "source": {
+      "list": "GOOGLE-PLAY",
+      "line": 16
+    }
+  },
+  {
+    "type": "regexp",
+    "value": "^r+[0-9]+(---|\\.)sn-(2x3|ni5|j5o)\\w{5}\\.googlevideo\\.com$",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "regexp:^r+[0-9]+(---|\\.)sn-(2x3|ni5|j5o)\\w{5}\\.googlevideo\\.com$:@cn",
+    "source": {
+      "list": "GOOGLE-PLAY",
+      "line": 14
+    }
+  },
+  {
+    "type": "regexp",
+    "value": "^r+[0-9]+(---|\\.)sn-(2x3|ni5|j5o)\\w{5}\\.xn--ngstr-lra8j\\.com$",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "regexp:^r+[0-9]+(---|\\.)sn-(2x3|ni5|j5o)\\w{5}\\.xn--ngstr-lra8j\\.com$:@cn",
+    "source": {
+      "list": "GOOGLE-PLAY",
+      "line": 12
+    }
+  }
+]

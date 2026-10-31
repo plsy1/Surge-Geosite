@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "waa.tw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:waa.tw",
+    "source": {
+      "list": "WATCHOUT",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "watchout.tw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:watchout.tw",
+    "source": {
+      "list": "WATCHOUT",
+      "line": 1
+    }
+  }
+]

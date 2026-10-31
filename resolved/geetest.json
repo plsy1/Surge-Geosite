@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "geetest.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:geetest.com",
+    "source": {
+      "list": "GEETEST",
+      "line": 1
+    }
+  },
+  {
+    "type": "full",
+    "value": "geetest.datasink.sensorsdata.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:geetest.datasink.sensorsdata.cn",
+    "source": {
+      "list": "GEETEST",
+      "line": 3
+    }
+  }
+]

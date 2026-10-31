@@ -1,0 +1,61 @@
+{
+  "name": "CATEGORY-TELEMETRY",
+  "source": {
+    "domain": 0,
+    "full": 0,
+    "keyword": 0,
+    "regexp": 0,
+    "include": 64,
+    "affiliations": 0,
+    "attributes": 64
+  },
+  "resolved": {
+    "rules": 228,
+    "domain": 164,
+    "full": 64,
+    "keyword": 0,
+    "regexp": 0
+  },
+  "filters": {
+    "attrs": {
+      "ads": 196,
+      "telemetry": 228,
+      "cn": 4
+    }
+  },
+  "modes": {
+    "strict": {
+      "rules": 228,
+      "bytes": 7632,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "balanced": {
+      "rules": 228,
+      "bytes": 7632,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "full": {
+      "rules": 228,
+      "bytes": 7632,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    }
+  }
+}

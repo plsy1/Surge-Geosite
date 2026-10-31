@@ -1,0 +1,46 @@
+[
+  {
+    "type": "domain",
+    "value": "coursera-for-business.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:coursera-for-business.org",
+    "source": {
+      "list": "COURSERA",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "coursera.community",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:coursera.community",
+    "source": {
+      "list": "COURSERA",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "coursera.help",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:coursera.help",
+    "source": {
+      "list": "COURSERA",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "coursera.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:coursera.org",
+    "source": {
+      "list": "COURSERA",
+      "line": 4
+    }
+  }
+]

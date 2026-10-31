@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "techpowerup.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:techpowerup.com",
+    "source": {
+      "list": "TECHPOWERUP",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tpucdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tpucdn.com",
+    "source": {
+      "list": "TECHPOWERUP",
+      "line": 2
+    }
+  }
+]

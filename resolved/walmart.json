@@ -1,0 +1,114 @@
+[
+  {
+    "type": "domain",
+    "value": "w-mt.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:w-mt.co",
+    "source": {
+      "list": "WALMART",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wal-mart.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wal-mart.com",
+    "source": {
+      "list": "WALMART",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wal.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wal.co",
+    "source": {
+      "list": "WALMART",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "walmart",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:walmart",
+    "source": {
+      "list": "WALMART",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "walmart-content.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:walmart-content.com",
+    "source": {
+      "list": "WALMART",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "walmart.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:walmart.cn:@cn",
+    "source": {
+      "list": "WALMART",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "walmart.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:walmart.com",
+    "source": {
+      "list": "WALMART",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "walmart.pharmacy",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:walmart.pharmacy",
+    "source": {
+      "list": "WALMART",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "walmartimages.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:walmartimages.com",
+    "source": {
+      "list": "WALMART",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wmt.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wmt.co",
+    "source": {
+      "list": "WALMART",
+      "line": 12
+    }
+  }
+]

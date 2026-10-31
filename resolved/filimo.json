@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "filimo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:filimo.com",
+    "source": {
+      "list": "FILIMO",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "filimo.school",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:filimo.school",
+    "source": {
+      "list": "FILIMO",
+      "line": 2
+    }
+  }
+]

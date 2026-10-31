@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "twilio.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:twilio.com",
+    "source": {
+      "list": "TWILIO",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "twilio.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:twilio.jp",
+    "source": {
+      "list": "TWILIO",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tytch.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tytch.com",
+    "source": {
+      "list": "TWILIO",
+      "line": 3
+    }
+  }
+]

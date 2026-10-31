@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "realitykings.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:realitykings.com",
+    "source": {
+      "list": "REALITYKINGS",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rk.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rk.com",
+    "source": {
+      "list": "REALITYKINGS",
+      "line": 2
+    }
+  }
+]

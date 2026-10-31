@@ -1,0 +1,57 @@
+[
+  {
+    "type": "domain",
+    "value": "hero.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hero.com",
+    "source": {
+      "list": "HEROGAME",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "heroesports.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:heroesports.com",
+    "source": {
+      "list": "HEROGAME",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "herogame.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:herogame.com",
+    "source": {
+      "list": "HEROGAME",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "shyxhy.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:shyxhy.com",
+    "source": {
+      "list": "HEROGAME",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yingxiong.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yingxiong.com",
+    "source": {
+      "list": "HEROGAME",
+      "line": 6
+    }
+  }
+]

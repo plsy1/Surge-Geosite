@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "msi.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:msi.cn",
+    "source": {
+      "list": "MSI",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "msi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:msi.com",
+    "source": {
+      "list": "MSI",
+      "line": 2
+    }
+  }
+]

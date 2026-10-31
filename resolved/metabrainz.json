@@ -1,0 +1,90 @@
+[
+  {
+    "type": "domain",
+    "value": "acousticbrainz.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:acousticbrainz.org",
+    "source": {
+      "list": "METABRAINZ",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bookbrainz.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bookbrainz.org",
+    "source": {
+      "list": "METABRAINZ",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "coverartarchive.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:coverartarchive.org",
+    "source": {
+      "list": "METABRAINZ",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "critiquebrainz.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:critiquebrainz.org",
+    "source": {
+      "list": "METABRAINZ",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "listenbrainz.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:listenbrainz.org",
+    "source": {
+      "list": "METABRAINZ",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "messybrainz.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:messybrainz.org",
+    "source": {
+      "list": "METABRAINZ",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "metabrainz.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:metabrainz.org",
+    "source": {
+      "list": "METABRAINZ",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "musicbrainz.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:musicbrainz.org",
+    "source": {
+      "list": "METABRAINZ",
+      "line": 8
+    }
+  }
+]

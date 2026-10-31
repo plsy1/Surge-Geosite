@@ -1,0 +1,134 @@
+[
+  {
+    "type": "domain",
+    "value": "v.ps",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:v.ps",
+    "source": {
+      "list": "XTOM",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vps.hosting",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vps.hosting",
+    "source": {
+      "list": "XTOM",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xtom.au",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xtom.au",
+    "source": {
+      "list": "XTOM",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xtom.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xtom.com",
+    "source": {
+      "list": "XTOM",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xtom.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xtom.de",
+    "source": {
+      "list": "XTOM",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xtom.ee",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xtom.ee",
+    "source": {
+      "list": "XTOM",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xtom.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xtom.hk",
+    "source": {
+      "list": "XTOM",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xtom.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xtom.jp",
+    "source": {
+      "list": "XTOM",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xtom.nl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xtom.nl",
+    "source": {
+      "list": "XTOM",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xtom.sg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xtom.sg",
+    "source": {
+      "list": "XTOM",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xtom.social",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xtom.social",
+    "source": {
+      "list": "XTOM",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xtom.us",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xtom.us",
+    "source": {
+      "list": "XTOM",
+      "line": 12
+    }
+  }
+]

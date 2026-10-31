@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "cnbeta.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cnbeta.com",
+    "source": {
+      "list": "CNBETA",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cnbeta.com.tw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cnbeta.com.tw",
+    "source": {
+      "list": "CNBETA",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cnbetacdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cnbetacdn.com",
+    "source": {
+      "list": "CNBETA",
+      "line": 3
+    }
+  }
+]

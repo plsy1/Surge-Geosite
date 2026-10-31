@@ -1,0 +1,70 @@
+{
+  "name": "CATEGORY-ADS",
+  "source": {
+    "domain": 105,
+    "full": 1,
+    "keyword": 0,
+    "regexp": 0,
+    "include": 66,
+    "affiliations": 0,
+    "attributes": 65
+  },
+  "resolved": {
+    "rules": 845,
+    "domain": 685,
+    "full": 159,
+    "keyword": 0,
+    "regexp": 1
+  },
+  "filters": {
+    "attrs": {
+      "ads": 732,
+      "telemetry": 196
+    }
+  },
+  "modes": {
+    "strict": {
+      "rules": 844,
+      "bytes": 25830,
+      "regex": {
+        "total": 1,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 1
+      },
+      "unsupported": [
+        {
+          "pattern": "^speed\\.(coe|open)\\.ad\\.[a-z]{2,6}\\.prod\\.hosts\\.ooklaserver\\.net$",
+          "source": {
+            "list": "OOKLA-SPEEDTEST",
+            "line": 26
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        }
+      ]
+    },
+    "balanced": {
+      "rules": 845,
+      "bytes": 25886,
+      "regex": {
+        "total": 1,
+        "lossless": 0,
+        "widened": 1,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "full": {
+      "rules": 845,
+      "bytes": 25886,
+      "regex": {
+        "total": 1,
+        "lossless": 0,
+        "widened": 1,
+        "unsupported": 0
+      },
+      "unsupported": []
+    }
+  }
+}
