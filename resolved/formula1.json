@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "f1.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:f1.com",
+    "source": {
+      "list": "FORMULA1",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "f1tv.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:f1tv.com",
+    "source": {
+      "list": "FORMULA1",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "formula1.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:formula1.com",
+    "source": {
+      "list": "FORMULA1",
+      "line": 1
+    }
+  }
+]

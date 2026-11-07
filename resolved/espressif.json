@@ -1,0 +1,85 @@
+[
+  {
+    "type": "domain",
+    "value": "esp32.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:esp32.com:@!cn",
+    "source": {
+      "list": "ESPRESSIF",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "esp8266.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:esp8266.cn",
+    "source": {
+      "list": "ESPRESSIF",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "esp8266.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:esp8266.com:@!cn",
+    "source": {
+      "list": "ESPRESSIF",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "esp8266.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:esp8266.com.cn",
+    "source": {
+      "list": "ESPRESSIF",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "espressif.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:espressif.cn",
+    "source": {
+      "list": "ESPRESSIF",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "espressif.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:espressif.com:@!cn",
+    "source": {
+      "list": "ESPRESSIF",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "espressif.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:espressif.com.cn",
+    "source": {
+      "list": "ESPRESSIF",
+      "line": 7
+    }
+  }
+]

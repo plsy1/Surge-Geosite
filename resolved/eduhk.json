@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "eduhk.edu.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:eduhk.edu.hk",
+    "source": {
+      "list": "EDUHK",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "eduhk.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:eduhk.hk",
+    "source": {
+      "list": "EDUHK",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--pssu7cz8nr8ibkx1e8a.xn--j6w193g",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--pssu7cz8nr8ibkx1e8a.xn--j6w193g",
+    "source": {
+      "list": "EDUHK",
+      "line": 5
+    }
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "type": "domain",
+    "value": "kazanexpress.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kazanexpress.ru",
+    "source": {
+      "list": "MAGNIT",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "magnit.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:magnit.com",
+    "source": {
+      "list": "MAGNIT",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "magnit.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:magnit.ru",
+    "source": {
+      "list": "MAGNIT",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mm.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mm.ru",
+    "source": {
+      "list": "MAGNIT",
+      "line": 4
+    }
+  }
+]

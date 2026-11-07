@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "medium.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:medium.com",
+    "source": {
+      "list": "MEDIUM",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "medium.systems",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:medium.systems",
+    "source": {
+      "list": "MEDIUM",
+      "line": 2
+    }
+  }
+]

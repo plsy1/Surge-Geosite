@@ -1,0 +1,41 @@
+[
+  {
+    "type": "domain",
+    "value": "clearbit.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:clearbit.com:@ads",
+    "source": {
+      "list": "CLEARBIT",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "clearbitjs.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:clearbitjs.com:@ads",
+    "source": {
+      "list": "CLEARBIT",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "clearbitscripts.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:clearbitscripts.com:@ads",
+    "source": {
+      "list": "CLEARBIT",
+      "line": 3
+    }
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "type": "domain",
+    "value": "cam.ac.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cam.ac.uk",
+    "source": {
+      "list": "CAMBRIDGE",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cambridge.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cambridge.org",
+    "source": {
+      "list": "CAMBRIDGE",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cambridgedigital.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cambridgedigital.net",
+    "source": {
+      "list": "CAMBRIDGE",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cambridgemaths.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cambridgemaths.org",
+    "source": {
+      "list": "CAMBRIDGE",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cambridgeschoolshakespeare.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cambridgeschoolshakespeare.com",
+    "source": {
+      "list": "CAMBRIDGE",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dlib.eastview.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dlib.eastview.com",
+    "source": {
+      "list": "CAMBRIDGE",
+      "line": 7
+    }
+  }
+]

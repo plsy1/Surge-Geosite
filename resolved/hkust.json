@@ -1,0 +1,46 @@
+[
+  {
+    "type": "domain",
+    "value": "hkust.edu.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hkust.edu.hk",
+    "source": {
+      "list": "HKUST",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hkust.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hkust.hk",
+    "source": {
+      "list": "HKUST",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--pssu7ci2j23mp9ny48b.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--pssu7ci2j23mp9ny48b.hk",
+    "source": {
+      "list": "HKUST",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--pssu7ci2j23mp9ny48b.xn--j6w193g",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--pssu7ci2j23mp9ny48b.xn--j6w193g",
+    "source": {
+      "list": "HKUST",
+      "line": 8
+    }
+  }
+]

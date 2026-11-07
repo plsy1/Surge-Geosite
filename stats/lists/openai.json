@@ -1,0 +1,70 @@
+{
+  "name": "OPENAI",
+  "source": {
+    "domain": 14,
+    "full": 10,
+    "keyword": 0,
+    "regexp": 1,
+    "include": 0,
+    "affiliations": 0,
+    "attributes": 7
+  },
+  "resolved": {
+    "rules": 25,
+    "domain": 14,
+    "full": 10,
+    "keyword": 0,
+    "regexp": 1
+  },
+  "filters": {
+    "attrs": {
+      "ads": 4,
+      "telemetry": 3
+    }
+  },
+  "modes": {
+    "strict": {
+      "rules": 24,
+      "bytes": 800,
+      "regex": {
+        "total": 1,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 1
+      },
+      "unsupported": [
+        {
+          "pattern": "^chatgpt-async-webps-prod-\\S+-\\d+\\.webpubsub\\.azure\\.com$",
+          "source": {
+            "list": "OPENAI",
+            "line": 21
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        }
+      ]
+    },
+    "balanced": {
+      "rules": 25,
+      "bytes": 865,
+      "regex": {
+        "total": 1,
+        "lossless": 0,
+        "widened": 1,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "full": {
+      "rules": 25,
+      "bytes": 865,
+      "regex": {
+        "total": 1,
+        "lossless": 0,
+        "widened": 1,
+        "unsupported": 0
+      },
+      "unsupported": []
+    }
+  }
+}

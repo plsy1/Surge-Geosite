@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "hf.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hf.co",
+    "source": {
+      "list": "HUGGINGFACE",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hf.space",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hf.space",
+    "source": {
+      "list": "HUGGINGFACE",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "huggingface.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:huggingface.co",
+    "source": {
+      "list": "HUGGINGFACE",
+      "line": 3
+    }
+  }
+]

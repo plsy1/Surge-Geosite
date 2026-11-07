@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "lih.kg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lih.kg",
+    "source": {
+      "list": "LIHKG",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lihkg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lihkg.com",
+    "source": {
+      "list": "LIHKG",
+      "line": 2
+    }
+  }
+]

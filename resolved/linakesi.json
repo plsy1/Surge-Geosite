@@ -1,0 +1,46 @@
+[
+  {
+    "type": "domain",
+    "value": "heiyu.space",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:heiyu.space",
+    "source": {
+      "list": "LINAKESI",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lazycat.cloud",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lazycat.cloud",
+    "source": {
+      "list": "LINAKESI",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "linakesi.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:linakesi.cn",
+    "source": {
+      "list": "LINAKESI",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "linakesi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:linakesi.com",
+    "source": {
+      "list": "LINAKESI",
+      "line": 1
+    }
+  }
+]

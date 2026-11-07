@@ -1,0 +1,57 @@
+[
+  {
+    "type": "domain",
+    "value": "51job.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:51job.com",
+    "source": {
+      "list": "51JOB",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "51jobcdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:51jobcdn.com",
+    "source": {
+      "list": "51JOB",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yingjiesheng.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yingjiesheng.com",
+    "source": {
+      "list": "51JOB",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yingjiesheng.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yingjiesheng.net",
+    "source": {
+      "list": "51JOB",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zhiding.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zhiding.com.cn",
+    "source": {
+      "list": "51JOB",
+      "line": 5
+    }
+  }
+]

@@ -1,0 +1,60 @@
+{
+  "name": "CATEGORY-ECOMMERCE-RU",
+  "source": {
+    "domain": 2,
+    "full": 0,
+    "keyword": 0,
+    "regexp": 0,
+    "include": 7,
+    "affiliations": 0,
+    "attributes": 0
+  },
+  "resolved": {
+    "rules": 201,
+    "domain": 167,
+    "full": 34,
+    "keyword": 0,
+    "regexp": 0
+  },
+  "filters": {
+    "attrs": {
+      "ads": 34,
+      "telemetry": 7
+    }
+  },
+  "modes": {
+    "strict": {
+      "rules": 201,
+      "bytes": 5465,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "balanced": {
+      "rules": 201,
+      "bytes": 5465,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "full": {
+      "rules": 201,
+      "bytes": 5465,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    }
+  }
+}

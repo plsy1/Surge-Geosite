@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "rb.gy",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rb.gy",
+    "source": {
+      "list": "REBRANDLY",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rebrandly.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rebrandly.com",
+    "source": {
+      "list": "REBRANDLY",
+      "line": 2
+    }
+  }
+]

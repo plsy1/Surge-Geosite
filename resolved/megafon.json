@@ -1,0 +1,134 @@
+[
+  {
+    "type": "domain",
+    "value": "inplat.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:inplat.ru",
+    "source": {
+      "list": "MEGAFON",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "megafon.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:megafon.com",
+    "source": {
+      "list": "MEGAFON",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "megafon.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:megafon.ru",
+    "source": {
+      "list": "MEGAFON",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "megafonpro.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:megafonpro.ru",
+    "source": {
+      "list": "MEGAFON",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mgfn.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mgfn.ru",
+    "source": {
+      "list": "MEGAFON",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "report-megafon.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:report-megafon.ru",
+    "source": {
+      "list": "MEGAFON",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "scartel.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:scartel.ru",
+    "source": {
+      "list": "MEGAFON",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--80a9a4b.xn--p1ai",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--80a9a4b.xn--p1ai",
+    "source": {
+      "list": "MEGAFON",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--80aj3b.xn--p1ai",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--80aj3b.xn--p1ai",
+    "source": {
+      "list": "MEGAFON",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--80arpq.xn--p1ai",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--80arpq.xn--p1ai",
+    "source": {
+      "list": "MEGAFON",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yota.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yota.ru",
+    "source": {
+      "list": "MEGAFON",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yotagamer.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yotagamer.ru",
+    "source": {
+      "list": "MEGAFON",
+      "line": 9
+    }
+  }
+]

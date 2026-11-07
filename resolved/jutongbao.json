@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "guanggaotongapp.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:guanggaotongapp.cn",
+    "source": {
+      "list": "JUTONGBAO",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jutongbao.online",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jutongbao.online",
+    "source": {
+      "list": "JUTONGBAO",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jutongbao.top",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jutongbao.top",
+    "source": {
+      "list": "JUTONGBAO",
+      "line": 3
+    }
+  }
+]

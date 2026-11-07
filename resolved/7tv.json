@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "7tv.app",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:7tv.app",
+    "source": {
+      "list": "7TV",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "7tv.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:7tv.io",
+    "source": {
+      "list": "7TV",
+      "line": 2
+    }
+  }
+]

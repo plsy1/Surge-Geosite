@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "reg.cloud",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:reg.cloud",
+    "source": {
+      "list": "REGRU",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "reg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:reg.com",
+    "source": {
+      "list": "REGRU",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "reg.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:reg.ru",
+    "source": {
+      "list": "REGRU",
+      "line": 3
+    }
+  }
+]

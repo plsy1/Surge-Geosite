@@ -1,0 +1,68 @@
+[
+  {
+    "type": "domain",
+    "value": "frontwize.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:frontwize.com",
+    "source": {
+      "list": "QINGCLOUD",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qingcache.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qingcache.com",
+    "source": {
+      "list": "QINGCLOUD",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qingcloud.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qingcloud.com",
+    "source": {
+      "list": "QINGCLOUD",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qingstor.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qingstor.com",
+    "source": {
+      "list": "QINGCLOUD",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "routewize.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:routewize.com",
+    "source": {
+      "list": "QINGCLOUD",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yunify.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yunify.com",
+    "source": {
+      "list": "QINGCLOUD",
+      "line": 6
+    }
+  }
+]

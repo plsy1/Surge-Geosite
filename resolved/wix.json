@@ -1,0 +1,101 @@
+[
+  {
+    "type": "domain",
+    "value": "editorx.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:editorx.com",
+    "source": {
+      "list": "WIX",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "parastorage.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:parastorage.com",
+    "source": {
+      "list": "WIX",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wix-code.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wix-code.com",
+    "source": {
+      "list": "WIX",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wix.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wix.com",
+    "source": {
+      "list": "WIX",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wixanswers.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wixanswers.com",
+    "source": {
+      "list": "WIX",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wixapps.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wixapps.net",
+    "source": {
+      "list": "WIX",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wixmp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wixmp.com",
+    "source": {
+      "list": "WIX",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wixsite.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wixsite.com",
+    "source": {
+      "list": "WIX",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wixstatic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wixstatic.com",
+    "source": {
+      "list": "WIX",
+      "line": 9
+    }
+  }
+]

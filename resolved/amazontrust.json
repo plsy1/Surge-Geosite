@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "amazontrust.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:amazontrust.com",
+    "source": {
+      "list": "AMAZONTRUST",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "awstrust.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:awstrust.com",
+    "source": {
+      "list": "AMAZONTRUST",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ss2.us",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ss2.us",
+    "source": {
+      "list": "AMAZONTRUST",
+      "line": 3
+    }
+  }
+]

@@ -1,0 +1,332 @@
+[
+  {
+    "type": "domain",
+    "value": "antiphishing.nl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:antiphishing.nl",
+    "source": {
+      "list": "GROUP-IB",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "antiphishing.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:antiphishing.ru",
+    "source": {
+      "list": "GROUP-IB",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cert-gib.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cert-gib.com",
+    "source": {
+      "list": "GROUP-IB",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cert-gib.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cert-gib.ru",
+    "source": {
+      "list": "GROUP-IB",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cybercrimecon.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cybercrimecon.com",
+    "source": {
+      "list": "GROUP-IB",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "f6.dev",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:f6.dev",
+    "source": {
+      "list": "GROUP-IB",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "f6.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:f6.ru",
+    "source": {
+      "list": "GROUP-IB",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "f6.security",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:f6.security",
+    "source": {
+      "list": "GROUP-IB",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facct.email",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facct.email",
+    "source": {
+      "list": "GROUP-IB",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facct.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facct.ru",
+    "source": {
+      "list": "GROUP-IB",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "future-cs.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:future-cs.ru",
+    "source": {
+      "list": "GROUP-IB",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "g-ib.ae",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:g-ib.ae",
+    "source": {
+      "list": "GROUP-IB",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "g-ib.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:g-ib.ru",
+    "source": {
+      "list": "GROUP-IB",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "g-ib.sg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:g-ib.sg",
+    "source": {
+      "list": "GROUP-IB",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "g-ib.us",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:g-ib.us",
+    "source": {
+      "list": "GROUP-IB",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gib-global.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gib-global.com",
+    "source": {
+      "list": "GROUP-IB",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gib.sg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gib.sg",
+    "source": {
+      "list": "GROUP-IB",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gibdev.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gibdev.net",
+    "source": {
+      "list": "GROUP-IB",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gibtds.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gibtds.ru",
+    "source": {
+      "list": "GROUP-IB",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "group-ib.ae",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:group-ib.ae",
+    "source": {
+      "list": "GROUP-IB",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "group-ib.co.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:group-ib.co.uk",
+    "source": {
+      "list": "GROUP-IB",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "group-ib.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:group-ib.com",
+    "source": {
+      "list": "GROUP-IB",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "group-ib.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:group-ib.de",
+    "source": {
+      "list": "GROUP-IB",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "group-ib.eu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:group-ib.eu",
+    "source": {
+      "list": "GROUP-IB",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "group-ib.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:group-ib.ru",
+    "source": {
+      "list": "GROUP-IB",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "group-ib.sg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:group-ib.sg",
+    "source": {
+      "list": "GROUP-IB",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "group-ib.us",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:group-ib.us",
+    "source": {
+      "list": "GROUP-IB",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "groupib.ae",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:groupib.ae",
+    "source": {
+      "list": "GROUP-IB",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "groupib.sg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:groupib.sg",
+    "source": {
+      "list": "GROUP-IB",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "groupib.us",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:groupib.us",
+    "source": {
+      "list": "GROUP-IB",
+      "line": 24
+    }
+  }
+]

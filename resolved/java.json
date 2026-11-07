@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "java",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:java",
+    "source": {
+      "list": "JAVA",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "java.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:java.com",
+    "source": {
+      "list": "JAVA",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "java.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:java.net",
+    "source": {
+      "list": "JAVA",
+      "line": 5
+    }
+  }
+]

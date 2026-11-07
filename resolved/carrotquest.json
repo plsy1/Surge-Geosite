@@ -1,0 +1,277 @@
+[
+  {
+    "type": "domain",
+    "value": "carrot-mail.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:carrot-mail.io",
+    "source": {
+      "list": "CARROTQUEST",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "carrotquest-mail.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:carrotquest-mail.io",
+    "source": {
+      "list": "CARROTQUEST",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "carrotquest.app",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:carrotquest.app",
+    "source": {
+      "list": "CARROTQUEST",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "carrotquest.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:carrotquest.io",
+    "source": {
+      "list": "CARROTQUEST",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "carrottrack.app",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:carrottrack.app",
+    "source": {
+      "list": "CARROTQUEST",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dashly.app",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dashly.app",
+    "source": {
+      "list": "CARROTQUEST",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dashly.help",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dashly.help",
+    "source": {
+      "list": "CARROTQUEST",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dashly.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dashly.io",
+    "source": {
+      "list": "CARROTQUEST",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dashly.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dashly.me",
+    "source": {
+      "list": "CARROTQUEST",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dashlytrack.app",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dashlytrack.app",
+    "source": {
+      "list": "CARROTQUEST",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mail-carrotquest.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mail-carrotquest.io",
+    "source": {
+      "list": "CARROTQUEST",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pushgrow.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pushgrow.io",
+    "source": {
+      "list": "CARROTQUEST",
+      "line": 12
+    }
+  },
+  {
+    "type": "full",
+    "value": "api-eu.carrotquest.app",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:api-eu.carrotquest.app:@ads",
+    "source": {
+      "list": "CARROTQUEST",
+      "line": 15
+    }
+  },
+  {
+    "type": "full",
+    "value": "api-eu.carrotquest.io",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:api-eu.carrotquest.io:@ads",
+    "source": {
+      "list": "CARROTQUEST",
+      "line": 16
+    }
+  },
+  {
+    "type": "full",
+    "value": "api-ru.carrotquest.app",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:api-ru.carrotquest.app:@ads",
+    "source": {
+      "list": "CARROTQUEST",
+      "line": 17
+    }
+  },
+  {
+    "type": "full",
+    "value": "api-ru.carrotquest.io",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:api-ru.carrotquest.io:@ads",
+    "source": {
+      "list": "CARROTQUEST",
+      "line": 18
+    }
+  },
+  {
+    "type": "full",
+    "value": "api-secure.carrotquest.app",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:api-secure.carrotquest.app:@ads",
+    "source": {
+      "list": "CARROTQUEST",
+      "line": 19
+    }
+  },
+  {
+    "type": "full",
+    "value": "api-secure.carrottrack.app",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:api-secure.carrottrack.app:@ads",
+    "source": {
+      "list": "CARROTQUEST",
+      "line": 20
+    }
+  },
+  {
+    "type": "full",
+    "value": "api.carrotquest.app",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:api.carrotquest.app:@ads",
+    "source": {
+      "list": "CARROTQUEST",
+      "line": 21
+    }
+  },
+  {
+    "type": "full",
+    "value": "api.carrotquest.io",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:api.carrotquest.io:@ads",
+    "source": {
+      "list": "CARROTQUEST",
+      "line": 22
+    }
+  },
+  {
+    "type": "full",
+    "value": "api.carrottrack.app",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:api.carrottrack.app:@ads",
+    "source": {
+      "list": "CARROTQUEST",
+      "line": 23
+    }
+  },
+  {
+    "type": "full",
+    "value": "api.dashly.app",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:api.dashly.app:@ads",
+    "source": {
+      "list": "CARROTQUEST",
+      "line": 24
+    }
+  },
+  {
+    "type": "full",
+    "value": "api.dashlytrack.app",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "full:api.dashlytrack.app:@ads",
+    "source": {
+      "list": "CARROTQUEST",
+      "line": 25
+    }
+  }
+]

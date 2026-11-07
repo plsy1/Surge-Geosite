@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "applysquare.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:applysquare.com",
+    "source": {
+      "list": "APPLYSQUARE",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "applysquare.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:applysquare.net",
+    "source": {
+      "list": "APPLYSQUARE",
+      "line": 2
+    }
+  }
+]

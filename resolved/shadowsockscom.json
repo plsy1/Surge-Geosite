@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "shadowsocks.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:shadowsocks.com",
+    "source": {
+      "list": "SHADOWSOCKSCOM",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "shadowsocks.nl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:shadowsocks.nl",
+    "source": {
+      "list": "SHADOWSOCKSCOM",
+      "line": 2
+    }
+  }
+]

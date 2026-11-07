@@ -1,0 +1,57 @@
+[
+  {
+    "type": "domain",
+    "value": "dogatch.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dogatch.jp",
+    "source": {
+      "list": "TVER",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gorin.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gorin.jp",
+    "source": {
+      "list": "TVER",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "screens-lab.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:screens-lab.jp",
+    "source": {
+      "list": "TVER",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tver.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tver.co.jp",
+    "source": {
+      "list": "TVER",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tver.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tver.jp",
+    "source": {
+      "list": "TVER",
+      "line": 5
+    }
+  }
+]

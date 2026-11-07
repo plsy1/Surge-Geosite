@@ -1,0 +1,67 @@
+[
+  {
+    "type": "domain",
+    "value": "openx.net",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:openx.net:@ads",
+    "source": {
+      "list": "OPENX",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "openxadexchange.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:openxadexchange.com:@ads",
+    "source": {
+      "list": "OPENX",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "openxcdn.net",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:openxcdn.net:@ads",
+    "source": {
+      "list": "OPENX",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "openxenterprise.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:openxenterprise.com:@ads",
+    "source": {
+      "list": "OPENX",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "openxmarket.asia",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:openxmarket.asia:@ads",
+    "source": {
+      "list": "OPENX",
+      "line": 5
+    }
+  }
+]

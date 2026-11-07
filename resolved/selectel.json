@@ -1,0 +1,266 @@
+[
+  {
+    "type": "domain",
+    "value": "chipcore.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:chipcore.com",
+    "source": {
+      "list": "SELECTEL",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "chipcore.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:chipcore.ru",
+    "source": {
+      "list": "SELECTEL",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "haicomdc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:haicomdc.com",
+    "source": {
+      "list": "SELECTEL",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "haicomdc.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:haicomdc.ru",
+    "source": {
+      "list": "SELECTEL",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "haicomgroup.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:haicomgroup.ru",
+    "source": {
+      "list": "SELECTEL",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "itirex.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:itirex.ru",
+    "source": {
+      "list": "SELECTEL",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "selcdn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:selcdn.net",
+    "source": {
+      "list": "SELECTEL",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "selectel.academy",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:selectel.academy",
+    "source": {
+      "list": "SELECTEL",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "selectel.blog",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:selectel.blog",
+    "source": {
+      "list": "SELECTEL",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "selectel.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:selectel.com",
+    "source": {
+      "list": "SELECTEL",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "selectel.dev",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:selectel.dev",
+    "source": {
+      "list": "SELECTEL",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "selectel.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:selectel.info",
+    "source": {
+      "list": "SELECTEL",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "selectel.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:selectel.io",
+    "source": {
+      "list": "SELECTEL",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "selectel.live",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:selectel.live",
+    "source": {
+      "list": "SELECTEL",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "selectel.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:selectel.ru",
+    "source": {
+      "list": "SELECTEL",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "selectelix.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:selectelix.ru",
+    "source": {
+      "list": "SELECTEL",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "selectelpro.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:selectelpro.ru",
+    "source": {
+      "list": "SELECTEL",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "servercore.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:servercore.com",
+    "source": {
+      "list": "SELECTEL",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "servercore.live",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:servercore.live",
+    "source": {
+      "list": "SELECTEL",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "slc.tl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:slc.tl",
+    "source": {
+      "list": "SELECTEL",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tehnodom.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tehnodom.com",
+    "source": {
+      "list": "SELECTEL",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vscale.blog",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vscale.blog",
+    "source": {
+      "list": "SELECTEL",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vscale.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vscale.io",
+    "source": {
+      "list": "SELECTEL",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vscale.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vscale.ru",
+    "source": {
+      "list": "SELECTEL",
+      "line": 24
+    }
+  }
+]

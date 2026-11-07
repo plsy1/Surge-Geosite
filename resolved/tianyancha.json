@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "jindidata.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jindidata.com",
+    "source": {
+      "list": "TIANYANCHA",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tianyancha.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tianyancha.com",
+    "source": {
+      "list": "TIANYANCHA",
+      "line": 2
+    }
+  }
+]

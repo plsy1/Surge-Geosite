@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "redhat.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:redhat.com",
+    "source": {
+      "list": "REDHAT",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "redhat.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:redhat.org",
+    "source": {
+      "list": "REDHAT",
+      "line": 2
+    }
+  }
+]

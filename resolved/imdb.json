@@ -1,0 +1,57 @@
+[
+  {
+    "type": "domain",
+    "value": "boxofficemojo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:boxofficemojo.com",
+    "source": {
+      "list": "IMDB",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "imdb",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:imdb",
+    "source": {
+      "list": "IMDB",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "imdb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:imdb.com",
+    "source": {
+      "list": "IMDB",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "imdb.to",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:imdb.to",
+    "source": {
+      "list": "IMDB",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "media-imdb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:media-imdb.com",
+    "source": {
+      "list": "IMDB",
+      "line": 7
+    }
+  }
+]

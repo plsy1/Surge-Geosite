@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "isafepal.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:isafepal.com",
+    "source": {
+      "list": "SAFEPAL",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "safepal.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:safepal.com",
+    "source": {
+      "list": "SAFEPAL",
+      "line": 2
+    }
+  }
+]

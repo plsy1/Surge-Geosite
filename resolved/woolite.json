@@ -1,0 +1,83 @@
+[
+  {
+    "type": "domain",
+    "value": "woolite.ca",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:woolite.ca",
+    "source": {
+      "list": "WOOLITE",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "woolite.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:woolite.cn:@cn",
+    "source": {
+      "list": "WOOLITE",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "woolite.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:woolite.com",
+    "source": {
+      "list": "WOOLITE",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "woolite.com.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:woolite.com.cn:@cn",
+    "source": {
+      "list": "WOOLITE",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "woolite.pl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:woolite.pl",
+    "source": {
+      "list": "WOOLITE",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "woolite.us",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:woolite.us",
+    "source": {
+      "list": "WOOLITE",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "woolitecarpet.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:woolitecarpet.com",
+    "source": {
+      "list": "WOOLITE",
+      "line": 7
+    }
+  }
+]

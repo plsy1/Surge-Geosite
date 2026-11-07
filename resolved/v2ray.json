@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "v2fly.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:v2fly.org",
+    "source": {
+      "list": "V2RAY",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "v2ray.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:v2ray.com",
+    "source": {
+      "list": "V2RAY",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "v2ray.cool",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:v2ray.cool",
+    "source": {
+      "list": "V2RAY",
+      "line": 2
+    }
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "type": "domain",
+    "value": "readthedocs-hosted.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:readthedocs-hosted.com",
+    "source": {
+      "list": "READTHEDOCS",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "readthedocs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:readthedocs.com",
+    "source": {
+      "list": "READTHEDOCS",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "readthedocs.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:readthedocs.io",
+    "source": {
+      "list": "READTHEDOCS",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "readthedocs.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:readthedocs.org",
+    "source": {
+      "list": "READTHEDOCS",
+      "line": 4
+    }
+  }
+]

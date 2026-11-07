@@ -1,0 +1,46 @@
+[
+  {
+    "type": "domain",
+    "value": "95504.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:95504.net",
+    "source": {
+      "list": "PETROCHINA",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "95504test.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:95504test.com",
+    "source": {
+      "list": "PETROCHINA",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cnpc.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cnpc.com.cn",
+    "source": {
+      "list": "PETROCHINA",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "petrochina.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:petrochina.com.cn",
+    "source": {
+      "list": "PETROCHINA",
+      "line": 5
+    }
+  }
+]

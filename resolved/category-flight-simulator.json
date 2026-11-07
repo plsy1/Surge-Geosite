@@ -1,0 +1,871 @@
+[
+  {
+    "type": "domain",
+    "value": "a2asimulations.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:a2asimulations.com",
+    "source": {
+      "list": "CATEGORY-FLIGHT-SIMULATOR",
+      "line": 50
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aerosoft.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aerosoft.com",
+    "source": {
+      "list": "CATEGORY-FLIGHT-SIMULATOR",
+      "line": 51
+    }
+  },
+  {
+    "type": "domain",
+    "value": "apocfly.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:apocfly.com",
+    "source": {
+      "list": "CATEGORY-FLIGHT-SIMULATOR",
+      "line": 42
+    }
+  },
+  {
+    "type": "domain",
+    "value": "asobostudio.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:asobostudio.com",
+    "source": {
+      "list": "ASOBO",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "beyondatc.app",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:beyondatc.app",
+    "source": {
+      "list": "CATEGORY-FLIGHT-SIMULATOR",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "beyondatc.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:beyondatc.net",
+    "source": {
+      "list": "CATEGORY-FLIGHT-SIMULATOR",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "carenado.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:carenado.com",
+    "source": {
+      "list": "CATEGORY-FLIGHT-SIMULATOR",
+      "line": 52
+    }
+  },
+  {
+    "type": "domain",
+    "value": "css.aero",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:css.aero",
+    "source": {
+      "list": "CATEGORY-FLIGHT-SIMULATOR",
+      "line": 53
+    }
+  },
+  {
+    "type": "domain",
+    "value": "digitalcombatsimulator.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:digitalcombatsimulator.com",
+    "source": {
+      "list": "CATEGORY-FLIGHT-SIMULATOR",
+      "line": 54
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fenixsim.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fenixsim.com",
+    "source": {
+      "list": "CATEGORY-FLIGHT-SIMULATOR",
+      "line": 55
+    }
+  },
+  {
+    "type": "domain",
+    "value": "flight1.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:flight1.com",
+    "source": {
+      "list": "CATEGORY-FLIGHT-SIMULATOR",
+      "line": 56
+    }
+  },
+  {
+    "type": "domain",
+    "value": "flightsim.to",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:flightsim.to",
+    "source": {
+      "list": "CATEGORY-FLIGHT-SIMULATOR",
+      "line": 57
+    }
+  },
+  {
+    "type": "domain",
+    "value": "flightsimlabs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:flightsimlabs.com",
+    "source": {
+      "list": "CATEGORY-FLIGHT-SIMULATOR",
+      "line": 58
+    }
+  },
+  {
+    "type": "domain",
+    "value": "flightsimulator.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:flightsimulator.com",
+    "source": {
+      "list": "ASOBO",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "flybywiresim.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:flybywiresim.com",
+    "source": {
+      "list": "CATEGORY-FLIGHT-SIMULATOR",
+      "line": 59
+    }
+  },
+  {
+    "type": "domain",
+    "value": "flyisfp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:flyisfp.com",
+    "source": {
+      "list": "CATEGORY-FLIGHT-SIMULATOR",
+      "line": 43
+    }
+  },
+  {
+    "type": "domain",
+    "value": "flytampa.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:flytampa.org",
+    "source": {
+      "list": "CATEGORY-FLIGHT-SIMULATOR",
+      "line": 60
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fs2crew.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fs2crew.com",
+    "source": {
+      "list": "CATEGORY-FLIGHT-SIMULATOR",
+      "line": 61
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fsdreamteam.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fsdreamteam.com",
+    "source": {
+      "list": "CATEGORY-FLIGHT-SIMULATOR",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hifisimtech.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hifisimtech.com",
+    "source": {
+      "list": "CATEGORY-FLIGHT-SIMULATOR",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hifisimtech.zendesk.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hifisimtech.zendesk.com",
+    "source": {
+      "list": "CATEGORY-FLIGHT-SIMULATOR",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hoppie.nl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hoppie.nl",
+    "source": {
+      "list": "CATEGORY-FLIGHT-SIMULATOR",
+      "line": 62
+    }
+  },
+  {
+    "type": "domain",
+    "value": "infiniteflight.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:infiniteflight.com",
+    "source": {
+      "list": "CATEGORY-FLIGHT-SIMULATOR",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "infiniteflight.live",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:infiniteflight.live",
+    "source": {
+      "list": "CATEGORY-FLIGHT-SIMULATOR",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "inibuilds.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:inibuilds.com",
+    "source": {
+      "list": "CATEGORY-FLIGHT-SIMULATOR",
+      "line": 63
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ivao.aero",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ivao.aero",
+    "source": {
+      "list": "CATEGORY-FLIGHT-SIMULATOR",
+      "line": 44
+    }
+  },
+  {
+    "type": "domain",
+    "value": "justflight.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:justflight.com",
+    "source": {
+      "list": "CATEGORY-FLIGHT-SIMULATOR",
+      "line": 64
+    }
+  },
+  {
+    "type": "domain",
+    "value": "navigraph.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:navigraph.com",
+    "source": {
+      "list": "CATEGORY-FLIGHT-SIMULATOR",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "orbxdirect.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:orbxdirect.com",
+    "source": {
+      "list": "CATEGORY-FLIGHT-SIMULATOR",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "orbxsystems.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:orbxsystems.com",
+    "source": {
+      "list": "CATEGORY-FLIGHT-SIMULATOR",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "parallel42.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:parallel42.com",
+    "source": {
+      "list": "CATEGORY-FLIGHT-SIMULATOR",
+      "line": 65
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pilotedge.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pilotedge.net",
+    "source": {
+      "list": "CATEGORY-FLIGHT-SIMULATOR",
+      "line": 45
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pmdg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pmdg.com",
+    "source": {
+      "list": "CATEGORY-FLIGHT-SIMULATOR",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "poscon.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:poscon.net",
+    "source": {
+      "list": "CATEGORY-FLIGHT-SIMULATOR",
+      "line": 46
+    }
+  },
+  {
+    "type": "domain",
+    "value": "precisionmanuals.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:precisionmanuals.com",
+    "source": {
+      "list": "CATEGORY-FLIGHT-SIMULATOR",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "prepar3d.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:prepar3d.com",
+    "source": {
+      "list": "CATEGORY-FLIGHT-SIMULATOR",
+      "line": 66
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rexgamestudios.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rexgamestudios.com",
+    "source": {
+      "list": "CATEGORY-FLIGHT-SIMULATOR",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rexsimulations.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rexsimulations.com",
+    "source": {
+      "list": "CATEGORY-FLIGHT-SIMULATOR",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rosscarlson.dev",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rosscarlson.dev",
+    "source": {
+      "list": "CATEGORY-FLIGHT-SIMULATOR",
+      "line": 67
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sayintentions.ai",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sayintentions.ai",
+    "source": {
+      "list": "CATEGORY-FLIGHT-SIMULATOR",
+      "line": 68
+    }
+  },
+  {
+    "type": "domain",
+    "value": "simbrief.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:simbrief.com",
+    "source": {
+      "list": "CATEGORY-FLIGHT-SIMULATOR",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "simmarket.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:simmarket.com",
+    "source": {
+      "list": "CATEGORY-FLIGHT-SIMULATOR",
+      "line": 69
+    }
+  },
+  {
+    "type": "domain",
+    "value": "skylitefly.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:skylitefly.com",
+    "source": {
+      "list": "CATEGORY-FLIGHT-SIMULATOR",
+      "line": 47
+    }
+  },
+  {
+    "type": "domain",
+    "value": "synapticsim.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:synapticsim.com",
+    "source": {
+      "list": "CATEGORY-FLIGHT-SIMULATOR",
+      "line": 70
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tfdidesign.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tfdidesign.com",
+    "source": {
+      "list": "CATEGORY-FLIGHT-SIMULATOR",
+      "line": 71
+    }
+  },
+  {
+    "type": "domain",
+    "value": "thresholdx.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:thresholdx.net",
+    "source": {
+      "list": "CATEGORY-FLIGHT-SIMULATOR",
+      "line": 72
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vat-apac.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vat-apac.com",
+    "source": {
+      "list": "VATSIM",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vatca.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vatca.org",
+    "source": {
+      "list": "VATSIM",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vatcan.ca",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vatcan.ca",
+    "source": {
+      "list": "VATSIM",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vatcar.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vatcar.net",
+    "source": {
+      "list": "VATSIM",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vateud.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vateud.net",
+    "source": {
+      "list": "VATSIM",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vathk.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vathk.com",
+    "source": {
+      "list": "VATSIM",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vatil.org.il",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vatil.org.il",
+    "source": {
+      "list": "VATSIM",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vatjpn.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vatjpn.org",
+    "source": {
+      "list": "VATSIM",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vatkor.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vatkor.net",
+    "source": {
+      "list": "VATSIM",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vatmex.com.mx",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vatmex.com.mx",
+    "source": {
+      "list": "VATSIM",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vatnz.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vatnz.net",
+    "source": {
+      "list": "VATSIM",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vatpac.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vatpac.org",
+    "source": {
+      "list": "VATSIM",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vatprc.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vatprc.net",
+    "source": {
+      "list": "VATSIM",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vatroc.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vatroc.net",
+    "source": {
+      "list": "VATSIM",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vats.im",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vats.im",
+    "source": {
+      "list": "VATSIM",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vatsea.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vatsea.org",
+    "source": {
+      "list": "VATSIM",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vatsim-radar.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vatsim-radar.com",
+    "source": {
+      "list": "CATEGORY-FLIGHT-SIMULATOR",
+      "line": 73
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vatsim.com.br",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vatsim.com.br",
+    "source": {
+      "list": "VATSIM",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vatsim.dev",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vatsim.dev",
+    "source": {
+      "list": "VATSIM",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vatsim.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vatsim.me",
+    "source": {
+      "list": "VATSIM",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vatsim.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vatsim.net",
+    "source": {
+      "list": "VATSIM",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vatsim.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vatsim.uk",
+    "source": {
+      "list": "VATSIM",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vatssa.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vatssa.com",
+    "source": {
+      "list": "VATSIM",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vatsur.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vatsur.org",
+    "source": {
+      "list": "VATSIM",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vatusa.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vatusa.net",
+    "source": {
+      "list": "VATSIM",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vatwa.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vatwa.net",
+    "source": {
+      "list": "VATSIM",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "virtualisoftware.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:virtualisoftware.com",
+    "source": {
+      "list": "CATEGORY-FLIGHT-SIMULATOR",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "x-plane.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:x-plane.com",
+    "source": {
+      "list": "CATEGORY-FLIGHT-SIMULATOR",
+      "line": 74
+    }
+  },
+  {
+    "type": "domain",
+    "value": "x-plane.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:x-plane.org",
+    "source": {
+      "list": "CATEGORY-FLIGHT-SIMULATOR",
+      "line": 75
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xenviro.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xenviro.net",
+    "source": {
+      "list": "CATEGORY-FLIGHT-SIMULATOR",
+      "line": 76
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xpilot-project.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xpilot-project.org",
+    "source": {
+      "list": "CATEGORY-FLIGHT-SIMULATOR",
+      "line": 77
+    }
+  },
+  {
+    "type": "full",
+    "value": "flightsimulator.azureedge.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:flightsimulator.azureedge.net",
+    "source": {
+      "list": "ASOBO",
+      "line": 4
+    }
+  },
+  {
+    "type": "full",
+    "value": "fsdt.virtuali.s3.amazonaws.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:fsdt.virtuali.s3.amazonaws.com",
+    "source": {
+      "list": "CATEGORY-FLIGHT-SIMULATOR",
+      "line": 9
+    }
+  }
+]

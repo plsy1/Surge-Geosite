@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "quip-cdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:quip-cdn.com",
+    "source": {
+      "list": "QUIP",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "quip.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:quip.com",
+    "source": {
+      "list": "QUIP",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "quipelements.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:quipelements.com",
+    "source": {
+      "list": "QUIP",
+      "line": 3
+    }
+  }
+]

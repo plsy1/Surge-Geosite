@@ -1,0 +1,68 @@
+[
+  {
+    "type": "domain",
+    "value": "s-bid.rmp.rakuten.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:s-bid.rmp.rakuten.com",
+    "source": {
+      "list": "VIBER",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vbcdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vbcdn.com",
+    "source": {
+      "list": "VIBER",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vbcdn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vbcdn.net",
+    "source": {
+      "list": "VIBER",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "viber.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:viber.co",
+    "source": {
+      "list": "VIBER",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "viber.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:viber.com",
+    "source": {
+      "list": "VIBER",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "viber.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:viber.me",
+    "source": {
+      "list": "VIBER",
+      "line": 3
+    }
+  }
+]

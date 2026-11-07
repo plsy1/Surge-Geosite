@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "koowo.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:koowo.cn",
+    "source": {
+      "list": "KUWO",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "koowo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:koowo.com",
+    "source": {
+      "list": "KUWO",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kuwo.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kuwo.cn",
+    "source": {
+      "list": "KUWO",
+      "line": 3
+    }
+  }
+]

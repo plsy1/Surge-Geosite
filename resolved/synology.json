@@ -1,0 +1,226 @@
+[
+  {
+    "type": "domain",
+    "value": "diskstation.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:diskstation.me",
+    "source": {
+      "list": "SYNOLOGY",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dscloud.biz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dscloud.biz",
+    "source": {
+      "list": "SYNOLOGY",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dscloud.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dscloud.me",
+    "source": {
+      "list": "SYNOLOGY",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dscloud.mobi",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dscloud.mobi",
+    "source": {
+      "list": "SYNOLOGY",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dsmynas.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dsmynas.com",
+    "source": {
+      "list": "SYNOLOGY",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dsmynas.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dsmynas.net",
+    "source": {
+      "list": "SYNOLOGY",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dsmynas.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dsmynas.org",
+    "source": {
+      "list": "SYNOLOGY",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "familyds.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:familyds.com",
+    "source": {
+      "list": "SYNOLOGY",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "familyds.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:familyds.net",
+    "source": {
+      "list": "SYNOLOGY",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "familyds.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:familyds.org",
+    "source": {
+      "list": "SYNOLOGY",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gofile.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gofile.me",
+    "source": {
+      "list": "SYNOLOGY",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "i234.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:i234.me",
+    "source": {
+      "list": "SYNOLOGY",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "myds.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:myds.me",
+    "source": {
+      "list": "SYNOLOGY",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "quickconnect.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:quickconnect.cn:@cn",
+    "source": {
+      "list": "SYNOLOGY",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "quickconnect.to",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:quickconnect.to",
+    "source": {
+      "list": "SYNOLOGY",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "synology.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:synology.cn:@cn",
+    "source": {
+      "list": "SYNOLOGY",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "synology.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:synology.com",
+    "source": {
+      "list": "SYNOLOGY",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "synology.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:synology.me",
+    "source": {
+      "list": "SYNOLOGY",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "synologydownload.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:synologydownload.com",
+    "source": {
+      "list": "SYNOLOGY",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "synologyupdate.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:synologyupdate.com",
+    "source": {
+      "list": "SYNOLOGY",
+      "line": 5
+    }
+  }
+]

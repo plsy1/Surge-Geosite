@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "grazie.ai",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:grazie.ai",
+    "source": {
+      "list": "JETBRAINS-AI",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "grazie.aws.intellij.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:grazie.aws.intellij.net",
+    "source": {
+      "list": "JETBRAINS-AI",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jetbrains.ai",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jetbrains.ai",
+    "source": {
+      "list": "JETBRAINS-AI",
+      "line": 3
+    }
+  }
+]

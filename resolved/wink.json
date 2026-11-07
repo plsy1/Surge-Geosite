@@ -1,0 +1,57 @@
+[
+  {
+    "type": "domain",
+    "value": "more.tv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:more.tv",
+    "source": {
+      "list": "WINK",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "restream-media.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:restream-media.net",
+    "source": {
+      "list": "WINK",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "restream.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:restream.ru",
+    "source": {
+      "list": "WINK",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wink.am",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wink.am",
+    "source": {
+      "list": "WINK",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wink.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wink.ru",
+    "source": {
+      "list": "WINK",
+      "line": 5
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "goproxy.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:goproxy.cn",
+    "source": {
+      "list": "GOPROXY",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "goproxy.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:goproxy.io",
+    "source": {
+      "list": "GOPROXY",
+      "line": 3
+    }
+  }
+]

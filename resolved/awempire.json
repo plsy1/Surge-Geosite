@@ -1,0 +1,57 @@
+[
+  {
+    "type": "domain",
+    "value": "awempire.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:awempire.com",
+    "source": {
+      "list": "AWEMPIRE",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dditsadn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dditsadn.com",
+    "source": {
+      "list": "AWEMPIRE",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dditscdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dditscdn.com",
+    "source": {
+      "list": "AWEMPIRE",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "docleradn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:docleradn.com",
+    "source": {
+      "list": "AWEMPIRE",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "doclercdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:doclercdn.com",
+    "source": {
+      "list": "AWEMPIRE",
+      "line": 7
+    }
+  }
+]

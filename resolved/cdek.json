@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "ad-cdek.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ad-cdek.ru",
+    "source": {
+      "list": "CDEK",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdek.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdek.ru",
+    "source": {
+      "list": "CDEK",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdek.shopping",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdek.shopping",
+    "source": {
+      "list": "CDEK",
+      "line": 2
+    }
+  }
+]

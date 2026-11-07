@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "kktv.com.tw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kktv.com.tw",
+    "source": {
+      "list": "KKTV",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kktv.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kktv.me",
+    "source": {
+      "list": "KKTV",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "theater-kktv.cdn.hinet.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:theater-kktv.cdn.hinet.net",
+    "source": {
+      "list": "KKTV",
+      "line": 3
+    }
+  }
+]

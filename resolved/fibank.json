@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "fibank.bg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fibank.bg",
+    "source": {
+      "list": "FIBANK",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "meawallet.app",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:meawallet.app",
+    "source": {
+      "list": "FIBANK",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "myfin.bg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:myfin.bg",
+    "source": {
+      "list": "FIBANK",
+      "line": 3
+    }
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "esm.run",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:esm.run",
+    "source": {
+      "list": "JSDELIVR",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jsdelivr.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jsdelivr.com",
+    "source": {
+      "list": "JSDELIVR",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jsdelivr.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jsdelivr.net",
+    "source": {
+      "list": "JSDELIVR",
+      "line": 3
+    }
+  }
+]

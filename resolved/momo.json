@@ -1,0 +1,46 @@
+[
+  {
+    "type": "domain",
+    "value": "momo.dm",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:momo.dm",
+    "source": {
+      "list": "MOMO",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "momo5188.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:momo5188.com",
+    "source": {
+      "list": "MOMO",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "momomall.com.tw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:momomall.com.tw",
+    "source": {
+      "list": "MOMO",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "momoshop.com.tw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:momoshop.com.tw",
+    "source": {
+      "list": "MOMO",
+      "line": 4
+    }
+  }
+]

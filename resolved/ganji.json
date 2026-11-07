@@ -1,0 +1,46 @@
+[
+  {
+    "type": "domain",
+    "value": "58ganji-corp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:58ganji-corp.com",
+    "source": {
+      "list": "GANJI",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "58ganji.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:58ganji.com",
+    "source": {
+      "list": "GANJI",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ganji.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ganji.com",
+    "source": {
+      "list": "GANJI",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ganjistatic1.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ganjistatic1.com",
+    "source": {
+      "list": "GANJI",
+      "line": 4
+    }
+  }
+]

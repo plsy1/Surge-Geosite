@@ -1,0 +1,90 @@
+[
+  {
+    "type": "domain",
+    "value": "tv.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tv.apple.com",
+    "source": {
+      "list": "APPLE-TVPLUS",
+      "line": 10
+    }
+  },
+  {
+    "type": "full",
+    "value": "apple-tv-plus-press.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:apple-tv-plus-press.apple.com",
+    "source": {
+      "list": "APPLE-TVPLUS",
+      "line": 2
+    }
+  },
+  {
+    "type": "full",
+    "value": "hls-amt.itunes.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:hls-amt.itunes.apple.com",
+    "source": {
+      "list": "APPLE-TVPLUS",
+      "line": 3
+    }
+  },
+  {
+    "type": "full",
+    "value": "hls.itunes.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:hls.itunes.apple.com",
+    "source": {
+      "list": "APPLE-TVPLUS",
+      "line": 4
+    }
+  },
+  {
+    "type": "full",
+    "value": "np-edge.itunes.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:np-edge.itunes.apple.com",
+    "source": {
+      "list": "APPLE-TVPLUS",
+      "line": 5
+    }
+  },
+  {
+    "type": "full",
+    "value": "play-edge.itunes.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:play-edge.itunes.apple.com",
+    "source": {
+      "list": "APPLE-TVPLUS",
+      "line": 6
+    }
+  },
+  {
+    "type": "full",
+    "value": "tv.applemusic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:tv.applemusic.com",
+    "source": {
+      "list": "APPLE-TVPLUS",
+      "line": 7
+    }
+  },
+  {
+    "type": "full",
+    "value": "uts-api.itunes.apple.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:uts-api.itunes.apple.com",
+    "source": {
+      "list": "APPLE-TVPLUS",
+      "line": 8
+    }
+  }
+]

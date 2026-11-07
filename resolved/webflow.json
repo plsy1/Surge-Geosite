@@ -1,0 +1,46 @@
+[
+  {
+    "type": "domain",
+    "value": "webflow-ext.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:webflow-ext.com",
+    "source": {
+      "list": "WEBFLOW",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "webflow.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:webflow.com",
+    "source": {
+      "list": "WEBFLOW",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "webflow.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:webflow.io",
+    "source": {
+      "list": "WEBFLOW",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "website-files.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:website-files.com",
+    "source": {
+      "list": "WEBFLOW",
+      "line": 4
+    }
+  }
+]

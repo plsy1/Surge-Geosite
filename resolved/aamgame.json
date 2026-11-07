@@ -1,0 +1,57 @@
+[
+  {
+    "type": "domain",
+    "value": "aamgame.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aamgame.com",
+    "source": {
+      "list": "AAMGAME",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aamgame.mobi",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aamgame.mobi",
+    "source": {
+      "list": "AAMGAME",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aamgame.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aamgame.net",
+    "source": {
+      "list": "AAMGAME",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aamsmart.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aamsmart.com",
+    "source": {
+      "list": "AAMGAME",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "singworld.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:singworld.net",
+    "source": {
+      "list": "AAMGAME",
+      "line": 9
+    }
+  }
+]
