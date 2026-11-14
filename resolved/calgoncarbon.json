@@ -1,0 +1,213 @@
+[
+  {
+    "type": "domain",
+    "value": "calgon.at",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:calgon.at",
+    "source": {
+      "list": "CALGONCARBON",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "calgon.be",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:calgon.be",
+    "source": {
+      "list": "CALGONCARBON",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "calgon.ch",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:calgon.ch",
+    "source": {
+      "list": "CALGONCARBON",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "calgon.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:calgon.cn:@cn",
+    "source": {
+      "list": "CALGONCARBON",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "calgon.co.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:calgon.co.uk",
+    "source": {
+      "list": "CALGONCARBON",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "calgon.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:calgon.com",
+    "source": {
+      "list": "CALGONCARBON",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "calgon.com.tr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:calgon.com.tr",
+    "source": {
+      "list": "CALGONCARBON",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "calgon.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:calgon.de",
+    "source": {
+      "list": "CALGONCARBON",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "calgon.es",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:calgon.es",
+    "source": {
+      "list": "CALGONCARBON",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "calgon.fr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:calgon.fr",
+    "source": {
+      "list": "CALGONCARBON",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "calgon.ie",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:calgon.ie",
+    "source": {
+      "list": "CALGONCARBON",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "calgon.it",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:calgon.it",
+    "source": {
+      "list": "CALGONCARBON",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "calgon.nl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:calgon.nl",
+    "source": {
+      "list": "CALGONCARBON",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "calgon.pt",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:calgon.pt",
+    "source": {
+      "list": "CALGONCARBON",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "calgon.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:calgon.ru",
+    "source": {
+      "list": "CALGONCARBON",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "calgon.tv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:calgon.tv",
+    "source": {
+      "list": "CALGONCARBON",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "calgoncarbon-china.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:calgoncarbon-china.com",
+    "source": {
+      "list": "CALGONCARBON",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "calgoncarbon.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:calgoncarbon.com",
+    "source": {
+      "list": "CALGONCARBON",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "calgonit.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:calgonit.com",
+    "source": {
+      "list": "CALGONCARBON",
+      "line": 19
+    }
+  }
+]

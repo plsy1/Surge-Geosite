@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "bsclink.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bsclink.cn",
+    "source": {
+      "list": "BAISHANCLOUD",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qingcdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qingcdn.com",
+    "source": {
+      "list": "BAISHANCLOUD",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "trpcdn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:trpcdn.net",
+    "source": {
+      "list": "BAISHANCLOUD",
+      "line": 3
+    }
+  }
+]

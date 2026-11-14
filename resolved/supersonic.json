@@ -1,0 +1,54 @@
+[
+  {
+    "type": "domain",
+    "value": "ssacdn.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:ssacdn.com:@ads",
+    "source": {
+      "list": "SUPERSONIC",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "supersonic.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:supersonic.com:@ads",
+    "source": {
+      "list": "SUPERSONIC",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "supersonicads-a.akamaihd.net",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:supersonicads-a.akamaihd.net:@ads",
+    "source": {
+      "list": "SUPERSONIC",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "supersonicads.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:supersonicads.com:@ads",
+    "source": {
+      "list": "SUPERSONIC",
+      "line": 3
+    }
+  }
+]

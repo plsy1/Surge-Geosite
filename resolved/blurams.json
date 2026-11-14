@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "blurams.app",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:blurams.app",
+    "source": {
+      "list": "BLURAMS",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "blurams.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:blurams.com",
+    "source": {
+      "list": "BLURAMS",
+      "line": 2
+    }
+  }
+]

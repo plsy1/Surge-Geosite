@@ -1,0 +1,57 @@
+[
+  {
+    "type": "domain",
+    "value": "mxlogin.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mxlogin.com",
+    "source": {
+      "list": "MXROUTE",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mxroute.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mxroute.com",
+    "source": {
+      "list": "MXROUTE",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mxroutedocs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mxroutedocs.com",
+    "source": {
+      "list": "MXROUTE",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mxroutehelp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mxroutehelp.com",
+    "source": {
+      "list": "MXROUTE",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mxrouting.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mxrouting.net",
+    "source": {
+      "list": "MXROUTE",
+      "line": 5
+    }
+  }
+]

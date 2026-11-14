@@ -1,0 +1,59 @@
+{
+  "name": "DMM",
+  "source": {
+    "domain": 14,
+    "full": 1,
+    "keyword": 0,
+    "regexp": 0,
+    "include": 1,
+    "affiliations": 0,
+    "attributes": 11
+  },
+  "resolved": {
+    "rules": 17,
+    "domain": 16,
+    "full": 1,
+    "keyword": 0,
+    "regexp": 0
+  },
+  "filters": {
+    "attrs": {
+      "ads": 11
+    }
+  },
+  "modes": {
+    "strict": {
+      "rules": 17,
+      "bytes": 445,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "balanced": {
+      "rules": 17,
+      "bytes": 445,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "full": {
+      "rules": 17,
+      "bytes": 445,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    }
+  }
+}

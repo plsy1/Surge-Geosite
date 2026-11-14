@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "content-ause1-ur-discovery1.uplynk.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:content-ause1-ur-discovery1.uplynk.com",
+    "source": {
+      "list": "DISCOVERYPLUS",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "disco-api.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:disco-api.com",
+    "source": {
+      "list": "DISCOVERYPLUS",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "discoveryplus.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:discoveryplus.com",
+    "source": {
+      "list": "DISCOVERYPLUS",
+      "line": 3
+    }
+  }
+]

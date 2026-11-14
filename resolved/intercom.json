@@ -1,0 +1,46 @@
+[
+  {
+    "type": "domain",
+    "value": "intercom.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intercom.com",
+    "source": {
+      "list": "INTERCOM",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intercom.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intercom.io",
+    "source": {
+      "list": "INTERCOM",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intercomassets.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intercomassets.com",
+    "source": {
+      "list": "INTERCOM",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intercomcdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intercomcdn.com",
+    "source": {
+      "list": "INTERCOM",
+      "line": 4
+    }
+  }
+]

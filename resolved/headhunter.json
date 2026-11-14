@@ -1,0 +1,90 @@
+[
+  {
+    "type": "domain",
+    "value": "hh.by",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hh.by",
+    "source": {
+      "list": "HEADHUNTER",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hh.kz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hh.kz",
+    "source": {
+      "list": "HEADHUNTER",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hh.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hh.ru",
+    "source": {
+      "list": "HEADHUNTER",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hhcdn.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hhcdn.ru",
+    "source": {
+      "list": "HEADHUNTER",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rabota.by",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rabota.by",
+    "source": {
+      "list": "HEADHUNTER",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "setka.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:setka.ru",
+    "source": {
+      "list": "HEADHUNTER",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "talantix.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:talantix.ru",
+    "source": {
+      "list": "HEADHUNTER",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zarplata.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zarplata.ru",
+    "source": {
+      "list": "HEADHUNTER",
+      "line": 8
+    }
+  }
+]

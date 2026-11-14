@@ -1,0 +1,60 @@
+{
+  "name": "TIKTOK",
+  "source": {
+    "domain": 34,
+    "full": 6,
+    "keyword": 0,
+    "regexp": 0,
+    "include": 0,
+    "affiliations": 0,
+    "attributes": 40
+  },
+  "resolved": {
+    "rules": 40,
+    "domain": 34,
+    "full": 6,
+    "keyword": 0,
+    "regexp": 0
+  },
+  "filters": {
+    "attrs": {
+      "ads": 1,
+      "!cn": 39
+    }
+  },
+  "modes": {
+    "strict": {
+      "rules": 40,
+      "bytes": 1277,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "balanced": {
+      "rules": 40,
+      "bytes": 1277,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "full": {
+      "rules": 40,
+      "bytes": 1277,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    }
+  }
+}

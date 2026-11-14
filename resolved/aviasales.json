@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "aviasales.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aviasales.com",
+    "source": {
+      "list": "AVIASALES",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aviasales.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aviasales.ru",
+    "source": {
+      "list": "AVIASALES",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "avs.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:avs.io",
+    "source": {
+      "list": "AVIASALES",
+      "line": 1
+    }
+  }
+]

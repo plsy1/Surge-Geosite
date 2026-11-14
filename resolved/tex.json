@@ -1,0 +1,46 @@
+[
+  {
+    "type": "domain",
+    "value": "ctan.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ctan.org",
+    "source": {
+      "list": "TEX",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "latex-project.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:latex-project.org",
+    "source": {
+      "list": "TEX",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "miktex.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:miktex.org",
+    "source": {
+      "list": "TEX",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tug.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tug.org",
+    "source": {
+      "list": "TEX",
+      "line": 11
+    }
+  }
+]

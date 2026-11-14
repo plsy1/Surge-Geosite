@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "konachan.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:konachan.com",
+    "source": {
+      "list": "KONACHAN",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "konachan.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:konachan.net",
+    "source": {
+      "list": "KONACHAN",
+      "line": 2
+    }
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "type": "domain",
+    "value": "hupun.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hupun.com",
+    "source": {
+      "list": "HUPUN",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hupun.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hupun.com.cn",
+    "source": {
+      "list": "HUPUN",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kata.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kata.com.cn",
+    "source": {
+      "list": "HUPUN",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "newniu.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:newniu.com",
+    "source": {
+      "list": "HUPUN",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wanliniu.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wanliniu.com",
+    "source": {
+      "list": "HUPUN",
+      "line": 5
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "shireyishunjian.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:shireyishunjian.com",
+    "source": {
+      "list": "SHIREYISHUNJIAN",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yingpianqu.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yingpianqu.com",
+    "source": {
+      "list": "SHIREYISHUNJIAN",
+      "line": 2
+    }
+  }
+]

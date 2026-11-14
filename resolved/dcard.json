@@ -1,0 +1,46 @@
+[
+  {
+    "type": "domain",
+    "value": "dcard.cc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dcard.cc",
+    "source": {
+      "list": "DCARD",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dcard.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dcard.io",
+    "source": {
+      "list": "DCARD",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dcard.link",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dcard.link",
+    "source": {
+      "list": "DCARD",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dcard.tw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dcard.tw",
+    "source": {
+      "list": "DCARD",
+      "line": 4
+    }
+  }
+]

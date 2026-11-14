@@ -1,0 +1,1611 @@
+[
+  {
+    "type": "domain",
+    "value": "1-account.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:1-account.com",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "30d.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:30d.jp",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adam.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:adam.jp",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "alive-project.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:alive-project.com",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "alphassl.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:alphassl.com:@cn",
+    "source": {
+      "list": "GLOBALSIGN",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "animary.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:animary.jp",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "atokara.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:atokara.jp",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "banksy.tokyo",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:banksy.tokyo",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "brantect.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:brantect.com",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cashmart.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cashmart.jp",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "chintaidx.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:chintaidx.com",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "click-sec.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:click-sec.com",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudec.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cloudec.jp",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "coeteco.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:coeteco.jp",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "colleee.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:colleee.net",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "colorme-repeat.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:colorme-repeat.jp",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "conoha.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:conoha.jp",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "coreserver.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:coreserver.jp",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "decopri.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:decopri.net",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dentry.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dentry.jp",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 37
+    }
+  },
+  {
+    "type": "domain",
+    "value": "e-estate.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:e-estate.jp",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 38
+    }
+  },
+  {
+    "type": "domain",
+    "value": "easy-signing.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:easy-signing.com:@cn",
+    "source": {
+      "list": "GLOBALSIGN",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ekiten.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ekiten.jp",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 39
+    }
+  },
+  {
+    "type": "domain",
+    "value": "enpay.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:enpay.co.jp",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 40
+    }
+  },
+  {
+    "type": "domain",
+    "value": "epsilon.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:epsilon.jp",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fanspot.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fanspot.jp",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 42
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fincode.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fincode.jp",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 43
+    }
+  },
+  {
+    "type": "domain",
+    "value": "find-a.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:find-a.jp",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 44
+    }
+  },
+  {
+    "type": "domain",
+    "value": "flatt.tech",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:flatt.tech",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 45
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fulloutsourcing.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fulloutsourcing.jp",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 46
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gaikaex.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gaikaex.com",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 47
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gesoten.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gesoten.com",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 48
+    }
+  },
+  {
+    "type": "domain",
+    "value": "get.shop",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:get.shop",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 49
+    }
+  },
+  {
+    "type": "domain",
+    "value": "globalsign-media.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:globalsign-media.com",
+    "source": {
+      "list": "GLOBALSIGN",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "globalsign.be",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:globalsign.be",
+    "source": {
+      "list": "GLOBALSIGN",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "globalsign.ch",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:globalsign.ch",
+    "source": {
+      "list": "GLOBALSIGN",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "globalsign.cloud",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:globalsign.cloud",
+    "source": {
+      "list": "GLOBALSIGN",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "globalsign.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:globalsign.cn:@cn",
+    "source": {
+      "list": "GLOBALSIGN",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "globalsign.co.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:globalsign.co.uk",
+    "source": {
+      "list": "GLOBALSIGN",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "globalsign.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:globalsign.com:@cn",
+    "source": {
+      "list": "GLOBALSIGN",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "globalsign.com.au",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:globalsign.com.au",
+    "source": {
+      "list": "GLOBALSIGN",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "globalsign.com.br",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:globalsign.com.br",
+    "source": {
+      "list": "GLOBALSIGN",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "globalsign.com.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:globalsign.com.hk",
+    "source": {
+      "list": "GLOBALSIGN",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "globalsign.com.sg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:globalsign.com.sg",
+    "source": {
+      "list": "GLOBALSIGN",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "globalsign.es",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:globalsign.es",
+    "source": {
+      "list": "GLOBALSIGN",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "globalsign.eu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:globalsign.eu",
+    "source": {
+      "list": "GLOBALSIGN",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "globalsign.fr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:globalsign.fr",
+    "source": {
+      "list": "GLOBALSIGN",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "globalsign.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:globalsign.net",
+    "source": {
+      "list": "GLOBALSIGN",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "globalsign.nl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:globalsign.nl",
+    "source": {
+      "list": "GLOBALSIGN",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "globalsigncdn.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:globalsigncdn.com:@cn",
+    "source": {
+      "list": "GLOBALSIGN",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gmo",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gmo",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gmo-aozora.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gmo-aozora.com",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 51
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gmo-app.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gmo-app.jp",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 52
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gmo-c.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gmo-c.jp",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 53
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gmo-clinic-map.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gmo-clinic-map.com",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 54
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gmo-connect.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gmo-connect.com",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 55
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gmo-cybersecurity.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gmo-cybersecurity.com",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 56
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gmo-digitalpay.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gmo-digitalpay.jp",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 57
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gmo-fg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gmo-fg.com",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 58
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gmo-healthtech.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gmo-healthtech.com",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 59
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gmo-insight.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gmo-insight.jp",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 60
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gmo-mobilepay.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gmo-mobilepay.jp",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 61
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gmo-office.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gmo-office.com",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 62
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gmo-official.shop",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gmo-official.shop",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 63
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gmo-pa.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gmo-pa.com",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 64
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gmo-pg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gmo-pg.com",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 65
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gmo-ps.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gmo-ps.com",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 66
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gmo-rakurakuhp.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gmo-rakurakuhp.jp",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 67
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gmo-rast.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gmo-rast.co.jp",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 68
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gmo-research.ai",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gmo-research.ai",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 69
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gmo-sol.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gmo-sol.jp",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 70
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gmo-vp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gmo-vp.com",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 71
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gmo.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gmo.jp",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 72
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gmo.media",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gmo.media",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 73
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gmoask.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gmoask.jp",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 74
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gmobb.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gmobb.jp",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 75
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gmocloud.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gmocloud.com",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 76
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gmopg.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gmopg.jp",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 77
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gmosign.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gmosign.com",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 78
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gmossp.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gmossp.jp",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 79
+    }
+  },
+  {
+    "type": "domain",
+    "value": "good-apps.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:good-apps.jp",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 80
+    }
+  },
+  {
+    "type": "domain",
+    "value": "goope.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:goope.jp",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 81
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hakaru.ai",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hakaru.ai",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 84
+    }
+  },
+  {
+    "type": "domain",
+    "value": "heteml.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:heteml.jp",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 85
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hotel-reviewn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hotel-reviewn.com",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 86
+    }
+  },
+  {
+    "type": "domain",
+    "value": "infoq.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:infoq.jp",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 88
+    }
+  },
+  {
+    "type": "domain",
+    "value": "iprad-ryoma.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:iprad-ryoma.com",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 89
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ird.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ird.co.jp",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 90
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jword.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jword.jp",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 91
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kaipoke.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kaipoke.jp",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 92
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kantan.game",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kantan.game",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 93
+    }
+  },
+  {
+    "type": "domain",
+    "value": "karabako-gmo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:karabako-gmo.com",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 95
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kireipass.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kireipass.jp",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 97
+    }
+  },
+  {
+    "type": "domain",
+    "value": "koukoku.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:koukoku.jp",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 98
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kumagai.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kumagai.com",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 99
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kumapon.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kumapon.jp",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 100
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lolipop.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lolipop.jp",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 101
+    }
+  },
+  {
+    "type": "domain",
+    "value": "makeappli.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:makeappli.jp",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 102
+    }
+  },
+  {
+    "type": "domain",
+    "value": "makerepeater.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:makerepeater.jp",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 103
+    }
+  },
+  {
+    "type": "domain",
+    "value": "makeshop.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:makeshop.jp",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 104
+    }
+  },
+  {
+    "type": "domain",
+    "value": "medical-reserve.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:medical-reserve.co.jp",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 105
+    }
+  },
+  {
+    "type": "domain",
+    "value": "meo-dash.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:meo-dash.com",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 106
+    }
+  },
+  {
+    "type": "domain",
+    "value": "michill.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:michill.jp",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 107
+    }
+  },
+  {
+    "type": "domain",
+    "value": "minne.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:minne.com",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 108
+    }
+  },
+  {
+    "type": "domain",
+    "value": "muumuu-domain.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:muumuu-domain.com",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 109
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nomyne.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nomyne.com",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 110
+    }
+  },
+  {
+    "type": "domain",
+    "value": "okiwine.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:okiwine.jp",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 111
+    }
+  },
+  {
+    "type": "domain",
+    "value": "omakase.in",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:omakase.in",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 112
+    }
+  },
+  {
+    "type": "domain",
+    "value": "onamae-desktop.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:onamae-desktop.com",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 113
+    }
+  },
+  {
+    "type": "domain",
+    "value": "onamae-office.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:onamae-office.com",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 114
+    }
+  },
+  {
+    "type": "domain",
+    "value": "onamae.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:onamae.com",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 115
+    }
+  },
+  {
+    "type": "domain",
+    "value": "osaipo.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:osaipo.jp",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 116
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oshiete.ai",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oshiete.ai",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 117
+    }
+  },
+  {
+    "type": "domain",
+    "value": "out-app-purchase.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:out-app-purchase.com",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 118
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pepabo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pepabo.com",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 119
+    }
+  },
+  {
+    "type": "domain",
+    "value": "playads.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:playads.jp",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 120
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pointtown.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pointtown.com",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 121
+    }
+  },
+  {
+    "type": "domain",
+    "value": "prcm.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:prcm.jp",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 122
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pricesearch.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pricesearch.jp",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 123
+    }
+  },
+  {
+    "type": "domain",
+    "value": "renshu.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:renshu.com",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 125
+    }
+  },
+  {
+    "type": "domain",
+    "value": "seo-dash.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:seo-dash.net",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 127
+    }
+  },
+  {
+    "type": "domain",
+    "value": "seodirector.ai",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:seodirector.ai",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 128
+    }
+  },
+  {
+    "type": "domain",
+    "value": "seotimes.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:seotimes.jp",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 129
+    }
+  },
+  {
+    "type": "domain",
+    "value": "shisho.dev",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:shisho.dev",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 130
+    }
+  },
+  {
+    "type": "domain",
+    "value": "shop-pro.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:shop-pro.jp",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 131
+    }
+  },
+  {
+    "type": "domain",
+    "value": "shuminavi.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:shuminavi.net",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 132
+    }
+  },
+  {
+    "type": "domain",
+    "value": "smaad.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:smaad.net",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 134
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sokuresu.ai",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sokuresu.ai",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 135
+    }
+  },
+  {
+    "type": "domain",
+    "value": "suzuri.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:suzuri.jp",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 136
+    }
+  },
+  {
+    "type": "domain",
+    "value": "taxel.media",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:taxel.media",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 137
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tenbin.ai",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tenbin.ai",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 138
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tenten.vn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tenten.vn",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 139
+    }
+  },
+  {
+    "type": "domain",
+    "value": "toritonssl.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:toritonssl.com",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 140
+    }
+  },
+  {
+    "type": "domain",
+    "value": "townwifi.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:townwifi.jp",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 141
+    }
+  },
+  {
+    "type": "domain",
+    "value": "trustlogin.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:trustlogin.com",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 142
+    }
+  },
+  {
+    "type": "domain",
+    "value": "value-domain.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:value-domain.com",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 143
+    }
+  },
+  {
+    "type": "domain",
+    "value": "value-server.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:value-server.com",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 144
+    }
+  },
+  {
+    "type": "domain",
+    "value": "waccas.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:waccas.com",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 145
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wadax.ne.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wadax.ne.jp",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 146
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xrea.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xrea.com",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 147
+    }
+  },
+  {
+    "type": "domain",
+    "value": "z.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:z.com",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 148
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zeibit.ai",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zeibit.ai",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 149
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ztrendlab.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ztrendlab.com",
+    "source": {
+      "list": "GMO-INTERNET",
+      "line": 150
+    }
+  },
+  {
+    "type": "full",
+    "value": "cdn.globalsigncdn.com.cdn.cloudflare.net",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:cdn.globalsigncdn.com.cdn.cloudflare.net:@cn",
+    "source": {
+      "list": "GLOBALSIGN",
+      "line": 21
+    }
+  },
+  {
+    "type": "full",
+    "value": "crl.globalsign.net",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:crl.globalsign.net:@cn",
+    "source": {
+      "list": "GLOBALSIGN",
+      "line": 22
+    }
+  }
+]

@@ -1,0 +1,315 @@
+[
+  {
+    "type": "domain",
+    "value": "ads-api-o.api.leiniao.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:ads-api-o.api.leiniao.com:@ads",
+    "source": {
+      "list": "TCL",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ads-api-t.my7v.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:ads-api-t.my7v.com:@ads",
+    "source": {
+      "list": "TCL",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ads-o.res.leiniao.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:ads-o.res.leiniao.com:@ads",
+    "source": {
+      "list": "TCL",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ads-uo.api.leiniao.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:ads-uo.api.leiniao.com:@ads",
+    "source": {
+      "list": "TCL",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ads-ut.api.leiniao.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:ads-ut.api.leiniao.com:@ads",
+    "source": {
+      "list": "TCL",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ads.api.my7v.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:ads.api.my7v.com:@ads",
+    "source": {
+      "list": "TCL",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "base.api.my7v.com",
+    "attrs": [
+      "telemetry"
+    ],
+    "affiliations": [],
+    "plain": "domain:base.api.my7v.com:@telemetry",
+    "source": {
+      "list": "TCL",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dc-conf-o.api.leiniao.com",
+    "attrs": [
+      "telemetry"
+    ],
+    "affiliations": [],
+    "plain": "domain:dc-conf-o.api.leiniao.com:@telemetry",
+    "source": {
+      "list": "TCL",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dc-conf-t.api.leiniao.com",
+    "attrs": [
+      "telemetry"
+    ],
+    "affiliations": [],
+    "plain": "domain:dc-conf-t.api.leiniao.com:@telemetry",
+    "source": {
+      "list": "TCL",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dc-o.api.leiniao.com",
+    "attrs": [
+      "telemetry"
+    ],
+    "affiliations": [],
+    "plain": "domain:dc-o.api.leiniao.com:@telemetry",
+    "source": {
+      "list": "TCL",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dc-t.api.leiniao.com",
+    "attrs": [
+      "telemetry"
+    ],
+    "affiliations": [],
+    "plain": "domain:dc-t.api.leiniao.com:@telemetry",
+    "source": {
+      "list": "TCL",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dc-uo.api.leiniao.com",
+    "attrs": [
+      "telemetry"
+    ],
+    "affiliations": [],
+    "plain": "domain:dc-uo.api.leiniao.com:@telemetry",
+    "source": {
+      "list": "TCL",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dc-ut.api.leiniao.com",
+    "attrs": [
+      "telemetry"
+    ],
+    "affiliations": [],
+    "plain": "domain:dc-ut.api.leiniao.com:@telemetry",
+    "source": {
+      "list": "TCL",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "euads-o.api.leiniao.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:euads-o.api.leiniao.com:@ads",
+    "source": {
+      "list": "TCL",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hwads-t.api.my7v.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:hwads-t.api.my7v.com:@ads",
+    "source": {
+      "list": "TCL",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "isms-o.api.my7v.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:isms-o.api.my7v.com:@ads",
+    "source": {
+      "list": "TCL",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "leiniao.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:leiniao.com",
+    "source": {
+      "list": "TCL",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "my7v.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:my7v.com",
+    "source": {
+      "list": "TCL",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qms-report-o.api.leiniao.com",
+    "attrs": [
+      "telemetry"
+    ],
+    "affiliations": [],
+    "plain": "domain:qms-report-o.api.leiniao.com:@telemetry",
+    "source": {
+      "list": "TCL",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qms-report-t.api.leiniao.com",
+    "attrs": [
+      "telemetry"
+    ],
+    "affiliations": [],
+    "plain": "domain:qms-report-t.api.leiniao.com:@telemetry",
+    "source": {
+      "list": "TCL",
+      "line": 37
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tcl.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tcl.com",
+    "source": {
+      "list": "TCL",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tcl.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tcl.com.cn",
+    "source": {
+      "list": "TCL",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tclai.top",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tclai.top",
+    "source": {
+      "list": "TCL",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tcltech.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tcltech.com",
+    "source": {
+      "list": "TCL",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "testads.api.my7v.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:testads.api.my7v.com:@ads",
+    "source": {
+      "list": "TCL",
+      "line": 21
+    }
+  }
+]

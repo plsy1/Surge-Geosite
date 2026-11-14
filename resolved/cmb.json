@@ -1,0 +1,248 @@
+[
+  {
+    "type": "domain",
+    "value": "8008205555.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:8008205555.cn",
+    "source": {
+      "list": "CMB",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "8008205555.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:8008205555.com",
+    "source": {
+      "list": "CMB",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cignacmb-ipmi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cignacmb-ipmi.com",
+    "source": {
+      "list": "CMB",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cignacmb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cignacmb.com",
+    "source": {
+      "list": "CMB",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cignacmbamc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cignacmbamc.com",
+    "source": {
+      "list": "CMB",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cmb-leasing.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cmb-leasing.com",
+    "source": {
+      "list": "CMB",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cmbchina.biz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cmbchina.biz",
+    "source": {
+      "list": "CMB",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cmbchina.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cmbchina.cn",
+    "source": {
+      "list": "CMB",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cmbchina.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cmbchina.com",
+    "source": {
+      "list": "CMB",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cmbi.com.hk",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:cmbi.com.hk:@!cn",
+    "source": {
+      "list": "CMB",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cmbimg.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cmbimg.cn",
+    "source": {
+      "list": "CMB",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cmbimg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cmbimg.com",
+    "source": {
+      "list": "CMB",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cmbt.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cmbt.cn",
+    "source": {
+      "list": "CMB",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cmbuat.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cmbuat.com",
+    "source": {
+      "list": "CMB",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cmburl.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cmburl.cn",
+    "source": {
+      "list": "CMB",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cmbwinglungbank.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:cmbwinglungbank.com:@!cn",
+    "source": {
+      "list": "CMB",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cmf.biz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cmf.biz",
+    "source": {
+      "list": "CMB",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cmf.ltd",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cmf.ltd",
+    "source": {
+      "list": "CMB",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cmfchina.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cmfchina.com",
+    "source": {
+      "list": "CMB",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cmfunds.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cmfunds.cn",
+    "source": {
+      "list": "CMB",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "joying.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:joying.com",
+    "source": {
+      "list": "CMB",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "test-cignacmb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:test-cignacmb.com",
+    "source": {
+      "list": "CMB",
+      "line": 21
+    }
+  }
+]

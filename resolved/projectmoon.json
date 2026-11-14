@@ -1,0 +1,46 @@
+[
+  {
+    "type": "domain",
+    "value": "limbuscompany.global",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:limbuscompany.global",
+    "source": {
+      "list": "PROJECTMOON",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "limbuscompanyapi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:limbuscompanyapi.com",
+    "source": {
+      "list": "PROJECTMOON",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "limbuscompanycdn.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:limbuscompanycdn.org",
+    "source": {
+      "list": "PROJECTMOON",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "projectmoon.studio",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:projectmoon.studio",
+    "source": {
+      "list": "PROJECTMOON",
+      "line": 1
+    }
+  }
+]

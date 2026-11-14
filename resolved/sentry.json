@@ -1,0 +1,46 @@
+[
+  {
+    "type": "domain",
+    "value": "getsentry.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:getsentry.com",
+    "source": {
+      "list": "SENTRY",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sentry-cdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sentry-cdn.com",
+    "source": {
+      "list": "SENTRY",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sentry.dev",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sentry.dev",
+    "source": {
+      "list": "SENTRY",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sentry.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sentry.io",
+    "source": {
+      "list": "SENTRY",
+      "line": 3
+    }
+  }
+]

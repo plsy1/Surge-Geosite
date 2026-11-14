@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "bootstrapcdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bootstrapcdn.com",
+    "source": {
+      "list": "BOOTSTRAP",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "getbootstrap.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:getbootstrap.com",
+    "source": {
+      "list": "BOOTSTRAP",
+      "line": 2
+    }
+  }
+]

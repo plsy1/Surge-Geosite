@@ -1,0 +1,79 @@
+[
+  {
+    "type": "domain",
+    "value": "avh.world",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:avh.world",
+    "source": {
+      "list": "AVAXHOME",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "avxde.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:avxde.org",
+    "source": {
+      "list": "AVAXHOME",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "avxhm.is",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:avxhm.is",
+    "source": {
+      "list": "AVAXHOME",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "avxhm.se",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:avxhm.se",
+    "source": {
+      "list": "AVAXHOME",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "avxlive.icu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:avxlive.icu",
+    "source": {
+      "list": "AVAXHOME",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xsava.xyz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xsava.xyz",
+    "source": {
+      "list": "AVAXHOME",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zavat.pw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zavat.pw",
+    "source": {
+      "list": "AVAXHOME",
+      "line": 10
+    }
+  }
+]

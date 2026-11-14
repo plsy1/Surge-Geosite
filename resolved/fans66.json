@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "fans66.tw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fans66.tw",
+    "source": {
+      "list": "FANS66",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fansking.tw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fansking.tw",
+    "source": {
+      "list": "FANS66",
+      "line": 2
+    }
+  }
+]

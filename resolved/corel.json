@@ -1,0 +1,57 @@
+[
+  {
+    "type": "domain",
+    "value": "corel.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:corel.com",
+    "source": {
+      "list": "COREL",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "corel.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:corel.net",
+    "source": {
+      "list": "COREL",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "coreldraw.app",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:coreldraw.app",
+    "source": {
+      "list": "COREL",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "coreldraw.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:coreldraw.com",
+    "source": {
+      "list": "COREL",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "corelstore.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:corelstore.com",
+    "source": {
+      "list": "COREL",
+      "line": 5
+    }
+  }
+]

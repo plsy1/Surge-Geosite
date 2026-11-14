@@ -1,0 +1,486 @@
+[
+  {
+    "type": "domain",
+    "value": "cispaletter.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cispaletter.com",
+    "source": {
+      "list": "DUCKDUCKGO",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cispaletter.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cispaletter.org",
+    "source": {
+      "list": "DUCKDUCKGO",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cometotheduckside.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cometotheduckside.com",
+    "source": {
+      "list": "DUCKDUCKGO",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ddg.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ddg.co",
+    "source": {
+      "list": "DUCKDUCKGO",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ddg.gg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ddg.gg",
+    "source": {
+      "list": "DUCKDUCKGO",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ddh.gg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ddh.gg",
+    "source": {
+      "list": "DUCKDUCKGO",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dgg.gg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dgg.gg",
+    "source": {
+      "list": "DUCKDUCKGO",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dontbubble.us",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dontbubble.us",
+    "source": {
+      "list": "DUCKDUCKGO",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "donttrack.us",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:donttrack.us",
+    "source": {
+      "list": "DUCKDUCKGO",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "duck.ai",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:duck.ai",
+    "source": {
+      "list": "DUCKDUCKGO",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "duck.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:duck.co",
+    "source": {
+      "list": "DUCKDUCKGO",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "duck.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:duck.com",
+    "source": {
+      "list": "DUCKDUCKGO",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "duckduckco.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:duckduckco.com",
+    "source": {
+      "list": "DUCKDUCKGO",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "duckduckco.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:duckduckco.de",
+    "source": {
+      "list": "DUCKDUCKGO",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "duckduckgo.ca",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:duckduckgo.ca",
+    "source": {
+      "list": "DUCKDUCKGO",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "duckduckgo.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:duckduckgo.co",
+    "source": {
+      "list": "DUCKDUCKGO",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "duckduckgo.co.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:duckduckgo.co.uk",
+    "source": {
+      "list": "DUCKDUCKGO",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "duckduckgo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:duckduckgo.com",
+    "source": {
+      "list": "DUCKDUCKGO",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "duckduckgo.com.mx",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:duckduckgo.com.mx",
+    "source": {
+      "list": "DUCKDUCKGO",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "duckduckgo.com.tw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:duckduckgo.com.tw",
+    "source": {
+      "list": "DUCKDUCKGO",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "duckduckgo.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:duckduckgo.de",
+    "source": {
+      "list": "DUCKDUCKGO",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "duckduckgo.dk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:duckduckgo.dk",
+    "source": {
+      "list": "DUCKDUCKGO",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "duckduckgo.in",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:duckduckgo.in",
+    "source": {
+      "list": "DUCKDUCKGO",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "duckduckgo.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:duckduckgo.jp",
+    "source": {
+      "list": "DUCKDUCKGO",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "duckduckgo.ke",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:duckduckgo.ke",
+    "source": {
+      "list": "DUCKDUCKGO",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "duckduckgo.mx",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:duckduckgo.mx",
+    "source": {
+      "list": "DUCKDUCKGO",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "duckduckgo.nl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:duckduckgo.nl",
+    "source": {
+      "list": "DUCKDUCKGO",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "duckduckgo.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:duckduckgo.org",
+    "source": {
+      "list": "DUCKDUCKGO",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "duckduckgo.pl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:duckduckgo.pl",
+    "source": {
+      "list": "DUCKDUCKGO",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "duckduckgo.sg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:duckduckgo.sg",
+    "source": {
+      "list": "DUCKDUCKGO",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "duckduckgo.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:duckduckgo.uk",
+    "source": {
+      "list": "DUCKDUCKGO",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "duckduckhack.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:duckduckhack.com",
+    "source": {
+      "list": "DUCKDUCKGO",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "duckgo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:duckgo.com",
+    "source": {
+      "list": "DUCKDUCKGO",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ducksear.ch",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ducksear.ch",
+    "source": {
+      "list": "DUCKDUCKGO",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "duckside.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:duckside.com",
+    "source": {
+      "list": "DUCKDUCKGO",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dukgo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dukgo.com",
+    "source": {
+      "list": "DUCKDUCKGO",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "enteentegeh.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:enteentegeh.de",
+    "source": {
+      "list": "DUCKDUCKGO",
+      "line": 37
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fixtracking.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fixtracking.com",
+    "source": {
+      "list": "DUCKDUCKGO",
+      "line": 38
+    }
+  },
+  {
+    "type": "domain",
+    "value": "goduckgo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:goduckgo.com",
+    "source": {
+      "list": "DUCKDUCKGO",
+      "line": 39
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hacksear.ch",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hacksear.ch",
+    "source": {
+      "list": "DUCKDUCKGO",
+      "line": 40
+    }
+  },
+  {
+    "type": "domain",
+    "value": "justduckit.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:justduckit.com",
+    "source": {
+      "list": "DUCKDUCKGO",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "privacysimplified.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:privacysimplified.com",
+    "source": {
+      "list": "DUCKDUCKGO",
+      "line": 42
+    }
+  },
+  {
+    "type": "domain",
+    "value": "privatebrowsingmyths.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:privatebrowsingmyths.com",
+    "source": {
+      "list": "DUCKDUCKGO",
+      "line": 43
+    }
+  },
+  {
+    "type": "domain",
+    "value": "spreadprivacy.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:spreadprivacy.com",
+    "source": {
+      "list": "DUCKDUCKGO",
+      "line": 44
+    }
+  }
+]

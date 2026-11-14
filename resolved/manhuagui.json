@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "manhuagui.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:manhuagui.com",
+    "source": {
+      "list": "MANHUAGUI",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mhgui.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mhgui.com",
+    "source": {
+      "list": "MANHUAGUI",
+      "line": 2
+    }
+  }
+]

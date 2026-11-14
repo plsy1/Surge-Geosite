@@ -1,0 +1,46 @@
+[
+  {
+    "type": "domain",
+    "value": "justmysocks.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:justmysocks.net",
+    "source": {
+      "list": "JUSTMYSOCKS",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "justmysocks1.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:justmysocks1.net",
+    "source": {
+      "list": "JUSTMYSOCKS",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "justmysocks2.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:justmysocks2.net",
+    "source": {
+      "list": "JUSTMYSOCKS",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "justmysocks4.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:justmysocks4.net",
+    "source": {
+      "list": "JUSTMYSOCKS",
+      "line": 4
+    }
+  }
+]

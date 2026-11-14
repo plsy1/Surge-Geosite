@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "surflite.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:surflite.co",
+    "source": {
+      "list": "SURFLITE",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "surflite.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:surflite.net",
+    "source": {
+      "list": "SURFLITE",
+      "line": 2
+    }
+  }
+]

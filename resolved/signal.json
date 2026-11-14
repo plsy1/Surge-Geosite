@@ -1,0 +1,90 @@
+[
+  {
+    "type": "domain",
+    "value": "signal.art",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:signal.art",
+    "source": {
+      "list": "SIGNAL",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "signal.group",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:signal.group",
+    "source": {
+      "list": "SIGNAL",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "signal.link",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:signal.link",
+    "source": {
+      "list": "SIGNAL",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "signal.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:signal.me",
+    "source": {
+      "list": "SIGNAL",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "signal.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:signal.org",
+    "source": {
+      "list": "SIGNAL",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "signal.tube",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:signal.tube",
+    "source": {
+      "list": "SIGNAL",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "signalusers.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:signalusers.org",
+    "source": {
+      "list": "SIGNAL",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "whispersystems.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:whispersystems.org",
+    "source": {
+      "list": "SIGNAL",
+      "line": 8
+    }
+  }
+]

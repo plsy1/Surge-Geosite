@@ -1,0 +1,46 @@
+[
+  {
+    "type": "domain",
+    "value": "api-priconne-redive.cygames.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:api-priconne-redive.cygames.jp",
+    "source": {
+      "list": "PURIKONEJP",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "omotenashi.cygames.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:omotenashi.cygames.jp",
+    "source": {
+      "list": "PURIKONEJP",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "priconne-redive.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:priconne-redive.jp",
+    "source": {
+      "list": "PURIKONEJP",
+      "line": 4
+    }
+  },
+  {
+    "type": "full",
+    "value": "prd-priconne-redive.akamaized.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:prd-priconne-redive.akamaized.net",
+    "source": {
+      "list": "PURIKONEJP",
+      "line": 9
+    }
+  }
+]

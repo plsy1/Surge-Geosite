@@ -1,0 +1,68 @@
+[
+  {
+    "type": "domain",
+    "value": "star.api.edge.bamgrid.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:star.api.edge.bamgrid.com",
+    "source": {
+      "list": "STARPLUS",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "star.connections.edge.bamgrid.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:star.connections.edge.bamgrid.com",
+    "source": {
+      "list": "STARPLUS",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "star.content.edge.bamgrid.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:star.content.edge.bamgrid.com",
+    "source": {
+      "list": "STARPLUS",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "star.playback.edge.bamgrid.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:star.playback.edge.bamgrid.com",
+    "source": {
+      "list": "STARPLUS",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "starott.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:starott.com",
+    "source": {
+      "list": "STARPLUS",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "starplus.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:starplus.com",
+    "source": {
+      "list": "STARPLUS",
+      "line": 2
+    }
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "type": "domain",
+    "value": "crazedns.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:crazedns.ru",
+    "source": {
+      "list": "NETCRAZE",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "netcraze.club",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:netcraze.club",
+    "source": {
+      "list": "NETCRAZE",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "netcraze.link",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:netcraze.link",
+    "source": {
+      "list": "NETCRAZE",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "netcraze.pro",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:netcraze.pro",
+    "source": {
+      "list": "NETCRAZE",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "netcraze.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:netcraze.ru",
+    "source": {
+      "list": "NETCRAZE",
+      "line": 10
+    }
+  }
+]

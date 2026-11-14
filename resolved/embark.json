@@ -1,0 +1,46 @@
+[
+  {
+    "type": "domain",
+    "value": "arcraiders.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:arcraiders.com",
+    "source": {
+      "list": "EMBARK",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "embark-studios.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:embark-studios.com",
+    "source": {
+      "list": "EMBARK",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "embark.games",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:embark.games",
+    "source": {
+      "list": "EMBARK",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "reachthefinals.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:reachthefinals.com",
+    "source": {
+      "list": "EMBARK",
+      "line": 4
+    }
+  }
+]

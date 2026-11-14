@@ -1,0 +1,420 @@
+[
+  {
+    "type": "domain",
+    "value": "ac.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ac.uk",
+    "source": {
+      "list": "CATEGORY-SCHOLAR-UK",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amamanualofstyle.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:amamanualofstyle.com",
+    "source": {
+      "list": "OUP",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "anb.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:anb.org",
+    "source": {
+      "list": "OUP",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "blackstonespoliceservice.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:blackstonespoliceservice.com",
+    "source": {
+      "list": "OUP",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cambridge.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cambridge.org",
+    "source": {
+      "list": "CAMBRIDGE",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cambridgedigital.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cambridgedigital.net",
+    "source": {
+      "list": "CAMBRIDGE",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cambridgemaths.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cambridgemaths.org",
+    "source": {
+      "list": "CAMBRIDGE",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cambridgeschoolshakespeare.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cambridgeschoolshakespeare.com",
+    "source": {
+      "list": "CAMBRIDGE",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dlib.eastview.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dlib.eastview.com",
+    "source": {
+      "list": "CAMBRIDGE",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "epigeum.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:epigeum.com",
+    "source": {
+      "list": "OUP",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "imperialbusiness.school",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:imperialbusiness.school",
+    "source": {
+      "list": "IMPERIALCOLLEGE",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "livinno.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:livinno.org",
+    "source": {
+      "list": "UOLIV",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oed.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oed.com",
+    "source": {
+      "list": "OUP",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "omscr.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:omscr.com",
+    "source": {
+      "list": "OUP",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "opac-project.eu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:opac-project.eu",
+    "source": {
+      "list": "UOLIV",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oup.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oup.com",
+    "source": {
+      "list": "OUP",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ouplaw.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ouplaw.com",
+    "source": {
+      "list": "OUP",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oxfordaasc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oxfordaasc.com",
+    "source": {
+      "list": "OUP",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oxfordartonline.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oxfordartonline.com",
+    "source": {
+      "list": "OUP",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oxfordbibliographies.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oxfordbibliographies.com",
+    "source": {
+      "list": "OUP",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oxfordclinicalpsych.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oxfordclinicalpsych.com",
+    "source": {
+      "list": "OUP",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oxforddnb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oxforddnb.com",
+    "source": {
+      "list": "OUP",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oxfordfirstsource.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oxfordfirstsource.com",
+    "source": {
+      "list": "OUP",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oxfordhandbooks.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oxfordhandbooks.com",
+    "source": {
+      "list": "OUP",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oxfordlawtrove.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oxfordlawtrove.com",
+    "source": {
+      "list": "OUP",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oxfordmedicine.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oxfordmedicine.com",
+    "source": {
+      "list": "OUP",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oxfordmusiconline.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oxfordmusiconline.com",
+    "source": {
+      "list": "OUP",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oxfordpoliticstrove.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oxfordpoliticstrove.com",
+    "source": {
+      "list": "OUP",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oxfordre.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oxfordre.com",
+    "source": {
+      "list": "OUP",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oxfordreference.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oxfordreference.com",
+    "source": {
+      "list": "OUP",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oxfordscholarlyeditions.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oxfordscholarlyeditions.com",
+    "source": {
+      "list": "OUP",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oxfordscholarship.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oxfordscholarship.com",
+    "source": {
+      "list": "OUP",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oxfordwesternmusic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oxfordwesternmusic.com",
+    "source": {
+      "list": "OUP",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sipriyearbook.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sipriyearbook.org",
+    "source": {
+      "list": "OUP",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ukwhoswho.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ukwhoswho.com",
+    "source": {
+      "list": "OUP",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "universitypressscholarship.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:universitypressscholarship.com",
+    "source": {
+      "list": "OUP",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "veryshortintroductions.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:veryshortintroductions.com",
+    "source": {
+      "list": "OUP",
+      "line": 29
+    }
+  },
+  {
+    "type": "full",
+    "value": "imperial.insendi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:imperial.insendi.com",
+    "source": {
+      "list": "IMPERIALCOLLEGE",
+      "line": 5
+    }
+  }
+]

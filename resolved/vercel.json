@@ -1,0 +1,299 @@
+[
+  {
+    "type": "domain",
+    "value": "ai-sdk.dev",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ai-sdk.dev",
+    "source": {
+      "list": "VERCEL",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "err.sh",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:err.sh",
+    "source": {
+      "list": "VERCEL",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hyper.is",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hyper.is",
+    "source": {
+      "list": "VERCEL",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nextjs.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nextjs.org",
+    "source": {
+      "list": "VERCEL",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "now.sh",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:now.sh",
+    "source": {
+      "list": "VERCEL",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "skills.sh",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:skills.sh",
+    "source": {
+      "list": "VERCEL",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "static.fun",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:static.fun",
+    "source": {
+      "list": "VERCEL",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "title.sh",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:title.sh",
+    "source": {
+      "list": "VERCEL",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "turborepo.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:turborepo.org",
+    "source": {
+      "list": "VERCEL",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vercel-dns.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vercel-dns.com",
+    "source": {
+      "list": "VERCEL",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vercel-status.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vercel-status.com",
+    "source": {
+      "list": "VERCEL",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vercel.app",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vercel.app",
+    "source": {
+      "list": "VERCEL",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vercel.blog",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vercel.blog",
+    "source": {
+      "list": "VERCEL",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vercel.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vercel.com",
+    "source": {
+      "list": "VERCEL",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vercel.dev",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vercel.dev",
+    "source": {
+      "list": "VERCEL",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vercel.events",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vercel.events",
+    "source": {
+      "list": "VERCEL",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vercel.live",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vercel.live",
+    "source": {
+      "list": "VERCEL",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vercel.pub",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vercel.pub",
+    "source": {
+      "list": "VERCEL",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vercel.sh",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vercel.sh",
+    "source": {
+      "list": "VERCEL",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vercel.store",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vercel.store",
+    "source": {
+      "list": "VERCEL",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zeit-world.co.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zeit-world.co.uk",
+    "source": {
+      "list": "VERCEL",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zeit-world.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zeit-world.com",
+    "source": {
+      "list": "VERCEL",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zeit-world.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zeit-world.net",
+    "source": {
+      "list": "VERCEL",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zeit-world.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zeit-world.org",
+    "source": {
+      "list": "VERCEL",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zeit.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zeit.co",
+    "source": {
+      "list": "VERCEL",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zeit.sh",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zeit.sh",
+    "source": {
+      "list": "VERCEL",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zeitworld.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zeitworld.com",
+    "source": {
+      "list": "VERCEL",
+      "line": 27
+    }
+  }
+]

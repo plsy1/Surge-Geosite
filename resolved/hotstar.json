@@ -1,0 +1,68 @@
+[
+  {
+    "type": "domain",
+    "value": "hotstar-cdn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hotstar-cdn.net",
+    "source": {
+      "list": "HOTSTAR",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hotstar-labs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hotstar-labs.com",
+    "source": {
+      "list": "HOTSTAR",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hotstar.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hotstar.com",
+    "source": {
+      "list": "HOTSTAR",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hotstarext.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hotstarext.com",
+    "source": {
+      "list": "HOTSTAR",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hsprepack.akamaized.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hsprepack.akamaized.net",
+    "source": {
+      "list": "HOTSTAR",
+      "line": 5
+    }
+  },
+  {
+    "type": "regexp",
+    "value": "^hses[1-7]?\\.akamaized\\.net$",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "regexp:^hses[1-7]?\\.akamaized\\.net$",
+    "source": {
+      "list": "HOTSTAR",
+      "line": 7
+    }
+  }
+]

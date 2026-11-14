@@ -1,0 +1,57 @@
+[
+  {
+    "type": "domain",
+    "value": "cpan.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cpan.org",
+    "source": {
+      "list": "PERL",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "metacpan.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:metacpan.org",
+    "source": {
+      "list": "PERL",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "modperl.pl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:modperl.pl",
+    "source": {
+      "list": "PERL",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "perl.apache.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:perl.apache.org",
+    "source": {
+      "list": "PERL",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "perl.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:perl.org",
+    "source": {
+      "list": "PERL",
+      "line": 2
+    }
+  }
+]

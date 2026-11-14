@@ -1,0 +1,90 @@
+[
+  {
+    "type": "domain",
+    "value": "beisen.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:beisen.cn",
+    "source": {
+      "list": "BEISEN",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "beisen.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:beisen.com",
+    "source": {
+      "list": "BEISEN",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "beisenapp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:beisenapp.com",
+    "source": {
+      "list": "BEISEN",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "beisencloud.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:beisencloud.com",
+    "source": {
+      "list": "BEISEN",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "beisenpaas.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:beisenpaas.com",
+    "source": {
+      "list": "BEISEN",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bsurl.cc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bsurl.cc",
+    "source": {
+      "list": "BEISEN",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bsurl.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bsurl.cn",
+    "source": {
+      "list": "BEISEN",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zhiye.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zhiye.com",
+    "source": {
+      "list": "BEISEN",
+      "line": 12
+    }
+  }
+]

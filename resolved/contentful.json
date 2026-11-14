@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "contentful.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:contentful.com",
+    "source": {
+      "list": "CONTENTFUL",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ctfassets.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ctfassets.net",
+    "source": {
+      "list": "CONTENTFUL",
+      "line": 2
+    }
+  }
+]

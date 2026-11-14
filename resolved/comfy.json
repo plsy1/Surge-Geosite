@@ -1,0 +1,46 @@
+[
+  {
+    "type": "domain",
+    "value": "comfy.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:comfy.org",
+    "source": {
+      "list": "COMFY",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "comfyci.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:comfyci.org",
+    "source": {
+      "list": "COMFY",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "comfyregistry.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:comfyregistry.org",
+    "source": {
+      "list": "COMFY",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oystermercury.top",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oystermercury.top",
+    "source": {
+      "list": "COMFY-UI-LAUNCHER",
+      "line": 2
+    }
+  }
+]

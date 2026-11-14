@@ -1,0 +1,212 @@
+[
+  {
+    "type": "domain",
+    "value": "battleye.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:battleye.com",
+    "source": {
+      "list": "CATEGORY-ENHANCE-GAMING",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bluestacks.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bluestacks.com",
+    "source": {
+      "list": "CATEGORY-ENHANCE-GAMING",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fflogs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fflogs.com",
+    "source": {
+      "list": "FFLOGS",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "heavenlywind.cc",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:heavenlywind.cc:@cn",
+    "source": {
+      "list": "CATEGORY-ENHANCE-GAMING",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ldmnq.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:ldmnq.com:@cn",
+    "source": {
+      "list": "CATEGORY-ENHANCE-GAMING",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lsplayer.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:lsplayer.com:@cn",
+    "source": {
+      "list": "CATEGORY-ENHANCE-GAMING",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "maa.plus",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:maa.plus",
+    "source": {
+      "list": "CATEGORY-ENHANCE-GAMING",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "playcover.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:playcover.io",
+    "source": {
+      "list": "PLAYCOVER",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "playcover.workers.dev",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:playcover.workers.dev",
+    "source": {
+      "list": "PLAYCOVER",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "poi.moe",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:poi.moe",
+    "source": {
+      "list": "CATEGORY-ENHANCE-GAMING",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "prts.plus",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:prts.plus",
+    "source": {
+      "list": "CATEGORY-ENHANCE-GAMING",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rpglogs.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:rpglogs.cn:@cn",
+    "source": {
+      "list": "FFLOGS",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rpglogs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rpglogs.com",
+    "source": {
+      "list": "FFLOGS",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "steampp.net",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:steampp.net:@cn",
+    "source": {
+      "list": "CATEGORY-ENHANCE-GAMING",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "thetrackernetwork.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:thetrackernetwork.com",
+    "source": {
+      "list": "TRACKERNETWORK",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tracker.gg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tracker.gg",
+    "source": {
+      "list": "TRACKERNETWORK",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tracker.network",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tracker.network",
+    "source": {
+      "list": "TRACKERNETWORK",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yeshen.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:yeshen.com:@cn",
+    "source": {
+      "list": "CATEGORY-ENHANCE-GAMING",
+      "line": 12
+    }
+  }
+]

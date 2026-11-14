@@ -1,0 +1,247 @@
+[
+  {
+    "type": "domain",
+    "value": "alphassl.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:alphassl.com:@cn",
+    "source": {
+      "list": "GLOBALSIGN",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "easy-signing.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:easy-signing.com:@cn",
+    "source": {
+      "list": "GLOBALSIGN",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "globalsign-media.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:globalsign-media.com",
+    "source": {
+      "list": "GLOBALSIGN",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "globalsign.be",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:globalsign.be",
+    "source": {
+      "list": "GLOBALSIGN",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "globalsign.ch",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:globalsign.ch",
+    "source": {
+      "list": "GLOBALSIGN",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "globalsign.cloud",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:globalsign.cloud",
+    "source": {
+      "list": "GLOBALSIGN",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "globalsign.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:globalsign.cn:@cn",
+    "source": {
+      "list": "GLOBALSIGN",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "globalsign.co.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:globalsign.co.uk",
+    "source": {
+      "list": "GLOBALSIGN",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "globalsign.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:globalsign.com:@cn",
+    "source": {
+      "list": "GLOBALSIGN",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "globalsign.com.au",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:globalsign.com.au",
+    "source": {
+      "list": "GLOBALSIGN",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "globalsign.com.br",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:globalsign.com.br",
+    "source": {
+      "list": "GLOBALSIGN",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "globalsign.com.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:globalsign.com.hk",
+    "source": {
+      "list": "GLOBALSIGN",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "globalsign.com.sg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:globalsign.com.sg",
+    "source": {
+      "list": "GLOBALSIGN",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "globalsign.es",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:globalsign.es",
+    "source": {
+      "list": "GLOBALSIGN",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "globalsign.eu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:globalsign.eu",
+    "source": {
+      "list": "GLOBALSIGN",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "globalsign.fr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:globalsign.fr",
+    "source": {
+      "list": "GLOBALSIGN",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "globalsign.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:globalsign.net",
+    "source": {
+      "list": "GLOBALSIGN",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "globalsign.nl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:globalsign.nl",
+    "source": {
+      "list": "GLOBALSIGN",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "globalsigncdn.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:globalsigncdn.com:@cn",
+    "source": {
+      "list": "GLOBALSIGN",
+      "line": 19
+    }
+  },
+  {
+    "type": "full",
+    "value": "cdn.globalsigncdn.com.cdn.cloudflare.net",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:cdn.globalsigncdn.com.cdn.cloudflare.net:@cn",
+    "source": {
+      "list": "GLOBALSIGN",
+      "line": 21
+    }
+  },
+  {
+    "type": "full",
+    "value": "crl.globalsign.net",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "full:crl.globalsign.net:@cn",
+    "source": {
+      "list": "GLOBALSIGN",
+      "line": 22
+    }
+  }
+]

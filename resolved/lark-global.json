@@ -1,0 +1,343 @@
+[
+  {
+    "type": "domain",
+    "value": "frontier-lark-lb-v3.lf.bytelb.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:frontier-lark-lb-v3.lf.bytelb.net",
+    "source": {
+      "list": "LARK-GLOBAL",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lark-passport-qa-sg.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lark-passport-qa-sg.net",
+    "source": {
+      "list": "LARK-GLOBAL",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lark.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lark.cn",
+    "source": {
+      "list": "LARK-GLOBAL",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "larkcloud.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:larkcloud.com",
+    "source": {
+      "list": "LARK-GLOBAL",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "larkcloud.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:larkcloud.net",
+    "source": {
+      "list": "LARK-GLOBAL",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "larkfn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:larkfn.com",
+    "source": {
+      "list": "LARK-GLOBAL",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "larkmeetings.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:larkmeetings.cn",
+    "source": {
+      "list": "LARK-GLOBAL",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "larkmeetings.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:larkmeetings.com",
+    "source": {
+      "list": "LARK-GLOBAL",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "larkoffice.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:larkoffice.com",
+    "source": {
+      "list": "LARK-GLOBAL",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "larkoffice.com.bytedns1.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:larkoffice.com.bytedns1.com",
+    "source": {
+      "list": "LARK-GLOBAL",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "larkofficeapp-boe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:larkofficeapp-boe.com",
+    "source": {
+      "list": "LARK-GLOBAL",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "larkofficeapp-pre.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:larkofficeapp-pre.com",
+    "source": {
+      "list": "LARK-GLOBAL",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "larkofficeapp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:larkofficeapp.com",
+    "source": {
+      "list": "LARK-GLOBAL",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "larkofficeboe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:larkofficeboe.com",
+    "source": {
+      "list": "LARK-GLOBAL",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "larkofficecdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:larkofficecdn.com",
+    "source": {
+      "list": "LARK-GLOBAL",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "larkofficeimg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:larkofficeimg.com",
+    "source": {
+      "list": "LARK-GLOBAL",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "larkofficepkg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:larkofficepkg.com",
+    "source": {
+      "list": "LARK-GLOBAL",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "larkofficepre.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:larkofficepre.com",
+    "source": {
+      "list": "LARK-GLOBAL",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "larkrooms.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:larkrooms.cn",
+    "source": {
+      "list": "LARK-GLOBAL",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "larkrooms.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:larkrooms.com",
+    "source": {
+      "list": "LARK-GLOBAL",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "larksuite-pre.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:larksuite-pre.com",
+    "source": {
+      "list": "LARK-GLOBAL",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "larksuite.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:larksuite.com",
+    "source": {
+      "list": "LARK-GLOBAL",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "larksuite.com.ttdns1.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:larksuite.com.ttdns1.com",
+    "source": {
+      "list": "LARK-GLOBAL",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "larksuite.com.ttdns2.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:larksuite.com.ttdns2.com",
+    "source": {
+      "list": "LARK-GLOBAL",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "larksuitecdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:larksuitecdn.com",
+    "source": {
+      "list": "LARK-GLOBAL",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "larksuiteimg-boe.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:larksuiteimg-boe.com",
+    "source": {
+      "list": "LARK-GLOBAL",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "larksuiteimg-pre.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:larksuiteimg-pre.com",
+    "source": {
+      "list": "LARK-GLOBAL",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "larksuiteimg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:larksuiteimg.com",
+    "source": {
+      "list": "LARK-GLOBAL",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "larkvc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:larkvc.com",
+    "source": {
+      "list": "LARK-GLOBAL",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "statuslarkoffice.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:statuslarkoffice.com",
+    "source": {
+      "list": "LARK-GLOBAL",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "thelarkcloud.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:thelarkcloud.com",
+    "source": {
+      "list": "LARK-GLOBAL",
+      "line": 31
+    }
+  }
+]

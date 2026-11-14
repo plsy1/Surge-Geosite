@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "tailscale.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tailscale.com",
+    "source": {
+      "list": "TAILSCALE",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tailscale.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tailscale.io",
+    "source": {
+      "list": "TAILSCALE",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ts.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ts.net",
+    "source": {
+      "list": "TAILSCALE",
+      "line": 3
+    }
+  }
+]

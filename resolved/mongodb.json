@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "mongodb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mongodb.com",
+    "source": {
+      "list": "MONGODB",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mongodb.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mongodb.org",
+    "source": {
+      "list": "MONGODB",
+      "line": 2
+    }
+  }
+]

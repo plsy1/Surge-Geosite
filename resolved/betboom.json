@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "betboom.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:betboom.ru",
+    "source": {
+      "list": "BETBOOM",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mobile-bb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mobile-bb.com",
+    "source": {
+      "list": "BETBOOM",
+      "line": 2
+    }
+  }
+]

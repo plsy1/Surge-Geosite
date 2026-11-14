@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "pca.st",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pca.st",
+    "source": {
+      "list": "POCKETCASTS",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pocketcasts.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pocketcasts.com",
+    "source": {
+      "list": "POCKETCASTS",
+      "line": 2
+    }
+  }
+]

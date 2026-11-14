@@ -1,0 +1,59 @@
+{
+  "name": "CATEGORY-ENHANCE-GAMING",
+  "source": {
+    "domain": 10,
+    "full": 0,
+    "keyword": 0,
+    "regexp": 0,
+    "include": 3,
+    "affiliations": 0,
+    "attributes": 5
+  },
+  "resolved": {
+    "rules": 18,
+    "domain": 18,
+    "full": 0,
+    "keyword": 0,
+    "regexp": 0
+  },
+  "filters": {
+    "attrs": {
+      "cn": 6
+    }
+  },
+  "modes": {
+    "strict": {
+      "rules": 18,
+      "bytes": 486,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "balanced": {
+      "rules": 18,
+      "bytes": 486,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "full": {
+      "rules": 18,
+      "bytes": 486,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    }
+  }
+}

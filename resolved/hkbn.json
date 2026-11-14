@@ -1,0 +1,68 @@
+[
+  {
+    "type": "domain",
+    "value": "csifund.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:csifund.org",
+    "source": {
+      "list": "HKBN",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hkbn.com.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hkbn.com.hk",
+    "source": {
+      "list": "HKBN",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hkbn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hkbn.net",
+    "source": {
+      "list": "HKBN",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hkbnes.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hkbnes.net",
+    "source": {
+      "list": "HKBN",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jos.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jos.com",
+    "source": {
+      "list": "HKBN",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "speedtest.com.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:speedtest.com.hk",
+    "source": {
+      "list": "HKBN",
+      "line": 6
+    }
+  }
+]

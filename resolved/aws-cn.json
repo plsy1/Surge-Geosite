@@ -1,0 +1,366 @@
+[
+  {
+    "type": "domain",
+    "value": "a2z.org.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:a2z.org.cn:@cn",
+    "source": {
+      "list": "AWS-CN",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amazonaws.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:amazonaws.cn:@cn",
+    "source": {
+      "list": "AWS-CN",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amazonaws.com.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:amazonaws.com.cn:@cn",
+    "source": {
+      "list": "AWS-CN",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amazonwebservices.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:amazonwebservices.cn:@cn",
+    "source": {
+      "list": "AWS-CN",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amazonwebservices.com.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:amazonwebservices.com.cn:@cn",
+    "source": {
+      "list": "AWS-CN",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amazonworkdocs.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:amazonworkdocs.cn:@cn",
+    "source": {
+      "list": "AWS-CN",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amazonworkdocs.com.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:amazonworkdocs.com.cn:@cn",
+    "source": {
+      "list": "AWS-CN",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amzndns-cn.biz",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:amzndns-cn.biz:@cn",
+    "source": {
+      "list": "AWS-CN",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amzndns-cn.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:amzndns-cn.cn:@cn",
+    "source": {
+      "list": "AWS-CN",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amzndns-cn.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:amzndns-cn.com:@cn",
+    "source": {
+      "list": "AWS-CN",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amzndns-cn.net",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:amzndns-cn.net:@cn",
+    "source": {
+      "list": "AWS-CN",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "asfiovnxocqpcry.com.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:asfiovnxocqpcry.com.cn:@cn",
+    "source": {
+      "list": "AWS-CN",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aws-border.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:aws-border.cn:@cn",
+    "source": {
+      "list": "AWS-CN",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aws-icp-domain-manager.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:aws-icp-domain-manager.cn:@cn",
+    "source": {
+      "list": "AWS-CN",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "awsapps.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:awsapps.cn:@cn",
+    "source": {
+      "list": "AWS-CN",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "awsapps.com.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:awsapps.com.cn:@cn",
+    "source": {
+      "list": "AWS-CN",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "awsstatic.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:awsstatic.cn:@cn",
+    "source": {
+      "list": "AWS-CN",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudfront-cn.net",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:cloudfront-cn.net:@cn",
+    "source": {
+      "list": "AWS-CN",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudfront-test.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:cloudfront-test.cn:@cn",
+    "source": {
+      "list": "AWS-CN",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cloudfront.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:cloudfront.cn:@cn",
+    "source": {
+      "list": "AWS-CN",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nwcdcloud.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:nwcdcloud.cn:@cn",
+    "source": {
+      "list": "AWS-CN",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nwcdcloud.com.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:nwcdcloud.com.cn:@cn",
+    "source": {
+      "list": "AWS-CN",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nwcddns.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:nwcddns.cn:@cn",
+    "source": {
+      "list": "AWS-CN",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nwcdinfosec.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:nwcdinfosec.cn:@cn",
+    "source": {
+      "list": "AWS-CN",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "route53.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:route53.cn:@cn",
+    "source": {
+      "list": "AWS-CN",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sagemaker.com.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:sagemaker.com.cn:@cn",
+    "source": {
+      "list": "AWS-CN",
+      "line": 22
+    }
+  },
+  {
+    "type": "regexp",
+    "value": ".+\\.awsdns-cn-[0-9][0-9]\\.(biz|com|net|top)$",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "regexp:.+\\.awsdns-cn-[0-9][0-9]\\.(biz|com|net|top)$:@cn",
+    "source": {
+      "list": "AWS-CN",
+      "line": 31
+    }
+  },
+  {
+    "type": "regexp",
+    "value": ".+\\.awsdns-cn-[0-9][a-e0-9]\\.cn$",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "regexp:.+\\.awsdns-cn-[0-9][a-e0-9]\\.cn$:@cn",
+    "source": {
+      "list": "AWS-CN",
+      "line": 32
+    }
+  }
+]

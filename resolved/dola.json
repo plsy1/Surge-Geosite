@@ -1,0 +1,54 @@
+[
+  {
+    "type": "domain",
+    "value": "cici.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:cici.com:@!cn",
+    "source": {
+      "list": "DOLA",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ciciai.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:ciciai.com:@!cn",
+    "source": {
+      "list": "DOLA",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ciciaicdn.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:ciciaicdn.com:@!cn",
+    "source": {
+      "list": "DOLA",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dola.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:dola.com:@!cn",
+    "source": {
+      "list": "DOLA",
+      "line": 5
+    }
+  }
+]

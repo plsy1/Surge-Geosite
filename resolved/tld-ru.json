@@ -1,0 +1,123 @@
+[
+  {
+    "type": "domain",
+    "value": "moscow",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:moscow",
+    "source": {
+      "list": "TLD-RU",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ru",
+    "source": {
+      "list": "TLD-RU",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "su",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:su",
+    "source": {
+      "list": "TLD-RU",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tatar",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tatar",
+    "source": {
+      "list": "TLD-RU",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--80adxhks",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--80adxhks",
+    "source": {
+      "list": "TLD-RU",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--80asehdb",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--80asehdb",
+    "source": {
+      "list": "TLD-RU",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--80aswg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--80aswg",
+    "source": {
+      "list": "TLD-RU",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--c1avg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--c1avg",
+    "source": {
+      "list": "TLD-RU",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--d1acj3b",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--d1acj3b",
+    "source": {
+      "list": "TLD-RU",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--p1acf",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--p1acf",
+    "source": {
+      "list": "TLD-RU",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--p1ai",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--p1ai",
+    "source": {
+      "list": "TLD-RU",
+      "line": 12
+    }
+  }
+]

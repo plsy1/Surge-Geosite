@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "target",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:target",
+    "source": {
+      "list": "TARGET",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "target.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:target.com",
+    "source": {
+      "list": "TARGET",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "targetimg1.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:targetimg1.com",
+    "source": {
+      "list": "TARGET",
+      "line": 5
+    }
+  }
+]

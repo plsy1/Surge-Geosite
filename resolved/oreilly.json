@@ -1,0 +1,70 @@
+[
+  {
+    "type": "domain",
+    "value": "oreil.ly",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oreil.ly",
+    "source": {
+      "list": "OREILLY",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oreilly.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oreilly.com",
+    "source": {
+      "list": "OREILLY",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oreilly.com.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:oreilly.com.cn:@cn",
+    "source": {
+      "list": "OREILLY",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oreilly.review",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oreilly.review",
+    "source": {
+      "list": "OREILLY",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oreillystatic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oreillystatic.com",
+    "source": {
+      "list": "OREILLY",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "orl.ly",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:orl.ly",
+    "source": {
+      "list": "OREILLY",
+      "line": 6
+    }
+  }
+]

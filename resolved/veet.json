@@ -1,0 +1,501 @@
+[
+  {
+    "type": "domain",
+    "value": "veet.at",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:veet.at",
+    "source": {
+      "list": "VEET",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "veet.be",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:veet.be",
+    "source": {
+      "list": "VEET",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "veet.ca",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:veet.ca",
+    "source": {
+      "list": "VEET",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "veet.ch",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:veet.ch",
+    "source": {
+      "list": "VEET",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "veet.cl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:veet.cl",
+    "source": {
+      "list": "VEET",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "veet.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:veet.cn:@cn",
+    "source": {
+      "list": "VEET",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "veet.co.id",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:veet.co.id",
+    "source": {
+      "list": "VEET",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "veet.co.in",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:veet.co.in",
+    "source": {
+      "list": "VEET",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "veet.co.kr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:veet.co.kr",
+    "source": {
+      "list": "VEET",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "veet.co.nz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:veet.co.nz",
+    "source": {
+      "list": "VEET",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "veet.co.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:veet.co.uk",
+    "source": {
+      "list": "VEET",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "veet.co.za",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:veet.co.za",
+    "source": {
+      "list": "VEET",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "veet.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:veet.com",
+    "source": {
+      "list": "VEET",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "veet.com.ar",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:veet.com.ar",
+    "source": {
+      "list": "VEET",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "veet.com.au",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:veet.com.au",
+    "source": {
+      "list": "VEET",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "veet.com.bd",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:veet.com.bd",
+    "source": {
+      "list": "VEET",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "veet.com.br",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:veet.com.br",
+    "source": {
+      "list": "VEET",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "veet.com.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:veet.com.cn:@cn",
+    "source": {
+      "list": "VEET",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "veet.com.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:veet.com.co",
+    "source": {
+      "list": "VEET",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "veet.com.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:veet.com.hk",
+    "source": {
+      "list": "VEET",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "veet.com.mx",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:veet.com.mx",
+    "source": {
+      "list": "VEET",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "veet.com.my",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:veet.com.my",
+    "source": {
+      "list": "VEET",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "veet.com.ph",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:veet.com.ph",
+    "source": {
+      "list": "VEET",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "veet.com.pk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:veet.com.pk",
+    "source": {
+      "list": "VEET",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "veet.com.sg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:veet.com.sg",
+    "source": {
+      "list": "VEET",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "veet.com.tr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:veet.com.tr",
+    "source": {
+      "list": "VEET",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "veet.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:veet.de",
+    "source": {
+      "list": "VEET",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "veet.dk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:veet.dk",
+    "source": {
+      "list": "VEET",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "veet.es",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:veet.es",
+    "source": {
+      "list": "VEET",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "veet.fi",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:veet.fi",
+    "source": {
+      "list": "VEET",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "veet.fr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:veet.fr",
+    "source": {
+      "list": "VEET",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "veet.hu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:veet.hu",
+    "source": {
+      "list": "VEET",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "veet.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:veet.jp",
+    "source": {
+      "list": "VEET",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "veet.nl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:veet.nl",
+    "source": {
+      "list": "VEET",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "veet.no",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:veet.no",
+    "source": {
+      "list": "VEET",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "veet.pt",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:veet.pt",
+    "source": {
+      "list": "VEET",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "veet.ro",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:veet.ro",
+    "source": {
+      "list": "VEET",
+      "line": 37
+    }
+  },
+  {
+    "type": "domain",
+    "value": "veet.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:veet.ru",
+    "source": {
+      "list": "VEET",
+      "line": 38
+    }
+  },
+  {
+    "type": "domain",
+    "value": "veet.se",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:veet.se",
+    "source": {
+      "list": "VEET",
+      "line": 39
+    }
+  },
+  {
+    "type": "domain",
+    "value": "veet.tv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:veet.tv",
+    "source": {
+      "list": "VEET",
+      "line": 40
+    }
+  },
+  {
+    "type": "domain",
+    "value": "veet.us",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:veet.us",
+    "source": {
+      "list": "VEET",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "veetarabia.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:veetarabia.com",
+    "source": {
+      "list": "VEET",
+      "line": 42
+    }
+  },
+  {
+    "type": "domain",
+    "value": "veetbangladesh.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:veetbangladesh.com",
+    "source": {
+      "list": "VEET",
+      "line": 43
+    }
+  },
+  {
+    "type": "domain",
+    "value": "veetcentroamerica.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:veetcentroamerica.com",
+    "source": {
+      "list": "VEET",
+      "line": 44
+    }
+  },
+  {
+    "type": "domain",
+    "value": "veetclub.it",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:veetclub.it",
+    "source": {
+      "list": "VEET",
+      "line": 45
+    }
+  }
+]

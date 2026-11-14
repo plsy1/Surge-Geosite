@@ -1,0 +1,57 @@
+[
+  {
+    "type": "domain",
+    "value": "cabletv.com.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cabletv.com.hk",
+    "source": {
+      "list": "CABLETV",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fantv.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fantv.hk",
+    "source": {
+      "list": "CABLETV",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hkopentv.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hkopentv.com",
+    "source": {
+      "list": "CABLETV",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hoy.tv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hoy.tv",
+    "source": {
+      "list": "CABLETV",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "i-cable.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:i-cable.com",
+    "source": {
+      "list": "CABLETV",
+      "line": 5
+    }
+  }
+]

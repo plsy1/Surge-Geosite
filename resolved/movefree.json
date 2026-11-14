@@ -1,0 +1,81 @@
+[
+  {
+    "type": "domain",
+    "value": "keepmovingwithmovefree.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:keepmovingwithmovefree.com",
+    "source": {
+      "list": "MOVEFREE",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "move-free.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:move-free.net",
+    "source": {
+      "list": "MOVEFREE",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "movefree.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:movefree.cn:@cn",
+    "source": {
+      "list": "MOVEFREE",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "movefreeoffers.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:movefreeoffers.com",
+    "source": {
+      "list": "MOVEFREE",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "movefreerewards.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:movefreerewards.com",
+    "source": {
+      "list": "MOVEFREE",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "movefrees.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:movefrees.com",
+    "source": {
+      "list": "MOVEFREE",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "schiffvitamins.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:schiffvitamins.com",
+    "source": {
+      "list": "MOVEFREE",
+      "line": 7
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "flathub.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:flathub.org",
+    "source": {
+      "list": "FLATPAK",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "flatpak.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:flatpak.org",
+    "source": {
+      "list": "FLATPAK",
+      "line": 2
+    }
+  }
+]

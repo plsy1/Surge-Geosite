@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "codeberg.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:codeberg.org",
+    "source": {
+      "list": "CODEBERG",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "codeberg.page",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:codeberg.page",
+    "source": {
+      "list": "CODEBERG",
+      "line": 2
+    }
+  }
+]

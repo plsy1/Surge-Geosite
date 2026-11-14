@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "scala-lang.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:scala-lang.org",
+    "source": {
+      "list": "SCALA",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "scala-sbt.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:scala-sbt.org",
+    "source": {
+      "list": "SCALA",
+      "line": 2
+    }
+  }
+]

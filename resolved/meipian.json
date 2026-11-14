@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "ivwen.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ivwen.com",
+    "source": {
+      "list": "MEIPIAN",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "meipian.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:meipian.cn",
+    "source": {
+      "list": "MEIPIAN",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "meipian.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:meipian.me",
+    "source": {
+      "list": "MEIPIAN",
+      "line": 4
+    }
+  }
+]

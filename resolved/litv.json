@@ -1,0 +1,123 @@
+[
+  {
+    "type": "domain",
+    "value": "litv.tv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:litv.tv",
+    "source": {
+      "list": "LITV",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "litvfreepc.akamaized.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:litvfreepc.akamaized.net",
+    "source": {
+      "list": "LITV",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ofiii.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ofiii.com",
+    "source": {
+      "list": "LITV",
+      "line": 9
+    }
+  },
+  {
+    "type": "full",
+    "value": "ntdfreemobile-tgc.cdn.hinet.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:ntdfreemobile-tgc.cdn.hinet.net",
+    "source": {
+      "list": "LITV",
+      "line": 4
+    }
+  },
+  {
+    "type": "full",
+    "value": "ntdfreepc-tgc.cdn.hinet.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:ntdfreepc-tgc.cdn.hinet.net",
+    "source": {
+      "list": "LITV",
+      "line": 5
+    }
+  },
+  {
+    "type": "full",
+    "value": "ntdfreetv-tgc.cdn.hinet.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:ntdfreetv-tgc.cdn.hinet.net",
+    "source": {
+      "list": "LITV",
+      "line": 6
+    }
+  },
+  {
+    "type": "full",
+    "value": "ntdfreevcpc-tgc.cdn.hinet.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:ntdfreevcpc-tgc.cdn.hinet.net",
+    "source": {
+      "list": "LITV",
+      "line": 7
+    }
+  },
+  {
+    "type": "full",
+    "value": "ntdofifreemobile-tgc.cdn.hinet.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:ntdofifreemobile-tgc.cdn.hinet.net",
+    "source": {
+      "list": "LITV",
+      "line": 10
+    }
+  },
+  {
+    "type": "full",
+    "value": "ntdofifreepc-tgc.cdn.hinet.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:ntdofifreepc-tgc.cdn.hinet.net",
+    "source": {
+      "list": "LITV",
+      "line": 11
+    }
+  },
+  {
+    "type": "full",
+    "value": "ntdofifreetv-tgc.cdn.hinet.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:ntdofifreetv-tgc.cdn.hinet.net",
+    "source": {
+      "list": "LITV",
+      "line": 12
+    }
+  },
+  {
+    "type": "full",
+    "value": "ntdofifreevcpc-tgc.cdn.hinet.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:ntdofifreevcpc-tgc.cdn.hinet.net",
+    "source": {
+      "list": "LITV",
+      "line": 13
+    }
+  }
+]

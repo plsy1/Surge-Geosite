@@ -1,0 +1,57 @@
+[
+  {
+    "type": "domain",
+    "value": "apiauto.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:apiauto.ru",
+    "source": {
+      "list": "AUTORU",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "auto.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:auto.ru",
+    "source": {
+      "list": "AUTORU",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "autoru.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:autoru.me",
+    "source": {
+      "list": "AUTORU",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "avto.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:avto.ru",
+    "source": {
+      "list": "AUTORU",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cm.expert",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cm.expert",
+    "source": {
+      "list": "AUTORU",
+      "line": 5
+    }
+  }
+]
