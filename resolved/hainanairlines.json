@@ -1,0 +1,46 @@
+[
+  {
+    "type": "domain",
+    "value": "10044.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:10044.cn",
+    "source": {
+      "list": "HAINANAIRLINES",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hainanairlines.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hainanairlines.com",
+    "source": {
+      "list": "HAINANAIRLINES",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hnacargo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hnacargo.com",
+    "source": {
+      "list": "HAINANAIRLINES",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hnair.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hnair.com",
+    "source": {
+      "list": "HAINANAIRLINES",
+      "line": 3
+    }
+  }
+]

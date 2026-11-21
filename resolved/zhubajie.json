@@ -1,0 +1,57 @@
+[
+  {
+    "type": "domain",
+    "value": "tianpeng.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tianpeng.com",
+    "source": {
+      "list": "ZHUBAJIE",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zbj.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zbj.com",
+    "source": {
+      "list": "ZHUBAJIE",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zbjdev.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zbjdev.com",
+    "source": {
+      "list": "ZHUBAJIE",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zbjimg.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zbjimg.com",
+    "source": {
+      "list": "ZHUBAJIE",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zhubajie.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zhubajie.com",
+    "source": {
+      "list": "ZHUBAJIE",
+      "line": 6
+    }
+  }
+]

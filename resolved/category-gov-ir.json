@@ -1,0 +1,321 @@
+[
+  {
+    "type": "domain",
+    "value": "adliran.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:adliran.ir",
+    "source": {
+      "list": "CATEGORY-GOV-IR",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "agrieng.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:agrieng.org",
+    "source": {
+      "list": "CATEGORY-GOV-IR",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bazresi.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bazresi.ir",
+    "source": {
+      "list": "CATEGORY-GOV-IR",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bia-judiciary.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bia-judiciary.ir",
+    "source": {
+      "list": "CATEGORY-GOV-IR",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "budget.imo.org.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:budget.imo.org.ir",
+    "source": {
+      "list": "CATEGORY-GOV-IR",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dadiran.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dadiran.ir",
+    "source": {
+      "list": "CATEGORY-GOV-IR",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dadsara.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dadsara.ir",
+    "source": {
+      "list": "CATEGORY-GOV-IR",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dadsetani.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dadsetani.ir",
+    "source": {
+      "list": "CATEGORY-GOV-IR",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "divan-edalat.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:divan-edalat.ir",
+    "source": {
+      "list": "CATEGORY-GOV-IR",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dmk.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dmk.ir",
+    "source": {
+      "list": "CATEGORY-GOV-IR",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "doe.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:doe.ir",
+    "source": {
+      "list": "CATEGORY-GOV-IR",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dolat.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dolat.ir",
+    "source": {
+      "list": "CATEGORY-GOV-IR",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "eadl.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:eadl.ir",
+    "source": {
+      "list": "CATEGORY-GOV-IR",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "enamad.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:enamad.ir",
+    "source": {
+      "list": "CATEGORY-GOV-IR",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gov.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gov.ir",
+    "source": {
+      "list": "CATEGORY-GOV-IR",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hadafmandi.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hadafmandi.ir",
+    "source": {
+      "list": "CATEGORY-GOV-IR",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "intamedia.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:intamedia.ir",
+    "source": {
+      "list": "CATEGORY-GOV-IR",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "irimo.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:irimo.ir",
+    "source": {
+      "list": "CATEGORY-GOV-IR",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "moi.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:moi.ir",
+    "source": {
+      "list": "CATEGORY-GOV-IR",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mporg.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mporg.ir",
+    "source": {
+      "list": "CATEGORY-GOV-IR",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "parliran.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:parliran.ir",
+    "source": {
+      "list": "CATEGORY-GOV-IR",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "post.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:post.ir",
+    "source": {
+      "list": "CATEGORY-GOV-IR",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "president.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:president.ir",
+    "source": {
+      "list": "CATEGORY-GOV-IR",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "refahi.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:refahi.ir",
+    "source": {
+      "list": "CATEGORY-GOV-IR",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sahamedalat.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sahamedalat.ir",
+    "source": {
+      "list": "CATEGORY-GOV-IR",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "samandehi.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:samandehi.ir",
+    "source": {
+      "list": "CATEGORY-GOV-IR",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "samanese.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:samanese.ir",
+    "source": {
+      "list": "CATEGORY-GOV-IR",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sccr.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sccr.ir",
+    "source": {
+      "list": "CATEGORY-GOV-IR",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "shora-gc.ir",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:shora-gc.ir",
+    "source": {
+      "list": "CATEGORY-GOV-IR",
+      "line": 31
+    }
+  }
+]

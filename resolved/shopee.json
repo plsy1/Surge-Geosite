@@ -1,0 +1,237 @@
+[
+  {
+    "type": "domain",
+    "value": "shopee.cl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:shopee.cl",
+    "source": {
+      "list": "SHOPEE",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "shopee.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:shopee.cn:@cn",
+    "source": {
+      "list": "SHOPEE",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "shopee.co.id",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:shopee.co.id",
+    "source": {
+      "list": "SHOPEE",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "shopee.co.th",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:shopee.co.th",
+    "source": {
+      "list": "SHOPEE",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "shopee.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:shopee.com",
+    "source": {
+      "list": "SHOPEE",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "shopee.com.br",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:shopee.com.br",
+    "source": {
+      "list": "SHOPEE",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "shopee.com.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:shopee.com.co",
+    "source": {
+      "list": "SHOPEE",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "shopee.com.mx",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:shopee.com.mx",
+    "source": {
+      "list": "SHOPEE",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "shopee.com.my",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:shopee.com.my",
+    "source": {
+      "list": "SHOPEE",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "shopee.es",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:shopee.es",
+    "source": {
+      "list": "SHOPEE",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "shopee.fr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:shopee.fr",
+    "source": {
+      "list": "SHOPEE",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "shopee.id",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:shopee.id",
+    "source": {
+      "list": "SHOPEE",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "shopee.in",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:shopee.in",
+    "source": {
+      "list": "SHOPEE",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "shopee.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:shopee.io",
+    "source": {
+      "list": "SHOPEE",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "shopee.ph",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:shopee.ph",
+    "source": {
+      "list": "SHOPEE",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "shopee.sg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:shopee.sg",
+    "source": {
+      "list": "SHOPEE",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "shopee.tw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:shopee.tw",
+    "source": {
+      "list": "SHOPEE",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "shopee.vn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:shopee.vn",
+    "source": {
+      "list": "SHOPEE",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "shopeemobile.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:shopeemobile.com",
+    "source": {
+      "list": "SHOPEE",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "shopeesz.com",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:shopeesz.com:@cn",
+    "source": {
+      "list": "SHOPEE",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "shp.ee",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:shp.ee",
+    "source": {
+      "list": "SHOPEE",
+      "line": 21
+    }
+  }
+]

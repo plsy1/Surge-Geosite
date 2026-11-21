@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "codebuff.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:codebuff.com",
+    "source": {
+      "list": "FREEBUFF",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "freebuff.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:freebuff.com",
+    "source": {
+      "list": "FREEBUFF",
+      "line": 5
+    }
+  }
+]

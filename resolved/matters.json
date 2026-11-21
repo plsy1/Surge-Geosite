@@ -1,0 +1,46 @@
+[
+  {
+    "type": "domain",
+    "value": "matters.news",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:matters.news",
+    "source": {
+      "list": "MATTERS",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "matters.one",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:matters.one",
+    "source": {
+      "list": "MATTERS",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "matters.town",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:matters.town",
+    "source": {
+      "list": "MATTERS",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mattersprotocol.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mattersprotocol.io",
+    "source": {
+      "list": "MATTERS",
+      "line": 4
+    }
+  }
+]

@@ -1,0 +1,158 @@
+[
+  {
+    "type": "domain",
+    "value": "fsmone.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fsmone.com",
+    "source": {
+      "list": "IFAST",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fsmone.com.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fsmone.com.hk",
+    "source": {
+      "list": "IFAST",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fsmone.com.my",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fsmone.com.my",
+    "source": {
+      "list": "IFAST",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fundsupermart.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fundsupermart.com",
+    "source": {
+      "list": "IFAST",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ifastcapital.com.my",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ifastcapital.com.my",
+    "source": {
+      "list": "IFAST",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ifastcorp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ifastcorp.com",
+    "source": {
+      "list": "IFAST",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ifastfinancial.co.in",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ifastfinancial.co.in",
+    "source": {
+      "list": "IFAST",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ifastfinancial.com.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ifastfinancial.com.hk",
+    "source": {
+      "list": "IFAST",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ifastgb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ifastgb.com",
+    "source": {
+      "list": "IFAST",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ifastgp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ifastgp.com",
+    "source": {
+      "list": "IFAST",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ifastgp.com.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ifastgp.com.hk",
+    "source": {
+      "list": "IFAST",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ifastnetwork.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ifastnetwork.com",
+    "source": {
+      "list": "IFAST",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ifastps.com.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:ifastps.com.cn:@cn",
+    "source": {
+      "list": "IFAST",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ifasttv.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ifasttv.com",
+    "source": {
+      "list": "IFAST",
+      "line": 14
+    }
+  }
+]

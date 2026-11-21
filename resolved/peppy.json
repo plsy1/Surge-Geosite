@@ -1,0 +1,26 @@
+[
+  {
+    "type": "domain",
+    "value": "ppy.sh",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ppy.sh",
+    "source": {
+      "list": "PEPPY",
+      "line": 3
+    }
+  },
+  {
+    "type": "full",
+    "value": "sentry.ppy.sh",
+    "attrs": [
+      "telemetry"
+    ],
+    "affiliations": [],
+    "plain": "full:sentry.ppy.sh:@telemetry",
+    "source": {
+      "list": "OSU",
+      "line": 10
+    }
+  }
+]

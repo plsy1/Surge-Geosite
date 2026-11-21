@@ -1,0 +1,123 @@
+[
+  {
+    "type": "domain",
+    "value": "fluxer.app",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fluxer.app",
+    "source": {
+      "list": "FLUXER",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fluxer.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fluxer.com",
+    "source": {
+      "list": "FLUXER",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fluxer.dev",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fluxer.dev",
+    "source": {
+      "list": "FLUXER",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fluxer.gg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fluxer.gg",
+    "source": {
+      "list": "FLUXER",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fluxer.gift",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fluxer.gift",
+    "source": {
+      "list": "FLUXER",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fluxer.media",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fluxer.media",
+    "source": {
+      "list": "FLUXER",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fluxer.tools",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fluxer.tools",
+    "source": {
+      "list": "FLUXER",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fluxerapp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fluxerapp.com",
+    "source": {
+      "list": "FLUXER",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fluxerstatic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fluxerstatic.com",
+    "source": {
+      "list": "FLUXER",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fluxerstatus.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fluxerstatus.com",
+    "source": {
+      "list": "FLUXER",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fluxerusercontent.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fluxerusercontent.com",
+    "source": {
+      "list": "FLUXER",
+      "line": 11
+    }
+  }
+]

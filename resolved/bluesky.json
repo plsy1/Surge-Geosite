@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "bsky.app",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bsky.app",
+    "source": {
+      "list": "BLUESKY",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bsky.network",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bsky.network",
+    "source": {
+      "list": "BLUESKY",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bsky.social",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bsky.social",
+    "source": {
+      "list": "BLUESKY",
+      "line": 3
+    }
+  }
+]

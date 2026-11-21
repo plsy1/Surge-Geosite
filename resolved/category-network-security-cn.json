@@ -1,0 +1,57 @@
+[
+  {
+    "type": "domain",
+    "value": "cnmstl.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cnmstl.net",
+    "source": {
+      "list": "CATEGORY-NETWORK-SECURITY-CN",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fofa.so",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fofa.so",
+    "source": {
+      "list": "CATEGORY-NETWORK-SECURITY-CN",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "t00ls.cc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:t00ls.cc",
+    "source": {
+      "list": "CATEGORY-NETWORK-SECURITY-CN",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "t00ls.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:t00ls.net",
+    "source": {
+      "list": "CATEGORY-NETWORK-SECURITY-CN",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tools.team",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tools.team",
+    "source": {
+      "list": "CATEGORY-NETWORK-SECURITY-CN",
+      "line": 5
+    }
+  }
+]

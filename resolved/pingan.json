@@ -1,0 +1,213 @@
+[
+  {
+    "type": "domain",
+    "value": "172.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:172.com",
+    "source": {
+      "list": "PINGAN",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "1qianbao.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:1qianbao.com",
+    "source": {
+      "list": "PINGAN",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "4008000000.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:4008000000.com",
+    "source": {
+      "list": "PINGAN",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lu.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lu.com",
+    "source": {
+      "list": "PINGAN",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lufax.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lufax.com",
+    "source": {
+      "list": "PINGAN",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lufaxcdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lufaxcdn.com",
+    "source": {
+      "list": "PINGAN",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lujincaifu.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lujincaifu.com",
+    "source": {
+      "list": "PINGAN",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mingyuanfund.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mingyuanfund.com",
+    "source": {
+      "list": "PINGAN",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pacfc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pacfc.com",
+    "source": {
+      "list": "PINGAN",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pafoundation.org.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pafoundation.org.cn",
+    "source": {
+      "list": "PINGAN",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ph.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ph.com.cn",
+    "source": {
+      "list": "PINGAN",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pingan.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pingan.cn",
+    "source": {
+      "list": "PINGAN",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pingan.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pingan.com",
+    "source": {
+      "list": "PINGAN",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pingan.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pingan.com.cn",
+    "source": {
+      "list": "PINGAN",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pingan.com.hk",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:pingan.com.hk:@!cn",
+    "source": {
+      "list": "PINGAN",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yiqianbao.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yiqianbao.com",
+    "source": {
+      "list": "PINGAN",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yqb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yqb.com",
+    "source": {
+      "list": "PINGAN",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yqbimg.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yqbimg.net",
+    "source": {
+      "list": "PINGAN",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yqbmall.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yqbmall.com",
+    "source": {
+      "list": "PINGAN",
+      "line": 13
+    }
+  }
+]

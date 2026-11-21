@@ -1,0 +1,46 @@
+[
+  {
+    "type": "domain",
+    "value": "x18r.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:x18r.co",
+    "source": {
+      "list": "JAPONX",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "x18r.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:x18r.com",
+    "source": {
+      "list": "JAPONX",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "z18r.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:z18r.co",
+    "source": {
+      "list": "JAPONX",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "z18r.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:z18r.com",
+    "source": {
+      "list": "JAPONX",
+      "line": 4
+    }
+  }
+]

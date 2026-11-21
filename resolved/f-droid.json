@@ -1,0 +1,46 @@
+[
+  {
+    "type": "domain",
+    "value": "f-dro1d.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:f-dro1d.org",
+    "source": {
+      "list": "F-DROID",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "f-droid.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:f-droid.com",
+    "source": {
+      "list": "F-DROID",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "f-droid.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:f-droid.org",
+    "source": {
+      "list": "F-DROID",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fdroid.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fdroid.org",
+    "source": {
+      "list": "F-DROID",
+      "line": 4
+    }
+  }
+]

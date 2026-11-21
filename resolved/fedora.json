@@ -1,0 +1,68 @@
+[
+  {
+    "type": "domain",
+    "value": "fedoraforum.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fedoraforum.org",
+    "source": {
+      "list": "FEDORA",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fedorainfracloud.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fedorainfracloud.org",
+    "source": {
+      "list": "FEDORA",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fedoramagazine.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fedoramagazine.org",
+    "source": {
+      "list": "FEDORA",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fedorapeople.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fedorapeople.org",
+    "source": {
+      "list": "FEDORA",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fedoraproject.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fedoraproject.org",
+    "source": {
+      "list": "FEDORA",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "getfedora.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:getfedora.org",
+    "source": {
+      "list": "FEDORA",
+      "line": 6
+    }
+  }
+]

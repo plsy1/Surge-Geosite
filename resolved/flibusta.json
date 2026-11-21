@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "flibusta.is",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:flibusta.is",
+    "source": {
+      "list": "FLIBUSTA",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "flisland.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:flisland.net",
+    "source": {
+      "list": "FLIBUSTA",
+      "line": 2
+    }
+  }
+]

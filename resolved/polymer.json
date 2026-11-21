@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "polymer-project.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:polymer-project.org",
+    "source": {
+      "list": "POLYMER",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "polymerproject.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:polymerproject.org",
+    "source": {
+      "list": "POLYMER",
+      "line": 2
+    }
+  }
+]

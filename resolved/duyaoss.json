@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "duyaoss.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:duyaoss.com",
+    "source": {
+      "list": "DUYAOSS",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "duyaossr.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:duyaossr.com",
+    "source": {
+      "list": "DUYAOSS",
+      "line": 2
+    }
+  }
+]

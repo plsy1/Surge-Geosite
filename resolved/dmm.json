@@ -1,0 +1,211 @@
+[
+  {
+    "type": "domain",
+    "value": "ad.games.dmm.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:ad.games.dmm.com:@ads",
+    "source": {
+      "list": "DMM",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bluekai.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:bluekai.com:@ads",
+    "source": {
+      "list": "DMM",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dmm-extension.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dmm-extension.com",
+    "source": {
+      "list": "DMM",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dmm.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dmm.co.jp",
+    "source": {
+      "list": "DMM-PORN",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dmm.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dmm.com",
+    "source": {
+      "list": "DMM",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dmmapis.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dmmapis.com",
+    "source": {
+      "list": "DMM",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dmmrex.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dmmrex.com",
+    "source": {
+      "list": "DMM-PORN",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fout.jp",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:fout.jp:@ads",
+    "source": {
+      "list": "DMM",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gmossp-sp.jp",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:gmossp-sp.jp:@ads",
+    "source": {
+      "list": "DMM",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "i-mobile.co.jp",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:i-mobile.co.jp:@ads",
+    "source": {
+      "list": "DMM",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "im-apps.net",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:im-apps.net:@ads",
+    "source": {
+      "list": "DMM",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "impact-ad.jp",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:impact-ad.jp:@ads",
+    "source": {
+      "list": "DMM",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ladsp.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:ladsp.com:@ads",
+    "source": {
+      "list": "DMM",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microad.co.jp",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:microad.co.jp:@ads",
+    "source": {
+      "list": "DMM",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "microad.jp",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:microad.jp:@ads",
+    "source": {
+      "list": "DMM",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "socdm.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:socdm.com:@ads",
+    "source": {
+      "list": "DMM",
+      "line": 21
+    }
+  },
+  {
+    "type": "full",
+    "value": "api-p.videomarket.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:api-p.videomarket.jp",
+    "source": {
+      "list": "DMM",
+      "line": 6
+    }
+  }
+]

@@ -1,0 +1,178 @@
+[
+  {
+    "type": "domain",
+    "value": "attestation.app",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:attestation.app",
+    "source": {
+      "list": "GRAPHENEOS",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "grapheneos.app",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:grapheneos.app",
+    "source": {
+      "list": "GRAPHENEOS",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "grapheneos.ca",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:grapheneos.ca",
+    "source": {
+      "list": "GRAPHENEOS",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "grapheneos.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:grapheneos.com",
+    "source": {
+      "list": "GRAPHENEOS",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "grapheneos.dev",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:grapheneos.dev",
+    "source": {
+      "list": "GRAPHENEOS",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "grapheneos.foundation",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:grapheneos.foundation",
+    "source": {
+      "list": "GRAPHENEOS",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "grapheneos.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:grapheneos.info",
+    "source": {
+      "list": "GRAPHENEOS",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "grapheneos.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:grapheneos.net",
+    "source": {
+      "list": "GRAPHENEOS",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "grapheneos.network",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:grapheneos.network",
+    "source": {
+      "list": "GRAPHENEOS",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "grapheneos.online",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:grapheneos.online",
+    "source": {
+      "list": "GRAPHENEOS",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "grapheneos.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:grapheneos.org",
+    "source": {
+      "list": "GRAPHENEOS",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "grapheneos.ovh",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:grapheneos.ovh",
+    "source": {
+      "list": "GRAPHENEOS",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "grapheneos.page",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:grapheneos.page",
+    "source": {
+      "list": "GRAPHENEOS",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "grapheneos.social",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:grapheneos.social",
+    "source": {
+      "list": "GRAPHENEOS",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "seamlessupdate.app",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:seamlessupdate.app",
+    "source": {
+      "list": "GRAPHENEOS",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vanadium.app",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vanadium.app",
+    "source": {
+      "list": "GRAPHENEOS",
+      "line": 16
+    }
+  }
+]

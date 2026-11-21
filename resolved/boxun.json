@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "bowenpress.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bowenpress.com",
+    "source": {
+      "list": "BOXUN",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "boxun.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:boxun.com",
+    "source": {
+      "list": "BOXUN",
+      "line": 1
+    }
+  }
+]

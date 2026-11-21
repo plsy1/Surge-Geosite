@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "jquery.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jquery.com",
+    "source": {
+      "list": "JQUERY",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jquerymobile.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jquerymobile.com",
+    "source": {
+      "list": "JQUERY",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jqueryui.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jqueryui.com",
+    "source": {
+      "list": "JQUERY",
+      "line": 3
+    }
+  }
+]

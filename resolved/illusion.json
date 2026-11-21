@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "illusion.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:illusion.co.jp",
+    "source": {
+      "list": "ILLUSION",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "illusion.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:illusion.jp",
+    "source": {
+      "list": "ILLUSION",
+      "line": 3
+    }
+  }
+]

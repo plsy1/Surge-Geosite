@@ -1,0 +1,68 @@
+[
+  {
+    "type": "domain",
+    "value": "archlinux.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:archlinux.de",
+    "source": {
+      "list": "ARCHLINUX",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "archlinux.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:archlinux.org",
+    "source": {
+      "list": "ARCHLINUX",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "archlinux.page",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:archlinux.page",
+    "source": {
+      "list": "ARCHLINUX",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "archlinuxarm.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:archlinuxarm.org",
+    "source": {
+      "list": "ARCHLINUX",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "archlinuxcn.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:archlinuxcn.org",
+    "source": {
+      "list": "ARCHLINUX",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pkgbuild.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pkgbuild.com",
+    "source": {
+      "list": "ARCHLINUX",
+      "line": 5
+    }
+  }
+]

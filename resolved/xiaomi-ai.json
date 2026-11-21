@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "miaibox.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:miaibox.com",
+    "source": {
+      "list": "XIAOMI-AI",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xiaoaiassist.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xiaoaiassist.com",
+    "source": {
+      "list": "XIAOMI-AI",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xiaomimimo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xiaomimimo.com",
+    "source": {
+      "list": "XIAOMI-AI",
+      "line": 3
+    }
+  }
+]

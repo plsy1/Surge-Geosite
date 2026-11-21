@@ -1,0 +1,68 @@
+[
+  {
+    "type": "domain",
+    "value": "hisense-home.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hisense-home.com",
+    "source": {
+      "list": "HISENSE",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hisense.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hisense.com",
+    "source": {
+      "list": "HISENSE",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hisensehitachi.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hisensehitachi.com",
+    "source": {
+      "list": "HISENSE",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hisensekf.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hisensekf.com",
+    "source": {
+      "list": "HISENSE",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hismarttv.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hismarttv.com",
+    "source": {
+      "list": "HISENSE",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "juhaokan.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:juhaokan.org",
+    "source": {
+      "list": "HISENSE",
+      "line": 6
+    }
+  }
+]

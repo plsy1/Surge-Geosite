@@ -1,0 +1,79 @@
+[
+  {
+    "type": "domain",
+    "value": "ajplus.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ajplus.net",
+    "source": {
+      "list": "ALJAZEERA",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aljazeera.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aljazeera.com",
+    "source": {
+      "list": "ALJAZEERA",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aljazeera.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aljazeera.net",
+    "source": {
+      "list": "ALJAZEERA",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "palestineremix.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:palestineremix.com",
+    "source": {
+      "list": "ALJAZEERA",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sarajevopodopsadom.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sarajevopodopsadom.com",
+    "source": {
+      "list": "ALJAZEERA",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "srebrenica360.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:srebrenica360.com",
+    "source": {
+      "list": "ALJAZEERA",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "syhacked.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:syhacked.com",
+    "source": {
+      "list": "ALJAZEERA",
+      "line": 7
+    }
+  }
+]

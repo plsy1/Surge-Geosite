@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "actalis.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:actalis.com",
+    "source": {
+      "list": "ACTALIS",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "actalis.it",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:actalis.it",
+    "source": {
+      "list": "ACTALIS",
+      "line": 2
+    }
+  }
+]

@@ -1,0 +1,486 @@
+[
+  {
+    "type": "domain",
+    "value": "accountkit.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:accountkit.com",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "atscaleconference.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:atscaleconference.com",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "botorch.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:botorch.org",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "buck.build",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:buck.build",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "buckbuild.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:buckbuild.com",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "componentkit.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:componentkit.org",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "draftjs.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:draftjs.org",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "f8.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:f8.com",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebookappcenter.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebookappcenter.info",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebookappcenter.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebookappcenter.net",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebookappcenter.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebookappcenter.org",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebookconnect.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebookconnect.com",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "facebookdevelopergarage.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:facebookdevelopergarage.com",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "faciometrics.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:faciometrics.com",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fasttext.cc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fasttext.cc",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fbf8.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fbf8.com",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fbinfer.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fbinfer.com",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fblitho.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fblitho.com",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fbredex.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fbredex.com",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fbrell.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fbrell.com",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "flow.dev",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:flow.dev",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "flow.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:flow.org",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "flowtype.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:flowtype.org",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "frescolib.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:frescolib.org",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hacklang.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hacklang.org",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hhvm.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hhvm.com",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "makeitopen.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:makeitopen.com",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mcrouter.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mcrouter.net",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mcrouter.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mcrouter.org",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "messengerdevelopers.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:messengerdevelopers.com",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ogp.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ogp.me",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "opengraphprotocol.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:opengraphprotocol.com",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "opengraphprotocol.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:opengraphprotocol.org",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "parse.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:parse.com",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pyrobot.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pyrobot.org",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "react.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:react.com",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "reactjs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:reactjs.com",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 37
+    }
+  },
+  {
+    "type": "domain",
+    "value": "reactjs.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:reactjs.org",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 38
+    }
+  },
+  {
+    "type": "domain",
+    "value": "recoiljs.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:recoiljs.org",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 39
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rocksdb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rocksdb.com",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 40
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rocksdb.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rocksdb.net",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rocksdb.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rocksdb.org",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 42
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yogalayout.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yogalayout.com",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 43
+    }
+  },
+  {
+    "type": "full",
+    "value": "developers.facebook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:developers.facebook.com",
+    "source": {
+      "list": "FACEBOOK-DEV",
+      "line": 45
+    }
+  }
+]

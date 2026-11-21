@@ -1,0 +1,389 @@
+[
+  {
+    "type": "domain",
+    "value": "dettol-prize.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dettol-prize.com",
+    "source": {
+      "list": "DETTOL",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dettol.at",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dettol.at",
+    "source": {
+      "list": "DETTOL",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dettol.be",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dettol.be",
+    "source": {
+      "list": "DETTOL",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dettol.ch",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dettol.ch",
+    "source": {
+      "list": "DETTOL",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dettol.cl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dettol.cl",
+    "source": {
+      "list": "DETTOL",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dettol.co.id",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dettol.co.id",
+    "source": {
+      "list": "DETTOL",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dettol.co.in",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dettol.co.in",
+    "source": {
+      "list": "DETTOL",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dettol.co.ke",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dettol.co.ke",
+    "source": {
+      "list": "DETTOL",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dettol.co.nz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dettol.co.nz",
+    "source": {
+      "list": "DETTOL",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dettol.co.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dettol.co.uk",
+    "source": {
+      "list": "DETTOL",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dettol.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dettol.com",
+    "source": {
+      "list": "DETTOL",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dettol.com.au",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dettol.com.au",
+    "source": {
+      "list": "DETTOL",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dettol.com.bd",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dettol.com.bd",
+    "source": {
+      "list": "DETTOL",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dettol.com.br",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dettol.com.br",
+    "source": {
+      "list": "DETTOL",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dettol.com.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:dettol.com.cn:@cn",
+    "source": {
+      "list": "DETTOL",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dettol.com.eg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dettol.com.eg",
+    "source": {
+      "list": "DETTOL",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dettol.com.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dettol.com.hk",
+    "source": {
+      "list": "DETTOL",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dettol.com.my",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dettol.com.my",
+    "source": {
+      "list": "DETTOL",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dettol.com.ng",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dettol.com.ng",
+    "source": {
+      "list": "DETTOL",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dettol.com.sg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dettol.com.sg",
+    "source": {
+      "list": "DETTOL",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dettol.cz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dettol.cz",
+    "source": {
+      "list": "DETTOL",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dettol.fr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dettol.fr",
+    "source": {
+      "list": "DETTOL",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dettol.hu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dettol.hu",
+    "source": {
+      "list": "DETTOL",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dettol.ie",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dettol.ie",
+    "source": {
+      "list": "DETTOL",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dettol.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dettol.net",
+    "source": {
+      "list": "DETTOL",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dettol.nl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dettol.nl",
+    "source": {
+      "list": "DETTOL",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dettol.pk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dettol.pk",
+    "source": {
+      "list": "DETTOL",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dettol.pl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dettol.pl",
+    "source": {
+      "list": "DETTOL",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dettol.pt",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dettol.pt",
+    "source": {
+      "list": "DETTOL",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dettol.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dettol.ru",
+    "source": {
+      "list": "DETTOL",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dettolarabia.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dettolarabia.com",
+    "source": {
+      "list": "DETTOL",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dettolcleannaija.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dettolcleannaija.com",
+    "source": {
+      "list": "DETTOL",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dettolsitishield.co.in",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dettolsitishield.co.in",
+    "source": {
+      "list": "DETTOL",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dettolthailand.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dettolthailand.com",
+    "source": {
+      "list": "DETTOL",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "espadoldettol.com.ar",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:espadoldettol.com.ar",
+    "source": {
+      "list": "DETTOL",
+      "line": 35
+    }
+  }
+]

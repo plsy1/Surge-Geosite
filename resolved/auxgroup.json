@@ -1,0 +1,357 @@
+[
+  {
+    "type": "domain",
+    "value": "aufit-air.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:aufit-air.com:@!cn",
+    "source": {
+      "list": "AUXGROUP",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aux-global.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:aux-global.com:@!cn",
+    "source": {
+      "list": "AUXGROUP",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "aux-home.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aux-home.com",
+    "source": {
+      "list": "AUXGROUP",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "auxair.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:auxair.com:@!cn",
+    "source": {
+      "list": "AUXGROUP",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "auxauto.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:auxauto.com.cn",
+    "source": {
+      "list": "AUXGROUP",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "auxcac.cn",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:auxcac.cn:@!cn",
+    "source": {
+      "list": "AUXGROUP",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "auxcss.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:auxcss.com",
+    "source": {
+      "list": "AUXGROUP",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "auxgroup.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:auxgroup.com",
+    "source": {
+      "list": "AUXGROUP",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "auxshop.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:auxshop.cn",
+    "source": {
+      "list": "AUXGROUP",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "auxshop.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:auxshop.com",
+    "source": {
+      "list": "AUXGROUP",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "auxsmart.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:auxsmart.com:@!cn",
+    "source": {
+      "list": "AUXGROUP",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "auxsmart.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:auxsmart.com.cn",
+    "source": {
+      "list": "AUXGROUP",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "auxsol.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:auxsol.com",
+    "source": {
+      "list": "AUXGROUP",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "auxsolar.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:auxsolar.com.cn",
+    "source": {
+      "list": "AUXGROUP",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "auxsolcloud.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:auxsolcloud.com",
+    "source": {
+      "list": "AUXGROUP",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "auxtelecom.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:auxtelecom.com",
+    "source": {
+      "list": "AUXGROUP",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "auxwy.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:auxwy.com",
+    "source": {
+      "list": "AUXGROUP",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "auxyl.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:auxyl.com",
+    "source": {
+      "list": "AUXGROUP",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mzgjbj.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mzgjbj.com",
+    "source": {
+      "list": "AUXGROUP",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mzyyfck.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mzyyfck.com",
+    "source": {
+      "list": "AUXGROUP",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mzyygb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mzyygb.com",
+    "source": {
+      "list": "AUXGROUP",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mzyygk.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mzyygk.com",
+    "source": {
+      "list": "AUXGROUP",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mzyyzl.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mzyyzl.com",
+    "source": {
+      "list": "AUXGROUP",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nbmzyl.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nbmzyl.com",
+    "source": {
+      "list": "AUXGROUP",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nbmzyy.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nbmzyy.com",
+    "source": {
+      "list": "AUXGROUP",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nbyzfeyy.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nbyzfeyy.com",
+    "source": {
+      "list": "AUXGROUP",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sanxing.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sanxing.com",
+    "source": {
+      "list": "AUXGROUP",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sanxingelectric.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:sanxingelectric.com:@!cn",
+    "source": {
+      "list": "AUXGROUP",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "shinflow.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:shinflow.com:@!cn",
+    "source": {
+      "list": "AUXGROUP",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "shuyifuwu.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:shuyifuwu.com.cn",
+    "source": {
+      "list": "AUXGROUP",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "solarcloud.top",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:solarcloud.top",
+    "source": {
+      "list": "AUXGROUP",
+      "line": 24
+    }
+  }
+]

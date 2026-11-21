@@ -1,0 +1,553 @@
+[
+  {
+    "type": "domain",
+    "value": "airgonetworks.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airgonetworks.com",
+    "source": {
+      "list": "QUALCOMM",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "berkanawireless.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:berkanawireless.com",
+    "source": {
+      "list": "QUALCOMM",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "brewmp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:brewmp.com",
+    "source": {
+      "list": "QUALCOMM",
+      "line": 50
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdmatech.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdmatech.com",
+    "source": {
+      "list": "QUALCOMM",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dragoniscoming.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dragoniscoming.com",
+    "source": {
+      "list": "QUALCOMM",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gobianywhere.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gobianywhere.com",
+    "source": {
+      "list": "QUALCOMM",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gpsonextra.net",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:gpsonextra.net:@cn",
+    "source": {
+      "list": "QUALCOMM",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hellosmartbook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hellosmartbook.com",
+    "source": {
+      "list": "QUALCOMM",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "imod.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:imod.com",
+    "source": {
+      "list": "QUALCOMM",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ipleadership.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ipleadership.org",
+    "source": {
+      "list": "QUALCOMM",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "iskoot.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:iskoot.com",
+    "source": {
+      "list": "QUALCOMM",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "izatcloud.net",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:izatcloud.net:@cn",
+    "source": {
+      "list": "QUALCOMM",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "meetsmartbook.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:meetsmartbook.com",
+    "source": {
+      "list": "QUALCOMM",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "patenttruth.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:patenttruth.org",
+    "source": {
+      "list": "QUALCOMM",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pixtronix.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pixtronix.com",
+    "source": {
+      "list": "QUALCOMM",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qceventscenter.com.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:qceventscenter.com.cn:@cn",
+    "source": {
+      "list": "QUALCOMM",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qcomgeo2.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qcomgeo2.com",
+    "source": {
+      "list": "QUALCOMM",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qctconnect.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qctconnect.com",
+    "source": {
+      "list": "QUALCOMM",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qprize.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qprize.com",
+    "source": {
+      "list": "QUALCOMM",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qualcomm-email.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qualcomm-email.com",
+    "source": {
+      "list": "QUALCOMM",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qualcomm-inc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qualcomm-inc.com",
+    "source": {
+      "list": "QUALCOMM",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qualcomm.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:qualcomm.cn:@cn",
+    "source": {
+      "list": "QUALCOMM",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qualcomm.cn.cdn.cloudflare.net",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:qualcomm.cn.cdn.cloudflare.net:@cn",
+    "source": {
+      "list": "QUALCOMM",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qualcomm.co.id",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qualcomm.co.id",
+    "source": {
+      "list": "QUALCOMM",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qualcomm.co.in",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qualcomm.co.in",
+    "source": {
+      "list": "QUALCOMM",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qualcomm.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qualcomm.co.jp",
+    "source": {
+      "list": "QUALCOMM",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qualcomm.co.kr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qualcomm.co.kr",
+    "source": {
+      "list": "QUALCOMM",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qualcomm.co.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qualcomm.co.uk",
+    "source": {
+      "list": "QUALCOMM",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qualcomm.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qualcomm.com",
+    "source": {
+      "list": "QUALCOMM",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qualcomm.com.br",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qualcomm.com.br",
+    "source": {
+      "list": "QUALCOMM",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qualcomm.com.tw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qualcomm.com.tw",
+    "source": {
+      "list": "QUALCOMM",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qualcomm.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qualcomm.de",
+    "source": {
+      "list": "QUALCOMM",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qualcomm.fr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qualcomm.fr",
+    "source": {
+      "list": "QUALCOMM",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qualcommhalo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qualcommhalo.com",
+    "source": {
+      "list": "QUALCOMM",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qualcommlabs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qualcommlabs.com",
+    "source": {
+      "list": "QUALCOMM",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qualcommmea.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qualcommmea.com",
+    "source": {
+      "list": "QUALCOMM",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qualcommretail.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qualcommretail.com",
+    "source": {
+      "list": "QUALCOMM",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qualcommventures.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qualcommventures.cn",
+    "source": {
+      "list": "QUALCOMM",
+      "line": 37
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qualcommventures.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qualcommventures.com",
+    "source": {
+      "list": "QUALCOMM",
+      "line": 38
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qualphone.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qualphone.com",
+    "source": {
+      "list": "QUALCOMM",
+      "line": 39
+    }
+  },
+  {
+    "type": "domain",
+    "value": "quicinc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:quicinc.com",
+    "source": {
+      "list": "QUALCOMM",
+      "line": 40
+    }
+  },
+  {
+    "type": "domain",
+    "value": "snapdragon.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:snapdragon.cn",
+    "source": {
+      "list": "QUALCOMM",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "snapdragonbooth.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:snapdragonbooth.com",
+    "source": {
+      "list": "QUALCOMM",
+      "line": 42
+    }
+  },
+  {
+    "type": "domain",
+    "value": "uplinq.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:uplinq.com",
+    "source": {
+      "list": "QUALCOMM",
+      "line": 43
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wipower.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wipower.com",
+    "source": {
+      "list": "QUALCOMM",
+      "line": 44
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wirelessreach.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wirelessreach.com",
+    "source": {
+      "list": "QUALCOMM",
+      "line": 45
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xtracloud.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:xtracloud.cn:@cn",
+    "source": {
+      "list": "QUALCOMM",
+      "line": 46
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xtracloud.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xtracloud.net",
+    "source": {
+      "list": "QUALCOMM",
+      "line": 47
+    }
+  },
+  {
+    "type": "full",
+    "value": "qualcomm.sc.omtrdc.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:qualcomm.sc.omtrdc.net",
+    "source": {
+      "list": "QUALCOMM",
+      "line": 52
+    }
+  }
+]

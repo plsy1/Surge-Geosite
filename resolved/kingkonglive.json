@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "kingkong.com.tw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kingkong.com.tw",
+    "source": {
+      "list": "KINGKONGLIVE",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kingkongapp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kingkongapp.com",
+    "source": {
+      "list": "KINGKONGLIVE",
+      "line": 2
+    }
+  }
+]

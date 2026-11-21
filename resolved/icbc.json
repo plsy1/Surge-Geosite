@@ -1,0 +1,730 @@
+[
+  {
+    "type": "domain",
+    "value": "95588.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:95588.com",
+    "source": {
+      "list": "ICBC",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "95588.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:95588.com.cn",
+    "source": {
+      "list": "ICBC",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dccnet.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dccnet.com.cn",
+    "source": {
+      "list": "ICBC",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icbc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icbc",
+    "source": {
+      "list": "ICBC",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icbc-at.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:icbc-at.com:@!cn",
+    "source": {
+      "list": "ICBC",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icbc-cz.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:icbc-cz.com:@!cn",
+    "source": {
+      "list": "ICBC",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icbc-ltd.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:icbc-ltd.com:@!cn",
+    "source": {
+      "list": "ICBC",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icbc-uk.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:icbc-uk.com:@!cn",
+    "source": {
+      "list": "ICBC",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icbc-us.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:icbc-us.com:@!cn",
+    "source": {
+      "list": "ICBC",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icbc.ae",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:icbc.ae:@!cn",
+    "source": {
+      "list": "ICBC",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icbc.be",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:icbc.be:@!cn",
+    "source": {
+      "list": "ICBC",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icbc.co.id",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:icbc.co.id:@!cn",
+    "source": {
+      "list": "ICBC",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icbc.co.jp",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:icbc.co.jp:@!cn",
+    "source": {
+      "list": "ICBC",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icbc.co.kr",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:icbc.co.kr:@!cn",
+    "source": {
+      "list": "ICBC",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icbc.co.nl",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:icbc.co.nl:@!cn",
+    "source": {
+      "list": "ICBC",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icbc.com.au",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:icbc.com.au:@!cn",
+    "source": {
+      "list": "ICBC",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icbc.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icbc.com.cn",
+    "source": {
+      "list": "ICBC",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icbc.com.es",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:icbc.com.es:@!cn",
+    "source": {
+      "list": "ICBC",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icbc.com.kh",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:icbc.com.kh:@!cn",
+    "source": {
+      "list": "ICBC",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icbc.com.kw",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:icbc.com.kw:@!cn",
+    "source": {
+      "list": "ICBC",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icbc.com.la",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:icbc.com.la:@!cn",
+    "source": {
+      "list": "ICBC",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icbc.com.mm",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:icbc.com.mm:@!cn",
+    "source": {
+      "list": "ICBC",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icbc.com.mo",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:icbc.com.mo:@!cn",
+    "source": {
+      "list": "ICBC",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icbc.com.mx",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:icbc.com.mx:@!cn",
+    "source": {
+      "list": "ICBC",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icbc.com.pe",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:icbc.com.pe:@!cn",
+    "source": {
+      "list": "ICBC",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icbc.com.pk",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:icbc.com.pk:@!cn",
+    "source": {
+      "list": "ICBC",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icbc.com.qa",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:icbc.com.qa:@!cn",
+    "source": {
+      "list": "ICBC",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icbc.com.sg",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:icbc.com.sg:@!cn",
+    "source": {
+      "list": "ICBC",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icbc.com.vn",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:icbc.com.vn:@!cn",
+    "source": {
+      "list": "ICBC",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icbc.de",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:icbc.de:@!cn",
+    "source": {
+      "list": "ICBC",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icbc.eu",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:icbc.eu:@!cn",
+    "source": {
+      "list": "ICBC",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icbc.lu",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:icbc.lu:@!cn",
+    "source": {
+      "list": "ICBC",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icbcalmaty.kz",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:icbcalmaty.kz:@!cn",
+    "source": {
+      "list": "ICBC",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icbcasia.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:icbcasia.com:@!cn",
+    "source": {
+      "list": "ICBC",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icbcbr.com.br",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:icbcbr.com.br:@!cn",
+    "source": {
+      "list": "ICBC",
+      "line": 37
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icbccs.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icbccs.com.cn",
+    "source": {
+      "list": "ICBC",
+      "line": 38
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icbccstz.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icbccstz.com.cn",
+    "source": {
+      "list": "ICBC",
+      "line": 39
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icbci.com.hk",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:icbci.com.hk:@!cn",
+    "source": {
+      "list": "ICBC",
+      "line": 40
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icbcina.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icbcina.com",
+    "source": {
+      "list": "ICBC",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icbcindia.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:icbcindia.com:@!cn",
+    "source": {
+      "list": "ICBC",
+      "line": 42
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icbcit.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:icbcit.com:@!cn",
+    "source": {
+      "list": "ICBC",
+      "line": 43
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icbclondon.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:icbclondon.com:@!cn",
+    "source": {
+      "list": "ICBC",
+      "line": 44
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icbcmanila.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icbcmanila.com.cn",
+    "source": {
+      "list": "ICBC",
+      "line": 45
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icbcme.ae",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:icbcme.ae:@!cn",
+    "source": {
+      "list": "ICBC",
+      "line": 46
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icbcmoscow.ru",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:icbcmoscow.ru:@!cn",
+    "source": {
+      "list": "ICBC",
+      "line": 47
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icbcmy.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:icbcmy.com:@!cn",
+    "source": {
+      "list": "ICBC",
+      "line": 48
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icbcnz.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:icbcnz.com:@!cn",
+    "source": {
+      "list": "ICBC",
+      "line": 49
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icbcpanama.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:icbcpanama.com:@!cn",
+    "source": {
+      "list": "ICBC",
+      "line": 50
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icbcparis.fr",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:icbcparis.fr:@!cn",
+    "source": {
+      "list": "ICBC",
+      "line": 51
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icbcpl.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:icbcpl.com:@!cn",
+    "source": {
+      "list": "ICBC",
+      "line": 52
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icbcstandard.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icbcstandard.com",
+    "source": {
+      "list": "ICBC",
+      "line": 53
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icbcstandardbank.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icbcstandardbank.com",
+    "source": {
+      "list": "ICBC",
+      "line": 54
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icbcstandardresources.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icbcstandardresources.com",
+    "source": {
+      "list": "ICBC",
+      "line": 55
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icbcstandardsecurities.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:icbcstandardsecurities.com",
+    "source": {
+      "list": "ICBC",
+      "line": 56
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icbcswiss.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:icbcswiss.com:@!cn",
+    "source": {
+      "list": "ICBC",
+      "line": 57
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icbcthai.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:icbcthai.com:@!cn",
+    "source": {
+      "list": "ICBC",
+      "line": 58
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icbkfs.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:icbkfs.com:@!cn",
+    "source": {
+      "list": "ICBC",
+      "line": 59
+    }
+  },
+  {
+    "type": "domain",
+    "value": "icbkus.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:icbkus.com:@!cn",
+    "source": {
+      "list": "ICBC",
+      "line": 60
+    }
+  }
+]

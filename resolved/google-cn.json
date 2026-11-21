@@ -1,0 +1,1234 @@
+[
+  {
+    "type": "full",
+    "value": "265.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:265.com",
+    "source": {
+      "list": "GOOGLE-CN",
+      "line": 1
+    }
+  },
+  {
+    "type": "full",
+    "value": "2mdn-cn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:2mdn-cn.net",
+    "source": {
+      "list": "GOOGLE-CN",
+      "line": 2
+    }
+  },
+  {
+    "type": "full",
+    "value": "2mdn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:2mdn.net",
+    "source": {
+      "list": "GOOGLE-CN",
+      "line": 3
+    }
+  },
+  {
+    "type": "full",
+    "value": "admob-cn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:admob-cn.com",
+    "source": {
+      "list": "GOOGLE-CN",
+      "line": 4
+    }
+  },
+  {
+    "type": "full",
+    "value": "adservice.google.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:adservice.google.com",
+    "source": {
+      "list": "GOOGLE-CN",
+      "line": 5
+    }
+  },
+  {
+    "type": "full",
+    "value": "app-analytics-services.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:app-analytics-services.com",
+    "source": {
+      "list": "GOOGLE-CN",
+      "line": 6
+    }
+  },
+  {
+    "type": "full",
+    "value": "app-measurement-cn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:app-measurement-cn.com",
+    "source": {
+      "list": "GOOGLE-CN",
+      "line": 7
+    }
+  },
+  {
+    "type": "full",
+    "value": "app-measurement.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:app-measurement.com",
+    "source": {
+      "list": "GOOGLE-CN",
+      "line": 8
+    }
+  },
+  {
+    "type": "full",
+    "value": "apps5.oingo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:apps5.oingo.com",
+    "source": {
+      "list": "GOOGLE-CN",
+      "line": 9
+    }
+  },
+  {
+    "type": "full",
+    "value": "avail.googleflights.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:avail.googleflights.net",
+    "source": {
+      "list": "GOOGLE-CN",
+      "line": 10
+    }
+  },
+  {
+    "type": "full",
+    "value": "beacons.gcp.gvt2.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:beacons.gcp.gvt2.com",
+    "source": {
+      "list": "GOOGLE-CN",
+      "line": 11
+    }
+  },
+  {
+    "type": "full",
+    "value": "beacons.gvt2.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:beacons.gvt2.com",
+    "source": {
+      "list": "GOOGLE-CN",
+      "line": 12
+    }
+  },
+  {
+    "type": "full",
+    "value": "beacons2.gvt2.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:beacons2.gvt2.com",
+    "source": {
+      "list": "GOOGLE-CN",
+      "line": 13
+    }
+  },
+  {
+    "type": "full",
+    "value": "beacons3.gvt2.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:beacons3.gvt2.com",
+    "source": {
+      "list": "GOOGLE-CN",
+      "line": 14
+    }
+  },
+  {
+    "type": "full",
+    "value": "c.admob.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:c.admob.com",
+    "source": {
+      "list": "GOOGLE-CN",
+      "line": 15
+    }
+  },
+  {
+    "type": "full",
+    "value": "c.android.clients.google.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:c.android.clients.google.com",
+    "source": {
+      "list": "GOOGLE-CN",
+      "line": 16
+    }
+  },
+  {
+    "type": "full",
+    "value": "c.pki.goog",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:c.pki.goog",
+    "source": {
+      "list": "GOOGLE-CN",
+      "line": 17
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache-management-prod.google.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache-management-prod.google.com",
+    "source": {
+      "list": "GOOGLE-CN",
+      "line": 18
+    }
+  },
+  {
+    "type": "full",
+    "value": "cache.pack.google.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cache.pack.google.com",
+    "source": {
+      "list": "GOOGLE-CN",
+      "line": 19
+    }
+  },
+  {
+    "type": "full",
+    "value": "checkin.gstatic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:checkin.gstatic.com",
+    "source": {
+      "list": "GOOGLE-CN",
+      "line": 20
+    }
+  },
+  {
+    "type": "full",
+    "value": "clickserve.cc-dt.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:clickserve.cc-dt.com",
+    "source": {
+      "list": "GOOGLE-CN",
+      "line": 21
+    }
+  },
+  {
+    "type": "full",
+    "value": "clickserve.dartsearch.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:clickserve.dartsearch.net",
+    "source": {
+      "list": "GOOGLE-CN",
+      "line": 22
+    }
+  },
+  {
+    "type": "full",
+    "value": "clickserver.googleads.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:clickserver.googleads.com",
+    "source": {
+      "list": "GOOGLE-CN",
+      "line": 23
+    }
+  },
+  {
+    "type": "full",
+    "value": "clientservices.googleapis.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:clientservices.googleapis.com",
+    "source": {
+      "list": "GOOGLE-CN",
+      "line": 24
+    }
+  },
+  {
+    "type": "full",
+    "value": "cn.widevine.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cn.widevine.com",
+    "source": {
+      "list": "GOOGLE-CN",
+      "line": 25
+    }
+  },
+  {
+    "type": "full",
+    "value": "connectivitycheck.gstatic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:connectivitycheck.gstatic.com",
+    "source": {
+      "list": "GOOGLE-CN",
+      "line": 26
+    }
+  },
+  {
+    "type": "full",
+    "value": "crashlyticsreports-pa.googleapis.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:crashlyticsreports-pa.googleapis.com",
+    "source": {
+      "list": "GOOGLE-CN",
+      "line": 27
+    }
+  },
+  {
+    "type": "full",
+    "value": "crl.pki.goog",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:crl.pki.goog",
+    "source": {
+      "list": "GOOGLE-CN",
+      "line": 28
+    }
+  },
+  {
+    "type": "full",
+    "value": "csi.gstatic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:csi.gstatic.com",
+    "source": {
+      "list": "GOOGLE-CN",
+      "line": 29
+    }
+  },
+  {
+    "type": "full",
+    "value": "dartsearch-cn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:dartsearch-cn.net",
+    "source": {
+      "list": "GOOGLE-CN",
+      "line": 30
+    }
+  },
+  {
+    "type": "full",
+    "value": "dg-meta.video.google.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:dg-meta.video.google.com",
+    "source": {
+      "list": "GOOGLE-CN",
+      "line": 31
+    }
+  },
+  {
+    "type": "full",
+    "value": "dl.google.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:dl.google.com",
+    "source": {
+      "list": "GOOGLE-CN",
+      "line": 32
+    }
+  },
+  {
+    "type": "full",
+    "value": "dl.l.google.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:dl.l.google.com",
+    "source": {
+      "list": "GOOGLE-CN",
+      "line": 33
+    }
+  },
+  {
+    "type": "full",
+    "value": "doubleclick-cn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:doubleclick-cn.net",
+    "source": {
+      "list": "GOOGLE-CN",
+      "line": 34
+    }
+  },
+  {
+    "type": "full",
+    "value": "doubleclick.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:doubleclick.net",
+    "source": {
+      "list": "GOOGLE-CN",
+      "line": 35
+    }
+  },
+  {
+    "type": "full",
+    "value": "download.mlcc.google.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:download.mlcc.google.com",
+    "source": {
+      "list": "GOOGLE-CN",
+      "line": 36
+    }
+  },
+  {
+    "type": "full",
+    "value": "download.tensorflow.google.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:download.tensorflow.google.com",
+    "source": {
+      "list": "GOOGLE-CN",
+      "line": 37
+    }
+  },
+  {
+    "type": "full",
+    "value": "firebase-settings.crashlytics.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:firebase-settings.crashlytics.com",
+    "source": {
+      "list": "GOOGLE-CN",
+      "line": 38
+    }
+  },
+  {
+    "type": "full",
+    "value": "fontfiles.googleapis.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:fontfiles.googleapis.com",
+    "source": {
+      "list": "GOOGLE-CN",
+      "line": 39
+    }
+  },
+  {
+    "type": "full",
+    "value": "fonts.googleapis.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:fonts.googleapis.com",
+    "source": {
+      "list": "GOOGLE-CN",
+      "line": 40
+    }
+  },
+  {
+    "type": "full",
+    "value": "fonts.gstatic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:fonts.gstatic.com",
+    "source": {
+      "list": "GOOGLE-CN",
+      "line": 41
+    }
+  },
+  {
+    "type": "full",
+    "value": "g0.gstatic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:g0.gstatic.com",
+    "source": {
+      "list": "GOOGLE-CN",
+      "line": 42
+    }
+  },
+  {
+    "type": "full",
+    "value": "g1.gstatic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:g1.gstatic.com",
+    "source": {
+      "list": "GOOGLE-CN",
+      "line": 43
+    }
+  },
+  {
+    "type": "full",
+    "value": "g2.gstatic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:g2.gstatic.com",
+    "source": {
+      "list": "GOOGLE-CN",
+      "line": 44
+    }
+  },
+  {
+    "type": "full",
+    "value": "g3.gstatic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:g3.gstatic.com",
+    "source": {
+      "list": "GOOGLE-CN",
+      "line": 45
+    }
+  },
+  {
+    "type": "full",
+    "value": "gonglchuangl.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:gonglchuangl.net",
+    "source": {
+      "list": "GOOGLE-CN",
+      "line": 46
+    }
+  },
+  {
+    "type": "full",
+    "value": "gongyichuangyi.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:gongyichuangyi.net",
+    "source": {
+      "list": "GOOGLE-CN",
+      "line": 47
+    }
+  },
+  {
+    "type": "full",
+    "value": "google-analytics-cn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:google-analytics-cn.com",
+    "source": {
+      "list": "GOOGLE-CN",
+      "line": 48
+    }
+  },
+  {
+    "type": "full",
+    "value": "google-analytics.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:google-analytics.com",
+    "source": {
+      "list": "GOOGLE-CN",
+      "line": 49
+    }
+  },
+  {
+    "type": "full",
+    "value": "googleadservices-cn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:googleadservices-cn.com",
+    "source": {
+      "list": "GOOGLE-CN",
+      "line": 50
+    }
+  },
+  {
+    "type": "full",
+    "value": "googleadservices.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:googleadservices.com",
+    "source": {
+      "list": "GOOGLE-CN",
+      "line": 51
+    }
+  },
+  {
+    "type": "full",
+    "value": "googleanalytics.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:googleanalytics.com",
+    "source": {
+      "list": "GOOGLE-CN",
+      "line": 52
+    }
+  },
+  {
+    "type": "full",
+    "value": "googleapis-cn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:googleapis-cn.com",
+    "source": {
+      "list": "GOOGLE-CN",
+      "line": 53
+    }
+  },
+  {
+    "type": "full",
+    "value": "googleapps-cn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:googleapps-cn.com",
+    "source": {
+      "list": "GOOGLE-CN",
+      "line": 54
+    }
+  },
+  {
+    "type": "full",
+    "value": "googleflights-cn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:googleflights-cn.net",
+    "source": {
+      "list": "GOOGLE-CN",
+      "line": 55
+    }
+  },
+  {
+    "type": "full",
+    "value": "googleoptimize-cn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:googleoptimize-cn.com",
+    "source": {
+      "list": "GOOGLE-CN",
+      "line": 56
+    }
+  },
+  {
+    "type": "full",
+    "value": "googleoptimize.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:googleoptimize.com",
+    "source": {
+      "list": "GOOGLE-CN",
+      "line": 57
+    }
+  },
+  {
+    "type": "full",
+    "value": "googlesyndication-cn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:googlesyndication-cn.com",
+    "source": {
+      "list": "GOOGLE-CN",
+      "line": 58
+    }
+  },
+  {
+    "type": "full",
+    "value": "googlesyndication.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:googlesyndication.com",
+    "source": {
+      "list": "GOOGLE-CN",
+      "line": 59
+    }
+  },
+  {
+    "type": "full",
+    "value": "googletagmanager-cn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:googletagmanager-cn.com",
+    "source": {
+      "list": "GOOGLE-CN",
+      "line": 60
+    }
+  },
+  {
+    "type": "full",
+    "value": "googletagmanager.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:googletagmanager.com",
+    "source": {
+      "list": "GOOGLE-CN",
+      "line": 61
+    }
+  },
+  {
+    "type": "full",
+    "value": "googletagservices-cn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:googletagservices-cn.com",
+    "source": {
+      "list": "GOOGLE-CN",
+      "line": 62
+    }
+  },
+  {
+    "type": "full",
+    "value": "googletagservices.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:googletagservices.com",
+    "source": {
+      "list": "GOOGLE-CN",
+      "line": 63
+    }
+  },
+  {
+    "type": "full",
+    "value": "googletraveladservices-cn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:googletraveladservices-cn.com",
+    "source": {
+      "list": "GOOGLE-CN",
+      "line": 64
+    }
+  },
+  {
+    "type": "full",
+    "value": "googletraveladservices.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:googletraveladservices.com",
+    "source": {
+      "list": "GOOGLE-CN",
+      "line": 65
+    }
+  },
+  {
+    "type": "full",
+    "value": "googlevads-cn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:googlevads-cn.com",
+    "source": {
+      "list": "GOOGLE-CN",
+      "line": 66
+    }
+  },
+  {
+    "type": "full",
+    "value": "gstatic-cn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:gstatic-cn.com",
+    "source": {
+      "list": "GOOGLE-CN",
+      "line": 67
+    }
+  },
+  {
+    "type": "full",
+    "value": "gstaticadssl.l.google.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:gstaticadssl.l.google.com",
+    "source": {
+      "list": "GOOGLE-CN",
+      "line": 68
+    }
+  },
+  {
+    "type": "full",
+    "value": "gtm.oasisfeng.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:gtm.oasisfeng.com",
+    "source": {
+      "list": "GOOGLE-CN",
+      "line": 69
+    }
+  },
+  {
+    "type": "full",
+    "value": "gvt1-cn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:gvt1-cn.com",
+    "source": {
+      "list": "GOOGLE-CN",
+      "line": 70
+    }
+  },
+  {
+    "type": "full",
+    "value": "gvt2-cn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:gvt2-cn.com",
+    "source": {
+      "list": "GOOGLE-CN",
+      "line": 71
+    }
+  },
+  {
+    "type": "full",
+    "value": "imasdk.googleapis.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:imasdk.googleapis.com",
+    "source": {
+      "list": "GOOGLE-CN",
+      "line": 72
+    }
+  },
+  {
+    "type": "full",
+    "value": "ocsp.pki.goog",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:ocsp.pki.goog",
+    "source": {
+      "list": "GOOGLE-CN",
+      "line": 73
+    }
+  },
+  {
+    "type": "full",
+    "value": "pagead-googlehosted.l.google.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:pagead-googlehosted.l.google.com",
+    "source": {
+      "list": "GOOGLE-CN",
+      "line": 74
+    }
+  },
+  {
+    "type": "full",
+    "value": "performanceparameters.googleapis.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:performanceparameters.googleapis.com",
+    "source": {
+      "list": "GOOGLE-CN",
+      "line": 75
+    }
+  },
+  {
+    "type": "full",
+    "value": "pki-goog.l.google.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:pki-goog.l.google.com",
+    "source": {
+      "list": "GOOGLE-CN",
+      "line": 76
+    }
+  },
+  {
+    "type": "full",
+    "value": "prod-controlbe.floonet.goog",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:prod-controlbe.floonet.goog",
+    "source": {
+      "list": "GOOGLE-CN",
+      "line": 77
+    }
+  },
+  {
+    "type": "full",
+    "value": "prod-databe.floonet.goog",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:prod-databe.floonet.goog",
+    "source": {
+      "list": "GOOGLE-CN",
+      "line": 78
+    }
+  },
+  {
+    "type": "full",
+    "value": "prod.databe.floonet.goog",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:prod.databe.floonet.goog",
+    "source": {
+      "list": "GOOGLE-CN",
+      "line": 79
+    }
+  },
+  {
+    "type": "full",
+    "value": "qiao-cn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:qiao-cn.com",
+    "source": {
+      "list": "GOOGLE-CN",
+      "line": 80
+    }
+  },
+  {
+    "type": "full",
+    "value": "qpx.googleflights.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:qpx.googleflights.net",
+    "source": {
+      "list": "GOOGLE-CN",
+      "line": 81
+    }
+  },
+  {
+    "type": "full",
+    "value": "recaptcha-cn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:recaptcha-cn.net",
+    "source": {
+      "list": "GOOGLE-CN",
+      "line": 82
+    }
+  },
+  {
+    "type": "full",
+    "value": "recaptcha.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:recaptcha.net",
+    "source": {
+      "list": "GOOGLE-CN",
+      "line": 83
+    }
+  },
+  {
+    "type": "full",
+    "value": "redirector.bdn.dev",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:redirector.bdn.dev",
+    "source": {
+      "list": "GOOGLE-CN",
+      "line": 84
+    }
+  },
+  {
+    "type": "full",
+    "value": "redirector.c.chat.google.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:redirector.c.chat.google.com",
+    "source": {
+      "list": "GOOGLE-CN",
+      "line": 85
+    }
+  },
+  {
+    "type": "full",
+    "value": "redirector.c.mail.google.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:redirector.c.mail.google.com",
+    "source": {
+      "list": "GOOGLE-CN",
+      "line": 86
+    }
+  },
+  {
+    "type": "full",
+    "value": "redirector.c.pack.google.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:redirector.c.pack.google.com",
+    "source": {
+      "list": "GOOGLE-CN",
+      "line": 87
+    }
+  },
+  {
+    "type": "full",
+    "value": "redirector.c.play.google.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:redirector.c.play.google.com",
+    "source": {
+      "list": "GOOGLE-CN",
+      "line": 88
+    }
+  },
+  {
+    "type": "full",
+    "value": "redirector.c.youtubeeducation.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:redirector.c.youtubeeducation.com",
+    "source": {
+      "list": "GOOGLE-CN",
+      "line": 89
+    }
+  },
+  {
+    "type": "full",
+    "value": "redirector.gcpcdn.gvt1.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:redirector.gcpcdn.gvt1.com",
+    "source": {
+      "list": "GOOGLE-CN",
+      "line": 90
+    }
+  },
+  {
+    "type": "full",
+    "value": "redirector.gvt1.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:redirector.gvt1.com",
+    "source": {
+      "list": "GOOGLE-CN",
+      "line": 91
+    }
+  },
+  {
+    "type": "full",
+    "value": "redirector.offline-maps.gvt1.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:redirector.offline-maps.gvt1.com",
+    "source": {
+      "list": "GOOGLE-CN",
+      "line": 92
+    }
+  },
+  {
+    "type": "full",
+    "value": "redirector.snap.gvt1.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:redirector.snap.gvt1.com",
+    "source": {
+      "list": "GOOGLE-CN",
+      "line": 93
+    }
+  },
+  {
+    "type": "full",
+    "value": "redirector.xn--ngstr-lra8j.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:redirector.xn--ngstr-lra8j.com",
+    "source": {
+      "list": "GOOGLE-CN",
+      "line": 94
+    }
+  },
+  {
+    "type": "full",
+    "value": "safebrowsing-cache.google.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:safebrowsing-cache.google.com",
+    "source": {
+      "list": "GOOGLE-CN",
+      "line": 95
+    }
+  },
+  {
+    "type": "full",
+    "value": "safebrowsing.googleapis.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:safebrowsing.googleapis.com",
+    "source": {
+      "list": "GOOGLE-CN",
+      "line": 96
+    }
+  },
+  {
+    "type": "full",
+    "value": "service.urchin.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:service.urchin.com",
+    "source": {
+      "list": "GOOGLE-CN",
+      "line": 97
+    }
+  },
+  {
+    "type": "full",
+    "value": "ssl-google-analytics.l.google.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:ssl-google-analytics.l.google.com",
+    "source": {
+      "list": "GOOGLE-CN",
+      "line": 98
+    }
+  },
+  {
+    "type": "full",
+    "value": "ssl.gstatic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:ssl.gstatic.com",
+    "source": {
+      "list": "GOOGLE-CN",
+      "line": 99
+    }
+  },
+  {
+    "type": "full",
+    "value": "staging-controlbe.floonet.goog",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:staging-controlbe.floonet.goog",
+    "source": {
+      "list": "GOOGLE-CN",
+      "line": 100
+    }
+  },
+  {
+    "type": "full",
+    "value": "staging-databe.floonet.goog",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:staging-databe.floonet.goog",
+    "source": {
+      "list": "GOOGLE-CN",
+      "line": 101
+    }
+  },
+  {
+    "type": "full",
+    "value": "staging.databe.floonet.goog",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:staging.databe.floonet.goog",
+    "source": {
+      "list": "GOOGLE-CN",
+      "line": 102
+    }
+  },
+  {
+    "type": "full",
+    "value": "tac.googleapis.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:tac.googleapis.com",
+    "source": {
+      "list": "GOOGLE-CN",
+      "line": 103
+    }
+  },
+  {
+    "type": "full",
+    "value": "tools.google.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:tools.google.com",
+    "source": {
+      "list": "GOOGLE-CN",
+      "line": 104
+    }
+  },
+  {
+    "type": "full",
+    "value": "update.crashlytics.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:update.crashlytics.com",
+    "source": {
+      "list": "GOOGLE-CN",
+      "line": 105
+    }
+  },
+  {
+    "type": "full",
+    "value": "update.googleapis.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:update.googleapis.com",
+    "source": {
+      "list": "GOOGLE-CN",
+      "line": 106
+    }
+  },
+  {
+    "type": "full",
+    "value": "wear.googleapis.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:wear.googleapis.com",
+    "source": {
+      "list": "GOOGLE-CN",
+      "line": 107
+    }
+  },
+  {
+    "type": "full",
+    "value": "www-google-analytics.l.google.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:www-google-analytics.l.google.com",
+    "source": {
+      "list": "GOOGLE-CN",
+      "line": 108
+    }
+  },
+  {
+    "type": "full",
+    "value": "www-googletagmanager.l.google.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:www-googletagmanager.l.google.com",
+    "source": {
+      "list": "GOOGLE-CN",
+      "line": 109
+    }
+  },
+  {
+    "type": "full",
+    "value": "www.destinationurl.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:www.destinationurl.com",
+    "source": {
+      "list": "GOOGLE-CN",
+      "line": 110
+    }
+  },
+  {
+    "type": "full",
+    "value": "www.gstatic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:www.gstatic.com",
+    "source": {
+      "list": "GOOGLE-CN",
+      "line": 111
+    }
+  },
+  {
+    "type": "full",
+    "value": "www.pxcc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:www.pxcc.com",
+    "source": {
+      "list": "GOOGLE-CN",
+      "line": 112
+    }
+  }
+]

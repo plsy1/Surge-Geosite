@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "getlantern.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:getlantern.org",
+    "source": {
+      "list": "LANTERN",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lantern.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lantern.io",
+    "source": {
+      "list": "LANTERN",
+      "line": 2
+    }
+  }
+]

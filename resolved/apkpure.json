@@ -1,0 +1,68 @@
+[
+  {
+    "type": "domain",
+    "value": "apkpure.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:apkpure.com",
+    "source": {
+      "list": "APKPURE",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "apkpure.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:apkpure.net",
+    "source": {
+      "list": "APKPURE",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "apkpures.xyz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:apkpures.xyz",
+    "source": {
+      "list": "APKPURE",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnpure.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnpure.com",
+    "source": {
+      "list": "APKPURE",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pureapk.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pureapk.com",
+    "source": {
+      "list": "APKPURE",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "winudf.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:winudf.com",
+    "source": {
+      "list": "APKPURE",
+      "line": 6
+    }
+  }
+]

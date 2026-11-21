@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "hkgolden.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hkgolden.com",
+    "source": {
+      "list": "HKGOLDEN",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hkgolden.media",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hkgolden.media",
+    "source": {
+      "list": "HKGOLDEN",
+      "line": 2
+    }
+  }
+]

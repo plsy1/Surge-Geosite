@@ -1,0 +1,90 @@
+[
+  {
+    "type": "domain",
+    "value": "delvenetworks.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:delvenetworks.com",
+    "source": {
+      "list": "LIMELIGHT",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "limelight.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:limelight.com",
+    "source": {
+      "list": "LIMELIGHT",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lldns.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lldns.net",
+    "source": {
+      "list": "LIMELIGHT",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "llnw-trials.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:llnw-trials.com",
+    "source": {
+      "list": "LIMELIGHT",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "llnw.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:llnw.com",
+    "source": {
+      "list": "LIMELIGHT",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "llnw.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:llnw.net",
+    "source": {
+      "list": "LIMELIGHT",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "llnwd.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:llnwd.net",
+    "source": {
+      "list": "LIMELIGHT",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "llnwi.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:llnwi.net",
+    "source": {
+      "list": "LIMELIGHT",
+      "line": 8
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "allflow.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:allflow.cn",
+    "source": {
+      "list": "FLOWUS",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "flowus.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:flowus.cn",
+    "source": {
+      "list": "FLOWUS",
+      "line": 2
+    }
+  }
+]

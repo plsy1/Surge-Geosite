@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "ggsel.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ggsel.com",
+    "source": {
+      "list": "GGSEL",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ggsel.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ggsel.net",
+    "source": {
+      "list": "GGSEL",
+      "line": 2
+    }
+  }
+]

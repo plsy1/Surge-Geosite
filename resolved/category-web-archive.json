@@ -1,0 +1,200 @@
+[
+  {
+    "type": "domain",
+    "value": "4pcdn.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:4pcdn.org",
+    "source": {
+      "list": "4PLEBS",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "4plebs.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:4plebs.org",
+    "source": {
+      "list": "4PLEBS",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "archive-it.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:archive-it.org",
+    "source": {
+      "list": "INTERNET-ARCHIVE",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "archive.fo",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:archive.fo",
+    "source": {
+      "list": "ARCHIVETODAY",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "archive.is",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:archive.is",
+    "source": {
+      "list": "ARCHIVETODAY",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "archive.li",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:archive.li",
+    "source": {
+      "list": "ARCHIVETODAY",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "archive.md",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:archive.md",
+    "source": {
+      "list": "ARCHIVETODAY",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "archive.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:archive.org",
+    "source": {
+      "list": "INTERNET-ARCHIVE",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "archive.ph",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:archive.ph",
+    "source": {
+      "list": "ARCHIVETODAY",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "archive.today",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:archive.today",
+    "source": {
+      "list": "ARCHIVETODAY",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "archive.vn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:archive.vn",
+    "source": {
+      "list": "ARCHIVETODAY",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "eotarchive.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:eotarchive.org",
+    "source": {
+      "list": "CATEGORY-WEB-ARCHIVE",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ghostarchive.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ghostarchive.org",
+    "source": {
+      "list": "CATEGORY-WEB-ARCHIVE",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "megalodon.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:megalodon.jp",
+    "source": {
+      "list": "CATEGORY-WEB-ARCHIVE",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mementoweb.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mementoweb.org",
+    "source": {
+      "list": "CATEGORY-WEB-ARCHIVE",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "openlibrary.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:openlibrary.org",
+    "source": {
+      "list": "INTERNET-ARCHIVE",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "perma.cc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:perma.cc",
+    "source": {
+      "list": "CATEGORY-WEB-ARCHIVE",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "webcitation.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:webcitation.org",
+    "source": {
+      "list": "CATEGORY-WEB-ARCHIVE",
+      "line": 10
+    }
+  }
+]

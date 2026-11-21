@@ -1,0 +1,46 @@
+[
+  {
+    "type": "domain",
+    "value": "barrons-advisor.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:barrons-advisor.com",
+    "source": {
+      "list": "BARRONS",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "barrons-conferences.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:barrons-conferences.com",
+    "source": {
+      "list": "BARRONS",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "barrons.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:barrons.com",
+    "source": {
+      "list": "BARRONS",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wsjbarrons.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wsjbarrons.com",
+    "source": {
+      "list": "BARRONS",
+      "line": 4
+    }
+  }
+]

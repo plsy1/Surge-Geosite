@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "morisawa.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:morisawa.co.jp",
+    "source": {
+      "list": "MORISAWA",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "typesquare.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:typesquare.com",
+    "source": {
+      "list": "MORISAWA",
+      "line": 4
+    }
+  }
+]

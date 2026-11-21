@@ -1,0 +1,57 @@
+[
+  {
+    "type": "domain",
+    "value": "aweencore.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aweencore.com",
+    "source": {
+      "list": "OAN",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "awetv.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:awetv.com",
+    "source": {
+      "list": "OAN",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "herringnetwork.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:herringnetwork.com",
+    "source": {
+      "list": "OAN",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oanencore.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oanencore.com",
+    "source": {
+      "list": "OAN",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oann.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oann.com",
+    "source": {
+      "list": "OAN",
+      "line": 5
+    }
+  }
+]

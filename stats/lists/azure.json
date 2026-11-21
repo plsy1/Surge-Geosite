@@ -1,0 +1,60 @@
+{
+  "name": "AZURE",
+  "source": {
+    "domain": 150,
+    "full": 4,
+    "keyword": 0,
+    "regexp": 0,
+    "include": 0,
+    "affiliations": 0,
+    "attributes": 92
+  },
+  "resolved": {
+    "rules": 154,
+    "domain": 150,
+    "full": 4,
+    "keyword": 0,
+    "regexp": 0
+  },
+  "filters": {
+    "attrs": {
+      "cn": 89,
+      "telemetry": 3
+    }
+  },
+  "modes": {
+    "strict": {
+      "rules": 154,
+      "bytes": 4775,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "balanced": {
+      "rules": 154,
+      "bytes": 4775,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "full": {
+      "rules": 154,
+      "bytes": 4775,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    }
+  }
+}

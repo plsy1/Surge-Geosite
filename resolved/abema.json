@@ -1,0 +1,233 @@
+[
+  {
+    "type": "domain",
+    "value": "abema-tv.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:abema-tv.com",
+    "source": {
+      "list": "ABEMA",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "abema.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:abema.io",
+    "source": {
+      "list": "ABEMA",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "abema.tv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:abema.tv",
+    "source": {
+      "list": "ABEMA",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "abematv.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:abematv.co.jp",
+    "source": {
+      "list": "ABEMA",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "adx.promo",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:adx.promo",
+    "source": {
+      "list": "ABEMA",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ameba.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ameba.jp",
+    "source": {
+      "list": "ABEMA",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amebame.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:amebame.com",
+    "source": {
+      "list": "ABEMA",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amebaownd.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:amebaownd.com",
+    "source": {
+      "list": "ABEMA",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "amebaowndme.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:amebaowndme.com",
+    "source": {
+      "list": "ABEMA",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ameblo.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ameblo.jp",
+    "source": {
+      "list": "ABEMA",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bucketeer.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bucketeer.jp",
+    "source": {
+      "list": "ABEMA",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dokusho-ojikan.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dokusho-ojikan.jp",
+    "source": {
+      "list": "ABEMA",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hayabusa.dev",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hayabusa.dev",
+    "source": {
+      "list": "ABEMA",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hayabusa.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hayabusa.io",
+    "source": {
+      "list": "ABEMA",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hayabusa.media",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hayabusa.media",
+    "source": {
+      "list": "ABEMA",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "winticket.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:winticket.jp",
+    "source": {
+      "list": "ABEMA",
+      "line": 16
+    }
+  },
+  {
+    "type": "full",
+    "value": "abematv.akamaized.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:abematv.akamaized.net",
+    "source": {
+      "list": "ABEMA",
+      "line": 19
+    }
+  },
+  {
+    "type": "full",
+    "value": "ds-linear-abematv.akamaized.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:ds-linear-abematv.akamaized.net",
+    "source": {
+      "list": "ABEMA",
+      "line": 20
+    }
+  },
+  {
+    "type": "full",
+    "value": "ds-vod-abematv.akamaized.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:ds-vod-abematv.akamaized.net",
+    "source": {
+      "list": "ABEMA",
+      "line": 21
+    }
+  },
+  {
+    "type": "full",
+    "value": "linear-abematv.akamaized.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:linear-abematv.akamaized.net",
+    "source": {
+      "list": "ABEMA",
+      "line": 22
+    }
+  },
+  {
+    "type": "full",
+    "value": "vod-abematv.akamaized.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:vod-abematv.akamaized.net",
+    "source": {
+      "list": "ABEMA",
+      "line": 23
+    }
+  }
+]

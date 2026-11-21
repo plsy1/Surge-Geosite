@@ -1,0 +1,257 @@
+[
+  {
+    "type": "domain",
+    "value": "g-technology.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:g-technology.com",
+    "source": {
+      "list": "WESTERNDIGITAL",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sandisk.ae",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sandisk.ae",
+    "source": {
+      "list": "WESTERNDIGITAL",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sandisk.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:sandisk.cn:@cn",
+    "source": {
+      "list": "WESTERNDIGITAL",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sandisk.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sandisk.co.jp",
+    "source": {
+      "list": "WESTERNDIGITAL",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sandisk.co.kr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sandisk.co.kr",
+    "source": {
+      "list": "WESTERNDIGITAL",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sandisk.co.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sandisk.co.uk",
+    "source": {
+      "list": "WESTERNDIGITAL",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sandisk.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sandisk.com",
+    "source": {
+      "list": "WESTERNDIGITAL",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sandisk.com.au",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sandisk.com.au",
+    "source": {
+      "list": "WESTERNDIGITAL",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sandisk.com.br",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sandisk.com.br",
+    "source": {
+      "list": "WESTERNDIGITAL",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sandisk.com.tr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sandisk.com.tr",
+    "source": {
+      "list": "WESTERNDIGITAL",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sandisk.com.tw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sandisk.com.tw",
+    "source": {
+      "list": "WESTERNDIGITAL",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sandisk.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sandisk.de",
+    "source": {
+      "list": "WESTERNDIGITAL",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sandisk.es",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sandisk.es",
+    "source": {
+      "list": "WESTERNDIGITAL",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sandisk.fr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sandisk.fr",
+    "source": {
+      "list": "WESTERNDIGITAL",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sandisk.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sandisk.hk",
+    "source": {
+      "list": "WESTERNDIGITAL",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sandisk.id",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sandisk.id",
+    "source": {
+      "list": "WESTERNDIGITAL",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sandisk.in",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sandisk.in",
+    "source": {
+      "list": "WESTERNDIGITAL",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sandisk.it",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sandisk.it",
+    "source": {
+      "list": "WESTERNDIGITAL",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sandisk.nl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sandisk.nl",
+    "source": {
+      "list": "WESTERNDIGITAL",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sandisk.sg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sandisk.sg",
+    "source": {
+      "list": "WESTERNDIGITAL",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wd.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wd.com",
+    "source": {
+      "list": "WESTERNDIGITAL",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wdc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wdc.com",
+    "source": {
+      "list": "WESTERNDIGITAL",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "westerndigital.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:westerndigital.com",
+    "source": {
+      "list": "WESTERNDIGITAL",
+      "line": 23
+    }
+  }
+]

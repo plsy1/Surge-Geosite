@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "lisiku.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lisiku.com",
+    "source": {
+      "list": "LISIKU",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "lisiku1.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:lisiku1.com",
+    "source": {
+      "list": "LISIKU",
+      "line": 2
+    }
+  }
+]

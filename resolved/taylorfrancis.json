@@ -1,0 +1,46 @@
+[
+  {
+    "type": "domain",
+    "value": "tandf.co.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tandf.co.uk",
+    "source": {
+      "list": "TAYLORFRANCIS",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tandfonline.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tandfonline.com",
+    "source": {
+      "list": "TAYLORFRANCIS",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "taylorandfrancis.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:taylorandfrancis.com",
+    "source": {
+      "list": "TAYLORFRANCIS",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "taylorfrancis.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:taylorfrancis.com",
+    "source": {
+      "list": "TAYLORFRANCIS",
+      "line": 4
+    }
+  }
+]

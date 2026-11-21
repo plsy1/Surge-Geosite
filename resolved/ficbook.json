@@ -1,0 +1,68 @@
+[
+  {
+    "type": "domain",
+    "value": "fanfictionero.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fanfictionero.com",
+    "source": {
+      "list": "FICBOOK",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fic.fan",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fic.fan",
+    "source": {
+      "list": "FICBOOK",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ficador.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ficador.com",
+    "source": {
+      "list": "FICBOOK",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ficbook.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ficbook.net",
+    "source": {
+      "list": "FICBOOK",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ficmania.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ficmania.com",
+    "source": {
+      "list": "FICBOOK",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "teinon.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:teinon.net",
+    "source": {
+      "list": "FICBOOK",
+      "line": 6
+    }
+  }
+]

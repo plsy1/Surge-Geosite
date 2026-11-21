@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "newgrounds.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:newgrounds.com",
+    "source": {
+      "list": "NEWGROUNDS",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ngfiles.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ngfiles.com",
+    "source": {
+      "list": "NEWGROUNDS",
+      "line": 2
+    }
+  }
+]

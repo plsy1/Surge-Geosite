@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "spiceworks.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:spiceworks.com",
+    "source": {
+      "list": "SPICEWORKS",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "spiceworksstatic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:spiceworksstatic.com",
+    "source": {
+      "list": "SPICEWORKS",
+      "line": 2
+    }
+  }
+]

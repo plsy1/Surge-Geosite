@@ -1,0 +1,820 @@
+[
+  {
+    "type": "domain",
+    "value": "adobe-crl.verisign.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:adobe-crl.verisign.com",
+    "source": {
+      "list": "VERISIGN-PKI",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "certipath-aia.verisign.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:certipath-aia.verisign.com",
+    "source": {
+      "list": "VERISIGN-PKI",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "certipath-crl.verisign.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:certipath-crl.verisign.com",
+    "source": {
+      "list": "VERISIGN-PKI",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "crl.verisign.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:crl.verisign.com",
+    "source": {
+      "list": "VERISIGN-PKI",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "csc3-2004-aia.verisign.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:csc3-2004-aia.verisign.com",
+    "source": {
+      "list": "VERISIGN-PKI",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "csc3-2004-crl.verisign.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:csc3-2004-crl.verisign.com",
+    "source": {
+      "list": "VERISIGN-PKI",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "csc3-2009-2-aia.verisign.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:csc3-2009-2-aia.verisign.com",
+    "source": {
+      "list": "VERISIGN-PKI",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "csc3-2009-2-crl.verisign.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:csc3-2009-2-crl.verisign.com",
+    "source": {
+      "list": "VERISIGN-PKI",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "csc3-2009-aia.verisign.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:csc3-2009-aia.verisign.com",
+    "source": {
+      "list": "VERISIGN-PKI",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "csc3-2009-crl.verisign.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:csc3-2009-crl.verisign.com",
+    "source": {
+      "list": "VERISIGN-PKI",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "csc3-2010-aia.verisign.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:csc3-2010-aia.verisign.com",
+    "source": {
+      "list": "VERISIGN-PKI",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "csc3-2010-crl.verisign.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:csc3-2010-crl.verisign.com",
+    "source": {
+      "list": "VERISIGN-PKI",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cybertrust.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cybertrust.co.jp",
+    "source": {
+      "list": "CYBERTRUST",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cybertrust.ne.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cybertrust.ne.jp",
+    "source": {
+      "list": "CYBERTRUST",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dcocsp.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:dcocsp.cn:@cn",
+    "source": {
+      "list": "DIGICERT",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "digicert-cn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:digicert-cn.com",
+    "source": {
+      "list": "DIGICERT",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "digicert-validation.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:digicert-validation.com",
+    "source": {
+      "list": "DIGICERT",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "digicert.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:digicert.cn:@cn",
+    "source": {
+      "list": "DIGICERT",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "digicert.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:digicert.co.jp",
+    "source": {
+      "list": "DIGICERT",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "digicert.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:digicert.com",
+    "source": {
+      "list": "DIGICERT",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "digicert.eu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:digicert.eu",
+    "source": {
+      "list": "DIGICERT",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "digitalcertvalidation.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:digitalcertvalidation.com",
+    "source": {
+      "list": "DIGICERT",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "eca-client-crl.verisign.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:eca-client-crl.verisign.com",
+    "source": {
+      "list": "VERISIGN-PKI",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "eca-client-ocsp.verisign.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:eca-client-ocsp.verisign.com",
+    "source": {
+      "list": "VERISIGN-PKI",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "evintl-aia.verisign.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:evintl-aia.verisign.com",
+    "source": {
+      "list": "VERISIGN-PKI",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "evintl-crl.verisign.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:evintl-crl.verisign.com",
+    "source": {
+      "list": "VERISIGN-PKI",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "evintl-ocsp.verisign.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:evintl-ocsp.verisign.com",
+    "source": {
+      "list": "VERISIGN-PKI",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "evintl-t1-crl.verisign.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:evintl-t1-crl.verisign.com",
+    "source": {
+      "list": "VERISIGN-PKI",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "evsecure-aia.verisign.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:evsecure-aia.verisign.com",
+    "source": {
+      "list": "VERISIGN-PKI",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "evsecure-crl.verisign.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:evsecure-crl.verisign.com",
+    "source": {
+      "list": "VERISIGN-PKI",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "evsecure-ocsp.verisign.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:evsecure-ocsp.verisign.com",
+    "source": {
+      "list": "VERISIGN-PKI",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "evsecure-t1-aia.verisign.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:evsecure-t1-aia.verisign.com",
+    "source": {
+      "list": "VERISIGN-PKI",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "evsecure-t1-crl.verisign.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:evsecure-t1-crl.verisign.com",
+    "source": {
+      "list": "VERISIGN-PKI",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "freessl.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:freessl.com",
+    "source": {
+      "list": "DIGICERT",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "geotrust.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:geotrust.com",
+    "source": {
+      "list": "DIGICERT",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ocsp.verisign.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ocsp.verisign.com",
+    "source": {
+      "list": "VERISIGN-PKI",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "omniroot.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:omniroot.com",
+    "source": {
+      "list": "DIGICERT",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "onsitecrl.verisign.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:onsitecrl.verisign.com",
+    "source": {
+      "list": "VERISIGN-PKI",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "orgc3-crl.verisign.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:orgc3-crl.verisign.com",
+    "source": {
+      "list": "VERISIGN-PKI",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pki-ocsp.verisign.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pki-ocsp.verisign.com",
+    "source": {
+      "list": "VERISIGN-PKI",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pki.symantec.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pki.symantec.com",
+    "source": {
+      "list": "SYMANTEC-PKI",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "public-trust.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:public-trust.com",
+    "source": {
+      "list": "DIGICERT",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "quovadisglobal.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:quovadisglobal.com",
+    "source": {
+      "list": "DIGICERT",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rapidssl.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rapidssl.com",
+    "source": {
+      "list": "DIGICERT",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ssp-aia.verisign.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ssp-aia.verisign.com",
+    "source": {
+      "list": "VERISIGN-PKI",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ssp-crl.verisign.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ssp-crl.verisign.com",
+    "source": {
+      "list": "VERISIGN-PKI",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ssp-ocsp.verisign.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ssp-ocsp.verisign.com",
+    "source": {
+      "list": "VERISIGN-PKI",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "svr-wimax-ocsp.verisign.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:svr-wimax-ocsp.verisign.com",
+    "source": {
+      "list": "VERISIGN-PKI",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "svrintl-aia.verisign.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:svrintl-aia.verisign.com",
+    "source": {
+      "list": "VERISIGN-PKI",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "svrintl-crl.verisign.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:svrintl-crl.verisign.com",
+    "source": {
+      "list": "VERISIGN-PKI",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "svrintl-g3-aia.verisign.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:svrintl-g3-aia.verisign.com",
+    "source": {
+      "list": "VERISIGN-PKI",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "svrintl-g3-crl.verisign.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:svrintl-g3-crl.verisign.com",
+    "source": {
+      "list": "VERISIGN-PKI",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "svrintl-t1-aia.verisign.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:svrintl-t1-aia.verisign.com",
+    "source": {
+      "list": "VERISIGN-PKI",
+      "line": 37
+    }
+  },
+  {
+    "type": "domain",
+    "value": "svrintl-t1-crl.verisign.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:svrintl-t1-crl.verisign.com",
+    "source": {
+      "list": "VERISIGN-PKI",
+      "line": 38
+    }
+  },
+  {
+    "type": "domain",
+    "value": "svrsecure-aia.verisign.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:svrsecure-aia.verisign.com",
+    "source": {
+      "list": "VERISIGN-PKI",
+      "line": 39
+    }
+  },
+  {
+    "type": "domain",
+    "value": "svrsecure-crl.verisign.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:svrsecure-crl.verisign.com",
+    "source": {
+      "list": "VERISIGN-PKI",
+      "line": 40
+    }
+  },
+  {
+    "type": "domain",
+    "value": "svrsecure-g2-aia.verisign.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:svrsecure-g2-aia.verisign.com",
+    "source": {
+      "list": "VERISIGN-PKI",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "svrsecure-g2-crl.verisign.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:svrsecure-g2-crl.verisign.com",
+    "source": {
+      "list": "VERISIGN-PKI",
+      "line": 42
+    }
+  },
+  {
+    "type": "domain",
+    "value": "svrsecure-g3-aia.verisign.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:svrsecure-g3-aia.verisign.com",
+    "source": {
+      "list": "VERISIGN-PKI",
+      "line": 43
+    }
+  },
+  {
+    "type": "domain",
+    "value": "svrsecure-g3-crl.verisign.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:svrsecure-g3-crl.verisign.com",
+    "source": {
+      "list": "VERISIGN-PKI",
+      "line": 44
+    }
+  },
+  {
+    "type": "domain",
+    "value": "svrsecure-oracle-aia.verisign.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:svrsecure-oracle-aia.verisign.com",
+    "source": {
+      "list": "VERISIGN-PKI",
+      "line": 45
+    }
+  },
+  {
+    "type": "domain",
+    "value": "svrsecure-oracle-crl.verisign.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:svrsecure-oracle-crl.verisign.com",
+    "source": {
+      "list": "VERISIGN-PKI",
+      "line": 46
+    }
+  },
+  {
+    "type": "domain",
+    "value": "svrsecure-oracle-ocsp.verisign.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:svrsecure-oracle-ocsp.verisign.com",
+    "source": {
+      "list": "VERISIGN-PKI",
+      "line": 47
+    }
+  },
+  {
+    "type": "domain",
+    "value": "svrsecure-t1-aia.verisign.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:svrsecure-t1-aia.verisign.com",
+    "source": {
+      "list": "VERISIGN-PKI",
+      "line": 48
+    }
+  },
+  {
+    "type": "domain",
+    "value": "svrsecure-t1-crl.verisign.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:svrsecure-t1-crl.verisign.com",
+    "source": {
+      "list": "VERISIGN-PKI",
+      "line": 49
+    }
+  },
+  {
+    "type": "domain",
+    "value": "svrtrial-g2-aia.verisign.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:svrtrial-g2-aia.verisign.com",
+    "source": {
+      "list": "VERISIGN-PKI",
+      "line": 50
+    }
+  },
+  {
+    "type": "domain",
+    "value": "svrtrial-g2-crl.verisign.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:svrtrial-g2-crl.verisign.com",
+    "source": {
+      "list": "VERISIGN-PKI",
+      "line": 51
+    }
+  },
+  {
+    "type": "domain",
+    "value": "symauth.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:symauth.com",
+    "source": {
+      "list": "SYMANTEC-PKI",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "symcb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:symcb.com",
+    "source": {
+      "list": "SYMANTEC-PKI",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "symcd.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:symcd.com",
+    "source": {
+      "list": "SYMANTEC-PKI",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "thawte.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:thawte.com",
+    "source": {
+      "list": "DIGICERT",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "thawte.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:thawte.de",
+    "source": {
+      "list": "DIGICERT",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "thawte.fr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:thawte.fr",
+    "source": {
+      "list": "DIGICERT",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ws.symantec.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ws.symantec.com",
+    "source": {
+      "list": "SYMANTEC-PKI",
+      "line": 6
+    }
+  }
+]
