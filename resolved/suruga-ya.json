@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "suruga-ya.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:suruga-ya.com",
+    "source": {
+      "list": "SURUGA-YA",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "suruga-ya.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:suruga-ya.jp",
+    "source": {
+      "list": "SURUGA-YA",
+      "line": 2
+    }
+  }
+]

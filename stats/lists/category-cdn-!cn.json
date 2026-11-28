@@ -1,0 +1,60 @@
+{
+  "name": "CATEGORY-CDN-!CN",
+  "source": {
+    "domain": 8,
+    "full": 0,
+    "keyword": 0,
+    "regexp": 0,
+    "include": 11,
+    "affiliations": 0,
+    "attributes": 0
+  },
+  "resolved": {
+    "rules": 197,
+    "domain": 197,
+    "full": 0,
+    "keyword": 0,
+    "regexp": 0
+  },
+  "filters": {
+    "attrs": {
+      "cn": 30,
+      "telemetry": 3
+    }
+  },
+  "modes": {
+    "strict": {
+      "rules": 197,
+      "bytes": 5841,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "balanced": {
+      "rules": 197,
+      "bytes": 5841,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "full": {
+      "rules": 197,
+      "bytes": 5841,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "name": "MICROSOFT-DEV",
+  "source": {
+    "domain": 58,
+    "full": 22,
+    "keyword": 0,
+    "regexp": 0,
+    "include": 0,
+    "affiliations": 0,
+    "attributes": 7
+  },
+  "resolved": {
+    "rules": 80,
+    "domain": 58,
+    "full": 22,
+    "keyword": 0,
+    "regexp": 0
+  },
+  "filters": {
+    "attrs": {
+      "cn": 5,
+      "telemetry": 2
+    }
+  },
+  "modes": {
+    "strict": {
+      "rules": 80,
+      "bytes": 2615,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "balanced": {
+      "rules": 80,
+      "bytes": 2615,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "full": {
+      "rules": 80,
+      "bytes": 2615,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    }
+  }
+}

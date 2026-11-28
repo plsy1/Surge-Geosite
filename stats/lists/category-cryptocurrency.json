@@ -1,0 +1,59 @@
+{
+  "name": "CATEGORY-CRYPTOCURRENCY",
+  "source": {
+    "domain": 97,
+    "full": 0,
+    "keyword": 0,
+    "regexp": 0,
+    "include": 25,
+    "affiliations": 0,
+    "attributes": 0
+  },
+  "resolved": {
+    "rules": 241,
+    "domain": 233,
+    "full": 8,
+    "keyword": 0,
+    "regexp": 0
+  },
+  "filters": {
+    "attrs": {
+      "cn": 1
+    }
+  },
+  "modes": {
+    "strict": {
+      "rules": 241,
+      "bytes": 6579,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "balanced": {
+      "rules": 241,
+      "bytes": 6579,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "full": {
+      "rules": 241,
+      "bytes": 6579,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    }
+  }
+}

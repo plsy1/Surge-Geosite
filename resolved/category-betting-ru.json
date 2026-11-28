@@ -1,0 +1,145 @@
+[
+  {
+    "type": "domain",
+    "value": "betboom.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:betboom.ru",
+    "source": {
+      "list": "BETBOOM",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bk6bba-resources.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bk6bba-resources.com",
+    "source": {
+      "list": "FONBET",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bk6bba-resources.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bk6bba-resources.ru",
+    "source": {
+      "list": "FONBET",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fon.bet",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fon.bet",
+    "source": {
+      "list": "FONBET",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fon.promo",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fon.promo",
+    "source": {
+      "list": "FONBET",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ligadobra.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ligadobra.ru",
+    "source": {
+      "list": "LIGASTAVOK",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ligastavok-csr.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ligastavok-csr.ru",
+    "source": {
+      "list": "LIGASTAVOK",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ligastavok.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ligastavok.ru",
+    "source": {
+      "list": "LIGASTAVOK",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mobile-bb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mobile-bb.com",
+    "source": {
+      "list": "BETBOOM",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sozvezdie-dobra.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sozvezdie-dobra.ru",
+    "source": {
+      "list": "LIGASTAVOK",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "win-line.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:win-line.ru",
+    "source": {
+      "list": "WINLINE",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "winline.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:winline.ru",
+    "source": {
+      "list": "WINLINE",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "winlinebet.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:winlinebet.ru",
+    "source": {
+      "list": "WINLINE",
+      "line": 3
+    }
+  }
+]

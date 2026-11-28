@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "maoyun.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:maoyun.com",
+    "source": {
+      "list": "MAOCLOUD",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "maoyuncloud.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:maoyuncloud.cn",
+    "source": {
+      "list": "MAOCLOUD",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "maoyuncloud.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:maoyuncloud.com",
+    "source": {
+      "list": "MAOCLOUD",
+      "line": 3
+    }
+  }
+]

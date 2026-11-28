@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "nist.gov",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nist.gov",
+    "source": {
+      "list": "NIST",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "time.gov",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:time.gov",
+    "source": {
+      "list": "NIST",
+      "line": 2
+    }
+  }
+]

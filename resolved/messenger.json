@@ -1,0 +1,46 @@
+[
+  {
+    "type": "domain",
+    "value": "fbmessenger.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fbmessenger.com",
+    "source": {
+      "list": "MESSENGER",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "m.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:m.me",
+    "source": {
+      "list": "MESSENGER",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "messenger.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:messenger.com",
+    "source": {
+      "list": "MESSENGER",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nbabot.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nbabot.net",
+    "source": {
+      "list": "MESSENGER",
+      "line": 4
+    }
+  }
+]

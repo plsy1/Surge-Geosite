@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "javbus.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:javbus.com",
+    "source": {
+      "list": "JAVBUS",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "javbus22.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:javbus22.com",
+    "source": {
+      "list": "JAVBUS",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "javcdn.cc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:javcdn.cc",
+    "source": {
+      "list": "JAVBUS",
+      "line": 3
+    }
+  }
+]

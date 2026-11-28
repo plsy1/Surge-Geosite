@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "wanfangdata.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wanfangdata.com.cn",
+    "source": {
+      "list": "WANFANG",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wf.pub",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wf.pub",
+    "source": {
+      "list": "WANFANG",
+      "line": 2
+    }
+  }
+]

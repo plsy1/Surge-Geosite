@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "buymeacoff.ee",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:buymeacoff.ee",
+    "source": {
+      "list": "BUYMEACOFFEE",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "buymeacoffee.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:buymeacoffee.com",
+    "source": {
+      "list": "BUYMEACOFFEE",
+      "line": 2
+    }
+  }
+]

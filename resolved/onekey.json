@@ -1,0 +1,46 @@
+[
+  {
+    "type": "domain",
+    "value": "onekey-asset.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:onekey-asset.com",
+    "source": {
+      "list": "ONEKEY",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "onekey.so",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:onekey.so",
+    "source": {
+      "list": "ONEKEY",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "onekeycn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:onekeycn.com",
+    "source": {
+      "list": "ONEKEY",
+      "line": 3
+    }
+  },
+  {
+    "type": "full",
+    "value": "onekey.zendesk.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:onekey.zendesk.com",
+    "source": {
+      "list": "ONEKEY",
+      "line": 5
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "cuinc.oen.tw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cuinc.oen.tw",
+    "source": {
+      "list": "CUINC",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cuinc.tw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cuinc.tw",
+    "source": {
+      "list": "CUINC",
+      "line": 2
+    }
+  }
+]

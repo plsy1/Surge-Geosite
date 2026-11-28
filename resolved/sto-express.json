@@ -1,0 +1,68 @@
+[
+  {
+    "type": "domain",
+    "value": "sto-express.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sto-express.cn",
+    "source": {
+      "list": "STO-EXPRESS",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sto-express.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sto-express.com",
+    "source": {
+      "list": "STO-EXPRESS",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sto-express.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sto-express.com.cn",
+    "source": {
+      "list": "STO-EXPRESS",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sto.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sto.cn",
+    "source": {
+      "list": "STO-EXPRESS",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "stointl.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:stointl.com",
+    "source": {
+      "list": "STO-EXPRESS",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "stosolution.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:stosolution.com",
+    "source": {
+      "list": "STO-EXPRESS",
+      "line": 8
+    }
+  }
+]

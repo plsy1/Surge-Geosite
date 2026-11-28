@@ -1,0 +1,26 @@
+[
+  {
+    "type": "domain",
+    "value": "ipip.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ipip.net",
+    "source": {
+      "list": "IPIP",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "myip.la",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:myip.la:@!cn",
+    "source": {
+      "list": "IPIP",
+      "line": 2
+    }
+  }
+]

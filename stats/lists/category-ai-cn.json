@@ -1,0 +1,57 @@
+{
+  "name": "CATEGORY-AI-CN",
+  "source": {
+    "domain": 75,
+    "full": 2,
+    "keyword": 0,
+    "regexp": 0,
+    "include": 5,
+    "affiliations": 0,
+    "attributes": 0
+  },
+  "resolved": {
+    "rules": 129,
+    "domain": 127,
+    "full": 2,
+    "keyword": 0,
+    "regexp": 0
+  },
+  "filters": {
+    "attrs": {}
+  },
+  "modes": {
+    "strict": {
+      "rules": 129,
+      "bytes": 3481,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "balanced": {
+      "rules": 129,
+      "bytes": 3481,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "full": {
+      "rules": 129,
+      "bytes": 3481,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    }
+  }
+}

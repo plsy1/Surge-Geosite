@@ -1,0 +1,46 @@
+[
+  {
+    "type": "domain",
+    "value": "hoopchina.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hoopchina.com.cn",
+    "source": {
+      "list": "HUPU",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hupu.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hupu.com",
+    "source": {
+      "list": "HUPU",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hupucdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hupucdn.com",
+    "source": {
+      "list": "HUPU",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "shihuo.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:shihuo.cn",
+    "source": {
+      "list": "HUPU",
+      "line": 4
+    }
+  }
+]

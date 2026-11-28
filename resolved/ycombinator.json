@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "startupschool.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:startupschool.org",
+    "source": {
+      "list": "YCOMBINATOR",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ycombinator.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ycombinator.com",
+    "source": {
+      "list": "YCOMBINATOR",
+      "line": 2
+    }
+  }
+]

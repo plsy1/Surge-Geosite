@@ -1,0 +1,123 @@
+[
+  {
+    "type": "domain",
+    "value": "apkcombo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:apkcombo.com",
+    "source": {
+      "list": "APKCOMBO",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "apkmirror.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:apkmirror.com",
+    "source": {
+      "list": "APKMIRROR",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "apkpure.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:apkpure.com",
+    "source": {
+      "list": "APKPURE",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "apkpure.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:apkpure.net",
+    "source": {
+      "list": "APKPURE",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "apkpures.xyz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:apkpures.xyz",
+    "source": {
+      "list": "APKPURE",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cdnpure.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cdnpure.com",
+    "source": {
+      "list": "APKPURE",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pureapk.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pureapk.com",
+    "source": {
+      "list": "APKPURE",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "uptodown.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:uptodown.com",
+    "source": {
+      "list": "CATEGORY-ANDROID-APP-DOWNLOAD",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "utdstc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:utdstc.com",
+    "source": {
+      "list": "CATEGORY-ANDROID-APP-DOWNLOAD",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "winudf.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:winudf.com",
+    "source": {
+      "list": "APKPURE",
+      "line": 6
+    }
+  },
+  {
+    "type": "full",
+    "value": "apkmirror.disqus.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:apkmirror.disqus.com",
+    "source": {
+      "list": "APKMIRROR",
+      "line": 3
+    }
+  }
+]

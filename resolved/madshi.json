@@ -1,0 +1,46 @@
+[
+  {
+    "type": "domain",
+    "value": "madshi.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:madshi.net",
+    "source": {
+      "list": "MADSHI",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "madvr.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:madvr.com",
+    "source": {
+      "list": "MADSHI",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "madvr.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:madvr.net",
+    "source": {
+      "list": "MADSHI",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "madvrlabs.llc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:madvrlabs.llc",
+    "source": {
+      "list": "MADSHI",
+      "line": 4
+    }
+  }
+]

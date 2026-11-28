@@ -1,0 +1,13 @@
+[
+  {
+    "type": "domain",
+    "value": "ping.pe",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ping.pe",
+    "source": {
+      "list": "PINGPE",
+      "line": 1
+    }
+  }
+]

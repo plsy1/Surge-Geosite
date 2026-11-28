@@ -1,0 +1,67 @@
+{
+  "name": "VIU",
+  "source": {
+    "domain": 2,
+    "full": 4,
+    "keyword": 0,
+    "regexp": 1,
+    "include": 0,
+    "affiliations": 0,
+    "attributes": 0
+  },
+  "resolved": {
+    "rules": 7,
+    "domain": 2,
+    "full": 4,
+    "keyword": 0,
+    "regexp": 1
+  },
+  "filters": {
+    "attrs": {}
+  },
+  "modes": {
+    "strict": {
+      "rules": 6,
+      "bytes": 175,
+      "regex": {
+        "total": 1,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 1
+      },
+      "unsupported": [
+        {
+          "pattern": "^ewcdn[0-9]+\\.nowe\\.com$",
+          "source": {
+            "list": "VIU",
+            "line": 4
+          },
+          "reason": "Pattern is not losslessly representable in Surge domain rules.",
+          "mode": "strict"
+        }
+      ]
+    },
+    "balanced": {
+      "rules": 7,
+      "bytes": 207,
+      "regex": {
+        "total": 1,
+        "lossless": 0,
+        "widened": 1,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "full": {
+      "rules": 7,
+      "bytes": 207,
+      "regex": {
+        "total": 1,
+        "lossless": 0,
+        "widened": 1,
+        "unsupported": 0
+      },
+      "unsupported": []
+    }
+  }
+}

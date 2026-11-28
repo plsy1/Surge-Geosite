@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "ted.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ted.com",
+    "source": {
+      "list": "TED",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tedcdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tedcdn.com",
+    "source": {
+      "list": "TED",
+      "line": 2
+    }
+  }
+]

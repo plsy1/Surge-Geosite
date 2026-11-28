@@ -1,0 +1,60 @@
+{
+  "name": "CATEGORY-IP-GEO-DETECT",
+  "source": {
+    "domain": 1539,
+    "full": 105,
+    "keyword": 0,
+    "regexp": 0,
+    "include": 2,
+    "affiliations": 0,
+    "attributes": 53
+  },
+  "resolved": {
+    "rules": 1682,
+    "domain": 1577,
+    "full": 105,
+    "keyword": 0,
+    "regexp": 0
+  },
+  "filters": {
+    "attrs": {
+      "cn": 54,
+      "!cn": 1
+    }
+  },
+  "modes": {
+    "strict": {
+      "rules": 1682,
+      "bytes": 44062,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "balanced": {
+      "rules": 1682,
+      "bytes": 44062,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "full": {
+      "rules": 1682,
+      "bytes": 44062,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    }
+  }
+}

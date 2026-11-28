@@ -1,0 +1,46 @@
+[
+  {
+    "type": "domain",
+    "value": "newcoder.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:newcoder.com",
+    "source": {
+      "list": "NOWCODER",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nowcoder.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nowcoder.com",
+    "source": {
+      "list": "NOWCODER",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nowcoder.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nowcoder.net",
+    "source": {
+      "list": "NOWCODER",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nowcoder.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nowcoder.org",
+    "source": {
+      "list": "NOWCODER",
+      "line": 4
+    }
+  }
+]

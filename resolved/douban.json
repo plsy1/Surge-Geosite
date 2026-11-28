@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "douban.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:douban.com",
+    "source": {
+      "list": "DOUBAN",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "douban.fm",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:douban.fm",
+    "source": {
+      "list": "DOUBAN",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "doubanio.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:doubanio.com",
+    "source": {
+      "list": "DOUBAN",
+      "line": 3
+    }
+  }
+]

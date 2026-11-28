@@ -1,0 +1,68 @@
+[
+  {
+    "type": "domain",
+    "value": "pycon.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pycon.org",
+    "source": {
+      "list": "PYTHON",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pypa.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pypa.io",
+    "source": {
+      "list": "PYTHON",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pypi.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pypi.io",
+    "source": {
+      "list": "PYTHON",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pypi.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pypi.org",
+    "source": {
+      "list": "PYTHON",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "python.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:python.org",
+    "source": {
+      "list": "PYTHON",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "pythonhosted.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:pythonhosted.org",
+    "source": {
+      "list": "PYTHON",
+      "line": 6
+    }
+  }
+]

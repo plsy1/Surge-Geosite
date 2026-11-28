@@ -1,0 +1,212 @@
+[
+  {
+    "type": "domain",
+    "value": "arknights.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:arknights.com",
+    "source": {
+      "list": "HYPERGRYPH",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "arknights.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:arknights.com.cn",
+    "source": {
+      "list": "HYPERGRYPH",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gryphline.cn",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:gryphline.cn:@!cn",
+    "source": {
+      "list": "HYPERGRYPH",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gryphline.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:gryphline.com:@!cn",
+    "source": {
+      "list": "HYPERGRYPH",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gryphline.com.cn",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:gryphline.com.cn:@!cn",
+    "source": {
+      "list": "HYPERGRYPH",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gryphline.net",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:gryphline.net:@!cn",
+    "source": {
+      "list": "HYPERGRYPH",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hg-cdn.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:hg-cdn.com:@!cn",
+    "source": {
+      "list": "HYPERGRYPH",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hgto.cc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hgto.cc",
+    "source": {
+      "list": "HYPERGRYPH",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hycdn.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hycdn.cn",
+    "source": {
+      "list": "HYPERGRYPH",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hycdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hycdn.com",
+    "source": {
+      "list": "HYPERGRYPH",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hypergryph.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hypergryph.cn",
+    "source": {
+      "list": "HYPERGRYPH",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hypergryph.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hypergryph.com",
+    "source": {
+      "list": "HYPERGRYPH",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hypergryph.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hypergryph.com.cn",
+    "source": {
+      "list": "HYPERGRYPH",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hypergryph.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hypergryph.net",
+    "source": {
+      "list": "HYPERGRYPH",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "octavedge.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:octavedge.com",
+    "source": {
+      "list": "HYPERGRYPH",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "skland.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:skland.com",
+    "source": {
+      "list": "HYPERGRYPH",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "skland.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:skland.net",
+    "source": {
+      "list": "HYPERGRYPH",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "skport.com",
+    "attrs": [
+      "!cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:skport.com:@!cn",
+    "source": {
+      "list": "HYPERGRYPH",
+      "line": 27
+    }
+  }
+]

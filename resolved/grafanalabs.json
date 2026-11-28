@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "grafana.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:grafana.com",
+    "source": {
+      "list": "GRAFANALABS",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "grafana.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:grafana.net",
+    "source": {
+      "list": "GRAFANALABS",
+      "line": 2
+    }
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "type": "domain",
+    "value": "qwant.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qwant.com",
+    "source": {
+      "list": "QWANT",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qwant.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qwant.de",
+    "source": {
+      "list": "QWANT",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qwant.fr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qwant.fr",
+    "source": {
+      "list": "QWANT",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qwant.it",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qwant.it",
+    "source": {
+      "list": "QWANT",
+      "line": 4
+    }
+  }
+]

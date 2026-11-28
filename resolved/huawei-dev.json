@@ -1,0 +1,255 @@
+[
+  {
+    "type": "domain",
+    "value": "bisheng.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bisheng.cn",
+    "source": {
+      "list": "HUAWEI-DEV",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bishengcompiler.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bishengcompiler.cn",
+    "source": {
+      "list": "HUAWEI-DEV",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "devui.design",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:devui.design",
+    "source": {
+      "list": "HUAWEI-DEV",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gneec.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gneec.com",
+    "source": {
+      "list": "HUAWEI-DEV",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gneec.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gneec.com.cn",
+    "source": {
+      "list": "HUAWEI-DEV",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gneec3.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gneec3.com",
+    "source": {
+      "list": "HUAWEI-DEV",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gneec4.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gneec4.com",
+    "source": {
+      "list": "HUAWEI-DEV",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gneec7.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gneec7.com",
+    "source": {
+      "list": "HUAWEI-DEV",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "harmonyos.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:harmonyos.com",
+    "source": {
+      "list": "HUAWEI-DEV",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hiascend.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hiascend.cn",
+    "source": {
+      "list": "HUAWEI-DEV",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hiascend.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hiascend.com",
+    "source": {
+      "list": "HUAWEI-DEV",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hiclc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hiclc.com",
+    "source": {
+      "list": "HUAWEI-DEV",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hikunpeng.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hikunpeng.cn",
+    "source": {
+      "list": "HUAWEI-DEV",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hikunpeng.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hikunpeng.com",
+    "source": {
+      "list": "HUAWEI-DEV",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hikunpeng.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hikunpeng.com.cn",
+    "source": {
+      "list": "HUAWEI-DEV",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hikunpeng.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hikunpeng.net",
+    "source": {
+      "list": "HUAWEI-DEV",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hisilicon.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hisilicon.com",
+    "source": {
+      "list": "HUAWEI-DEV",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hisilicon.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hisilicon.com.cn",
+    "source": {
+      "list": "HUAWEI-DEV",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "huaweiapaas.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:huaweiapaas.com",
+    "source": {
+      "list": "HUAWEI-DEV",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mindspore.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mindspore.cn",
+    "source": {
+      "list": "HUAWEI-DEV",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "owsgo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:owsgo.com",
+    "source": {
+      "list": "HUAWEI-DEV",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "saasops.tech",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:saasops.tech",
+    "source": {
+      "list": "HUAWEI-DEV",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "teleows.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:teleows.com",
+    "source": {
+      "list": "HUAWEI-DEV",
+      "line": 23
+    }
+  }
+]

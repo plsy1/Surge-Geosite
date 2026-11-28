@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "nyaa.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nyaa.net",
+    "source": {
+      "list": "NYAA",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nyaa.si",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nyaa.si",
+    "source": {
+      "list": "NYAA",
+      "line": 2
+    }
+  }
+]

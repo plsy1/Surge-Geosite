@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "setn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:setn.com",
+    "source": {
+      "list": "SETN",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "settv.com.tw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:settv.com.tw",
+    "source": {
+      "list": "SETN",
+      "line": 2
+    }
+  }
+]

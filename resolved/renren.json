@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "renren-inc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:renren-inc.com",
+    "source": {
+      "list": "RENREN",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "renren.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:renren.com",
+    "source": {
+      "list": "RENREN",
+      "line": 1
+    }
+  }
+]

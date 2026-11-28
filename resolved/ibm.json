@@ -1,0 +1,222 @@
+[
+  {
+    "type": "domain",
+    "value": "appdomain.cloud",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:appdomain.cloud",
+    "source": {
+      "list": "IBM",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bluemix.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bluemix.com",
+    "source": {
+      "list": "IBM",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bluemix.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bluemix.net",
+    "source": {
+      "list": "IBM",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "consul.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:consul.io",
+    "source": {
+      "list": "HASHICORP",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hashicorp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hashicorp.com",
+    "source": {
+      "list": "HASHICORP",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ibm",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ibm",
+    "source": {
+      "list": "IBM",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ibm.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ibm.com",
+    "source": {
+      "list": "IBM",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ibm.eu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ibm.eu",
+    "source": {
+      "list": "IBM",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ibm.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ibm.net",
+    "source": {
+      "list": "IBM",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ibm.us",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ibm.us",
+    "source": {
+      "list": "IBM",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nomadproject.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nomadproject.io",
+    "source": {
+      "list": "HASHICORP",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "packer.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:packer.io",
+    "source": {
+      "list": "HASHICORP",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "s-bluemix.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:s-bluemix.net",
+    "source": {
+      "list": "IBM",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "s81c.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:s81c.com",
+    "source": {
+      "list": "IBM",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "terraform.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:terraform.io",
+    "source": {
+      "list": "HASHICORP",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vagrantcloud.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vagrantcloud.com",
+    "source": {
+      "list": "HASHICORP",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vagrantup.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vagrantup.com",
+    "source": {
+      "list": "HASHICORP",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vaultproject.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vaultproject.io",
+    "source": {
+      "list": "HASHICORP",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "weather",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:weather",
+    "source": {
+      "list": "IBM",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "weatherchannel",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:weatherchannel",
+    "source": {
+      "list": "IBM",
+      "line": 7
+    }
+  }
+]

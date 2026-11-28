@@ -1,0 +1,46 @@
+[
+  {
+    "type": "domain",
+    "value": "arphic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:arphic.com",
+    "source": {
+      "list": "ARPHIC",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "arphic.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:arphic.com.cn",
+    "source": {
+      "list": "ARPHIC",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "arphic.com.tw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:arphic.com.tw",
+    "source": {
+      "list": "ARPHIC",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ifontcloud.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ifontcloud.com",
+    "source": {
+      "list": "ARPHIC",
+      "line": 6
+    }
+  }
+]

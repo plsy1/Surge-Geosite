@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "capitalonline.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:capitalonline.net",
+    "source": {
+      "list": "CAPITALONLINE",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mirrors.yun-idc.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mirrors.yun-idc.com",
+    "source": {
+      "list": "CAPITALONLINE",
+      "line": 2
+    }
+  }
+]

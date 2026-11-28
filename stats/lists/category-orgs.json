@@ -1,0 +1,59 @@
+{
+  "name": "CATEGORY-ORGS",
+  "source": {
+    "domain": 15,
+    "full": 0,
+    "keyword": 0,
+    "regexp": 0,
+    "include": 12,
+    "affiliations": 0,
+    "attributes": 0
+  },
+  "resolved": {
+    "rules": 123,
+    "domain": 121,
+    "full": 2,
+    "keyword": 0,
+    "regexp": 0
+  },
+  "filters": {
+    "attrs": {
+      "telemetry": 1
+    }
+  },
+  "modes": {
+    "strict": {
+      "rules": 123,
+      "bytes": 3488,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "balanced": {
+      "rules": 123,
+      "bytes": 3488,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "full": {
+      "rules": 123,
+      "bytes": 3488,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    }
+  }
+}

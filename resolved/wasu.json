@@ -1,0 +1,68 @@
+[
+  {
+    "type": "domain",
+    "value": "aichongzoo.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aichongzoo.cn",
+    "source": {
+      "list": "WASU",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hzdtv.tv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hzdtv.tv",
+    "source": {
+      "list": "WASU",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "hzman.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:hzman.net",
+    "source": {
+      "list": "WASU",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wasu.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wasu.cn",
+    "source": {
+      "list": "WASU",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wasu.tv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wasu.tv",
+    "source": {
+      "list": "WASU",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "wasumedia.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:wasumedia.cn",
+    "source": {
+      "list": "WASU",
+      "line": 7
+    }
+  }
+]

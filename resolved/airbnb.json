@@ -1,0 +1,915 @@
+[
+  {
+    "type": "domain",
+    "value": "abb.travel",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:abb.travel",
+    "source": {
+      "list": "AIRBNB",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "accomable.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:accomable.com",
+    "source": {
+      "list": "AIRBNB",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airbnb.ae",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airbnb.ae",
+    "source": {
+      "list": "AIRBNB",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airbnb.al",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airbnb.al",
+    "source": {
+      "list": "AIRBNB",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airbnb.am",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airbnb.am",
+    "source": {
+      "list": "AIRBNB",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airbnb.at",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airbnb.at",
+    "source": {
+      "list": "AIRBNB",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airbnb.az",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airbnb.az",
+    "source": {
+      "list": "AIRBNB",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airbnb.ba",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airbnb.ba",
+    "source": {
+      "list": "AIRBNB",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airbnb.be",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airbnb.be",
+    "source": {
+      "list": "AIRBNB",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airbnb.ca",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airbnb.ca",
+    "source": {
+      "list": "AIRBNB",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airbnb.cat",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airbnb.cat",
+    "source": {
+      "list": "AIRBNB",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airbnb.ch",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airbnb.ch",
+    "source": {
+      "list": "AIRBNB",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airbnb.cl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airbnb.cl",
+    "source": {
+      "list": "AIRBNB",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airbnb.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airbnb.cn",
+    "source": {
+      "list": "AIRBNB",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airbnb.co.cr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airbnb.co.cr",
+    "source": {
+      "list": "AIRBNB",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airbnb.co.id",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airbnb.co.id",
+    "source": {
+      "list": "AIRBNB",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airbnb.co.il",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airbnb.co.il",
+    "source": {
+      "list": "AIRBNB",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airbnb.co.in",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airbnb.co.in",
+    "source": {
+      "list": "AIRBNB",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airbnb.co.kr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airbnb.co.kr",
+    "source": {
+      "list": "AIRBNB",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airbnb.co.nz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airbnb.co.nz",
+    "source": {
+      "list": "AIRBNB",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airbnb.co.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airbnb.co.uk",
+    "source": {
+      "list": "AIRBNB",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airbnb.co.ve",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airbnb.co.ve",
+    "source": {
+      "list": "AIRBNB",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airbnb.co.za",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airbnb.co.za",
+    "source": {
+      "list": "AIRBNB",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airbnb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airbnb.com",
+    "source": {
+      "list": "AIRBNB",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airbnb.com.ar",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airbnb.com.ar",
+    "source": {
+      "list": "AIRBNB",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airbnb.com.au",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airbnb.com.au",
+    "source": {
+      "list": "AIRBNB",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airbnb.com.bo",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airbnb.com.bo",
+    "source": {
+      "list": "AIRBNB",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airbnb.com.br",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airbnb.com.br",
+    "source": {
+      "list": "AIRBNB",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airbnb.com.bz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airbnb.com.bz",
+    "source": {
+      "list": "AIRBNB",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airbnb.com.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airbnb.com.co",
+    "source": {
+      "list": "AIRBNB",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airbnb.com.ec",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airbnb.com.ec",
+    "source": {
+      "list": "AIRBNB",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airbnb.com.ee",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airbnb.com.ee",
+    "source": {
+      "list": "AIRBNB",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airbnb.com.gt",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airbnb.com.gt",
+    "source": {
+      "list": "AIRBNB",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airbnb.com.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airbnb.com.hk",
+    "source": {
+      "list": "AIRBNB",
+      "line": 37
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airbnb.com.hn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airbnb.com.hn",
+    "source": {
+      "list": "AIRBNB",
+      "line": 38
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airbnb.com.hr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airbnb.com.hr",
+    "source": {
+      "list": "AIRBNB",
+      "line": 39
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airbnb.com.kh",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airbnb.com.kh",
+    "source": {
+      "list": "AIRBNB",
+      "line": 40
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airbnb.com.mt",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airbnb.com.mt",
+    "source": {
+      "list": "AIRBNB",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airbnb.com.my",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airbnb.com.my",
+    "source": {
+      "list": "AIRBNB",
+      "line": 42
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airbnb.com.ni",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airbnb.com.ni",
+    "source": {
+      "list": "AIRBNB",
+      "line": 43
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airbnb.com.pa",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airbnb.com.pa",
+    "source": {
+      "list": "AIRBNB",
+      "line": 44
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airbnb.com.pe",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airbnb.com.pe",
+    "source": {
+      "list": "AIRBNB",
+      "line": 45
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airbnb.com.ph",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airbnb.com.ph",
+    "source": {
+      "list": "AIRBNB",
+      "line": 46
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airbnb.com.py",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airbnb.com.py",
+    "source": {
+      "list": "AIRBNB",
+      "line": 47
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airbnb.com.ro",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airbnb.com.ro",
+    "source": {
+      "list": "AIRBNB",
+      "line": 48
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airbnb.com.sg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airbnb.com.sg",
+    "source": {
+      "list": "AIRBNB",
+      "line": 49
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airbnb.com.sv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airbnb.com.sv",
+    "source": {
+      "list": "AIRBNB",
+      "line": 50
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airbnb.com.tr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airbnb.com.tr",
+    "source": {
+      "list": "AIRBNB",
+      "line": 51
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airbnb.com.tw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airbnb.com.tw",
+    "source": {
+      "list": "AIRBNB",
+      "line": 52
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airbnb.com.ua",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airbnb.com.ua",
+    "source": {
+      "list": "AIRBNB",
+      "line": 53
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airbnb.com.vn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airbnb.com.vn",
+    "source": {
+      "list": "AIRBNB",
+      "line": 54
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airbnb.cz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airbnb.cz",
+    "source": {
+      "list": "AIRBNB",
+      "line": 55
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airbnb.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airbnb.de",
+    "source": {
+      "list": "AIRBNB",
+      "line": 56
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airbnb.dk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airbnb.dk",
+    "source": {
+      "list": "AIRBNB",
+      "line": 57
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airbnb.es",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airbnb.es",
+    "source": {
+      "list": "AIRBNB",
+      "line": 58
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airbnb.fi",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airbnb.fi",
+    "source": {
+      "list": "AIRBNB",
+      "line": 59
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airbnb.fr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airbnb.fr",
+    "source": {
+      "list": "AIRBNB",
+      "line": 60
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airbnb.gr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airbnb.gr",
+    "source": {
+      "list": "AIRBNB",
+      "line": 61
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airbnb.gy",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airbnb.gy",
+    "source": {
+      "list": "AIRBNB",
+      "line": 62
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airbnb.hu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airbnb.hu",
+    "source": {
+      "list": "AIRBNB",
+      "line": 63
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airbnb.ie",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airbnb.ie",
+    "source": {
+      "list": "AIRBNB",
+      "line": 64
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airbnb.is",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airbnb.is",
+    "source": {
+      "list": "AIRBNB",
+      "line": 65
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airbnb.it",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airbnb.it",
+    "source": {
+      "list": "AIRBNB",
+      "line": 66
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airbnb.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airbnb.jp",
+    "source": {
+      "list": "AIRBNB",
+      "line": 67
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airbnb.la",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airbnb.la",
+    "source": {
+      "list": "AIRBNB",
+      "line": 68
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airbnb.lt",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airbnb.lt",
+    "source": {
+      "list": "AIRBNB",
+      "line": 69
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airbnb.lu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airbnb.lu",
+    "source": {
+      "list": "AIRBNB",
+      "line": 70
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airbnb.lv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airbnb.lv",
+    "source": {
+      "list": "AIRBNB",
+      "line": 71
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airbnb.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airbnb.me",
+    "source": {
+      "list": "AIRBNB",
+      "line": 72
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airbnb.mx",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airbnb.mx",
+    "source": {
+      "list": "AIRBNB",
+      "line": 73
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airbnb.nl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airbnb.nl",
+    "source": {
+      "list": "AIRBNB",
+      "line": 74
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airbnb.no",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airbnb.no",
+    "source": {
+      "list": "AIRBNB",
+      "line": 75
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airbnb.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airbnb.org",
+    "source": {
+      "list": "AIRBNB",
+      "line": 76
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airbnb.pl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airbnb.pl",
+    "source": {
+      "list": "AIRBNB",
+      "line": 77
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airbnb.pt",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airbnb.pt",
+    "source": {
+      "list": "AIRBNB",
+      "line": 78
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airbnb.rs",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airbnb.rs",
+    "source": {
+      "list": "AIRBNB",
+      "line": 79
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airbnb.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airbnb.ru",
+    "source": {
+      "list": "AIRBNB",
+      "line": 80
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airbnb.se",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airbnb.se",
+    "source": {
+      "list": "AIRBNB",
+      "line": 81
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airbnb.si",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airbnb.si",
+    "source": {
+      "list": "AIRBNB",
+      "line": 82
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airbnb.tools",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airbnb.tools",
+    "source": {
+      "list": "AIRBNB",
+      "line": 83
+    }
+  },
+  {
+    "type": "domain",
+    "value": "airbnb.travel",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:airbnb.travel",
+    "source": {
+      "list": "AIRBNB",
+      "line": 84
+    }
+  },
+  {
+    "type": "domain",
+    "value": "muscache.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:muscache.com",
+    "source": {
+      "list": "AIRBNB",
+      "line": 85
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vamo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vamo.com",
+    "source": {
+      "list": "AIRBNB",
+      "line": 86
+    }
+  }
+]

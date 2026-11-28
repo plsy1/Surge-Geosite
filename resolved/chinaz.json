@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "chinaz.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:chinaz.com",
+    "source": {
+      "list": "CHINAZ",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "chinaz.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:chinaz.net",
+    "source": {
+      "list": "CHINAZ",
+      "line": 2
+    }
+  }
+]

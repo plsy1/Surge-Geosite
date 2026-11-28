@@ -1,0 +1,354 @@
+[
+  {
+    "type": "domain",
+    "value": "9ineverse.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:9ineverse.com",
+    "source": {
+      "list": "MISSKEY-UNIVERSE",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "buicha.social",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:buicha.social",
+    "source": {
+      "list": "MISSKEY-UNIVERSE",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gyutte.site",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gyutte.site",
+    "source": {
+      "list": "MISSKEY-UNIVERSE",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "labo.wovs.tk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:labo.wovs.tk",
+    "source": {
+      "list": "MISSKEY-UNIVERSE",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "maniakey.homes",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:maniakey.homes",
+    "source": {
+      "list": "MISSKEY-UNIVERSE",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mfmf.club",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mfmf.club",
+    "source": {
+      "list": "MISSKEY-UNIVERSE",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mi.kochudaho.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mi.kochudaho.me",
+    "source": {
+      "list": "MISSKEY-UNIVERSE",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mi.mashiro.site",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mi.mashiro.site",
+    "source": {
+      "list": "MISSKEY-UNIVERSE",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mi.nakn.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mi.nakn.jp",
+    "source": {
+      "list": "MISSKEY-UNIVERSE",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "misskey-square.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:misskey-square.net",
+    "source": {
+      "list": "MISSKEY-UNIVERSE",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "misskey.04.si",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:misskey.04.si",
+    "source": {
+      "list": "MISSKEY-UNIVERSE",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "misskey.always-we-need.games",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:misskey.always-we-need.games",
+    "source": {
+      "list": "MISSKEY-UNIVERSE",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "misskey.art",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:misskey.art",
+    "source": {
+      "list": "MISSKEY-UNIVERSE",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "misskey.cloud",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:misskey.cloud",
+    "source": {
+      "list": "MISSKEY-UNIVERSE",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "misskey.design",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:misskey.design",
+    "source": {
+      "list": "MISSKEY-UNIVERSE",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "misskey.flowers",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:misskey.flowers",
+    "source": {
+      "list": "MISSKEY-UNIVERSE",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "misskey.gamelore.fun",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:misskey.gamelore.fun",
+    "source": {
+      "list": "MISSKEY-UNIVERSE",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "misskey.gg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:misskey.gg",
+    "source": {
+      "list": "MISSKEY-UNIVERSE",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "misskey.noellabo.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:misskey.noellabo.jp",
+    "source": {
+      "list": "MISSKEY-UNIVERSE",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "misskey.ranranhome.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:misskey.ranranhome.info",
+    "source": {
+      "list": "MISSKEY-UNIVERSE",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "misskey.stream",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:misskey.stream",
+    "source": {
+      "list": "MISSKEY-UNIVERSE",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "misskey.yukineko.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:misskey.yukineko.me",
+    "source": {
+      "list": "MISSKEY-UNIVERSE",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mk.shrimpia.network",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mk.shrimpia.network",
+    "source": {
+      "list": "MISSKEY-UNIVERSE",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mk.yopo.work",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mk.yopo.work",
+    "source": {
+      "list": "MISSKEY-UNIVERSE",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "mof.kemomi.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:mof.kemomi.me",
+    "source": {
+      "list": "MISSKEY-UNIVERSE",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "msk.ilnk.info",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:msk.ilnk.info",
+    "source": {
+      "list": "MISSKEY-UNIVERSE",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "msk.kitazawa.me",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:msk.kitazawa.me",
+    "source": {
+      "list": "MISSKEY-UNIVERSE",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nijimiss.moe",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nijimiss.moe",
+    "source": {
+      "list": "MISSKEY-UNIVERSE",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oekakiskey.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oekakiskey.com",
+    "source": {
+      "list": "MISSKEY-UNIVERSE",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "submarin.online",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:submarin.online",
+    "source": {
+      "list": "MISSKEY-UNIVERSE",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sushi.ski",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sushi.ski",
+    "source": {
+      "list": "MISSKEY-UNIVERSE",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "trpger.us",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:trpger.us",
+    "source": {
+      "list": "MISSKEY-UNIVERSE",
+      "line": 37
+    }
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "opengw.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:opengw.net",
+    "source": {
+      "list": "VPNGATE",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vpngate.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vpngate.jp",
+    "source": {
+      "list": "VPNGATE",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "vpngate.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:vpngate.net",
+    "source": {
+      "list": "VPNGATE",
+      "line": 3
+    }
+  }
+]

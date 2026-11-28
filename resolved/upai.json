@@ -1,0 +1,68 @@
+[
+  {
+    "type": "domain",
+    "value": "aicdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:aicdn.com",
+    "source": {
+      "list": "UPAI",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "oncdp.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:oncdp.com",
+    "source": {
+      "list": "UPAI",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "upai.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:upai.com",
+    "source": {
+      "list": "UPAI",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "upaiyun.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:upaiyun.com",
+    "source": {
+      "list": "UPAI",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "upcdn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:upcdn.net",
+    "source": {
+      "list": "UPAI",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "upyun.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:upyun.com",
+    "source": {
+      "list": "UPAI",
+      "line": 5
+    }
+  }
+]

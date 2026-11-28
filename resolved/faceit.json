@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "faceit-cdn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:faceit-cdn.net",
+    "source": {
+      "list": "FACEIT",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "faceit.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:faceit.com",
+    "source": {
+      "list": "FACEIT",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fce.gg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fce.gg",
+    "source": {
+      "list": "FACEIT",
+      "line": 3
+    }
+  }
+]

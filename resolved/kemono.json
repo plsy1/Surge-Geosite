@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "kemono.cr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kemono.cr",
+    "source": {
+      "list": "KEMONO",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kemono.party",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kemono.party",
+    "source": {
+      "list": "KEMONO",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kemono.su",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kemono.su",
+    "source": {
+      "list": "KEMONO",
+      "line": 3
+    }
+  }
+]

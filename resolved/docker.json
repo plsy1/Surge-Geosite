@@ -1,0 +1,68 @@
+[
+  {
+    "type": "domain",
+    "value": "compose-spec.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:compose-spec.io",
+    "source": {
+      "list": "DOCKER",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "docker.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:docker.com",
+    "source": {
+      "list": "DOCKER",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "docker.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:docker.io",
+    "source": {
+      "list": "DOCKER",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dockerstatic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dockerstatic.com",
+    "source": {
+      "list": "DOCKER",
+      "line": 4
+    }
+  },
+  {
+    "type": "full",
+    "value": "docker-images-prod.6aa30f8b08e16409b46e0173d6de2f56.r2.cloudflarestorage.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:docker-images-prod.6aa30f8b08e16409b46e0173d6de2f56.r2.cloudflarestorage.com",
+    "source": {
+      "list": "DOCKER",
+      "line": 6
+    }
+  },
+  {
+    "type": "full",
+    "value": "docker-pinata-support.s3.amazonaws.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:docker-pinata-support.s3.amazonaws.com",
+    "source": {
+      "list": "DOCKER",
+      "line": 7
+    }
+  }
+]

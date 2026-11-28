@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "userdrive.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:userdrive.org",
+    "source": {
+      "list": "USERSDRIVE",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "usersdrive.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:usersdrive.com",
+    "source": {
+      "list": "USERSDRIVE",
+      "line": 5
+    }
+  }
+]

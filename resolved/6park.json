@@ -1,0 +1,79 @@
+[
+  {
+    "type": "domain",
+    "value": "6park.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:6park.com",
+    "source": {
+      "list": "6PARK",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "6parkbbs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:6parkbbs.com",
+    "source": {
+      "list": "6PARK",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "6parknews.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:6parknews.com",
+    "source": {
+      "list": "6PARK",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cool18.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cool18.com",
+    "source": {
+      "list": "6PARK",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "parkvv.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:parkvv.com",
+    "source": {
+      "list": "6PARK",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "popo8.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:popo8.com",
+    "source": {
+      "list": "6PARK",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xwbo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xwbo.com",
+    "source": {
+      "list": "6PARK",
+      "line": 7
+    }
+  }
+]

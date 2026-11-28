@@ -1,0 +1,57 @@
+[
+  {
+    "type": "domain",
+    "value": "livehdcams.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:livehdcams.com",
+    "source": {
+      "list": "REDTUBE",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rdtcdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rdtcdn.com",
+    "source": {
+      "list": "REDTUBE",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "redtube.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:redtube.com",
+    "source": {
+      "list": "REDTUBE",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "redtube.com.br",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:redtube.com.br",
+    "source": {
+      "list": "REDTUBE",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "redtubepremium.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:redtubepremium.com",
+    "source": {
+      "list": "REDTUBE",
+      "line": 4
+    }
+  }
+]

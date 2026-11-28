@@ -1,0 +1,46 @@
+[
+  {
+    "type": "domain",
+    "value": "codeium.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:codeium.com",
+    "source": {
+      "list": "WINDSURF",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "codeiumdata.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:codeiumdata.com",
+    "source": {
+      "list": "WINDSURF",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "windsurf.build",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:windsurf.build",
+    "source": {
+      "list": "WINDSURF",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "windsurf.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:windsurf.com",
+    "source": {
+      "list": "WINDSURF",
+      "line": 4
+    }
+  }
+]

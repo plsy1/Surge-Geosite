@@ -1,0 +1,123 @@
+[
+  {
+    "type": "domain",
+    "value": "slack-core.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:slack-core.com",
+    "source": {
+      "list": "SLACK",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "slack-edge.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:slack-edge.com",
+    "source": {
+      "list": "SLACK",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "slack-files.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:slack-files.com",
+    "source": {
+      "list": "SLACK",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "slack-imgs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:slack-imgs.com",
+    "source": {
+      "list": "SLACK",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "slack-msgs.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:slack-msgs.com",
+    "source": {
+      "list": "SLACK",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "slack-redir.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:slack-redir.net",
+    "source": {
+      "list": "SLACK",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "slack.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:slack.com",
+    "source": {
+      "list": "SLACK",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "slackb.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:slackb.com",
+    "source": {
+      "list": "SLACK",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "slackcertified.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:slackcertified.com",
+    "source": {
+      "list": "SLACK",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "slackdemo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:slackdemo.com",
+    "source": {
+      "list": "SLACK",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "slackhq.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:slackhq.com",
+    "source": {
+      "list": "SLACK",
+      "line": 11
+    }
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "type": "domain",
+    "value": "baishan.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:baishan.com",
+    "source": {
+      "list": "BAISHANCLOUD",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "baishancdnx.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:baishancdnx.cn",
+    "source": {
+      "list": "BAISHANCLOUD",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "baishancloud.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:baishancloud.com",
+    "source": {
+      "list": "BAISHANCLOUD",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "bsclink.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bsclink.cn",
+    "source": {
+      "list": "BAISHANCLOUD",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "qingcdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:qingcdn.com",
+    "source": {
+      "list": "BAISHANCLOUD",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "saxyit.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:saxyit.com",
+    "source": {
+      "list": "BAISHANCLOUD",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "trpcdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:trpcdn.com",
+    "source": {
+      "list": "BAISHANCLOUD",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "trpcdn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:trpcdn.net",
+    "source": {
+      "list": "BAISHANCLOUD",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "yundun.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:yundun.com",
+    "source": {
+      "list": "BAISHANCLOUD",
+      "line": 11
+    }
+  }
+]

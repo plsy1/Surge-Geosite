@@ -1,0 +1,46 @@
+[
+  {
+    "type": "domain",
+    "value": "cityu.edu.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cityu.edu.hk",
+    "source": {
+      "list": "CITYU-HK",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cityu.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cityu.hk",
+    "source": {
+      "list": "CITYU-HK",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn----fr0b94b15d2ue8q7a1o3e.xn--wcvs22d.xn--j6w193g",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn----fr0b94b15d2ue8q7a1o3e.xn--wcvs22d.xn--j6w193g",
+    "source": {
+      "list": "CITYU-HK",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "xn--uis44a.xn--j6w193g",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:xn--uis44a.xn--j6w193g",
+    "source": {
+      "list": "CITYU-HK",
+      "line": 7
+    }
+  }
+]

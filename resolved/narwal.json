@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "narwal.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:narwal.com",
+    "source": {
+      "list": "NARWAL",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "narwaltech.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:narwaltech.com",
+    "source": {
+      "list": "NARWAL",
+      "line": 2
+    }
+  }
+]

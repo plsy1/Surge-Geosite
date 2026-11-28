@@ -1,0 +1,57 @@
+{
+  "name": "CATEGORY-ELECTRONIC-CN",
+  "source": {
+    "domain": 47,
+    "full": 0,
+    "keyword": 0,
+    "regexp": 0,
+    "include": 3,
+    "affiliations": 0,
+    "attributes": 1
+  },
+  "resolved": {
+    "rules": 97,
+    "domain": 97,
+    "full": 0,
+    "keyword": 0,
+    "regexp": 0
+  },
+  "filters": {
+    "attrs": {}
+  },
+  "modes": {
+    "strict": {
+      "rules": 97,
+      "bytes": 2506,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "balanced": {
+      "rules": 97,
+      "bytes": 2506,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "full": {
+      "rules": 97,
+      "bytes": 2506,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    }
+  }
+}

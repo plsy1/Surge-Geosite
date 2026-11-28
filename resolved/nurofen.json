@@ -1,0 +1,314 @@
+[
+  {
+    "type": "domain",
+    "value": "nurofen.at",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nurofen.at",
+    "source": {
+      "list": "NUROFEN",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nurofen.bg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nurofen.bg",
+    "source": {
+      "list": "NUROFEN",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nurofen.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:nurofen.cn:@cn",
+    "source": {
+      "list": "NUROFEN",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nurofen.co.il",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nurofen.co.il",
+    "source": {
+      "list": "NUROFEN",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nurofen.co.nz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nurofen.co.nz",
+    "source": {
+      "list": "NUROFEN",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nurofen.co.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nurofen.co.uk",
+    "source": {
+      "list": "NUROFEN",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nurofen.co.za",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nurofen.co.za",
+    "source": {
+      "list": "NUROFEN",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nurofen.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nurofen.com",
+    "source": {
+      "list": "NUROFEN",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nurofen.com.au",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nurofen.com.au",
+    "source": {
+      "list": "NUROFEN",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nurofen.com.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:nurofen.com.cn:@cn",
+    "source": {
+      "list": "NUROFEN",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nurofen.com.sg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nurofen.com.sg",
+    "source": {
+      "list": "NUROFEN",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nurofen.cz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nurofen.cz",
+    "source": {
+      "list": "NUROFEN",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nurofen.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nurofen.de",
+    "source": {
+      "list": "NUROFEN",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nurofen.es",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nurofen.es",
+    "source": {
+      "list": "NUROFEN",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nurofen.fr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nurofen.fr",
+    "source": {
+      "list": "NUROFEN",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nurofen.hr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nurofen.hr",
+    "source": {
+      "list": "NUROFEN",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nurofen.hu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nurofen.hu",
+    "source": {
+      "list": "NUROFEN",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nurofen.ie",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nurofen.ie",
+    "source": {
+      "list": "NUROFEN",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nurofen.it",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nurofen.it",
+    "source": {
+      "list": "NUROFEN",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nurofen.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nurofen.net",
+    "source": {
+      "list": "NUROFEN",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nurofen.no",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nurofen.no",
+    "source": {
+      "list": "NUROFEN",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nurofen.pl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nurofen.pl",
+    "source": {
+      "list": "NUROFEN",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nurofen.pt",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nurofen.pt",
+    "source": {
+      "list": "NUROFEN",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nurofen.ro",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nurofen.ro",
+    "source": {
+      "list": "NUROFEN",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nurofen.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nurofen.ru",
+    "source": {
+      "list": "NUROFEN",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nurofen.sk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nurofen.sk",
+    "source": {
+      "list": "NUROFEN",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "nurofengel.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:nurofengel.com",
+    "source": {
+      "list": "NUROFEN",
+      "line": 27
+    }
+  },
+  {
+    "type": "full",
+    "value": "nurofensk-prod-env.eu-west-1.elasticbeanstalk.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:nurofensk-prod-env.eu-west-1.elasticbeanstalk.com",
+    "source": {
+      "list": "NUROFEN",
+      "line": 29
+    }
+  }
+]

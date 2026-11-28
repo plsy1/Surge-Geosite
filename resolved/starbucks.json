@@ -1,0 +1,741 @@
+[
+  {
+    "type": "domain",
+    "value": "sbux.com.my",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sbux.com.my",
+    "source": {
+      "list": "STARBUCKS",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sbuxcard.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sbuxcard.com",
+    "source": {
+      "list": "STARBUCKS",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "starbucks-stars.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:starbucks-stars.com",
+    "source": {
+      "list": "STARBUCKS",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "starbucks.ad",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:starbucks.ad",
+    "source": {
+      "list": "STARBUCKS",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "starbucks.at",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:starbucks.at",
+    "source": {
+      "list": "STARBUCKS",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "starbucks.be",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:starbucks.be",
+    "source": {
+      "list": "STARBUCKS",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "starbucks.bg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:starbucks.bg",
+    "source": {
+      "list": "STARBUCKS",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "starbucks.ca",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:starbucks.ca",
+    "source": {
+      "list": "STARBUCKS",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "starbucks.ch",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:starbucks.ch",
+    "source": {
+      "list": "STARBUCKS",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "starbucks.co.id",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:starbucks.co.id",
+    "source": {
+      "list": "STARBUCKS",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "starbucks.co.jp",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:starbucks.co.jp",
+    "source": {
+      "list": "STARBUCKS",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "starbucks.co.nz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:starbucks.co.nz",
+    "source": {
+      "list": "STARBUCKS",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "starbucks.co.th",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:starbucks.co.th",
+    "source": {
+      "list": "STARBUCKS",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "starbucks.co.uk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:starbucks.co.uk",
+    "source": {
+      "list": "STARBUCKS",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "starbucks.co.za",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:starbucks.co.za",
+    "source": {
+      "list": "STARBUCKS",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "starbucks.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:starbucks.com",
+    "source": {
+      "list": "STARBUCKS",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "starbucks.com.ar",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:starbucks.com.ar",
+    "source": {
+      "list": "STARBUCKS",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "starbucks.com.bn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:starbucks.com.bn",
+    "source": {
+      "list": "STARBUCKS",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "starbucks.com.cn",
+    "attrs": [
+      "cn"
+    ],
+    "affiliations": [],
+    "plain": "domain:starbucks.com.cn:@cn",
+    "source": {
+      "list": "STARBUCKS",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "starbucks.com.co",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:starbucks.com.co",
+    "source": {
+      "list": "STARBUCKS",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "starbucks.com.cy",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:starbucks.com.cy",
+    "source": {
+      "list": "STARBUCKS",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "starbucks.com.gr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:starbucks.com.gr",
+    "source": {
+      "list": "STARBUCKS",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "starbucks.com.hk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:starbucks.com.hk",
+    "source": {
+      "list": "STARBUCKS",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "starbucks.com.kh",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:starbucks.com.kh",
+    "source": {
+      "list": "STARBUCKS",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "starbucks.com.kz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:starbucks.com.kz",
+    "source": {
+      "list": "STARBUCKS",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "starbucks.com.mx",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:starbucks.com.mx",
+    "source": {
+      "list": "STARBUCKS",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "starbucks.com.my",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:starbucks.com.my",
+    "source": {
+      "list": "STARBUCKS",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "starbucks.com.pe",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:starbucks.com.pe",
+    "source": {
+      "list": "STARBUCKS",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "starbucks.com.sg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:starbucks.com.sg",
+    "source": {
+      "list": "STARBUCKS",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "starbucks.com.tr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:starbucks.com.tr",
+    "source": {
+      "list": "STARBUCKS",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "starbucks.com.uy",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:starbucks.com.uy",
+    "source": {
+      "list": "STARBUCKS",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "starbucks.de",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:starbucks.de",
+    "source": {
+      "list": "STARBUCKS",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "starbucks.dk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:starbucks.dk",
+    "source": {
+      "list": "STARBUCKS",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "starbucks.es",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:starbucks.es",
+    "source": {
+      "list": "STARBUCKS",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "starbucks.fr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:starbucks.fr",
+    "source": {
+      "list": "STARBUCKS",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "starbucks.hu",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:starbucks.hu",
+    "source": {
+      "list": "STARBUCKS",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "starbucks.ie",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:starbucks.ie",
+    "source": {
+      "list": "STARBUCKS",
+      "line": 37
+    }
+  },
+  {
+    "type": "domain",
+    "value": "starbucks.in",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:starbucks.in",
+    "source": {
+      "list": "STARBUCKS",
+      "line": 38
+    }
+  },
+  {
+    "type": "domain",
+    "value": "starbucks.it",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:starbucks.it",
+    "source": {
+      "list": "STARBUCKS",
+      "line": 39
+    }
+  },
+  {
+    "type": "domain",
+    "value": "starbucks.nl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:starbucks.nl",
+    "source": {
+      "list": "STARBUCKS",
+      "line": 40
+    }
+  },
+  {
+    "type": "domain",
+    "value": "starbucks.no",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:starbucks.no",
+    "source": {
+      "list": "STARBUCKS",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "starbucks.ph",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:starbucks.ph",
+    "source": {
+      "list": "STARBUCKS",
+      "line": 42
+    }
+  },
+  {
+    "type": "domain",
+    "value": "starbucks.pl",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:starbucks.pl",
+    "source": {
+      "list": "STARBUCKS",
+      "line": 43
+    }
+  },
+  {
+    "type": "domain",
+    "value": "starbucks.pt",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:starbucks.pt",
+    "source": {
+      "list": "STARBUCKS",
+      "line": 44
+    }
+  },
+  {
+    "type": "domain",
+    "value": "starbucks.rs",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:starbucks.rs",
+    "source": {
+      "list": "STARBUCKS",
+      "line": 45
+    }
+  },
+  {
+    "type": "domain",
+    "value": "starbucks.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:starbucks.ru",
+    "source": {
+      "list": "STARBUCKS",
+      "line": 46
+    }
+  },
+  {
+    "type": "domain",
+    "value": "starbucks.se",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:starbucks.se",
+    "source": {
+      "list": "STARBUCKS",
+      "line": 47
+    }
+  },
+  {
+    "type": "domain",
+    "value": "starbucks.tt",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:starbucks.tt",
+    "source": {
+      "list": "STARBUCKS",
+      "line": 48
+    }
+  },
+  {
+    "type": "domain",
+    "value": "starbucks.vn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:starbucks.vn",
+    "source": {
+      "list": "STARBUCKS",
+      "line": 49
+    }
+  },
+  {
+    "type": "domain",
+    "value": "starbucksathome.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:starbucksathome.com",
+    "source": {
+      "list": "STARBUCKS",
+      "line": 50
+    }
+  },
+  {
+    "type": "domain",
+    "value": "starbucksavie.ca",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:starbucksavie.ca",
+    "source": {
+      "list": "STARBUCKS",
+      "line": 51
+    }
+  },
+  {
+    "type": "domain",
+    "value": "starbuckscard.ph",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:starbuckscard.ph",
+    "source": {
+      "list": "STARBUCKS",
+      "line": 52
+    }
+  },
+  {
+    "type": "domain",
+    "value": "starbuckscardb2b.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:starbuckscardb2b.com",
+    "source": {
+      "list": "STARBUCKS",
+      "line": 53
+    }
+  },
+  {
+    "type": "domain",
+    "value": "starbuckscoffee.cz",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:starbuckscoffee.cz",
+    "source": {
+      "list": "STARBUCKS",
+      "line": 54
+    }
+  },
+  {
+    "type": "domain",
+    "value": "starbuckscoffeegear.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:starbuckscoffeegear.com",
+    "source": {
+      "list": "STARBUCKS",
+      "line": 55
+    }
+  },
+  {
+    "type": "domain",
+    "value": "starbuckscoffeegearstore.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:starbuckscoffeegearstore.com",
+    "source": {
+      "list": "STARBUCKS",
+      "line": 56
+    }
+  },
+  {
+    "type": "domain",
+    "value": "starbucksforlife.ca",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:starbucksforlife.ca",
+    "source": {
+      "list": "STARBUCKS",
+      "line": 57
+    }
+  },
+  {
+    "type": "domain",
+    "value": "starbucksforlife.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:starbucksforlife.com",
+    "source": {
+      "list": "STARBUCKS",
+      "line": 58
+    }
+  },
+  {
+    "type": "domain",
+    "value": "starbuckspoq.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:starbuckspoq.com",
+    "source": {
+      "list": "STARBUCKS",
+      "line": 59
+    }
+  },
+  {
+    "type": "domain",
+    "value": "starbucksreserve.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:starbucksreserve.com",
+    "source": {
+      "list": "STARBUCKS",
+      "line": 60
+    }
+  },
+  {
+    "type": "domain",
+    "value": "starbucksrewardsstarland.ca",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:starbucksrewardsstarland.ca",
+    "source": {
+      "list": "STARBUCKS",
+      "line": 61
+    }
+  },
+  {
+    "type": "domain",
+    "value": "starbucksrewardsstarland.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:starbucksrewardsstarland.com",
+    "source": {
+      "list": "STARBUCKS",
+      "line": 62
+    }
+  },
+  {
+    "type": "domain",
+    "value": "starbucksromania.ro",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:starbucksromania.ro",
+    "source": {
+      "list": "STARBUCKS",
+      "line": 63
+    }
+  },
+  {
+    "type": "domain",
+    "value": "starbucksrtd.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:starbucksrtd.com",
+    "source": {
+      "list": "STARBUCKS",
+      "line": 64
+    }
+  },
+  {
+    "type": "domain",
+    "value": "starbucksslovakia.sk",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:starbucksslovakia.sk",
+    "source": {
+      "list": "STARBUCKS",
+      "line": 65
+    }
+  },
+  {
+    "type": "domain",
+    "value": "starbuckssummergame.ca",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:starbuckssummergame.ca",
+    "source": {
+      "list": "STARBUCKS",
+      "line": 66
+    }
+  },
+  {
+    "type": "domain",
+    "value": "starbuckssummergame.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:starbuckssummergame.com",
+    "source": {
+      "list": "STARBUCKS",
+      "line": 67
+    }
+  }
+]

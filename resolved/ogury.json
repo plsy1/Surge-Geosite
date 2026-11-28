@@ -1,0 +1,41 @@
+[
+  {
+    "type": "domain",
+    "value": "ogury.co",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:ogury.co:@ads",
+    "source": {
+      "list": "OGURY",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ogury.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:ogury.com:@ads",
+    "source": {
+      "list": "OGURY",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "presage.io",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:presage.io:@ads",
+    "source": {
+      "list": "OGURY",
+      "line": 3
+    }
+  }
+]

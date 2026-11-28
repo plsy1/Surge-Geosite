@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "tube8.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tube8.com",
+    "source": {
+      "list": "TUBE8",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "tube8.fr",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:tube8.fr",
+    "source": {
+      "list": "TUBE8",
+      "line": 2
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "sciencedirect.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sciencedirect.com",
+    "source": {
+      "list": "SCIENCEDIRECT",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sciencedirectassets.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sciencedirectassets.com",
+    "source": {
+      "list": "SCIENCEDIRECT",
+      "line": 2
+    }
+  }
+]

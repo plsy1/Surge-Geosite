@@ -1,0 +1,24 @@
+[
+  {
+    "type": "domain",
+    "value": "citizenlab.ca",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:citizenlab.ca",
+    "source": {
+      "list": "CITIZENLAB",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "citizenlab.org",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:citizenlab.org",
+    "source": {
+      "list": "CITIZENLAB",
+      "line": 2
+    }
+  }
+]

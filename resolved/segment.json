@@ -1,0 +1,54 @@
+[
+  {
+    "type": "domain",
+    "value": "segment.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:segment.com:@ads",
+    "source": {
+      "list": "SEGMENT",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "segment.io",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:segment.io:@ads",
+    "source": {
+      "list": "SEGMENT",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "segmenthub.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:segmenthub.com:@ads",
+    "source": {
+      "list": "SEGMENT",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "segmentify.com",
+    "attrs": [
+      "ads"
+    ],
+    "affiliations": [],
+    "plain": "domain:segmentify.com:@ads",
+    "source": {
+      "list": "SEGMENT",
+      "line": 4
+    }
+  }
+]

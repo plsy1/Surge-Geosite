@@ -1,0 +1,68 @@
+[
+  {
+    "type": "domain",
+    "value": "glitchwave.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:glitchwave.com",
+    "source": {
+      "list": "SONEMIC",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rateyourmusic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rateyourmusic.com",
+    "source": {
+      "list": "SONEMIC",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "rym.fm",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:rym.fm",
+    "source": {
+      "list": "SONEMIC",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "snmc.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:snmc.io",
+    "source": {
+      "list": "SONEMIC",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sonematic.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sonematic.net",
+    "source": {
+      "list": "SONEMIC",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sonemic.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sonemic.com",
+    "source": {
+      "list": "SONEMIC",
+      "line": 15
+    }
+  }
+]

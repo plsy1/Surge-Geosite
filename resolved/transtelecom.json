@@ -1,0 +1,90 @@
+[
+  {
+    "type": "domain",
+    "value": "baikal-ttk.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:baikal-ttk.ru",
+    "source": {
+      "list": "TRANSTELECOM",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "kttk.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:kttk.ru",
+    "source": {
+      "list": "TRANSTELECOM",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "myttk.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:myttk.ru",
+    "source": {
+      "list": "TRANSTELECOM",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "sakhttk.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:sakhttk.ru",
+    "source": {
+      "list": "TRANSTELECOM",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ttc-net.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ttc-net.ru",
+    "source": {
+      "list": "TRANSTELECOM",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ttk.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ttk.ru",
+    "source": {
+      "list": "TRANSTELECOM",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ttkdv.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ttkdv.ru",
+    "source": {
+      "list": "TRANSTELECOM",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "zsttk.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:zsttk.net",
+    "source": {
+      "list": "TRANSTELECOM",
+      "line": 8
+    }
+  }
+]

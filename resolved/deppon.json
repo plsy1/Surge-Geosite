@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "deppon.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:deppon.com",
+    "source": {
+      "list": "DEPPON",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "deppon.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:deppon.com.cn",
+    "source": {
+      "list": "DEPPON",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "dpma.cc",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:dpma.cc",
+    "source": {
+      "list": "DEPPON",
+      "line": 5
+    }
+  }
+]

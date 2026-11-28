@@ -1,0 +1,739 @@
+[
+  {
+    "type": "domain",
+    "value": "bjctyiptv.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:bjctyiptv.cn",
+    "source": {
+      "list": "CTYUN",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cqctyiptv.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cqctyiptv.cn",
+    "source": {
+      "list": "CTYUN",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ctacdn.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ctacdn.cn",
+    "source": {
+      "list": "CTYUN",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ctadns.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ctadns.cn",
+    "source": {
+      "list": "CTYUN",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ctaigw.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ctaigw.cn",
+    "source": {
+      "list": "CTYUN",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ctbcdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ctbcdn.com",
+    "source": {
+      "list": "CTYUN",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ctcdn.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ctcdn.cn",
+    "source": {
+      "list": "CTYUN",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ctcdn.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ctcdn.com.cn",
+    "source": {
+      "list": "CTYUN",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ctcdnov.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ctcdnov.net",
+    "source": {
+      "list": "CTYUN",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ctcloudzos.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ctcloudzos.cn",
+    "source": {
+      "list": "CTYUN",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ctcns.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ctcns.cn",
+    "source": {
+      "list": "CTYUN",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ctdcdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ctdcdn.com",
+    "source": {
+      "list": "CTYUN",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ctdns.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ctdns.cn",
+    "source": {
+      "list": "CTYUN",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ctdns.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ctdns.com.cn",
+    "source": {
+      "list": "CTYUN",
+      "line": 16
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ctdns.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ctdns.net",
+    "source": {
+      "list": "CTYUN",
+      "line": 17
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ctecdn.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ctecdn.cn",
+    "source": {
+      "list": "CTYUN",
+      "line": 18
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ctecx.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ctecx.cn",
+    "source": {
+      "list": "CTYUN",
+      "line": 19
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ctgcdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ctgcdn.com",
+    "source": {
+      "list": "CTYUN",
+      "line": 20
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cthcdn.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cthcdn.cn",
+    "source": {
+      "list": "CTYUN",
+      "line": 21
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cthcdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cthcdn.com",
+    "source": {
+      "list": "CTYUN",
+      "line": 22
+    }
+  },
+  {
+    "type": "domain",
+    "value": "cthcdn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:cthcdn.net",
+    "source": {
+      "list": "CTYUN",
+      "line": 23
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ctlcdn.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ctlcdn.cn",
+    "source": {
+      "list": "CTYUN",
+      "line": 24
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ctlcdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ctlcdn.com",
+    "source": {
+      "list": "CTYUN",
+      "line": 25
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ctlcdn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ctlcdn.net",
+    "source": {
+      "list": "CTYUN",
+      "line": 26
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ctmcdn.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ctmcdn.cn",
+    "source": {
+      "list": "CTYUN",
+      "line": 27
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ctovcdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ctovcdn.com",
+    "source": {
+      "list": "CTYUN",
+      "line": 28
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ctrender.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ctrender.com",
+    "source": {
+      "list": "CTYUN",
+      "line": 29
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ctwcdn.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ctwcdn.cn",
+    "source": {
+      "list": "CTYUN",
+      "line": 30
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ctxcdn.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ctxcdn.cn",
+    "source": {
+      "list": "CTYUN",
+      "line": 31
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ctxcdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ctxcdn.com",
+    "source": {
+      "list": "CTYUN",
+      "line": 32
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ctxcdn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ctxcdn.net",
+    "source": {
+      "list": "CTYUN",
+      "line": 33
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ctxirang.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ctxirang.cn",
+    "source": {
+      "list": "CTYUN",
+      "line": 34
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ctxirang.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ctxirang.com",
+    "source": {
+      "list": "CTYUN",
+      "line": 35
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ctycdn.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ctycdn.cn",
+    "source": {
+      "list": "CTYUN",
+      "line": 36
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ctycdn.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ctycdn.net",
+    "source": {
+      "list": "CTYUN",
+      "line": 37
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ctycdn.net.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ctycdn.net.cn",
+    "source": {
+      "list": "CTYUN",
+      "line": 38
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ctydoh.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ctydoh.cn",
+    "source": {
+      "list": "CTYUN",
+      "line": 39
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ctyecx.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ctyecx.cn",
+    "source": {
+      "list": "CTYUN",
+      "line": 40
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ctyiptv.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ctyiptv.cn",
+    "source": {
+      "list": "CTYUN",
+      "line": 41
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ctyun.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ctyun.cn",
+    "source": {
+      "list": "CTYUN",
+      "line": 42
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ctyun.com.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ctyun.com.cn",
+    "source": {
+      "list": "CTYUN",
+      "line": 43
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ctyuncdn.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ctyuncdn.cn",
+    "source": {
+      "list": "CTYUN",
+      "line": 44
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ctyuncs.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ctyuncs.cn",
+    "source": {
+      "list": "CTYUN",
+      "line": 45
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ctyuninner.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ctyuninner.com",
+    "source": {
+      "list": "CTYUN",
+      "line": 46
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ctyunmds.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ctyunmds.cn",
+    "source": {
+      "list": "CTYUN",
+      "line": 47
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ctyunwaf.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ctyunwaf.cn",
+    "source": {
+      "list": "CTYUN",
+      "line": 48
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ctyunwaf.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ctyunwaf.com",
+    "source": {
+      "list": "CTYUN",
+      "line": 49
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ctyunwaf1.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ctyunwaf1.com",
+    "source": {
+      "list": "CTYUN",
+      "line": 50
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ctyunwaf3.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ctyunwaf3.cn",
+    "source": {
+      "list": "CTYUN",
+      "line": 51
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ctyunxs.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ctyunxs.cn",
+    "source": {
+      "list": "CTYUN",
+      "line": 52
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ctyunzos.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ctyunzos.cn",
+    "source": {
+      "list": "CTYUN",
+      "line": 53
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ctzcdn.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ctzcdn.cn",
+    "source": {
+      "list": "CTYUN",
+      "line": 54
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ctzcdn.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ctzcdn.com",
+    "source": {
+      "list": "CTYUN",
+      "line": 55
+    }
+  },
+  {
+    "type": "domain",
+    "value": "edgecloudx.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:edgecloudx.cn",
+    "source": {
+      "list": "CTYUN",
+      "line": 56
+    }
+  },
+  {
+    "type": "domain",
+    "value": "faasapp.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:faasapp.cn",
+    "source": {
+      "list": "CTYUN",
+      "line": 57
+    }
+  },
+  {
+    "type": "domain",
+    "value": "faasdev.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:faasdev.cn",
+    "source": {
+      "list": "CTYUN",
+      "line": 58
+    }
+  },
+  {
+    "type": "domain",
+    "value": "fjctyiptv.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:fjctyiptv.cn",
+    "source": {
+      "list": "CTYUN",
+      "line": 59
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gdctyiptv.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gdctyiptv.cn",
+    "source": {
+      "list": "CTYUN",
+      "line": 60
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gsctyiptv.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gsctyiptv.cn",
+    "source": {
+      "list": "CTYUN",
+      "line": 61
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gsjtyiptv.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gsjtyiptv.cn",
+    "source": {
+      "list": "CTYUN",
+      "line": 62
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gzctyiptv.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gzctyiptv.cn",
+    "source": {
+      "list": "CTYUN",
+      "line": 63
+    }
+  },
+  {
+    "type": "domain",
+    "value": "jsctyiptv.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:jsctyiptv.cn",
+    "source": {
+      "list": "CTYUN",
+      "line": 64
+    }
+  },
+  {
+    "type": "domain",
+    "value": "modelers.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:modelers.cn",
+    "source": {
+      "list": "CTYUN",
+      "line": 65
+    }
+  },
+  {
+    "type": "domain",
+    "value": "scctyiptv.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:scctyiptv.cn",
+    "source": {
+      "list": "CTYUN",
+      "line": 66
+    }
+  },
+  {
+    "type": "domain",
+    "value": "snctyiptv.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:snctyiptv.cn",
+    "source": {
+      "list": "CTYUN",
+      "line": 67
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ynctyiptv.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ynctyiptv.cn",
+    "source": {
+      "list": "CTYUN",
+      "line": 68
+    }
+  },
+  {
+    "type": "domain",
+    "value": "ynjtyiptv.cn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ynjtyiptv.cn",
+    "source": {
+      "list": "CTYUN",
+      "line": 69
+    }
+  }
+]

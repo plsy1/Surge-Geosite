@@ -1,0 +1,60 @@
+{
+  "name": "APPLE",
+  "source": {
+    "domain": 685,
+    "full": 168,
+    "keyword": 0,
+    "regexp": 0,
+    "include": 9,
+    "affiliations": 0,
+    "attributes": 209
+  },
+  "resolved": {
+    "rules": 1661,
+    "domain": 1411,
+    "full": 250,
+    "keyword": 0,
+    "regexp": 0
+  },
+  "filters": {
+    "attrs": {
+      "ads": 5,
+      "cn": 302
+    }
+  },
+  "modes": {
+    "strict": {
+      "rules": 1661,
+      "bytes": 53079,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "balanced": {
+      "rules": 1661,
+      "bytes": 53079,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    },
+    "full": {
+      "rules": 1661,
+      "bytes": 53079,
+      "regex": {
+        "total": 0,
+        "lossless": 0,
+        "widened": 0,
+        "unsupported": 0
+      },
+      "unsupported": []
+    }
+  }
+}

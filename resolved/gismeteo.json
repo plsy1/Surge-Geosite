@@ -1,0 +1,79 @@
+[
+  {
+    "type": "domain",
+    "value": "gismeteo.by",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gismeteo.by",
+    "source": {
+      "list": "GISMETEO",
+      "line": 1
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gismeteo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gismeteo.com",
+    "source": {
+      "list": "GISMETEO",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gismeteo.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gismeteo.net",
+    "source": {
+      "list": "GISMETEO",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gismeteo.ru",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gismeteo.ru",
+    "source": {
+      "list": "GISMETEO",
+      "line": 4
+    }
+  },
+  {
+    "type": "domain",
+    "value": "gismeteo.st",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:gismeteo.st",
+    "source": {
+      "list": "GISMETEO",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "meteofor.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:meteofor.com",
+    "source": {
+      "list": "GISMETEO",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "meteofor.st",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:meteofor.st",
+    "source": {
+      "list": "GISMETEO",
+      "line": 9
+    }
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "type": "domain",
+    "value": "ptzwx.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:ptzwx.com",
+    "source": {
+      "list": "CATEGORY-NOVEL",
+      "line": 2
+    }
+  },
+  {
+    "type": "domain",
+    "value": "quanben-xiaoshuo.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:quanben-xiaoshuo.com",
+    "source": {
+      "list": "CATEGORY-NOVEL",
+      "line": 3
+    }
+  },
+  {
+    "type": "domain",
+    "value": "quanben.io",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:quanben.io",
+    "source": {
+      "list": "CATEGORY-NOVEL",
+      "line": 4
+    }
+  }
+]

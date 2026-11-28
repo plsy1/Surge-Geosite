@@ -1,0 +1,178 @@
+[
+  {
+    "type": "domain",
+    "value": "garena.co.id",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:garena.co.id",
+    "source": {
+      "list": "GARENA",
+      "line": 5
+    }
+  },
+  {
+    "type": "domain",
+    "value": "garena.co.th",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:garena.co.th",
+    "source": {
+      "list": "GARENA",
+      "line": 6
+    }
+  },
+  {
+    "type": "domain",
+    "value": "garena.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:garena.com",
+    "source": {
+      "list": "GARENA",
+      "line": 7
+    }
+  },
+  {
+    "type": "domain",
+    "value": "garena.live",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:garena.live",
+    "source": {
+      "list": "GARENA",
+      "line": 8
+    }
+  },
+  {
+    "type": "domain",
+    "value": "garena.my",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:garena.my",
+    "source": {
+      "list": "GARENA",
+      "line": 9
+    }
+  },
+  {
+    "type": "domain",
+    "value": "garena.ph",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:garena.ph",
+    "source": {
+      "list": "GARENA",
+      "line": 10
+    }
+  },
+  {
+    "type": "domain",
+    "value": "garena.sg",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:garena.sg",
+    "source": {
+      "list": "GARENA",
+      "line": 11
+    }
+  },
+  {
+    "type": "domain",
+    "value": "garena.tv",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:garena.tv",
+    "source": {
+      "list": "GARENA",
+      "line": 12
+    }
+  },
+  {
+    "type": "domain",
+    "value": "garena.tw",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:garena.tw",
+    "source": {
+      "list": "GARENA",
+      "line": 13
+    }
+  },
+  {
+    "type": "domain",
+    "value": "garena.vn",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:garena.vn",
+    "source": {
+      "list": "GARENA",
+      "line": 14
+    }
+  },
+  {
+    "type": "domain",
+    "value": "garenanow.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:garenanow.com",
+    "source": {
+      "list": "GARENA",
+      "line": 15
+    }
+  },
+  {
+    "type": "domain",
+    "value": "seagroup.com",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "domain:seagroup.com",
+    "source": {
+      "list": "GARENA",
+      "line": 16
+    }
+  },
+  {
+    "type": "full",
+    "value": "avatargarenanow-a.akamaihd.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:avatargarenanow-a.akamaihd.net",
+    "source": {
+      "list": "GARENA",
+      "line": 1
+    }
+  },
+  {
+    "type": "full",
+    "value": "cdngarenanow-a.akamaihd.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:cdngarenanow-a.akamaihd.net",
+    "source": {
+      "list": "GARENA",
+      "line": 2
+    }
+  },
+  {
+    "type": "full",
+    "value": "dlgarenanow-a.akamaihd.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:dlgarenanow-a.akamaihd.net",
+    "source": {
+      "list": "GARENA",
+      "line": 3
+    }
+  },
+  {
+    "type": "full",
+    "value": "dlmobilegarena-a.akamaihd.net",
+    "attrs": [],
+    "affiliations": [],
+    "plain": "full:dlmobilegarena-a.akamaihd.net",
+    "source": {
+      "list": "GARENA",
+      "line": 4
+    }
+  }
+]
